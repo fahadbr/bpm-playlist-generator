@@ -1,0 +1,437 @@
+[
+  {
+    "id": "2NDXdxZjbm5EbbEEDSKXQV",
+    "name": "Summer Knights",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 92.513,
+    "features": [
+      {
+        "danceability": 0.485,
+        "energy": 0.596,
+        "key": 5,
+        "loudness": -7.734,
+        "mode": 0,
+        "speechiness": 0.11,
+        "acousticness": 0.513,
+        "instrumentalness": 1.56e-05,
+        "liveness": 0.239,
+        "valence": 0.458,
+        "tempo": 92.513,
+        "type": "audio_features",
+        "id": "2NDXdxZjbm5EbbEEDSKXQV",
+        "uri": "spotify:track:2NDXdxZjbm5EbbEEDSKXQV",
+        "track_href": "https://api.spotify.com/v1/tracks/2NDXdxZjbm5EbbEEDSKXQV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2NDXdxZjbm5EbbEEDSKXQV",
+        "duration_ms": 116051,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3AM2ihc5RFzbC47eCpTg2I",
+    "name": "Waves",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 89.947,
+    "features": [
+      {
+        "danceability": 0.733,
+        "energy": 0.912,
+        "key": 8,
+        "loudness": -3.239,
+        "mode": 0,
+        "speechiness": 0.223,
+        "acousticness": 0.223,
+        "instrumentalness": 0,
+        "liveness": 0.206,
+        "valence": 0.888,
+        "tempo": 89.947,
+        "type": "audio_features",
+        "id": "3AM2ihc5RFzbC47eCpTg2I",
+        "uri": "spotify:track:3AM2ihc5RFzbC47eCpTg2I",
+        "track_href": "https://api.spotify.com/v1/tracks/3AM2ihc5RFzbC47eCpTg2I",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3AM2ihc5RFzbC47eCpTg2I",
+        "duration_ms": 211631,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "18Y3zi59zjRVUEjUhdApSX",
+    "name": "FromdaTomb$",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 92.457,
+    "features": [
+      {
+        "danceability": 0.59,
+        "energy": 0.916,
+        "key": 10,
+        "loudness": -4.541,
+        "mode": 0,
+        "speechiness": 0.323,
+        "acousticness": 0.195,
+        "instrumentalness": 0,
+        "liveness": 0.153,
+        "valence": 0.548,
+        "tempo": 92.457,
+        "type": "audio_features",
+        "id": "18Y3zi59zjRVUEjUhdApSX",
+        "uri": "spotify:track:18Y3zi59zjRVUEjUhdApSX",
+        "track_href": "https://api.spotify.com/v1/tracks/18Y3zi59zjRVUEjUhdApSX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/18Y3zi59zjRVUEjUhdApSX",
+        "duration_ms": 204866,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4pNT8XTKWb2vhcsqwzdXCT",
+    "name": "Survival Tactics",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 199.946,
+    "features": [
+      {
+        "danceability": 0.53,
+        "energy": 0.843,
+        "key": 1,
+        "loudness": -2.271,
+        "mode": 1,
+        "speechiness": 0.39,
+        "acousticness": 0.428,
+        "instrumentalness": 0,
+        "liveness": 0.164,
+        "valence": 0.919,
+        "tempo": 199.946,
+        "type": "audio_features",
+        "id": "4pNT8XTKWb2vhcsqwzdXCT",
+        "uri": "spotify:track:4pNT8XTKWb2vhcsqwzdXCT",
+        "track_href": "https://api.spotify.com/v1/tracks/4pNT8XTKWb2vhcsqwzdXCT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4pNT8XTKWb2vhcsqwzdXCT",
+        "duration_ms": 202785,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2PxwwqB4f9x72jbw6AgR1s",
+    "name": "Killuminati",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 87.15,
+    "features": [
+      {
+        "danceability": 0.607,
+        "energy": 0.838,
+        "key": 11,
+        "loudness": -3.064,
+        "mode": 0,
+        "speechiness": 0.141,
+        "acousticness": 0.435,
+        "instrumentalness": 0,
+        "liveness": 0.113,
+        "valence": 0.877,
+        "tempo": 87.15,
+        "type": "audio_features",
+        "id": "2PxwwqB4f9x72jbw6AgR1s",
+        "uri": "spotify:track:2PxwwqB4f9x72jbw6AgR1s",
+        "track_href": "https://api.spotify.com/v1/tracks/2PxwwqB4f9x72jbw6AgR1s",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2PxwwqB4f9x72jbw6AgR1s",
+        "duration_ms": 153740,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3QbsrWxq3JyNov94VzbNdB",
+    "name": "Hardknock",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 81.97,
+    "features": [
+      {
+        "danceability": 0.639,
+        "energy": 0.894,
+        "key": 7,
+        "loudness": -2.047,
+        "mode": 0,
+        "speechiness": 0.272,
+        "acousticness": 0.0892,
+        "instrumentalness": 0,
+        "liveness": 0.881,
+        "valence": 0.535,
+        "tempo": 81.97,
+        "type": "audio_features",
+        "id": "3QbsrWxq3JyNov94VzbNdB",
+        "uri": "spotify:track:3QbsrWxq3JyNov94VzbNdB",
+        "track_href": "https://api.spotify.com/v1/tracks/3QbsrWxq3JyNov94VzbNdB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3QbsrWxq3JyNov94VzbNdB",
+        "duration_ms": 318375,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1W4qc7UnAuRmT93W8Ad1t1",
+    "name": "World Domination",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 79.394,
+    "features": [
+      {
+        "danceability": 0.451,
+        "energy": 0.943,
+        "key": 1,
+        "loudness": -1.598,
+        "mode": 1,
+        "speechiness": 0.273,
+        "acousticness": 0.174,
+        "instrumentalness": 0.455,
+        "liveness": 0.151,
+        "valence": 0.911,
+        "tempo": 79.394,
+        "type": "audio_features",
+        "id": "1W4qc7UnAuRmT93W8Ad1t1",
+        "uri": "spotify:track:1W4qc7UnAuRmT93W8Ad1t1",
+        "track_href": "https://api.spotify.com/v1/tracks/1W4qc7UnAuRmT93W8Ad1t1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1W4qc7UnAuRmT93W8Ad1t1",
+        "duration_ms": 162761,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2miKV8OiAhmZPjhCzgRnvw",
+    "name": "Pennyroyal",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 93.485,
+    "features": [
+      {
+        "danceability": 0.748,
+        "energy": 0.834,
+        "key": 11,
+        "loudness": -2.272,
+        "mode": 0,
+        "speechiness": 0.112,
+        "acousticness": 0.0577,
+        "instrumentalness": 0,
+        "liveness": 0.102,
+        "valence": 0.918,
+        "tempo": 93.485,
+        "type": "audio_features",
+        "id": "2miKV8OiAhmZPjhCzgRnvw",
+        "uri": "spotify:track:2miKV8OiAhmZPjhCzgRnvw",
+        "track_href": "https://api.spotify.com/v1/tracks/2miKV8OiAhmZPjhCzgRnvw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2miKV8OiAhmZPjhCzgRnvw",
+        "duration_ms": 169796,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1rZvU5sb2E8LuJTAqEdAiw",
+    "name": "Funky Ho'$",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 173.78,
+    "features": [
+      {
+        "danceability": 0.686,
+        "energy": 0.692,
+        "key": 0,
+        "loudness": -5.573,
+        "mode": 0,
+        "speechiness": 0.323,
+        "acousticness": 0.482,
+        "instrumentalness": 0,
+        "liveness": 0.169,
+        "valence": 0.649,
+        "tempo": 173.78,
+        "type": "audio_features",
+        "id": "1rZvU5sb2E8LuJTAqEdAiw",
+        "uri": "spotify:track:1rZvU5sb2E8LuJTAqEdAiw",
+        "track_href": "https://api.spotify.com/v1/tracks/1rZvU5sb2E8LuJTAqEdAiw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1rZvU5sb2E8LuJTAqEdAiw",
+        "duration_ms": 269357,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7fMG4HNSKzBFKthjmeW8LU",
+    "name": "Daily Routine",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 81.343,
+    "features": [
+      {
+        "danceability": 0.665,
+        "energy": 0.531,
+        "key": 1,
+        "loudness": -8.577,
+        "mode": 1,
+        "speechiness": 0.298,
+        "acousticness": 0.261,
+        "instrumentalness": 1.97e-06,
+        "liveness": 0.111,
+        "valence": 0.539,
+        "tempo": 81.343,
+        "type": "audio_features",
+        "id": "7fMG4HNSKzBFKthjmeW8LU",
+        "uri": "spotify:track:7fMG4HNSKzBFKthjmeW8LU",
+        "track_href": "https://api.spotify.com/v1/tracks/7fMG4HNSKzBFKthjmeW8LU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7fMG4HNSKzBFKthjmeW8LU",
+        "duration_ms": 177960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3dkLUA4zs07CnhchRuRV6J",
+    "name": "Snakes",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 82.147,
+    "features": [
+      {
+        "danceability": 0.529,
+        "energy": 0.669,
+        "key": 1,
+        "loudness": -4.653,
+        "mode": 1,
+        "speechiness": 0.337,
+        "acousticness": 0.823,
+        "instrumentalness": 0,
+        "liveness": 0.11,
+        "valence": 0.797,
+        "tempo": 82.147,
+        "type": "audio_features",
+        "id": "3dkLUA4zs07CnhchRuRV6J",
+        "uri": "spotify:track:3dkLUA4zs07CnhchRuRV6J",
+        "track_href": "https://api.spotify.com/v1/tracks/3dkLUA4zs07CnhchRuRV6J",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3dkLUA4zs07CnhchRuRV6J",
+        "duration_ms": 259439,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "24TUPoKOVqKT1hZHV63FUV",
+    "name": "Don't Front",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 94.51,
+    "features": [
+      {
+        "danceability": 0.613,
+        "energy": 0.808,
+        "key": 2,
+        "loudness": -6.078,
+        "mode": 1,
+        "speechiness": 0.248,
+        "acousticness": 0.381,
+        "instrumentalness": 0,
+        "liveness": 0.262,
+        "valence": 0.736,
+        "tempo": 94.51,
+        "type": "audio_features",
+        "id": "24TUPoKOVqKT1hZHV63FUV",
+        "uri": "spotify:track:24TUPoKOVqKT1hZHV63FUV",
+        "track_href": "https://api.spotify.com/v1/tracks/24TUPoKOVqKT1hZHV63FUV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/24TUPoKOVqKT1hZHV63FUV",
+        "duration_ms": 261670,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7dFGkZbmm6cVlI28bfMaWE",
+    "name": "Righteous Minds",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 94.893,
+    "features": [
+      {
+        "danceability": 0.809,
+        "energy": 0.638,
+        "key": 8,
+        "loudness": -5.646,
+        "mode": 0,
+        "speechiness": 0.28,
+        "acousticness": 0.262,
+        "instrumentalness": 0,
+        "liveness": 0.453,
+        "valence": 0.608,
+        "tempo": 94.893,
+        "type": "audio_features",
+        "id": "7dFGkZbmm6cVlI28bfMaWE",
+        "uri": "spotify:track:7dFGkZbmm6cVlI28bfMaWE",
+        "track_href": "https://api.spotify.com/v1/tracks/7dFGkZbmm6cVlI28bfMaWE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7dFGkZbmm6cVlI28bfMaWE",
+        "duration_ms": 224043,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4rkfCWtPe63QU1HXsVTcpc",
+    "name": "Where It'$ At?",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 80.351,
+    "features": [
+      {
+        "danceability": 0.723,
+        "energy": 0.661,
+        "key": 10,
+        "loudness": -5.292,
+        "mode": 0,
+        "speechiness": 0.423,
+        "acousticness": 0.82,
+        "instrumentalness": 0,
+        "liveness": 0.102,
+        "valence": 0.859,
+        "tempo": 80.351,
+        "type": "audio_features",
+        "id": "4rkfCWtPe63QU1HXsVTcpc",
+        "uri": "spotify:track:4rkfCWtPe63QU1HXsVTcpc",
+        "track_href": "https://api.spotify.com/v1/tracks/4rkfCWtPe63QU1HXsVTcpc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4rkfCWtPe63QU1HXsVTcpc",
+        "duration_ms": 248838,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "046k0tkM8kI1D1UbmSsIsW",
+    "name": "Third Eye Sh*t",
+    "artist": "Joey Bada$$",
+    "album": "1999",
+    "bpm": 128.945,
+    "features": [
+      {
+        "danceability": 0.612,
+        "energy": 0.665,
+        "key": 2,
+        "loudness": -5.998,
+        "mode": 0,
+        "speechiness": 0.412,
+        "acousticness": 0.62,
+        "instrumentalness": 0,
+        "liveness": 0.104,
+        "valence": 0.722,
+        "tempo": 128.945,
+        "type": "audio_features",
+        "id": "046k0tkM8kI1D1UbmSsIsW",
+        "uri": "spotify:track:046k0tkM8kI1D1UbmSsIsW",
+        "track_href": "https://api.spotify.com/v1/tracks/046k0tkM8kI1D1UbmSsIsW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/046k0tkM8kI1D1UbmSsIsW",
+        "duration_ms": 706612,
+        "time_signature": 3
+      }
+    ]
+  }
+]

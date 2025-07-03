@@ -1,0 +1,205 @@
+[
+  {
+    "id": "5FYu8uBB6E11mepU601601",
+    "name": "Not For Radio",
+    "artist": "Nas",
+    "album": "NASIR",
+    "bpm": 96.284,
+    "features": [
+      {
+        "danceability": 0.494,
+        "energy": 0.803,
+        "key": 11,
+        "loudness": -5.108,
+        "mode": 0,
+        "speechiness": 0.411,
+        "acousticness": 0.0671,
+        "instrumentalness": 0,
+        "liveness": 0.176,
+        "valence": 0.453,
+        "tempo": 96.284,
+        "type": "audio_features",
+        "id": "5FYu8uBB6E11mepU601601",
+        "uri": "spotify:track:5FYu8uBB6E11mepU601601",
+        "track_href": "https://api.spotify.com/v1/tracks/5FYu8uBB6E11mepU601601",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5FYu8uBB6E11mepU601601",
+        "duration_ms": 202515,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "1vi9adPJiD4d22ybGp25hy",
+    "name": "Cops Shot The Kid",
+    "artist": "Nas",
+    "album": "NASIR",
+    "bpm": 205.116,
+    "features": [
+      {
+        "danceability": 0.442,
+        "energy": 0.71,
+        "key": 7,
+        "loudness": -5.142,
+        "mode": 1,
+        "speechiness": 0.684,
+        "acousticness": 0.0264,
+        "instrumentalness": 0,
+        "liveness": 0.618,
+        "valence": 0.508,
+        "tempo": 205.116,
+        "type": "audio_features",
+        "id": "1vi9adPJiD4d22ybGp25hy",
+        "uri": "spotify:track:1vi9adPJiD4d22ybGp25hy",
+        "track_href": "https://api.spotify.com/v1/tracks/1vi9adPJiD4d22ybGp25hy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1vi9adPJiD4d22ybGp25hy",
+        "duration_ms": 167908,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5JoUwqXt9IPLbiJ6pXwarL",
+    "name": "White Label",
+    "artist": "Nas",
+    "album": "NASIR",
+    "bpm": 75.505,
+    "features": [
+      {
+        "danceability": 0.565,
+        "energy": 0.717,
+        "key": 11,
+        "loudness": -4.455,
+        "mode": 0,
+        "speechiness": 0.331,
+        "acousticness": 0.475,
+        "instrumentalness": 0,
+        "liveness": 0.193,
+        "valence": 0.341,
+        "tempo": 75.505,
+        "type": "audio_features",
+        "id": "5JoUwqXt9IPLbiJ6pXwarL",
+        "uri": "spotify:track:5JoUwqXt9IPLbiJ6pXwarL",
+        "track_href": "https://api.spotify.com/v1/tracks/5JoUwqXt9IPLbiJ6pXwarL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5JoUwqXt9IPLbiJ6pXwarL",
+        "duration_ms": 178027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6w9lmWBgqzPQHNQo5KaORN",
+    "name": "Bonjour",
+    "artist": "Nas",
+    "album": "NASIR",
+    "bpm": 143.949,
+    "features": [
+      {
+        "danceability": 0.647,
+        "energy": 0.856,
+        "key": 5,
+        "loudness": -4.451,
+        "mode": 1,
+        "speechiness": 0.266,
+        "acousticness": 0.152,
+        "instrumentalness": 0,
+        "liveness": 0.262,
+        "valence": 0.637,
+        "tempo": 143.949,
+        "type": "audio_features",
+        "id": "6w9lmWBgqzPQHNQo5KaORN",
+        "uri": "spotify:track:6w9lmWBgqzPQHNQo5KaORN",
+        "track_href": "https://api.spotify.com/v1/tracks/6w9lmWBgqzPQHNQo5KaORN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6w9lmWBgqzPQHNQo5KaORN",
+        "duration_ms": 201561,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3XaNHbNa9Chz9plhRpcaof",
+    "name": "everything",
+    "artist": "Nas",
+    "album": "NASIR",
+    "bpm": 82.507,
+    "features": [
+      {
+        "danceability": 0.546,
+        "energy": 0.541,
+        "key": 9,
+        "loudness": -6.036,
+        "mode": 1,
+        "speechiness": 0.384,
+        "acousticness": 0.473,
+        "instrumentalness": 0,
+        "liveness": 0.254,
+        "valence": 0.206,
+        "tempo": 82.507,
+        "type": "audio_features",
+        "id": "3XaNHbNa9Chz9plhRpcaof",
+        "uri": "spotify:track:3XaNHbNa9Chz9plhRpcaof",
+        "track_href": "https://api.spotify.com/v1/tracks/3XaNHbNa9Chz9plhRpcaof",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3XaNHbNa9Chz9plhRpcaof",
+        "duration_ms": 452504,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0BSPhsCKfwENstErymcD80",
+    "name": "Adam and Eve",
+    "artist": "Nas",
+    "album": "NASIR",
+    "bpm": 92.401,
+    "features": [
+      {
+        "danceability": 0.624,
+        "energy": 0.803,
+        "key": 9,
+        "loudness": -5.108,
+        "mode": 0,
+        "speechiness": 0.219,
+        "acousticness": 0.0453,
+        "instrumentalness": 0,
+        "liveness": 0.318,
+        "valence": 0.172,
+        "tempo": 92.401,
+        "type": "audio_features",
+        "id": "0BSPhsCKfwENstErymcD80",
+        "uri": "spotify:track:0BSPhsCKfwENstErymcD80",
+        "track_href": "https://api.spotify.com/v1/tracks/0BSPhsCKfwENstErymcD80",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0BSPhsCKfwENstErymcD80",
+        "duration_ms": 250760,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7jzcoWGOQXGufcXbs7TFVN",
+    "name": "Simple Things",
+    "artist": "Nas",
+    "album": "NASIR",
+    "bpm": 77.572,
+    "features": [
+      {
+        "danceability": 0.63,
+        "energy": 0.667,
+        "key": 7,
+        "loudness": -5.882,
+        "mode": 0,
+        "speechiness": 0.235,
+        "acousticness": 0.09,
+        "instrumentalness": 0,
+        "liveness": 0.22,
+        "valence": 0.288,
+        "tempo": 77.572,
+        "type": "audio_features",
+        "id": "7jzcoWGOQXGufcXbs7TFVN",
+        "uri": "spotify:track:7jzcoWGOQXGufcXbs7TFVN",
+        "track_href": "https://api.spotify.com/v1/tracks/7jzcoWGOQXGufcXbs7TFVN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7jzcoWGOQXGufcXbs7TFVN",
+        "duration_ms": 139718,
+        "time_signature": 4
+      }
+    ]
+  }
+]

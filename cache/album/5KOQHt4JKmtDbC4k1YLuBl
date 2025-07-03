@@ -1,0 +1,872 @@
+[
+  {
+    "id": "5Qj13vcA4k2il9eWg7Fy4U",
+    "name": "Intro",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 76.449,
+    "features": [
+      {
+        "danceability": 0.392,
+        "energy": 0.29,
+        "key": 6,
+        "loudness": -15.441,
+        "mode": 1,
+        "speechiness": 0.261,
+        "acousticness": 0.644,
+        "instrumentalness": 3.5e-05,
+        "liveness": 0.21,
+        "valence": 0.687,
+        "tempo": 76.449,
+        "type": "audio_features",
+        "id": "5Qj13vcA4k2il9eWg7Fy4U",
+        "uri": "spotify:track:5Qj13vcA4k2il9eWg7Fy4U",
+        "track_href": "https://api.spotify.com/v1/tracks/5Qj13vcA4k2il9eWg7Fy4U",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Qj13vcA4k2il9eWg7Fy4U",
+        "duration_ms": 69720,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3NjddtqajIJTWlFVq1K0IR",
+    "name": "Gasoline Dreams (with Khujo Goodie)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 95.074,
+    "features": [
+      {
+        "danceability": 0.722,
+        "energy": 0.961,
+        "key": 2,
+        "loudness": -2.744,
+        "mode": 1,
+        "speechiness": 0.237,
+        "acousticness": 0.0373,
+        "instrumentalness": 0,
+        "liveness": 0.304,
+        "valence": 0.502,
+        "tempo": 95.074,
+        "type": "audio_features",
+        "id": "3NjddtqajIJTWlFVq1K0IR",
+        "uri": "spotify:track:3NjddtqajIJTWlFVq1K0IR",
+        "track_href": "https://api.spotify.com/v1/tracks/3NjddtqajIJTWlFVq1K0IR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3NjddtqajIJTWlFVq1K0IR",
+        "duration_ms": 214707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3CEmpsQOIiau352aXwWVUy",
+    "name": "I'm Cool (Interlude)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 97.762,
+    "features": [
+      {
+        "danceability": 0.41,
+        "energy": 0.0952,
+        "key": 8,
+        "loudness": -25.895,
+        "mode": 0,
+        "speechiness": 0.114,
+        "acousticness": 0.826,
+        "instrumentalness": 0.711,
+        "liveness": 0.124,
+        "valence": 0.57,
+        "tempo": 97.762,
+        "type": "audio_features",
+        "id": "3CEmpsQOIiau352aXwWVUy",
+        "uri": "spotify:track:3CEmpsQOIiau352aXwWVUy",
+        "track_href": "https://api.spotify.com/v1/tracks/3CEmpsQOIiau352aXwWVUy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3CEmpsQOIiau352aXwWVUy",
+        "duration_ms": 42040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1HNKuSdaQE69ul4U58LetZ",
+    "name": "So Fresh, So Clean",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 166.05,
+    "features": [
+      {
+        "danceability": 0.716,
+        "energy": 0.651,
+        "key": 5,
+        "loudness": -7.535,
+        "mode": 0,
+        "speechiness": 0.33,
+        "acousticness": 0.033,
+        "instrumentalness": 0,
+        "liveness": 0.0992,
+        "valence": 0.928,
+        "tempo": 166.05,
+        "type": "audio_features",
+        "id": "1HNKuSdaQE69ul4U58LetZ",
+        "uri": "spotify:track:1HNKuSdaQE69ul4U58LetZ",
+        "track_href": "https://api.spotify.com/v1/tracks/1HNKuSdaQE69ul4U58LetZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1HNKuSdaQE69ul4U58LetZ",
+        "duration_ms": 240027,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1jpB0oi0Pd8RPzjNPUvHcg",
+    "name": "Ms. Jackson",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 94.94,
+    "features": [
+      {
+        "danceability": 0.84,
+        "energy": 0.821,
+        "key": 4,
+        "loudness": -5.79,
+        "mode": 0,
+        "speechiness": 0.252,
+        "acousticness": 0.158,
+        "instrumentalness": 0,
+        "liveness": 0.0775,
+        "valence": 0.621,
+        "tempo": 94.94,
+        "type": "audio_features",
+        "id": "1jpB0oi0Pd8RPzjNPUvHcg",
+        "uri": "spotify:track:1jpB0oi0Pd8RPzjNPUvHcg",
+        "track_href": "https://api.spotify.com/v1/tracks/1jpB0oi0Pd8RPzjNPUvHcg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1jpB0oi0Pd8RPzjNPUvHcg",
+        "duration_ms": 270507,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5DtNf1PCFo9lhg0FFTOPWS",
+    "name": "Snappin' & Trappin' (feat. Killer Mike & J-Sweet)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 129.38,
+    "features": [
+      {
+        "danceability": 0.602,
+        "energy": 0.927,
+        "key": 1,
+        "loudness": -5.315,
+        "mode": 0,
+        "speechiness": 0.376,
+        "acousticness": 0.0135,
+        "instrumentalness": 0,
+        "liveness": 0.253,
+        "valence": 0.442,
+        "tempo": 129.38,
+        "type": "audio_features",
+        "id": "5DtNf1PCFo9lhg0FFTOPWS",
+        "uri": "spotify:track:5DtNf1PCFo9lhg0FFTOPWS",
+        "track_href": "https://api.spotify.com/v1/tracks/5DtNf1PCFo9lhg0FFTOPWS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5DtNf1PCFo9lhg0FFTOPWS",
+        "duration_ms": 259693,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7D7qwozqVkANvLjM74DjqN",
+    "name": "D.F. (Interlude)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 93.029,
+    "features": [
+      {
+        "danceability": 0.598,
+        "energy": 0.878,
+        "key": 6,
+        "loudness": -9.104,
+        "mode": 1,
+        "speechiness": 0.0739,
+        "acousticness": 0.186,
+        "instrumentalness": 8.22e-05,
+        "liveness": 0.321,
+        "valence": 0.884,
+        "tempo": 93.029,
+        "type": "audio_features",
+        "id": "7D7qwozqVkANvLjM74DjqN",
+        "uri": "spotify:track:7D7qwozqVkANvLjM74DjqN",
+        "track_href": "https://api.spotify.com/v1/tracks/7D7qwozqVkANvLjM74DjqN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7D7qwozqVkANvLjM74DjqN",
+        "duration_ms": 27240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6wmmvhyekg23vjriYrhGkE",
+    "name": "Spaghetti Junction",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 96.715,
+    "features": [
+      {
+        "danceability": 0.755,
+        "energy": 0.722,
+        "key": 7,
+        "loudness": -6.681,
+        "mode": 1,
+        "speechiness": 0.247,
+        "acousticness": 0.0106,
+        "instrumentalness": 0,
+        "liveness": 0.0456,
+        "valence": 0.464,
+        "tempo": 96.715,
+        "type": "audio_features",
+        "id": "6wmmvhyekg23vjriYrhGkE",
+        "uri": "spotify:track:6wmmvhyekg23vjriYrhGkE",
+        "track_href": "https://api.spotify.com/v1/tracks/6wmmvhyekg23vjriYrhGkE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6wmmvhyekg23vjriYrhGkE",
+        "duration_ms": 237160,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2yvWkrlNApnKycQUT2s3ct",
+    "name": "Kim & Cookie (Interlude)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 80.469,
+    "features": [
+      {
+        "danceability": 0.687,
+        "energy": 0.283,
+        "key": 9,
+        "loudness": -14.84,
+        "mode": 1,
+        "speechiness": 0.929,
+        "acousticness": 0.776,
+        "instrumentalness": 0,
+        "liveness": 0.461,
+        "valence": 0.328,
+        "tempo": 80.469,
+        "type": "audio_features",
+        "id": "2yvWkrlNApnKycQUT2s3ct",
+        "uri": "spotify:track:2yvWkrlNApnKycQUT2s3ct",
+        "track_href": "https://api.spotify.com/v1/tracks/2yvWkrlNApnKycQUT2s3ct",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2yvWkrlNApnKycQUT2s3ct",
+        "duration_ms": 72533,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3S9vDTtRj7PgqnQ9ySL1hz",
+    "name": "I'll Call B4 I Cum (feat. Gangsta Boo & Eco)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 90.988,
+    "features": [
+      {
+        "danceability": 0.894,
+        "energy": 0.586,
+        "key": 1,
+        "loudness": -8.708,
+        "mode": 1,
+        "speechiness": 0.248,
+        "acousticness": 0.0636,
+        "instrumentalness": 1.43e-05,
+        "liveness": 0.296,
+        "valence": 0.579,
+        "tempo": 90.988,
+        "type": "audio_features",
+        "id": "3S9vDTtRj7PgqnQ9ySL1hz",
+        "uri": "spotify:track:3S9vDTtRj7PgqnQ9ySL1hz",
+        "track_href": "https://api.spotify.com/v1/tracks/3S9vDTtRj7PgqnQ9ySL1hz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3S9vDTtRj7PgqnQ9ySL1hz",
+        "duration_ms": 258440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4ZqqDNV6cs9URfA2jPLWiP",
+    "name": "B.O.B. - Bombs Over Baghdad",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 153.943,
+    "features": [
+      {
+        "danceability": 0.746,
+        "energy": 0.98,
+        "key": 9,
+        "loudness": -4.997,
+        "mode": 1,
+        "speechiness": 0.0991,
+        "acousticness": 0.0583,
+        "instrumentalness": 2.03e-05,
+        "liveness": 0.0258,
+        "valence": 0.639,
+        "tempo": 153.943,
+        "type": "audio_features",
+        "id": "4ZqqDNV6cs9URfA2jPLWiP",
+        "uri": "spotify:track:4ZqqDNV6cs9URfA2jPLWiP",
+        "track_href": "https://api.spotify.com/v1/tracks/4ZqqDNV6cs9URfA2jPLWiP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ZqqDNV6cs9URfA2jPLWiP",
+        "duration_ms": 304227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "41T5aBXIVh0OB4u1K4qqt8",
+    "name": "Xplosion (feat. B-Real)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 201.91,
+    "features": [
+      {
+        "danceability": 0.586,
+        "energy": 0.935,
+        "key": 0,
+        "loudness": -5.287,
+        "mode": 0,
+        "speechiness": 0.357,
+        "acousticness": 0.085,
+        "instrumentalness": 0,
+        "liveness": 0.393,
+        "valence": 0.609,
+        "tempo": 201.91,
+        "type": "audio_features",
+        "id": "41T5aBXIVh0OB4u1K4qqt8",
+        "uri": "spotify:track:41T5aBXIVh0OB4u1K4qqt8",
+        "track_href": "https://api.spotify.com/v1/tracks/41T5aBXIVh0OB4u1K4qqt8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/41T5aBXIVh0OB4u1K4qqt8",
+        "duration_ms": 248840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7aTX6IKT9mFWj4lUAATVaj",
+    "name": "Good Hair (Interlude)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 0,
+    "features": [
+      {
+        "danceability": 0,
+        "energy": 0.383,
+        "key": 5,
+        "loudness": -12.734,
+        "mode": 1,
+        "speechiness": 0,
+        "acousticness": 0.646,
+        "instrumentalness": 0,
+        "liveness": 0.807,
+        "valence": 0,
+        "tempo": 0,
+        "type": "audio_features",
+        "id": "7aTX6IKT9mFWj4lUAATVaj",
+        "uri": "spotify:track:7aTX6IKT9mFWj4lUAATVaj",
+        "track_href": "https://api.spotify.com/v1/tracks/7aTX6IKT9mFWj4lUAATVaj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7aTX6IKT9mFWj4lUAATVaj",
+        "duration_ms": 14960,
+        "time_signature": 0
+      }
+    ]
+  },
+  {
+    "id": "2TAXtMyNdTlUaUifkfH0iy",
+    "name": "We Luv Deez Hoez (feat. Backbone & Big Gipp)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 89.994,
+    "features": [
+      {
+        "danceability": 0.914,
+        "energy": 0.604,
+        "key": 1,
+        "loudness": -4.708,
+        "mode": 1,
+        "speechiness": 0.11,
+        "acousticness": 0.0363,
+        "instrumentalness": 0.000191,
+        "liveness": 0.0802,
+        "valence": 0.78,
+        "tempo": 89.994,
+        "type": "audio_features",
+        "id": "2TAXtMyNdTlUaUifkfH0iy",
+        "uri": "spotify:track:2TAXtMyNdTlUaUifkfH0iy",
+        "track_href": "https://api.spotify.com/v1/tracks/2TAXtMyNdTlUaUifkfH0iy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2TAXtMyNdTlUaUifkfH0iy",
+        "duration_ms": 250467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7Lwp8CSTyVKGLT3wX0kQA3",
+    "name": "Humble Mumble (feat. Erykah Badu)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 109.942,
+    "features": [
+      {
+        "danceability": 0.8,
+        "energy": 0.928,
+        "key": 10,
+        "loudness": -5.864,
+        "mode": 0,
+        "speechiness": 0.12,
+        "acousticness": 0.0387,
+        "instrumentalness": 1.25e-05,
+        "liveness": 0.391,
+        "valence": 0.764,
+        "tempo": 109.942,
+        "type": "audio_features",
+        "id": "7Lwp8CSTyVKGLT3wX0kQA3",
+        "uri": "spotify:track:7Lwp8CSTyVKGLT3wX0kQA3",
+        "track_href": "https://api.spotify.com/v1/tracks/7Lwp8CSTyVKGLT3wX0kQA3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7Lwp8CSTyVKGLT3wX0kQA3",
+        "duration_ms": 290667,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "555cLPsOeaQW1WWlB9QzGM",
+    "name": "Drinkin' Again (Interlude)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 81.001,
+    "features": [
+      {
+        "danceability": 0.5,
+        "energy": 0.329,
+        "key": 2,
+        "loudness": -10.227,
+        "mode": 1,
+        "speechiness": 0.193,
+        "acousticness": 0.517,
+        "instrumentalness": 0,
+        "liveness": 0.48,
+        "valence": 0.64,
+        "tempo": 81.001,
+        "type": "audio_features",
+        "id": "555cLPsOeaQW1WWlB9QzGM",
+        "uri": "spotify:track:555cLPsOeaQW1WWlB9QzGM",
+        "track_href": "https://api.spotify.com/v1/tracks/555cLPsOeaQW1WWlB9QzGM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/555cLPsOeaQW1WWlB9QzGM",
+        "duration_ms": 24507,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "4vVE6fIaZ29DLOYfLJGzHY",
+    "name": "?",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 146.846,
+    "features": [
+      {
+        "danceability": 0.8,
+        "energy": 0.926,
+        "key": 7,
+        "loudness": -7.368,
+        "mode": 1,
+        "speechiness": 0.105,
+        "acousticness": 0.193,
+        "instrumentalness": 0.000112,
+        "liveness": 0.0246,
+        "valence": 0.583,
+        "tempo": 146.846,
+        "type": "audio_features",
+        "id": "4vVE6fIaZ29DLOYfLJGzHY",
+        "uri": "spotify:track:4vVE6fIaZ29DLOYfLJGzHY",
+        "track_href": "https://api.spotify.com/v1/tracks/4vVE6fIaZ29DLOYfLJGzHY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4vVE6fIaZ29DLOYfLJGzHY",
+        "duration_ms": 88627,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3Gxjy8wVh4v0z6QtLqoSIt",
+    "name": "Red Velvet",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 107.018,
+    "features": [
+      {
+        "danceability": 0.831,
+        "energy": 0.681,
+        "key": 9,
+        "loudness": -9.227,
+        "mode": 1,
+        "speechiness": 0.243,
+        "acousticness": 0.0111,
+        "instrumentalness": 0,
+        "liveness": 0.154,
+        "valence": 0.316,
+        "tempo": 107.018,
+        "type": "audio_features",
+        "id": "3Gxjy8wVh4v0z6QtLqoSIt",
+        "uri": "spotify:track:3Gxjy8wVh4v0z6QtLqoSIt",
+        "track_href": "https://api.spotify.com/v1/tracks/3Gxjy8wVh4v0z6QtLqoSIt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Gxjy8wVh4v0z6QtLqoSIt",
+        "duration_ms": 232640,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3CVSdZgqdmQRGGHC9rmJQP",
+    "name": "Cruisin' In The ATL (Interlude)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 104.262,
+    "features": [
+      {
+        "danceability": 0.655,
+        "energy": 0.415,
+        "key": 0,
+        "loudness": -15.765,
+        "mode": 1,
+        "speechiness": 0.0951,
+        "acousticness": 0.0215,
+        "instrumentalness": 2.35e-06,
+        "liveness": 0.525,
+        "valence": 0.938,
+        "tempo": 104.262,
+        "type": "audio_features",
+        "id": "3CVSdZgqdmQRGGHC9rmJQP",
+        "uri": "spotify:track:3CVSdZgqdmQRGGHC9rmJQP",
+        "track_href": "https://api.spotify.com/v1/tracks/3CVSdZgqdmQRGGHC9rmJQP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3CVSdZgqdmQRGGHC9rmJQP",
+        "duration_ms": 19293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "48UAzbDynYKNUAc01V5V3P",
+    "name": "Gangsta Sh*t (feat. Slimm Calhoun, C-Bone & T-Mo)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 123.73,
+    "features": [
+      {
+        "danceability": 0.869,
+        "energy": 0.808,
+        "key": 11,
+        "loudness": -6.779,
+        "mode": 0,
+        "speechiness": 0.0517,
+        "acousticness": 0.00787,
+        "instrumentalness": 0,
+        "liveness": 0.0804,
+        "valence": 0.341,
+        "tempo": 123.73,
+        "type": "audio_features",
+        "id": "48UAzbDynYKNUAc01V5V3P",
+        "uri": "spotify:track:48UAzbDynYKNUAc01V5V3P",
+        "track_href": "https://api.spotify.com/v1/tracks/48UAzbDynYKNUAc01V5V3P",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/48UAzbDynYKNUAc01V5V3P",
+        "duration_ms": 281267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2QRinscDd0tVJJILfnCrJN",
+    "name": "Toilet Tisha",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 80.909,
+    "features": [
+      {
+        "danceability": 0.789,
+        "energy": 0.563,
+        "key": 1,
+        "loudness": -8.023,
+        "mode": 1,
+        "speechiness": 0.0335,
+        "acousticness": 0.147,
+        "instrumentalness": 4.42e-05,
+        "liveness": 0.043,
+        "valence": 0.815,
+        "tempo": 80.909,
+        "type": "audio_features",
+        "id": "2QRinscDd0tVJJILfnCrJN",
+        "uri": "spotify:track:2QRinscDd0tVJJILfnCrJN",
+        "track_href": "https://api.spotify.com/v1/tracks/2QRinscDd0tVJJILfnCrJN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2QRinscDd0tVJJILfnCrJN",
+        "duration_ms": 264707,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5NcOdxpGOvozo2GPdlY613",
+    "name": "Slum Beautiful (feat. Cee-Lo)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 159.877,
+    "features": [
+      {
+        "danceability": 0.82,
+        "energy": 0.836,
+        "key": 6,
+        "loudness": -6.516,
+        "mode": 1,
+        "speechiness": 0.267,
+        "acousticness": 0.125,
+        "instrumentalness": 0,
+        "liveness": 0.145,
+        "valence": 0.875,
+        "tempo": 159.877,
+        "type": "audio_features",
+        "id": "5NcOdxpGOvozo2GPdlY613",
+        "uri": "spotify:track:5NcOdxpGOvozo2GPdlY613",
+        "track_href": "https://api.spotify.com/v1/tracks/5NcOdxpGOvozo2GPdlY613",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5NcOdxpGOvozo2GPdlY613",
+        "duration_ms": 247560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5oWyXgNVaalNBRmVEA0gXW",
+    "name": "Pre-Nump (Interlude)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 125.595,
+    "features": [
+      {
+        "danceability": 0.568,
+        "energy": 0.41,
+        "key": 0,
+        "loudness": -14.008,
+        "mode": 1,
+        "speechiness": 0.212,
+        "acousticness": 0.501,
+        "instrumentalness": 1.83e-06,
+        "liveness": 0.276,
+        "valence": 0.624,
+        "tempo": 125.595,
+        "type": "audio_features",
+        "id": "5oWyXgNVaalNBRmVEA0gXW",
+        "uri": "spotify:track:5oWyXgNVaalNBRmVEA0gXW",
+        "track_href": "https://api.spotify.com/v1/tracks/5oWyXgNVaalNBRmVEA0gXW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5oWyXgNVaalNBRmVEA0gXW",
+        "duration_ms": 27067,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1CAUuCNU7tt3gqhf98TEnA",
+    "name": "Stankonia (Stanklove) (feat. Big Rube & Sleepy Brown)",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 135.97,
+    "features": [
+      {
+        "danceability": 0.612,
+        "energy": 0.594,
+        "key": 2,
+        "loudness": -9.06,
+        "mode": 1,
+        "speechiness": 0.0751,
+        "acousticness": 0.0626,
+        "instrumentalness": 0.125,
+        "liveness": 0.665,
+        "valence": 0.207,
+        "tempo": 135.97,
+        "type": "audio_features",
+        "id": "1CAUuCNU7tt3gqhf98TEnA",
+        "uri": "spotify:track:1CAUuCNU7tt3gqhf98TEnA",
+        "track_href": "https://api.spotify.com/v1/tracks/1CAUuCNU7tt3gqhf98TEnA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1CAUuCNU7tt3gqhf98TEnA",
+        "duration_ms": 411027,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "12hfCw3Bd5uvvqWa2xTNZS",
+    "name": "Ms. Jackson - Mr. Drunk Remix",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 189.481,
+    "features": [
+      {
+        "danceability": 0.751,
+        "energy": 0.645,
+        "key": 6,
+        "loudness": -4.114,
+        "mode": 0,
+        "speechiness": 0.366,
+        "acousticness": 0.0282,
+        "instrumentalness": 0,
+        "liveness": 0.0339,
+        "valence": 0.715,
+        "tempo": 189.481,
+        "type": "audio_features",
+        "id": "12hfCw3Bd5uvvqWa2xTNZS",
+        "uri": "spotify:track:12hfCw3Bd5uvvqWa2xTNZS",
+        "track_href": "https://api.spotify.com/v1/tracks/12hfCw3Bd5uvvqWa2xTNZS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/12hfCw3Bd5uvvqWa2xTNZS",
+        "duration_ms": 285514,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3p823QCRSekEqFDQFTGCPg",
+    "name": "So Fresh, So Clean (feat. Snoop Dogg & Sleepy Brown) - Stankonia Remix",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 87.051,
+    "features": [
+      {
+        "danceability": 0.802,
+        "energy": 0.844,
+        "key": 7,
+        "loudness": -7.625,
+        "mode": 1,
+        "speechiness": 0.103,
+        "acousticness": 0.0074,
+        "instrumentalness": 0.00017,
+        "liveness": 0.3,
+        "valence": 0.643,
+        "tempo": 87.051,
+        "type": "audio_features",
+        "id": "3p823QCRSekEqFDQFTGCPg",
+        "uri": "spotify:track:3p823QCRSekEqFDQFTGCPg",
+        "track_href": "https://api.spotify.com/v1/tracks/3p823QCRSekEqFDQFTGCPg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3p823QCRSekEqFDQFTGCPg",
+        "duration_ms": 277427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3j9t0h7eJBxvH9yVUt3BdM",
+    "name": "B.O.B. (Bombs Over Baghdad) - Zack de la Rocha Remix",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 154.185,
+    "features": [
+      {
+        "danceability": 0.582,
+        "energy": 0.961,
+        "key": 11,
+        "loudness": -5.405,
+        "mode": 1,
+        "speechiness": 0.0927,
+        "acousticness": 0.0104,
+        "instrumentalness": 0,
+        "liveness": 0.331,
+        "valence": 0.637,
+        "tempo": 154.185,
+        "type": "audio_features",
+        "id": "3j9t0h7eJBxvH9yVUt3BdM",
+        "uri": "spotify:track:3j9t0h7eJBxvH9yVUt3BdM",
+        "track_href": "https://api.spotify.com/v1/tracks/3j9t0h7eJBxvH9yVUt3BdM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3j9t0h7eJBxvH9yVUt3BdM",
+        "duration_ms": 276586,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2z2stPFKtdle4gWtSbdcDR",
+    "name": "Ms. Jackson - Acappella",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 93.361,
+    "features": [
+      {
+        "danceability": 0.713,
+        "energy": 0.493,
+        "key": 2,
+        "loudness": -10.816,
+        "mode": 1,
+        "speechiness": 0.921,
+        "acousticness": 0.516,
+        "instrumentalness": 0,
+        "liveness": 0.693,
+        "valence": 0.726,
+        "tempo": 93.361,
+        "type": "audio_features",
+        "id": "2z2stPFKtdle4gWtSbdcDR",
+        "uri": "spotify:track:2z2stPFKtdle4gWtSbdcDR",
+        "track_href": "https://api.spotify.com/v1/tracks/2z2stPFKtdle4gWtSbdcDR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2z2stPFKtdle4gWtSbdcDR",
+        "duration_ms": 234600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6djebaYul7FKGYRdMUYBvY",
+    "name": "So Fresh, So Clean - Acappella",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 165.977,
+    "features": [
+      {
+        "danceability": 0.771,
+        "energy": 0.424,
+        "key": 1,
+        "loudness": -13.283,
+        "mode": 1,
+        "speechiness": 0.653,
+        "acousticness": 0.21,
+        "instrumentalness": 0,
+        "liveness": 0.125,
+        "valence": 0.82,
+        "tempo": 165.977,
+        "type": "audio_features",
+        "id": "6djebaYul7FKGYRdMUYBvY",
+        "uri": "spotify:track:6djebaYul7FKGYRdMUYBvY",
+        "track_href": "https://api.spotify.com/v1/tracks/6djebaYul7FKGYRdMUYBvY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6djebaYul7FKGYRdMUYBvY",
+        "duration_ms": 233600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2VQwEgmLg2jgz2jk4JiBTO",
+    "name": "B.O.B. (Bombs Over Baghdad) - Acappella",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 76.514,
+    "features": [
+      {
+        "danceability": 0.612,
+        "energy": 0.814,
+        "key": 10,
+        "loudness": -6.136,
+        "mode": 1,
+        "speechiness": 0.639,
+        "acousticness": 0.765,
+        "instrumentalness": 0,
+        "liveness": 0.738,
+        "valence": 0.62,
+        "tempo": 76.514,
+        "type": "audio_features",
+        "id": "2VQwEgmLg2jgz2jk4JiBTO",
+        "uri": "spotify:track:2VQwEgmLg2jgz2jk4JiBTO",
+        "track_href": "https://api.spotify.com/v1/tracks/2VQwEgmLg2jgz2jk4JiBTO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2VQwEgmLg2jgz2jk4JiBTO",
+        "duration_ms": 178921,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "id": "0CYxyBiRGHFIXyGXZg29Vq",
+    "name": "Summer",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 121.586,
+    "features": [
+      {
+        "danceability": 0.404,
+        "energy": 0.167,
+        "key": 11,
+        "loudness": -18.286,
+        "mode": 0,
+        "speechiness": 0.0535,
+        "acousticness": 0.978,
+        "instrumentalness": 0.0515,
+        "liveness": 0.0952,
+        "valence": 0.485,
+        "tempo": 121.586,
+        "type": "audio_features",
+        "id": "0CYxyBiRGHFIXyGXZg29Vq",
+        "uri": "spotify:track:0CYxyBiRGHFIXyGXZg29Vq",
+        "track_href": "https://api.spotify.com/v1/tracks/0CYxyBiRGHFIXyGXZg29Vq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0CYxyBiRGHFIXyGXZg29Vq",
+        "duration_ms": 86987,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2zWZV7b1xu1qZPaMjavvpS",
+    "name": "Mural",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 81.637,
+    "features": [
+      {
+        "danceability": 0.431,
+        "energy": 0.898,
+        "key": 1,
+        "loudness": -4.233,
+        "mode": 0,
+        "speechiness": 0.166,
+        "acousticness": 0.011,
+        "instrumentalness": 0.00115,
+        "liveness": 0.523,
+        "valence": 0.192,
+        "tempo": 81.637,
+        "type": "audio_features",
+        "id": "2zWZV7b1xu1qZPaMjavvpS",
+        "uri": "spotify:track:2zWZV7b1xu1qZPaMjavvpS",
+        "track_href": "https://api.spotify.com/v1/tracks/2zWZV7b1xu1qZPaMjavvpS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2zWZV7b1xu1qZPaMjavvpS",
+        "duration_ms": 528880,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7n0wEgykBLc5nlkB0g6mJo",
+    "name": "Blur My Hands (feat. Guy Sebastian)",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 79.849,
+    "features": [
+      {
+        "danceability": 0.431,
+        "energy": 0.826,
+        "key": 10,
+        "loudness": -5.858,
+        "mode": 0,
+        "speechiness": 0.193,
+        "acousticness": 0.00594,
+        "instrumentalness": 0,
+        "liveness": 0.387,
+        "valence": 0.353,
+        "tempo": 79.849,
+        "type": "audio_features",
+        "id": "7n0wEgykBLc5nlkB0g6mJo",
+        "uri": "spotify:track:7n0wEgykBLc5nlkB0g6mJo",
+        "track_href": "https://api.spotify.com/v1/tracks/7n0wEgykBLc5nlkB0g6mJo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7n0wEgykBLc5nlkB0g6mJo",
+        "duration_ms": 327587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0jYhHo2DhmdkLfonFbPixV",
+    "name": "Dots & Lines",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 129.993,
+    "features": [
+      {
+        "danceability": 0.71,
+        "energy": 0.752,
+        "key": 0,
+        "loudness": -5.712,
+        "mode": 0,
+        "speechiness": 0.0946,
+        "acousticness": 0.226,
+        "instrumentalness": 2.04e-05,
+        "liveness": 0.23,
+        "valence": 0.407,
+        "tempo": 129.993,
+        "type": "audio_features",
+        "id": "0jYhHo2DhmdkLfonFbPixV",
+        "uri": "spotify:track:0jYhHo2DhmdkLfonFbPixV",
+        "track_href": "https://api.spotify.com/v1/tracks/0jYhHo2DhmdkLfonFbPixV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0jYhHo2DhmdkLfonFbPixV",
+        "duration_ms": 392400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7EnEzr8SoCabBTqEzKgwTI",
+    "name": "Fall",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 85.052,
+    "features": [
+      {
+        "danceability": 0.397,
+        "energy": 0.281,
+        "key": 5,
+        "loudness": -16.287,
+        "mode": 0,
+        "speechiness": 0.0366,
+        "acousticness": 0.00952,
+        "instrumentalness": 0.000372,
+        "liveness": 0.547,
+        "valence": 0.591,
+        "tempo": 85.052,
+        "type": "audio_features",
+        "id": "7EnEzr8SoCabBTqEzKgwTI",
+        "uri": "spotify:track:7EnEzr8SoCabBTqEzKgwTI",
+        "track_href": "https://api.spotify.com/v1/tracks/7EnEzr8SoCabBTqEzKgwTI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7EnEzr8SoCabBTqEzKgwTI",
+        "duration_ms": 73840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1dx9EdvyNujagtQzgNPPFC",
+    "name": "Prisoner 1 & 2 (feat. Ayesha Jaco)",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 110.066,
+    "features": [
+      {
+        "danceability": 0.548,
+        "energy": 0.724,
+        "key": 7,
+        "loudness": -6.681,
+        "mode": 0,
+        "speechiness": 0.275,
+        "acousticness": 0.39,
+        "instrumentalness": 0,
+        "liveness": 0.469,
+        "valence": 0.481,
+        "tempo": 110.066,
+        "type": "audio_features",
+        "id": "1dx9EdvyNujagtQzgNPPFC",
+        "uri": "spotify:track:1dx9EdvyNujagtQzgNPPFC",
+        "track_href": "https://api.spotify.com/v1/tracks/1dx9EdvyNujagtQzgNPPFC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1dx9EdvyNujagtQzgNPPFC",
+        "duration_ms": 516000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "29kD6fREiu9DKB8GVHzKBx",
+    "name": "Body of Work (feat. Troi & Terrace Martin)",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 119.994,
+    "features": [
+      {
+        "danceability": 0.702,
+        "energy": 0.614,
+        "key": 6,
+        "loudness": -6.503,
+        "mode": 1,
+        "speechiness": 0.106,
+        "acousticness": 0.0822,
+        "instrumentalness": 0,
+        "liveness": 0.186,
+        "valence": 0.355,
+        "tempo": 119.994,
+        "type": "audio_features",
+        "id": "29kD6fREiu9DKB8GVHzKBx",
+        "uri": "spotify:track:29kD6fREiu9DKB8GVHzKBx",
+        "track_href": "https://api.spotify.com/v1/tracks/29kD6fREiu9DKB8GVHzKBx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/29kD6fREiu9DKB8GVHzKBx",
+        "duration_ms": 353787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4riHkCy5nkXvyxh4rUufKb",
+    "name": "Little Death (feat. Nikki Jean)",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 113.743,
+    "features": [
+      {
+        "danceability": 0.611,
+        "energy": 0.836,
+        "key": 0,
+        "loudness": -6.578,
+        "mode": 0,
+        "speechiness": 0.274,
+        "acousticness": 0.384,
+        "instrumentalness": 6.99e-06,
+        "liveness": 0.174,
+        "valence": 0.763,
+        "tempo": 113.743,
+        "type": "audio_features",
+        "id": "4riHkCy5nkXvyxh4rUufKb",
+        "uri": "spotify:track:4riHkCy5nkXvyxh4rUufKb",
+        "track_href": "https://api.spotify.com/v1/tracks/4riHkCy5nkXvyxh4rUufKb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4riHkCy5nkXvyxh4rUufKb",
+        "duration_ms": 269267,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "3FN3vKGrXWHr8vx6vXHyuv",
+    "name": "No Scratches (feat. Nikki Jean)",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 160.028,
+    "features": [
+      {
+        "danceability": 0.679,
+        "energy": 0.723,
+        "key": 9,
+        "loudness": -6.405,
+        "mode": 0,
+        "speechiness": 0.215,
+        "acousticness": 0.273,
+        "instrumentalness": 0,
+        "liveness": 0.301,
+        "valence": 0.466,
+        "tempo": 160.028,
+        "type": "audio_features",
+        "id": "3FN3vKGrXWHr8vx6vXHyuv",
+        "uri": "spotify:track:3FN3vKGrXWHr8vx6vXHyuv",
+        "track_href": "https://api.spotify.com/v1/tracks/3FN3vKGrXWHr8vx6vXHyuv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3FN3vKGrXWHr8vx6vXHyuv",
+        "duration_ms": 262027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3KHUFog5hUXe7KmArEceSc",
+    "name": "Winter",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 120.78,
+    "features": [
+      {
+        "danceability": 0.184,
+        "energy": 0.799,
+        "key": 8,
+        "loudness": -15.236,
+        "mode": 1,
+        "speechiness": 0.0593,
+        "acousticness": 0.912,
+        "instrumentalness": 0.0372,
+        "liveness": 0.457,
+        "valence": 0.0851,
+        "tempo": 120.78,
+        "type": "audio_features",
+        "id": "3KHUFog5hUXe7KmArEceSc",
+        "uri": "spotify:track:3KHUFog5hUXe7KmArEceSc",
+        "track_href": "https://api.spotify.com/v1/tracks/3KHUFog5hUXe7KmArEceSc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3KHUFog5hUXe7KmArEceSc",
+        "duration_ms": 91627,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4IU33qQwEkfP7rxlPc73UA",
+    "name": "Chopper (feat. Billy Blue, Buk of Psychodrama, Trouble, Trae Tha Truth, Fam Lay & Glasses Malone)",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 122.014,
+    "features": [
+      {
+        "danceability": 0.735,
+        "energy": 0.89,
+        "key": 10,
+        "loudness": -4.886,
+        "mode": 0,
+        "speechiness": 0.252,
+        "acousticness": 0.148,
+        "instrumentalness": 0,
+        "liveness": 0.314,
+        "valence": 0.565,
+        "tempo": 122.014,
+        "type": "audio_features",
+        "id": "4IU33qQwEkfP7rxlPc73UA",
+        "uri": "spotify:track:4IU33qQwEkfP7rxlPc73UA",
+        "track_href": "https://api.spotify.com/v1/tracks/4IU33qQwEkfP7rxlPc73UA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4IU33qQwEkfP7rxlPc73UA",
+        "duration_ms": 572547,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3oVZPCQErNdBbQVHlDuSFJ",
+    "name": "Deliver",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 119.876,
+    "features": [
+      {
+        "danceability": 0.709,
+        "energy": 0.638,
+        "key": 1,
+        "loudness": -6.919,
+        "mode": 1,
+        "speechiness": 0.0368,
+        "acousticness": 0.00624,
+        "instrumentalness": 0,
+        "liveness": 0.157,
+        "valence": 0.132,
+        "tempo": 119.876,
+        "type": "audio_features",
+        "id": "3oVZPCQErNdBbQVHlDuSFJ",
+        "uri": "spotify:track:3oVZPCQErNdBbQVHlDuSFJ",
+        "track_href": "https://api.spotify.com/v1/tracks/3oVZPCQErNdBbQVHlDuSFJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3oVZPCQErNdBbQVHlDuSFJ",
+        "duration_ms": 232827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4LBING8Cxea4rHavzy7sQ0",
+    "name": "Madonna (And Other Mothers in the Hood) [feat. Nikki Jean]",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 127.077,
+    "features": [
+      {
+        "danceability": 0.726,
+        "energy": 0.755,
+        "key": 6,
+        "loudness": -5.963,
+        "mode": 0,
+        "speechiness": 0.0717,
+        "acousticness": 0.206,
+        "instrumentalness": 0,
+        "liveness": 0.288,
+        "valence": 0.32,
+        "tempo": 127.077,
+        "type": "audio_features",
+        "id": "4LBING8Cxea4rHavzy7sQ0",
+        "uri": "spotify:track:4LBING8Cxea4rHavzy7sQ0",
+        "track_href": "https://api.spotify.com/v1/tracks/4LBING8Cxea4rHavzy7sQ0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4LBING8Cxea4rHavzy7sQ0",
+        "duration_ms": 283120,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4L9f5OaFKcRMIX7Lmn1XxH",
+    "name": "Adoration of the Magi (feat. Crystal \"R\u00f8v\u00e9l\" Torres)",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 119.945,
+    "features": [
+      {
+        "danceability": 0.693,
+        "energy": 0.709,
+        "key": 5,
+        "loudness": -6.11,
+        "mode": 0,
+        "speechiness": 0.064,
+        "acousticness": 0.105,
+        "instrumentalness": 0.000446,
+        "liveness": 0.0861,
+        "valence": 0.608,
+        "tempo": 119.945,
+        "type": "audio_features",
+        "id": "4L9f5OaFKcRMIX7Lmn1XxH",
+        "uri": "spotify:track:4L9f5OaFKcRMIX7Lmn1XxH",
+        "track_href": "https://api.spotify.com/v1/tracks/4L9f5OaFKcRMIX7Lmn1XxH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4L9f5OaFKcRMIX7Lmn1XxH",
+        "duration_ms": 306093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4y2fS5zuK5DuKKuVICYKV6",
+    "name": "They.Resurrect.Over.New. (feat. Ab-Soul & Troi)",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 124.967,
+    "features": [
+      {
+        "danceability": 0.713,
+        "energy": 0.883,
+        "key": 7,
+        "loudness": -5.407,
+        "mode": 0,
+        "speechiness": 0.265,
+        "acousticness": 0.00588,
+        "instrumentalness": 1.97e-05,
+        "liveness": 0.724,
+        "valence": 0.452,
+        "tempo": 124.967,
+        "type": "audio_features",
+        "id": "4y2fS5zuK5DuKKuVICYKV6",
+        "uri": "spotify:track:4y2fS5zuK5DuKKuVICYKV6",
+        "track_href": "https://api.spotify.com/v1/tracks/4y2fS5zuK5DuKKuVICYKV6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4y2fS5zuK5DuKKuVICYKV6",
+        "duration_ms": 338627,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "55zQKeuPi9zdRNulmHyo7E",
+    "name": "Spring",
+    "artist": "Lupe Fiasco",
+    "album": "Tetsuo & Youth",
+    "bpm": 119.395,
+    "features": [
+      {
+        "danceability": 0.394,
+        "energy": 0.548,
+        "key": 7,
+        "loudness": -19.891,
+        "mode": 1,
+        "speechiness": 0.227,
+        "acousticness": 0.802,
+        "instrumentalness": 0.0684,
+        "liveness": 0.55,
+        "valence": 0.477,
+        "tempo": 119.395,
+        "type": "audio_features",
+        "id": "55zQKeuPi9zdRNulmHyo7E",
+        "uri": "spotify:track:55zQKeuPi9zdRNulmHyo7E",
+        "track_href": "https://api.spotify.com/v1/tracks/55zQKeuPi9zdRNulmHyo7E",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/55zQKeuPi9zdRNulmHyo7E",
+        "duration_ms": 95880,
+        "time_signature": 4
+      }
+    ]
+  }
+]

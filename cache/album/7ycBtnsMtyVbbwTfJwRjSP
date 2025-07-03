@@ -1,0 +1,466 @@
+[
+  {
+    "id": "7Ks4VCY1wFebnOdJrM13t6",
+    "name": "Wesley's Theory",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 114.449,
+    "features": [
+      {
+        "danceability": 0.509,
+        "energy": 0.787,
+        "key": 7,
+        "loudness": -6.754,
+        "mode": 1,
+        "speechiness": 0.265,
+        "acousticness": 0.359,
+        "instrumentalness": 2.76e-05,
+        "liveness": 0.26,
+        "valence": 0.507,
+        "tempo": 114.449,
+        "type": "audio_features",
+        "id": "7Ks4VCY1wFebnOdJrM13t6",
+        "uri": "spotify:track:7Ks4VCY1wFebnOdJrM13t6",
+        "track_href": "https://api.spotify.com/v1/tracks/7Ks4VCY1wFebnOdJrM13t6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7Ks4VCY1wFebnOdJrM13t6",
+        "duration_ms": 287360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "75izAeHlGuOgA865CFDyIv",
+    "name": "For Free? - Interlude",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 129.313,
+    "features": [
+      {
+        "danceability": 0.526,
+        "energy": 0.896,
+        "key": 8,
+        "loudness": -4.708,
+        "mode": 1,
+        "speechiness": 0.197,
+        "acousticness": 0.588,
+        "instrumentalness": 0,
+        "liveness": 0.37,
+        "valence": 0.745,
+        "tempo": 129.313,
+        "type": "audio_features",
+        "id": "75izAeHlGuOgA865CFDyIv",
+        "uri": "spotify:track:75izAeHlGuOgA865CFDyIv",
+        "track_href": "https://api.spotify.com/v1/tracks/75izAeHlGuOgA865CFDyIv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/75izAeHlGuOgA865CFDyIv",
+        "duration_ms": 130893,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "0N3W5peJUQtI4eyR6GJT5O",
+    "name": "King Kunta",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 107.059,
+    "features": [
+      {
+        "danceability": 0.884,
+        "energy": 0.657,
+        "key": 6,
+        "loudness": -4.569,
+        "mode": 0,
+        "speechiness": 0.0977,
+        "acousticness": 0.00589,
+        "instrumentalness": 0,
+        "liveness": 0.154,
+        "valence": 0.489,
+        "tempo": 107.059,
+        "type": "audio_features",
+        "id": "0N3W5peJUQtI4eyR6GJT5O",
+        "uri": "spotify:track:0N3W5peJUQtI4eyR6GJT5O",
+        "track_href": "https://api.spotify.com/v1/tracks/0N3W5peJUQtI4eyR6GJT5O",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0N3W5peJUQtI4eyR6GJT5O",
+        "duration_ms": 234693,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4oFtLSgHyZPNYDCcANhTnO",
+    "name": "Institutionalized",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 81.114,
+    "features": [
+      {
+        "danceability": 0.539,
+        "energy": 0.731,
+        "key": 3,
+        "loudness": -5.085,
+        "mode": 0,
+        "speechiness": 0.453,
+        "acousticness": 0.112,
+        "instrumentalness": 1.19e-06,
+        "liveness": 0.129,
+        "valence": 0.568,
+        "tempo": 81.114,
+        "type": "audio_features",
+        "id": "4oFtLSgHyZPNYDCcANhTnO",
+        "uri": "spotify:track:4oFtLSgHyZPNYDCcANhTnO",
+        "track_href": "https://api.spotify.com/v1/tracks/4oFtLSgHyZPNYDCcANhTnO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4oFtLSgHyZPNYDCcANhTnO",
+        "duration_ms": 271773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7uWVT3UkCAZyANvv0bdyQn",
+    "name": "These Walls",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 108.005,
+    "features": [
+      {
+        "danceability": 0.752,
+        "energy": 0.489,
+        "key": 1,
+        "loudness": -5.233,
+        "mode": 1,
+        "speechiness": 0.137,
+        "acousticness": 0.11,
+        "instrumentalness": 3.57e-06,
+        "liveness": 0.202,
+        "valence": 0.373,
+        "tempo": 108.005,
+        "type": "audio_features",
+        "id": "7uWVT3UkCAZyANvv0bdyQn",
+        "uri": "spotify:track:7uWVT3UkCAZyANvv0bdyQn",
+        "track_href": "https://api.spotify.com/v1/tracks/7uWVT3UkCAZyANvv0bdyQn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7uWVT3UkCAZyANvv0bdyQn",
+        "duration_ms": 300973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1bxEpNR75Hq3T2oF9AZjt8",
+    "name": "u",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 71.547,
+    "features": [
+      {
+        "danceability": 0.406,
+        "energy": 0.798,
+        "key": 11,
+        "loudness": -5.585,
+        "mode": 0,
+        "speechiness": 0.432,
+        "acousticness": 0.26,
+        "instrumentalness": 0,
+        "liveness": 0.461,
+        "valence": 0.58,
+        "tempo": 71.547,
+        "type": "audio_features",
+        "id": "1bxEpNR75Hq3T2oF9AZjt8",
+        "uri": "spotify:track:1bxEpNR75Hq3T2oF9AZjt8",
+        "track_href": "https://api.spotify.com/v1/tracks/1bxEpNR75Hq3T2oF9AZjt8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1bxEpNR75Hq3T2oF9AZjt8",
+        "duration_ms": 268493,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3iVcZ5G6tvkXZkZKlMpIUs",
+    "name": "Alright",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 110.034,
+    "features": [
+      {
+        "danceability": 0.796,
+        "energy": 0.766,
+        "key": 7,
+        "loudness": -5.974,
+        "mode": 1,
+        "speechiness": 0.238,
+        "acousticness": 0.0742,
+        "instrumentalness": 0,
+        "liveness": 0.0827,
+        "valence": 0.558,
+        "tempo": 110.034,
+        "type": "audio_features",
+        "id": "3iVcZ5G6tvkXZkZKlMpIUs",
+        "uri": "spotify:track:3iVcZ5G6tvkXZkZKlMpIUs",
+        "track_href": "https://api.spotify.com/v1/tracks/3iVcZ5G6tvkXZkZKlMpIUs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3iVcZ5G6tvkXZkZKlMpIUs",
+        "duration_ms": 219333,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7unx2Rvsq8D0RfOLRXclTA",
+    "name": "For Sale? - Interlude",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 79.036,
+    "features": [
+      {
+        "danceability": 0.301,
+        "energy": 0.686,
+        "key": 2,
+        "loudness": -8.36,
+        "mode": 1,
+        "speechiness": 0.0831,
+        "acousticness": 0.442,
+        "instrumentalness": 0.000115,
+        "liveness": 0.121,
+        "valence": 0.276,
+        "tempo": 79.036,
+        "type": "audio_features",
+        "id": "7unx2Rvsq8D0RfOLRXclTA",
+        "uri": "spotify:track:7unx2Rvsq8D0RfOLRXclTA",
+        "track_href": "https://api.spotify.com/v1/tracks/7unx2Rvsq8D0RfOLRXclTA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7unx2Rvsq8D0RfOLRXclTA",
+        "duration_ms": 291720,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0CjJqkWOpIUXdem5hUcxAk",
+    "name": "Momma",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 111.914,
+    "features": [
+      {
+        "danceability": 0.615,
+        "energy": 0.743,
+        "key": 1,
+        "loudness": -4.58,
+        "mode": 1,
+        "speechiness": 0.325,
+        "acousticness": 0.254,
+        "instrumentalness": 0,
+        "liveness": 0.665,
+        "valence": 0.515,
+        "tempo": 111.914,
+        "type": "audio_features",
+        "id": "0CjJqkWOpIUXdem5hUcxAk",
+        "uri": "spotify:track:0CjJqkWOpIUXdem5hUcxAk",
+        "track_href": "https://api.spotify.com/v1/tracks/0CjJqkWOpIUXdem5hUcxAk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0CjJqkWOpIUXdem5hUcxAk",
+        "duration_ms": 283120,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "2UOYzhusMTypF7oAQwksCj",
+    "name": "Hood Politics",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 87.912,
+    "features": [
+      {
+        "danceability": 0.731,
+        "energy": 0.661,
+        "key": 6,
+        "loudness": -6.562,
+        "mode": 0,
+        "speechiness": 0.376,
+        "acousticness": 0.145,
+        "instrumentalness": 0,
+        "liveness": 0.12,
+        "valence": 0.369,
+        "tempo": 87.912,
+        "type": "audio_features",
+        "id": "2UOYzhusMTypF7oAQwksCj",
+        "uri": "spotify:track:2UOYzhusMTypF7oAQwksCj",
+        "track_href": "https://api.spotify.com/v1/tracks/2UOYzhusMTypF7oAQwksCj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2UOYzhusMTypF7oAQwksCj",
+        "duration_ms": 292520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4tQcyj5488alHT1ZgFduzn",
+    "name": "How Much A Dollar Cost",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 87.948,
+    "features": [
+      {
+        "danceability": 0.624,
+        "energy": 0.729,
+        "key": 1,
+        "loudness": -4.747,
+        "mode": 1,
+        "speechiness": 0.198,
+        "acousticness": 0.415,
+        "instrumentalness": 0,
+        "liveness": 0.135,
+        "valence": 0.334,
+        "tempo": 87.948,
+        "type": "audio_features",
+        "id": "4tQcyj5488alHT1ZgFduzn",
+        "uri": "spotify:track:4tQcyj5488alHT1ZgFduzn",
+        "track_href": "https://api.spotify.com/v1/tracks/4tQcyj5488alHT1ZgFduzn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4tQcyj5488alHT1ZgFduzn",
+        "duration_ms": 261747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "72hFOhhhnOJZnnp6uVOgPn",
+    "name": "Complexion (A Zulu Love)",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 89.953,
+    "features": [
+      {
+        "danceability": 0.665,
+        "energy": 0.558,
+        "key": 2,
+        "loudness": -7.863,
+        "mode": 0,
+        "speechiness": 0.303,
+        "acousticness": 0.566,
+        "instrumentalness": 4.57e-06,
+        "liveness": 0.219,
+        "valence": 0.37,
+        "tempo": 89.953,
+        "type": "audio_features",
+        "id": "72hFOhhhnOJZnnp6uVOgPn",
+        "uri": "spotify:track:72hFOhhhnOJZnnp6uVOgPn",
+        "track_href": "https://api.spotify.com/v1/tracks/72hFOhhhnOJZnnp6uVOgPn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/72hFOhhhnOJZnnp6uVOgPn",
+        "duration_ms": 263360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5Mtt6tZSZA9cXTHGSGpyh0",
+    "name": "The Blacker The Berry",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 176.058,
+    "features": [
+      {
+        "danceability": 0.553,
+        "energy": 0.852,
+        "key": 10,
+        "loudness": -4.08,
+        "mode": 0,
+        "speechiness": 0.305,
+        "acousticness": 0.00713,
+        "instrumentalness": 0,
+        "liveness": 0.463,
+        "valence": 0.27,
+        "tempo": 176.058,
+        "type": "audio_features",
+        "id": "5Mtt6tZSZA9cXTHGSGpyh0",
+        "uri": "spotify:track:5Mtt6tZSZA9cXTHGSGpyh0",
+        "track_href": "https://api.spotify.com/v1/tracks/5Mtt6tZSZA9cXTHGSGpyh0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Mtt6tZSZA9cXTHGSGpyh0",
+        "duration_ms": 328827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7A3ETuOrieyx9KSF0sn0Zf",
+    "name": "You Ain't Gotta Lie (Momma Said)",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 93.742,
+    "features": [
+      {
+        "danceability": 0.443,
+        "energy": 0.635,
+        "key": 11,
+        "loudness": -5.404,
+        "mode": 0,
+        "speechiness": 0.223,
+        "acousticness": 0.455,
+        "instrumentalness": 2.07e-05,
+        "liveness": 0.285,
+        "valence": 0.672,
+        "tempo": 93.742,
+        "type": "audio_features",
+        "id": "7A3ETuOrieyx9KSF0sn0Zf",
+        "uri": "spotify:track:7A3ETuOrieyx9KSF0sn0Zf",
+        "track_href": "https://api.spotify.com/v1/tracks/7A3ETuOrieyx9KSF0sn0Zf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7A3ETuOrieyx9KSF0sn0Zf",
+        "duration_ms": 241680,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3ODXRUPL44f04cCacwiCLC",
+    "name": "i",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 120.094,
+    "features": [
+      {
+        "danceability": 0.541,
+        "energy": 0.809,
+        "key": 8,
+        "loudness": -4.286,
+        "mode": 1,
+        "speechiness": 0.324,
+        "acousticness": 0.708,
+        "instrumentalness": 0,
+        "liveness": 0.72,
+        "valence": 0.753,
+        "tempo": 120.094,
+        "type": "audio_features",
+        "id": "3ODXRUPL44f04cCacwiCLC",
+        "uri": "spotify:track:3ODXRUPL44f04cCacwiCLC",
+        "track_href": "https://api.spotify.com/v1/tracks/3ODXRUPL44f04cCacwiCLC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ODXRUPL44f04cCacwiCLC",
+        "duration_ms": 336013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1WT11QmhZutciEv1NsHt1R",
+    "name": "Mortal Man",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 86.935,
+    "features": [
+      {
+        "danceability": 0.567,
+        "energy": 0.525,
+        "key": 10,
+        "loudness": -9.043,
+        "mode": 0,
+        "speechiness": 0.75,
+        "acousticness": 0.665,
+        "instrumentalness": 0,
+        "liveness": 0.708,
+        "valence": 0.416,
+        "tempo": 86.935,
+        "type": "audio_features",
+        "id": "1WT11QmhZutciEv1NsHt1R",
+        "uri": "spotify:track:1WT11QmhZutciEv1NsHt1R",
+        "track_href": "https://api.spotify.com/v1/tracks/1WT11QmhZutciEv1NsHt1R",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1WT11QmhZutciEv1NsHt1R",
+        "duration_ms": 727107,
+        "time_signature": 4
+      }
+    ]
+  }
+]

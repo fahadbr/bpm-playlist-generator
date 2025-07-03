@@ -1,0 +1,437 @@
+[
+  {
+    "id": "74LujaXmzGQi5wRZ2HFh0G",
+    "name": "Holy Mountain (feat. Buju Banton, Sizzla, Mavado & 070 Shake)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 145.53,
+    "features": [
+      {
+        "danceability": 0.579,
+        "energy": 0.8,
+        "key": 6,
+        "loudness": -3.152,
+        "mode": 1,
+        "speechiness": 0.367,
+        "acousticness": 0.166,
+        "instrumentalness": 0,
+        "liveness": 0.963,
+        "valence": 0.604,
+        "tempo": 145.53,
+        "type": "audio_features",
+        "id": "74LujaXmzGQi5wRZ2HFh0G",
+        "uri": "spotify:track:74LujaXmzGQi5wRZ2HFh0G",
+        "track_href": "https://api.spotify.com/v1/tracks/74LujaXmzGQi5wRZ2HFh0G",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/74LujaXmzGQi5wRZ2HFh0G",
+        "duration_ms": 294800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1Hd2XLitkt1PYCWSbfF5qV",
+    "name": "Wish Wish (feat. Cardi B & 21 Savage)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 145.041,
+    "features": [
+      {
+        "danceability": 0.861,
+        "energy": 0.666,
+        "key": 8,
+        "loudness": -5.18,
+        "mode": 0,
+        "speechiness": 0.343,
+        "acousticness": 0.00218,
+        "instrumentalness": 0,
+        "liveness": 0.272,
+        "valence": 0.853,
+        "tempo": 145.041,
+        "type": "audio_features",
+        "id": "1Hd2XLitkt1PYCWSbfF5qV",
+        "uri": "spotify:track:1Hd2XLitkt1PYCWSbfF5qV",
+        "track_href": "https://api.spotify.com/v1/tracks/1Hd2XLitkt1PYCWSbfF5qV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Hd2XLitkt1PYCWSbfF5qV",
+        "duration_ms": 202625,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Dq8FZrvx9S28iyaKSwn9x",
+    "name": "Jealous (feat. Chris Brown, Lil Wayne & Big Sean)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 94.9,
+    "features": [
+      {
+        "danceability": 0.614,
+        "energy": 0.685,
+        "key": 10,
+        "loudness": -3.684,
+        "mode": 1,
+        "speechiness": 0.147,
+        "acousticness": 0.0133,
+        "instrumentalness": 0,
+        "liveness": 0.313,
+        "valence": 0.61,
+        "tempo": 94.9,
+        "type": "audio_features",
+        "id": "6Dq8FZrvx9S28iyaKSwn9x",
+        "uri": "spotify:track:6Dq8FZrvx9S28iyaKSwn9x",
+        "track_href": "https://api.spotify.com/v1/tracks/6Dq8FZrvx9S28iyaKSwn9x",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Dq8FZrvx9S28iyaKSwn9x",
+        "duration_ms": 255102,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0BnTBAGmr9FtYwkZrwKhwS",
+    "name": "Just Us (feat. SZA)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 93.132,
+    "features": [
+      {
+        "danceability": 0.639,
+        "energy": 0.859,
+        "key": 9,
+        "loudness": -2.758,
+        "mode": 0,
+        "speechiness": 0.147,
+        "acousticness": 0.135,
+        "instrumentalness": 0,
+        "liveness": 0.129,
+        "valence": 0.566,
+        "tempo": 93.132,
+        "type": "audio_features",
+        "id": "0BnTBAGmr9FtYwkZrwKhwS",
+        "uri": "spotify:track:0BnTBAGmr9FtYwkZrwKhwS",
+        "track_href": "https://api.spotify.com/v1/tracks/0BnTBAGmr9FtYwkZrwKhwS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0BnTBAGmr9FtYwkZrwKhwS",
+        "duration_ms": 221379,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4U6ubKsTd8RBDP5tPPhh7I",
+    "name": "You Stay (feat. Meek Mill, J Balvin, Lil Baby & Jeremih)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 117.988,
+    "features": [
+      {
+        "danceability": 0.479,
+        "energy": 0.63,
+        "key": 7,
+        "loudness": -5.628,
+        "mode": 0,
+        "speechiness": 0.133,
+        "acousticness": 0.0314,
+        "instrumentalness": 0,
+        "liveness": 0.073,
+        "valence": 0.227,
+        "tempo": 117.988,
+        "type": "audio_features",
+        "id": "4U6ubKsTd8RBDP5tPPhh7I",
+        "uri": "spotify:track:4U6ubKsTd8RBDP5tPPhh7I",
+        "track_href": "https://api.spotify.com/v1/tracks/4U6ubKsTd8RBDP5tPPhh7I",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4U6ubKsTd8RBDP5tPPhh7I",
+        "duration_ms": 275276,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "0b6UoVjUzFyZNpHI0aAhKt",
+    "name": "Celebrate (feat. Travis Scott & Post Malone)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 67.4,
+    "features": [
+      {
+        "danceability": 0.362,
+        "energy": 0.714,
+        "key": 9,
+        "loudness": -3.07,
+        "mode": 0,
+        "speechiness": 0.0835,
+        "acousticness": 0.269,
+        "instrumentalness": 0,
+        "liveness": 0.21,
+        "valence": 0.309,
+        "tempo": 67.4,
+        "type": "audio_features",
+        "id": "0b6UoVjUzFyZNpHI0aAhKt",
+        "uri": "spotify:track:0b6UoVjUzFyZNpHI0aAhKt",
+        "track_href": "https://api.spotify.com/v1/tracks/0b6UoVjUzFyZNpHI0aAhKt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0b6UoVjUzFyZNpHI0aAhKt",
+        "duration_ms": 206499,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6O10oTtZIZ4DkkUqyfCbrR",
+    "name": "Higher (feat. Nipsey Hussle & John Legend)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 83.655,
+    "features": [
+      {
+        "danceability": 0.351,
+        "energy": 0.956,
+        "key": 7,
+        "loudness": -1.996,
+        "mode": 1,
+        "speechiness": 0.245,
+        "acousticness": 0.0949,
+        "instrumentalness": 0,
+        "liveness": 0.226,
+        "valence": 0.446,
+        "tempo": 83.655,
+        "type": "audio_features",
+        "id": "6O10oTtZIZ4DkkUqyfCbrR",
+        "uri": "spotify:track:6O10oTtZIZ4DkkUqyfCbrR",
+        "track_href": "https://api.spotify.com/v1/tracks/6O10oTtZIZ4DkkUqyfCbrR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6O10oTtZIZ4DkkUqyfCbrR",
+        "duration_ms": 176875,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3ErERvCgbRm3KCEc58w5za",
+    "name": "Won't Take My Soul (feat. Nas & CeeLo Green)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 174.397,
+    "features": [
+      {
+        "danceability": 0.25,
+        "energy": 0.917,
+        "key": 2,
+        "loudness": -2.938,
+        "mode": 0,
+        "speechiness": 0.288,
+        "acousticness": 0.476,
+        "instrumentalness": 0,
+        "liveness": 0.274,
+        "valence": 0.417,
+        "tempo": 174.397,
+        "type": "audio_features",
+        "id": "3ErERvCgbRm3KCEc58w5za",
+        "uri": "spotify:track:3ErERvCgbRm3KCEc58w5za",
+        "track_href": "https://api.spotify.com/v1/tracks/3ErERvCgbRm3KCEc58w5za",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ErERvCgbRm3KCEc58w5za",
+        "duration_ms": 259361,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6xVhqLT40s5sVhepe9Mckc",
+    "name": "Weather the Storm (feat. Meek Mill & Lil Baby)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 76.069,
+    "features": [
+      {
+        "danceability": 0.515,
+        "energy": 0.802,
+        "key": 2,
+        "loudness": -2.655,
+        "mode": 0,
+        "speechiness": 0.283,
+        "acousticness": 0.18,
+        "instrumentalness": 0,
+        "liveness": 0.241,
+        "valence": 0.279,
+        "tempo": 76.069,
+        "type": "audio_features",
+        "id": "6xVhqLT40s5sVhepe9Mckc",
+        "uri": "spotify:track:6xVhqLT40s5sVhepe9Mckc",
+        "track_href": "https://api.spotify.com/v1/tracks/6xVhqLT40s5sVhepe9Mckc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6xVhqLT40s5sVhepe9Mckc",
+        "duration_ms": 153337,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6L8MHp94PFckbkfZm2foUJ",
+    "name": "Big Boy Talk (feat. Jeezy & Rick Ross)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 78.264,
+    "features": [
+      {
+        "danceability": 0.406,
+        "energy": 0.793,
+        "key": 0,
+        "loudness": -4.389,
+        "mode": 0,
+        "speechiness": 0.425,
+        "acousticness": 0.0656,
+        "instrumentalness": 0,
+        "liveness": 0.346,
+        "valence": 0.363,
+        "tempo": 78.264,
+        "type": "audio_features",
+        "id": "6L8MHp94PFckbkfZm2foUJ",
+        "uri": "spotify:track:6L8MHp94PFckbkfZm2foUJ",
+        "track_href": "https://api.spotify.com/v1/tracks/6L8MHp94PFckbkfZm2foUJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6L8MHp94PFckbkfZm2foUJ",
+        "duration_ms": 165871,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7C0BHTRLmWUONc8OYjOPdW",
+    "name": "Freak N You (feat. Lil Wayne & Gunna)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 91.023,
+    "features": [
+      {
+        "danceability": 0.66,
+        "energy": 0.771,
+        "key": 10,
+        "loudness": -5.233,
+        "mode": 0,
+        "speechiness": 0.128,
+        "acousticness": 0.00437,
+        "instrumentalness": 3.07e-05,
+        "liveness": 0.29,
+        "valence": 0.527,
+        "tempo": 91.023,
+        "type": "audio_features",
+        "id": "7C0BHTRLmWUONc8OYjOPdW",
+        "uri": "spotify:track:7C0BHTRLmWUONc8OYjOPdW",
+        "track_href": "https://api.spotify.com/v1/tracks/7C0BHTRLmWUONc8OYjOPdW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7C0BHTRLmWUONc8OYjOPdW",
+        "duration_ms": 186360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0QzliuYF4qRMXI76GwepXq",
+    "name": "Top Off (feat. JAY Z, Future & Beyonc\u00e9)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 86.695,
+    "features": [
+      {
+        "danceability": 0.569,
+        "energy": 0.593,
+        "key": 11,
+        "loudness": -6.718,
+        "mode": 0,
+        "speechiness": 0.336,
+        "acousticness": 0.0102,
+        "instrumentalness": 0,
+        "liveness": 0.457,
+        "valence": 0.262,
+        "tempo": 86.695,
+        "type": "audio_features",
+        "id": "0QzliuYF4qRMXI76GwepXq",
+        "uri": "spotify:track:0QzliuYF4qRMXI76GwepXq",
+        "track_href": "https://api.spotify.com/v1/tracks/0QzliuYF4qRMXI76GwepXq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0QzliuYF4qRMXI76GwepXq",
+        "duration_ms": 230713,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "03nPEoQOYMuDe7KmGljpmd",
+    "name": "No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 135.543,
+    "features": [
+      {
+        "danceability": 0.527,
+        "energy": 0.761,
+        "key": 0,
+        "loudness": -4.708,
+        "mode": 1,
+        "speechiness": 0.341,
+        "acousticness": 0.073,
+        "instrumentalness": 0,
+        "liveness": 0.0865,
+        "valence": 0.653,
+        "tempo": 135.543,
+        "type": "audio_features",
+        "id": "03nPEoQOYMuDe7KmGljpmd",
+        "uri": "spotify:track:03nPEoQOYMuDe7KmGljpmd",
+        "track_href": "https://api.spotify.com/v1/tracks/03nPEoQOYMuDe7KmGljpmd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/03nPEoQOYMuDe7KmGljpmd",
+        "duration_ms": 260000,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "6H4vsxNsm2NsV8pBAb5WnU",
+    "name": "Thank You (feat. Big Sean)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 89.895,
+    "features": [
+      {
+        "danceability": 0.535,
+        "energy": 0.749,
+        "key": 1,
+        "loudness": -5.082,
+        "mode": 1,
+        "speechiness": 0.508,
+        "acousticness": 0.155,
+        "instrumentalness": 0,
+        "liveness": 0.308,
+        "valence": 0.427,
+        "tempo": 89.895,
+        "type": "audio_features",
+        "id": "6H4vsxNsm2NsV8pBAb5WnU",
+        "uri": "spotify:track:6H4vsxNsm2NsV8pBAb5WnU",
+        "track_href": "https://api.spotify.com/v1/tracks/6H4vsxNsm2NsV8pBAb5WnU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6H4vsxNsm2NsV8pBAb5WnU",
+        "duration_ms": 188715,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1LZPELQqai6rO6JgvZtElr",
+    "name": "Holy Ground (feat. Buju Banton)",
+    "artist": "DJ Khaled",
+    "album": "Father Of Asahd",
+    "bpm": 170.186,
+    "features": [
+      {
+        "danceability": 0.614,
+        "energy": 0.749,
+        "key": 2,
+        "loudness": -3.378,
+        "mode": 1,
+        "speechiness": 0.138,
+        "acousticness": 0.403,
+        "instrumentalness": 0,
+        "liveness": 0.102,
+        "valence": 0.432,
+        "tempo": 170.186,
+        "type": "audio_features",
+        "id": "1LZPELQqai6rO6JgvZtElr",
+        "uri": "spotify:track:1LZPELQqai6rO6JgvZtElr",
+        "track_href": "https://api.spotify.com/v1/tracks/1LZPELQqai6rO6JgvZtElr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1LZPELQqai6rO6JgvZtElr",
+        "duration_ms": 197833,
+        "time_signature": 4
+      }
+    ]
+  }
+]

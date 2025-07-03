@@ -1,0 +1,292 @@
+[
+  {
+    "id": "1kugDGBrWgWwZomAAtYvnB",
+    "name": "Bedtime Serenade for Little Ones",
+    "artist": "Relaxing Music For Kids",
+    "album": "Calm Sleep Music for Kids",
+    "bpm": 71.322,
+    "features": [
+      {
+        "danceability": 0.245,
+        "energy": 0.0104,
+        "key": 3,
+        "loudness": -29.432,
+        "mode": 1,
+        "speechiness": 0.037,
+        "acousticness": 0.994,
+        "instrumentalness": 0.878,
+        "liveness": 0.106,
+        "valence": 0.144,
+        "tempo": 71.322,
+        "type": "audio_features",
+        "id": "1kugDGBrWgWwZomAAtYvnB",
+        "uri": "spotify:track:1kugDGBrWgWwZomAAtYvnB",
+        "track_href": "https://api.spotify.com/v1/tracks/1kugDGBrWgWwZomAAtYvnB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1kugDGBrWgWwZomAAtYvnB",
+        "duration_ms": 181091,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "6aPl2RJPJvSeEoinAQfvzi",
+    "name": "Calming Clouds of Slumber",
+    "artist": "Relaxing Music For Kids",
+    "album": "Calm Sleep Music for Kids",
+    "bpm": 113.969,
+    "features": [
+      {
+        "danceability": 0.611,
+        "energy": 0.00418,
+        "key": 3,
+        "loudness": -31.561,
+        "mode": 1,
+        "speechiness": 0.0454,
+        "acousticness": 0.994,
+        "instrumentalness": 0.92,
+        "liveness": 0.103,
+        "valence": 0.198,
+        "tempo": 113.969,
+        "type": "audio_features",
+        "id": "6aPl2RJPJvSeEoinAQfvzi",
+        "uri": "spotify:track:6aPl2RJPJvSeEoinAQfvzi",
+        "track_href": "https://api.spotify.com/v1/tracks/6aPl2RJPJvSeEoinAQfvzi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6aPl2RJPJvSeEoinAQfvzi",
+        "duration_ms": 194211,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0nMQBFvg2EZoy7Zqw5TeE8",
+    "name": "Dreamy Sleepscape",
+    "artist": "Relaxing Music For Kids",
+    "album": "Calm Sleep Music for Kids",
+    "bpm": 100.023,
+    "features": [
+      {
+        "danceability": 0.615,
+        "energy": 0.00423,
+        "key": 11,
+        "loudness": -31.673,
+        "mode": 1,
+        "speechiness": 0.037,
+        "acousticness": 0.994,
+        "instrumentalness": 0.937,
+        "liveness": 0.0755,
+        "valence": 0.283,
+        "tempo": 100.023,
+        "type": "audio_features",
+        "id": "0nMQBFvg2EZoy7Zqw5TeE8",
+        "uri": "spotify:track:0nMQBFvg2EZoy7Zqw5TeE8",
+        "track_href": "https://api.spotify.com/v1/tracks/0nMQBFvg2EZoy7Zqw5TeE8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0nMQBFvg2EZoy7Zqw5TeE8",
+        "duration_ms": 194400,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7xPKWQg0QbEyLsbk3qD8eZ",
+    "name": "Gentle Slumber Sonata",
+    "artist": "Relaxing Music For Kids",
+    "album": "Calm Sleep Music for Kids",
+    "bpm": 119.983,
+    "features": [
+      {
+        "danceability": 0.738,
+        "energy": 0.0137,
+        "key": 9,
+        "loudness": -29.93,
+        "mode": 1,
+        "speechiness": 0.0478,
+        "acousticness": 0.993,
+        "instrumentalness": 0.957,
+        "liveness": 0.0914,
+        "valence": 0.299,
+        "tempo": 119.983,
+        "type": "audio_features",
+        "id": "7xPKWQg0QbEyLsbk3qD8eZ",
+        "uri": "spotify:track:7xPKWQg0QbEyLsbk3qD8eZ",
+        "track_href": "https://api.spotify.com/v1/tracks/7xPKWQg0QbEyLsbk3qD8eZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7xPKWQg0QbEyLsbk3qD8eZ",
+        "duration_ms": 194000,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2Z9dJWoA3gNuQWqtow393B",
+    "name": "Lullaby Whispers for Sweet Dreams",
+    "artist": "Relaxing Music For Kids",
+    "album": "Calm Sleep Music for Kids",
+    "bpm": 105.008,
+    "features": [
+      {
+        "danceability": 0.628,
+        "energy": 0.0223,
+        "key": 8,
+        "loudness": -31.37,
+        "mode": 1,
+        "speechiness": 0.0363,
+        "acousticness": 0.993,
+        "instrumentalness": 0.924,
+        "liveness": 0.104,
+        "valence": 0.158,
+        "tempo": 105.008,
+        "type": "audio_features",
+        "id": "2Z9dJWoA3gNuQWqtow393B",
+        "uri": "spotify:track:2Z9dJWoA3gNuQWqtow393B",
+        "track_href": "https://api.spotify.com/v1/tracks/2Z9dJWoA3gNuQWqtow393B",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Z9dJWoA3gNuQWqtow393B",
+        "duration_ms": 192000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6wOVTEdEbQrWhpmtV3R8jn",
+    "name": "Peaceful Naptime Melodies",
+    "artist": "Relaxing Music For Kids",
+    "album": "Calm Sleep Music for Kids",
+    "bpm": 119.961,
+    "features": [
+      {
+        "danceability": 0.641,
+        "energy": 0.00242,
+        "key": 6,
+        "loudness": -31.1,
+        "mode": 1,
+        "speechiness": 0.0491,
+        "acousticness": 0.995,
+        "instrumentalness": 0.888,
+        "liveness": 0.0843,
+        "valence": 0.0844,
+        "tempo": 119.961,
+        "type": "audio_features",
+        "id": "6wOVTEdEbQrWhpmtV3R8jn",
+        "uri": "spotify:track:6wOVTEdEbQrWhpmtV3R8jn",
+        "track_href": "https://api.spotify.com/v1/tracks/6wOVTEdEbQrWhpmtV3R8jn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6wOVTEdEbQrWhpmtV3R8jn",
+        "duration_ms": 194727,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1K20aWE1hKKY1uZ3FzVXew",
+    "name": "Relaxing Raindrops for Kids Sleep",
+    "artist": "Relaxing Music For Kids",
+    "album": "Calm Sleep Music for Kids",
+    "bpm": 59.97,
+    "features": [
+      {
+        "danceability": 0.551,
+        "energy": 0.00368,
+        "key": 3,
+        "loudness": -32.322,
+        "mode": 1,
+        "speechiness": 0.0456,
+        "acousticness": 0.994,
+        "instrumentalness": 0.862,
+        "liveness": 0.0814,
+        "valence": 0.177,
+        "tempo": 59.97,
+        "type": "audio_features",
+        "id": "1K20aWE1hKKY1uZ3FzVXew",
+        "uri": "spotify:track:1K20aWE1hKKY1uZ3FzVXew",
+        "track_href": "https://api.spotify.com/v1/tracks/1K20aWE1hKKY1uZ3FzVXew",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1K20aWE1hKKY1uZ3FzVXew",
+        "duration_ms": 210000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "02yqD7KFC8J1iuMt3jRtNC",
+    "name": "Sleepy Stars in Dreamland",
+    "artist": "Relaxing Music For Kids",
+    "album": "Calm Sleep Music for Kids",
+    "bpm": 110.008,
+    "features": [
+      {
+        "danceability": 0.593,
+        "energy": 0.00312,
+        "key": 2,
+        "loudness": -32.652,
+        "mode": 1,
+        "speechiness": 0.0379,
+        "acousticness": 0.992,
+        "instrumentalness": 0.911,
+        "liveness": 0.0997,
+        "valence": 0.138,
+        "tempo": 110.008,
+        "type": "audio_features",
+        "id": "02yqD7KFC8J1iuMt3jRtNC",
+        "uri": "spotify:track:02yqD7KFC8J1iuMt3jRtNC",
+        "track_href": "https://api.spotify.com/v1/tracks/02yqD7KFC8J1iuMt3jRtNC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/02yqD7KFC8J1iuMt3jRtNC",
+        "duration_ms": 205091,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3w4DW8l9EveaTNW1Y7AcQu",
+    "name": "Soothing Dreams for Children",
+    "artist": "Relaxing Music For Kids",
+    "album": "Calm Sleep Music for Kids",
+    "bpm": 100.026,
+    "features": [
+      {
+        "danceability": 0.53,
+        "energy": 0.00445,
+        "key": 8,
+        "loudness": -34.547,
+        "mode": 1,
+        "speechiness": 0.038,
+        "acousticness": 0.993,
+        "instrumentalness": 0.92,
+        "liveness": 0.097,
+        "valence": 0.195,
+        "tempo": 100.026,
+        "type": "audio_features",
+        "id": "3w4DW8l9EveaTNW1Y7AcQu",
+        "uri": "spotify:track:3w4DW8l9EveaTNW1Y7AcQu",
+        "track_href": "https://api.spotify.com/v1/tracks/3w4DW8l9EveaTNW1Y7AcQu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3w4DW8l9EveaTNW1Y7AcQu",
+        "duration_ms": 216000,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "4ilIZ1FyNUyOTtlzvDSvbZ",
+    "name": "Tranquil Twilight Tunes",
+    "artist": "Relaxing Music For Kids",
+    "album": "Calm Sleep Music for Kids",
+    "bpm": 99.962,
+    "features": [
+      {
+        "danceability": 0.646,
+        "energy": 0.00749,
+        "key": 1,
+        "loudness": -29.921,
+        "mode": 1,
+        "speechiness": 0.0395,
+        "acousticness": 0.989,
+        "instrumentalness": 0.949,
+        "liveness": 0.177,
+        "valence": 0.272,
+        "tempo": 99.962,
+        "type": "audio_features",
+        "id": "4ilIZ1FyNUyOTtlzvDSvbZ",
+        "uri": "spotify:track:4ilIZ1FyNUyOTtlzvDSvbZ",
+        "track_href": "https://api.spotify.com/v1/tracks/4ilIZ1FyNUyOTtlzvDSvbZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ilIZ1FyNUyOTtlzvDSvbZ",
+        "duration_ms": 199800,
+        "time_signature": 3
+      }
+    ]
+  }
+]

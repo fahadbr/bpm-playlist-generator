@@ -1,0 +1,321 @@
+[
+  {
+    "id": "3u697QU7ODqPXv6VvV6VXO",
+    "name": "Lament",
+    "artist": "TesseracT",
+    "album": "One",
+    "bpm": 177.991,
+    "features": [
+      {
+        "danceability": 0.291,
+        "energy": 0.815,
+        "key": 3,
+        "loudness": -8.0,
+        "mode": 0,
+        "speechiness": 0.103,
+        "acousticness": 0.00205,
+        "instrumentalness": 0.0447,
+        "liveness": 0.105,
+        "valence": 0.116,
+        "tempo": 177.991,
+        "type": "audio_features",
+        "id": "3u697QU7ODqPXv6VvV6VXO",
+        "uri": "spotify:track:3u697QU7ODqPXv6VvV6VXO",
+        "track_href": "https://api.spotify.com/v1/tracks/3u697QU7ODqPXv6VvV6VXO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3u697QU7ODqPXv6VvV6VXO",
+        "duration_ms": 292480,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "6K0QGm6uw2190pQDqJnek7",
+    "name": "Nascent",
+    "artist": "TesseracT",
+    "album": "One",
+    "bpm": 112.662,
+    "features": [
+      {
+        "danceability": 0.496,
+        "energy": 0.955,
+        "key": 10,
+        "loudness": -6.655,
+        "mode": 0,
+        "speechiness": 0.092,
+        "acousticness": 0.00127,
+        "instrumentalness": 0.00149,
+        "liveness": 0.461,
+        "valence": 0.186,
+        "tempo": 112.662,
+        "type": "audio_features",
+        "id": "6K0QGm6uw2190pQDqJnek7",
+        "uri": "spotify:track:6K0QGm6uw2190pQDqJnek7",
+        "track_href": "https://api.spotify.com/v1/tracks/6K0QGm6uw2190pQDqJnek7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6K0QGm6uw2190pQDqJnek7",
+        "duration_ms": 249307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6zqrAN3xSWrTMTUE4vjgZB",
+    "name": "Acceptance - Concealing Fate, Pt. 1",
+    "artist": "TesseracT",
+    "album": "One",
+    "bpm": 112.565,
+    "features": [
+      {
+        "danceability": 0.295,
+        "energy": 0.874,
+        "key": 3,
+        "loudness": -7.054,
+        "mode": 0,
+        "speechiness": 0.0578,
+        "acousticness": 9.85e-05,
+        "instrumentalness": 0.0266,
+        "liveness": 0.173,
+        "valence": 0.159,
+        "tempo": 112.565,
+        "type": "audio_features",
+        "id": "6zqrAN3xSWrTMTUE4vjgZB",
+        "uri": "spotify:track:6zqrAN3xSWrTMTUE4vjgZB",
+        "track_href": "https://api.spotify.com/v1/tracks/6zqrAN3xSWrTMTUE4vjgZB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6zqrAN3xSWrTMTUE4vjgZB",
+        "duration_ms": 513560,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7zFO7g6AZaJKZOUBpLjM7u",
+    "name": "Deception - Concealing Fate, Pt. 2",
+    "artist": "TesseracT",
+    "album": "One",
+    "bpm": 144.036,
+    "features": [
+      {
+        "danceability": 0.211,
+        "energy": 0.964,
+        "key": 10,
+        "loudness": -6.86,
+        "mode": 0,
+        "speechiness": 0.0823,
+        "acousticness": 8.21e-06,
+        "instrumentalness": 0.403,
+        "liveness": 0.447,
+        "valence": 0.247,
+        "tempo": 144.036,
+        "type": "audio_features",
+        "id": "7zFO7g6AZaJKZOUBpLjM7u",
+        "uri": "spotify:track:7zFO7g6AZaJKZOUBpLjM7u",
+        "track_href": "https://api.spotify.com/v1/tracks/7zFO7g6AZaJKZOUBpLjM7u",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7zFO7g6AZaJKZOUBpLjM7u",
+        "duration_ms": 322867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1X09zeCqZK7uLSTEeK84oH",
+    "name": "The Impossible - Concealing Fate, Pt. 3",
+    "artist": "TesseracT",
+    "album": "One",
+    "bpm": 110.007,
+    "features": [
+      {
+        "danceability": 0.292,
+        "energy": 0.892,
+        "key": 6,
+        "loudness": -6.748,
+        "mode": 1,
+        "speechiness": 0.0663,
+        "acousticness": 2.49e-05,
+        "instrumentalness": 0.019,
+        "liveness": 0.148,
+        "valence": 0.349,
+        "tempo": 110.007,
+        "type": "audio_features",
+        "id": "1X09zeCqZK7uLSTEeK84oH",
+        "uri": "spotify:track:1X09zeCqZK7uLSTEeK84oH",
+        "track_href": "https://api.spotify.com/v1/tracks/1X09zeCqZK7uLSTEeK84oH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1X09zeCqZK7uLSTEeK84oH",
+        "duration_ms": 290800,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1s2Ky2iOgSPXYsZ1RtyBtd",
+    "name": "Perfection - Concealing Fate, Pt. 4",
+    "artist": "TesseracT",
+    "album": "One",
+    "bpm": 194.956,
+    "features": [
+      {
+        "danceability": 0.178,
+        "energy": 0.899,
+        "key": 7,
+        "loudness": -6.32,
+        "mode": 1,
+        "speechiness": 0.0622,
+        "acousticness": 0.000119,
+        "instrumentalness": 0.000579,
+        "liveness": 0.186,
+        "valence": 0.0828,
+        "tempo": 194.956,
+        "type": "audio_features",
+        "id": "1s2Ky2iOgSPXYsZ1RtyBtd",
+        "uri": "spotify:track:1s2Ky2iOgSPXYsZ1RtyBtd",
+        "track_href": "https://api.spotify.com/v1/tracks/1s2Ky2iOgSPXYsZ1RtyBtd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1s2Ky2iOgSPXYsZ1RtyBtd",
+        "duration_ms": 158280,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "42A9pLHYVYum5lbq4lGPif",
+    "name": "Epiphany - Concealing Fate, Pt. 5",
+    "artist": "TesseracT",
+    "album": "One",
+    "bpm": 130.039,
+    "features": [
+      {
+        "danceability": 0.59,
+        "energy": 0.922,
+        "key": 0,
+        "loudness": -8.489,
+        "mode": 0,
+        "speechiness": 0.0802,
+        "acousticness": 3.62e-05,
+        "instrumentalness": 0.876,
+        "liveness": 0.135,
+        "valence": 0.245,
+        "tempo": 130.039,
+        "type": "audio_features",
+        "id": "42A9pLHYVYum5lbq4lGPif",
+        "uri": "spotify:track:42A9pLHYVYum5lbq4lGPif",
+        "track_href": "https://api.spotify.com/v1/tracks/42A9pLHYVYum5lbq4lGPif",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/42A9pLHYVYum5lbq4lGPif",
+        "duration_ms": 89240,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2CpRWY45BkoUzWZgrSRD0k",
+    "name": "Origin - Concealing Fate, Pt. 6",
+    "artist": "TesseracT",
+    "album": "One",
+    "bpm": 120.031,
+    "features": [
+      {
+        "danceability": 0.526,
+        "energy": 0.892,
+        "key": 10,
+        "loudness": -7.562,
+        "mode": 0,
+        "speechiness": 0.0667,
+        "acousticness": 0.000128,
+        "instrumentalness": 0.038,
+        "liveness": 0.0973,
+        "valence": 0.407,
+        "tempo": 120.031,
+        "type": "audio_features",
+        "id": "2CpRWY45BkoUzWZgrSRD0k",
+        "uri": "spotify:track:2CpRWY45BkoUzWZgrSRD0k",
+        "track_href": "https://api.spotify.com/v1/tracks/2CpRWY45BkoUzWZgrSRD0k",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2CpRWY45BkoUzWZgrSRD0k",
+        "duration_ms": 284440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4pOfS2numgh9ARPBxeef9c",
+    "name": "Sunrise",
+    "artist": "TesseracT",
+    "album": "One",
+    "bpm": 90.188,
+    "features": [
+      {
+        "danceability": 0.528,
+        "energy": 0.809,
+        "key": 10,
+        "loudness": -5.512,
+        "mode": 0,
+        "speechiness": 0.0362,
+        "acousticness": 0.000163,
+        "instrumentalness": 0.875,
+        "liveness": 0.365,
+        "valence": 0.579,
+        "tempo": 90.188,
+        "type": "audio_features",
+        "id": "4pOfS2numgh9ARPBxeef9c",
+        "uri": "spotify:track:4pOfS2numgh9ARPBxeef9c",
+        "track_href": "https://api.spotify.com/v1/tracks/4pOfS2numgh9ARPBxeef9c",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4pOfS2numgh9ARPBxeef9c",
+        "duration_ms": 237347,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "48wq76JfkPRJ1D6BVQtCZZ",
+    "name": "April",
+    "artist": "TesseracT",
+    "album": "One",
+    "bpm": 180.06,
+    "features": [
+      {
+        "danceability": 0.394,
+        "energy": 0.862,
+        "key": 5,
+        "loudness": -6.449,
+        "mode": 0,
+        "speechiness": 0.0774,
+        "acousticness": 0.000288,
+        "instrumentalness": 0.0208,
+        "liveness": 0.0919,
+        "valence": 0.31,
+        "tempo": 180.06,
+        "type": "audio_features",
+        "id": "48wq76JfkPRJ1D6BVQtCZZ",
+        "uri": "spotify:track:48wq76JfkPRJ1D6BVQtCZZ",
+        "track_href": "https://api.spotify.com/v1/tracks/48wq76JfkPRJ1D6BVQtCZZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/48wq76JfkPRJ1D6BVQtCZZ",
+        "duration_ms": 288934,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2tBd67cpkdg8jpr8bWI8fT",
+    "name": "Eden",
+    "artist": "TesseracT",
+    "album": "One",
+    "bpm": 108.827,
+    "features": [
+      {
+        "danceability": 0.359,
+        "energy": 0.768,
+        "key": 6,
+        "loudness": -8.071,
+        "mode": 0,
+        "speechiness": 0.0491,
+        "acousticness": 0.000444,
+        "instrumentalness": 0.00069,
+        "liveness": 0.0906,
+        "valence": 0.156,
+        "tempo": 108.827,
+        "type": "audio_features",
+        "id": "2tBd67cpkdg8jpr8bWI8fT",
+        "uri": "spotify:track:2tBd67cpkdg8jpr8bWI8fT",
+        "track_href": "https://api.spotify.com/v1/tracks/2tBd67cpkdg8jpr8bWI8fT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2tBd67cpkdg8jpr8bWI8fT",
+        "duration_ms": 543451,
+        "time_signature": 4
+      }
+    ]
+  }
+]

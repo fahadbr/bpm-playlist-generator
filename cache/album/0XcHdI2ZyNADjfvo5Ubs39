@@ -1,0 +1,350 @@
+[
+  {
+    "id": "6FT9FZccFD6nE8dMNslz2n",
+    "name": "Walk On Water",
+    "artist": "Thirty Seconds To Mars",
+    "album": "AMERICA",
+    "bpm": 140.003,
+    "features": [
+      {
+        "danceability": 0.495,
+        "energy": 0.787,
+        "key": 8,
+        "loudness": -6.89,
+        "mode": 1,
+        "speechiness": 0.0368,
+        "acousticness": 9.16e-05,
+        "instrumentalness": 0,
+        "liveness": 0.167,
+        "valence": 0.388,
+        "tempo": 140.003,
+        "type": "audio_features",
+        "id": "6FT9FZccFD6nE8dMNslz2n",
+        "uri": "spotify:track:6FT9FZccFD6nE8dMNslz2n",
+        "track_href": "https://api.spotify.com/v1/tracks/6FT9FZccFD6nE8dMNslz2n",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6FT9FZccFD6nE8dMNslz2n",
+        "duration_ms": 185467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7793p4ZXhtbW5RpeRK7rid",
+    "name": "Dangerous Night",
+    "artist": "Thirty Seconds To Mars",
+    "album": "AMERICA",
+    "bpm": 86.937,
+    "features": [
+      {
+        "danceability": 0.295,
+        "energy": 0.715,
+        "key": 2,
+        "loudness": -6.533,
+        "mode": 1,
+        "speechiness": 0.0709,
+        "acousticness": 0.00212,
+        "instrumentalness": 1.55e-06,
+        "liveness": 0.242,
+        "valence": 0.242,
+        "tempo": 86.937,
+        "type": "audio_features",
+        "id": "7793p4ZXhtbW5RpeRK7rid",
+        "uri": "spotify:track:7793p4ZXhtbW5RpeRK7rid",
+        "track_href": "https://api.spotify.com/v1/tracks/7793p4ZXhtbW5RpeRK7rid",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7793p4ZXhtbW5RpeRK7rid",
+        "duration_ms": 199773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3yelVZf4p9wDpWjPav5mOn",
+    "name": "Rescue Me",
+    "artist": "Thirty Seconds To Mars",
+    "album": "AMERICA",
+    "bpm": 148.039,
+    "features": [
+      {
+        "danceability": 0.478,
+        "energy": 0.676,
+        "key": 11,
+        "loudness": -6.155,
+        "mode": 0,
+        "speechiness": 0.0708,
+        "acousticness": 0.00825,
+        "instrumentalness": 0,
+        "liveness": 0.0583,
+        "valence": 0.416,
+        "tempo": 148.039,
+        "type": "audio_features",
+        "id": "3yelVZf4p9wDpWjPav5mOn",
+        "uri": "spotify:track:3yelVZf4p9wDpWjPav5mOn",
+        "track_href": "https://api.spotify.com/v1/tracks/3yelVZf4p9wDpWjPav5mOn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3yelVZf4p9wDpWjPav5mOn",
+        "duration_ms": 217960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2NyWdxhlqyrt91PE6Yzf9u",
+    "name": "One Track Mind (feat. A$AP Rocky)",
+    "artist": "Thirty Seconds To Mars",
+    "album": "AMERICA",
+    "bpm": 93.129,
+    "features": [
+      {
+        "danceability": 0.364,
+        "energy": 0.46,
+        "key": 0,
+        "loudness": -8.298,
+        "mode": 1,
+        "speechiness": 0.0425,
+        "acousticness": 0.038,
+        "instrumentalness": 0.00131,
+        "liveness": 0.535,
+        "valence": 0.068,
+        "tempo": 93.129,
+        "type": "audio_features",
+        "id": "2NyWdxhlqyrt91PE6Yzf9u",
+        "uri": "spotify:track:2NyWdxhlqyrt91PE6Yzf9u",
+        "track_href": "https://api.spotify.com/v1/tracks/2NyWdxhlqyrt91PE6Yzf9u",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2NyWdxhlqyrt91PE6Yzf9u",
+        "duration_ms": 260609,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6dbCzgvzfqwsgycZLliO3I",
+    "name": "Monolith",
+    "artist": "Thirty Seconds To Mars",
+    "album": "AMERICA",
+    "bpm": 75.262,
+    "features": [
+      {
+        "danceability": 0.383,
+        "energy": 0.794,
+        "key": 1,
+        "loudness": -10.485,
+        "mode": 1,
+        "speechiness": 0.103,
+        "acousticness": 0.0972,
+        "instrumentalness": 0.833,
+        "liveness": 0.592,
+        "valence": 0.334,
+        "tempo": 75.262,
+        "type": "audio_features",
+        "id": "6dbCzgvzfqwsgycZLliO3I",
+        "uri": "spotify:track:6dbCzgvzfqwsgycZLliO3I",
+        "track_href": "https://api.spotify.com/v1/tracks/6dbCzgvzfqwsgycZLliO3I",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6dbCzgvzfqwsgycZLliO3I",
+        "duration_ms": 98192,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "04CyO54TZk5tEylFg2Df41",
+    "name": "Love Is Madness (feat. Halsey)",
+    "artist": "Thirty Seconds To Mars",
+    "album": "AMERICA",
+    "bpm": 106.171,
+    "features": [
+      {
+        "danceability": 0.382,
+        "energy": 0.675,
+        "key": 0,
+        "loudness": -6.56,
+        "mode": 1,
+        "speechiness": 0.0441,
+        "acousticness": 0.0128,
+        "instrumentalness": 0.000246,
+        "liveness": 0.219,
+        "valence": 0.449,
+        "tempo": 106.171,
+        "type": "audio_features",
+        "id": "04CyO54TZk5tEylFg2Df41",
+        "uri": "spotify:track:04CyO54TZk5tEylFg2Df41",
+        "track_href": "https://api.spotify.com/v1/tracks/04CyO54TZk5tEylFg2Df41",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/04CyO54TZk5tEylFg2Df41",
+        "duration_ms": 234867,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "2WexsKeTrtuPQOYdq0RLoB",
+    "name": "Great Wide Open",
+    "artist": "Thirty Seconds To Mars",
+    "album": "AMERICA",
+    "bpm": 139.985,
+    "features": [
+      {
+        "danceability": 0.427,
+        "energy": 0.644,
+        "key": 0,
+        "loudness": -7.707,
+        "mode": 1,
+        "speechiness": 0.0375,
+        "acousticness": 0.0263,
+        "instrumentalness": 1.21e-05,
+        "liveness": 0.113,
+        "valence": 0.127,
+        "tempo": 139.985,
+        "type": "audio_features",
+        "id": "2WexsKeTrtuPQOYdq0RLoB",
+        "uri": "spotify:track:2WexsKeTrtuPQOYdq0RLoB",
+        "track_href": "https://api.spotify.com/v1/tracks/2WexsKeTrtuPQOYdq0RLoB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2WexsKeTrtuPQOYdq0RLoB",
+        "duration_ms": 289360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "64gbzSMPloO2SNBTk3PG3h",
+    "name": "Hail To The Victor",
+    "artist": "Thirty Seconds To Mars",
+    "album": "AMERICA",
+    "bpm": 145.001,
+    "features": [
+      {
+        "danceability": 0.57,
+        "energy": 0.723,
+        "key": 0,
+        "loudness": -6.673,
+        "mode": 0,
+        "speechiness": 0.0386,
+        "acousticness": 0.00238,
+        "instrumentalness": 0.000144,
+        "liveness": 0.2,
+        "valence": 0.44,
+        "tempo": 145.001,
+        "type": "audio_features",
+        "id": "64gbzSMPloO2SNBTk3PG3h",
+        "uri": "spotify:track:64gbzSMPloO2SNBTk3PG3h",
+        "track_href": "https://api.spotify.com/v1/tracks/64gbzSMPloO2SNBTk3PG3h",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/64gbzSMPloO2SNBTk3PG3h",
+        "duration_ms": 201957,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2nugajeEf9KNKXrpnzamLl",
+    "name": "Dawn Will Rise",
+    "artist": "Thirty Seconds To Mars",
+    "album": "AMERICA",
+    "bpm": 134.989,
+    "features": [
+      {
+        "danceability": 0.625,
+        "energy": 0.705,
+        "key": 10,
+        "loudness": -7.434,
+        "mode": 0,
+        "speechiness": 0.0324,
+        "acousticness": 0.00628,
+        "instrumentalness": 0.101,
+        "liveness": 0.573,
+        "valence": 0.318,
+        "tempo": 134.989,
+        "type": "audio_features",
+        "id": "2nugajeEf9KNKXrpnzamLl",
+        "uri": "spotify:track:2nugajeEf9KNKXrpnzamLl",
+        "track_href": "https://api.spotify.com/v1/tracks/2nugajeEf9KNKXrpnzamLl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2nugajeEf9KNKXrpnzamLl",
+        "duration_ms": 236973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5D2QlmF9156cXnIDdhOja7",
+    "name": "Remedy",
+    "artist": "Thirty Seconds To Mars",
+    "album": "AMERICA",
+    "bpm": 103.263,
+    "features": [
+      {
+        "danceability": 0.402,
+        "energy": 0.432,
+        "key": 7,
+        "loudness": -5.004,
+        "mode": 0,
+        "speechiness": 0.0283,
+        "acousticness": 0.416,
+        "instrumentalness": 0,
+        "liveness": 0.0898,
+        "valence": 0.419,
+        "tempo": 103.263,
+        "type": "audio_features",
+        "id": "5D2QlmF9156cXnIDdhOja7",
+        "uri": "spotify:track:5D2QlmF9156cXnIDdhOja7",
+        "track_href": "https://api.spotify.com/v1/tracks/5D2QlmF9156cXnIDdhOja7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5D2QlmF9156cXnIDdhOja7",
+        "duration_ms": 197093,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "1glJzSUiShhraXl8zjgD22",
+    "name": "Live Like A Dream",
+    "artist": "Thirty Seconds To Mars",
+    "album": "AMERICA",
+    "bpm": 155.135,
+    "features": [
+      {
+        "danceability": 0.471,
+        "energy": 0.59,
+        "key": 10,
+        "loudness": -8.377,
+        "mode": 1,
+        "speechiness": 0.0315,
+        "acousticness": 0.00184,
+        "instrumentalness": 0,
+        "liveness": 0.417,
+        "valence": 0.349,
+        "tempo": 155.135,
+        "type": "audio_features",
+        "id": "1glJzSUiShhraXl8zjgD22",
+        "uri": "spotify:track:1glJzSUiShhraXl8zjgD22",
+        "track_href": "https://api.spotify.com/v1/tracks/1glJzSUiShhraXl8zjgD22",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1glJzSUiShhraXl8zjgD22",
+        "duration_ms": 246560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2QmSzgCfIzNn1DuAcGNYTR",
+    "name": "Rider",
+    "artist": "Thirty Seconds To Mars",
+    "album": "AMERICA",
+    "bpm": 100.084,
+    "features": [
+      {
+        "danceability": 0.516,
+        "energy": 0.497,
+        "key": 9,
+        "loudness": -7.962,
+        "mode": 0,
+        "speechiness": 0.0274,
+        "acousticness": 0.0733,
+        "instrumentalness": 0.00666,
+        "liveness": 0.119,
+        "valence": 0.197,
+        "tempo": 100.084,
+        "type": "audio_features",
+        "id": "2QmSzgCfIzNn1DuAcGNYTR",
+        "uri": "spotify:track:2QmSzgCfIzNn1DuAcGNYTR",
+        "track_href": "https://api.spotify.com/v1/tracks/2QmSzgCfIzNn1DuAcGNYTR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2QmSzgCfIzNn1DuAcGNYTR",
+        "duration_ms": 177978,
+        "time_signature": 4
+      }
+    ]
+  }
+]

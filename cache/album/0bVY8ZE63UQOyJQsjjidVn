@@ -1,0 +1,31 @@
+[
+  {
+    "id": "2YzmfPLqUx5CJOaw5ThsBV",
+    "name": "Plain Jane REMIX (feat. Nicki Minaj)",
+    "artist": "A$AP Ferg",
+    "album": "Plain Jane REMIX (feat. Nicki Minaj)",
+    "bpm": 170.113,
+    "features": [
+      {
+        "danceability": 0.791,
+        "energy": 0.839,
+        "key": 11,
+        "loudness": -4.284,
+        "mode": 1,
+        "speechiness": 0.266,
+        "acousticness": 0.0588,
+        "instrumentalness": 6.26e-05,
+        "liveness": 0.259,
+        "valence": 0.383,
+        "tempo": 170.113,
+        "type": "audio_features",
+        "id": "2YzmfPLqUx5CJOaw5ThsBV",
+        "uri": "spotify:track:2YzmfPLqUx5CJOaw5ThsBV",
+        "track_href": "https://api.spotify.com/v1/tracks/2YzmfPLqUx5CJOaw5ThsBV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YzmfPLqUx5CJOaw5ThsBV",
+        "duration_ms": 202636,
+        "time_signature": 4
+      }
+    ]
+  }
+]

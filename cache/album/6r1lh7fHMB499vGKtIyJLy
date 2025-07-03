@@ -1,0 +1,495 @@
+[
+  {
+    "id": "4MTuL20LF3pWebeJbcNh7p",
+    "name": "Don't Understand",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 91.903,
+    "features": [
+      {
+        "danceability": 0.673,
+        "energy": 0.313,
+        "key": 7,
+        "loudness": -7.629,
+        "mode": 1,
+        "speechiness": 0.0305,
+        "acousticness": 0.637,
+        "instrumentalness": 1.84e-06,
+        "liveness": 0.104,
+        "valence": 0.279,
+        "tempo": 91.903,
+        "type": "audio_features",
+        "id": "4MTuL20LF3pWebeJbcNh7p",
+        "uri": "spotify:track:4MTuL20LF3pWebeJbcNh7p",
+        "track_href": "https://api.spotify.com/v1/tracks/4MTuL20LF3pWebeJbcNh7p",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4MTuL20LF3pWebeJbcNh7p",
+        "duration_ms": 183379,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "444vevlQjTnKioLLncteGv",
+    "name": "Something Real",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 135.335,
+    "features": [
+      {
+        "danceability": 0.433,
+        "energy": 0.777,
+        "key": 11,
+        "loudness": -5.105,
+        "mode": 0,
+        "speechiness": 0.0435,
+        "acousticness": 0.000263,
+        "instrumentalness": 0,
+        "liveness": 0.366,
+        "valence": 0.247,
+        "tempo": 135.335,
+        "type": "audio_features",
+        "id": "444vevlQjTnKioLLncteGv",
+        "uri": "spotify:track:444vevlQjTnKioLLncteGv",
+        "track_href": "https://api.spotify.com/v1/tracks/444vevlQjTnKioLLncteGv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/444vevlQjTnKioLLncteGv",
+        "duration_ms": 205288,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7jvtmQ3onpWeUm7dyFSSSc",
+    "name": "Chemical",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 169.948,
+    "features": [
+      {
+        "danceability": 0.493,
+        "energy": 0.907,
+        "key": 2,
+        "loudness": -4.698,
+        "mode": 1,
+        "speechiness": 0.0476,
+        "acousticness": 0.00108,
+        "instrumentalness": 0,
+        "liveness": 0.109,
+        "valence": 0.386,
+        "tempo": 169.948,
+        "type": "audio_features",
+        "id": "7jvtmQ3onpWeUm7dyFSSSc",
+        "uri": "spotify:track:7jvtmQ3onpWeUm7dyFSSSc",
+        "track_href": "https://api.spotify.com/v1/tracks/7jvtmQ3onpWeUm7dyFSSSc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7jvtmQ3onpWeUm7dyFSSSc",
+        "duration_ms": 183410,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6V1TqJxtw3P0ouCKICvl9l",
+    "name": "Novacandy",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 155.053,
+    "features": [
+      {
+        "danceability": 0.402,
+        "energy": 0.723,
+        "key": 1,
+        "loudness": -5.067,
+        "mode": 0,
+        "speechiness": 0.0539,
+        "acousticness": 0.0358,
+        "instrumentalness": 0,
+        "liveness": 0.176,
+        "valence": 0.0922,
+        "tempo": 155.053,
+        "type": "audio_features",
+        "id": "6V1TqJxtw3P0ouCKICvl9l",
+        "uri": "spotify:track:6V1TqJxtw3P0ouCKICvl9l",
+        "track_href": "https://api.spotify.com/v1/tracks/6V1TqJxtw3P0ouCKICvl9l",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6V1TqJxtw3P0ouCKICvl9l",
+        "duration_ms": 197287,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "3pI3nzi2Y0Iyj1nATDOeQV",
+    "name": "Mourning",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 74.013,
+    "features": [
+      {
+        "danceability": 0.598,
+        "energy": 0.655,
+        "key": 9,
+        "loudness": -4.568,
+        "mode": 1,
+        "speechiness": 0.0316,
+        "acousticness": 0.0849,
+        "instrumentalness": 0,
+        "liveness": 0.284,
+        "valence": 0.242,
+        "tempo": 74.013,
+        "type": "audio_features",
+        "id": "3pI3nzi2Y0Iyj1nATDOeQV",
+        "uri": "spotify:track:3pI3nzi2Y0Iyj1nATDOeQV",
+        "track_href": "https://api.spotify.com/v1/tracks/3pI3nzi2Y0Iyj1nATDOeQV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3pI3nzi2Y0Iyj1nATDOeQV",
+        "duration_ms": 147819,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3FtQes77xlbS9QTVts7p2u",
+    "name": "Too Cool To Die",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 106.999,
+    "features": [
+      {
+        "danceability": 0.582,
+        "energy": 0.749,
+        "key": 0,
+        "loudness": -5.524,
+        "mode": 1,
+        "speechiness": 0.0389,
+        "acousticness": 0.00375,
+        "instrumentalness": 0,
+        "liveness": 0.113,
+        "valence": 0.433,
+        "tempo": 106.999,
+        "type": "audio_features",
+        "id": "3FtQes77xlbS9QTVts7p2u",
+        "uri": "spotify:track:3FtQes77xlbS9QTVts7p2u",
+        "track_href": "https://api.spotify.com/v1/tracks/3FtQes77xlbS9QTVts7p2u",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3FtQes77xlbS9QTVts7p2u",
+        "duration_ms": 204953,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4mahloUW5K6KeGijwnMGDr",
+    "name": "Sign Me Up",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 145.834,
+    "features": [
+      {
+        "danceability": 0.501,
+        "energy": 0.85,
+        "key": 0,
+        "loudness": -4.591,
+        "mode": 1,
+        "speechiness": 0.0688,
+        "acousticness": 1.92e-05,
+        "instrumentalness": 0,
+        "liveness": 0.347,
+        "valence": 0.416,
+        "tempo": 145.834,
+        "type": "audio_features",
+        "id": "4mahloUW5K6KeGijwnMGDr",
+        "uri": "spotify:track:4mahloUW5K6KeGijwnMGDr",
+        "track_href": "https://api.spotify.com/v1/tracks/4mahloUW5K6KeGijwnMGDr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4mahloUW5K6KeGijwnMGDr",
+        "duration_ms": 198938,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3ZcJaN63FKEMxDWWPefsiW",
+    "name": "Socialite",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 90.902,
+    "features": [
+      {
+        "danceability": 0.545,
+        "energy": 0.712,
+        "key": 2,
+        "loudness": -5.656,
+        "mode": 1,
+        "speechiness": 0.0329,
+        "acousticness": 0.0302,
+        "instrumentalness": 0,
+        "liveness": 0.357,
+        "valence": 0.209,
+        "tempo": 90.902,
+        "type": "audio_features",
+        "id": "3ZcJaN63FKEMxDWWPefsiW",
+        "uri": "spotify:track:3ZcJaN63FKEMxDWWPefsiW",
+        "track_href": "https://api.spotify.com/v1/tracks/3ZcJaN63FKEMxDWWPefsiW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ZcJaN63FKEMxDWWPefsiW",
+        "duration_ms": 199021,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3uMO7jmdXxwSijvxNXDgE4",
+    "name": "Overdrive",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 139.864,
+    "features": [
+      {
+        "danceability": 0.555,
+        "energy": 0.729,
+        "key": 1,
+        "loudness": -5.062,
+        "mode": 1,
+        "speechiness": 0.0443,
+        "acousticness": 0.000374,
+        "instrumentalness": 0.000139,
+        "liveness": 0.347,
+        "valence": 0.482,
+        "tempo": 139.864,
+        "type": "audio_features",
+        "id": "3uMO7jmdXxwSijvxNXDgE4",
+        "uri": "spotify:track:3uMO7jmdXxwSijvxNXDgE4",
+        "track_href": "https://api.spotify.com/v1/tracks/3uMO7jmdXxwSijvxNXDgE4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3uMO7jmdXxwSijvxNXDgE4",
+        "duration_ms": 147680,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5oJw81e2Tzr2rC0lHXnDPb",
+    "name": "Speedometer",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 113.922,
+    "features": [
+      {
+        "danceability": 0.702,
+        "energy": 0.848,
+        "key": 7,
+        "loudness": -7.658,
+        "mode": 1,
+        "speechiness": 0.0526,
+        "acousticness": 0.00663,
+        "instrumentalness": 0.00424,
+        "liveness": 0.32,
+        "valence": 0.632,
+        "tempo": 113.922,
+        "type": "audio_features",
+        "id": "5oJw81e2Tzr2rC0lHXnDPb",
+        "uri": "spotify:track:5oJw81e2Tzr2rC0lHXnDPb",
+        "track_href": "https://api.spotify.com/v1/tracks/5oJw81e2Tzr2rC0lHXnDPb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5oJw81e2Tzr2rC0lHXnDPb",
+        "duration_ms": 162104,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4qtxILwBcAHEHbG7R0xF4r",
+    "name": "Hold My Breath",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 120.076,
+    "features": [
+      {
+        "danceability": 0.419,
+        "energy": 0.286,
+        "key": 3,
+        "loudness": -7.496,
+        "mode": 1,
+        "speechiness": 0.0341,
+        "acousticness": 0.532,
+        "instrumentalness": 9.58e-06,
+        "liveness": 0.127,
+        "valence": 0.173,
+        "tempo": 120.076,
+        "type": "audio_features",
+        "id": "4qtxILwBcAHEHbG7R0xF4r",
+        "uri": "spotify:track:4qtxILwBcAHEHbG7R0xF4r",
+        "track_href": "https://api.spotify.com/v1/tracks/4qtxILwBcAHEHbG7R0xF4r",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4qtxILwBcAHEHbG7R0xF4r",
+        "duration_ms": 208904,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3BHFResGQiUvbYToUdaDQz",
+    "name": "Enough Is Enough",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 165.996,
+    "features": [
+      {
+        "danceability": 0.491,
+        "energy": 0.748,
+        "key": 0,
+        "loudness": -5.019,
+        "mode": 1,
+        "speechiness": 0.0324,
+        "acousticness": 0.0128,
+        "instrumentalness": 0,
+        "liveness": 0.106,
+        "valence": 0.379,
+        "tempo": 165.996,
+        "type": "audio_features",
+        "id": "3BHFResGQiUvbYToUdaDQz",
+        "uri": "spotify:track:3BHFResGQiUvbYToUdaDQz",
+        "track_href": "https://api.spotify.com/v1/tracks/3BHFResGQiUvbYToUdaDQz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3BHFResGQiUvbYToUdaDQz",
+        "duration_ms": 165175,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0cuNKdwaFrDJ4G1hYxI6aI",
+    "name": "Texas Tea",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 79.941,
+    "features": [
+      {
+        "danceability": 0.566,
+        "energy": 0.578,
+        "key": 2,
+        "loudness": -6.021,
+        "mode": 1,
+        "speechiness": 0.0573,
+        "acousticness": 0.00186,
+        "instrumentalness": 2.36e-05,
+        "liveness": 0.196,
+        "valence": 0.37,
+        "tempo": 79.941,
+        "type": "audio_features",
+        "id": "0cuNKdwaFrDJ4G1hYxI6aI",
+        "uri": "spotify:track:0cuNKdwaFrDJ4G1hYxI6aI",
+        "track_href": "https://api.spotify.com/v1/tracks/0cuNKdwaFrDJ4G1hYxI6aI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0cuNKdwaFrDJ4G1hYxI6aI",
+        "duration_ms": 139361,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6wOmmoM5nyS6mOyzo9wDjC",
+    "name": "Buyer Beware",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 119.943,
+    "features": [
+      {
+        "danceability": 0.643,
+        "energy": 0.815,
+        "key": 7,
+        "loudness": -4.316,
+        "mode": 0,
+        "speechiness": 0.0596,
+        "acousticness": 0.0315,
+        "instrumentalness": 0,
+        "liveness": 0.161,
+        "valence": 0.406,
+        "tempo": 119.943,
+        "type": "audio_features",
+        "id": "6wOmmoM5nyS6mOyzo9wDjC",
+        "uri": "spotify:track:6wOmmoM5nyS6mOyzo9wDjC",
+        "track_href": "https://api.spotify.com/v1/tracks/6wOmmoM5nyS6mOyzo9wDjC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6wOmmoM5nyS6mOyzo9wDjC",
+        "duration_ms": 173482,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Sjg6cp8yXtKX5DrcEl7HV",
+    "name": "Landmine",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 171.872,
+    "features": [
+      {
+        "danceability": 0.315,
+        "energy": 0.559,
+        "key": 8,
+        "loudness": -6.995,
+        "mode": 1,
+        "speechiness": 0.0332,
+        "acousticness": 0.0384,
+        "instrumentalness": 0.000348,
+        "liveness": 0.135,
+        "valence": 0.206,
+        "tempo": 171.872,
+        "type": "audio_features",
+        "id": "6Sjg6cp8yXtKX5DrcEl7HV",
+        "uri": "spotify:track:6Sjg6cp8yXtKX5DrcEl7HV",
+        "track_href": "https://api.spotify.com/v1/tracks/6Sjg6cp8yXtKX5DrcEl7HV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Sjg6cp8yXtKX5DrcEl7HV",
+        "duration_ms": 184607,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "04J9hE3RhAsecsgVWl70jW",
+    "name": "Green Thumb",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 86.728,
+    "features": [
+      {
+        "danceability": 0.442,
+        "energy": 0.238,
+        "key": 7,
+        "loudness": -7.884,
+        "mode": 1,
+        "speechiness": 0.0425,
+        "acousticness": 0.741,
+        "instrumentalness": 0,
+        "liveness": 0.12,
+        "valence": 0.262,
+        "tempo": 86.728,
+        "type": "audio_features",
+        "id": "04J9hE3RhAsecsgVWl70jW",
+        "uri": "spotify:track:04J9hE3RhAsecsgVWl70jW",
+        "track_href": "https://api.spotify.com/v1/tracks/04J9hE3RhAsecsgVWl70jW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/04J9hE3RhAsecsgVWl70jW",
+        "duration_ms": 159407,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "26EjM7ZMAnWOKPAuKNOX24",
+    "name": "Laugh It Off",
+    "artist": "Post Malone",
+    "album": "AUSTIN",
+    "bpm": 152.115,
+    "features": [
+      {
+        "danceability": 0.494,
+        "energy": 0.54,
+        "key": 9,
+        "loudness": -5.807,
+        "mode": 1,
+        "speechiness": 0.0407,
+        "acousticness": 0.0141,
+        "instrumentalness": 1.05e-06,
+        "liveness": 0.0792,
+        "valence": 0.248,
+        "tempo": 152.115,
+        "type": "audio_features",
+        "id": "26EjM7ZMAnWOKPAuKNOX24",
+        "uri": "spotify:track:26EjM7ZMAnWOKPAuKNOX24",
+        "track_href": "https://api.spotify.com/v1/tracks/26EjM7ZMAnWOKPAuKNOX24",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/26EjM7ZMAnWOKPAuKNOX24",
+        "duration_ms": 246504,
+        "time_signature": 4
+      }
+    ]
+  }
+]

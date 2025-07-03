@@ -1,0 +1,466 @@
+[
+  {
+    "id": "2fhYmsDLFnntLFlzSom4x2",
+    "name": "El Chupa Nibre",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 104.449,
+    "features": [
+      {
+        "danceability": 0.67,
+        "energy": 0.764,
+        "key": 4,
+        "loudness": -6.652,
+        "mode": 0,
+        "speechiness": 0.357,
+        "acousticness": 0.0391,
+        "instrumentalness": 1.84e-05,
+        "liveness": 0.0317,
+        "valence": 0.714,
+        "tempo": 104.449,
+        "type": "audio_features",
+        "id": "2fhYmsDLFnntLFlzSom4x2",
+        "uri": "spotify:track:2fhYmsDLFnntLFlzSom4x2",
+        "track_href": "https://api.spotify.com/v1/tracks/2fhYmsDLFnntLFlzSom4x2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2fhYmsDLFnntLFlzSom4x2",
+        "duration_ms": 156253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3bPqgo3RO3ZESEpyCdNsnr",
+    "name": "Sofa King (feat. MF DOOM)",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 94.001,
+    "features": [
+      {
+        "danceability": 0.71,
+        "energy": 0.587,
+        "key": 11,
+        "loudness": -8.939,
+        "mode": 1,
+        "speechiness": 0.277,
+        "acousticness": 0.0115,
+        "instrumentalness": 4.53e-06,
+        "liveness": 0.44,
+        "valence": 0.839,
+        "tempo": 94.001,
+        "type": "audio_features",
+        "id": "3bPqgo3RO3ZESEpyCdNsnr",
+        "uri": "spotify:track:3bPqgo3RO3ZESEpyCdNsnr",
+        "track_href": "https://api.spotify.com/v1/tracks/3bPqgo3RO3ZESEpyCdNsnr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3bPqgo3RO3ZESEpyCdNsnr",
+        "duration_ms": 177067,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4eot5ez7vqPdifsGb785tr",
+    "name": "The Mask (feat. Ghostface Killah)",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 74.944,
+    "features": [
+      {
+        "danceability": 0.549,
+        "energy": 0.71,
+        "key": 1,
+        "loudness": -6.87,
+        "mode": 1,
+        "speechiness": 0.492,
+        "acousticness": 0.252,
+        "instrumentalness": 0,
+        "liveness": 0.417,
+        "valence": 0.536,
+        "tempo": 74.944,
+        "type": "audio_features",
+        "id": "4eot5ez7vqPdifsGb785tr",
+        "uri": "spotify:track:4eot5ez7vqPdifsGb785tr",
+        "track_href": "https://api.spotify.com/v1/tracks/4eot5ez7vqPdifsGb785tr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4eot5ez7vqPdifsGb785tr",
+        "duration_ms": 192227,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5Cdidoz5dkHSjQZAOlypMc",
+    "name": "Perfect Hair",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 183.401,
+    "features": [
+      {
+        "danceability": 0.467,
+        "energy": 0.872,
+        "key": 9,
+        "loudness": -5.661,
+        "mode": 0,
+        "speechiness": 0.299,
+        "acousticness": 0.37,
+        "instrumentalness": 2.83e-06,
+        "liveness": 0.683,
+        "valence": 0.799,
+        "tempo": 183.401,
+        "type": "audio_features",
+        "id": "5Cdidoz5dkHSjQZAOlypMc",
+        "uri": "spotify:track:5Cdidoz5dkHSjQZAOlypMc",
+        "track_href": "https://api.spotify.com/v1/tracks/5Cdidoz5dkHSjQZAOlypMc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Cdidoz5dkHSjQZAOlypMc",
+        "duration_ms": 123493,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6bmJYo1KS2X2nzQrCGzdOe",
+    "name": "Benzi Box (feat. CeeLo Green)",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 97.01,
+    "features": [
+      {
+        "danceability": 0.894,
+        "energy": 0.458,
+        "key": 2,
+        "loudness": -8.594,
+        "mode": 1,
+        "speechiness": 0.0508,
+        "acousticness": 0.0666,
+        "instrumentalness": 0.0187,
+        "liveness": 0.107,
+        "valence": 0.682,
+        "tempo": 97.01,
+        "type": "audio_features",
+        "id": "6bmJYo1KS2X2nzQrCGzdOe",
+        "uri": "spotify:track:6bmJYo1KS2X2nzQrCGzdOe",
+        "track_href": "https://api.spotify.com/v1/tracks/6bmJYo1KS2X2nzQrCGzdOe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6bmJYo1KS2X2nzQrCGzdOe",
+        "duration_ms": 180093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0cq0D853bAxP47bhFU9RKV",
+    "name": "Old School Rules (feat. Talib Kweli)",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 98.054,
+    "features": [
+      {
+        "danceability": 0.62,
+        "energy": 0.936,
+        "key": 2,
+        "loudness": -4.906,
+        "mode": 1,
+        "speechiness": 0.247,
+        "acousticness": 0.0784,
+        "instrumentalness": 0,
+        "liveness": 0.387,
+        "valence": 0.499,
+        "tempo": 98.054,
+        "type": "audio_features",
+        "id": "0cq0D853bAxP47bhFU9RKV",
+        "uri": "spotify:track:0cq0D853bAxP47bhFU9RKV",
+        "track_href": "https://api.spotify.com/v1/tracks/0cq0D853bAxP47bhFU9RKV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0cq0D853bAxP47bhFU9RKV",
+        "duration_ms": 160427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "03yMZBtC3QxyK7ttlBLeme",
+    "name": "A.T.H.F. (Aqua Teen Hunger Force)",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 88.916,
+    "features": [
+      {
+        "danceability": 0.74,
+        "energy": 0.739,
+        "key": 9,
+        "loudness": -6.549,
+        "mode": 1,
+        "speechiness": 0.412,
+        "acousticness": 0.295,
+        "instrumentalness": 0,
+        "liveness": 0.136,
+        "valence": 0.704,
+        "tempo": 88.916,
+        "type": "audio_features",
+        "id": "03yMZBtC3QxyK7ttlBLeme",
+        "uri": "spotify:track:03yMZBtC3QxyK7ttlBLeme",
+        "track_href": "https://api.spotify.com/v1/tracks/03yMZBtC3QxyK7ttlBLeme",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/03yMZBtC3QxyK7ttlBLeme",
+        "duration_ms": 183413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "47d3apjRmXQo52fLVvOdR7",
+    "name": "Basket Case",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 96.118,
+    "features": [
+      {
+        "danceability": 0.681,
+        "energy": 0.941,
+        "key": 11,
+        "loudness": -4.124,
+        "mode": 1,
+        "speechiness": 0.378,
+        "acousticness": 0.324,
+        "instrumentalness": 0,
+        "liveness": 0.436,
+        "valence": 0.547,
+        "tempo": 96.118,
+        "type": "audio_features",
+        "id": "47d3apjRmXQo52fLVvOdR7",
+        "uri": "spotify:track:47d3apjRmXQo52fLVvOdR7",
+        "track_href": "https://api.spotify.com/v1/tracks/47d3apjRmXQo52fLVvOdR7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/47d3apjRmXQo52fLVvOdR7",
+        "duration_ms": 154573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7pWKCRsXpS9BjPNODt72EM",
+    "name": "No Names (feat. Money Mark)",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 94.976,
+    "features": [
+      {
+        "danceability": 0.648,
+        "energy": 0.531,
+        "key": 8,
+        "loudness": -10.573,
+        "mode": 1,
+        "speechiness": 0.323,
+        "acousticness": 0.447,
+        "instrumentalness": 9.15e-06,
+        "liveness": 0.11,
+        "valence": 0.823,
+        "tempo": 94.976,
+        "type": "audio_features",
+        "id": "7pWKCRsXpS9BjPNODt72EM",
+        "uri": "spotify:track:7pWKCRsXpS9BjPNODt72EM",
+        "track_href": "https://api.spotify.com/v1/tracks/7pWKCRsXpS9BjPNODt72EM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7pWKCRsXpS9BjPNODt72EM",
+        "duration_ms": 187227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3T2LUDcZRrOnYzV1FprZTy",
+    "name": "Crosshairs",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 171.797,
+    "features": [
+      {
+        "danceability": 0.428,
+        "energy": 0.525,
+        "key": 9,
+        "loudness": -8.035,
+        "mode": 0,
+        "speechiness": 0.205,
+        "acousticness": 0.14,
+        "instrumentalness": 7.34e-05,
+        "liveness": 0.602,
+        "valence": 0.578,
+        "tempo": 171.797,
+        "type": "audio_features",
+        "id": "3T2LUDcZRrOnYzV1FprZTy",
+        "uri": "spotify:track:3T2LUDcZRrOnYzV1FprZTy",
+        "track_href": "https://api.spotify.com/v1/tracks/3T2LUDcZRrOnYzV1FprZTy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3T2LUDcZRrOnYzV1FprZTy",
+        "duration_ms": 146853,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4bCBiFAPiK7rquriyiHByb",
+    "name": "Mince Meat",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 98.946,
+    "features": [
+      {
+        "danceability": 0.812,
+        "energy": 0.485,
+        "key": 9,
+        "loudness": -8.709,
+        "mode": 1,
+        "speechiness": 0.291,
+        "acousticness": 0.19,
+        "instrumentalness": 0.000149,
+        "liveness": 0.211,
+        "valence": 0.385,
+        "tempo": 98.946,
+        "type": "audio_features",
+        "id": "4bCBiFAPiK7rquriyiHByb",
+        "uri": "spotify:track:4bCBiFAPiK7rquriyiHByb",
+        "track_href": "https://api.spotify.com/v1/tracks/4bCBiFAPiK7rquriyiHByb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4bCBiFAPiK7rquriyiHByb",
+        "duration_ms": 152933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7AE0NKbt0BemBF8wuC2uCG",
+    "name": "Vats Of Urine",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 96.451,
+    "features": [
+      {
+        "danceability": 0.59,
+        "energy": 0.591,
+        "key": 10,
+        "loudness": -7.538,
+        "mode": 0,
+        "speechiness": 0.242,
+        "acousticness": 0.0469,
+        "instrumentalness": 6.66e-06,
+        "liveness": 0.753,
+        "valence": 0.826,
+        "tempo": 96.451,
+        "type": "audio_features",
+        "id": "7AE0NKbt0BemBF8wuC2uCG",
+        "uri": "spotify:track:7AE0NKbt0BemBF8wuC2uCG",
+        "track_href": "https://api.spotify.com/v1/tracks/7AE0NKbt0BemBF8wuC2uCG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7AE0NKbt0BemBF8wuC2uCG",
+        "duration_ms": 107853,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3VSnfhbaNKZzvmNQilWcZ6",
+    "name": "Space Hos",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 97.733,
+    "features": [
+      {
+        "danceability": 0.733,
+        "energy": 0.82,
+        "key": 1,
+        "loudness": -7.288,
+        "mode": 1,
+        "speechiness": 0.24,
+        "acousticness": 0.239,
+        "instrumentalness": 0,
+        "liveness": 0.335,
+        "valence": 0.625,
+        "tempo": 97.733,
+        "type": "audio_features",
+        "id": "3VSnfhbaNKZzvmNQilWcZ6",
+        "uri": "spotify:track:3VSnfhbaNKZzvmNQilWcZ6",
+        "track_href": "https://api.spotify.com/v1/tracks/3VSnfhbaNKZzvmNQilWcZ6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3VSnfhbaNKZzvmNQilWcZ6",
+        "duration_ms": 209480,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1uU3g8Rgl0dW2uyMn21VQq",
+    "name": "Bada Bing",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 174.221,
+    "features": [
+      {
+        "danceability": 0.508,
+        "energy": 0.677,
+        "key": 0,
+        "loudness": -8.646,
+        "mode": 1,
+        "speechiness": 0.897,
+        "acousticness": 0.3,
+        "instrumentalness": 0,
+        "liveness": 0.859,
+        "valence": 0.376,
+        "tempo": 174.221,
+        "type": "audio_features",
+        "id": "1uU3g8Rgl0dW2uyMn21VQq",
+        "uri": "spotify:track:1uU3g8Rgl0dW2uyMn21VQq",
+        "track_href": "https://api.spotify.com/v1/tracks/1uU3g8Rgl0dW2uyMn21VQq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1uU3g8Rgl0dW2uyMn21VQq",
+        "duration_ms": 267907,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "25Yz1cgjkmlXGvdlHNyhim",
+    "name": "Sofa King (feat. Danger Mouse) - Danger Mouse Remix",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 94.049,
+    "features": [
+      {
+        "danceability": 0.753,
+        "energy": 0.626,
+        "key": 5,
+        "loudness": -8.1,
+        "mode": 0,
+        "speechiness": 0.322,
+        "acousticness": 0.474,
+        "instrumentalness": 0,
+        "liveness": 0.12,
+        "valence": 0.86,
+        "tempo": 94.049,
+        "type": "audio_features",
+        "id": "25Yz1cgjkmlXGvdlHNyhim",
+        "uri": "spotify:track:25Yz1cgjkmlXGvdlHNyhim",
+        "track_href": "https://api.spotify.com/v1/tracks/25Yz1cgjkmlXGvdlHNyhim",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/25Yz1cgjkmlXGvdlHNyhim",
+        "duration_ms": 169067,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3BJXyyrpG3OgiU5IF4yR1i",
+    "name": "Space Ho's (feat. Madlib) - Madlib Remix",
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Bonus Version)",
+    "bpm": 100.866,
+    "features": [
+      {
+        "danceability": 0.44,
+        "energy": 0.825,
+        "key": 9,
+        "loudness": -5.896,
+        "mode": 1,
+        "speechiness": 0.238,
+        "acousticness": 0.314,
+        "instrumentalness": 6.67e-06,
+        "liveness": 0.166,
+        "valence": 0.749,
+        "tempo": 100.866,
+        "type": "audio_features",
+        "id": "3BJXyyrpG3OgiU5IF4yR1i",
+        "uri": "spotify:track:3BJXyyrpG3OgiU5IF4yR1i",
+        "track_href": "https://api.spotify.com/v1/tracks/3BJXyyrpG3OgiU5IF4yR1i",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3BJXyyrpG3OgiU5IF4yR1i",
+        "duration_ms": 228253,
+        "time_signature": 4
+      }
+    ]
+  }
+]

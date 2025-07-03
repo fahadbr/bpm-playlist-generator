@@ -1,0 +1,350 @@
+[
+  {
+    "id": "5EeZuhVQdnUkpCiknMTeoP",
+    "name": "Pay the Man",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "bpm": 99.969,
+    "features": [
+      {
+        "danceability": 0.688,
+        "energy": 0.769,
+        "key": 6,
+        "loudness": -5.52,
+        "mode": 0,
+        "speechiness": 0.0376,
+        "acousticness": 0.00148,
+        "instrumentalness": 1.08e-05,
+        "liveness": 0.262,
+        "valence": 0.505,
+        "tempo": 99.969,
+        "type": "audio_features",
+        "id": "5EeZuhVQdnUkpCiknMTeoP",
+        "uri": "spotify:track:5EeZuhVQdnUkpCiknMTeoP",
+        "track_href": "https://api.spotify.com/v1/tracks/5EeZuhVQdnUkpCiknMTeoP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5EeZuhVQdnUkpCiknMTeoP",
+        "duration_ms": 233720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6APnYxfLzIg2cejA3v2ljy",
+    "name": "Doing It for the Money",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "bpm": 154.925,
+    "features": [
+      {
+        "danceability": 0.558,
+        "energy": 0.813,
+        "key": 7,
+        "loudness": -4.669,
+        "mode": 0,
+        "speechiness": 0.0462,
+        "acousticness": 0.0036,
+        "instrumentalness": 0.00358,
+        "liveness": 0.179,
+        "valence": 0.616,
+        "tempo": 154.925,
+        "type": "audio_features",
+        "id": "6APnYxfLzIg2cejA3v2ljy",
+        "uri": "spotify:track:6APnYxfLzIg2cejA3v2ljy",
+        "track_href": "https://api.spotify.com/v1/tracks/6APnYxfLzIg2cejA3v2ljy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6APnYxfLzIg2cejA3v2ljy",
+        "duration_ms": 226027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4BdGO1CaObRD4La9l5Zanz",
+    "name": "Sit Next to Me",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "bpm": 97.021,
+    "features": [
+      {
+        "danceability": 0.638,
+        "energy": 0.738,
+        "key": 6,
+        "loudness": -4.976,
+        "mode": 0,
+        "speechiness": 0.0292,
+        "acousticness": 0.117,
+        "instrumentalness": 0.000384,
+        "liveness": 0.689,
+        "valence": 0.657,
+        "tempo": 97.021,
+        "type": "audio_features",
+        "id": "4BdGO1CaObRD4La9l5Zanz",
+        "uri": "spotify:track:4BdGO1CaObRD4La9l5Zanz",
+        "track_href": "https://api.spotify.com/v1/tracks/4BdGO1CaObRD4La9l5Zanz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4BdGO1CaObRD4La9l5Zanz",
+        "duration_ms": 243147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1vcAHEXL5Cl9TUk0ESvWnN",
+    "name": "SHC",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "bpm": 121.989,
+    "features": [
+      {
+        "danceability": 0.5,
+        "energy": 0.859,
+        "key": 6,
+        "loudness": -4.133,
+        "mode": 0,
+        "speechiness": 0.0506,
+        "acousticness": 0.00126,
+        "instrumentalness": 0.00279,
+        "liveness": 0.329,
+        "valence": 0.269,
+        "tempo": 121.989,
+        "type": "audio_features",
+        "id": "1vcAHEXL5Cl9TUk0ESvWnN",
+        "uri": "spotify:track:1vcAHEXL5Cl9TUk0ESvWnN",
+        "track_href": "https://api.spotify.com/v1/tracks/1vcAHEXL5Cl9TUk0ESvWnN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1vcAHEXL5Cl9TUk0ESvWnN",
+        "duration_ms": 248107,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4bMIRaesSZwIldFWCGs96S",
+    "name": "I Love My Friends",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "bpm": 115.97,
+    "features": [
+      {
+        "danceability": 0.705,
+        "energy": 0.887,
+        "key": 4,
+        "loudness": -5.168,
+        "mode": 0,
+        "speechiness": 0.0318,
+        "acousticness": 0.0323,
+        "instrumentalness": 0.000578,
+        "liveness": 0.227,
+        "valence": 0.873,
+        "tempo": 115.97,
+        "type": "audio_features",
+        "id": "4bMIRaesSZwIldFWCGs96S",
+        "uri": "spotify:track:4bMIRaesSZwIldFWCGs96S",
+        "track_href": "https://api.spotify.com/v1/tracks/4bMIRaesSZwIldFWCGs96S",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4bMIRaesSZwIldFWCGs96S",
+        "duration_ms": 225427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "50kg9qK4cWkMXXVNP3zWBW",
+    "name": "Orange Dream",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "bpm": 125.918,
+    "features": [
+      {
+        "danceability": 0.472,
+        "energy": 0.716,
+        "key": 2,
+        "loudness": -8.7,
+        "mode": 0,
+        "speechiness": 0.0502,
+        "acousticness": 0.00191,
+        "instrumentalness": 0.892,
+        "liveness": 0.405,
+        "valence": 0.37,
+        "tempo": 125.918,
+        "type": "audio_features",
+        "id": "50kg9qK4cWkMXXVNP3zWBW",
+        "uri": "spotify:track:50kg9qK4cWkMXXVNP3zWBW",
+        "track_href": "https://api.spotify.com/v1/tracks/50kg9qK4cWkMXXVNP3zWBW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/50kg9qK4cWkMXXVNP3zWBW",
+        "duration_ms": 80373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5JqXtvd8bAyyPTjaK6cSDH",
+    "name": "Static Space Lover",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "bpm": 141.949,
+    "features": [
+      {
+        "danceability": 0.615,
+        "energy": 0.931,
+        "key": 0,
+        "loudness": -4.648,
+        "mode": 0,
+        "speechiness": 0.0634,
+        "acousticness": 0.0039,
+        "instrumentalness": 0.00191,
+        "liveness": 0.303,
+        "valence": 0.55,
+        "tempo": 141.949,
+        "type": "audio_features",
+        "id": "5JqXtvd8bAyyPTjaK6cSDH",
+        "uri": "spotify:track:5JqXtvd8bAyyPTjaK6cSDH",
+        "track_href": "https://api.spotify.com/v1/tracks/5JqXtvd8bAyyPTjaK6cSDH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5JqXtvd8bAyyPTjaK6cSDH",
+        "duration_ms": 240080,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6ReKt5x6FVUXTMdWNC6GAQ",
+    "name": "Lotus Eater",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "bpm": 87.479,
+    "features": [
+      {
+        "danceability": 0.597,
+        "energy": 0.733,
+        "key": 11,
+        "loudness": -4.727,
+        "mode": 0,
+        "speechiness": 0.11,
+        "acousticness": 0.00457,
+        "instrumentalness": 0.00191,
+        "liveness": 0.501,
+        "valence": 0.866,
+        "tempo": 87.479,
+        "type": "audio_features",
+        "id": "6ReKt5x6FVUXTMdWNC6GAQ",
+        "uri": "spotify:track:6ReKt5x6FVUXTMdWNC6GAQ",
+        "track_href": "https://api.spotify.com/v1/tracks/6ReKt5x6FVUXTMdWNC6GAQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ReKt5x6FVUXTMdWNC6GAQ",
+        "duration_ms": 182653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0RweUCzWNmSfyozSbyKz88",
+    "name": "Time to Get Closer",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "bpm": 170.265,
+    "features": [
+      {
+        "danceability": 0.258,
+        "energy": 0.7,
+        "key": 7,
+        "loudness": -4.6,
+        "mode": 0,
+        "speechiness": 0.0366,
+        "acousticness": 0.524,
+        "instrumentalness": 0.954,
+        "liveness": 0.145,
+        "valence": 0.173,
+        "tempo": 170.265,
+        "type": "audio_features",
+        "id": "0RweUCzWNmSfyozSbyKz88",
+        "uri": "spotify:track:0RweUCzWNmSfyozSbyKz88",
+        "track_href": "https://api.spotify.com/v1/tracks/0RweUCzWNmSfyozSbyKz88",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0RweUCzWNmSfyozSbyKz88",
+        "duration_ms": 57907,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "05y63nsti7WpAVys68ADwi",
+    "name": "Loyal Like Sid & Nancy",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "bpm": 123.77,
+    "features": [
+      {
+        "danceability": 0.437,
+        "energy": 0.718,
+        "key": 0,
+        "loudness": -8.052,
+        "mode": 1,
+        "speechiness": 0.0742,
+        "acousticness": 0.000739,
+        "instrumentalness": 0.0529,
+        "liveness": 0.0965,
+        "valence": 0.241,
+        "tempo": 123.77,
+        "type": "audio_features",
+        "id": "05y63nsti7WpAVys68ADwi",
+        "uri": "spotify:track:05y63nsti7WpAVys68ADwi",
+        "track_href": "https://api.spotify.com/v1/tracks/05y63nsti7WpAVys68ADwi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/05y63nsti7WpAVys68ADwi",
+        "duration_ms": 279960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7mlJpcVvVRzgGwkL3GUgY3",
+    "name": "Harden the Paint",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "bpm": 165.917,
+    "features": [
+      {
+        "danceability": 0.483,
+        "energy": 0.721,
+        "key": 11,
+        "loudness": -5.633,
+        "mode": 0,
+        "speechiness": 0.0365,
+        "acousticness": 0.000152,
+        "instrumentalness": 0.488,
+        "liveness": 0.0644,
+        "valence": 0.232,
+        "tempo": 165.917,
+        "type": "audio_features",
+        "id": "7mlJpcVvVRzgGwkL3GUgY3",
+        "uri": "spotify:track:7mlJpcVvVRzgGwkL3GUgY3",
+        "track_href": "https://api.spotify.com/v1/tracks/7mlJpcVvVRzgGwkL3GUgY3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7mlJpcVvVRzgGwkL3GUgY3",
+        "duration_ms": 234547,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2208Pkqr9zSappQMfKfJKk",
+    "name": "III",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "bpm": 75.015,
+    "features": [
+      {
+        "danceability": 0.442,
+        "energy": 0.64,
+        "key": 6,
+        "loudness": -8.622,
+        "mode": 1,
+        "speechiness": 0.0471,
+        "acousticness": 0.14,
+        "instrumentalness": 0.000931,
+        "liveness": 0.109,
+        "valence": 0.16,
+        "tempo": 75.015,
+        "type": "audio_features",
+        "id": "2208Pkqr9zSappQMfKfJKk",
+        "uri": "spotify:track:2208Pkqr9zSappQMfKfJKk",
+        "track_href": "https://api.spotify.com/v1/tracks/2208Pkqr9zSappQMfKfJKk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2208Pkqr9zSappQMfKfJKk",
+        "duration_ms": 249493,
+        "time_signature": 4
+      }
+    ]
+  }
+]

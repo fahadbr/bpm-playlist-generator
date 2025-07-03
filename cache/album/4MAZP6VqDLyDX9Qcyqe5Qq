@@ -1,0 +1,292 @@
+[
+  {
+    "id": "5NPNg1glR6Mo2zprm832qW",
+    "name": "Heatwave",
+    "artist": "Raury",
+    "album": "Strawberry Moon",
+    "bpm": 119.459,
+    "features": [
+      {
+        "danceability": 0.741,
+        "energy": 0.617,
+        "key": 2,
+        "loudness": -7.718,
+        "mode": 0,
+        "speechiness": 0.0997,
+        "acousticness": 0.0898,
+        "instrumentalness": 3.02e-05,
+        "liveness": 0.0728,
+        "valence": 0.429,
+        "tempo": 119.459,
+        "type": "audio_features",
+        "id": "5NPNg1glR6Mo2zprm832qW",
+        "uri": "spotify:track:5NPNg1glR6Mo2zprm832qW",
+        "track_href": "https://api.spotify.com/v1/tracks/5NPNg1glR6Mo2zprm832qW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5NPNg1glR6Mo2zprm832qW",
+        "duration_ms": 256000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6phZ7jiHumKDhXJmYiWcUi",
+    "name": "2020 Vision",
+    "artist": "Raury",
+    "album": "Strawberry Moon",
+    "bpm": 111.015,
+    "features": [
+      {
+        "danceability": 0.875,
+        "energy": 0.667,
+        "key": 9,
+        "loudness": -8.321,
+        "mode": 1,
+        "speechiness": 0.0743,
+        "acousticness": 0.0345,
+        "instrumentalness": 4.58e-05,
+        "liveness": 0.0738,
+        "valence": 0.702,
+        "tempo": 111.015,
+        "type": "audio_features",
+        "id": "6phZ7jiHumKDhXJmYiWcUi",
+        "uri": "spotify:track:6phZ7jiHumKDhXJmYiWcUi",
+        "track_href": "https://api.spotify.com/v1/tracks/6phZ7jiHumKDhXJmYiWcUi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6phZ7jiHumKDhXJmYiWcUi",
+        "duration_ms": 278919,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3JeZ3qlEKKuOccXYcm0ZDo",
+    "name": "Feel Good",
+    "artist": "Raury",
+    "album": "Strawberry Moon",
+    "bpm": 132.039,
+    "features": [
+      {
+        "danceability": 0.718,
+        "energy": 0.562,
+        "key": 7,
+        "loudness": -8.604,
+        "mode": 0,
+        "speechiness": 0.107,
+        "acousticness": 0.244,
+        "instrumentalness": 0,
+        "liveness": 0.119,
+        "valence": 0.474,
+        "tempo": 132.039,
+        "type": "audio_features",
+        "id": "3JeZ3qlEKKuOccXYcm0ZDo",
+        "uri": "spotify:track:3JeZ3qlEKKuOccXYcm0ZDo",
+        "track_href": "https://api.spotify.com/v1/tracks/3JeZ3qlEKKuOccXYcm0ZDo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JeZ3qlEKKuOccXYcm0ZDo",
+        "duration_ms": 256371,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5Bf6PE17FU6EDpde81mGbG",
+    "name": "Cloak",
+    "artist": "Raury",
+    "album": "Strawberry Moon",
+    "bpm": 129.886,
+    "features": [
+      {
+        "danceability": 0.638,
+        "energy": 0.664,
+        "key": 8,
+        "loudness": -10.634,
+        "mode": 0,
+        "speechiness": 0.296,
+        "acousticness": 0.381,
+        "instrumentalness": 0.0514,
+        "liveness": 0.07,
+        "valence": 0.626,
+        "tempo": 129.886,
+        "type": "audio_features",
+        "id": "5Bf6PE17FU6EDpde81mGbG",
+        "uri": "spotify:track:5Bf6PE17FU6EDpde81mGbG",
+        "track_href": "https://api.spotify.com/v1/tracks/5Bf6PE17FU6EDpde81mGbG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Bf6PE17FU6EDpde81mGbG",
+        "duration_ms": 324694,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4c2UNPqgz6BAygGCc6Z1tM",
+    "name": "August",
+    "artist": "Raury",
+    "album": "Strawberry Moon",
+    "bpm": 131.683,
+    "features": [
+      {
+        "danceability": 0.416,
+        "energy": 0.467,
+        "key": 0,
+        "loudness": -10.213,
+        "mode": 1,
+        "speechiness": 0.0389,
+        "acousticness": 0.0337,
+        "instrumentalness": 0.00019,
+        "liveness": 0.0805,
+        "valence": 0.0405,
+        "tempo": 131.683,
+        "type": "audio_features",
+        "id": "4c2UNPqgz6BAygGCc6Z1tM",
+        "uri": "spotify:track:4c2UNPqgz6BAygGCc6Z1tM",
+        "track_href": "https://api.spotify.com/v1/tracks/4c2UNPqgz6BAygGCc6Z1tM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4c2UNPqgz6BAygGCc6Z1tM",
+        "duration_ms": 237049,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3Uq9wXwoKAS4YqzV15cCdf",
+    "name": "Channel Zero",
+    "artist": "Raury",
+    "album": "Strawberry Moon",
+    "bpm": 119.733,
+    "features": [
+      {
+        "danceability": 0.592,
+        "energy": 0.841,
+        "key": 4,
+        "loudness": -9.842,
+        "mode": 0,
+        "speechiness": 0.0655,
+        "acousticness": 0.0319,
+        "instrumentalness": 0.176,
+        "liveness": 0.081,
+        "valence": 0.703,
+        "tempo": 119.733,
+        "type": "audio_features",
+        "id": "3Uq9wXwoKAS4YqzV15cCdf",
+        "uri": "spotify:track:3Uq9wXwoKAS4YqzV15cCdf",
+        "track_href": "https://api.spotify.com/v1/tracks/3Uq9wXwoKAS4YqzV15cCdf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Uq9wXwoKAS4YqzV15cCdf",
+        "duration_ms": 230171,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1IYFmu4dkckk2AgjCyRiQe",
+    "name": "Her Smile",
+    "artist": "Raury",
+    "album": "Strawberry Moon",
+    "bpm": 106.903,
+    "features": [
+      {
+        "danceability": 0.281,
+        "energy": 0.243,
+        "key": 8,
+        "loudness": -15.424,
+        "mode": 1,
+        "speechiness": 0.0361,
+        "acousticness": 0.847,
+        "instrumentalness": 0.604,
+        "liveness": 0.0962,
+        "valence": 0.0382,
+        "tempo": 106.903,
+        "type": "audio_features",
+        "id": "1IYFmu4dkckk2AgjCyRiQe",
+        "uri": "spotify:track:1IYFmu4dkckk2AgjCyRiQe",
+        "track_href": "https://api.spotify.com/v1/tracks/1IYFmu4dkckk2AgjCyRiQe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1IYFmu4dkckk2AgjCyRiQe",
+        "duration_ms": 261132,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0zhvNApNgGqF7JXA08ayW1",
+    "name": "Room For Error",
+    "artist": "Raury",
+    "album": "Strawberry Moon",
+    "bpm": 118.989,
+    "features": [
+      {
+        "danceability": 0.897,
+        "energy": 0.388,
+        "key": 9,
+        "loudness": -11.089,
+        "mode": 1,
+        "speechiness": 0.0692,
+        "acousticness": 0.0301,
+        "instrumentalness": 0.00911,
+        "liveness": 0.0826,
+        "valence": 0.658,
+        "tempo": 118.989,
+        "type": "audio_features",
+        "id": "0zhvNApNgGqF7JXA08ayW1",
+        "uri": "spotify:track:0zhvNApNgGqF7JXA08ayW1",
+        "track_href": "https://api.spotify.com/v1/tracks/0zhvNApNgGqF7JXA08ayW1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0zhvNApNgGqF7JXA08ayW1",
+        "duration_ms": 191445,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4JWpE7H29r78xNNw9CxiuR",
+    "name": "Phases",
+    "artist": "Raury",
+    "album": "Strawberry Moon",
+    "bpm": 95.001,
+    "features": [
+      {
+        "danceability": 0.715,
+        "energy": 0.494,
+        "key": 2,
+        "loudness": -8.619,
+        "mode": 1,
+        "speechiness": 0.0368,
+        "acousticness": 0.0585,
+        "instrumentalness": 0.00695,
+        "liveness": 0.134,
+        "valence": 0.286,
+        "tempo": 95.001,
+        "type": "audio_features",
+        "id": "4JWpE7H29r78xNNw9CxiuR",
+        "uri": "spotify:track:4JWpE7H29r78xNNw9CxiuR",
+        "track_href": "https://api.spotify.com/v1/tracks/4JWpE7H29r78xNNw9CxiuR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4JWpE7H29r78xNNw9CxiuR",
+        "duration_ms": 194391,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6MNhfsexgLj3ienvjdSDmY",
+    "name": "That's Life",
+    "artist": "Raury",
+    "album": "Strawberry Moon",
+    "bpm": 129.558,
+    "features": [
+      {
+        "danceability": 0.493,
+        "energy": 0.598,
+        "key": 7,
+        "loudness": -6.437,
+        "mode": 0,
+        "speechiness": 0.0329,
+        "acousticness": 0.186,
+        "instrumentalness": 0.412,
+        "liveness": 0.286,
+        "valence": 0.296,
+        "tempo": 129.558,
+        "type": "audio_features",
+        "id": "6MNhfsexgLj3ienvjdSDmY",
+        "uri": "spotify:track:6MNhfsexgLj3ienvjdSDmY",
+        "track_href": "https://api.spotify.com/v1/tracks/6MNhfsexgLj3ienvjdSDmY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6MNhfsexgLj3ienvjdSDmY",
+        "duration_ms": 209966,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "id": "2b7FqlHc3JrzlYtGEkzq22",
+    "name": "Juicy - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 96.067,
+    "features": [
+      {
+        "danceability": 0.873,
+        "energy": 0.816,
+        "key": 9,
+        "loudness": -4.645,
+        "mode": 1,
+        "speechiness": 0.256,
+        "acousticness": 0.483,
+        "instrumentalness": 0,
+        "liveness": 0.146,
+        "valence": 0.79,
+        "tempo": 96.067,
+        "type": "audio_features",
+        "id": "2b7FqlHc3JrzlYtGEkzq22",
+        "uri": "spotify:track:2b7FqlHc3JrzlYtGEkzq22",
+        "track_href": "https://api.spotify.com/v1/tracks/2b7FqlHc3JrzlYtGEkzq22",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2b7FqlHc3JrzlYtGEkzq22",
+        "duration_ms": 301467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "63BcfK6YAzJYeISaTPr6IO",
+    "name": "Big Poppa - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 84.5,
+    "features": [
+      {
+        "danceability": 0.765,
+        "energy": 0.671,
+        "key": 9,
+        "loudness": -5.249,
+        "mode": 0,
+        "speechiness": 0.278,
+        "acousticness": 0.344,
+        "instrumentalness": 0,
+        "liveness": 0.0506,
+        "valence": 0.798,
+        "tempo": 84.5,
+        "type": "audio_features",
+        "id": "63BcfK6YAzJYeISaTPr6IO",
+        "uri": "spotify:track:63BcfK6YAzJYeISaTPr6IO",
+        "track_href": "https://api.spotify.com/v1/tracks/63BcfK6YAzJYeISaTPr6IO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/63BcfK6YAzJYeISaTPr6IO",
+        "duration_ms": 249867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Tsu3OsuMz4KEGKbOYd6A0",
+    "name": "Hypnotize - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 93.944,
+    "features": [
+      {
+        "danceability": 0.895,
+        "energy": 0.694,
+        "key": 9,
+        "loudness": -4.384,
+        "mode": 1,
+        "speechiness": 0.275,
+        "acousticness": 0.176,
+        "instrumentalness": 0,
+        "liveness": 0.292,
+        "valence": 0.632,
+        "tempo": 93.944,
+        "type": "audio_features",
+        "id": "6Tsu3OsuMz4KEGKbOYd6A0",
+        "uri": "spotify:track:6Tsu3OsuMz4KEGKbOYd6A0",
+        "track_href": "https://api.spotify.com/v1/tracks/6Tsu3OsuMz4KEGKbOYd6A0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Tsu3OsuMz4KEGKbOYd6A0",
+        "duration_ms": 230000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7fXhkARAtS66kxexMIAx8O",
+    "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 90.964,
+    "features": [
+      {
+        "danceability": 0.725,
+        "energy": 0.68,
+        "key": 0,
+        "loudness": -6.037,
+        "mode": 1,
+        "speechiness": 0.224,
+        "acousticness": 0.149,
+        "instrumentalness": 0,
+        "liveness": 0.127,
+        "valence": 0.695,
+        "tempo": 90.964,
+        "type": "audio_features",
+        "id": "7fXhkARAtS66kxexMIAx8O",
+        "uri": "spotify:track:7fXhkARAtS66kxexMIAx8O",
+        "track_href": "https://api.spotify.com/v1/tracks/7fXhkARAtS66kxexMIAx8O",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7fXhkARAtS66kxexMIAx8O",
+        "duration_ms": 268707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3PA9dH8cT0wR5UW4XkC44Y",
+    "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 91.153,
+    "features": [
+      {
+        "danceability": 0.711,
+        "energy": 0.871,
+        "key": 2,
+        "loudness": -4.32,
+        "mode": 1,
+        "speechiness": 0.294,
+        "acousticness": 0.398,
+        "instrumentalness": 1.69e-06,
+        "liveness": 0.171,
+        "valence": 0.912,
+        "tempo": 91.153,
+        "type": "audio_features",
+        "id": "3PA9dH8cT0wR5UW4XkC44Y",
+        "uri": "spotify:track:3PA9dH8cT0wR5UW4XkC44Y",
+        "track_href": "https://api.spotify.com/v1/tracks/3PA9dH8cT0wR5UW4XkC44Y",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3PA9dH8cT0wR5UW4XkC44Y",
+        "duration_ms": 274440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0QfbuZrjcfyS8HqQ8d8xcs",
+    "name": "Warning - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 85.94,
+    "features": [
+      {
+        "danceability": 0.771,
+        "energy": 0.865,
+        "key": 6,
+        "loudness": -6.15,
+        "mode": 1,
+        "speechiness": 0.368,
+        "acousticness": 0.232,
+        "instrumentalness": 7.08e-06,
+        "liveness": 0.0909,
+        "valence": 0.372,
+        "tempo": 85.94,
+        "type": "audio_features",
+        "id": "0QfbuZrjcfyS8HqQ8d8xcs",
+        "uri": "spotify:track:0QfbuZrjcfyS8HqQ8d8xcs",
+        "track_href": "https://api.spotify.com/v1/tracks/0QfbuZrjcfyS8HqQ8d8xcs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0QfbuZrjcfyS8HqQ8d8xcs",
+        "duration_ms": 219227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6SMrWEWukd0DWh5iHGWgks",
+    "name": "Dead Wrong (feat. Eminem) - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 82.122,
+    "features": [
+      {
+        "danceability": 0.648,
+        "energy": 0.895,
+        "key": 10,
+        "loudness": -3.187,
+        "mode": 1,
+        "speechiness": 0.28,
+        "acousticness": 0.195,
+        "instrumentalness": 0.00132,
+        "liveness": 0.0335,
+        "valence": 0.817,
+        "tempo": 82.122,
+        "type": "audio_features",
+        "id": "6SMrWEWukd0DWh5iHGWgks",
+        "uri": "spotify:track:6SMrWEWukd0DWh5iHGWgks",
+        "track_href": "https://api.spotify.com/v1/tracks/6SMrWEWukd0DWh5iHGWgks",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6SMrWEWukd0DWh5iHGWgks",
+        "duration_ms": 297227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2kM3gIkHRiikiaIUFk3Fje",
+    "name": "Who Shot Ya? - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 91.743,
+    "features": [
+      {
+        "danceability": 0.824,
+        "energy": 0.73,
+        "key": 11,
+        "loudness": -5.183,
+        "mode": 0,
+        "speechiness": 0.247,
+        "acousticness": 0.202,
+        "instrumentalness": 0,
+        "liveness": 0.442,
+        "valence": 0.625,
+        "tempo": 91.743,
+        "type": "audio_features",
+        "id": "2kM3gIkHRiikiaIUFk3Fje",
+        "uri": "spotify:track:2kM3gIkHRiikiaIUFk3Fje",
+        "track_href": "https://api.spotify.com/v1/tracks/2kM3gIkHRiikiaIUFk3Fje",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2kM3gIkHRiikiaIUFk3Fje",
+        "duration_ms": 316507,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4xtq6uY0ofikksLWN37pT4",
+    "name": "Ten Crack Commandments - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 173.812,
+    "features": [
+      {
+        "danceability": 0.612,
+        "energy": 0.846,
+        "key": 8,
+        "loudness": -5.728,
+        "mode": 1,
+        "speechiness": 0.544,
+        "acousticness": 0.061,
+        "instrumentalness": 0,
+        "liveness": 0.314,
+        "valence": 0.797,
+        "tempo": 173.812,
+        "type": "audio_features",
+        "id": "4xtq6uY0ofikksLWN37pT4",
+        "uri": "spotify:track:4xtq6uY0ofikksLWN37pT4",
+        "track_href": "https://api.spotify.com/v1/tracks/4xtq6uY0ofikksLWN37pT4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4xtq6uY0ofikksLWN37pT4",
+        "duration_ms": 203947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1ozdRCYFVt8Ui0dba1520D",
+    "name": "Notorious Thugs (feat. Bone Thugs-n-Harmony) - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 154.875,
+    "features": [
+      {
+        "danceability": 0.738,
+        "energy": 0.782,
+        "key": 11,
+        "loudness": -6.315,
+        "mode": 0,
+        "speechiness": 0.169,
+        "acousticness": 0.143,
+        "instrumentalness": 6.4e-06,
+        "liveness": 0.176,
+        "valence": 0.654,
+        "tempo": 154.875,
+        "type": "audio_features",
+        "id": "1ozdRCYFVt8Ui0dba1520D",
+        "uri": "spotify:track:1ozdRCYFVt8Ui0dba1520D",
+        "track_href": "https://api.spotify.com/v1/tracks/1ozdRCYFVt8Ui0dba1520D",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ozdRCYFVt8Ui0dba1520D",
+        "duration_ms": 367227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0bwmYdUFwNwqDwFkxEnfIN",
+    "name": "Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 101.292,
+    "features": [
+      {
+        "danceability": 0.916,
+        "energy": 0.717,
+        "key": 1,
+        "loudness": -5.007,
+        "mode": 0,
+        "speechiness": 0.26,
+        "acousticness": 0.0978,
+        "instrumentalness": 0,
+        "liveness": 0.131,
+        "valence": 0.815,
+        "tempo": 101.292,
+        "type": "audio_features",
+        "id": "0bwmYdUFwNwqDwFkxEnfIN",
+        "uri": "spotify:track:0bwmYdUFwNwqDwFkxEnfIN",
+        "track_href": "https://api.spotify.com/v1/tracks/0bwmYdUFwNwqDwFkxEnfIN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0bwmYdUFwNwqDwFkxEnfIN",
+        "duration_ms": 191987,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6h9N19LonRj0ZsVa60APmh",
+    "name": "Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 106.356,
+    "features": [
+      {
+        "danceability": 0.807,
+        "energy": 0.726,
+        "key": 2,
+        "loudness": -5.017,
+        "mode": 1,
+        "speechiness": 0.184,
+        "acousticness": 0.103,
+        "instrumentalness": 0,
+        "liveness": 0.297,
+        "valence": 0.713,
+        "tempo": 106.356,
+        "type": "audio_features",
+        "id": "6h9N19LonRj0ZsVa60APmh",
+        "uri": "spotify:track:6h9N19LonRj0ZsVa60APmh",
+        "track_href": "https://api.spotify.com/v1/tracks/6h9N19LonRj0ZsVa60APmh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6h9N19LonRj0ZsVa60APmh",
+        "duration_ms": 286200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5qBfyjlx8U9Jgi4l1YOe4C",
+    "name": "Unbelievable - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 91.627,
+    "features": [
+      {
+        "danceability": 0.78,
+        "energy": 0.926,
+        "key": 6,
+        "loudness": -3.913,
+        "mode": 0,
+        "speechiness": 0.284,
+        "acousticness": 0.224,
+        "instrumentalness": 6.22e-05,
+        "liveness": 0.136,
+        "valence": 0.781,
+        "tempo": 91.627,
+        "type": "audio_features",
+        "id": "5qBfyjlx8U9Jgi4l1YOe4C",
+        "uri": "spotify:track:5qBfyjlx8U9Jgi4l1YOe4C",
+        "track_href": "https://api.spotify.com/v1/tracks/5qBfyjlx8U9Jgi4l1YOe4C",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5qBfyjlx8U9Jgi4l1YOe4C",
+        "duration_ms": 220040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1eYMV8fZO3R7ZlOgVQ57GF",
+    "name": "Niggas Bleed - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 84.366,
+    "features": [
+      {
+        "danceability": 0.592,
+        "energy": 0.858,
+        "key": 9,
+        "loudness": -3.871,
+        "mode": 1,
+        "speechiness": 0.27,
+        "acousticness": 0.382,
+        "instrumentalness": 0,
+        "liveness": 0.172,
+        "valence": 0.531,
+        "tempo": 84.366,
+        "type": "audio_features",
+        "id": "1eYMV8fZO3R7ZlOgVQ57GF",
+        "uri": "spotify:track:1eYMV8fZO3R7ZlOgVQ57GF",
+        "track_href": "https://api.spotify.com/v1/tracks/1eYMV8fZO3R7ZlOgVQ57GF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1eYMV8fZO3R7ZlOgVQ57GF",
+        "duration_ms": 291707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3CU5cYgEjwjaW7pitNKZYJ",
+    "name": "Running Your Mouth (feat. Snoop Dogg, Nate Dogg, Fabolous & Busta Rhymes) - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 96.919,
+    "features": [
+      {
+        "danceability": 0.7,
+        "energy": 0.786,
+        "key": 0,
+        "loudness": -4.279,
+        "mode": 1,
+        "speechiness": 0.164,
+        "acousticness": 0.051,
+        "instrumentalness": 0,
+        "liveness": 0.191,
+        "valence": 0.64,
+        "tempo": 96.919,
+        "type": "audio_features",
+        "id": "3CU5cYgEjwjaW7pitNKZYJ",
+        "uri": "spotify:track:3CU5cYgEjwjaW7pitNKZYJ",
+        "track_href": "https://api.spotify.com/v1/tracks/3CU5cYgEjwjaW7pitNKZYJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3CU5cYgEjwjaW7pitNKZYJ",
+        "duration_ms": 213173,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "16r3p9zsidDZ8pd3Izgg6n",
+    "name": "Want That Old Thing Back (feat. Ja Rule & Ralph Tresvant) - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 93.962,
+    "features": [
+      {
+        "danceability": 0.768,
+        "energy": 0.735,
+        "key": 4,
+        "loudness": -5.291,
+        "mode": 0,
+        "speechiness": 0.296,
+        "acousticness": 0.0288,
+        "instrumentalness": 0,
+        "liveness": 0.102,
+        "valence": 0.565,
+        "tempo": 93.962,
+        "type": "audio_features",
+        "id": "16r3p9zsidDZ8pd3Izgg6n",
+        "uri": "spotify:track:16r3p9zsidDZ8pd3Izgg6n",
+        "track_href": "https://api.spotify.com/v1/tracks/16r3p9zsidDZ8pd3Izgg6n",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/16r3p9zsidDZ8pd3Izgg6n",
+        "duration_ms": 298440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3RcGptEbmst2z37fW3fRvZ",
+    "name": "Fuck You Tonight (feat. R. Kelly) - 2007 Remaster",
+    "artist": "The Notorious B.I.G.",
+    "album": "Greatest Hits",
+    "bpm": 178.458,
+    "features": [
+      {
+        "danceability": 0.504,
+        "energy": 0.575,
+        "key": 5,
+        "loudness": -5.871,
+        "mode": 0,
+        "speechiness": 0.251,
+        "acousticness": 0.243,
+        "instrumentalness": 0,
+        "liveness": 0.0564,
+        "valence": 0.724,
+        "tempo": 178.458,
+        "type": "audio_features",
+        "id": "3RcGptEbmst2z37fW3fRvZ",
+        "uri": "spotify:track:3RcGptEbmst2z37fW3fRvZ",
+        "track_href": "https://api.spotify.com/v1/tracks/3RcGptEbmst2z37fW3fRvZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3RcGptEbmst2z37fW3fRvZ",
+        "duration_ms": 344333,
+        "time_signature": 4
+      }
+    ]
+  }
+]

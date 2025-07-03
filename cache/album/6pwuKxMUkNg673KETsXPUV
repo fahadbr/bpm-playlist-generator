@@ -1,0 +1,205 @@
+[
+  {
+    "id": "3aUFrxO1B8EW63QchEl3wX",
+    "name": "Feel The Love",
+    "artist": "KIDS SEE GHOSTS",
+    "album": "KIDS SEE GHOSTS",
+    "bpm": 110.573,
+    "features": [
+      {
+        "danceability": 0.58,
+        "energy": 0.469,
+        "key": 0,
+        "loudness": -5.946,
+        "mode": 0,
+        "speechiness": 0.104,
+        "acousticness": 0.126,
+        "instrumentalness": 7.32e-05,
+        "liveness": 0.099,
+        "valence": 0.369,
+        "tempo": 110.573,
+        "type": "audio_features",
+        "id": "3aUFrxO1B8EW63QchEl3wX",
+        "uri": "spotify:track:3aUFrxO1B8EW63QchEl3wX",
+        "track_href": "https://api.spotify.com/v1/tracks/3aUFrxO1B8EW63QchEl3wX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3aUFrxO1B8EW63QchEl3wX",
+        "duration_ms": 165053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7oHkit3F3vimtsBbnZkU0G",
+    "name": "Fire",
+    "artist": "KIDS SEE GHOSTS",
+    "album": "KIDS SEE GHOSTS",
+    "bpm": 104.999,
+    "features": [
+      {
+        "danceability": 0.709,
+        "energy": 0.751,
+        "key": 6,
+        "loudness": -3.801,
+        "mode": 1,
+        "speechiness": 0.16,
+        "acousticness": 0.472,
+        "instrumentalness": 4.71e-06,
+        "liveness": 0.182,
+        "valence": 0.37,
+        "tempo": 104.999,
+        "type": "audio_features",
+        "id": "7oHkit3F3vimtsBbnZkU0G",
+        "uri": "spotify:track:7oHkit3F3vimtsBbnZkU0G",
+        "track_href": "https://api.spotify.com/v1/tracks/7oHkit3F3vimtsBbnZkU0G",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7oHkit3F3vimtsBbnZkU0G",
+        "duration_ms": 140527,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6JyEh4kl9DLwmSAoNDRn5b",
+    "name": "4th Dimension",
+    "artist": "KIDS SEE GHOSTS",
+    "album": "KIDS SEE GHOSTS",
+    "bpm": 171.945,
+    "features": [
+      {
+        "danceability": 0.765,
+        "energy": 0.542,
+        "key": 1,
+        "loudness": -6.755,
+        "mode": 1,
+        "speechiness": 0.39,
+        "acousticness": 0.278,
+        "instrumentalness": 1.87e-05,
+        "liveness": 0.609,
+        "valence": 0.734,
+        "tempo": 171.945,
+        "type": "audio_features",
+        "id": "6JyEh4kl9DLwmSAoNDRn5b",
+        "uri": "spotify:track:6JyEh4kl9DLwmSAoNDRn5b",
+        "track_href": "https://api.spotify.com/v1/tracks/6JyEh4kl9DLwmSAoNDRn5b",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6JyEh4kl9DLwmSAoNDRn5b",
+        "duration_ms": 153351,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7GRTrWsP3yo2Fx8umJfA1X",
+    "name": "Freeee (Ghost Town Pt. 2)",
+    "artist": "KIDS SEE GHOSTS",
+    "album": "KIDS SEE GHOSTS",
+    "bpm": 151.643,
+    "features": [
+      {
+        "danceability": 0.334,
+        "energy": 0.81,
+        "key": 9,
+        "loudness": -4.855,
+        "mode": 0,
+        "speechiness": 0.0632,
+        "acousticness": 0.00457,
+        "instrumentalness": 0,
+        "liveness": 0.158,
+        "valence": 0.306,
+        "tempo": 151.643,
+        "type": "audio_features",
+        "id": "7GRTrWsP3yo2Fx8umJfA1X",
+        "uri": "spotify:track:7GRTrWsP3yo2Fx8umJfA1X",
+        "track_href": "https://api.spotify.com/v1/tracks/7GRTrWsP3yo2Fx8umJfA1X",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7GRTrWsP3yo2Fx8umJfA1X",
+        "duration_ms": 206605,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4RVbK6cV0VqWdpCDcx3hiT",
+    "name": "Reborn",
+    "artist": "KIDS SEE GHOSTS",
+    "album": "KIDS SEE GHOSTS",
+    "bpm": 100.051,
+    "features": [
+      {
+        "danceability": 0.585,
+        "energy": 0.597,
+        "key": 0,
+        "loudness": -7.499,
+        "mode": 1,
+        "speechiness": 0.037,
+        "acousticness": 0.339,
+        "instrumentalness": 0.0404,
+        "liveness": 0.195,
+        "valence": 0.227,
+        "tempo": 100.051,
+        "type": "audio_features",
+        "id": "4RVbK6cV0VqWdpCDcx3hiT",
+        "uri": "spotify:track:4RVbK6cV0VqWdpCDcx3hiT",
+        "track_href": "https://api.spotify.com/v1/tracks/4RVbK6cV0VqWdpCDcx3hiT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4RVbK6cV0VqWdpCDcx3hiT",
+        "duration_ms": 324674,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2I3dW2dCBZAJGj5X21E53k",
+    "name": "Kids See Ghosts",
+    "artist": "KIDS SEE GHOSTS",
+    "album": "KIDS SEE GHOSTS",
+    "bpm": 94.985,
+    "features": [
+      {
+        "danceability": 0.841,
+        "energy": 0.682,
+        "key": 2,
+        "loudness": -7.007,
+        "mode": 1,
+        "speechiness": 0.0458,
+        "acousticness": 0.113,
+        "instrumentalness": 9.65e-05,
+        "liveness": 0.131,
+        "valence": 0.338,
+        "tempo": 94.985,
+        "type": "audio_features",
+        "id": "2I3dW2dCBZAJGj5X21E53k",
+        "uri": "spotify:track:2I3dW2dCBZAJGj5X21E53k",
+        "track_href": "https://api.spotify.com/v1/tracks/2I3dW2dCBZAJGj5X21E53k",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2I3dW2dCBZAJGj5X21E53k",
+        "duration_ms": 245098,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4kUZvXB3LC3an3HX6h0s17",
+    "name": "Cudi Montage",
+    "artist": "KIDS SEE GHOSTS",
+    "album": "KIDS SEE GHOSTS",
+    "bpm": 110.011,
+    "features": [
+      {
+        "danceability": 0.729,
+        "energy": 0.504,
+        "key": 8,
+        "loudness": -6.784,
+        "mode": 0,
+        "speechiness": 0.0321,
+        "acousticness": 0.401,
+        "instrumentalness": 1.44e-06,
+        "liveness": 0.121,
+        "valence": 0.305,
+        "tempo": 110.011,
+        "type": "audio_features",
+        "id": "4kUZvXB3LC3an3HX6h0s17",
+        "uri": "spotify:track:4kUZvXB3LC3an3HX6h0s17",
+        "track_href": "https://api.spotify.com/v1/tracks/4kUZvXB3LC3an3HX6h0s17",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4kUZvXB3LC3an3HX6h0s17",
+        "duration_ms": 197001,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "id": "03S5vMBN07OOnPj1SCMsxV",
+    "name": "TorcH",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 139.482,
+    "features": [
+      {
+        "danceability": 0.46,
+        "energy": 0.912,
+        "key": 1,
+        "loudness": -6.909,
+        "mode": 0,
+        "speechiness": 0.449,
+        "acousticness": 0.0875,
+        "instrumentalness": 1.71e-05,
+        "liveness": 0.128,
+        "valence": 0.437,
+        "tempo": 139.482,
+        "type": "audio_features",
+        "id": "03S5vMBN07OOnPj1SCMsxV",
+        "uri": "spotify:track:03S5vMBN07OOnPj1SCMsxV",
+        "track_href": "https://api.spotify.com/v1/tracks/03S5vMBN07OOnPj1SCMsxV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/03S5vMBN07OOnPj1SCMsxV",
+        "duration_ms": 334907,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3uu93VCGbNfkXqUuDQNqaT",
+    "name": "Lord Have Mercy",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 78.269,
+    "features": [
+      {
+        "danceability": 0.481,
+        "energy": 0.747,
+        "key": 11,
+        "loudness": -6.278,
+        "mode": 0,
+        "speechiness": 0.178,
+        "acousticness": 0.196,
+        "instrumentalness": 0,
+        "liveness": 0.57,
+        "valence": 0.357,
+        "tempo": 78.269,
+        "type": "audio_features",
+        "id": "3uu93VCGbNfkXqUuDQNqaT",
+        "uri": "spotify:track:3uu93VCGbNfkXqUuDQNqaT",
+        "track_href": "https://api.spotify.com/v1/tracks/3uu93VCGbNfkXqUuDQNqaT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3uu93VCGbNfkXqUuDQNqaT",
+        "duration_ms": 104253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2yJ9GVCLMmzBBfQAnfzlwr",
+    "name": "THat Part",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 112.961,
+    "features": [
+      {
+        "danceability": 0.927,
+        "energy": 0.535,
+        "key": 6,
+        "loudness": -7.59,
+        "mode": 0,
+        "speechiness": 0.0914,
+        "acousticness": 0.0856,
+        "instrumentalness": 0,
+        "liveness": 0.136,
+        "valence": 0.337,
+        "tempo": 112.961,
+        "type": "audio_features",
+        "id": "2yJ9GVCLMmzBBfQAnfzlwr",
+        "uri": "spotify:track:2yJ9GVCLMmzBBfQAnfzlwr",
+        "track_href": "https://api.spotify.com/v1/tracks/2yJ9GVCLMmzBBfQAnfzlwr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2yJ9GVCLMmzBBfQAnfzlwr",
+        "duration_ms": 313573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1MY4HVXfBkUg1mUjmCjznI",
+    "name": "Groovy Tony / Eddie Kane",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 164.659,
+    "features": [
+      {
+        "danceability": 0.471,
+        "energy": 0.825,
+        "key": 4,
+        "loudness": -4.562,
+        "mode": 1,
+        "speechiness": 0.237,
+        "acousticness": 0.0616,
+        "instrumentalness": 0.000217,
+        "liveness": 0.104,
+        "valence": 0.322,
+        "tempo": 164.659,
+        "type": "audio_features",
+        "id": "1MY4HVXfBkUg1mUjmCjznI",
+        "uri": "spotify:track:1MY4HVXfBkUg1mUjmCjznI",
+        "track_href": "https://api.spotify.com/v1/tracks/1MY4HVXfBkUg1mUjmCjznI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1MY4HVXfBkUg1mUjmCjznI",
+        "duration_ms": 379947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3yg7fx2DVjbQRLoROq3wA8",
+    "name": "Kno Ya Wrong",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 79.144,
+    "features": [
+      {
+        "danceability": 0.382,
+        "energy": 0.765,
+        "key": 2,
+        "loudness": -7.675,
+        "mode": 1,
+        "speechiness": 0.459,
+        "acousticness": 0.393,
+        "instrumentalness": 0,
+        "liveness": 0.201,
+        "valence": 0.252,
+        "tempo": 79.144,
+        "type": "audio_features",
+        "id": "3yg7fx2DVjbQRLoROq3wA8",
+        "uri": "spotify:track:3yg7fx2DVjbQRLoROq3wA8",
+        "track_href": "https://api.spotify.com/v1/tracks/3yg7fx2DVjbQRLoROq3wA8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3yg7fx2DVjbQRLoROq3wA8",
+        "duration_ms": 325600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2glfyBSK3wqoumtEVN1F07",
+    "name": "Ride Out",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 72.017,
+    "features": [
+      {
+        "danceability": 0.629,
+        "energy": 0.892,
+        "key": 3,
+        "loudness": -5.254,
+        "mode": 0,
+        "speechiness": 0.122,
+        "acousticness": 0.0315,
+        "instrumentalness": 0,
+        "liveness": 0.135,
+        "valence": 0.448,
+        "tempo": 72.017,
+        "type": "audio_features",
+        "id": "2glfyBSK3wqoumtEVN1F07",
+        "uri": "spotify:track:2glfyBSK3wqoumtEVN1F07",
+        "track_href": "https://api.spotify.com/v1/tracks/2glfyBSK3wqoumtEVN1F07",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2glfyBSK3wqoumtEVN1F07",
+        "duration_ms": 287360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "44ZWfYPt3AQJAfg4Ned0ue",
+    "name": "WHateva U Want",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 108.952,
+    "features": [
+      {
+        "danceability": 0.712,
+        "energy": 0.626,
+        "key": 5,
+        "loudness": -8.021,
+        "mode": 0,
+        "speechiness": 0.0938,
+        "acousticness": 0.00902,
+        "instrumentalness": 0.000119,
+        "liveness": 0.11,
+        "valence": 0.158,
+        "tempo": 108.952,
+        "type": "audio_features",
+        "id": "44ZWfYPt3AQJAfg4Ned0ue",
+        "uri": "spotify:track:44ZWfYPt3AQJAfg4Ned0ue",
+        "track_href": "https://api.spotify.com/v1/tracks/44ZWfYPt3AQJAfg4Ned0ue",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/44ZWfYPt3AQJAfg4Ned0ue",
+        "duration_ms": 230907,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1iY2DB9Bpn1r8mBgoFLBOG",
+    "name": "By Any Means",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 129.967,
+    "features": [
+      {
+        "danceability": 0.798,
+        "energy": 0.338,
+        "key": 10,
+        "loudness": -8.249,
+        "mode": 1,
+        "speechiness": 0.174,
+        "acousticness": 0.0203,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "valence": 0.097,
+        "tempo": 129.967,
+        "type": "audio_features",
+        "id": "1iY2DB9Bpn1r8mBgoFLBOG",
+        "uri": "spotify:track:1iY2DB9Bpn1r8mBgoFLBOG",
+        "track_href": "https://api.spotify.com/v1/tracks/1iY2DB9Bpn1r8mBgoFLBOG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1iY2DB9Bpn1r8mBgoFLBOG",
+        "duration_ms": 214333,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7pda6TLAbVGxUjIUtbiNt0",
+    "name": "Dope Dealer",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 82.027,
+    "features": [
+      {
+        "danceability": 0.786,
+        "energy": 0.569,
+        "key": 1,
+        "loudness": -5.461,
+        "mode": 1,
+        "speechiness": 0.125,
+        "acousticness": 0.048,
+        "instrumentalness": 0,
+        "liveness": 0.119,
+        "valence": 0.288,
+        "tempo": 82.027,
+        "type": "audio_features",
+        "id": "7pda6TLAbVGxUjIUtbiNt0",
+        "uri": "spotify:track:7pda6TLAbVGxUjIUtbiNt0",
+        "track_href": "https://api.spotify.com/v1/tracks/7pda6TLAbVGxUjIUtbiNt0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7pda6TLAbVGxUjIUtbiNt0",
+        "duration_ms": 222147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7sr74Bz3GBTNMQe1m4F5Ut",
+    "name": "JoHn Muir",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 160.02,
+    "features": [
+      {
+        "danceability": 0.69,
+        "energy": 0.921,
+        "key": 11,
+        "loudness": -4.833,
+        "mode": 0,
+        "speechiness": 0.188,
+        "acousticness": 0.0799,
+        "instrumentalness": 1.39e-06,
+        "liveness": 0.225,
+        "valence": 0.631,
+        "tempo": 160.02,
+        "type": "audio_features",
+        "id": "7sr74Bz3GBTNMQe1m4F5Ut",
+        "uri": "spotify:track:7sr74Bz3GBTNMQe1m4F5Ut",
+        "track_href": "https://api.spotify.com/v1/tracks/7sr74Bz3GBTNMQe1m4F5Ut",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7sr74Bz3GBTNMQe1m4F5Ut",
+        "duration_ms": 219027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7fQzRNL3k0YUkhTTSuZgcg",
+    "name": "Big Body",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 116.012,
+    "features": [
+      {
+        "danceability": 0.944,
+        "energy": 0.949,
+        "key": 1,
+        "loudness": -5.606,
+        "mode": 0,
+        "speechiness": 0.19,
+        "acousticness": 0.0724,
+        "instrumentalness": 0,
+        "liveness": 0.348,
+        "valence": 0.764,
+        "tempo": 116.012,
+        "type": "audio_features",
+        "id": "7fQzRNL3k0YUkhTTSuZgcg",
+        "uri": "spotify:track:7fQzRNL3k0YUkhTTSuZgcg",
+        "track_href": "https://api.spotify.com/v1/tracks/7fQzRNL3k0YUkhTTSuZgcg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7fQzRNL3k0YUkhTTSuZgcg",
+        "duration_ms": 223360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6tPDalwocS7zgeFpYi3xtr",
+    "name": "Neva CHange",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 79.999,
+    "features": [
+      {
+        "danceability": 0.583,
+        "energy": 0.59,
+        "key": 10,
+        "loudness": -8.709,
+        "mode": 0,
+        "speechiness": 0.13,
+        "acousticness": 0.069,
+        "instrumentalness": 3.28e-06,
+        "liveness": 0.114,
+        "valence": 0.59,
+        "tempo": 79.999,
+        "type": "audio_features",
+        "id": "6tPDalwocS7zgeFpYi3xtr",
+        "uri": "spotify:track:6tPDalwocS7zgeFpYi3xtr",
+        "track_href": "https://api.spotify.com/v1/tracks/6tPDalwocS7zgeFpYi3xtr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6tPDalwocS7zgeFpYi3xtr",
+        "duration_ms": 270227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3FzmWEUMpn2j2M5NCQK0WP",
+    "name": "Str8 Ballin",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 93.975,
+    "features": [
+      {
+        "danceability": 0.7,
+        "energy": 0.862,
+        "key": 5,
+        "loudness": -6.406,
+        "mode": 0,
+        "speechiness": 0.0845,
+        "acousticness": 0.0757,
+        "instrumentalness": 0,
+        "liveness": 0.0951,
+        "valence": 0.302,
+        "tempo": 93.975,
+        "type": "audio_features",
+        "id": "3FzmWEUMpn2j2M5NCQK0WP",
+        "uri": "spotify:track:3FzmWEUMpn2j2M5NCQK0WP",
+        "track_href": "https://api.spotify.com/v1/tracks/3FzmWEUMpn2j2M5NCQK0WP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3FzmWEUMpn2j2M5NCQK0WP",
+        "duration_ms": 249307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7M9m87NlRxY5YJYgcWrVhR",
+    "name": "Black THougHts",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 153.998,
+    "features": [
+      {
+        "danceability": 0.726,
+        "energy": 0.813,
+        "key": 11,
+        "loudness": -6.676,
+        "mode": 0,
+        "speechiness": 0.344,
+        "acousticness": 0.531,
+        "instrumentalness": 2.6e-05,
+        "liveness": 0.135,
+        "valence": 0.323,
+        "tempo": 153.998,
+        "type": "audio_features",
+        "id": "7M9m87NlRxY5YJYgcWrVhR",
+        "uri": "spotify:track:7M9m87NlRxY5YJYgcWrVhR",
+        "track_href": "https://api.spotify.com/v1/tracks/7M9m87NlRxY5YJYgcWrVhR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7M9m87NlRxY5YJYgcWrVhR",
+        "duration_ms": 222320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3S1Q4qmbzVZWwMOtZ0RNcs",
+    "name": "Blank Face",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 145.906,
+    "features": [
+      {
+        "danceability": 0.548,
+        "energy": 0.748,
+        "key": 4,
+        "loudness": -3.89,
+        "mode": 0,
+        "speechiness": 0.115,
+        "acousticness": 0.397,
+        "instrumentalness": 0,
+        "liveness": 0.112,
+        "valence": 0.753,
+        "tempo": 145.906,
+        "type": "audio_features",
+        "id": "3S1Q4qmbzVZWwMOtZ0RNcs",
+        "uri": "spotify:track:3S1Q4qmbzVZWwMOtZ0RNcs",
+        "track_href": "https://api.spotify.com/v1/tracks/3S1Q4qmbzVZWwMOtZ0RNcs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3S1Q4qmbzVZWwMOtZ0RNcs",
+        "duration_ms": 194120,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5lsrKf4mzIO4gA9U9eBYms",
+    "name": "Overtime",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 118.018,
+    "features": [
+      {
+        "danceability": 0.813,
+        "energy": 0.476,
+        "key": 10,
+        "loudness": -10.59,
+        "mode": 1,
+        "speechiness": 0.332,
+        "acousticness": 0.772,
+        "instrumentalness": 0,
+        "liveness": 0.105,
+        "valence": 0.375,
+        "tempo": 118.018,
+        "type": "audio_features",
+        "id": "5lsrKf4mzIO4gA9U9eBYms",
+        "uri": "spotify:track:5lsrKf4mzIO4gA9U9eBYms",
+        "track_href": "https://api.spotify.com/v1/tracks/5lsrKf4mzIO4gA9U9eBYms",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5lsrKf4mzIO4gA9U9eBYms",
+        "duration_ms": 278493,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3mViCAKDSnEoGijjbmcQYA",
+    "name": "Tookie Knows II",
+    "artist": "ScHoolboy Q",
+    "album": "Blank Face LP",
+    "bpm": 115.013,
+    "features": [
+      {
+        "danceability": 0.852,
+        "energy": 0.487,
+        "key": 2,
+        "loudness": -7.824,
+        "mode": 1,
+        "speechiness": 0.189,
+        "acousticness": 0.263,
+        "instrumentalness": 0,
+        "liveness": 0.146,
+        "valence": 0.138,
+        "tempo": 115.013,
+        "type": "audio_features",
+        "id": "3mViCAKDSnEoGijjbmcQYA",
+        "uri": "spotify:track:3mViCAKDSnEoGijjbmcQYA",
+        "track_href": "https://api.spotify.com/v1/tracks/3mViCAKDSnEoGijjbmcQYA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3mViCAKDSnEoGijjbmcQYA",
+        "duration_ms": 285347,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "id": "7LBV1cSALOE3hS6FuEJ6CO",
+    "name": "cGPA",
+    "artist": "Maanu",
+    "album": "Yain City",
+    "bpm": 120.011,
+    "features": [
+      {
+        "danceability": 0.825,
+        "energy": 0.79,
+        "key": 1,
+        "loudness": -8.285,
+        "mode": 0,
+        "speechiness": 0.23,
+        "acousticness": 0.254,
+        "instrumentalness": 1.16e-06,
+        "liveness": 0.14,
+        "valence": 0.618,
+        "tempo": 120.011,
+        "type": "audio_features",
+        "id": "7LBV1cSALOE3hS6FuEJ6CO",
+        "uri": "spotify:track:7LBV1cSALOE3hS6FuEJ6CO",
+        "track_href": "https://api.spotify.com/v1/tracks/7LBV1cSALOE3hS6FuEJ6CO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7LBV1cSALOE3hS6FuEJ6CO",
+        "duration_ms": 188000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5kXsMjQCNMzK4EWpvo4z00",
+    "name": "Darwaazay",
+    "artist": "Maanu",
+    "album": "Yain City",
+    "bpm": 124.995,
+    "features": [
+      {
+        "danceability": 0.762,
+        "energy": 0.666,
+        "key": 2,
+        "loudness": -8.02,
+        "mode": 0,
+        "speechiness": 0.0436,
+        "acousticness": 0.495,
+        "instrumentalness": 0,
+        "liveness": 0.135,
+        "valence": 0.615,
+        "tempo": 124.995,
+        "type": "audio_features",
+        "id": "5kXsMjQCNMzK4EWpvo4z00",
+        "uri": "spotify:track:5kXsMjQCNMzK4EWpvo4z00",
+        "track_href": "https://api.spotify.com/v1/tracks/5kXsMjQCNMzK4EWpvo4z00",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5kXsMjQCNMzK4EWpvo4z00",
+        "duration_ms": 231360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5ItI94kMJyar06SjlNDFuH",
+    "name": "Khwaab",
+    "artist": "Maanu",
+    "album": "Yain City",
+    "bpm": 100.099,
+    "features": [
+      {
+        "danceability": 0.687,
+        "energy": 0.62,
+        "key": 0,
+        "loudness": -8.813,
+        "mode": 0,
+        "speechiness": 0.0587,
+        "acousticness": 0.21,
+        "instrumentalness": 9.17e-05,
+        "liveness": 0.497,
+        "valence": 0.703,
+        "tempo": 100.099,
+        "type": "audio_features",
+        "id": "5ItI94kMJyar06SjlNDFuH",
+        "uri": "spotify:track:5ItI94kMJyar06SjlNDFuH",
+        "track_href": "https://api.spotify.com/v1/tracks/5ItI94kMJyar06SjlNDFuH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ItI94kMJyar06SjlNDFuH",
+        "duration_ms": 242400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0ozfWxN3w0dhXdN5XmIT20",
+    "name": "Aik Khata",
+    "artist": "Maanu",
+    "album": "Yain City",
+    "bpm": 108.038,
+    "features": [
+      {
+        "danceability": 0.66,
+        "energy": 0.459,
+        "key": 10,
+        "loudness": -12.259,
+        "mode": 0,
+        "speechiness": 0.0469,
+        "acousticness": 0.661,
+        "instrumentalness": 0.0864,
+        "liveness": 0.424,
+        "valence": 0.379,
+        "tempo": 108.038,
+        "type": "audio_features",
+        "id": "0ozfWxN3w0dhXdN5XmIT20",
+        "uri": "spotify:track:0ozfWxN3w0dhXdN5XmIT20",
+        "track_href": "https://api.spotify.com/v1/tracks/0ozfWxN3w0dhXdN5XmIT20",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ozfWxN3w0dhXdN5XmIT20",
+        "duration_ms": 182793,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5SZt0NYBWnuRGMfTIr5rOk",
+    "name": "Meray Dil Se",
+    "artist": "Maanu",
+    "album": "Yain City",
+    "bpm": 102.95,
+    "features": [
+      {
+        "danceability": 0.788,
+        "energy": 0.469,
+        "key": 2,
+        "loudness": -13.844,
+        "mode": 0,
+        "speechiness": 0.108,
+        "acousticness": 0.843,
+        "instrumentalness": 0.000334,
+        "liveness": 0.124,
+        "valence": 0.539,
+        "tempo": 102.95,
+        "type": "audio_features",
+        "id": "5SZt0NYBWnuRGMfTIr5rOk",
+        "uri": "spotify:track:5SZt0NYBWnuRGMfTIr5rOk",
+        "track_href": "https://api.spotify.com/v1/tracks/5SZt0NYBWnuRGMfTIr5rOk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5SZt0NYBWnuRGMfTIr5rOk",
+        "duration_ms": 197223,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4oUGOE1oIUkvf1zTFknoxA",
+    "name": "MOGAMBO",
+    "artist": "Maanu",
+    "album": "Yain City",
+    "bpm": 174.139,
+    "features": [
+      {
+        "danceability": 0.815,
+        "energy": 0.549,
+        "key": 10,
+        "loudness": -11.128,
+        "mode": 0,
+        "speechiness": 0.305,
+        "acousticness": 0.00301,
+        "instrumentalness": 1.41e-06,
+        "liveness": 0.0923,
+        "valence": 0.663,
+        "tempo": 174.139,
+        "type": "audio_features",
+        "id": "4oUGOE1oIUkvf1zTFknoxA",
+        "uri": "spotify:track:4oUGOE1oIUkvf1zTFknoxA",
+        "track_href": "https://api.spotify.com/v1/tracks/4oUGOE1oIUkvf1zTFknoxA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4oUGOE1oIUkvf1zTFknoxA",
+        "duration_ms": 185862,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4i7KCSjzAcGCscpjYpHZ5Q",
+    "name": "Pak Sar Zameen",
+    "artist": "Maanu",
+    "album": "Yain City",
+    "bpm": 158.943,
+    "features": [
+      {
+        "danceability": 0.686,
+        "energy": 0.681,
+        "key": 9,
+        "loudness": -5.291,
+        "mode": 0,
+        "speechiness": 0.307,
+        "acousticness": 0.0902,
+        "instrumentalness": 0,
+        "liveness": 0.279,
+        "valence": 0.596,
+        "tempo": 158.943,
+        "type": "audio_features",
+        "id": "4i7KCSjzAcGCscpjYpHZ5Q",
+        "uri": "spotify:track:4i7KCSjzAcGCscpjYpHZ5Q",
+        "track_href": "https://api.spotify.com/v1/tracks/4i7KCSjzAcGCscpjYpHZ5Q",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4i7KCSjzAcGCscpjYpHZ5Q",
+        "duration_ms": 220319,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "69549dazlw8DxfHD6YyZR8",
+    "name": "Outro",
+    "artist": "Maanu",
+    "album": "Yain City",
+    "bpm": 84.654,
+    "features": [
+      {
+        "danceability": 0.62,
+        "energy": 0.452,
+        "key": 7,
+        "loudness": -14.074,
+        "mode": 1,
+        "speechiness": 0.198,
+        "acousticness": 0.212,
+        "instrumentalness": 0.000779,
+        "liveness": 0.278,
+        "valence": 0.406,
+        "tempo": 84.654,
+        "type": "audio_features",
+        "id": "69549dazlw8DxfHD6YyZR8",
+        "uri": "spotify:track:69549dazlw8DxfHD6YyZR8",
+        "track_href": "https://api.spotify.com/v1/tracks/69549dazlw8DxfHD6YyZR8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/69549dazlw8DxfHD6YyZR8",
+        "duration_ms": 172941,
+        "time_signature": 4
+      }
+    ]
+  }
+]

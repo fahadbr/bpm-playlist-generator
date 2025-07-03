@@ -1,0 +1,466 @@
+[
+  {
+    "id": "1SBl9gxNgTymUoPUjWMTs4",
+    "name": "Intro",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 75.823,
+    "features": [
+      {
+        "danceability": 0.393,
+        "energy": 0.449,
+        "key": 8,
+        "loudness": -10.815,
+        "mode": 1,
+        "speechiness": 0.389,
+        "acousticness": 0.0916,
+        "instrumentalness": 0.000172,
+        "liveness": 0.39,
+        "valence": 0.133,
+        "tempo": 75.823,
+        "type": "audio_features",
+        "id": "1SBl9gxNgTymUoPUjWMTs4",
+        "uri": "spotify:track:1SBl9gxNgTymUoPUjWMTs4",
+        "track_href": "https://api.spotify.com/v1/tracks/1SBl9gxNgTymUoPUjWMTs4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SBl9gxNgTymUoPUjWMTs4",
+        "duration_ms": 186813,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2FZ4Ac2OfaZWdv1BKibjVR",
+    "name": "Real (feat. Sarah Green)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 140.698,
+    "features": [
+      {
+        "danceability": 0.722,
+        "energy": 0.873,
+        "key": 11,
+        "loudness": -4.343,
+        "mode": 1,
+        "speechiness": 0.0392,
+        "acousticness": 0.00462,
+        "instrumentalness": 1.49e-06,
+        "liveness": 0.0663,
+        "valence": 0.6,
+        "tempo": 140.698,
+        "type": "audio_features",
+        "id": "2FZ4Ac2OfaZWdv1BKibjVR",
+        "uri": "spotify:track:2FZ4Ac2OfaZWdv1BKibjVR",
+        "track_href": "https://api.spotify.com/v1/tracks/2FZ4Ac2OfaZWdv1BKibjVR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2FZ4Ac2OfaZWdv1BKibjVR",
+        "duration_ms": 241467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "49mu0ewiqzCYPGY3IEtNad",
+    "name": "Just Might Be OK (feat. Gemini)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 87.317,
+    "features": [
+      {
+        "danceability": 0.307,
+        "energy": 0.924,
+        "key": 10,
+        "loudness": -3.212,
+        "mode": 1,
+        "speechiness": 0.248,
+        "acousticness": 0.0213,
+        "instrumentalness": 0,
+        "liveness": 0.402,
+        "valence": 0.256,
+        "tempo": 87.317,
+        "type": "audio_features",
+        "id": "49mu0ewiqzCYPGY3IEtNad",
+        "uri": "spotify:track:49mu0ewiqzCYPGY3IEtNad",
+        "track_href": "https://api.spotify.com/v1/tracks/49mu0ewiqzCYPGY3IEtNad",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/49mu0ewiqzCYPGY3IEtNad",
+        "duration_ms": 264347,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6nz35DNIzbtj5ztpDEcW1j",
+    "name": "Kick, Push",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 94.786,
+    "features": [
+      {
+        "danceability": 0.652,
+        "energy": 0.809,
+        "key": 5,
+        "loudness": -5.276,
+        "mode": 1,
+        "speechiness": 0.17,
+        "acousticness": 0.164,
+        "instrumentalness": 0,
+        "liveness": 0.175,
+        "valence": 0.512,
+        "tempo": 94.786,
+        "type": "audio_features",
+        "id": "6nz35DNIzbtj5ztpDEcW1j",
+        "uri": "spotify:track:6nz35DNIzbtj5ztpDEcW1j",
+        "track_href": "https://api.spotify.com/v1/tracks/6nz35DNIzbtj5ztpDEcW1j",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6nz35DNIzbtj5ztpDEcW1j",
+        "duration_ms": 254466,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3j1UrSXCeWYa5ltei4ZAxt",
+    "name": "I Gotcha",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 89.483,
+    "features": [
+      {
+        "danceability": 0.632,
+        "energy": 0.731,
+        "key": 1,
+        "loudness": -4.191,
+        "mode": 1,
+        "speechiness": 0.262,
+        "acousticness": 0.0826,
+        "instrumentalness": 0,
+        "liveness": 0.0514,
+        "valence": 0.785,
+        "tempo": 89.483,
+        "type": "audio_features",
+        "id": "3j1UrSXCeWYa5ltei4ZAxt",
+        "uri": "spotify:track:3j1UrSXCeWYa5ltei4ZAxt",
+        "track_href": "https://api.spotify.com/v1/tracks/3j1UrSXCeWYa5ltei4ZAxt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3j1UrSXCeWYa5ltei4ZAxt",
+        "duration_ms": 238680,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1gsnHGopfdevZt7gbmygOq",
+    "name": "The Instrumental (feat. Jonah Matranga)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 107.031,
+    "features": [
+      {
+        "danceability": 0.719,
+        "energy": 0.962,
+        "key": 0,
+        "loudness": -3.553,
+        "mode": 1,
+        "speechiness": 0.0407,
+        "acousticness": 0.00904,
+        "instrumentalness": 0.000704,
+        "liveness": 0.0663,
+        "valence": 0.74,
+        "tempo": 107.031,
+        "type": "audio_features",
+        "id": "1gsnHGopfdevZt7gbmygOq",
+        "uri": "spotify:track:1gsnHGopfdevZt7gbmygOq",
+        "track_href": "https://api.spotify.com/v1/tracks/1gsnHGopfdevZt7gbmygOq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1gsnHGopfdevZt7gbmygOq",
+        "duration_ms": 206413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4ytRdqHgKAVxtVsjaC2ZZN",
+    "name": "He Say She Say (feat. Gemini & Sarah Green)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 94.307,
+    "features": [
+      {
+        "danceability": 0.68,
+        "energy": 0.754,
+        "key": 6,
+        "loudness": -4.994,
+        "mode": 1,
+        "speechiness": 0.0609,
+        "acousticness": 0.0331,
+        "instrumentalness": 0,
+        "liveness": 0.3,
+        "valence": 0.504,
+        "tempo": 94.307,
+        "type": "audio_features",
+        "id": "4ytRdqHgKAVxtVsjaC2ZZN",
+        "uri": "spotify:track:4ytRdqHgKAVxtVsjaC2ZZN",
+        "track_href": "https://api.spotify.com/v1/tracks/4ytRdqHgKAVxtVsjaC2ZZN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ytRdqHgKAVxtVsjaC2ZZN",
+        "duration_ms": 252253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7JjIWXd0RopJ8wSMTIsfZr",
+    "name": "Sunshine",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 89.387,
+    "features": [
+      {
+        "danceability": 0.543,
+        "energy": 0.82,
+        "key": 10,
+        "loudness": -4.559,
+        "mode": 0,
+        "speechiness": 0.269,
+        "acousticness": 0.0377,
+        "instrumentalness": 0,
+        "liveness": 0.186,
+        "valence": 0.563,
+        "tempo": 89.387,
+        "type": "audio_features",
+        "id": "7JjIWXd0RopJ8wSMTIsfZr",
+        "uri": "spotify:track:7JjIWXd0RopJ8wSMTIsfZr",
+        "track_href": "https://api.spotify.com/v1/tracks/7JjIWXd0RopJ8wSMTIsfZr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7JjIWXd0RopJ8wSMTIsfZr",
+        "duration_ms": 235520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "50M2QjfSM82wkJ1d0iV4mh",
+    "name": "Daydreamin' (feat. Jill Scott)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 81.37,
+    "features": [
+      {
+        "danceability": 0.533,
+        "energy": 0.739,
+        "key": 5,
+        "loudness": -3.573,
+        "mode": 0,
+        "speechiness": 0.0602,
+        "acousticness": 0.029,
+        "instrumentalness": 0,
+        "liveness": 0.266,
+        "valence": 0.617,
+        "tempo": 81.37,
+        "type": "audio_features",
+        "id": "50M2QjfSM82wkJ1d0iV4mh",
+        "uri": "spotify:track:50M2QjfSM82wkJ1d0iV4mh",
+        "track_href": "https://api.spotify.com/v1/tracks/50M2QjfSM82wkJ1d0iV4mh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/50M2QjfSM82wkJ1d0iV4mh",
+        "duration_ms": 234307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4vheUbZGsFWPpbJrir4Ocw",
+    "name": "The Cool",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 94.186,
+    "features": [
+      {
+        "danceability": 0.646,
+        "energy": 0.862,
+        "key": 7,
+        "loudness": -5.272,
+        "mode": 0,
+        "speechiness": 0.244,
+        "acousticness": 0.157,
+        "instrumentalness": 0,
+        "liveness": 0.424,
+        "valence": 0.41,
+        "tempo": 94.186,
+        "type": "audio_features",
+        "id": "4vheUbZGsFWPpbJrir4Ocw",
+        "uri": "spotify:track:4vheUbZGsFWPpbJrir4Ocw",
+        "track_href": "https://api.spotify.com/v1/tracks/4vheUbZGsFWPpbJrir4Ocw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4vheUbZGsFWPpbJrir4Ocw",
+        "duration_ms": 226653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2YBDTmzBMAYsvFYFgjSy83",
+    "name": "Hurt Me Soul",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 167.295,
+    "features": [
+      {
+        "danceability": 0.436,
+        "energy": 0.799,
+        "key": 7,
+        "loudness": -4.129,
+        "mode": 1,
+        "speechiness": 0.248,
+        "acousticness": 0.161,
+        "instrumentalness": 0,
+        "liveness": 0.117,
+        "valence": 0.587,
+        "tempo": 167.295,
+        "type": "audio_features",
+        "id": "2YBDTmzBMAYsvFYFgjSy83",
+        "uri": "spotify:track:2YBDTmzBMAYsvFYFgjSy83",
+        "track_href": "https://api.spotify.com/v1/tracks/2YBDTmzBMAYsvFYFgjSy83",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YBDTmzBMAYsvFYFgjSy83",
+        "duration_ms": 262893,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2grmagJB45Dhvc4R9Hxh65",
+    "name": "Pressure (feat. Jay-Z)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 166.863,
+    "features": [
+      {
+        "danceability": 0.464,
+        "energy": 0.916,
+        "key": 9,
+        "loudness": -3.749,
+        "mode": 1,
+        "speechiness": 0.414,
+        "acousticness": 0.102,
+        "instrumentalness": 0,
+        "liveness": 0.351,
+        "valence": 0.342,
+        "tempo": 166.863,
+        "type": "audio_features",
+        "id": "2grmagJB45Dhvc4R9Hxh65",
+        "uri": "spotify:track:2grmagJB45Dhvc4R9Hxh65",
+        "track_href": "https://api.spotify.com/v1/tracks/2grmagJB45Dhvc4R9Hxh65",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2grmagJB45Dhvc4R9Hxh65",
+        "duration_ms": 287040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "17dRP50Rx5DdSH9Qy4xR9A",
+    "name": "American Terrorist (feat. Matthew Santos)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 83.264,
+    "features": [
+      {
+        "danceability": 0.614,
+        "energy": 0.959,
+        "key": 1,
+        "loudness": -3.514,
+        "mode": 1,
+        "speechiness": 0.093,
+        "acousticness": 0.0168,
+        "instrumentalness": 0,
+        "liveness": 0.312,
+        "valence": 0.484,
+        "tempo": 83.264,
+        "type": "audio_features",
+        "id": "17dRP50Rx5DdSH9Qy4xR9A",
+        "uri": "spotify:track:17dRP50Rx5DdSH9Qy4xR9A",
+        "track_href": "https://api.spotify.com/v1/tracks/17dRP50Rx5DdSH9Qy4xR9A",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/17dRP50Rx5DdSH9Qy4xR9A",
+        "duration_ms": 280520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0AFI1ey6NJ6HmUnskmUABD",
+    "name": "The Emperor's Soundtrack",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 78.81,
+    "features": [
+      {
+        "danceability": 0.41,
+        "energy": 0.894,
+        "key": 8,
+        "loudness": -3.218,
+        "mode": 1,
+        "speechiness": 0.0727,
+        "acousticness": 0.0347,
+        "instrumentalness": 0,
+        "liveness": 0.48,
+        "valence": 0.555,
+        "tempo": 78.81,
+        "type": "audio_features",
+        "id": "0AFI1ey6NJ6HmUnskmUABD",
+        "uri": "spotify:track:0AFI1ey6NJ6HmUnskmUABD",
+        "track_href": "https://api.spotify.com/v1/tracks/0AFI1ey6NJ6HmUnskmUABD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0AFI1ey6NJ6HmUnskmUABD",
+        "duration_ms": 176560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4CkgIRRsKnVXscMtw5XGi1",
+    "name": "Kick, Push II",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 85.048,
+    "features": [
+      {
+        "danceability": 0.665,
+        "energy": 0.837,
+        "key": 11,
+        "loudness": -4.474,
+        "mode": 0,
+        "speechiness": 0.129,
+        "acousticness": 0.156,
+        "instrumentalness": 0,
+        "liveness": 0.419,
+        "valence": 0.566,
+        "tempo": 85.048,
+        "type": "audio_features",
+        "id": "4CkgIRRsKnVXscMtw5XGi1",
+        "uri": "spotify:track:4CkgIRRsKnVXscMtw5XGi1",
+        "track_href": "https://api.spotify.com/v1/tracks/4CkgIRRsKnVXscMtw5XGi1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4CkgIRRsKnVXscMtw5XGi1",
+        "duration_ms": 251693,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7pJj4kU8TWB2roGIVtvn83",
+    "name": "Outro",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's Food & Liquor",
+    "bpm": 99.7,
+    "features": [
+      {
+        "danceability": 0.574,
+        "energy": 0.625,
+        "key": 8,
+        "loudness": -6.305,
+        "mode": 1,
+        "speechiness": 0.0984,
+        "acousticness": 0.000828,
+        "instrumentalness": 8.1e-05,
+        "liveness": 0.12,
+        "valence": 0.0423,
+        "tempo": 99.7,
+        "type": "audio_features",
+        "id": "7pJj4kU8TWB2roGIVtvn83",
+        "uri": "spotify:track:7pJj4kU8TWB2roGIVtvn83",
+        "track_href": "https://api.spotify.com/v1/tracks/7pJj4kU8TWB2roGIVtvn83",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7pJj4kU8TWB2roGIVtvn83",
+        "duration_ms": 733240,
+        "time_signature": 4
+      }
+    ]
+  }
+]

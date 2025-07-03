@@ -1,0 +1,553 @@
+[
+  {
+    "id": "0O6jl8Zamz6TGF0nUwMQsF",
+    "name": "Frequency",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 115.067,
+    "features": [
+      {
+        "danceability": 0.791,
+        "energy": 0.576,
+        "key": 1,
+        "loudness": -6.546,
+        "mode": 1,
+        "speechiness": 0.0367,
+        "acousticness": 0.503,
+        "instrumentalness": 0.461,
+        "liveness": 0.12,
+        "valence": 0.215,
+        "tempo": 115.067,
+        "type": "audio_features",
+        "id": "0O6jl8Zamz6TGF0nUwMQsF",
+        "uri": "spotify:track:0O6jl8Zamz6TGF0nUwMQsF",
+        "track_href": "https://api.spotify.com/v1/tracks/0O6jl8Zamz6TGF0nUwMQsF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0O6jl8Zamz6TGF0nUwMQsF",
+        "duration_ms": 298240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5cjsgbZ8tZYD4f0LNpApnf",
+    "name": "Swim In The Light",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 165.273,
+    "features": [
+      {
+        "danceability": 0.514,
+        "energy": 0.376,
+        "key": 2,
+        "loudness": -10.723,
+        "mode": 1,
+        "speechiness": 0.0389,
+        "acousticness": 0.61,
+        "instrumentalness": 0.367,
+        "liveness": 0.11,
+        "valence": 0.122,
+        "tempo": 165.273,
+        "type": "audio_features",
+        "id": "5cjsgbZ8tZYD4f0LNpApnf",
+        "uri": "spotify:track:5cjsgbZ8tZYD4f0LNpApnf",
+        "track_href": "https://api.spotify.com/v1/tracks/5cjsgbZ8tZYD4f0LNpApnf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5cjsgbZ8tZYD4f0LNpApnf",
+        "duration_ms": 269227,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5Tm9At0xeFb0MtlV8uI3eY",
+    "name": "Releaser",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 81.993,
+    "features": [
+      {
+        "danceability": 0.595,
+        "energy": 0.443,
+        "key": 7,
+        "loudness": -11.115,
+        "mode": 0,
+        "speechiness": 0.0289,
+        "acousticness": 0.114,
+        "instrumentalness": 0.778,
+        "liveness": 0.114,
+        "valence": 0.136,
+        "tempo": 81.993,
+        "type": "audio_features",
+        "id": "5Tm9At0xeFb0MtlV8uI3eY",
+        "uri": "spotify:track:5Tm9At0xeFb0MtlV8uI3eY",
+        "track_href": "https://api.spotify.com/v1/tracks/5Tm9At0xeFb0MtlV8uI3eY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Tm9At0xeFb0MtlV8uI3eY",
+        "duration_ms": 327973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5FxVTEpoBress37MmlMhbZ",
+    "name": "By Design",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 100.003,
+    "features": [
+      {
+        "danceability": 0.757,
+        "energy": 0.85,
+        "key": 9,
+        "loudness": -5.885,
+        "mode": 0,
+        "speechiness": 0.0537,
+        "acousticness": 0.0559,
+        "instrumentalness": 0.000812,
+        "liveness": 0.111,
+        "valence": 0.416,
+        "tempo": 100.003,
+        "type": "audio_features",
+        "id": "5FxVTEpoBress37MmlMhbZ",
+        "uri": "spotify:track:5FxVTEpoBress37MmlMhbZ",
+        "track_href": "https://api.spotify.com/v1/tracks/5FxVTEpoBress37MmlMhbZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5FxVTEpoBress37MmlMhbZ",
+        "duration_ms": 257053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4HMhDkyOObFngSAz2xeQhK",
+    "name": "All In",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 154.018,
+    "features": [
+      {
+        "danceability": 0.661,
+        "energy": 0.6,
+        "key": 9,
+        "loudness": -8.172,
+        "mode": 0,
+        "speechiness": 0.0788,
+        "acousticness": 0.0391,
+        "instrumentalness": 0.331,
+        "liveness": 0.943,
+        "valence": 0.531,
+        "tempo": 154.018,
+        "type": "audio_features",
+        "id": "4HMhDkyOObFngSAz2xeQhK",
+        "uri": "spotify:track:4HMhDkyOObFngSAz2xeQhK",
+        "track_href": "https://api.spotify.com/v1/tracks/4HMhDkyOObFngSAz2xeQhK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4HMhDkyOObFngSAz2xeQhK",
+        "duration_ms": 250587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "36ltVroxdokt4IVqNh4EEO",
+    "name": "ILLusions",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 95.999,
+    "features": [
+      {
+        "danceability": 0.743,
+        "energy": 0.499,
+        "key": 0,
+        "loudness": -6.443,
+        "mode": 1,
+        "speechiness": 0.0356,
+        "acousticness": 0.325,
+        "instrumentalness": 0.00257,
+        "liveness": 0.115,
+        "valence": 0.797,
+        "tempo": 95.999,
+        "type": "audio_features",
+        "id": "36ltVroxdokt4IVqNh4EEO",
+        "uri": "spotify:track:36ltVroxdokt4IVqNh4EEO",
+        "track_href": "https://api.spotify.com/v1/tracks/36ltVroxdokt4IVqNh4EEO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/36ltVroxdokt4IVqNh4EEO",
+        "duration_ms": 256227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "40jxatV29fk82SAziDsPqN",
+    "name": "Rose Golden",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 139.934,
+    "features": [
+      {
+        "danceability": 0.594,
+        "energy": 0.762,
+        "key": 9,
+        "loudness": -7.951,
+        "mode": 0,
+        "speechiness": 0.09,
+        "acousticness": 0.426,
+        "instrumentalness": 0,
+        "liveness": 0.085,
+        "valence": 0.588,
+        "tempo": 139.934,
+        "type": "audio_features",
+        "id": "40jxatV29fk82SAziDsPqN",
+        "uri": "spotify:track:40jxatV29fk82SAziDsPqN",
+        "track_href": "https://api.spotify.com/v1/tracks/40jxatV29fk82SAziDsPqN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/40jxatV29fk82SAziDsPqN",
+        "duration_ms": 277813,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6WSBZroxQaO3FYEpT2ACFH",
+    "name": "Baptized In Fire",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 152.059,
+    "features": [
+      {
+        "danceability": 0.673,
+        "energy": 0.611,
+        "key": 4,
+        "loudness": -8.385,
+        "mode": 0,
+        "speechiness": 0.191,
+        "acousticness": 0.606,
+        "instrumentalness": 0.0179,
+        "liveness": 0.116,
+        "valence": 0.754,
+        "tempo": 152.059,
+        "type": "audio_features",
+        "id": "6WSBZroxQaO3FYEpT2ACFH",
+        "uri": "spotify:track:6WSBZroxQaO3FYEpT2ACFH",
+        "track_href": "https://api.spotify.com/v1/tracks/6WSBZroxQaO3FYEpT2ACFH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6WSBZroxQaO3FYEpT2ACFH",
+        "duration_ms": 285520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0gnYo3z19PzAVikI7doinv",
+    "name": "Flight At First Sight/Advanced",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 113.982,
+    "features": [
+      {
+        "danceability": 0.817,
+        "energy": 0.716,
+        "key": 5,
+        "loudness": -7.36,
+        "mode": 0,
+        "speechiness": 0.0686,
+        "acousticness": 0.196,
+        "instrumentalness": 0.00433,
+        "liveness": 0.0861,
+        "valence": 0.401,
+        "tempo": 113.982,
+        "type": "audio_features",
+        "id": "0gnYo3z19PzAVikI7doinv",
+        "uri": "spotify:track:0gnYo3z19PzAVikI7doinv",
+        "track_href": "https://api.spotify.com/v1/tracks/0gnYo3z19PzAVikI7doinv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0gnYo3z19PzAVikI7doinv",
+        "duration_ms": 236760,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1Bta6k7sXqUJfebYppG7Mq",
+    "name": "Does It",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 120.097,
+    "features": [
+      {
+        "danceability": 0.651,
+        "energy": 0.648,
+        "key": 9,
+        "loudness": -9.413,
+        "mode": 0,
+        "speechiness": 0.164,
+        "acousticness": 0.236,
+        "instrumentalness": 0.000173,
+        "liveness": 0.207,
+        "valence": 0.239,
+        "tempo": 120.097,
+        "type": "audio_features",
+        "id": "1Bta6k7sXqUJfebYppG7Mq",
+        "uri": "spotify:track:1Bta6k7sXqUJfebYppG7Mq",
+        "track_href": "https://api.spotify.com/v1/tracks/1Bta6k7sXqUJfebYppG7Mq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Bta6k7sXqUJfebYppG7Mq",
+        "duration_ms": 262547,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4VOUXdkDN3USHfEtBjCUPS",
+    "name": "Dance 4 Eternity",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 121.012,
+    "features": [
+      {
+        "danceability": 0.734,
+        "energy": 0.652,
+        "key": 0,
+        "loudness": -10.363,
+        "mode": 1,
+        "speechiness": 0.0338,
+        "acousticness": 0.15,
+        "instrumentalness": 0.513,
+        "liveness": 0.0803,
+        "valence": 0.731,
+        "tempo": 121.012,
+        "type": "audio_features",
+        "id": "4VOUXdkDN3USHfEtBjCUPS",
+        "uri": "spotify:track:4VOUXdkDN3USHfEtBjCUPS",
+        "track_href": "https://api.spotify.com/v1/tracks/4VOUXdkDN3USHfEtBjCUPS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4VOUXdkDN3USHfEtBjCUPS",
+        "duration_ms": 283427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0dBXCFV75G0mdi5fo7eO9v",
+    "name": "Distant Fantasies",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 97.979,
+    "features": [
+      {
+        "danceability": 0.623,
+        "energy": 0.591,
+        "key": 11,
+        "loudness": -10.14,
+        "mode": 1,
+        "speechiness": 0.0849,
+        "acousticness": 0.181,
+        "instrumentalness": 0.0129,
+        "liveness": 0.332,
+        "valence": 0.24,
+        "tempo": 97.979,
+        "type": "audio_features",
+        "id": "0dBXCFV75G0mdi5fo7eO9v",
+        "uri": "spotify:track:0dBXCFV75G0mdi5fo7eO9v",
+        "track_href": "https://api.spotify.com/v1/tracks/0dBXCFV75G0mdi5fo7eO9v",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0dBXCFV75G0mdi5fo7eO9v",
+        "duration_ms": 287600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5ND2pMuoFVtT0Ocug5A4KT",
+    "name": "Wounds",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 84.798,
+    "features": [
+      {
+        "danceability": 0.491,
+        "energy": 0.393,
+        "key": 8,
+        "loudness": -8.647,
+        "mode": 1,
+        "speechiness": 0.0285,
+        "acousticness": 0.432,
+        "instrumentalness": 0.333,
+        "liveness": 0.108,
+        "valence": 0.152,
+        "tempo": 84.798,
+        "type": "audio_features",
+        "id": "5ND2pMuoFVtT0Ocug5A4KT",
+        "uri": "spotify:track:5ND2pMuoFVtT0Ocug5A4KT",
+        "track_href": "https://api.spotify.com/v1/tracks/5ND2pMuoFVtT0Ocug5A4KT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ND2pMuoFVtT0Ocug5A4KT",
+        "duration_ms": 243560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6fXMuxRTO9vdrsAcbO3X5x",
+    "name": "Mature Nature",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 106.007,
+    "features": [
+      {
+        "danceability": 0.593,
+        "energy": 0.466,
+        "key": 9,
+        "loudness": -9.978,
+        "mode": 1,
+        "speechiness": 0.0271,
+        "acousticness": 0.232,
+        "instrumentalness": 0.662,
+        "liveness": 0.0738,
+        "valence": 0.336,
+        "tempo": 106.007,
+        "type": "audio_features",
+        "id": "6fXMuxRTO9vdrsAcbO3X5x",
+        "uri": "spotify:track:6fXMuxRTO9vdrsAcbO3X5x",
+        "track_href": "https://api.spotify.com/v1/tracks/6fXMuxRTO9vdrsAcbO3X5x",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6fXMuxRTO9vdrsAcbO3X5x",
+        "duration_ms": 235080,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Jcij1eWd5bDMU5iPbxe2i",
+    "name": "Kitchen",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 129.983,
+    "features": [
+      {
+        "danceability": 0.725,
+        "energy": 0.798,
+        "key": 5,
+        "loudness": -5.328,
+        "mode": 0,
+        "speechiness": 0.0349,
+        "acousticness": 0.137,
+        "instrumentalness": 0.0402,
+        "liveness": 0.133,
+        "valence": 0.665,
+        "tempo": 129.983,
+        "type": "audio_features",
+        "id": "0Jcij1eWd5bDMU5iPbxe2i",
+        "uri": "spotify:track:0Jcij1eWd5bDMU5iPbxe2i",
+        "track_href": "https://api.spotify.com/v1/tracks/0Jcij1eWd5bDMU5iPbxe2i",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Jcij1eWd5bDMU5iPbxe2i",
+        "duration_ms": 268747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3uEBYVUzx2aft489ui6Nmi",
+    "name": "Cosmic Warrior",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 129.989,
+    "features": [
+      {
+        "danceability": 0.58,
+        "energy": 0.787,
+        "key": 9,
+        "loudness": -6.591,
+        "mode": 0,
+        "speechiness": 0.0297,
+        "acousticness": 0.227,
+        "instrumentalness": 0.189,
+        "liveness": 0.0951,
+        "valence": 0.277,
+        "tempo": 129.989,
+        "type": "audio_features",
+        "id": "3uEBYVUzx2aft489ui6Nmi",
+        "uri": "spotify:track:3uEBYVUzx2aft489ui6Nmi",
+        "track_href": "https://api.spotify.com/v1/tracks/3uEBYVUzx2aft489ui6Nmi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3uEBYVUzx2aft489ui6Nmi",
+        "duration_ms": 240973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "62Mre4mWZkOGjau4UQtFUV",
+    "name": "The Guide",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 119.992,
+    "features": [
+      {
+        "danceability": 0.759,
+        "energy": 0.528,
+        "key": 10,
+        "loudness": -11.438,
+        "mode": 0,
+        "speechiness": 0.0718,
+        "acousticness": 0.747,
+        "instrumentalness": 0.0158,
+        "liveness": 0.0965,
+        "valence": 0.571,
+        "tempo": 119.992,
+        "type": "audio_features",
+        "id": "62Mre4mWZkOGjau4UQtFUV",
+        "uri": "spotify:track:62Mre4mWZkOGjau4UQtFUV",
+        "track_href": "https://api.spotify.com/v1/tracks/62Mre4mWZkOGjau4UQtFUV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/62Mre4mWZkOGjau4UQtFUV",
+        "duration_ms": 306440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7iqsSrwZqc8vpdvbyK74pQ",
+    "name": "The Commander",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 155.982,
+    "features": [
+      {
+        "danceability": 0.558,
+        "energy": 0.797,
+        "key": 0,
+        "loudness": -6.171,
+        "mode": 1,
+        "speechiness": 0.0347,
+        "acousticness": 0.0113,
+        "instrumentalness": 0.00136,
+        "liveness": 0.158,
+        "valence": 0.26,
+        "tempo": 155.982,
+        "type": "audio_features",
+        "id": "7iqsSrwZqc8vpdvbyK74pQ",
+        "uri": "spotify:track:7iqsSrwZqc8vpdvbyK74pQ",
+        "track_href": "https://api.spotify.com/v1/tracks/7iqsSrwZqc8vpdvbyK74pQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7iqsSrwZqc8vpdvbyK74pQ",
+        "duration_ms": 256440,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1uHb5qa69lHLcFT38fIfUG",
+    "name": "Surfin'",
+    "artist": "Kid Cudi",
+    "album": "Passion, Pain & Demon Slayin'",
+    "bpm": 130.016,
+    "features": [
+      {
+        "danceability": 0.531,
+        "energy": 0.687,
+        "key": 7,
+        "loudness": -6.173,
+        "mode": 1,
+        "speechiness": 0.0754,
+        "acousticness": 0.0349,
+        "instrumentalness": 0.0241,
+        "liveness": 0.112,
+        "valence": 0.462,
+        "tempo": 130.016,
+        "type": "audio_features",
+        "id": "1uHb5qa69lHLcFT38fIfUG",
+        "uri": "spotify:track:1uHb5qa69lHLcFT38fIfUG",
+        "track_href": "https://api.spotify.com/v1/tracks/1uHb5qa69lHLcFT38fIfUG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1uHb5qa69lHLcFT38fIfUG",
+        "duration_ms": 375013,
+        "time_signature": 4
+      }
+    ]
+  }
+]

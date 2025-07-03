@@ -1,0 +1,350 @@
+[
+  {
+    "id": "4OeQM6VKvF8QQLaqvhP3qo",
+    "name": "To The World",
+    "artist": "Various Artists",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "bpm": 141.983,
+    "features": [
+      {
+        "danceability": 0.537,
+        "energy": 0.572,
+        "key": 4,
+        "loudness": -8.168,
+        "mode": 1,
+        "speechiness": 0.263,
+        "acousticness": 0.198,
+        "instrumentalness": 0,
+        "liveness": 0.0962,
+        "valence": 0.452,
+        "tempo": 141.983,
+        "type": "audio_features",
+        "id": "4OeQM6VKvF8QQLaqvhP3qo",
+        "uri": "spotify:track:4OeQM6VKvF8QQLaqvhP3qo",
+        "track_href": "https://api.spotify.com/v1/tracks/4OeQM6VKvF8QQLaqvhP3qo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4OeQM6VKvF8QQLaqvhP3qo",
+        "duration_ms": 230947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "65rRB2mspD309xE6YimZTl",
+    "name": "Clique",
+    "artist": "Various Artists",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "bpm": 109.318,
+    "features": [
+      {
+        "danceability": 0.66,
+        "energy": 0.539,
+        "key": 9,
+        "loudness": -5.947,
+        "mode": 0,
+        "speechiness": 0.324,
+        "acousticness": 0.0534,
+        "instrumentalness": 0,
+        "liveness": 0.222,
+        "valence": 0.307,
+        "tempo": 109.318,
+        "type": "audio_features",
+        "id": "65rRB2mspD309xE6YimZTl",
+        "uri": "spotify:track:65rRB2mspD309xE6YimZTl",
+        "track_href": "https://api.spotify.com/v1/tracks/65rRB2mspD309xE6YimZTl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/65rRB2mspD309xE6YimZTl",
+        "duration_ms": 293613,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "671XaUBmifTMXDbZK5CB1M",
+    "name": "Mercy.1",
+    "artist": "Various Artists",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "bpm": 140.009,
+    "features": [
+      {
+        "danceability": 0.556,
+        "energy": 0.644,
+        "key": 6,
+        "loudness": -5.805,
+        "mode": 0,
+        "speechiness": 0.402,
+        "acousticness": 0.0558,
+        "instrumentalness": 2.32e-05,
+        "liveness": 0.35,
+        "valence": 0.499,
+        "tempo": 140.009,
+        "type": "audio_features",
+        "id": "671XaUBmifTMXDbZK5CB1M",
+        "uri": "spotify:track:671XaUBmifTMXDbZK5CB1M",
+        "track_href": "https://api.spotify.com/v1/tracks/671XaUBmifTMXDbZK5CB1M",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/671XaUBmifTMXDbZK5CB1M",
+        "duration_ms": 326347,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "62h8709cQe3S3nOWvFExpN",
+    "name": "New God Flow.1",
+    "artist": "Various Artists",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "bpm": 173.654,
+    "features": [
+      {
+        "danceability": 0.489,
+        "energy": 0.946,
+        "key": 3,
+        "loudness": -3.502,
+        "mode": 0,
+        "speechiness": 0.45,
+        "acousticness": 0.438,
+        "instrumentalness": 0,
+        "liveness": 0.65,
+        "valence": 0.439,
+        "tempo": 173.654,
+        "type": "audio_features",
+        "id": "62h8709cQe3S3nOWvFExpN",
+        "uri": "spotify:track:62h8709cQe3S3nOWvFExpN",
+        "track_href": "https://api.spotify.com/v1/tracks/62h8709cQe3S3nOWvFExpN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/62h8709cQe3S3nOWvFExpN",
+        "duration_ms": 357320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6KdwBL0OFecxLc1cSV9WVp",
+    "name": "The Morning",
+    "artist": "Various Artists",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "bpm": 82.06,
+    "features": [
+      {
+        "danceability": 0.669,
+        "energy": 0.654,
+        "key": 7,
+        "loudness": -4.594,
+        "mode": 1,
+        "speechiness": 0.336,
+        "acousticness": 0.0378,
+        "instrumentalness": 0,
+        "liveness": 0.322,
+        "valence": 0.19,
+        "tempo": 82.06,
+        "type": "audio_features",
+        "id": "6KdwBL0OFecxLc1cSV9WVp",
+        "uri": "spotify:track:6KdwBL0OFecxLc1cSV9WVp",
+        "track_href": "https://api.spotify.com/v1/tracks/6KdwBL0OFecxLc1cSV9WVp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6KdwBL0OFecxLc1cSV9WVp",
+        "duration_ms": 275080,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7jCkMZdvs8ABVd7fAHyQHM",
+    "name": "Cold.1",
+    "artist": "Various Artists",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "bpm": 106.706,
+    "features": [
+      {
+        "danceability": 0.435,
+        "energy": 0.885,
+        "key": 4,
+        "loudness": -4.143,
+        "mode": 0,
+        "speechiness": 0.132,
+        "acousticness": 0.00728,
+        "instrumentalness": 0,
+        "liveness": 0.21,
+        "valence": 0.536,
+        "tempo": 106.706,
+        "type": "audio_features",
+        "id": "7jCkMZdvs8ABVd7fAHyQHM",
+        "uri": "spotify:track:7jCkMZdvs8ABVd7fAHyQHM",
+        "track_href": "https://api.spotify.com/v1/tracks/7jCkMZdvs8ABVd7fAHyQHM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7jCkMZdvs8ABVd7fAHyQHM",
+        "duration_ms": 216253,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "3yldvwyhm4WKrPyoJHSx99",
+    "name": "Higher",
+    "artist": "Various Artists",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "bpm": 154.029,
+    "features": [
+      {
+        "danceability": 0.665,
+        "energy": 0.723,
+        "key": 5,
+        "loudness": -6.235,
+        "mode": 0,
+        "speechiness": 0.139,
+        "acousticness": 0.0157,
+        "instrumentalness": 3.36e-06,
+        "liveness": 0.289,
+        "valence": 0.321,
+        "tempo": 154.029,
+        "type": "audio_features",
+        "id": "3yldvwyhm4WKrPyoJHSx99",
+        "uri": "spotify:track:3yldvwyhm4WKrPyoJHSx99",
+        "track_href": "https://api.spotify.com/v1/tracks/3yldvwyhm4WKrPyoJHSx99",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3yldvwyhm4WKrPyoJHSx99",
+        "duration_ms": 274480,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3BkPFyejx6Qf4otNHMvxap",
+    "name": "Sin City",
+    "artist": "Various Artists",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "bpm": 82.924,
+    "features": [
+      {
+        "danceability": 0.578,
+        "energy": 0.625,
+        "key": 10,
+        "loudness": -8.477,
+        "mode": 0,
+        "speechiness": 0.111,
+        "acousticness": 0.056,
+        "instrumentalness": 0,
+        "liveness": 0.0826,
+        "valence": 0.28,
+        "tempo": 82.924,
+        "type": "audio_features",
+        "id": "3BkPFyejx6Qf4otNHMvxap",
+        "uri": "spotify:track:3BkPFyejx6Qf4otNHMvxap",
+        "track_href": "https://api.spotify.com/v1/tracks/3BkPFyejx6Qf4otNHMvxap",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3BkPFyejx6Qf4otNHMvxap",
+        "duration_ms": 268387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6uG4BxL4qqSIOXfEiGdpBf",
+    "name": "The One",
+    "artist": "Various Artists",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "bpm": 140.692,
+    "features": [
+      {
+        "danceability": 0.529,
+        "energy": 0.758,
+        "key": 9,
+        "loudness": -5.297,
+        "mode": 1,
+        "speechiness": 0.148,
+        "acousticness": 0.0446,
+        "instrumentalness": 0,
+        "liveness": 0.105,
+        "valence": 0.252,
+        "tempo": 140.692,
+        "type": "audio_features",
+        "id": "6uG4BxL4qqSIOXfEiGdpBf",
+        "uri": "spotify:track:6uG4BxL4qqSIOXfEiGdpBf",
+        "track_href": "https://api.spotify.com/v1/tracks/6uG4BxL4qqSIOXfEiGdpBf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6uG4BxL4qqSIOXfEiGdpBf",
+        "duration_ms": 344760,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6vO5OZ18h33ZO40S9plFDx",
+    "name": "Creepers",
+    "artist": "Various Artists",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "bpm": 198.002,
+    "features": [
+      {
+        "danceability": 0.591,
+        "energy": 0.744,
+        "key": 2,
+        "loudness": -7.995,
+        "mode": 1,
+        "speechiness": 0.0912,
+        "acousticness": 0.0174,
+        "instrumentalness": 0.00169,
+        "liveness": 0.104,
+        "valence": 0.0719,
+        "tempo": 198.002,
+        "type": "audio_features",
+        "id": "6vO5OZ18h33ZO40S9plFDx",
+        "uri": "spotify:track:6vO5OZ18h33ZO40S9plFDx",
+        "track_href": "https://api.spotify.com/v1/tracks/6vO5OZ18h33ZO40S9plFDx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6vO5OZ18h33ZO40S9plFDx",
+        "duration_ms": 194227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5wDk4aZoWHvO8HAhOkxzZe",
+    "name": "Bliss",
+    "artist": "Various Artists",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "bpm": 76.032,
+    "features": [
+      {
+        "danceability": 0.421,
+        "energy": 0.643,
+        "key": 0,
+        "loudness": -8.152,
+        "mode": 0,
+        "speechiness": 0.034,
+        "acousticness": 0.0145,
+        "instrumentalness": 0,
+        "liveness": 0.432,
+        "valence": 0.485,
+        "tempo": 76.032,
+        "type": "audio_features",
+        "id": "5wDk4aZoWHvO8HAhOkxzZe",
+        "uri": "spotify:track:5wDk4aZoWHvO8HAhOkxzZe",
+        "track_href": "https://api.spotify.com/v1/tracks/5wDk4aZoWHvO8HAhOkxzZe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5wDk4aZoWHvO8HAhOkxzZe",
+        "duration_ms": 210053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3YqJ0iaDWM0aqEDQExd2j3",
+    "name": "Don't Like.1",
+    "artist": "Various Artists",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "bpm": 132.062,
+    "features": [
+      {
+        "danceability": 0.657,
+        "energy": 0.611,
+        "key": 6,
+        "loudness": -5.415,
+        "mode": 0,
+        "speechiness": 0.225,
+        "acousticness": 0.00937,
+        "instrumentalness": 0,
+        "liveness": 0.146,
+        "valence": 0.616,
+        "tempo": 132.062,
+        "type": "audio_features",
+        "id": "3YqJ0iaDWM0aqEDQExd2j3",
+        "uri": "spotify:track:3YqJ0iaDWM0aqEDQExd2j3",
+        "track_href": "https://api.spotify.com/v1/tracks/3YqJ0iaDWM0aqEDQExd2j3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3YqJ0iaDWM0aqEDQExd2j3",
+        "duration_ms": 283653,
+        "time_signature": 4
+      }
+    ]
+  }
+]

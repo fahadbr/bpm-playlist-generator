@@ -1,0 +1,176 @@
+[
+  {
+    "id": "6dP7XttBXZl7OdmBzNt9sN",
+    "name": "Condemned to the Gallows",
+    "artist": "Between The Buried And Me",
+    "album": "Automata I",
+    "bpm": 126.08,
+    "features": [
+      {
+        "danceability": 0.295,
+        "energy": 0.924,
+        "key": 1,
+        "loudness": -6.021,
+        "mode": 1,
+        "speechiness": 0.0954,
+        "acousticness": 0.000872,
+        "instrumentalness": 0.0886,
+        "liveness": 0.233,
+        "valence": 0.0992,
+        "tempo": 126.08,
+        "type": "audio_features",
+        "id": "6dP7XttBXZl7OdmBzNt9sN",
+        "uri": "spotify:track:6dP7XttBXZl7OdmBzNt9sN",
+        "track_href": "https://api.spotify.com/v1/tracks/6dP7XttBXZl7OdmBzNt9sN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6dP7XttBXZl7OdmBzNt9sN",
+        "duration_ms": 394880,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1O0HrrheKJoM3yuR3wDF3N",
+    "name": "House Organ",
+    "artist": "Between The Buried And Me",
+    "album": "Automata I",
+    "bpm": 125.075,
+    "features": [
+      {
+        "danceability": 0.321,
+        "energy": 0.931,
+        "key": 6,
+        "loudness": -5.595,
+        "mode": 1,
+        "speechiness": 0.05,
+        "acousticness": 0.000553,
+        "instrumentalness": 0.0926,
+        "liveness": 0.344,
+        "valence": 0.354,
+        "tempo": 125.075,
+        "type": "audio_features",
+        "id": "1O0HrrheKJoM3yuR3wDF3N",
+        "uri": "spotify:track:1O0HrrheKJoM3yuR3wDF3N",
+        "track_href": "https://api.spotify.com/v1/tracks/1O0HrrheKJoM3yuR3wDF3N",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1O0HrrheKJoM3yuR3wDF3N",
+        "duration_ms": 221070,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6mdDLmuUd89Oyi8qEfB4YS",
+    "name": "Yellow Eyes",
+    "artist": "Between The Buried And Me",
+    "album": "Automata I",
+    "bpm": 95.224,
+    "features": [
+      {
+        "danceability": 0.276,
+        "energy": 0.967,
+        "key": 4,
+        "loudness": -5.067,
+        "mode": 0,
+        "speechiness": 0.118,
+        "acousticness": 4.58e-05,
+        "instrumentalness": 0.00128,
+        "liveness": 0.367,
+        "valence": 0.428,
+        "tempo": 95.224,
+        "type": "audio_features",
+        "id": "6mdDLmuUd89Oyi8qEfB4YS",
+        "uri": "spotify:track:6mdDLmuUd89Oyi8qEfB4YS",
+        "track_href": "https://api.spotify.com/v1/tracks/6mdDLmuUd89Oyi8qEfB4YS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6mdDLmuUd89Oyi8qEfB4YS",
+        "duration_ms": 524663,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3fGiexNH3CR9mzfdcuz23G",
+    "name": "Millions",
+    "artist": "Between The Buried And Me",
+    "album": "Automata I",
+    "bpm": 120.001,
+    "features": [
+      {
+        "danceability": 0.559,
+        "energy": 0.845,
+        "key": 5,
+        "loudness": -5.768,
+        "mode": 0,
+        "speechiness": 0.0337,
+        "acousticness": 0.000103,
+        "instrumentalness": 0.000414,
+        "liveness": 0.108,
+        "valence": 0.341,
+        "tempo": 120.001,
+        "type": "audio_features",
+        "id": "3fGiexNH3CR9mzfdcuz23G",
+        "uri": "spotify:track:3fGiexNH3CR9mzfdcuz23G",
+        "track_href": "https://api.spotify.com/v1/tracks/3fGiexNH3CR9mzfdcuz23G",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3fGiexNH3CR9mzfdcuz23G",
+        "duration_ms": 283467,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5qLsFqHVJsVp205YiUQrNz",
+    "name": "Gold Distance",
+    "artist": "Between The Buried And Me",
+    "album": "Automata I",
+    "bpm": 142.126,
+    "features": [
+      {
+        "danceability": 0.137,
+        "energy": 0.268,
+        "key": 4,
+        "loudness": -17.598,
+        "mode": 0,
+        "speechiness": 0.0373,
+        "acousticness": 0.0119,
+        "instrumentalness": 0.831,
+        "liveness": 0.267,
+        "valence": 0.0457,
+        "tempo": 142.126,
+        "type": "audio_features",
+        "id": "5qLsFqHVJsVp205YiUQrNz",
+        "uri": "spotify:track:5qLsFqHVJsVp205YiUQrNz",
+        "track_href": "https://api.spotify.com/v1/tracks/5qLsFqHVJsVp205YiUQrNz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5qLsFqHVJsVp205YiUQrNz",
+        "duration_ms": 61863,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0ytiYf9F2Bdnhlvu5AdzyH",
+    "name": "Blot",
+    "artist": "Between The Buried And Me",
+    "album": "Automata I",
+    "bpm": 148.017,
+    "features": [
+      {
+        "danceability": 0.282,
+        "energy": 0.92,
+        "key": 11,
+        "loudness": -5.14,
+        "mode": 1,
+        "speechiness": 0.0597,
+        "acousticness": 0.000713,
+        "instrumentalness": 0.00698,
+        "liveness": 0.327,
+        "valence": 0.2,
+        "tempo": 148.017,
+        "type": "audio_features",
+        "id": "0ytiYf9F2Bdnhlvu5AdzyH",
+        "uri": "spotify:track:0ytiYf9F2Bdnhlvu5AdzyH",
+        "track_href": "https://api.spotify.com/v1/tracks/0ytiYf9F2Bdnhlvu5AdzyH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ytiYf9F2Bdnhlvu5AdzyH",
+        "duration_ms": 627331,
+        "time_signature": 4
+      }
+    ]
+  }
+]

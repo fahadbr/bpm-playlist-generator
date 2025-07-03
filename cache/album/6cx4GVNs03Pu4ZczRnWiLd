@@ -1,0 +1,321 @@
+[
+  {
+    "id": "6Ljp2oy8zR8EhutqBdLYnt",
+    "name": "yankee and the brave (ep. 4)",
+    "artist": "Run The Jewels",
+    "album": "RTJ4",
+    "bpm": 82.007,
+    "features": [
+      {
+        "danceability": 0.595,
+        "energy": 0.878,
+        "key": 10,
+        "loudness": -5.63,
+        "mode": 0,
+        "speechiness": 0.423,
+        "acousticness": 0.172,
+        "instrumentalness": 0,
+        "liveness": 0.303,
+        "valence": 0.746,
+        "tempo": 82.007,
+        "type": "audio_features",
+        "id": "6Ljp2oy8zR8EhutqBdLYnt",
+        "uri": "spotify:track:6Ljp2oy8zR8EhutqBdLYnt",
+        "track_href": "https://api.spotify.com/v1/tracks/6Ljp2oy8zR8EhutqBdLYnt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Ljp2oy8zR8EhutqBdLYnt",
+        "duration_ms": 146573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "72YEW9z8ke67115z6AK8PD",
+    "name": "ooh la la (feat. Greg Nice & DJ Premier)",
+    "artist": "Run The Jewels",
+    "album": "RTJ4",
+    "bpm": 170.079,
+    "features": [
+      {
+        "danceability": 0.686,
+        "energy": 0.824,
+        "key": 11,
+        "loudness": -5.413,
+        "mode": 1,
+        "speechiness": 0.34,
+        "acousticness": 0.157,
+        "instrumentalness": 0,
+        "liveness": 0.242,
+        "valence": 0.405,
+        "tempo": 170.079,
+        "type": "audio_features",
+        "id": "72YEW9z8ke67115z6AK8PD",
+        "uri": "spotify:track:72YEW9z8ke67115z6AK8PD",
+        "track_href": "https://api.spotify.com/v1/tracks/72YEW9z8ke67115z6AK8PD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/72YEW9z8ke67115z6AK8PD",
+        "duration_ms": 183827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5nnXRsMNUQ4HYs1rKDQ28M",
+    "name": "out of sight (feat. 2 Chainz)",
+    "artist": "Run The Jewels",
+    "album": "RTJ4",
+    "bpm": 87.553,
+    "features": [
+      {
+        "danceability": 0.584,
+        "energy": 0.722,
+        "key": 9,
+        "loudness": -7.732,
+        "mode": 1,
+        "speechiness": 0.28,
+        "acousticness": 0.0183,
+        "instrumentalness": 1.41e-05,
+        "liveness": 0.143,
+        "valence": 0.685,
+        "tempo": 87.553,
+        "type": "audio_features",
+        "id": "5nnXRsMNUQ4HYs1rKDQ28M",
+        "uri": "spotify:track:5nnXRsMNUQ4HYs1rKDQ28M",
+        "track_href": "https://api.spotify.com/v1/tracks/5nnXRsMNUQ4HYs1rKDQ28M",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5nnXRsMNUQ4HYs1rKDQ28M",
+        "duration_ms": 201133,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3vS6X9Eb7JdcvX2g7Lc3IK",
+    "name": "holy calamafuck",
+    "artist": "Run The Jewels",
+    "album": "RTJ4",
+    "bpm": 119.942,
+    "features": [
+      {
+        "danceability": 0.603,
+        "energy": 0.764,
+        "key": 7,
+        "loudness": -7.407,
+        "mode": 1,
+        "speechiness": 0.287,
+        "acousticness": 0.0557,
+        "instrumentalness": 0,
+        "liveness": 0.621,
+        "valence": 0.381,
+        "tempo": 119.942,
+        "type": "audio_features",
+        "id": "3vS6X9Eb7JdcvX2g7Lc3IK",
+        "uri": "spotify:track:3vS6X9Eb7JdcvX2g7Lc3IK",
+        "track_href": "https://api.spotify.com/v1/tracks/3vS6X9Eb7JdcvX2g7Lc3IK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3vS6X9Eb7JdcvX2g7Lc3IK",
+        "duration_ms": 238413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0IIE1kZQBDbs3yGYow5rB5",
+    "name": "goonies vs. E.T.",
+    "artist": "Run The Jewels",
+    "album": "RTJ4",
+    "bpm": 116.052,
+    "features": [
+      {
+        "danceability": 0.773,
+        "energy": 0.61,
+        "key": 2,
+        "loudness": -8.004,
+        "mode": 1,
+        "speechiness": 0.123,
+        "acousticness": 0.0169,
+        "instrumentalness": 9.27e-06,
+        "liveness": 0.118,
+        "valence": 0.19,
+        "tempo": 116.052,
+        "type": "audio_features",
+        "id": "0IIE1kZQBDbs3yGYow5rB5",
+        "uri": "spotify:track:0IIE1kZQBDbs3yGYow5rB5",
+        "track_href": "https://api.spotify.com/v1/tracks/0IIE1kZQBDbs3yGYow5rB5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0IIE1kZQBDbs3yGYow5rB5",
+        "duration_ms": 183173,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5zkBEkiEeqKKoXlsJRgyKa",
+    "name": "walking in the snow",
+    "artist": "Run The Jewels",
+    "album": "RTJ4",
+    "bpm": 146.006,
+    "features": [
+      {
+        "danceability": 0.726,
+        "energy": 0.818,
+        "key": 0,
+        "loudness": -6.473,
+        "mode": 1,
+        "speechiness": 0.311,
+        "acousticness": 0.0602,
+        "instrumentalness": 0,
+        "liveness": 0.276,
+        "valence": 0.305,
+        "tempo": 146.006,
+        "type": "audio_features",
+        "id": "5zkBEkiEeqKKoXlsJRgyKa",
+        "uri": "spotify:track:5zkBEkiEeqKKoXlsJRgyKa",
+        "track_href": "https://api.spotify.com/v1/tracks/5zkBEkiEeqKKoXlsJRgyKa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zkBEkiEeqKKoXlsJRgyKa",
+        "duration_ms": 235867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0YdjfAmUyxF4Dh0HNEhmoI",
+    "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
+    "artist": "Run The Jewels",
+    "album": "RTJ4",
+    "bpm": 132.428,
+    "features": [
+      {
+        "danceability": 0.68,
+        "energy": 0.501,
+        "key": 6,
+        "loudness": -7.31,
+        "mode": 0,
+        "speechiness": 0.486,
+        "acousticness": 0.024,
+        "instrumentalness": 8.58e-05,
+        "liveness": 0.162,
+        "valence": 0.392,
+        "tempo": 132.428,
+        "type": "audio_features",
+        "id": "0YdjfAmUyxF4Dh0HNEhmoI",
+        "uri": "spotify:track:0YdjfAmUyxF4Dh0HNEhmoI",
+        "track_href": "https://api.spotify.com/v1/tracks/0YdjfAmUyxF4Dh0HNEhmoI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YdjfAmUyxF4Dh0HNEhmoI",
+        "duration_ms": 205160,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "13Dzvh6mqoK1B2Bb3iuJL3",
+    "name": "never look back",
+    "artist": "Run The Jewels",
+    "album": "RTJ4",
+    "bpm": 114.003,
+    "features": [
+      {
+        "danceability": 0.856,
+        "energy": 0.725,
+        "key": 1,
+        "loudness": -8.828,
+        "mode": 1,
+        "speechiness": 0.23,
+        "acousticness": 0.143,
+        "instrumentalness": 0.000172,
+        "liveness": 0.131,
+        "valence": 0.481,
+        "tempo": 114.003,
+        "type": "audio_features",
+        "id": "13Dzvh6mqoK1B2Bb3iuJL3",
+        "uri": "spotify:track:13Dzvh6mqoK1B2Bb3iuJL3",
+        "track_href": "https://api.spotify.com/v1/tracks/13Dzvh6mqoK1B2Bb3iuJL3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/13Dzvh6mqoK1B2Bb3iuJL3",
+        "duration_ms": 177933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1qF7OSUd06vicZ4fJTPRAA",
+    "name": "the ground below",
+    "artist": "Run The Jewels",
+    "album": "RTJ4",
+    "bpm": 89.743,
+    "features": [
+      {
+        "danceability": 0.617,
+        "energy": 0.785,
+        "key": 2,
+        "loudness": -6.659,
+        "mode": 1,
+        "speechiness": 0.259,
+        "acousticness": 0.00117,
+        "instrumentalness": 0,
+        "liveness": 0.0798,
+        "valence": 0.405,
+        "tempo": 89.743,
+        "type": "audio_features",
+        "id": "1qF7OSUd06vicZ4fJTPRAA",
+        "uri": "spotify:track:1qF7OSUd06vicZ4fJTPRAA",
+        "track_href": "https://api.spotify.com/v1/tracks/1qF7OSUd06vicZ4fJTPRAA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1qF7OSUd06vicZ4fJTPRAA",
+        "duration_ms": 152213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1gBCZXAL6VsDBpl8cLi8Dd",
+    "name": "pulling the pin (feat. Mavis Staples & Josh Homme)",
+    "artist": "Run The Jewels",
+    "album": "RTJ4",
+    "bpm": 101.096,
+    "features": [
+      {
+        "danceability": 0.468,
+        "energy": 0.763,
+        "key": 9,
+        "loudness": -6.826,
+        "mode": 0,
+        "speechiness": 0.268,
+        "acousticness": 0.291,
+        "instrumentalness": 1.22e-06,
+        "liveness": 0.204,
+        "valence": 0.223,
+        "tempo": 101.096,
+        "type": "audio_features",
+        "id": "1gBCZXAL6VsDBpl8cLi8Dd",
+        "uri": "spotify:track:1gBCZXAL6VsDBpl8cLi8Dd",
+        "track_href": "https://api.spotify.com/v1/tracks/1gBCZXAL6VsDBpl8cLi8Dd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1gBCZXAL6VsDBpl8cLi8Dd",
+        "duration_ms": 217240,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0gDRZBhdSLqWhfTaWsOdcd",
+    "name": "a few words for the firing squad (radiation)",
+    "artist": "Run The Jewels",
+    "album": "RTJ4",
+    "bpm": 98.562,
+    "features": [
+      {
+        "danceability": 0.571,
+        "energy": 0.605,
+        "key": 7,
+        "loudness": -7.336,
+        "mode": 1,
+        "speechiness": 0.041,
+        "acousticness": 0.0591,
+        "instrumentalness": 0.000121,
+        "liveness": 0.115,
+        "valence": 0.0859,
+        "tempo": 98.562,
+        "type": "audio_features",
+        "id": "0gDRZBhdSLqWhfTaWsOdcd",
+        "uri": "spotify:track:0gDRZBhdSLqWhfTaWsOdcd",
+        "track_href": "https://api.spotify.com/v1/tracks/0gDRZBhdSLqWhfTaWsOdcd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0gDRZBhdSLqWhfTaWsOdcd",
+        "duration_ms": 402200,
+        "time_signature": 3
+      }
+    ]
+  }
+]

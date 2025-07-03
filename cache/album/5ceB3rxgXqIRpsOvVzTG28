@@ -1,0 +1,466 @@
+[
+  {
+    "id": "7g8S0N45Tkp7yE1WEWRwyu",
+    "name": "Hold On, Be Strong",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 140.875,
+    "features": [
+      {
+        "danceability": 0.388,
+        "energy": 0.291,
+        "key": 11,
+        "loudness": -16.709,
+        "mode": 0,
+        "speechiness": 0.0313,
+        "acousticness": 0.455,
+        "instrumentalness": 0.65,
+        "liveness": 0.0873,
+        "valence": 0.16,
+        "tempo": 140.875,
+        "type": "audio_features",
+        "id": "7g8S0N45Tkp7yE1WEWRwyu",
+        "uri": "spotify:track:7g8S0N45Tkp7yE1WEWRwyu",
+        "track_href": "https://api.spotify.com/v1/tracks/7g8S0N45Tkp7yE1WEWRwyu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7g8S0N45Tkp7yE1WEWRwyu",
+        "duration_ms": 72587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1wYp8ISMvX8qrflPrBU9Yo",
+    "name": "Return of the \"G\"",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 73.427,
+    "features": [
+      {
+        "danceability": 0.48,
+        "energy": 0.615,
+        "key": 2,
+        "loudness": -7.269,
+        "mode": 1,
+        "speechiness": 0.361,
+        "acousticness": 0.00214,
+        "instrumentalness": 0,
+        "liveness": 0.29,
+        "valence": 0.202,
+        "tempo": 73.427,
+        "type": "audio_features",
+        "id": "1wYp8ISMvX8qrflPrBU9Yo",
+        "uri": "spotify:track:1wYp8ISMvX8qrflPrBU9Yo",
+        "track_href": "https://api.spotify.com/v1/tracks/1wYp8ISMvX8qrflPrBU9Yo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1wYp8ISMvX8qrflPrBU9Yo",
+        "duration_ms": 289160,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0shK5iZQppbHPQYiy60xs9",
+    "name": "Rosa Parks",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 103.89,
+    "features": [
+      {
+        "danceability": 0.792,
+        "energy": 0.701,
+        "key": 6,
+        "loudness": -7.198,
+        "mode": 0,
+        "speechiness": 0.283,
+        "acousticness": 0.105,
+        "instrumentalness": 0,
+        "liveness": 0.761,
+        "valence": 0.251,
+        "tempo": 103.89,
+        "type": "audio_features",
+        "id": "0shK5iZQppbHPQYiy60xs9",
+        "uri": "spotify:track:0shK5iZQppbHPQYiy60xs9",
+        "track_href": "https://api.spotify.com/v1/tracks/0shK5iZQppbHPQYiy60xs9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0shK5iZQppbHPQYiy60xs9",
+        "duration_ms": 324373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6EQ4orawx8eo0aXH0pOKLE",
+    "name": "Skew It on the Bar-B (feat. Raekwon)",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 107.647,
+    "features": [
+      {
+        "danceability": 0.931,
+        "energy": 0.815,
+        "key": 2,
+        "loudness": -4.801,
+        "mode": 1,
+        "speechiness": 0.295,
+        "acousticness": 0.221,
+        "instrumentalness": 4.31e-06,
+        "liveness": 0.0584,
+        "valence": 0.528,
+        "tempo": 107.647,
+        "type": "audio_features",
+        "id": "6EQ4orawx8eo0aXH0pOKLE",
+        "uri": "spotify:track:6EQ4orawx8eo0aXH0pOKLE",
+        "track_href": "https://api.spotify.com/v1/tracks/6EQ4orawx8eo0aXH0pOKLE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6EQ4orawx8eo0aXH0pOKLE",
+        "duration_ms": 195107,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4V3N5LvUOh3yDPP16cwAhE",
+    "name": "Aquemini",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 89.197,
+    "features": [
+      {
+        "danceability": 0.707,
+        "energy": 0.661,
+        "key": 1,
+        "loudness": -5.711,
+        "mode": 0,
+        "speechiness": 0.39,
+        "acousticness": 0.245,
+        "instrumentalness": 0,
+        "liveness": 0.176,
+        "valence": 0.157,
+        "tempo": 89.197,
+        "type": "audio_features",
+        "id": "4V3N5LvUOh3yDPP16cwAhE",
+        "uri": "spotify:track:4V3N5LvUOh3yDPP16cwAhE",
+        "track_href": "https://api.spotify.com/v1/tracks/4V3N5LvUOh3yDPP16cwAhE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4V3N5LvUOh3yDPP16cwAhE",
+        "duration_ms": 319240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3sQDstyMhCcDJ3mY6onZez",
+    "name": "Synthesizer (feat. George Clinton)",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 189.649,
+    "features": [
+      {
+        "danceability": 0.629,
+        "energy": 0.66,
+        "key": 0,
+        "loudness": -6.645,
+        "mode": 0,
+        "speechiness": 0.376,
+        "acousticness": 0.0109,
+        "instrumentalness": 0,
+        "liveness": 0.491,
+        "valence": 0.469,
+        "tempo": 189.649,
+        "type": "audio_features",
+        "id": "3sQDstyMhCcDJ3mY6onZez",
+        "uri": "spotify:track:3sQDstyMhCcDJ3mY6onZez",
+        "track_href": "https://api.spotify.com/v1/tracks/3sQDstyMhCcDJ3mY6onZez",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3sQDstyMhCcDJ3mY6onZez",
+        "duration_ms": 311653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4ufZSKCI84Pd2ZlWTJcu4i",
+    "name": "Slump",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 92.904,
+    "features": [
+      {
+        "danceability": 0.737,
+        "energy": 0.676,
+        "key": 1,
+        "loudness": -4.769,
+        "mode": 1,
+        "speechiness": 0.399,
+        "acousticness": 0.133,
+        "instrumentalness": 0,
+        "liveness": 0.385,
+        "valence": 0.389,
+        "tempo": 92.904,
+        "type": "audio_features",
+        "id": "4ufZSKCI84Pd2ZlWTJcu4i",
+        "uri": "spotify:track:4ufZSKCI84Pd2ZlWTJcu4i",
+        "track_href": "https://api.spotify.com/v1/tracks/4ufZSKCI84Pd2ZlWTJcu4i",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ufZSKCI84Pd2ZlWTJcu4i",
+        "duration_ms": 308733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5yTQ7Vy6EwKwB64Vho90LI",
+    "name": "West Savannah",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 84.942,
+    "features": [
+      {
+        "danceability": 0.689,
+        "energy": 0.558,
+        "key": 0,
+        "loudness": -6.565,
+        "mode": 1,
+        "speechiness": 0.437,
+        "acousticness": 0.0314,
+        "instrumentalness": 0,
+        "liveness": 0.586,
+        "valence": 0.473,
+        "tempo": 84.942,
+        "type": "audio_features",
+        "id": "5yTQ7Vy6EwKwB64Vho90LI",
+        "uri": "spotify:track:5yTQ7Vy6EwKwB64Vho90LI",
+        "track_href": "https://api.spotify.com/v1/tracks/5yTQ7Vy6EwKwB64Vho90LI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5yTQ7Vy6EwKwB64Vho90LI",
+        "duration_ms": 246280,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1KQymTxNJfWk6vCD5ywKW2",
+    "name": "Da Art of Storytellin' (Pt. 1)",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 103.773,
+    "features": [
+      {
+        "danceability": 0.749,
+        "energy": 0.856,
+        "key": 2,
+        "loudness": -5.833,
+        "mode": 1,
+        "speechiness": 0.235,
+        "acousticness": 0.107,
+        "instrumentalness": 0,
+        "liveness": 0.745,
+        "valence": 0.402,
+        "tempo": 103.773,
+        "type": "audio_features",
+        "id": "1KQymTxNJfWk6vCD5ywKW2",
+        "uri": "spotify:track:1KQymTxNJfWk6vCD5ywKW2",
+        "track_href": "https://api.spotify.com/v1/tracks/1KQymTxNJfWk6vCD5ywKW2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1KQymTxNJfWk6vCD5ywKW2",
+        "duration_ms": 222653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2vjgepbkQg5jH8ujrKEOin",
+    "name": "Da Art of Storytellin' (Pt. 2)",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 92.843,
+    "features": [
+      {
+        "danceability": 0.719,
+        "energy": 0.925,
+        "key": 10,
+        "loudness": -5.235,
+        "mode": 0,
+        "speechiness": 0.159,
+        "acousticness": 0.000597,
+        "instrumentalness": 0.00575,
+        "liveness": 0.0624,
+        "valence": 0.262,
+        "tempo": 92.843,
+        "type": "audio_features",
+        "id": "2vjgepbkQg5jH8ujrKEOin",
+        "uri": "spotify:track:2vjgepbkQg5jH8ujrKEOin",
+        "track_href": "https://api.spotify.com/v1/tracks/2vjgepbkQg5jH8ujrKEOin",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2vjgepbkQg5jH8ujrKEOin",
+        "duration_ms": 172027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "32PWtlzKyvr3HcvJp1JFF5",
+    "name": "Mamacita",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 167.863,
+    "features": [
+      {
+        "danceability": 0.495,
+        "energy": 0.716,
+        "key": 1,
+        "loudness": -6.479,
+        "mode": 1,
+        "speechiness": 0.364,
+        "acousticness": 0.0478,
+        "instrumentalness": 0,
+        "liveness": 0.353,
+        "valence": 0.469,
+        "tempo": 167.863,
+        "type": "audio_features",
+        "id": "32PWtlzKyvr3HcvJp1JFF5",
+        "uri": "spotify:track:32PWtlzKyvr3HcvJp1JFF5",
+        "track_href": "https://api.spotify.com/v1/tracks/32PWtlzKyvr3HcvJp1JFF5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/32PWtlzKyvr3HcvJp1JFF5",
+        "duration_ms": 352507,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4GdB5M7GbwLZLouktYocFC",
+    "name": "SpottieOttieDopaliscious",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 124.751,
+    "features": [
+      {
+        "danceability": 0.828,
+        "energy": 0.656,
+        "key": 1,
+        "loudness": -6.571,
+        "mode": 1,
+        "speechiness": 0.222,
+        "acousticness": 0.00259,
+        "instrumentalness": 0.0024,
+        "liveness": 0.144,
+        "valence": 0.709,
+        "tempo": 124.751,
+        "type": "audio_features",
+        "id": "4GdB5M7GbwLZLouktYocFC",
+        "uri": "spotify:track:4GdB5M7GbwLZLouktYocFC",
+        "track_href": "https://api.spotify.com/v1/tracks/4GdB5M7GbwLZLouktYocFC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4GdB5M7GbwLZLouktYocFC",
+        "duration_ms": 426853,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5LAgMMJQ42fF8yKLKF3Wiw",
+    "name": "Y'All Scared (feat. T-Mo, Big Gipp & Khujo)",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 87.275,
+    "features": [
+      {
+        "danceability": 0.631,
+        "energy": 0.67,
+        "key": 2,
+        "loudness": -6.37,
+        "mode": 1,
+        "speechiness": 0.285,
+        "acousticness": 0.0588,
+        "instrumentalness": 0,
+        "liveness": 0.332,
+        "valence": 0.134,
+        "tempo": 87.275,
+        "type": "audio_features",
+        "id": "5LAgMMJQ42fF8yKLKF3Wiw",
+        "uri": "spotify:track:5LAgMMJQ42fF8yKLKF3Wiw",
+        "track_href": "https://api.spotify.com/v1/tracks/5LAgMMJQ42fF8yKLKF3Wiw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5LAgMMJQ42fF8yKLKF3Wiw",
+        "duration_ms": 290173,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6NqUceA124QO9v5jYv0QCg",
+    "name": "Nathaniel",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 101.221,
+    "features": [
+      {
+        "danceability": 0.65,
+        "energy": 0.467,
+        "key": 5,
+        "loudness": -15.31,
+        "mode": 1,
+        "speechiness": 0.631,
+        "acousticness": 0.996,
+        "instrumentalness": 0.703,
+        "liveness": 0.518,
+        "valence": 0.575,
+        "tempo": 101.221,
+        "type": "audio_features",
+        "id": "6NqUceA124QO9v5jYv0QCg",
+        "uri": "spotify:track:6NqUceA124QO9v5jYv0QCg",
+        "track_href": "https://api.spotify.com/v1/tracks/6NqUceA124QO9v5jYv0QCg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6NqUceA124QO9v5jYv0QCg",
+        "duration_ms": 70280,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1H6S9OkozTNvcASUX4Bfgb",
+    "name": "Liberation (with Cee-Lo)",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 157.596,
+    "features": [
+      {
+        "danceability": 0.66,
+        "energy": 0.63,
+        "key": 11,
+        "loudness": -9.615,
+        "mode": 1,
+        "speechiness": 0.147,
+        "acousticness": 0.0841,
+        "instrumentalness": 5.85e-05,
+        "liveness": 0.0819,
+        "valence": 0.59,
+        "tempo": 157.596,
+        "type": "audio_features",
+        "id": "1H6S9OkozTNvcASUX4Bfgb",
+        "uri": "spotify:track:1H6S9OkozTNvcASUX4Bfgb",
+        "track_href": "https://api.spotify.com/v1/tracks/1H6S9OkozTNvcASUX4Bfgb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1H6S9OkozTNvcASUX4Bfgb",
+        "duration_ms": 526373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4mrR64jwacrmiZluhBelDB",
+    "name": "Chonkyfire",
+    "artist": "Outkast",
+    "album": "Aquemini",
+    "bpm": 90.966,
+    "features": [
+      {
+        "danceability": 0.595,
+        "energy": 0.675,
+        "key": 8,
+        "loudness": -8.817,
+        "mode": 1,
+        "speechiness": 0.465,
+        "acousticness": 0.0617,
+        "instrumentalness": 0,
+        "liveness": 0.1,
+        "valence": 0.358,
+        "tempo": 90.966,
+        "type": "audio_features",
+        "id": "4mrR64jwacrmiZluhBelDB",
+        "uri": "spotify:track:4mrR64jwacrmiZluhBelDB",
+        "track_href": "https://api.spotify.com/v1/tracks/4mrR64jwacrmiZluhBelDB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4mrR64jwacrmiZluhBelDB",
+        "duration_ms": 371253,
+        "time_signature": 4
+      }
+    ]
+  }
+]

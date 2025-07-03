@@ -1,0 +1,292 @@
+[
+  {
+    "id": "6ouq07JR52uMIDnHhFbrQ2",
+    "name": "Rays On Pinion",
+    "artist": "Baroness",
+    "album": "The Red Album",
+    "bpm": 144.993,
+    "features": [
+      {
+        "danceability": 0.33,
+        "energy": 0.891,
+        "key": 3,
+        "loudness": -7.142,
+        "mode": 1,
+        "speechiness": 0.104,
+        "acousticness": 0.00031,
+        "instrumentalness": 0.485,
+        "liveness": 0.152,
+        "valence": 0.149,
+        "tempo": 144.993,
+        "type": "audio_features",
+        "id": "6ouq07JR52uMIDnHhFbrQ2",
+        "uri": "spotify:track:6ouq07JR52uMIDnHhFbrQ2",
+        "track_href": "https://api.spotify.com/v1/tracks/6ouq07JR52uMIDnHhFbrQ2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ouq07JR52uMIDnHhFbrQ2",
+        "duration_ms": 455853,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "13ewjoOlq7DhymHVATGxUo",
+    "name": "The Birthing",
+    "artist": "Baroness",
+    "album": "The Red Album",
+    "bpm": 161.934,
+    "features": [
+      {
+        "danceability": 0.193,
+        "energy": 0.919,
+        "key": 6,
+        "loudness": -5.952,
+        "mode": 1,
+        "speechiness": 0.0786,
+        "acousticness": 6.57e-06,
+        "instrumentalness": 0.331,
+        "liveness": 0.0637,
+        "valence": 0.439,
+        "tempo": 161.934,
+        "type": "audio_features",
+        "id": "13ewjoOlq7DhymHVATGxUo",
+        "uri": "spotify:track:13ewjoOlq7DhymHVATGxUo",
+        "track_href": "https://api.spotify.com/v1/tracks/13ewjoOlq7DhymHVATGxUo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/13ewjoOlq7DhymHVATGxUo",
+        "duration_ms": 303267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4qnmquuGKdUiDLh5paURPb",
+    "name": "Isak",
+    "artist": "Baroness",
+    "album": "The Red Album",
+    "bpm": 101.894,
+    "features": [
+      {
+        "danceability": 0.521,
+        "energy": 0.851,
+        "key": 10,
+        "loudness": -7.4,
+        "mode": 0,
+        "speechiness": 0.223,
+        "acousticness": 7.52e-05,
+        "instrumentalness": 0.643,
+        "liveness": 0.097,
+        "valence": 0.404,
+        "tempo": 101.894,
+        "type": "audio_features",
+        "id": "4qnmquuGKdUiDLh5paURPb",
+        "uri": "spotify:track:4qnmquuGKdUiDLh5paURPb",
+        "track_href": "https://api.spotify.com/v1/tracks/4qnmquuGKdUiDLh5paURPb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4qnmquuGKdUiDLh5paURPb",
+        "duration_ms": 262467,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "69zzYC1Ybwu1vtXgWd6Vx2",
+    "name": "Wailing Wintry Wind",
+    "artist": "Baroness",
+    "album": "The Red Album",
+    "bpm": 160.512,
+    "features": [
+      {
+        "danceability": 0.238,
+        "energy": 0.764,
+        "key": 10,
+        "loudness": -7.852,
+        "mode": 0,
+        "speechiness": 0.0469,
+        "acousticness": 0.000146,
+        "instrumentalness": 0.711,
+        "liveness": 0.481,
+        "valence": 0.277,
+        "tempo": 160.512,
+        "type": "audio_features",
+        "id": "69zzYC1Ybwu1vtXgWd6Vx2",
+        "uri": "spotify:track:69zzYC1Ybwu1vtXgWd6Vx2",
+        "track_href": "https://api.spotify.com/v1/tracks/69zzYC1Ybwu1vtXgWd6Vx2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/69zzYC1Ybwu1vtXgWd6Vx2",
+        "duration_ms": 354813,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7i8qsWg6FJOyiE90o4AMNh",
+    "name": "Cockroach En Fleur",
+    "artist": "Baroness",
+    "album": "The Red Album",
+    "bpm": 123.139,
+    "features": [
+      {
+        "danceability": 0.232,
+        "energy": 0.376,
+        "key": 6,
+        "loudness": -13.266,
+        "mode": 0,
+        "speechiness": 0.0469,
+        "acousticness": 0.851,
+        "instrumentalness": 0.79,
+        "liveness": 0.125,
+        "valence": 0.3,
+        "tempo": 123.139,
+        "type": "audio_features",
+        "id": "7i8qsWg6FJOyiE90o4AMNh",
+        "uri": "spotify:track:7i8qsWg6FJOyiE90o4AMNh",
+        "track_href": "https://api.spotify.com/v1/tracks/7i8qsWg6FJOyiE90o4AMNh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7i8qsWg6FJOyiE90o4AMNh",
+        "duration_ms": 110200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4hWiGcVpTP41LvxGXOTrty",
+    "name": "Wanderlust",
+    "artist": "Baroness",
+    "album": "The Red Album",
+    "bpm": 163.002,
+    "features": [
+      {
+        "danceability": 0.232,
+        "energy": 0.893,
+        "key": 0,
+        "loudness": -5.954,
+        "mode": 0,
+        "speechiness": 0.0533,
+        "acousticness": 5.99e-05,
+        "instrumentalness": 0.512,
+        "liveness": 0.291,
+        "valence": 0.553,
+        "tempo": 163.002,
+        "type": "audio_features",
+        "id": "4hWiGcVpTP41LvxGXOTrty",
+        "uri": "spotify:track:4hWiGcVpTP41LvxGXOTrty",
+        "track_href": "https://api.spotify.com/v1/tracks/4hWiGcVpTP41LvxGXOTrty",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4hWiGcVpTP41LvxGXOTrty",
+        "duration_ms": 269707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4vmpS6ccPFxr0cYN4DYNFt",
+    "name": "Aleph",
+    "artist": "Baroness",
+    "album": "The Red Album",
+    "bpm": 138.947,
+    "features": [
+      {
+        "danceability": 0.338,
+        "energy": 0.698,
+        "key": 8,
+        "loudness": -7.77,
+        "mode": 1,
+        "speechiness": 0.0372,
+        "acousticness": 0.000214,
+        "instrumentalness": 0.539,
+        "liveness": 0.234,
+        "valence": 0.22,
+        "tempo": 138.947,
+        "type": "audio_features",
+        "id": "4vmpS6ccPFxr0cYN4DYNFt",
+        "uri": "spotify:track:4vmpS6ccPFxr0cYN4DYNFt",
+        "track_href": "https://api.spotify.com/v1/tracks/4vmpS6ccPFxr0cYN4DYNFt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4vmpS6ccPFxr0cYN4DYNFt",
+        "duration_ms": 261667,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2rzlqfFfa6kF1PtXxT2shc",
+    "name": "Teeth Of A Cogwheel",
+    "artist": "Baroness",
+    "album": "The Red Album",
+    "bpm": 89.989,
+    "features": [
+      {
+        "danceability": 0.626,
+        "energy": 0.858,
+        "key": 1,
+        "loudness": -7.811,
+        "mode": 1,
+        "speechiness": 0.123,
+        "acousticness": 1.51e-05,
+        "instrumentalness": 0.858,
+        "liveness": 0.202,
+        "valence": 0.335,
+        "tempo": 89.989,
+        "type": "audio_features",
+        "id": "2rzlqfFfa6kF1PtXxT2shc",
+        "uri": "spotify:track:2rzlqfFfa6kF1PtXxT2shc",
+        "track_href": "https://api.spotify.com/v1/tracks/2rzlqfFfa6kF1PtXxT2shc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2rzlqfFfa6kF1PtXxT2shc",
+        "duration_ms": 136667,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5iZ8IZ6K3Oju3avkm6WW5T",
+    "name": "O'Appalachia",
+    "artist": "Baroness",
+    "album": "The Red Album",
+    "bpm": 154.593,
+    "features": [
+      {
+        "danceability": 0.254,
+        "energy": 0.926,
+        "key": 3,
+        "loudness": -6.19,
+        "mode": 1,
+        "speechiness": 0.0529,
+        "acousticness": 7.05e-06,
+        "instrumentalness": 0.119,
+        "liveness": 0.0947,
+        "valence": 0.679,
+        "tempo": 154.593,
+        "type": "audio_features",
+        "id": "5iZ8IZ6K3Oju3avkm6WW5T",
+        "uri": "spotify:track:5iZ8IZ6K3Oju3avkm6WW5T",
+        "track_href": "https://api.spotify.com/v1/tracks/5iZ8IZ6K3Oju3avkm6WW5T",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5iZ8IZ6K3Oju3avkm6WW5T",
+        "duration_ms": 156720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3W6NH5z8vsDSo4ZaJW7a2Q",
+    "name": "Grad",
+    "artist": "Baroness",
+    "album": "The Red Album",
+    "bpm": 117.422,
+    "features": [
+      {
+        "danceability": 0.281,
+        "energy": 0.449,
+        "key": 3,
+        "loudness": -9.173,
+        "mode": 1,
+        "speechiness": 0.0472,
+        "acousticness": 0.00129,
+        "instrumentalness": 0.751,
+        "liveness": 0.121,
+        "valence": 0.105,
+        "tempo": 117.422,
+        "type": "audio_features",
+        "id": "3W6NH5z8vsDSo4ZaJW7a2Q",
+        "uri": "spotify:track:3W6NH5z8vsDSo4ZaJW7a2Q",
+        "track_href": "https://api.spotify.com/v1/tracks/3W6NH5z8vsDSo4ZaJW7a2Q",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3W6NH5z8vsDSo4ZaJW7a2Q",
+        "duration_ms": 354800,
+        "time_signature": 4
+      }
+    ]
+  }
+]

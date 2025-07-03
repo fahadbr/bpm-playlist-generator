@@ -1,0 +1,408 @@
+[
+  {
+    "id": "1q1ds5yuwDOZIdoRLy1yHd",
+    "name": "Dopamine Lit (Intro)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 114.965,
+    "features": [
+      {
+        "danceability": 0.913,
+        "energy": 0.646,
+        "key": 0,
+        "loudness": -6.848,
+        "mode": 1,
+        "speechiness": 0.0985,
+        "acousticness": 0.0107,
+        "instrumentalness": 0,
+        "liveness": 0.33,
+        "valence": 0.611,
+        "tempo": 114.965,
+        "type": "audio_features",
+        "id": "1q1ds5yuwDOZIdoRLy1yHd",
+        "uri": "spotify:track:1q1ds5yuwDOZIdoRLy1yHd",
+        "track_href": "https://api.spotify.com/v1/tracks/1q1ds5yuwDOZIdoRLy1yHd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1q1ds5yuwDOZIdoRLy1yHd",
+        "duration_ms": 169186,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3jba00RrUxZASfXl1fVuG0",
+    "name": "NGL (feat. Ty Dolla $Ign)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 126.897,
+    "features": [
+      {
+        "danceability": 0.649,
+        "energy": 0.665,
+        "key": 9,
+        "loudness": -4.859,
+        "mode": 1,
+        "speechiness": 0.043,
+        "acousticness": 0.00342,
+        "instrumentalness": 0,
+        "liveness": 0.127,
+        "valence": 0.232,
+        "tempo": 126.897,
+        "type": "audio_features",
+        "id": "3jba00RrUxZASfXl1fVuG0",
+        "uri": "spotify:track:3jba00RrUxZASfXl1fVuG0",
+        "track_href": "https://api.spotify.com/v1/tracks/3jba00RrUxZASfXl1fVuG0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3jba00RrUxZASfXl1fVuG0",
+        "duration_ms": 243050,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4MzkYx6KAEKNb0V1eftx8H",
+    "name": "Promise",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 120.002,
+    "features": [
+      {
+        "danceability": 0.903,
+        "energy": 0.476,
+        "key": 9,
+        "loudness": -7.744,
+        "mode": 0,
+        "speechiness": 0.109,
+        "acousticness": 0.0495,
+        "instrumentalness": 0,
+        "liveness": 0.108,
+        "valence": 0.687,
+        "tempo": 120.002,
+        "type": "audio_features",
+        "id": "4MzkYx6KAEKNb0V1eftx8H",
+        "uri": "spotify:track:4MzkYx6KAEKNb0V1eftx8H",
+        "track_href": "https://api.spotify.com/v1/tracks/4MzkYx6KAEKNb0V1eftx8H",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4MzkYx6KAEKNb0V1eftx8H",
+        "duration_ms": 272221,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "41Erh93gsSvqdE9H1DciEr",
+    "name": "Made in the USA (feat. Bianca Sings)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 144.034,
+    "features": [
+      {
+        "danceability": 0.645,
+        "energy": 0.723,
+        "key": 11,
+        "loudness": -4.969,
+        "mode": 0,
+        "speechiness": 0.0967,
+        "acousticness": 0.00016,
+        "instrumentalness": 2.01e-06,
+        "liveness": 0.923,
+        "valence": 0.246,
+        "tempo": 144.034,
+        "type": "audio_features",
+        "id": "41Erh93gsSvqdE9H1DciEr",
+        "uri": "spotify:track:41Erh93gsSvqdE9H1DciEr",
+        "track_href": "https://api.spotify.com/v1/tracks/41Erh93gsSvqdE9H1DciEr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/41Erh93gsSvqdE9H1DciEr",
+        "duration_ms": 210714,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "51gbF0SxTmxgAguiWWUXPu",
+    "name": "Jump (feat. Gizzle)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 75.549,
+    "features": [
+      {
+        "danceability": 0.79,
+        "energy": 0.762,
+        "key": 6,
+        "loudness": -5.704,
+        "mode": 0,
+        "speechiness": 0.243,
+        "acousticness": 0.0418,
+        "instrumentalness": 0,
+        "liveness": 0.087,
+        "valence": 0.96,
+        "tempo": 75.549,
+        "type": "audio_features",
+        "id": "51gbF0SxTmxgAguiWWUXPu",
+        "uri": "spotify:track:51gbF0SxTmxgAguiWWUXPu",
+        "track_href": "https://api.spotify.com/v1/tracks/51gbF0SxTmxgAguiWWUXPu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/51gbF0SxTmxgAguiWWUXPu",
+        "duration_ms": 274910,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1isldSSGzLALmJiqzLWYZj",
+    "name": "City of the Year (feat. Rondo)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 121.992,
+    "features": [
+      {
+        "danceability": 0.763,
+        "energy": 0.842,
+        "key": 1,
+        "loudness": -4.201,
+        "mode": 1,
+        "speechiness": 0.048,
+        "acousticness": 0.0102,
+        "instrumentalness": 0,
+        "liveness": 0.111,
+        "valence": 0.408,
+        "tempo": 121.992,
+        "type": "audio_features",
+        "id": "1isldSSGzLALmJiqzLWYZj",
+        "uri": "spotify:track:1isldSSGzLALmJiqzLWYZj",
+        "track_href": "https://api.spotify.com/v1/tracks/1isldSSGzLALmJiqzLWYZj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1isldSSGzLALmJiqzLWYZj",
+        "duration_ms": 232355,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1MLWvJWnr9tgeWpIrNnvkw",
+    "name": "High (Interlude) [feat. Simon Sayz]",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 150.082,
+    "features": [
+      {
+        "danceability": 0.723,
+        "energy": 0.673,
+        "key": 5,
+        "loudness": -5.379,
+        "mode": 0,
+        "speechiness": 0.126,
+        "acousticness": 0.0013,
+        "instrumentalness": 3.33e-05,
+        "liveness": 0.103,
+        "valence": 0.421,
+        "tempo": 150.082,
+        "type": "audio_features",
+        "id": "1MLWvJWnr9tgeWpIrNnvkw",
+        "uri": "spotify:track:1MLWvJWnr9tgeWpIrNnvkw",
+        "track_href": "https://api.spotify.com/v1/tracks/1MLWvJWnr9tgeWpIrNnvkw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1MLWvJWnr9tgeWpIrNnvkw",
+        "duration_ms": 238731,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2bvP7LFDn1jXQtA1uTfNOm",
+    "name": "Tranquillo (feat. Rick Ross and Big K.R.I.T.)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 129.998,
+    "features": [
+      {
+        "danceability": 0.793,
+        "energy": 0.865,
+        "key": 11,
+        "loudness": -5.15,
+        "mode": 0,
+        "speechiness": 0.212,
+        "acousticness": 0.091,
+        "instrumentalness": 0,
+        "liveness": 0.272,
+        "valence": 0.555,
+        "tempo": 129.998,
+        "type": "audio_features",
+        "id": "2bvP7LFDn1jXQtA1uTfNOm",
+        "uri": "spotify:track:2bvP7LFDn1jXQtA1uTfNOm",
+        "track_href": "https://api.spotify.com/v1/tracks/2bvP7LFDn1jXQtA1uTfNOm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2bvP7LFDn1jXQtA1uTfNOm",
+        "duration_ms": 310259,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5LUkItW2c9cK2HotM1pEAC",
+    "name": "Kill (feat. Ty Dolla $ign and Victoria Monet)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 74.964,
+    "features": [
+      {
+        "danceability": 0.638,
+        "energy": 0.653,
+        "key": 4,
+        "loudness": -6.936,
+        "mode": 0,
+        "speechiness": 0.112,
+        "acousticness": 0.0844,
+        "instrumentalness": 0,
+        "liveness": 0.0758,
+        "valence": 0.342,
+        "tempo": 74.964,
+        "type": "audio_features",
+        "id": "5LUkItW2c9cK2HotM1pEAC",
+        "uri": "spotify:track:5LUkItW2c9cK2HotM1pEAC",
+        "track_href": "https://api.spotify.com/v1/tracks/5LUkItW2c9cK2HotM1pEAC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5LUkItW2c9cK2HotM1pEAC",
+        "duration_ms": 430328,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6mUsxnaDalurpbekaaYerh",
+    "name": "Law (feat. Simon Sayz)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 135.612,
+    "features": [
+      {
+        "danceability": 0.53,
+        "energy": 0.809,
+        "key": 9,
+        "loudness": -5.223,
+        "mode": 0,
+        "speechiness": 0.141,
+        "acousticness": 0.0115,
+        "instrumentalness": 0,
+        "liveness": 0.212,
+        "valence": 0.218,
+        "tempo": 135.612,
+        "type": "audio_features",
+        "id": "6mUsxnaDalurpbekaaYerh",
+        "uri": "spotify:track:6mUsxnaDalurpbekaaYerh",
+        "track_href": "https://api.spotify.com/v1/tracks/6mUsxnaDalurpbekaaYerh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6mUsxnaDalurpbekaaYerh",
+        "duration_ms": 326423,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6om8S0igH5jbMpPY8ja8Jj",
+    "name": "Pick up the Phone",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 91.016,
+    "features": [
+      {
+        "danceability": 0.701,
+        "energy": 0.621,
+        "key": 8,
+        "loudness": -6.977,
+        "mode": 1,
+        "speechiness": 0.15,
+        "acousticness": 0.135,
+        "instrumentalness": 0,
+        "liveness": 0.0817,
+        "valence": 0.575,
+        "tempo": 91.016,
+        "type": "audio_features",
+        "id": "6om8S0igH5jbMpPY8ja8Jj",
+        "uri": "spotify:track:6om8S0igH5jbMpPY8ja8Jj",
+        "track_href": "https://api.spotify.com/v1/tracks/6om8S0igH5jbMpPY8ja8Jj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6om8S0igH5jbMpPY8ja8Jj",
+        "duration_ms": 279646,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4WPHou32vGQZdWOYlGeaGC",
+    "name": "It's Not Design (feat. Salim)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 121.996,
+    "features": [
+      {
+        "danceability": 0.78,
+        "energy": 0.852,
+        "key": 4,
+        "loudness": -4.354,
+        "mode": 1,
+        "speechiness": 0.142,
+        "acousticness": 0.00551,
+        "instrumentalness": 0,
+        "liveness": 0.33,
+        "valence": 0.857,
+        "tempo": 121.996,
+        "type": "audio_features",
+        "id": "4WPHou32vGQZdWOYlGeaGC",
+        "uri": "spotify:track:4WPHou32vGQZdWOYlGeaGC",
+        "track_href": "https://api.spotify.com/v1/tracks/4WPHou32vGQZdWOYlGeaGC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4WPHou32vGQZdWOYlGeaGC",
+        "duration_ms": 230429,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7ID6XJvhkORUD8usrZeY3M",
+    "name": "Wild Child (feat. Jake Torrey)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 121.036,
+    "features": [
+      {
+        "danceability": 0.827,
+        "energy": 0.749,
+        "key": 9,
+        "loudness": -4.464,
+        "mode": 1,
+        "speechiness": 0.0487,
+        "acousticness": 0.0693,
+        "instrumentalness": 0,
+        "liveness": 0.105,
+        "valence": 0.777,
+        "tempo": 121.036,
+        "type": "audio_features",
+        "id": "7ID6XJvhkORUD8usrZeY3M",
+        "uri": "spotify:track:7ID6XJvhkORUD8usrZeY3M",
+        "track_href": "https://api.spotify.com/v1/tracks/7ID6XJvhkORUD8usrZeY3M",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ID6XJvhkORUD8usrZeY3M",
+        "duration_ms": 208379,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6B1rVuqtChrUee14fKVK3A",
+    "name": "More Than My Heart (feat. Rxmn and Salim)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS Light",
+    "bpm": 121.985,
+    "features": [
+      {
+        "danceability": 0.824,
+        "energy": 0.765,
+        "key": 11,
+        "loudness": -5.591,
+        "mode": 0,
+        "speechiness": 0.0316,
+        "acousticness": 0.00862,
+        "instrumentalness": 2.04e-05,
+        "liveness": 0.12,
+        "valence": 0.706,
+        "tempo": 121.985,
+        "type": "audio_features",
+        "id": "6B1rVuqtChrUee14fKVK3A",
+        "uri": "spotify:track:6B1rVuqtChrUee14fKVK3A",
+        "track_href": "https://api.spotify.com/v1/tracks/6B1rVuqtChrUee14fKVK3A",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6B1rVuqtChrUee14fKVK3A",
+        "duration_ms": 235970,
+        "time_signature": 4
+      }
+    ]
+  }
+]

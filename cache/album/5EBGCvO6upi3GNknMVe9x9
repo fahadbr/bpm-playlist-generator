@@ -1,0 +1,205 @@
+[
+  {
+    "id": "0yhxBvedRdGxsPZHJNI4VA",
+    "name": "I Thought About Killing You",
+    "artist": "Kanye West",
+    "album": "ye",
+    "bpm": 116.016,
+    "features": [
+      {
+        "danceability": 0.752,
+        "energy": 0.396,
+        "key": 2,
+        "loudness": -7.932,
+        "mode": 1,
+        "speechiness": 0.411,
+        "acousticness": 0.867,
+        "instrumentalness": 0,
+        "liveness": 0.0486,
+        "valence": 0.417,
+        "tempo": 116.016,
+        "type": "audio_features",
+        "id": "0yhxBvedRdGxsPZHJNI4VA",
+        "uri": "spotify:track:0yhxBvedRdGxsPZHJNI4VA",
+        "track_href": "https://api.spotify.com/v1/tracks/0yhxBvedRdGxsPZHJNI4VA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0yhxBvedRdGxsPZHJNI4VA",
+        "duration_ms": 274187,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1qsHYUd2c1wFGcn7e63QmG",
+    "name": "Yikes",
+    "artist": "Kanye West",
+    "album": "ye",
+    "bpm": 173.996,
+    "features": [
+      {
+        "danceability": 0.683,
+        "energy": 0.776,
+        "key": 1,
+        "loudness": -3.251,
+        "mode": 0,
+        "speechiness": 0.341,
+        "acousticness": 0.15,
+        "instrumentalness": 0,
+        "liveness": 0.227,
+        "valence": 0.223,
+        "tempo": 173.996,
+        "type": "audio_features",
+        "id": "1qsHYUd2c1wFGcn7e63QmG",
+        "uri": "spotify:track:1qsHYUd2c1wFGcn7e63QmG",
+        "track_href": "https://api.spotify.com/v1/tracks/1qsHYUd2c1wFGcn7e63QmG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1qsHYUd2c1wFGcn7e63QmG",
+        "duration_ms": 188773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3U21A07gAloCc4P7J8rxcn",
+    "name": "All Mine",
+    "artist": "Kanye West",
+    "album": "ye",
+    "bpm": 121.927,
+    "features": [
+      {
+        "danceability": 0.925,
+        "energy": 0.31,
+        "key": 11,
+        "loudness": -6.531,
+        "mode": 0,
+        "speechiness": 0.291,
+        "acousticness": 0.123,
+        "instrumentalness": 0,
+        "liveness": 0.0931,
+        "valence": 0.291,
+        "tempo": 121.927,
+        "type": "audio_features",
+        "id": "3U21A07gAloCc4P7J8rxcn",
+        "uri": "spotify:track:3U21A07gAloCc4P7J8rxcn",
+        "track_href": "https://api.spotify.com/v1/tracks/3U21A07gAloCc4P7J8rxcn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3U21A07gAloCc4P7J8rxcn",
+        "duration_ms": 145507,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1nGoy0cEj0extAwXYNYTWd",
+    "name": "Wouldn't Leave",
+    "artist": "Kanye West",
+    "album": "ye",
+    "bpm": 164.235,
+    "features": [
+      {
+        "danceability": 0.556,
+        "energy": 0.432,
+        "key": 3,
+        "loudness": -8.551,
+        "mode": 1,
+        "speechiness": 0.545,
+        "acousticness": 0.495,
+        "instrumentalness": 0,
+        "liveness": 0.308,
+        "valence": 0.352,
+        "tempo": 164.235,
+        "type": "audio_features",
+        "id": "1nGoy0cEj0extAwXYNYTWd",
+        "uri": "spotify:track:1nGoy0cEj0extAwXYNYTWd",
+        "track_href": "https://api.spotify.com/v1/tracks/1nGoy0cEj0extAwXYNYTWd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1nGoy0cEj0extAwXYNYTWd",
+        "duration_ms": 205547,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "35KV2Nuib6jPMVN00O8iba",
+    "name": "No Mistakes",
+    "artist": "Kanye West",
+    "album": "ye",
+    "bpm": 80.174,
+    "features": [
+      {
+        "danceability": 0.643,
+        "energy": 0.646,
+        "key": 10,
+        "loudness": -2.442,
+        "mode": 0,
+        "speechiness": 0.0629,
+        "acousticness": 0.0393,
+        "instrumentalness": 0,
+        "liveness": 0.109,
+        "valence": 0.35,
+        "tempo": 80.174,
+        "type": "audio_features",
+        "id": "35KV2Nuib6jPMVN00O8iba",
+        "uri": "spotify:track:35KV2Nuib6jPMVN00O8iba",
+        "track_href": "https://api.spotify.com/v1/tracks/35KV2Nuib6jPMVN00O8iba",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/35KV2Nuib6jPMVN00O8iba",
+        "duration_ms": 123040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7vgTNTaEz3CsBZ1N4YQalM",
+    "name": "Ghost Town",
+    "artist": "Kanye West",
+    "album": "ye",
+    "bpm": 83.378,
+    "features": [
+      {
+        "danceability": 0.573,
+        "energy": 0.545,
+        "key": 7,
+        "loudness": -4.247,
+        "mode": 0,
+        "speechiness": 0.0288,
+        "acousticness": 0.0969,
+        "instrumentalness": 0,
+        "liveness": 0.329,
+        "valence": 0.297,
+        "tempo": 83.378,
+        "type": "audio_features",
+        "id": "7vgTNTaEz3CsBZ1N4YQalM",
+        "uri": "spotify:track:7vgTNTaEz3CsBZ1N4YQalM",
+        "track_href": "https://api.spotify.com/v1/tracks/7vgTNTaEz3CsBZ1N4YQalM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7vgTNTaEz3CsBZ1N4YQalM",
+        "duration_ms": 271387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3s7MCdXyWmwjdcWh7GWXas",
+    "name": "Violent Crimes",
+    "artist": "Kanye West",
+    "album": "ye",
+    "bpm": 109.813,
+    "features": [
+      {
+        "danceability": 0.669,
+        "energy": 0.419,
+        "key": 1,
+        "loudness": -6.724,
+        "mode": 0,
+        "speechiness": 0.522,
+        "acousticness": 0.376,
+        "instrumentalness": 0,
+        "liveness": 0.187,
+        "valence": 0.0397,
+        "tempo": 109.813,
+        "type": "audio_features",
+        "id": "3s7MCdXyWmwjdcWh7GWXas",
+        "uri": "spotify:track:3s7MCdXyWmwjdcWh7GWXas",
+        "track_href": "https://api.spotify.com/v1/tracks/3s7MCdXyWmwjdcWh7GWXas",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3s7MCdXyWmwjdcWh7GWXas",
+        "duration_ms": 215320,
+        "time_signature": 4
+      }
+    ]
+  }
+]

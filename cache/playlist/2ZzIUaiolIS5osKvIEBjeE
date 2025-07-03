@@ -1,0 +1,1275 @@
+[
+  {
+    "id": "59NraMJsLaMCVtwXTSia8i",
+    "name": "Prada",
+    "artist": "cass\u00f6",
+    "album": "Prada",
+    "playlist": "Running 3",
+    "bpm": 141.904,
+    "features": [
+      {
+        "danceability": 0.638,
+        "energy": 0.717,
+        "key": 8,
+        "loudness": -5.804,
+        "mode": 1,
+        "speechiness": 0.0375,
+        "acousticness": 0.001,
+        "instrumentalness": 1.79e-06,
+        "liveness": 0.113,
+        "valence": 0.422,
+        "tempo": 141.904,
+        "type": "audio_features",
+        "id": "59NraMJsLaMCVtwXTSia8i",
+        "uri": "spotify:track:59NraMJsLaMCVtwXTSia8i",
+        "track_href": "https://api.spotify.com/v1/tracks/59NraMJsLaMCVtwXTSia8i",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/59NraMJsLaMCVtwXTSia8i",
+        "duration_ms": 132359,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7me5d5XmtCCfbDk3SsyXqM",
+    "name": "Every Step",
+    "artist": "D.O.D",
+    "album": "Every Step",
+    "playlist": "Running 3",
+    "bpm": 121.989,
+    "features": [
+      {
+        "danceability": 0.662,
+        "energy": 0.872,
+        "key": 0,
+        "loudness": -4.874,
+        "mode": 0,
+        "speechiness": 0.0318,
+        "acousticness": 0.0729,
+        "instrumentalness": 0.016,
+        "liveness": 0.156,
+        "valence": 0.372,
+        "tempo": 121.989,
+        "type": "audio_features",
+        "id": "7me5d5XmtCCfbDk3SsyXqM",
+        "uri": "spotify:track:7me5d5XmtCCfbDk3SsyXqM",
+        "track_href": "https://api.spotify.com/v1/tracks/7me5d5XmtCCfbDk3SsyXqM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7me5d5XmtCCfbDk3SsyXqM",
+        "duration_ms": 159858,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3IhM5Mber8KA0NaRNpK2px",
+    "name": "Lay Low",
+    "artist": "Ti\u00ebsto",
+    "album": "DRIVE",
+    "playlist": "Running 3",
+    "bpm": 121.895,
+    "features": [
+      {
+        "danceability": 0.554,
+        "energy": 0.884,
+        "key": 1,
+        "loudness": -4.424,
+        "mode": 0,
+        "speechiness": 0.212,
+        "acousticness": 0.065,
+        "instrumentalness": 7.74e-05,
+        "liveness": 0.342,
+        "valence": 0.418,
+        "tempo": 121.895,
+        "type": "audio_features",
+        "id": "3IhM5Mber8KA0NaRNpK2px",
+        "uri": "spotify:track:3IhM5Mber8KA0NaRNpK2px",
+        "track_href": "https://api.spotify.com/v1/tracks/3IhM5Mber8KA0NaRNpK2px",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3IhM5Mber8KA0NaRNpK2px",
+        "duration_ms": 153443,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6HZ9VeI5IRFCNQLXhpF4bq",
+    "name": "I Love It (feat. Charli XCX)",
+    "artist": "Icona Pop",
+    "album": "THIS IS... ICONA POP",
+    "playlist": "Running 3",
+    "bpm": 125.916,
+    "features": [
+      {
+        "danceability": 0.711,
+        "energy": 0.906,
+        "key": 8,
+        "loudness": -2.671,
+        "mode": 1,
+        "speechiness": 0.0284,
+        "acousticness": 0.00952,
+        "instrumentalness": 1.64e-05,
+        "liveness": 0.153,
+        "valence": 0.824,
+        "tempo": 125.916,
+        "type": "audio_features",
+        "id": "6HZ9VeI5IRFCNQLXhpF4bq",
+        "uri": "spotify:track:6HZ9VeI5IRFCNQLXhpF4bq",
+        "track_href": "https://api.spotify.com/v1/tracks/6HZ9VeI5IRFCNQLXhpF4bq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6HZ9VeI5IRFCNQLXhpF4bq",
+        "duration_ms": 157153,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4UvmncfPbjdbX5xN64eS3H",
+    "name": "Electronaut",
+    "artist": "VNV Nation",
+    "album": "Futureperfect",
+    "playlist": "Running 3",
+    "bpm": 134.023,
+    "features": [
+      {
+        "danceability": 0.629,
+        "energy": 0.756,
+        "key": 10,
+        "loudness": -7.799,
+        "mode": 0,
+        "speechiness": 0.0368,
+        "acousticness": 0.00826,
+        "instrumentalness": 0.061,
+        "liveness": 0.27,
+        "valence": 0.0943,
+        "tempo": 134.023,
+        "type": "audio_features",
+        "id": "4UvmncfPbjdbX5xN64eS3H",
+        "uri": "spotify:track:4UvmncfPbjdbX5xN64eS3H",
+        "track_href": "https://api.spotify.com/v1/tracks/4UvmncfPbjdbX5xN64eS3H",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4UvmncfPbjdbX5xN64eS3H",
+        "duration_ms": 395040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0RszjqOiIwaZGnXUDuAq1C",
+    "name": "Baba Says",
+    "artist": "88rising",
+    "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
+    "bpm": 138.026,
+    "features": [
+      {
+        "danceability": 0.626,
+        "energy": 0.656,
+        "key": 1,
+        "loudness": -7.16,
+        "mode": 0,
+        "speechiness": 0.0535,
+        "acousticness": 0.0289,
+        "instrumentalness": 1.03e-05,
+        "liveness": 0.128,
+        "valence": 0.34,
+        "tempo": 138.026,
+        "type": "audio_features",
+        "id": "0RszjqOiIwaZGnXUDuAq1C",
+        "uri": "spotify:track:0RszjqOiIwaZGnXUDuAq1C",
+        "track_href": "https://api.spotify.com/v1/tracks/0RszjqOiIwaZGnXUDuAq1C",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0RszjqOiIwaZGnXUDuAq1C",
+        "duration_ms": 263187,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5x4vgABKiGp4Vg7ZyFRxhn",
+    "name": "Run It (feat. Rick Ross & Rich Brian)",
+    "artist": "88rising",
+    "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
+    "bpm": 104.006,
+    "features": [
+      {
+        "danceability": 0.688,
+        "energy": 0.725,
+        "key": 2,
+        "loudness": -7.806,
+        "mode": 1,
+        "speechiness": 0.044,
+        "acousticness": 0.0195,
+        "instrumentalness": 7.63e-06,
+        "liveness": 0.0726,
+        "valence": 0.225,
+        "tempo": 104.006,
+        "type": "audio_features",
+        "id": "5x4vgABKiGp4Vg7ZyFRxhn",
+        "uri": "spotify:track:5x4vgABKiGp4Vg7ZyFRxhn",
+        "track_href": "https://api.spotify.com/v1/tracks/5x4vgABKiGp4Vg7ZyFRxhn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5x4vgABKiGp4Vg7ZyFRxhn",
+        "duration_ms": 163373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6amCeNhEjgxBlWkwgmdboa",
+    "name": "Living Proof",
+    "artist": "Bad Meets Evil",
+    "album": "Hell: The Sequel (Deluxe)",
+    "bpm": 124.821,
+    "features": [
+      {
+        "danceability": 0.76,
+        "energy": 0.803,
+        "key": 1,
+        "loudness": -6.057,
+        "mode": 1,
+        "speechiness": 0.311,
+        "acousticness": 0.255,
+        "instrumentalness": 0.000162,
+        "liveness": 0.0895,
+        "valence": 0.76,
+        "tempo": 124.821,
+        "type": "audio_features",
+        "id": "6amCeNhEjgxBlWkwgmdboa",
+        "uri": "spotify:track:6amCeNhEjgxBlWkwgmdboa",
+        "track_href": "https://api.spotify.com/v1/tracks/6amCeNhEjgxBlWkwgmdboa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6amCeNhEjgxBlWkwgmdboa",
+        "duration_ms": 235400,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "34jHDKV7cNwRLl2NU1zPJq",
+    "name": "One Shot One Kill",
+    "artist": "Dr. Dre",
+    "album": "Compton",
+    "bpm": 85.076,
+    "features": [
+      {
+        "danceability": 0.656,
+        "energy": 0.932,
+        "key": 6,
+        "loudness": -2.77,
+        "mode": 0,
+        "speechiness": 0.317,
+        "acousticness": 0.00131,
+        "instrumentalness": 0.0025,
+        "liveness": 0.184,
+        "valence": 0.541,
+        "tempo": 85.076,
+        "type": "audio_features",
+        "id": "34jHDKV7cNwRLl2NU1zPJq",
+        "uri": "spotify:track:34jHDKV7cNwRLl2NU1zPJq",
+        "track_href": "https://api.spotify.com/v1/tracks/34jHDKV7cNwRLl2NU1zPJq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/34jHDKV7cNwRLl2NU1zPJq",
+        "duration_ms": 205893,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1Wsbr1d2BouNGk2q92mIj7",
+    "name": "Pt. 2",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 145.076,
+    "features": [
+      {
+        "danceability": 0.674,
+        "energy": 0.752,
+        "key": 11,
+        "loudness": -4.073,
+        "mode": 1,
+        "speechiness": 0.333,
+        "acousticness": 0.552,
+        "instrumentalness": 0,
+        "liveness": 0.787,
+        "valence": 0.236,
+        "tempo": 145.076,
+        "type": "audio_features",
+        "id": "1Wsbr1d2BouNGk2q92mIj7",
+        "uri": "spotify:track:1Wsbr1d2BouNGk2q92mIj7",
+        "track_href": "https://api.spotify.com/v1/tracks/1Wsbr1d2BouNGk2q92mIj7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Wsbr1d2BouNGk2q92mIj7",
+        "duration_ms": 130293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2MuMD298IpYqKF367wegUd",
+    "name": "Homicide (feat. Eminem)",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "playlist": "Running 3",
+    "bpm": 140.055,
+    "features": [
+      {
+        "danceability": 0.694,
+        "energy": 0.759,
+        "key": 10,
+        "loudness": -5.667,
+        "mode": 0,
+        "speechiness": 0.398,
+        "acousticness": 0.137,
+        "instrumentalness": 0,
+        "liveness": 0.167,
+        "valence": 0.77,
+        "tempo": 140.055,
+        "type": "audio_features",
+        "id": "2MuMD298IpYqKF367wegUd",
+        "uri": "spotify:track:2MuMD298IpYqKF367wegUd",
+        "track_href": "https://api.spotify.com/v1/tracks/2MuMD298IpYqKF367wegUd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2MuMD298IpYqKF367wegUd",
+        "duration_ms": 245387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "15DwFznkBJir7AK9PyMyRR",
+    "name": "17",
+    "artist": "MK",
+    "album": "17",
+    "bpm": 122.029,
+    "features": [
+      {
+        "danceability": 0.703,
+        "energy": 0.832,
+        "key": 0,
+        "loudness": -7.202,
+        "mode": 0,
+        "speechiness": 0.0689,
+        "acousticness": 0.00149,
+        "instrumentalness": 0.127,
+        "liveness": 0.0696,
+        "valence": 0.667,
+        "tempo": 122.029,
+        "type": "audio_features",
+        "id": "15DwFznkBJir7AK9PyMyRR",
+        "uri": "spotify:track:15DwFznkBJir7AK9PyMyRR",
+        "track_href": "https://api.spotify.com/v1/tracks/15DwFznkBJir7AK9PyMyRR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/15DwFznkBJir7AK9PyMyRR",
+        "duration_ms": 196489,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4pnFRnCOfaETea25g0YSvG",
+    "name": "Jigga What / Faint",
+    "artist": "JAY-Z",
+    "album": "Collision Course",
+    "playlist": "Running 3",
+    "bpm": 133.63,
+    "features": [
+      {
+        "danceability": 0.579,
+        "energy": 0.96,
+        "key": 1,
+        "loudness": -3.152,
+        "mode": 0,
+        "speechiness": 0.245,
+        "acousticness": 0.102,
+        "instrumentalness": 0,
+        "liveness": 0.0674,
+        "valence": 0.566,
+        "tempo": 133.63,
+        "type": "audio_features",
+        "id": "4pnFRnCOfaETea25g0YSvG",
+        "uri": "spotify:track:4pnFRnCOfaETea25g0YSvG",
+        "track_href": "https://api.spotify.com/v1/tracks/4pnFRnCOfaETea25g0YSvG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4pnFRnCOfaETea25g0YSvG",
+        "duration_ms": 211173,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "22skzmqfdWrjJylampe0kt",
+    "name": "Can't Hold Us (feat. Ray Dalton)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 146.097,
+    "features": [
+      {
+        "danceability": 0.633,
+        "energy": 0.927,
+        "key": 2,
+        "loudness": -4.468,
+        "mode": 1,
+        "speechiness": 0.0839,
+        "acousticness": 0.0267,
+        "instrumentalness": 0,
+        "liveness": 0.0986,
+        "valence": 0.88,
+        "tempo": 146.097,
+        "type": "audio_features",
+        "id": "22skzmqfdWrjJylampe0kt",
+        "uri": "spotify:track:22skzmqfdWrjJylampe0kt",
+        "track_href": "https://api.spotify.com/v1/tracks/22skzmqfdWrjJylampe0kt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/22skzmqfdWrjJylampe0kt",
+        "duration_ms": 258432,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5072hCBK3Z15qRnTEzd8fy",
+    "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+    "artist": "David Guetta",
+    "album": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
+    "playlist": "Running 3",
+    "bpm": 126.021,
+    "features": [
+      {
+        "danceability": 0.448,
+        "energy": 0.911,
+        "key": 10,
+        "loudness": -7.121,
+        "mode": 1,
+        "speechiness": 0.0491,
+        "acousticness": 0.00107,
+        "instrumentalness": 0.555,
+        "liveness": 0.37,
+        "valence": 0.0305,
+        "tempo": 126.021,
+        "type": "audio_features",
+        "id": "5072hCBK3Z15qRnTEzd8fy",
+        "uri": "spotify:track:5072hCBK3Z15qRnTEzd8fy",
+        "track_href": "https://api.spotify.com/v1/tracks/5072hCBK3Z15qRnTEzd8fy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5072hCBK3Z15qRnTEzd8fy",
+        "duration_ms": 211429,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5MMLS3xm12D7N26xlfFApr",
+    "name": "Runaway Baby",
+    "artist": "Bruno Mars",
+    "album": "Doo-Wops & Hooligans",
+    "playlist": "Running 3",
+    "bpm": 163.864,
+    "features": [
+      {
+        "danceability": 0.658,
+        "energy": 0.762,
+        "key": 10,
+        "loudness": -3.028,
+        "mode": 0,
+        "speechiness": 0.0425,
+        "acousticness": 0.263,
+        "instrumentalness": 0,
+        "liveness": 0.127,
+        "valence": 0.823,
+        "tempo": 163.864,
+        "type": "audio_features",
+        "id": "5MMLS3xm12D7N26xlfFApr",
+        "uri": "spotify:track:5MMLS3xm12D7N26xlfFApr",
+        "track_href": "https://api.spotify.com/v1/tracks/5MMLS3xm12D7N26xlfFApr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5MMLS3xm12D7N26xlfFApr",
+        "duration_ms": 148448,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6K7LggCeow2jSoRmdZ7XoX",
+    "name": "Heartless",
+    "artist": "The Weeknd",
+    "album": "After Hours (Deluxe)",
+    "playlist": "Running 3",
+    "bpm": 169.986,
+    "features": [
+      {
+        "danceability": 0.537,
+        "energy": 0.751,
+        "key": 10,
+        "loudness": -5.488,
+        "mode": 0,
+        "speechiness": 0.14,
+        "acousticness": 0.0189,
+        "instrumentalness": 1.3e-06,
+        "liveness": 0.145,
+        "valence": 0.231,
+        "tempo": 169.986,
+        "type": "audio_features",
+        "id": "6K7LggCeow2jSoRmdZ7XoX",
+        "uri": "spotify:track:6K7LggCeow2jSoRmdZ7XoX",
+        "track_href": "https://api.spotify.com/v1/tracks/6K7LggCeow2jSoRmdZ7XoX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6K7LggCeow2jSoRmdZ7XoX",
+        "duration_ms": 198267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3j9t0h7eJBxvH9yVUt3BdM",
+    "name": "B.O.B. (Bombs Over Baghdad) - Zack de la Rocha Remix",
+    "artist": "Outkast",
+    "album": "Stankonia (Deluxe Version)",
+    "bpm": 154.185,
+    "features": [
+      {
+        "danceability": 0.582,
+        "energy": 0.961,
+        "key": 11,
+        "loudness": -5.405,
+        "mode": 1,
+        "speechiness": 0.0927,
+        "acousticness": 0.0104,
+        "instrumentalness": 0,
+        "liveness": 0.331,
+        "valence": 0.637,
+        "tempo": 154.185,
+        "type": "audio_features",
+        "id": "3j9t0h7eJBxvH9yVUt3BdM",
+        "uri": "spotify:track:3j9t0h7eJBxvH9yVUt3BdM",
+        "track_href": "https://api.spotify.com/v1/tracks/3j9t0h7eJBxvH9yVUt3BdM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3j9t0h7eJBxvH9yVUt3BdM",
+        "duration_ms": 276586,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "69ZRVsGoLXjHrQWHMX5iCN",
+    "name": "Sons of Plunder",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 99.93,
+    "features": [
+      {
+        "danceability": 0.545,
+        "energy": 0.987,
+        "key": 11,
+        "loudness": -3.3,
+        "mode": 0,
+        "speechiness": 0.0489,
+        "acousticness": 7.06e-05,
+        "instrumentalness": 0.261,
+        "liveness": 0.191,
+        "valence": 0.395,
+        "tempo": 99.93,
+        "type": "audio_features",
+        "id": "69ZRVsGoLXjHrQWHMX5iCN",
+        "uri": "spotify:track:69ZRVsGoLXjHrQWHMX5iCN",
+        "track_href": "https://api.spotify.com/v1/tracks/69ZRVsGoLXjHrQWHMX5iCN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/69ZRVsGoLXjHrQWHMX5iCN",
+        "duration_ms": 228027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1vcxF91pWs9uNwDROuiCPB",
+    "name": "Savior",
+    "artist": "Rise Against",
+    "album": "Appeal To Reason",
+    "playlist": "Running 3",
+    "bpm": 112.488,
+    "features": [
+      {
+        "danceability": 0.554,
+        "energy": 0.932,
+        "key": 5,
+        "loudness": -3.424,
+        "mode": 0,
+        "speechiness": 0.0485,
+        "acousticness": 0.00154,
+        "instrumentalness": 0.000139,
+        "liveness": 0.425,
+        "valence": 0.478,
+        "tempo": 112.488,
+        "type": "audio_features",
+        "id": "1vcxF91pWs9uNwDROuiCPB",
+        "uri": "spotify:track:1vcxF91pWs9uNwDROuiCPB",
+        "track_href": "https://api.spotify.com/v1/tracks/1vcxF91pWs9uNwDROuiCPB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1vcxF91pWs9uNwDROuiCPB",
+        "duration_ms": 242280,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0vZCG0H9KhtU7K8MEUVAoV",
+    "name": "Tsunami",
+    "artist": "DVBBS",
+    "album": "Tsunami",
+    "playlist": "Running 3",
+    "bpm": 128.026,
+    "features": [
+      {
+        "danceability": 0.699,
+        "energy": 0.839,
+        "key": 4,
+        "loudness": -5.353,
+        "mode": 0,
+        "speechiness": 0.0481,
+        "acousticness": 0.0483,
+        "instrumentalness": 0.655,
+        "liveness": 0.0897,
+        "valence": 0.264,
+        "tempo": 128.026,
+        "type": "audio_features",
+        "id": "0vZCG0H9KhtU7K8MEUVAoV",
+        "uri": "spotify:track:0vZCG0H9KhtU7K8MEUVAoV",
+        "track_href": "https://api.spotify.com/v1/tracks/0vZCG0H9KhtU7K8MEUVAoV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0vZCG0H9KhtU7K8MEUVAoV",
+        "duration_ms": 236706,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3IV4swNduIRunHREK80owz",
+    "name": "Rollin' (Air Raid Vehicle)",
+    "artist": "Limp Bizkit",
+    "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+    "playlist": "Running 3",
+    "bpm": 96.311,
+    "features": [
+      {
+        "danceability": 0.603,
+        "energy": 0.933,
+        "key": 1,
+        "loudness": -3.358,
+        "mode": 1,
+        "speechiness": 0.171,
+        "acousticness": 0.00591,
+        "instrumentalness": 0,
+        "liveness": 0.206,
+        "valence": 0.709,
+        "tempo": 96.311,
+        "type": "audio_features",
+        "id": "3IV4swNduIRunHREK80owz",
+        "uri": "spotify:track:3IV4swNduIRunHREK80owz",
+        "track_href": "https://api.spotify.com/v1/tracks/3IV4swNduIRunHREK80owz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3IV4swNduIRunHREK80owz",
+        "duration_ms": 213760,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2fiabxMbdC8AX3iY6zbYRZ",
+    "name": "Two Faced",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 91.906,
+    "features": [
+      {
+        "danceability": 0.51,
+        "energy": 0.945,
+        "key": 1,
+        "loudness": -5.405,
+        "mode": 1,
+        "speechiness": 0.0807,
+        "acousticness": 0.000658,
+        "instrumentalness": 4.8e-06,
+        "liveness": 0.0413,
+        "valence": 0.323,
+        "tempo": 91.906,
+        "type": "audio_features",
+        "id": "2fiabxMbdC8AX3iY6zbYRZ",
+        "uri": "spotify:track:2fiabxMbdC8AX3iY6zbYRZ",
+        "track_href": "https://api.spotify.com/v1/tracks/2fiabxMbdC8AX3iY6zbYRZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2fiabxMbdC8AX3iY6zbYRZ",
+        "duration_ms": 183584,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2YzmfPLqUx5CJOaw5ThsBV",
+    "name": "Plain Jane REMIX (feat. Nicki Minaj)",
+    "artist": "A$AP Ferg",
+    "album": "Plain Jane REMIX (feat. Nicki Minaj)",
+    "bpm": 170.113,
+    "features": [
+      {
+        "danceability": 0.791,
+        "energy": 0.839,
+        "key": 11,
+        "loudness": -4.284,
+        "mode": 1,
+        "speechiness": 0.266,
+        "acousticness": 0.0588,
+        "instrumentalness": 6.26e-05,
+        "liveness": 0.259,
+        "valence": 0.383,
+        "tempo": 170.113,
+        "type": "audio_features",
+        "id": "2YzmfPLqUx5CJOaw5ThsBV",
+        "uri": "spotify:track:2YzmfPLqUx5CJOaw5ThsBV",
+        "track_href": "https://api.spotify.com/v1/tracks/2YzmfPLqUx5CJOaw5ThsBV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YzmfPLqUx5CJOaw5ThsBV",
+        "duration_ms": 202636,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7xTY3rJMgj0nh6OOPHgsLw",
+    "name": "Freaks And Geeks",
+    "artist": "Childish Gambino",
+    "album": "EP (2011 Re-Release)",
+    "bpm": 81.052,
+    "features": [
+      {
+        "danceability": 0.667,
+        "energy": 0.873,
+        "key": 10,
+        "loudness": -5.605,
+        "mode": 1,
+        "speechiness": 0.314,
+        "acousticness": 0.124,
+        "instrumentalness": 0,
+        "liveness": 0.0725,
+        "valence": 0.799,
+        "tempo": 81.052,
+        "type": "audio_features",
+        "id": "7xTY3rJMgj0nh6OOPHgsLw",
+        "uri": "spotify:track:7xTY3rJMgj0nh6OOPHgsLw",
+        "track_href": "https://api.spotify.com/v1/tracks/7xTY3rJMgj0nh6OOPHgsLw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7xTY3rJMgj0nh6OOPHgsLw",
+        "duration_ms": 217104,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5In8B6Om5OKrhwBMB4tXSi",
+    "name": "Fuel",
+    "artist": "Eminem",
+    "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+    "bpm": 137.981,
+    "features": [
+      {
+        "danceability": 0.885,
+        "energy": 0.662,
+        "key": 1,
+        "loudness": -5.139,
+        "mode": 1,
+        "speechiness": 0.142,
+        "acousticness": 0.121,
+        "instrumentalness": 0,
+        "liveness": 0.109,
+        "valence": 0.117,
+        "tempo": 137.981,
+        "type": "audio_features",
+        "id": "5In8B6Om5OKrhwBMB4tXSi",
+        "uri": "spotify:track:5In8B6Om5OKrhwBMB4tXSi",
+        "track_href": "https://api.spotify.com/v1/tracks/5In8B6Om5OKrhwBMB4tXSi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5In8B6Om5OKrhwBMB4tXSi",
+        "duration_ms": 213646,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7dvd3b2oz7AFgXrPBIIYxR",
+    "name": "Dirt Off Your Shoulder / Lying From You",
+    "artist": "JAY-Z",
+    "album": "Collision Course",
+    "playlist": "Running 3",
+    "bpm": 160.013,
+    "features": [
+      {
+        "danceability": 0.557,
+        "energy": 0.905,
+        "key": 11,
+        "loudness": -4.506,
+        "mode": 1,
+        "speechiness": 0.267,
+        "acousticness": 0.0104,
+        "instrumentalness": 0,
+        "liveness": 0.111,
+        "valence": 0.799,
+        "tempo": 160.013,
+        "type": "audio_features",
+        "id": "7dvd3b2oz7AFgXrPBIIYxR",
+        "uri": "spotify:track:7dvd3b2oz7AFgXrPBIIYxR",
+        "track_href": "https://api.spotify.com/v1/tracks/7dvd3b2oz7AFgXrPBIIYxR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7dvd3b2oz7AFgXrPBIIYxR",
+        "duration_ms": 244693,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1Qb2KRdSyk4UtRsbUAW6IG",
+    "name": "IGYEIH",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 159.974,
+    "features": [
+      {
+        "danceability": 0.442,
+        "energy": 0.968,
+        "key": 2,
+        "loudness": -3.417,
+        "mode": 1,
+        "speechiness": 0.126,
+        "acousticness": 0.00227,
+        "instrumentalness": 1.53e-05,
+        "liveness": 0.296,
+        "valence": 0.308,
+        "tempo": 159.974,
+        "type": "audio_features",
+        "id": "1Qb2KRdSyk4UtRsbUAW6IG",
+        "uri": "spotify:track:1Qb2KRdSyk4UtRsbUAW6IG",
+        "track_href": "https://api.spotify.com/v1/tracks/1Qb2KRdSyk4UtRsbUAW6IG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Qb2KRdSyk4UtRsbUAW6IG",
+        "duration_ms": 209084,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "60SdxE8apGAxMiRrpbmLY0",
+    "name": "Lucky You (feat. Joyner Lucas)",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 153.068,
+    "features": [
+      {
+        "danceability": 0.876,
+        "energy": 0.786,
+        "key": 10,
+        "loudness": -4.884,
+        "mode": 0,
+        "speechiness": 0.306,
+        "acousticness": 0.0627,
+        "instrumentalness": 0,
+        "liveness": 0.127,
+        "valence": 0.575,
+        "tempo": 153.068,
+        "type": "audio_features",
+        "id": "60SdxE8apGAxMiRrpbmLY0",
+        "uri": "spotify:track:60SdxE8apGAxMiRrpbmLY0",
+        "track_href": "https://api.spotify.com/v1/tracks/60SdxE8apGAxMiRrpbmLY0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/60SdxE8apGAxMiRrpbmLY0",
+        "duration_ms": 244679,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5A6OHHy73AR5tLxgTc98zz",
+    "name": "Black and Yellow",
+    "artist": "Wiz Khalifa",
+    "album": "Rolling Papers",
+    "playlist": "Running 3",
+    "bpm": 164.02,
+    "features": [
+      {
+        "danceability": 0.684,
+        "energy": 0.834,
+        "key": 2,
+        "loudness": -4.524,
+        "mode": 0,
+        "speechiness": 0.0675,
+        "acousticness": 0.0646,
+        "instrumentalness": 0,
+        "liveness": 0.271,
+        "valence": 0.538,
+        "tempo": 164.02,
+        "type": "audio_features",
+        "id": "5A6OHHy73AR5tLxgTc98zz",
+        "uri": "spotify:track:5A6OHHy73AR5tLxgTc98zz",
+        "track_href": "https://api.spotify.com/v1/tracks/5A6OHHy73AR5tLxgTc98zz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5A6OHHy73AR5tLxgTc98zz",
+        "duration_ms": 217667,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "51rXHuKN8Loc4sUlKPODgH",
+    "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+    "artist": "Jay Rock",
+    "album": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+    "playlist": "Running 3",
+    "bpm": 137.133,
+    "features": [
+      {
+        "danceability": 0.645,
+        "energy": 0.705,
+        "key": 1,
+        "loudness": -5.008,
+        "mode": 1,
+        "speechiness": 0.299,
+        "acousticness": 0.000813,
+        "instrumentalness": 0,
+        "liveness": 0.128,
+        "valence": 0.376,
+        "tempo": 137.133,
+        "type": "audio_features",
+        "id": "51rXHuKN8Loc4sUlKPODgH",
+        "uri": "spotify:track:51rXHuKN8Loc4sUlKPODgH",
+        "track_href": "https://api.spotify.com/v1/tracks/51rXHuKN8Loc4sUlKPODgH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/51rXHuKN8Loc4sUlKPODgH",
+        "duration_ms": 229670,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0mEdbdeRFQwBhN4xfyIeUM",
+    "name": "Can't Tell Me Nothing",
+    "artist": "Kanye West",
+    "album": "Graduation",
+    "playlist": "Running 3",
+    "bpm": 79.928,
+    "features": [
+      {
+        "danceability": 0.587,
+        "energy": 0.62,
+        "key": 5,
+        "loudness": -6.133,
+        "mode": 0,
+        "speechiness": 0.042,
+        "acousticness": 0.0122,
+        "instrumentalness": 0,
+        "liveness": 0.82,
+        "valence": 0.106,
+        "tempo": 79.928,
+        "type": "audio_features",
+        "id": "0mEdbdeRFQwBhN4xfyIeUM",
+        "uri": "spotify:track:0mEdbdeRFQwBhN4xfyIeUM",
+        "track_href": "https://api.spotify.com/v1/tracks/0mEdbdeRFQwBhN4xfyIeUM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0mEdbdeRFQwBhN4xfyIeUM",
+        "duration_ms": 271600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1DhRbox3xkceP64k3JeYfW",
+    "name": "Antisocial (with Travis Scott)",
+    "artist": "Ed Sheeran",
+    "album": "No.6 Collaborations Project",
+    "bpm": 151.957,
+    "features": [
+      {
+        "danceability": 0.716,
+        "energy": 0.823,
+        "key": 5,
+        "loudness": -5.313,
+        "mode": 0,
+        "speechiness": 0.0495,
+        "acousticness": 0.132,
+        "instrumentalness": 0,
+        "liveness": 0.361,
+        "valence": 0.91,
+        "tempo": 151.957,
+        "type": "audio_features",
+        "id": "1DhRbox3xkceP64k3JeYfW",
+        "uri": "spotify:track:1DhRbox3xkceP64k3JeYfW",
+        "track_href": "https://api.spotify.com/v1/tracks/1DhRbox3xkceP64k3JeYfW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1DhRbox3xkceP64k3JeYfW",
+        "duration_ms": 161747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4IkDkZxo0UamwkH3iunJRC",
+    "name": "Blockbuster Night, Pt. 1",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 151.612,
+    "features": [
+      {
+        "danceability": 0.62,
+        "energy": 0.523,
+        "key": 1,
+        "loudness": -7.999,
+        "mode": 0,
+        "speechiness": 0.373,
+        "acousticness": 0.0312,
+        "instrumentalness": 1.81e-06,
+        "liveness": 0.0568,
+        "valence": 0.406,
+        "tempo": 151.612,
+        "type": "audio_features",
+        "id": "4IkDkZxo0UamwkH3iunJRC",
+        "uri": "spotify:track:4IkDkZxo0UamwkH3iunJRC",
+        "track_href": "https://api.spotify.com/v1/tracks/4IkDkZxo0UamwkH3iunJRC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4IkDkZxo0UamwkH3iunJRC",
+        "duration_ms": 152253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3pv7Q5v2dpdefwdWIvE7yH",
+    "name": "Shake It Off (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "album": "1989 (Taylor's Version)",
+    "playlist": "Running 3",
+    "bpm": 160.052,
+    "features": [
+      {
+        "danceability": 0.632,
+        "energy": 0.805,
+        "key": 7,
+        "loudness": -5.707,
+        "mode": 1,
+        "speechiness": 0.069,
+        "acousticness": 0.0112,
+        "instrumentalness": 2.51e-05,
+        "liveness": 0.156,
+        "valence": 0.903,
+        "tempo": 160.052,
+        "type": "audio_features",
+        "id": "3pv7Q5v2dpdefwdWIvE7yH",
+        "uri": "spotify:track:3pv7Q5v2dpdefwdWIvE7yH",
+        "track_href": "https://api.spotify.com/v1/tracks/3pv7Q5v2dpdefwdWIvE7yH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3pv7Q5v2dpdefwdWIvE7yH",
+        "duration_ms": 219209,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6yr8GiTHWvFfi4o6Q5ebdT",
+    "name": "'Till I Collapse",
+    "artist": "Eminem",
+    "album": "The Eminem Show",
+    "playlist": "Running 3",
+    "bpm": 171.411,
+    "features": [
+      {
+        "danceability": 0.551,
+        "energy": 0.851,
+        "key": 1,
+        "loudness": -3.277,
+        "mode": 1,
+        "speechiness": 0.197,
+        "acousticness": 0.0748,
+        "instrumentalness": 0,
+        "liveness": 0.0784,
+        "valence": 0.1,
+        "tempo": 171.411,
+        "type": "audio_features",
+        "id": "6yr8GiTHWvFfi4o6Q5ebdT",
+        "uri": "spotify:track:6yr8GiTHWvFfi4o6Q5ebdT",
+        "track_href": "https://api.spotify.com/v1/tracks/6yr8GiTHWvFfi4o6Q5ebdT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6yr8GiTHWvFfi4o6Q5ebdT",
+        "duration_ms": 297893,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4pbJqGIASGPr0ZpGpnWkDn",
+    "name": "We Will Rock You - Remastered 2011",
+    "artist": "Queen",
+    "album": "News Of The World (2011 Remaster)",
+    "playlist": "Running 3",
+    "bpm": 81.308,
+    "features": [
+      {
+        "danceability": 0.692,
+        "energy": 0.497,
+        "key": 2,
+        "loudness": -7.316,
+        "mode": 1,
+        "speechiness": 0.119,
+        "acousticness": 0.676,
+        "instrumentalness": 0,
+        "liveness": 0.259,
+        "valence": 0.475,
+        "tempo": 81.308,
+        "type": "audio_features",
+        "id": "4pbJqGIASGPr0ZpGpnWkDn",
+        "uri": "spotify:track:4pbJqGIASGPr0ZpGpnWkDn",
+        "track_href": "https://api.spotify.com/v1/tracks/4pbJqGIASGPr0ZpGpnWkDn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4pbJqGIASGPr0ZpGpnWkDn",
+        "duration_ms": 122067,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0uEp9E98JB5awlA084uaIg",
+    "name": "Doo Wop (That Thing)",
+    "artist": "Ms. Lauryn Hill",
+    "album": "The Miseducation of Lauryn Hill",
+    "playlist": "Running 3",
+    "bpm": 99.935,
+    "features": [
+      {
+        "danceability": 0.535,
+        "energy": 0.505,
+        "key": 2,
+        "loudness": -8.926,
+        "mode": 0,
+        "speechiness": 0.245,
+        "acousticness": 0.0393,
+        "instrumentalness": 0,
+        "liveness": 0.0923,
+        "valence": 0.495,
+        "tempo": 99.935,
+        "type": "audio_features",
+        "id": "0uEp9E98JB5awlA084uaIg",
+        "uri": "spotify:track:0uEp9E98JB5awlA084uaIg",
+        "track_href": "https://api.spotify.com/v1/tracks/0uEp9E98JB5awlA084uaIg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0uEp9E98JB5awlA084uaIg",
+        "duration_ms": 320267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2QKLrgXNQtK2c8QbLRO3XC",
+    "name": "Burn The House Down",
+    "artist": "AJR",
+    "album": "The Click (Deluxe Edition)",
+    "playlist": "Running 3",
+    "bpm": 184.311,
+    "features": [
+      {
+        "danceability": 0.459,
+        "energy": 0.659,
+        "key": 0,
+        "loudness": -4.357,
+        "mode": 1,
+        "speechiness": 0.167,
+        "acousticness": 0.0369,
+        "instrumentalness": 0,
+        "liveness": 0.181,
+        "valence": 0.576,
+        "tempo": 184.311,
+        "type": "audio_features",
+        "id": "2QKLrgXNQtK2c8QbLRO3XC",
+        "uri": "spotify:track:2QKLrgXNQtK2c8QbLRO3XC",
+        "track_href": "https://api.spotify.com/v1/tracks/2QKLrgXNQtK2c8QbLRO3XC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2QKLrgXNQtK2c8QbLRO3XC",
+        "duration_ms": 212374,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3lWwsRSWeSTXUBTJeuRPPg",
+    "name": "Plastic Hamburgers",
+    "artist": "Fantastic Negrito",
+    "album": "Please Don't Be Dead",
+    "playlist": "Running 3",
+    "bpm": 82.003,
+    "features": [
+      {
+        "danceability": 0.634,
+        "energy": 0.779,
+        "key": 9,
+        "loudness": -6.607,
+        "mode": 1,
+        "speechiness": 0.0361,
+        "acousticness": 0.0255,
+        "instrumentalness": 0.00103,
+        "liveness": 0.342,
+        "valence": 0.562,
+        "tempo": 82.003,
+        "type": "audio_features",
+        "id": "3lWwsRSWeSTXUBTJeuRPPg",
+        "uri": "spotify:track:3lWwsRSWeSTXUBTJeuRPPg",
+        "track_href": "https://api.spotify.com/v1/tracks/3lWwsRSWeSTXUBTJeuRPPg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3lWwsRSWeSTXUBTJeuRPPg",
+        "duration_ms": 217451,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "233SIbxjiUmEjVcGUiRUiL",
+    "name": "Still Doing Fine?",
+    "artist": "Early Pedestrian",
+    "album": "Still Doing Fine?",
+    "playlist": "Running 3",
+    "bpm": 83.015,
+    "features": [
+      {
+        "danceability": 0.372,
+        "energy": 0.984,
+        "key": 2,
+        "loudness": -4.327,
+        "mode": 1,
+        "speechiness": 0.0616,
+        "acousticness": 3.63e-05,
+        "instrumentalness": 0.132,
+        "liveness": 0.31,
+        "valence": 0.49,
+        "tempo": 83.015,
+        "type": "audio_features",
+        "id": "233SIbxjiUmEjVcGUiRUiL",
+        "uri": "spotify:track:233SIbxjiUmEjVcGUiRUiL",
+        "track_href": "https://api.spotify.com/v1/tracks/233SIbxjiUmEjVcGUiRUiL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/233SIbxjiUmEjVcGUiRUiL",
+        "duration_ms": 194302,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "01TuObJVd7owWchVRuQbQw",
+    "name": "#thatPOWER",
+    "artist": "will.i.am",
+    "album": "#willpower (Deluxe)",
+    "playlist": "Running 3",
+    "bpm": 128.01,
+    "features": [
+      {
+        "danceability": 0.797,
+        "energy": 0.607,
+        "key": 6,
+        "loudness": -6.096,
+        "mode": 0,
+        "speechiness": 0.0585,
+        "acousticness": 0.00112,
+        "instrumentalness": 7.52e-05,
+        "liveness": 0.0748,
+        "valence": 0.399,
+        "tempo": 128.01,
+        "type": "audio_features",
+        "id": "01TuObJVd7owWchVRuQbQw",
+        "uri": "spotify:track:01TuObJVd7owWchVRuQbQw",
+        "track_href": "https://api.spotify.com/v1/tracks/01TuObJVd7owWchVRuQbQw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/01TuObJVd7owWchVRuQbQw",
+        "duration_ms": 279507,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4EQkcrSLF3QdlwNca7sMXY",
+    "name": "Say What You Say",
+    "artist": "Eminem",
+    "album": "The Eminem Show",
+    "playlist": "Running 3",
+    "bpm": 113.411,
+    "features": [
+      {
+        "danceability": 0.89,
+        "energy": 0.541,
+        "key": 2,
+        "loudness": -3.672,
+        "mode": 1,
+        "speechiness": 0.418,
+        "acousticness": 0.179,
+        "instrumentalness": 0,
+        "liveness": 0.167,
+        "valence": 0.428,
+        "tempo": 113.411,
+        "type": "audio_features",
+        "id": "4EQkcrSLF3QdlwNca7sMXY",
+        "uri": "spotify:track:4EQkcrSLF3QdlwNca7sMXY",
+        "track_href": "https://api.spotify.com/v1/tracks/4EQkcrSLF3QdlwNca7sMXY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4EQkcrSLF3QdlwNca7sMXY",
+        "duration_ms": 309893,
+        "time_signature": 5
+      }
+    ]
+  }
+]

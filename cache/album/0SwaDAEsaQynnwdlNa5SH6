@@ -1,0 +1,205 @@
+[
+  {
+    "id": "5wLpRSdYys13AeH8o0V8aE",
+    "name": "Luminary",
+    "artist": "TesseracT",
+    "album": "Sonder",
+    "bpm": 156.035,
+    "features": [
+      {
+        "danceability": 0.51,
+        "energy": 0.865,
+        "key": 2,
+        "loudness": -6.604,
+        "mode": 0,
+        "speechiness": 0.0526,
+        "acousticness": 0.00319,
+        "instrumentalness": 1.41e-05,
+        "liveness": 0.0822,
+        "valence": 0.408,
+        "tempo": 156.035,
+        "type": "audio_features",
+        "id": "5wLpRSdYys13AeH8o0V8aE",
+        "uri": "spotify:track:5wLpRSdYys13AeH8o0V8aE",
+        "track_href": "https://api.spotify.com/v1/tracks/5wLpRSdYys13AeH8o0V8aE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5wLpRSdYys13AeH8o0V8aE",
+        "duration_ms": 192948,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3hs3Xcbk1p2YHxmfcieLiU",
+    "name": "King",
+    "artist": "TesseracT",
+    "album": "Sonder",
+    "bpm": 120.043,
+    "features": [
+      {
+        "danceability": 0.548,
+        "energy": 0.734,
+        "key": 9,
+        "loudness": -8.547,
+        "mode": 1,
+        "speechiness": 0.0339,
+        "acousticness": 0.0071,
+        "instrumentalness": 0.000599,
+        "liveness": 0.106,
+        "valence": 0.145,
+        "tempo": 120.043,
+        "type": "audio_features",
+        "id": "3hs3Xcbk1p2YHxmfcieLiU",
+        "uri": "spotify:track:3hs3Xcbk1p2YHxmfcieLiU",
+        "track_href": "https://api.spotify.com/v1/tracks/3hs3Xcbk1p2YHxmfcieLiU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3hs3Xcbk1p2YHxmfcieLiU",
+        "duration_ms": 416000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0h5OaST7FKfGsWFMD8fcsk",
+    "name": "Orbital",
+    "artist": "TesseracT",
+    "album": "Sonder",
+    "bpm": 119.545,
+    "features": [
+      {
+        "danceability": 0.228,
+        "energy": 0.272,
+        "key": 1,
+        "loudness": -15.212,
+        "mode": 1,
+        "speechiness": 0.0559,
+        "acousticness": 0.88,
+        "instrumentalness": 0.958,
+        "liveness": 0.083,
+        "valence": 0.0522,
+        "tempo": 119.545,
+        "type": "audio_features",
+        "id": "0h5OaST7FKfGsWFMD8fcsk",
+        "uri": "spotify:track:0h5OaST7FKfGsWFMD8fcsk",
+        "track_href": "https://api.spotify.com/v1/tracks/0h5OaST7FKfGsWFMD8fcsk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0h5OaST7FKfGsWFMD8fcsk",
+        "duration_ms": 139053,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1xj9Mdr9jtBpRA6WqqMYbn",
+    "name": "Juno",
+    "artist": "TesseracT",
+    "album": "Sonder",
+    "bpm": 108.006,
+    "features": [
+      {
+        "danceability": 0.588,
+        "energy": 0.897,
+        "key": 5,
+        "loudness": -6.353,
+        "mode": 0,
+        "speechiness": 0.0484,
+        "acousticness": 0.00656,
+        "instrumentalness": 0.0102,
+        "liveness": 0.139,
+        "valence": 0.264,
+        "tempo": 108.006,
+        "type": "audio_features",
+        "id": "1xj9Mdr9jtBpRA6WqqMYbn",
+        "uri": "spotify:track:1xj9Mdr9jtBpRA6WqqMYbn",
+        "track_href": "https://api.spotify.com/v1/tracks/1xj9Mdr9jtBpRA6WqqMYbn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1xj9Mdr9jtBpRA6WqqMYbn",
+        "duration_ms": 312789,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0pfuQHU0YfhmaHJ99W9lDb",
+    "name": "Beneath My Skin / Mirror Image",
+    "artist": "TesseracT",
+    "album": "Sonder",
+    "bpm": 93.217,
+    "features": [
+      {
+        "danceability": 0.274,
+        "energy": 0.596,
+        "key": 10,
+        "loudness": -8.498,
+        "mode": 0,
+        "speechiness": 0.0423,
+        "acousticness": 0.0396,
+        "instrumentalness": 0.0975,
+        "liveness": 0.0918,
+        "valence": 0.146,
+        "tempo": 93.217,
+        "type": "audio_features",
+        "id": "0pfuQHU0YfhmaHJ99W9lDb",
+        "uri": "spotify:track:0pfuQHU0YfhmaHJ99W9lDb",
+        "track_href": "https://api.spotify.com/v1/tracks/0pfuQHU0YfhmaHJ99W9lDb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0pfuQHU0YfhmaHJ99W9lDb",
+        "duration_ms": 681000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6conLq3FI2EHqUuFc7LH6J",
+    "name": "Smile",
+    "artist": "TesseracT",
+    "album": "Sonder",
+    "bpm": 94.996,
+    "features": [
+      {
+        "danceability": 0.596,
+        "energy": 0.836,
+        "key": 1,
+        "loudness": -7.282,
+        "mode": 1,
+        "speechiness": 0.0556,
+        "acousticness": 0.00111,
+        "instrumentalness": 0.102,
+        "liveness": 0.191,
+        "valence": 0.23,
+        "tempo": 94.996,
+        "type": "audio_features",
+        "id": "6conLq3FI2EHqUuFc7LH6J",
+        "uri": "spotify:track:6conLq3FI2EHqUuFc7LH6J",
+        "track_href": "https://api.spotify.com/v1/tracks/6conLq3FI2EHqUuFc7LH6J",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6conLq3FI2EHqUuFc7LH6J",
+        "duration_ms": 287371,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1dMabx7tqxUpeDYQAu8c7S",
+    "name": "The Arrow",
+    "artist": "TesseracT",
+    "album": "Sonder",
+    "bpm": 93.954,
+    "features": [
+      {
+        "danceability": 0.415,
+        "energy": 0.289,
+        "key": 3,
+        "loudness": -11.986,
+        "mode": 0,
+        "speechiness": 0.0317,
+        "acousticness": 0.532,
+        "instrumentalness": 0.0123,
+        "liveness": 0.17,
+        "valence": 0.0783,
+        "tempo": 93.954,
+        "type": "audio_features",
+        "id": "1dMabx7tqxUpeDYQAu8c7S",
+        "uri": "spotify:track:1dMabx7tqxUpeDYQAu8c7S",
+        "track_href": "https://api.spotify.com/v1/tracks/1dMabx7tqxUpeDYQAu8c7S",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1dMabx7tqxUpeDYQAu8c7S",
+        "duration_ms": 157019,
+        "time_signature": 3
+      }
+    ]
+  }
+]

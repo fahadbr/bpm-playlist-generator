@@ -1,0 +1,582 @@
+[
+  {
+    "id": "7ccTcabbJlCJiIqtrSSwBk",
+    "name": "Premonition - Intro",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 165.979,
+    "features": [
+      {
+        "danceability": 0.847,
+        "energy": 0.637,
+        "key": 1,
+        "loudness": -5.193,
+        "mode": 1,
+        "speechiness": 0.367,
+        "acousticness": 0.0258,
+        "instrumentalness": 0.000648,
+        "liveness": 0.382,
+        "valence": 0.511,
+        "tempo": 165.979,
+        "type": "audio_features",
+        "id": "7ccTcabbJlCJiIqtrSSwBk",
+        "uri": "spotify:track:7ccTcabbJlCJiIqtrSSwBk",
+        "track_href": "https://api.spotify.com/v1/tracks/7ccTcabbJlCJiIqtrSSwBk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ccTcabbJlCJiIqtrSSwBk",
+        "duration_ms": 173893,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0q2vG0UVuy6ajjcpkQHdZM",
+    "name": "Unaccommodating (feat. Young M.A)",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 89.95,
+    "features": [
+      {
+        "danceability": 0.852,
+        "energy": 0.752,
+        "key": 1,
+        "loudness": -5.793,
+        "mode": 1,
+        "speechiness": 0.0597,
+        "acousticness": 0.0169,
+        "instrumentalness": 0,
+        "liveness": 0.394,
+        "valence": 0.389,
+        "tempo": 89.95,
+        "type": "audio_features",
+        "id": "0q2vG0UVuy6ajjcpkQHdZM",
+        "uri": "spotify:track:0q2vG0UVuy6ajjcpkQHdZM",
+        "track_href": "https://api.spotify.com/v1/tracks/0q2vG0UVuy6ajjcpkQHdZM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0q2vG0UVuy6ajjcpkQHdZM",
+        "duration_ms": 216600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0GQ5bFTVFFKpwNPc7KwQnB",
+    "name": "You Gon\u2019 Learn (feat. Royce Da 5'9\" & White Gold)",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 140.033,
+    "features": [
+      {
+        "danceability": 0.68,
+        "energy": 0.82,
+        "key": 4,
+        "loudness": -4.197,
+        "mode": 0,
+        "speechiness": 0.151,
+        "acousticness": 0.0614,
+        "instrumentalness": 0,
+        "liveness": 0.597,
+        "valence": 0.243,
+        "tempo": 140.033,
+        "type": "audio_features",
+        "id": "0GQ5bFTVFFKpwNPc7KwQnB",
+        "uri": "spotify:track:0GQ5bFTVFFKpwNPc7KwQnB",
+        "track_href": "https://api.spotify.com/v1/tracks/0GQ5bFTVFFKpwNPc7KwQnB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0GQ5bFTVFFKpwNPc7KwQnB",
+        "duration_ms": 234653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4EmunTy7kNBYQivOa8F6b8",
+    "name": "Alfred - Interlude",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 74.545,
+    "features": [
+      {
+        "danceability": 0.429,
+        "energy": 0.231,
+        "key": 5,
+        "loudness": -20.43,
+        "mode": 1,
+        "speechiness": 0.402,
+        "acousticness": 0.878,
+        "instrumentalness": 0,
+        "liveness": 0.279,
+        "valence": 0.914,
+        "tempo": 74.545,
+        "type": "audio_features",
+        "id": "4EmunTy7kNBYQivOa8F6b8",
+        "uri": "spotify:track:4EmunTy7kNBYQivOa8F6b8",
+        "track_href": "https://api.spotify.com/v1/tracks/4EmunTy7kNBYQivOa8F6b8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4EmunTy7kNBYQivOa8F6b8",
+        "duration_ms": 30133,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "0VSzREd1OjEWJ9tXoFHRQH",
+    "name": "Those Kinda Nights (feat. Ed Sheeran)",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 103.868,
+    "features": [
+      {
+        "danceability": 0.794,
+        "energy": 0.637,
+        "key": 4,
+        "loudness": -6.29,
+        "mode": 0,
+        "speechiness": 0.339,
+        "acousticness": 0.028,
+        "instrumentalness": 0,
+        "liveness": 0.0919,
+        "valence": 0.393,
+        "tempo": 103.868,
+        "type": "audio_features",
+        "id": "0VSzREd1OjEWJ9tXoFHRQH",
+        "uri": "spotify:track:0VSzREd1OjEWJ9tXoFHRQH",
+        "track_href": "https://api.spotify.com/v1/tracks/0VSzREd1OjEWJ9tXoFHRQH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0VSzREd1OjEWJ9tXoFHRQH",
+        "duration_ms": 177693,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7Dj2wqPYXfSRFwa6qyOztr",
+    "name": "In Too Deep",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 88.966,
+    "features": [
+      {
+        "danceability": 0.72,
+        "energy": 0.767,
+        "key": 10,
+        "loudness": -5.839,
+        "mode": 0,
+        "speechiness": 0.214,
+        "acousticness": 0.0387,
+        "instrumentalness": 0,
+        "liveness": 0.202,
+        "valence": 0.595,
+        "tempo": 88.966,
+        "type": "audio_features",
+        "id": "7Dj2wqPYXfSRFwa6qyOztr",
+        "uri": "spotify:track:7Dj2wqPYXfSRFwa6qyOztr",
+        "track_href": "https://api.spotify.com/v1/tracks/7Dj2wqPYXfSRFwa6qyOztr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7Dj2wqPYXfSRFwa6qyOztr",
+        "duration_ms": 194707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7FIWs0pqAYbP91WWM0vlTQ",
+    "name": "Godzilla (feat. Juice WRLD)",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 165.995,
+    "features": [
+      {
+        "danceability": 0.808,
+        "energy": 0.745,
+        "key": 10,
+        "loudness": -5.26,
+        "mode": 0,
+        "speechiness": 0.342,
+        "acousticness": 0.145,
+        "instrumentalness": 0,
+        "liveness": 0.292,
+        "valence": 0.829,
+        "tempo": 165.995,
+        "type": "audio_features",
+        "id": "7FIWs0pqAYbP91WWM0vlTQ",
+        "uri": "spotify:track:7FIWs0pqAYbP91WWM0vlTQ",
+        "track_href": "https://api.spotify.com/v1/tracks/7FIWs0pqAYbP91WWM0vlTQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7FIWs0pqAYbP91WWM0vlTQ",
+        "duration_ms": 210800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5SiZJoLXp3WOl3J4C8IK0d",
+    "name": "Darkness",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 75.055,
+    "features": [
+      {
+        "danceability": 0.671,
+        "energy": 0.623,
+        "key": 2,
+        "loudness": -7.161,
+        "mode": 1,
+        "speechiness": 0.308,
+        "acousticness": 0.00998,
+        "instrumentalness": 7.55e-06,
+        "liveness": 0.643,
+        "valence": 0.195,
+        "tempo": 75.055,
+        "type": "audio_features",
+        "id": "5SiZJoLXp3WOl3J4C8IK0d",
+        "uri": "spotify:track:5SiZJoLXp3WOl3J4C8IK0d",
+        "track_href": "https://api.spotify.com/v1/tracks/5SiZJoLXp3WOl3J4C8IK0d",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5SiZJoLXp3WOl3J4C8IK0d",
+        "duration_ms": 337147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5CpsIb7SMFHjmAG8RvIWfq",
+    "name": "Leaving Heaven (feat. Skylar Grey)",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 171.983,
+    "features": [
+      {
+        "danceability": 0.661,
+        "energy": 0.748,
+        "key": 2,
+        "loudness": -4.809,
+        "mode": 0,
+        "speechiness": 0.206,
+        "acousticness": 0.175,
+        "instrumentalness": 0,
+        "liveness": 0.254,
+        "valence": 0.509,
+        "tempo": 171.983,
+        "type": "audio_features",
+        "id": "5CpsIb7SMFHjmAG8RvIWfq",
+        "uri": "spotify:track:5CpsIb7SMFHjmAG8RvIWfq",
+        "track_href": "https://api.spotify.com/v1/tracks/5CpsIb7SMFHjmAG8RvIWfq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5CpsIb7SMFHjmAG8RvIWfq",
+        "duration_ms": 265947,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5mZXWEH2eh8zMZGCxT5aW0",
+    "name": "Yah Yah (feat. Royce Da 5'9\", Black Thought, Q-Tip & Denaun)",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 183.586,
+    "features": [
+      {
+        "danceability": 0.458,
+        "energy": 0.966,
+        "key": 1,
+        "loudness": -2.107,
+        "mode": 1,
+        "speechiness": 0.384,
+        "acousticness": 0.14,
+        "instrumentalness": 0,
+        "liveness": 0.11,
+        "valence": 0.356,
+        "tempo": 183.586,
+        "type": "audio_features",
+        "id": "5mZXWEH2eh8zMZGCxT5aW0",
+        "uri": "spotify:track:5mZXWEH2eh8zMZGCxT5aW0",
+        "track_href": "https://api.spotify.com/v1/tracks/5mZXWEH2eh8zMZGCxT5aW0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5mZXWEH2eh8zMZGCxT5aW0",
+        "duration_ms": 286960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2d3fdQ6OxmUIsF20eCpcrv",
+    "name": "Stepdad - Intro",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 113.542,
+    "features": [
+      {
+        "danceability": 0.589,
+        "energy": 0.459,
+        "key": 3,
+        "loudness": -7.748,
+        "mode": 1,
+        "speechiness": 0.263,
+        "acousticness": 0.178,
+        "instrumentalness": 0,
+        "liveness": 0.425,
+        "valence": 0.619,
+        "tempo": 113.542,
+        "type": "audio_features",
+        "id": "2d3fdQ6OxmUIsF20eCpcrv",
+        "uri": "spotify:track:2d3fdQ6OxmUIsF20eCpcrv",
+        "track_href": "https://api.spotify.com/v1/tracks/2d3fdQ6OxmUIsF20eCpcrv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2d3fdQ6OxmUIsF20eCpcrv",
+        "duration_ms": 15160,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "3QVHSV8YKYq4L8tI5rnFgj",
+    "name": "Stepdad",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 145.68,
+    "features": [
+      {
+        "danceability": 0.779,
+        "energy": 0.805,
+        "key": 1,
+        "loudness": -3.121,
+        "mode": 1,
+        "speechiness": 0.178,
+        "acousticness": 0.018,
+        "instrumentalness": 0,
+        "liveness": 0.321,
+        "valence": 0.557,
+        "tempo": 145.68,
+        "type": "audio_features",
+        "id": "3QVHSV8YKYq4L8tI5rnFgj",
+        "uri": "spotify:track:3QVHSV8YKYq4L8tI5rnFgj",
+        "track_href": "https://api.spotify.com/v1/tracks/3QVHSV8YKYq4L8tI5rnFgj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3QVHSV8YKYq4L8tI5rnFgj",
+        "duration_ms": 213413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "34d7sGX6WUqq8f04e7CSNF",
+    "name": "Marsh",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 144.989,
+    "features": [
+      {
+        "danceability": 0.871,
+        "energy": 0.493,
+        "key": 1,
+        "loudness": -6.356,
+        "mode": 1,
+        "speechiness": 0.205,
+        "acousticness": 0.0134,
+        "instrumentalness": 0.000241,
+        "liveness": 0.385,
+        "valence": 0.0495,
+        "tempo": 144.989,
+        "type": "audio_features",
+        "id": "34d7sGX6WUqq8f04e7CSNF",
+        "uri": "spotify:track:34d7sGX6WUqq8f04e7CSNF",
+        "track_href": "https://api.spotify.com/v1/tracks/34d7sGX6WUqq8f04e7CSNF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/34d7sGX6WUqq8f04e7CSNF",
+        "duration_ms": 200573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "40YbWniIEmqy6s58fYXLUh",
+    "name": "Never Love Again",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 92.029,
+    "features": [
+      {
+        "danceability": 0.747,
+        "energy": 0.899,
+        "key": 5,
+        "loudness": -5.125,
+        "mode": 0,
+        "speechiness": 0.246,
+        "acousticness": 0.1,
+        "instrumentalness": 0,
+        "liveness": 0.486,
+        "valence": 0.581,
+        "tempo": 92.029,
+        "type": "audio_features",
+        "id": "40YbWniIEmqy6s58fYXLUh",
+        "uri": "spotify:track:40YbWniIEmqy6s58fYXLUh",
+        "track_href": "https://api.spotify.com/v1/tracks/40YbWniIEmqy6s58fYXLUh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/40YbWniIEmqy6s58fYXLUh",
+        "duration_ms": 177547,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4qNWEOMyexn7b8Icyk29t9",
+    "name": "Little Engine",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 155.081,
+    "features": [
+      {
+        "danceability": 0.769,
+        "energy": 0.811,
+        "key": 10,
+        "loudness": -4.162,
+        "mode": 0,
+        "speechiness": 0.228,
+        "acousticness": 0.0234,
+        "instrumentalness": 0,
+        "liveness": 0.0451,
+        "valence": 0.76,
+        "tempo": 155.081,
+        "type": "audio_features",
+        "id": "4qNWEOMyexn7b8Icyk29t9",
+        "uri": "spotify:track:4qNWEOMyexn7b8Icyk29t9",
+        "track_href": "https://api.spotify.com/v1/tracks/4qNWEOMyexn7b8Icyk29t9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4qNWEOMyexn7b8Icyk29t9",
+        "duration_ms": 177293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1qwMkkRiD5jqLeUUjfgblh",
+    "name": "Lock It Up (feat. Anderson .Paak)",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 137.024,
+    "features": [
+      {
+        "danceability": 0.848,
+        "energy": 0.745,
+        "key": 6,
+        "loudness": -3.052,
+        "mode": 0,
+        "speechiness": 0.221,
+        "acousticness": 0.0949,
+        "instrumentalness": 0,
+        "liveness": 0.0796,
+        "valence": 0.516,
+        "tempo": 137.024,
+        "type": "audio_features",
+        "id": "1qwMkkRiD5jqLeUUjfgblh",
+        "uri": "spotify:track:1qwMkkRiD5jqLeUUjfgblh",
+        "track_href": "https://api.spotify.com/v1/tracks/1qwMkkRiD5jqLeUUjfgblh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1qwMkkRiD5jqLeUUjfgblh",
+        "duration_ms": 170227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "74gykWHknHDrg4eMdcmdRq",
+    "name": "Farewell",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 93.007,
+    "features": [
+      {
+        "danceability": 0.89,
+        "energy": 0.664,
+        "key": 4,
+        "loudness": -6.625,
+        "mode": 0,
+        "speechiness": 0.106,
+        "acousticness": 0.00487,
+        "instrumentalness": 0,
+        "liveness": 0.257,
+        "valence": 0.467,
+        "tempo": 93.007,
+        "type": "audio_features",
+        "id": "74gykWHknHDrg4eMdcmdRq",
+        "uri": "spotify:track:74gykWHknHDrg4eMdcmdRq",
+        "track_href": "https://api.spotify.com/v1/tracks/74gykWHknHDrg4eMdcmdRq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/74gykWHknHDrg4eMdcmdRq",
+        "duration_ms": 247733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1lO9CZo6eDrOy0S7khgryG",
+    "name": "No Regrets (feat. Don Toliver)",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 134.935,
+    "features": [
+      {
+        "danceability": 0.756,
+        "energy": 0.747,
+        "key": 9,
+        "loudness": -5.407,
+        "mode": 1,
+        "speechiness": 0.046,
+        "acousticness": 0.0048,
+        "instrumentalness": 0.00536,
+        "liveness": 0.588,
+        "valence": 0.0687,
+        "tempo": 134.935,
+        "type": "audio_features",
+        "id": "1lO9CZo6eDrOy0S7khgryG",
+        "uri": "spotify:track:1lO9CZo6eDrOy0S7khgryG",
+        "track_href": "https://api.spotify.com/v1/tracks/1lO9CZo6eDrOy0S7khgryG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1lO9CZo6eDrOy0S7khgryG",
+        "duration_ms": 200947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3CJbxqRQ0JNCqboWDNUUeX",
+    "name": "I Will (feat. KXNG Crooked, Royce Da 5'9\" & Joell Ortiz)",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 98.743,
+    "features": [
+      {
+        "danceability": 0.635,
+        "energy": 0.543,
+        "key": 8,
+        "loudness": -5.941,
+        "mode": 1,
+        "speechiness": 0.067,
+        "acousticness": 0.0454,
+        "instrumentalness": 0.000678,
+        "liveness": 0.272,
+        "valence": 0.036,
+        "tempo": 98.743,
+        "type": "audio_features",
+        "id": "3CJbxqRQ0JNCqboWDNUUeX",
+        "uri": "spotify:track:3CJbxqRQ0JNCqboWDNUUeX",
+        "track_href": "https://api.spotify.com/v1/tracks/3CJbxqRQ0JNCqboWDNUUeX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3CJbxqRQ0JNCqboWDNUUeX",
+        "duration_ms": 303000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1WAwILvz37MkmZfmGnEXfg",
+    "name": "Alfred - Outro",
+    "artist": "Eminem",
+    "album": "Music To Be Murdered By",
+    "bpm": 106.972,
+    "features": [
+      {
+        "danceability": 0.476,
+        "energy": 0.237,
+        "key": 1,
+        "loudness": -14.514,
+        "mode": 1,
+        "speechiness": 0.0486,
+        "acousticness": 0.177,
+        "instrumentalness": 0,
+        "liveness": 0.217,
+        "valence": 0.0387,
+        "tempo": 106.972,
+        "type": "audio_features",
+        "id": "1WAwILvz37MkmZfmGnEXfg",
+        "uri": "spotify:track:1WAwILvz37MkmZfmGnEXfg",
+        "track_href": "https://api.spotify.com/v1/tracks/1WAwILvz37MkmZfmGnEXfg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1WAwILvz37MkmZfmGnEXfg",
+        "duration_ms": 39200,
+        "time_signature": 3
+      }
+    ]
+  }
+]

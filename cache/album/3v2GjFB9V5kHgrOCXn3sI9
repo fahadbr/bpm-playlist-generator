@@ -1,0 +1,408 @@
+[
+  {
+    "id": "49gEUZk40WaBiw3dWycbqQ",
+    "name": "Down (feat. Joi)",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 146.994,
+    "features": [
+      {
+        "danceability": 0.601,
+        "energy": 0.608,
+        "key": 10,
+        "loudness": -8.12,
+        "mode": 1,
+        "speechiness": 0.19,
+        "acousticness": 0.286,
+        "instrumentalness": 0.000863,
+        "liveness": 0.347,
+        "valence": 0.171,
+        "tempo": 146.994,
+        "type": "audio_features",
+        "id": "49gEUZk40WaBiw3dWycbqQ",
+        "uri": "spotify:track:49gEUZk40WaBiw3dWycbqQ",
+        "track_href": "https://api.spotify.com/v1/tracks/49gEUZk40WaBiw3dWycbqQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/49gEUZk40WaBiw3dWycbqQ",
+        "duration_ms": 209667,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "101KS2AYeWa98ltX4ewE7h",
+    "name": "Talk to Me",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 127.112,
+    "features": [
+      {
+        "danceability": 0.705,
+        "energy": 0.71,
+        "key": 11,
+        "loudness": -6.457,
+        "mode": 0,
+        "speechiness": 0.197,
+        "acousticness": 0.041,
+        "instrumentalness": 2.65e-06,
+        "liveness": 0.334,
+        "valence": 0.711,
+        "tempo": 127.112,
+        "type": "audio_features",
+        "id": "101KS2AYeWa98ltX4ewE7h",
+        "uri": "spotify:track:101KS2AYeWa98ltX4ewE7h",
+        "track_href": "https://api.spotify.com/v1/tracks/101KS2AYeWa98ltX4ewE7h",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/101KS2AYeWa98ltX4ewE7h",
+        "duration_ms": 151227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7satW8tFLasyZbftvrWFBP",
+    "name": "Legend Has It",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 120.97,
+    "features": [
+      {
+        "danceability": 0.827,
+        "energy": 0.575,
+        "key": 7,
+        "loudness": -6.769,
+        "mode": 1,
+        "speechiness": 0.253,
+        "acousticness": 0.0243,
+        "instrumentalness": 0,
+        "liveness": 0.0942,
+        "valence": 0.467,
+        "tempo": 120.97,
+        "type": "audio_features",
+        "id": "7satW8tFLasyZbftvrWFBP",
+        "uri": "spotify:track:7satW8tFLasyZbftvrWFBP",
+        "track_href": "https://api.spotify.com/v1/tracks/7satW8tFLasyZbftvrWFBP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7satW8tFLasyZbftvrWFBP",
+        "duration_ms": 205867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0y1mw940RjaXJ55VXFoAbM",
+    "name": "Call Ticketron",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 120.018,
+    "features": [
+      {
+        "danceability": 0.83,
+        "energy": 0.659,
+        "key": 7,
+        "loudness": -9.635,
+        "mode": 1,
+        "speechiness": 0.26,
+        "acousticness": 0.102,
+        "instrumentalness": 0.000355,
+        "liveness": 0.153,
+        "valence": 0.518,
+        "tempo": 120.018,
+        "type": "audio_features",
+        "id": "0y1mw940RjaXJ55VXFoAbM",
+        "uri": "spotify:track:0y1mw940RjaXJ55VXFoAbM",
+        "track_href": "https://api.spotify.com/v1/tracks/0y1mw940RjaXJ55VXFoAbM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0y1mw940RjaXJ55VXFoAbM",
+        "duration_ms": 198640,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3nFvk4ImJMCgdpSlRSblHn",
+    "name": "Hey Kids (Bumaye) (feat. Danny Brown)",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 136.075,
+    "features": [
+      {
+        "danceability": 0.77,
+        "energy": 0.708,
+        "key": 9,
+        "loudness": -7.827,
+        "mode": 0,
+        "speechiness": 0.303,
+        "acousticness": 0.0163,
+        "instrumentalness": 0,
+        "liveness": 0.268,
+        "valence": 0.763,
+        "tempo": 136.075,
+        "type": "audio_features",
+        "id": "3nFvk4ImJMCgdpSlRSblHn",
+        "uri": "spotify:track:3nFvk4ImJMCgdpSlRSblHn",
+        "track_href": "https://api.spotify.com/v1/tracks/3nFvk4ImJMCgdpSlRSblHn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3nFvk4ImJMCgdpSlRSblHn",
+        "duration_ms": 191840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6e82jU1mqJlfPz8OX52kyy",
+    "name": "Stay Gold",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 143.728,
+    "features": [
+      {
+        "danceability": 0.779,
+        "energy": 0.582,
+        "key": 1,
+        "loudness": -7.119,
+        "mode": 1,
+        "speechiness": 0.379,
+        "acousticness": 0.124,
+        "instrumentalness": 0,
+        "liveness": 0.148,
+        "valence": 0.743,
+        "tempo": 143.728,
+        "type": "audio_features",
+        "id": "6e82jU1mqJlfPz8OX52kyy",
+        "uri": "spotify:track:6e82jU1mqJlfPz8OX52kyy",
+        "track_href": "https://api.spotify.com/v1/tracks/6e82jU1mqJlfPz8OX52kyy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6e82jU1mqJlfPz8OX52kyy",
+        "duration_ms": 207573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4geKqZSxZdEsCUnMVhSThr",
+    "name": "Don't Get Captured",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 131.042,
+    "features": [
+      {
+        "danceability": 0.761,
+        "energy": 0.579,
+        "key": 1,
+        "loudness": -7.066,
+        "mode": 1,
+        "speechiness": 0.117,
+        "acousticness": 0.0126,
+        "instrumentalness": 7.1e-06,
+        "liveness": 0.549,
+        "valence": 0.226,
+        "tempo": 131.042,
+        "type": "audio_features",
+        "id": "4geKqZSxZdEsCUnMVhSThr",
+        "uri": "spotify:track:4geKqZSxZdEsCUnMVhSThr",
+        "track_href": "https://api.spotify.com/v1/tracks/4geKqZSxZdEsCUnMVhSThr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4geKqZSxZdEsCUnMVhSThr",
+        "duration_ms": 192227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6ERKmHlROzY2gaZTDOjAuI",
+    "name": "Thieves! (Screamed the Ghost) (feat. Tunde Adebimpe)",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 120.191,
+    "features": [
+      {
+        "danceability": 0.55,
+        "energy": 0.704,
+        "key": 8,
+        "loudness": -8.368,
+        "mode": 1,
+        "speechiness": 0.363,
+        "acousticness": 0.0615,
+        "instrumentalness": 6.45e-05,
+        "liveness": 0.357,
+        "valence": 0.266,
+        "tempo": 120.191,
+        "type": "audio_features",
+        "id": "6ERKmHlROzY2gaZTDOjAuI",
+        "uri": "spotify:track:6ERKmHlROzY2gaZTDOjAuI",
+        "track_href": "https://api.spotify.com/v1/tracks/6ERKmHlROzY2gaZTDOjAuI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ERKmHlROzY2gaZTDOjAuI",
+        "duration_ms": 242493,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3Fp7Qr0m39P7t8loxyZoog",
+    "name": "2100 (feat. Boots)",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 97.504,
+    "features": [
+      {
+        "danceability": 0.684,
+        "energy": 0.801,
+        "key": 0,
+        "loudness": -5.846,
+        "mode": 0,
+        "speechiness": 0.0441,
+        "acousticness": 0.0256,
+        "instrumentalness": 3.78e-06,
+        "liveness": 0.0948,
+        "valence": 0.115,
+        "tempo": 97.504,
+        "type": "audio_features",
+        "id": "3Fp7Qr0m39P7t8loxyZoog",
+        "uri": "spotify:track:3Fp7Qr0m39P7t8loxyZoog",
+        "track_href": "https://api.spotify.com/v1/tracks/3Fp7Qr0m39P7t8loxyZoog",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Fp7Qr0m39P7t8loxyZoog",
+        "duration_ms": 241440,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2c9ZkNtBxIbyetjR3ctuBn",
+    "name": "Panther Like a Panther (Miracle Mix) (feat. Trina)",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 163.839,
+    "features": [
+      {
+        "danceability": 0.682,
+        "energy": 0.739,
+        "key": 5,
+        "loudness": -6.459,
+        "mode": 1,
+        "speechiness": 0.287,
+        "acousticness": 0.0722,
+        "instrumentalness": 0,
+        "liveness": 0.0798,
+        "valence": 0.752,
+        "tempo": 163.839,
+        "type": "audio_features",
+        "id": "2c9ZkNtBxIbyetjR3ctuBn",
+        "uri": "spotify:track:2c9ZkNtBxIbyetjR3ctuBn",
+        "track_href": "https://api.spotify.com/v1/tracks/2c9ZkNtBxIbyetjR3ctuBn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2c9ZkNtBxIbyetjR3ctuBn",
+        "duration_ms": 221173,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5hh71622yE3zAgItucuLIE",
+    "name": "Everybody Stay Calm",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 108.999,
+    "features": [
+      {
+        "danceability": 0.782,
+        "energy": 0.684,
+        "key": 6,
+        "loudness": -7.668,
+        "mode": 0,
+        "speechiness": 0.274,
+        "acousticness": 0.325,
+        "instrumentalness": 7.25e-05,
+        "liveness": 0.254,
+        "valence": 0.378,
+        "tempo": 108.999,
+        "type": "audio_features",
+        "id": "5hh71622yE3zAgItucuLIE",
+        "uri": "spotify:track:5hh71622yE3zAgItucuLIE",
+        "track_href": "https://api.spotify.com/v1/tracks/5hh71622yE3zAgItucuLIE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hh71622yE3zAgItucuLIE",
+        "duration_ms": 178627,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6zPMDkXlw0BSKSdY0Ci1Uk",
+    "name": "Oh Mama",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 75.991,
+    "features": [
+      {
+        "danceability": 0.635,
+        "energy": 0.518,
+        "key": 9,
+        "loudness": -7.478,
+        "mode": 1,
+        "speechiness": 0.217,
+        "acousticness": 0.102,
+        "instrumentalness": 4.04e-05,
+        "liveness": 0.357,
+        "valence": 0.302,
+        "tempo": 75.991,
+        "type": "audio_features",
+        "id": "6zPMDkXlw0BSKSdY0Ci1Uk",
+        "uri": "spotify:track:6zPMDkXlw0BSKSdY0Ci1Uk",
+        "track_href": "https://api.spotify.com/v1/tracks/6zPMDkXlw0BSKSdY0Ci1Uk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6zPMDkXlw0BSKSdY0Ci1Uk",
+        "duration_ms": 216587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5rH44jGz4N5csNuMPwgMoF",
+    "name": "Thursday in the Danger Room (feat. Kamasi Washington)",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 62.999,
+    "features": [
+      {
+        "danceability": 0.528,
+        "energy": 0.782,
+        "key": 1,
+        "loudness": -7.528,
+        "mode": 1,
+        "speechiness": 0.217,
+        "acousticness": 0.237,
+        "instrumentalness": 2.4e-06,
+        "liveness": 0.453,
+        "valence": 0.198,
+        "tempo": 62.999,
+        "type": "audio_features",
+        "id": "5rH44jGz4N5csNuMPwgMoF",
+        "uri": "spotify:track:5rH44jGz4N5csNuMPwgMoF",
+        "track_href": "https://api.spotify.com/v1/tracks/5rH44jGz4N5csNuMPwgMoF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5rH44jGz4N5csNuMPwgMoF",
+        "duration_ms": 262520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7cXFQxnCKlTWdn1vow1v55",
+    "name": "A Report to the Shareholders / Kill Your Masters",
+    "artist": "Run The Jewels",
+    "album": "Run the Jewels 3",
+    "bpm": 155.967,
+    "features": [
+      {
+        "danceability": 0.455,
+        "energy": 0.827,
+        "key": 6,
+        "loudness": -6.507,
+        "mode": 0,
+        "speechiness": 0.213,
+        "acousticness": 0.0102,
+        "instrumentalness": 9.67e-06,
+        "liveness": 0.132,
+        "valence": 0.291,
+        "tempo": 155.967,
+        "type": "audio_features",
+        "id": "7cXFQxnCKlTWdn1vow1v55",
+        "uri": "spotify:track:7cXFQxnCKlTWdn1vow1v55",
+        "track_href": "https://api.spotify.com/v1/tracks/7cXFQxnCKlTWdn1vow1v55",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7cXFQxnCKlTWdn1vow1v55",
+        "duration_ms": 374960,
+        "time_signature": 4
+      }
+    ]
+  }
+]

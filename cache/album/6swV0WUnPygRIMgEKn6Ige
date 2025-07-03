@@ -1,0 +1,350 @@
+[
+  {
+    "id": "5H4DVvpv8WLZfSAoe2kGgR",
+    "name": "GOOD MORNING AMERIKKKA",
+    "artist": "Joey Bada$$",
+    "album": "ALL-AMERIKKKAN BADA$$",
+    "bpm": 97.32,
+    "features": [
+      {
+        "danceability": 0.579,
+        "energy": 0.642,
+        "key": 8,
+        "loudness": -7.37,
+        "mode": 1,
+        "speechiness": 0.244,
+        "acousticness": 0.6,
+        "instrumentalness": 3.52e-05,
+        "liveness": 0.214,
+        "valence": 0.3,
+        "tempo": 97.32,
+        "type": "audio_features",
+        "id": "5H4DVvpv8WLZfSAoe2kGgR",
+        "uri": "spotify:track:5H4DVvpv8WLZfSAoe2kGgR",
+        "track_href": "https://api.spotify.com/v1/tracks/5H4DVvpv8WLZfSAoe2kGgR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5H4DVvpv8WLZfSAoe2kGgR",
+        "duration_ms": 98251,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7CzWRneYi3P7dZqJM0SkUs",
+    "name": "FOR MY PEOPLE",
+    "artist": "Joey Bada$$",
+    "album": "ALL-AMERIKKKAN BADA$$",
+    "bpm": 100.986,
+    "features": [
+      {
+        "danceability": 0.672,
+        "energy": 0.704,
+        "key": 11,
+        "loudness": -6.628,
+        "mode": 0,
+        "speechiness": 0.165,
+        "acousticness": 0.111,
+        "instrumentalness": 0,
+        "liveness": 0.115,
+        "valence": 0.188,
+        "tempo": 100.986,
+        "type": "audio_features",
+        "id": "7CzWRneYi3P7dZqJM0SkUs",
+        "uri": "spotify:track:7CzWRneYi3P7dZqJM0SkUs",
+        "track_href": "https://api.spotify.com/v1/tracks/7CzWRneYi3P7dZqJM0SkUs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7CzWRneYi3P7dZqJM0SkUs",
+        "duration_ms": 232765,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3gJDgenxLephg09x86IxPs",
+    "name": "TEMPTATION",
+    "artist": "Joey Bada$$",
+    "album": "ALL-AMERIKKKAN BADA$$",
+    "bpm": 104.979,
+    "features": [
+      {
+        "danceability": 0.775,
+        "energy": 0.707,
+        "key": 10,
+        "loudness": -5.339,
+        "mode": 0,
+        "speechiness": 0.152,
+        "acousticness": 0.397,
+        "instrumentalness": 0,
+        "liveness": 0.874,
+        "valence": 0.78,
+        "tempo": 104.979,
+        "type": "audio_features",
+        "id": "3gJDgenxLephg09x86IxPs",
+        "uri": "spotify:track:3gJDgenxLephg09x86IxPs",
+        "track_href": "https://api.spotify.com/v1/tracks/3gJDgenxLephg09x86IxPs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3gJDgenxLephg09x86IxPs",
+        "duration_ms": 244198,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7BjygzvUpf8P7X6uWzIhsF",
+    "name": "LAND OF THE FREE",
+    "artist": "Joey Bada$$",
+    "album": "ALL-AMERIKKKAN BADA$$",
+    "bpm": 95.1,
+    "features": [
+      {
+        "danceability": 0.734,
+        "energy": 0.649,
+        "key": 8,
+        "loudness": -6.235,
+        "mode": 0,
+        "speechiness": 0.313,
+        "acousticness": 0.466,
+        "instrumentalness": 0,
+        "liveness": 0.116,
+        "valence": 0.158,
+        "tempo": 95.1,
+        "type": "audio_features",
+        "id": "7BjygzvUpf8P7X6uWzIhsF",
+        "uri": "spotify:track:7BjygzvUpf8P7X6uWzIhsF",
+        "track_href": "https://api.spotify.com/v1/tracks/7BjygzvUpf8P7X6uWzIhsF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7BjygzvUpf8P7X6uWzIhsF",
+        "duration_ms": 283690,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4PnNzWe1LJoAMD5j5RHpI0",
+    "name": "DEVASTATED",
+    "artist": "Joey Bada$$",
+    "album": "ALL-AMERIKKKAN BADA$$",
+    "bpm": 123.004,
+    "features": [
+      {
+        "danceability": 0.812,
+        "energy": 0.628,
+        "key": 10,
+        "loudness": -6.164,
+        "mode": 0,
+        "speechiness": 0.0682,
+        "acousticness": 0.0634,
+        "instrumentalness": 0,
+        "liveness": 0.254,
+        "valence": 0.485,
+        "tempo": 123.004,
+        "type": "audio_features",
+        "id": "4PnNzWe1LJoAMD5j5RHpI0",
+        "uri": "spotify:track:4PnNzWe1LJoAMD5j5RHpI0",
+        "track_href": "https://api.spotify.com/v1/tracks/4PnNzWe1LJoAMD5j5RHpI0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4PnNzWe1LJoAMD5j5RHpI0",
+        "duration_ms": 207059,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6KYVWcOQWm7JrlsPMkrkNi",
+    "name": "Y U DON'T LOVE ME? (MISS AMERIKKKA)",
+    "artist": "Joey Bada$$",
+    "album": "ALL-AMERIKKKAN BADA$$",
+    "bpm": 112.943,
+    "features": [
+      {
+        "danceability": 0.693,
+        "energy": 0.703,
+        "key": 2,
+        "loudness": -6.36,
+        "mode": 0,
+        "speechiness": 0.0667,
+        "acousticness": 0.598,
+        "instrumentalness": 0,
+        "liveness": 0.523,
+        "valence": 0.224,
+        "tempo": 112.943,
+        "type": "audio_features",
+        "id": "6KYVWcOQWm7JrlsPMkrkNi",
+        "uri": "spotify:track:6KYVWcOQWm7JrlsPMkrkNi",
+        "track_href": "https://api.spotify.com/v1/tracks/6KYVWcOQWm7JrlsPMkrkNi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6KYVWcOQWm7JrlsPMkrkNi",
+        "duration_ms": 199080,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2YvvK0XLM6kFbmyciOEKWC",
+    "name": "ROCKABYE BABY (feat. ScHoolboy Q)",
+    "artist": "Joey Bada$$",
+    "album": "ALL-AMERIKKKAN BADA$$",
+    "bpm": 166.242,
+    "features": [
+      {
+        "danceability": 0.553,
+        "energy": 0.877,
+        "key": 7,
+        "loudness": -4.694,
+        "mode": 0,
+        "speechiness": 0.371,
+        "acousticness": 0.166,
+        "instrumentalness": 0,
+        "liveness": 0.0481,
+        "valence": 0.557,
+        "tempo": 166.242,
+        "type": "audio_features",
+        "id": "2YvvK0XLM6kFbmyciOEKWC",
+        "uri": "spotify:track:2YvvK0XLM6kFbmyciOEKWC",
+        "track_href": "https://api.spotify.com/v1/tracks/2YvvK0XLM6kFbmyciOEKWC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YvvK0XLM6kFbmyciOEKWC",
+        "duration_ms": 223553,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1vpQmfAJWRAFsvBHtAy0d9",
+    "name": "RING THE ALARM (feat. Nyck Caution, Kirk Knight & Meechy Darko)",
+    "artist": "Joey Bada$$",
+    "album": "ALL-AMERIKKKAN BADA$$",
+    "bpm": 93.442,
+    "features": [
+      {
+        "danceability": 0.51,
+        "energy": 0.907,
+        "key": 2,
+        "loudness": -4.239,
+        "mode": 1,
+        "speechiness": 0.441,
+        "acousticness": 0.244,
+        "instrumentalness": 0,
+        "liveness": 0.133,
+        "valence": 0.521,
+        "tempo": 93.442,
+        "type": "audio_features",
+        "id": "1vpQmfAJWRAFsvBHtAy0d9",
+        "uri": "spotify:track:1vpQmfAJWRAFsvBHtAy0d9",
+        "track_href": "https://api.spotify.com/v1/tracks/1vpQmfAJWRAFsvBHtAy0d9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1vpQmfAJWRAFsvBHtAy0d9",
+        "duration_ms": 260122,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "16jJa2RtMV9B3J95oNcuHB",
+    "name": "SUPER PREDATOR (feat. Styles P)",
+    "artist": "Joey Bada$$",
+    "album": "ALL-AMERIKKKAN BADA$$",
+    "bpm": 92.081,
+    "features": [
+      {
+        "danceability": 0.729,
+        "energy": 0.79,
+        "key": 1,
+        "loudness": -4.989,
+        "mode": 1,
+        "speechiness": 0.198,
+        "acousticness": 0.378,
+        "instrumentalness": 0,
+        "liveness": 0.119,
+        "valence": 0.876,
+        "tempo": 92.081,
+        "type": "audio_features",
+        "id": "16jJa2RtMV9B3J95oNcuHB",
+        "uri": "spotify:track:16jJa2RtMV9B3J95oNcuHB",
+        "track_href": "https://api.spotify.com/v1/tracks/16jJa2RtMV9B3J95oNcuHB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/16jJa2RtMV9B3J95oNcuHB",
+        "duration_ms": 251868,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4FDqBWx57dkjpiq7K3Xbk8",
+    "name": "BABYLON (feat. Chronixx)",
+    "artist": "Joey Bada$$",
+    "album": "ALL-AMERIKKKAN BADA$$",
+    "bpm": 173.468,
+    "features": [
+      {
+        "danceability": 0.505,
+        "energy": 0.695,
+        "key": 10,
+        "loudness": -4.8,
+        "mode": 1,
+        "speechiness": 0.332,
+        "acousticness": 0.555,
+        "instrumentalness": 0,
+        "liveness": 0.326,
+        "valence": 0.393,
+        "tempo": 173.468,
+        "type": "audio_features",
+        "id": "4FDqBWx57dkjpiq7K3Xbk8",
+        "uri": "spotify:track:4FDqBWx57dkjpiq7K3Xbk8",
+        "track_href": "https://api.spotify.com/v1/tracks/4FDqBWx57dkjpiq7K3Xbk8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4FDqBWx57dkjpiq7K3Xbk8",
+        "duration_ms": 336333,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3bDPWYC4dqW8Rj7le1ECvA",
+    "name": "LEGENDARY (feat. J. Cole)",
+    "artist": "Joey Bada$$",
+    "album": "ALL-AMERIKKKAN BADA$$",
+    "bpm": 81.984,
+    "features": [
+      {
+        "danceability": 0.722,
+        "energy": 0.654,
+        "key": 11,
+        "loudness": -5.419,
+        "mode": 0,
+        "speechiness": 0.173,
+        "acousticness": 0.198,
+        "instrumentalness": 5.73e-06,
+        "liveness": 0.0891,
+        "valence": 0.418,
+        "tempo": 81.984,
+        "type": "audio_features",
+        "id": "3bDPWYC4dqW8Rj7le1ECvA",
+        "uri": "spotify:track:3bDPWYC4dqW8Rj7le1ECvA",
+        "track_href": "https://api.spotify.com/v1/tracks/3bDPWYC4dqW8Rj7le1ECvA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3bDPWYC4dqW8Rj7le1ECvA",
+        "duration_ms": 278112,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6U8SOvBY0zz8hKkSwOaOej",
+    "name": "AMERIKKKAN IDOL",
+    "artist": "Joey Bada$$",
+    "album": "ALL-AMERIKKKAN BADA$$",
+    "bpm": 97.035,
+    "features": [
+      {
+        "danceability": 0.53,
+        "energy": 0.626,
+        "key": 7,
+        "loudness": -7.583,
+        "mode": 0,
+        "speechiness": 0.301,
+        "acousticness": 0.797,
+        "instrumentalness": 2.27e-06,
+        "liveness": 0.22,
+        "valence": 0.448,
+        "tempo": 97.035,
+        "type": "audio_features",
+        "id": "6U8SOvBY0zz8hKkSwOaOej",
+        "uri": "spotify:track:6U8SOvBY0zz8hKkSwOaOej",
+        "track_href": "https://api.spotify.com/v1/tracks/6U8SOvBY0zz8hKkSwOaOej",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6U8SOvBY0zz8hKkSwOaOej",
+        "duration_ms": 371436,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "id": "1kNdtonJXHorsVpWerK8C2",
+    "name": "Intro",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 125.501,
+    "features": [
+      {
+        "danceability": 0.193,
+        "energy": 0.0218,
+        "key": 0,
+        "loudness": -31.16,
+        "mode": 0,
+        "speechiness": 0.0389,
+        "acousticness": 0.955,
+        "instrumentalness": 0.88,
+        "liveness": 0.117,
+        "valence": 0.213,
+        "tempo": 125.501,
+        "type": "audio_features",
+        "id": "1kNdtonJXHorsVpWerK8C2",
+        "uri": "spotify:track:1kNdtonJXHorsVpWerK8C2",
+        "track_href": "https://api.spotify.com/v1/tracks/1kNdtonJXHorsVpWerK8C2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1kNdtonJXHorsVpWerK8C2",
+        "duration_ms": 36935,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1vbn9fEyw1IYhqgZJdu9ZB",
+    "name": "Falling Back",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 118.989,
+    "features": [
+      {
+        "danceability": 0.718,
+        "energy": 0.758,
+        "key": 10,
+        "loudness": -8.29,
+        "mode": 1,
+        "speechiness": 0.0703,
+        "acousticness": 0.238,
+        "instrumentalness": 0.00653,
+        "liveness": 0.11,
+        "valence": 0.349,
+        "tempo": 118.989,
+        "type": "audio_features",
+        "id": "1vbn9fEyw1IYhqgZJdu9ZB",
+        "uri": "spotify:track:1vbn9fEyw1IYhqgZJdu9ZB",
+        "track_href": "https://api.spotify.com/v1/tracks/1vbn9fEyw1IYhqgZJdu9ZB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1vbn9fEyw1IYhqgZJdu9ZB",
+        "duration_ms": 266179,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4FIgHqXd4KkOwxrGeLDYM2",
+    "name": "Texts Go Green",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 118.997,
+    "features": [
+      {
+        "danceability": 0.765,
+        "energy": 0.627,
+        "key": 0,
+        "loudness": -4.607,
+        "mode": 1,
+        "speechiness": 0.0622,
+        "acousticness": 0.000916,
+        "instrumentalness": 0.195,
+        "liveness": 0.0847,
+        "valence": 0.536,
+        "tempo": 118.997,
+        "type": "audio_features",
+        "id": "4FIgHqXd4KkOwxrGeLDYM2",
+        "uri": "spotify:track:4FIgHqXd4KkOwxrGeLDYM2",
+        "track_href": "https://api.spotify.com/v1/tracks/4FIgHqXd4KkOwxrGeLDYM2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4FIgHqXd4KkOwxrGeLDYM2",
+        "duration_ms": 308820,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1eCFz60zd7mAXgWLapPd9B",
+    "name": "Currents",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 122.013,
+    "features": [
+      {
+        "danceability": 0.883,
+        "energy": 0.283,
+        "key": 0,
+        "loudness": -12.653,
+        "mode": 1,
+        "speechiness": 0.113,
+        "acousticness": 0.104,
+        "instrumentalness": 0.00167,
+        "liveness": 0.0935,
+        "valence": 0.416,
+        "tempo": 122.013,
+        "type": "audio_features",
+        "id": "1eCFz60zd7mAXgWLapPd9B",
+        "uri": "spotify:track:1eCFz60zd7mAXgWLapPd9B",
+        "track_href": "https://api.spotify.com/v1/tracks/1eCFz60zd7mAXgWLapPd9B",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1eCFz60zd7mAXgWLapPd9B",
+        "duration_ms": 157390,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0nAZGkBGKQCXyaoSJfRhC1",
+    "name": "A Keeper",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 121.909,
+    "features": [
+      {
+        "danceability": 0.6,
+        "energy": 0.482,
+        "key": 1,
+        "loudness": -11.596,
+        "mode": 1,
+        "speechiness": 0.0701,
+        "acousticness": 0.512,
+        "instrumentalness": 0.000104,
+        "liveness": 0.115,
+        "valence": 0.323,
+        "tempo": 121.909,
+        "type": "audio_features",
+        "id": "0nAZGkBGKQCXyaoSJfRhC1",
+        "uri": "spotify:track:0nAZGkBGKQCXyaoSJfRhC1",
+        "track_href": "https://api.spotify.com/v1/tracks/0nAZGkBGKQCXyaoSJfRhC1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0nAZGkBGKQCXyaoSJfRhC1",
+        "duration_ms": 173097,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7sT7kZEYd1MrmzLLIRVZas",
+    "name": "Calling My Name",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 123.985,
+    "features": [
+      {
+        "danceability": 0.826,
+        "energy": 0.276,
+        "key": 11,
+        "loudness": -11.227,
+        "mode": 0,
+        "speechiness": 0.266,
+        "acousticness": 0.62,
+        "instrumentalness": 8.53e-05,
+        "liveness": 0.118,
+        "valence": 0.484,
+        "tempo": 123.985,
+        "type": "audio_features",
+        "id": "7sT7kZEYd1MrmzLLIRVZas",
+        "uri": "spotify:track:7sT7kZEYd1MrmzLLIRVZas",
+        "track_href": "https://api.spotify.com/v1/tracks/7sT7kZEYd1MrmzLLIRVZas",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7sT7kZEYd1MrmzLLIRVZas",
+        "duration_ms": 129965,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4rmVZajAF7PkrCagGPHbqa",
+    "name": "Sticky",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 137.027,
+    "features": [
+      {
+        "danceability": 0.853,
+        "energy": 0.495,
+        "key": 6,
+        "loudness": -14.63,
+        "mode": 1,
+        "speechiness": 0.14,
+        "acousticness": 0.0917,
+        "instrumentalness": 0.000217,
+        "liveness": 0.0844,
+        "valence": 0.0774,
+        "tempo": 137.027,
+        "type": "audio_features",
+        "id": "4rmVZajAF7PkrCagGPHbqa",
+        "uri": "spotify:track:4rmVZajAF7PkrCagGPHbqa",
+        "track_href": "https://api.spotify.com/v1/tracks/4rmVZajAF7PkrCagGPHbqa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4rmVZajAF7PkrCagGPHbqa",
+        "duration_ms": 243228,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "28JBD8p18xNuOfyV7Cotdn",
+    "name": "Massive",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 124.994,
+    "features": [
+      {
+        "danceability": 0.499,
+        "energy": 0.671,
+        "key": 4,
+        "loudness": -6.774,
+        "mode": 0,
+        "speechiness": 0.0561,
+        "acousticness": 0.114,
+        "instrumentalness": 0.0169,
+        "liveness": 0.148,
+        "valence": 0.0557,
+        "tempo": 124.994,
+        "type": "audio_features",
+        "id": "28JBD8p18xNuOfyV7Cotdn",
+        "uri": "spotify:track:28JBD8p18xNuOfyV7Cotdn",
+        "track_href": "https://api.spotify.com/v1/tracks/28JBD8p18xNuOfyV7Cotdn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/28JBD8p18xNuOfyV7Cotdn",
+        "duration_ms": 336924,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "6Yj7Zhxt73uvwFFvzQXdxO",
+    "name": "Flight's Booked",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 122.584,
+    "features": [
+      {
+        "danceability": 0.593,
+        "energy": 0.41,
+        "key": 3,
+        "loudness": -13.097,
+        "mode": 0,
+        "speechiness": 0.0531,
+        "acousticness": 0.886,
+        "instrumentalness": 0.0993,
+        "liveness": 0.115,
+        "valence": 0.201,
+        "tempo": 122.584,
+        "type": "audio_features",
+        "id": "6Yj7Zhxt73uvwFFvzQXdxO",
+        "uri": "spotify:track:6Yj7Zhxt73uvwFFvzQXdxO",
+        "track_href": "https://api.spotify.com/v1/tracks/6Yj7Zhxt73uvwFFvzQXdxO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Yj7Zhxt73uvwFFvzQXdxO",
+        "duration_ms": 254407,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7hRlTK3mgFTBEjX7DjqBsI",
+    "name": "Overdrive",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 109.739,
+    "features": [
+      {
+        "danceability": 0.502,
+        "energy": 0.645,
+        "key": 2,
+        "loudness": -10.611,
+        "mode": 0,
+        "speechiness": 0.122,
+        "acousticness": 0.444,
+        "instrumentalness": 0.00964,
+        "liveness": 0.107,
+        "valence": 0.518,
+        "tempo": 109.739,
+        "type": "audio_features",
+        "id": "7hRlTK3mgFTBEjX7DjqBsI",
+        "uri": "spotify:track:7hRlTK3mgFTBEjX7DjqBsI",
+        "track_href": "https://api.spotify.com/v1/tracks/7hRlTK3mgFTBEjX7DjqBsI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7hRlTK3mgFTBEjX7DjqBsI",
+        "duration_ms": 202451,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3N3d4OWbPVxTQVBFqNyykk",
+    "name": "Down Hill",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 109.994,
+    "features": [
+      {
+        "danceability": 0.718,
+        "energy": 0.319,
+        "key": 3,
+        "loudness": -11.261,
+        "mode": 1,
+        "speechiness": 0.0435,
+        "acousticness": 0.965,
+        "instrumentalness": 0.00036,
+        "liveness": 0.0895,
+        "valence": 0.639,
+        "tempo": 109.994,
+        "type": "audio_features",
+        "id": "3N3d4OWbPVxTQVBFqNyykk",
+        "uri": "spotify:track:3N3d4OWbPVxTQVBFqNyykk",
+        "track_href": "https://api.spotify.com/v1/tracks/3N3d4OWbPVxTQVBFqNyykk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3N3d4OWbPVxTQVBFqNyykk",
+        "duration_ms": 250865,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1XsRwo2it6QHdV2OiT6IzF",
+    "name": "Tie That Binds",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 120.017,
+    "features": [
+      {
+        "danceability": 0.775,
+        "energy": 0.688,
+        "key": 4,
+        "loudness": -10.912,
+        "mode": 0,
+        "speechiness": 0.0593,
+        "acousticness": 0.0176,
+        "instrumentalness": 0.0917,
+        "liveness": 0.108,
+        "valence": 0.284,
+        "tempo": 120.017,
+        "type": "audio_features",
+        "id": "1XsRwo2it6QHdV2OiT6IzF",
+        "uri": "spotify:track:1XsRwo2it6QHdV2OiT6IzF",
+        "track_href": "https://api.spotify.com/v1/tracks/1XsRwo2it6QHdV2OiT6IzF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1XsRwo2it6QHdV2OiT6IzF",
+        "duration_ms": 336005,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2vy9Ry1TNjCD85TiCbTz0r",
+    "name": "Liability",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 105.013,
+    "features": [
+      {
+        "danceability": 0.557,
+        "energy": 0.706,
+        "key": 0,
+        "loudness": -6.592,
+        "mode": 1,
+        "speechiness": 0.0649,
+        "acousticness": 0.268,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "valence": 0.582,
+        "tempo": 105.013,
+        "type": "audio_features",
+        "id": "2vy9Ry1TNjCD85TiCbTz0r",
+        "uri": "spotify:track:2vy9Ry1TNjCD85TiCbTz0r",
+        "track_href": "https://api.spotify.com/v1/tracks/2vy9Ry1TNjCD85TiCbTz0r",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2vy9Ry1TNjCD85TiCbTz0r",
+        "duration_ms": 237933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3F5CgOj3wFlRv51JsHbxhe",
+    "name": "Jimmy Cooks (feat. 21 Savage)",
+    "artist": "Drake",
+    "album": "Honestly, Nevermind",
+    "bpm": 165.921,
+    "features": [
+      {
+        "danceability": 0.529,
+        "energy": 0.673,
+        "key": 0,
+        "loudness": -4.711,
+        "mode": 1,
+        "speechiness": 0.175,
+        "acousticness": 0.000307,
+        "instrumentalness": 2.41e-06,
+        "liveness": 0.093,
+        "valence": 0.366,
+        "tempo": 165.921,
+        "type": "audio_features",
+        "id": "3F5CgOj3wFlRv51JsHbxhe",
+        "uri": "spotify:track:3F5CgOj3wFlRv51JsHbxhe",
+        "track_href": "https://api.spotify.com/v1/tracks/3F5CgOj3wFlRv51JsHbxhe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3F5CgOj3wFlRv51JsHbxhe",
+        "duration_ms": 218365,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "id": "6OkOFxU6j0UufR97VgSnS7",
+    "name": "untitled 01 | 08.19.2014.",
+    "artist": "Kendrick Lamar",
+    "album": "untitled unmastered.",
+    "bpm": 102.19,
+    "features": [
+      {
+        "danceability": 0.57,
+        "energy": 0.584,
+        "key": 2,
+        "loudness": -11.708,
+        "mode": 1,
+        "speechiness": 0.405,
+        "acousticness": 0.321,
+        "instrumentalness": 0,
+        "liveness": 0.0868,
+        "valence": 0.107,
+        "tempo": 102.19,
+        "type": "audio_features",
+        "id": "6OkOFxU6j0UufR97VgSnS7",
+        "uri": "spotify:track:6OkOFxU6j0UufR97VgSnS7",
+        "track_href": "https://api.spotify.com/v1/tracks/6OkOFxU6j0UufR97VgSnS7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6OkOFxU6j0UufR97VgSnS7",
+        "duration_ms": 247747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3I0FBDc1c1BLNtXWKVjmFg",
+    "name": "untitled 02 | 06.23.2014.",
+    "artist": "Kendrick Lamar",
+    "album": "untitled unmastered.",
+    "bpm": 89.436,
+    "features": [
+      {
+        "danceability": 0.667,
+        "energy": 0.508,
+        "key": 5,
+        "loudness": -10.337,
+        "mode": 1,
+        "speechiness": 0.451,
+        "acousticness": 0.341,
+        "instrumentalness": 0,
+        "liveness": 0.644,
+        "valence": 0.093,
+        "tempo": 89.436,
+        "type": "audio_features",
+        "id": "3I0FBDc1c1BLNtXWKVjmFg",
+        "uri": "spotify:track:3I0FBDc1c1BLNtXWKVjmFg",
+        "track_href": "https://api.spotify.com/v1/tracks/3I0FBDc1c1BLNtXWKVjmFg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3I0FBDc1c1BLNtXWKVjmFg",
+        "duration_ms": 258827,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2fgAJeky8Cpsr8Cfvn2NVp",
+    "name": "untitled 03 | 05.28.2013.",
+    "artist": "Kendrick Lamar",
+    "album": "untitled unmastered.",
+    "bpm": 103.914,
+    "features": [
+      {
+        "danceability": 0.813,
+        "energy": 0.549,
+        "key": 5,
+        "loudness": -12.427,
+        "mode": 0,
+        "speechiness": 0.269,
+        "acousticness": 0.608,
+        "instrumentalness": 1e-06,
+        "liveness": 0.129,
+        "valence": 0.562,
+        "tempo": 103.914,
+        "type": "audio_features",
+        "id": "2fgAJeky8Cpsr8Cfvn2NVp",
+        "uri": "spotify:track:2fgAJeky8Cpsr8Cfvn2NVp",
+        "track_href": "https://api.spotify.com/v1/tracks/2fgAJeky8Cpsr8Cfvn2NVp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2fgAJeky8Cpsr8Cfvn2NVp",
+        "duration_ms": 154347,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1U13SSgDOxK98L1FTWYrjQ",
+    "name": "untitled 04 | 08.14.2014.",
+    "artist": "Kendrick Lamar",
+    "album": "untitled unmastered.",
+    "bpm": 103.056,
+    "features": [
+      {
+        "danceability": 0.512,
+        "energy": 0.128,
+        "key": 4,
+        "loudness": -21.49,
+        "mode": 0,
+        "speechiness": 0.252,
+        "acousticness": 0.864,
+        "instrumentalness": 0,
+        "liveness": 0.512,
+        "valence": 0.219,
+        "tempo": 103.056,
+        "type": "audio_features",
+        "id": "1U13SSgDOxK98L1FTWYrjQ",
+        "uri": "spotify:track:1U13SSgDOxK98L1FTWYrjQ",
+        "track_href": "https://api.spotify.com/v1/tracks/1U13SSgDOxK98L1FTWYrjQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1U13SSgDOxK98L1FTWYrjQ",
+        "duration_ms": 110067,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3V8vWoCbKbfjNrPaQ4YtSg",
+    "name": "untitled 05 | 09.21.2014.",
+    "artist": "Kendrick Lamar",
+    "album": "untitled unmastered.",
+    "bpm": 153.941,
+    "features": [
+      {
+        "danceability": 0.461,
+        "energy": 0.62,
+        "key": 0,
+        "loudness": -9.822,
+        "mode": 1,
+        "speechiness": 0.496,
+        "acousticness": 0.321,
+        "instrumentalness": 0,
+        "liveness": 0.151,
+        "valence": 0.422,
+        "tempo": 153.941,
+        "type": "audio_features",
+        "id": "3V8vWoCbKbfjNrPaQ4YtSg",
+        "uri": "spotify:track:3V8vWoCbKbfjNrPaQ4YtSg",
+        "track_href": "https://api.spotify.com/v1/tracks/3V8vWoCbKbfjNrPaQ4YtSg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3V8vWoCbKbfjNrPaQ4YtSg",
+        "duration_ms": 338427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4M2t7bP4Mq87mGMn0PObUX",
+    "name": "untitled 06 | 06.30.2014.",
+    "artist": "Kendrick Lamar",
+    "album": "untitled unmastered.",
+    "bpm": 89.083,
+    "features": [
+      {
+        "danceability": 0.669,
+        "energy": 0.541,
+        "key": 4,
+        "loudness": -11.291,
+        "mode": 0,
+        "speechiness": 0.0461,
+        "acousticness": 0.0992,
+        "instrumentalness": 7.69e-06,
+        "liveness": 0.254,
+        "valence": 0.645,
+        "tempo": 89.083,
+        "type": "audio_features",
+        "id": "4M2t7bP4Mq87mGMn0PObUX",
+        "uri": "spotify:track:4M2t7bP4Mq87mGMn0PObUX",
+        "track_href": "https://api.spotify.com/v1/tracks/4M2t7bP4Mq87mGMn0PObUX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4M2t7bP4Mq87mGMn0PObUX",
+        "duration_ms": 208013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "40IQooNkPRVtn4zlE3ZFpA",
+    "name": "untitled 07 | 2014 - 2016",
+    "artist": "Kendrick Lamar",
+    "album": "untitled unmastered.",
+    "bpm": 126.982,
+    "features": [
+      {
+        "danceability": 0.567,
+        "energy": 0.463,
+        "key": 6,
+        "loudness": -11.669,
+        "mode": 0,
+        "speechiness": 0.504,
+        "acousticness": 0.732,
+        "instrumentalness": 0,
+        "liveness": 0.709,
+        "valence": 0.324,
+        "tempo": 126.982,
+        "type": "audio_features",
+        "id": "40IQooNkPRVtn4zlE3ZFpA",
+        "uri": "spotify:track:40IQooNkPRVtn4zlE3ZFpA",
+        "track_href": "https://api.spotify.com/v1/tracks/40IQooNkPRVtn4zlE3ZFpA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/40IQooNkPRVtn4zlE3ZFpA",
+        "duration_ms": 496173,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5bBUDJUfGcG7eFy3Bf4fXv",
+    "name": "untitled 08 | 09.06.2014.",
+    "artist": "Kendrick Lamar",
+    "album": "untitled unmastered.",
+    "bpm": 120.004,
+    "features": [
+      {
+        "danceability": 0.85,
+        "energy": 0.524,
+        "key": 11,
+        "loudness": -9.375,
+        "mode": 0,
+        "speechiness": 0.204,
+        "acousticness": 0.25,
+        "instrumentalness": 2.46e-06,
+        "liveness": 0.114,
+        "valence": 0.686,
+        "tempo": 120.004,
+        "type": "audio_features",
+        "id": "5bBUDJUfGcG7eFy3Bf4fXv",
+        "uri": "spotify:track:5bBUDJUfGcG7eFy3Bf4fXv",
+        "track_href": "https://api.spotify.com/v1/tracks/5bBUDJUfGcG7eFy3Bf4fXv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5bBUDJUfGcG7eFy3Bf4fXv",
+        "duration_ms": 235507,
+        "time_signature": 4
+      }
+    ]
+  }
+]

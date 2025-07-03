@@ -1,0 +1,466 @@
+[
+  {
+    "id": "72nxQrIi70DmIfuzFoRh7B",
+    "name": "Spotlight",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 90.804,
+    "features": [
+      {
+        "danceability": 0.469,
+        "energy": 0.605,
+        "key": 9,
+        "loudness": -8.53,
+        "mode": 0,
+        "speechiness": 0.137,
+        "acousticness": 0.0951,
+        "instrumentalness": 4.5e-05,
+        "liveness": 0.161,
+        "valence": 0.355,
+        "tempo": 90.804,
+        "type": "audio_features",
+        "id": "72nxQrIi70DmIfuzFoRh7B",
+        "uri": "spotify:track:72nxQrIi70DmIfuzFoRh7B",
+        "track_href": "https://api.spotify.com/v1/tracks/72nxQrIi70DmIfuzFoRh7B",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/72nxQrIi70DmIfuzFoRh7B",
+        "duration_ms": 303600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Yvwo9fENGoa60k3ClwzQf",
+    "name": "Alpha Omega",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 124.103,
+    "features": [
+      {
+        "danceability": 0.783,
+        "energy": 0.729,
+        "key": 6,
+        "loudness": -6.398,
+        "mode": 0,
+        "speechiness": 0.204,
+        "acousticness": 0.0884,
+        "instrumentalness": 0,
+        "liveness": 0.237,
+        "valence": 0.233,
+        "tempo": 124.103,
+        "type": "audio_features",
+        "id": "0Yvwo9fENGoa60k3ClwzQf",
+        "uri": "spotify:track:0Yvwo9fENGoa60k3ClwzQf",
+        "track_href": "https://api.spotify.com/v1/tracks/0Yvwo9fENGoa60k3ClwzQf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Yvwo9fENGoa60k3ClwzQf",
+        "duration_ms": 212560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7rq7HvZrCie7MmiGm8pUVC",
+    "name": "Till I Die",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 110.05,
+    "features": [
+      {
+        "danceability": 0.865,
+        "energy": 0.633,
+        "key": 0,
+        "loudness": -7.023,
+        "mode": 0,
+        "speechiness": 0.107,
+        "acousticness": 0.0305,
+        "instrumentalness": 0,
+        "liveness": 0.136,
+        "valence": 0.311,
+        "tempo": 110.05,
+        "type": "audio_features",
+        "id": "7rq7HvZrCie7MmiGm8pUVC",
+        "uri": "spotify:track:7rq7HvZrCie7MmiGm8pUVC",
+        "track_href": "https://api.spotify.com/v1/tracks/7rq7HvZrCie7MmiGm8pUVC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7rq7HvZrCie7MmiGm8pUVC",
+        "duration_ms": 212213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5qbhBDzV7r3RjT4ASzc49L",
+    "name": "Eddie Cane",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 169.96,
+    "features": [
+      {
+        "danceability": 0.716,
+        "energy": 0.508,
+        "key": 8,
+        "loudness": -6.439,
+        "mode": 1,
+        "speechiness": 0.376,
+        "acousticness": 0.228,
+        "instrumentalness": 0,
+        "liveness": 0.32,
+        "valence": 0.301,
+        "tempo": 169.96,
+        "type": "audio_features",
+        "id": "5qbhBDzV7r3RjT4ASzc49L",
+        "uri": "spotify:track:5qbhBDzV7r3RjT4ASzc49L",
+        "track_href": "https://api.spotify.com/v1/tracks/5qbhBDzV7r3RjT4ASzc49L",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5qbhBDzV7r3RjT4ASzc49L",
+        "duration_ms": 186013,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2kjPvFgVIGki2BRlOHvQQr",
+    "name": "Bad Mother F*cker",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 181.868,
+    "features": [
+      {
+        "danceability": 0.631,
+        "energy": 0.86,
+        "key": 10,
+        "loudness": -4.994,
+        "mode": 0,
+        "speechiness": 0.121,
+        "acousticness": 0.0171,
+        "instrumentalness": 5.83e-06,
+        "liveness": 0.333,
+        "valence": 0.382,
+        "tempo": 181.868,
+        "type": "audio_features",
+        "id": "2kjPvFgVIGki2BRlOHvQQr",
+        "uri": "spotify:track:2kjPvFgVIGki2BRlOHvQQr",
+        "track_href": "https://api.spotify.com/v1/tracks/2kjPvFgVIGki2BRlOHvQQr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2kjPvFgVIGki2BRlOHvQQr",
+        "duration_ms": 213960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5qkAxtjTFSXDbfB37LWQNH",
+    "name": "World Series",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 111.013,
+    "features": [
+      {
+        "danceability": 0.864,
+        "energy": 0.582,
+        "key": 10,
+        "loudness": -8.949,
+        "mode": 1,
+        "speechiness": 0.316,
+        "acousticness": 0.0889,
+        "instrumentalness": 0,
+        "liveness": 0.085,
+        "valence": 0.151,
+        "tempo": 111.013,
+        "type": "audio_features",
+        "id": "5qkAxtjTFSXDbfB37LWQNH",
+        "uri": "spotify:track:5qkAxtjTFSXDbfB37LWQNH",
+        "track_href": "https://api.spotify.com/v1/tracks/5qkAxtjTFSXDbfB37LWQNH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5qkAxtjTFSXDbfB37LWQNH",
+        "duration_ms": 215107,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6xVq1aDD9zn13GW1JOsZMv",
+    "name": "Oz.",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 141.045,
+    "features": [
+      {
+        "danceability": 0.757,
+        "energy": 0.88,
+        "key": 11,
+        "loudness": -4.957,
+        "mode": 0,
+        "speechiness": 0.285,
+        "acousticness": 0.256,
+        "instrumentalness": 0,
+        "liveness": 0.182,
+        "valence": 0.472,
+        "tempo": 141.045,
+        "type": "audio_features",
+        "id": "6xVq1aDD9zn13GW1JOsZMv",
+        "uri": "spotify:track:6xVq1aDD9zn13GW1JOsZMv",
+        "track_href": "https://api.spotify.com/v1/tracks/6xVq1aDD9zn13GW1JOsZMv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6xVq1aDD9zn13GW1JOsZMv",
+        "duration_ms": 178187,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "26NP9TlHzftGbMQORpuLe4",
+    "name": "Everyday",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 86.576,
+    "features": [
+      {
+        "danceability": 0.51,
+        "energy": 0.542,
+        "key": 9,
+        "loudness": -8.621,
+        "mode": 1,
+        "speechiness": 0.249,
+        "acousticness": 0.225,
+        "instrumentalness": 0,
+        "liveness": 0.607,
+        "valence": 0.346,
+        "tempo": 86.576,
+        "type": "audio_features",
+        "id": "26NP9TlHzftGbMQORpuLe4",
+        "uri": "spotify:track:26NP9TlHzftGbMQORpuLe4",
+        "track_href": "https://api.spotify.com/v1/tracks/26NP9TlHzftGbMQORpuLe4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/26NP9TlHzftGbMQORpuLe4",
+        "duration_ms": 241960,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0oWLsEchzMxbZuwKLfCkXN",
+    "name": "Gone",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 81.166,
+    "features": [
+      {
+        "danceability": 0.501,
+        "energy": 0.86,
+        "key": 9,
+        "loudness": -4.352,
+        "mode": 0,
+        "speechiness": 0.152,
+        "acousticness": 0.175,
+        "instrumentalness": 0,
+        "liveness": 0.234,
+        "valence": 0.152,
+        "tempo": 81.166,
+        "type": "audio_features",
+        "id": "0oWLsEchzMxbZuwKLfCkXN",
+        "uri": "spotify:track:0oWLsEchzMxbZuwKLfCkXN",
+        "track_href": "https://api.spotify.com/v1/tracks/0oWLsEchzMxbZuwKLfCkXN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0oWLsEchzMxbZuwKLfCkXN",
+        "duration_ms": 241360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "29pgZPq4PhC5OxTuU2eDRh",
+    "name": "Story Of The Stairs",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 102.067,
+    "features": [
+      {
+        "danceability": 0.575,
+        "energy": 0.638,
+        "key": 8,
+        "loudness": -8.515,
+        "mode": 1,
+        "speechiness": 0.32,
+        "acousticness": 0.596,
+        "instrumentalness": 0,
+        "liveness": 0.306,
+        "valence": 0.228,
+        "tempo": 102.067,
+        "type": "audio_features",
+        "id": "29pgZPq4PhC5OxTuU2eDRh",
+        "uri": "spotify:track:29pgZPq4PhC5OxTuU2eDRh",
+        "track_href": "https://api.spotify.com/v1/tracks/29pgZPq4PhC5OxTuU2eDRh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/29pgZPq4PhC5OxTuU2eDRh",
+        "duration_ms": 190147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7k9rcsOLrZBzxIL4cyAipZ",
+    "name": "Merry Go Round",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 160.154,
+    "features": [
+      {
+        "danceability": 0.606,
+        "energy": 0.935,
+        "key": 5,
+        "loudness": -4.106,
+        "mode": 1,
+        "speechiness": 0.273,
+        "acousticness": 0.0877,
+        "instrumentalness": 0,
+        "liveness": 0.32,
+        "valence": 0.674,
+        "tempo": 160.154,
+        "type": "audio_features",
+        "id": "7k9rcsOLrZBzxIL4cyAipZ",
+        "uri": "spotify:track:7k9rcsOLrZBzxIL4cyAipZ",
+        "track_href": "https://api.spotify.com/v1/tracks/7k9rcsOLrZBzxIL4cyAipZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7k9rcsOLrZBzxIL4cyAipZ",
+        "duration_ms": 245600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4VHhltj6aUxZJWnImrXDhC",
+    "name": "A Little More",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 90.053,
+    "features": [
+      {
+        "danceability": 0.654,
+        "energy": 0.718,
+        "key": 7,
+        "loudness": -6.663,
+        "mode": 1,
+        "speechiness": 0.0425,
+        "acousticness": 0.0734,
+        "instrumentalness": 0.00121,
+        "liveness": 0.164,
+        "valence": 0.234,
+        "tempo": 90.053,
+        "type": "audio_features",
+        "id": "4VHhltj6aUxZJWnImrXDhC",
+        "uri": "spotify:track:4VHhltj6aUxZJWnImrXDhC",
+        "track_href": "https://api.spotify.com/v1/tracks/4VHhltj6aUxZJWnImrXDhC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4VHhltj6aUxZJWnImrXDhC",
+        "duration_ms": 237453,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4gKCKczP2zGcRn5okrxLU7",
+    "name": "All Night Long",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 78.045,
+    "features": [
+      {
+        "danceability": 0.604,
+        "energy": 0.697,
+        "key": 8,
+        "loudness": -6.991,
+        "mode": 0,
+        "speechiness": 0.186,
+        "acousticness": 0.0474,
+        "instrumentalness": 0.000537,
+        "liveness": 0.19,
+        "valence": 0.287,
+        "tempo": 78.045,
+        "type": "audio_features",
+        "id": "4gKCKczP2zGcRn5okrxLU7",
+        "uri": "spotify:track:4gKCKczP2zGcRn5okrxLU7",
+        "track_href": "https://api.spotify.com/v1/tracks/4gKCKczP2zGcRn5okrxLU7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4gKCKczP2zGcRn5okrxLU7",
+        "duration_ms": 422720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2mCRr2EjObwLYpYyL4tiyt",
+    "name": "Make It Happen",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 101.02,
+    "features": [
+      {
+        "danceability": 0.729,
+        "energy": 0.695,
+        "key": 7,
+        "loudness": -8.982,
+        "mode": 1,
+        "speechiness": 0.0563,
+        "acousticness": 0.0533,
+        "instrumentalness": 0,
+        "liveness": 0.121,
+        "valence": 0.368,
+        "tempo": 101.02,
+        "type": "audio_features",
+        "id": "2mCRr2EjObwLYpYyL4tiyt",
+        "uri": "spotify:track:2mCRr2EjObwLYpYyL4tiyt",
+        "track_href": "https://api.spotify.com/v1/tracks/2mCRr2EjObwLYpYyL4tiyt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2mCRr2EjObwLYpYyL4tiyt",
+        "duration_ms": 282400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "29vxkoDeEXaW7cFcNn0Ikh",
+    "name": "Round Here",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 114.2,
+    "features": [
+      {
+        "danceability": 0.815,
+        "energy": 0.521,
+        "key": 8,
+        "loudness": -8.737,
+        "mode": 1,
+        "speechiness": 0.0688,
+        "acousticness": 0.00396,
+        "instrumentalness": 2.64e-05,
+        "liveness": 0.333,
+        "valence": 0.0401,
+        "tempo": 114.2,
+        "type": "audio_features",
+        "id": "29vxkoDeEXaW7cFcNn0Ikh",
+        "uri": "spotify:track:29vxkoDeEXaW7cFcNn0Ikh",
+        "track_href": "https://api.spotify.com/v1/tracks/29vxkoDeEXaW7cFcNn0Ikh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/29vxkoDeEXaW7cFcNn0Ikh",
+        "duration_ms": 260467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0u4zaXqDSnfkzWRDdSJfaj",
+    "name": "Therapy",
+    "artist": "mgk",
+    "album": "General Admission (Deluxe)",
+    "bpm": 186.327,
+    "features": [
+      {
+        "danceability": 0.602,
+        "energy": 0.449,
+        "key": 1,
+        "loudness": -9.183,
+        "mode": 1,
+        "speechiness": 0.476,
+        "acousticness": 0.141,
+        "instrumentalness": 1e-05,
+        "liveness": 0.112,
+        "valence": 0.0743,
+        "tempo": 186.327,
+        "type": "audio_features",
+        "id": "0u4zaXqDSnfkzWRDdSJfaj",
+        "uri": "spotify:track:0u4zaXqDSnfkzWRDdSJfaj",
+        "track_href": "https://api.spotify.com/v1/tracks/0u4zaXqDSnfkzWRDdSJfaj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0u4zaXqDSnfkzWRDdSJfaj",
+        "duration_ms": 213293,
+        "time_signature": 4
+      }
+    ]
+  }
+]

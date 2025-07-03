@@ -1,0 +1,292 @@
+[
+  {
+    "id": "5tpfvp5m0XLMn3UHznHihI",
+    "name": "THE LION'S DEEN",
+    "artist": "Lupe Fiasco",
+    "album": "DRILL MUSIC IN ZION",
+    "bpm": 63.16,
+    "features": [
+      {
+        "danceability": 0.592,
+        "energy": 0.336,
+        "key": 0,
+        "loudness": -8.011,
+        "mode": 1,
+        "speechiness": 0.192,
+        "acousticness": 0.904,
+        "instrumentalness": 6.9e-06,
+        "liveness": 0.336,
+        "valence": 0.378,
+        "tempo": 63.16,
+        "type": "audio_features",
+        "id": "5tpfvp5m0XLMn3UHznHihI",
+        "uri": "spotify:track:5tpfvp5m0XLMn3UHznHihI",
+        "track_href": "https://api.spotify.com/v1/tracks/5tpfvp5m0XLMn3UHznHihI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5tpfvp5m0XLMn3UHznHihI",
+        "duration_ms": 155124,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6ZLp4KlQEtm7WxfyVQfp9U",
+    "name": "GHOTI",
+    "artist": "Lupe Fiasco",
+    "album": "DRILL MUSIC IN ZION",
+    "bpm": 83.131,
+    "features": [
+      {
+        "danceability": 0.622,
+        "energy": 0.837,
+        "key": 5,
+        "loudness": -7.123,
+        "mode": 0,
+        "speechiness": 0.341,
+        "acousticness": 0.339,
+        "instrumentalness": 0.00255,
+        "liveness": 0.0869,
+        "valence": 0.479,
+        "tempo": 83.131,
+        "type": "audio_features",
+        "id": "6ZLp4KlQEtm7WxfyVQfp9U",
+        "uri": "spotify:track:6ZLp4KlQEtm7WxfyVQfp9U",
+        "track_href": "https://api.spotify.com/v1/tracks/6ZLp4KlQEtm7WxfyVQfp9U",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ZLp4KlQEtm7WxfyVQfp9U",
+        "duration_ms": 111021,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3G9CA8tztFAwHCwE004dI3",
+    "name": "AUTOBOTO",
+    "artist": "Lupe Fiasco",
+    "album": "DRILL MUSIC IN ZION",
+    "bpm": 124.045,
+    "features": [
+      {
+        "danceability": 0.759,
+        "energy": 0.727,
+        "key": 4,
+        "loudness": -6.03,
+        "mode": 1,
+        "speechiness": 0.166,
+        "acousticness": 0.38,
+        "instrumentalness": 3.2e-06,
+        "liveness": 0.0801,
+        "valence": 0.284,
+        "tempo": 124.045,
+        "type": "audio_features",
+        "id": "3G9CA8tztFAwHCwE004dI3",
+        "uri": "spotify:track:3G9CA8tztFAwHCwE004dI3",
+        "track_href": "https://api.spotify.com/v1/tracks/3G9CA8tztFAwHCwE004dI3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3G9CA8tztFAwHCwE004dI3",
+        "duration_ms": 270040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7tcJBOwxqt3DxhCNuZq3gU",
+    "name": "PRECIOUS THINGS",
+    "artist": "Lupe Fiasco",
+    "album": "DRILL MUSIC IN ZION",
+    "bpm": 128.233,
+    "features": [
+      {
+        "danceability": 0.623,
+        "energy": 0.55,
+        "key": 4,
+        "loudness": -7.251,
+        "mode": 0,
+        "speechiness": 0.317,
+        "acousticness": 0.662,
+        "instrumentalness": 0,
+        "liveness": 0.114,
+        "valence": 0.206,
+        "tempo": 128.233,
+        "type": "audio_features",
+        "id": "7tcJBOwxqt3DxhCNuZq3gU",
+        "uri": "spotify:track:7tcJBOwxqt3DxhCNuZq3gU",
+        "track_href": "https://api.spotify.com/v1/tracks/7tcJBOwxqt3DxhCNuZq3gU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7tcJBOwxqt3DxhCNuZq3gU",
+        "duration_ms": 260520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1VSnAypC094ySYAVR8DdzJ",
+    "name": "KIOSK",
+    "artist": "Lupe Fiasco",
+    "album": "DRILL MUSIC IN ZION",
+    "bpm": 86.247,
+    "features": [
+      {
+        "danceability": 0.499,
+        "energy": 0.404,
+        "key": 0,
+        "loudness": -11.084,
+        "mode": 0,
+        "speechiness": 0.195,
+        "acousticness": 0.905,
+        "instrumentalness": 0.000217,
+        "liveness": 0.252,
+        "valence": 0.605,
+        "tempo": 86.247,
+        "type": "audio_features",
+        "id": "1VSnAypC094ySYAVR8DdzJ",
+        "uri": "spotify:track:1VSnAypC094ySYAVR8DdzJ",
+        "track_href": "https://api.spotify.com/v1/tracks/1VSnAypC094ySYAVR8DdzJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1VSnAypC094ySYAVR8DdzJ",
+        "duration_ms": 222466,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7mTBIRS3sgMHakyp1UFxZz",
+    "name": "MS. MURAL",
+    "artist": "Lupe Fiasco",
+    "album": "DRILL MUSIC IN ZION",
+    "bpm": 153.987,
+    "features": [
+      {
+        "danceability": 0.546,
+        "energy": 0.822,
+        "key": 4,
+        "loudness": -6.4,
+        "mode": 0,
+        "speechiness": 0.456,
+        "acousticness": 0.171,
+        "instrumentalness": 0.00539,
+        "liveness": 0.11,
+        "valence": 0.104,
+        "tempo": 153.987,
+        "type": "audio_features",
+        "id": "7mTBIRS3sgMHakyp1UFxZz",
+        "uri": "spotify:track:7mTBIRS3sgMHakyp1UFxZz",
+        "track_href": "https://api.spotify.com/v1/tracks/7mTBIRS3sgMHakyp1UFxZz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7mTBIRS3sgMHakyp1UFxZz",
+        "duration_ms": 332923,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2q4Vq5gPgWIHeAXEWKZELu",
+    "name": "NAOMI",
+    "artist": "Lupe Fiasco",
+    "album": "DRILL MUSIC IN ZION",
+    "bpm": 92.968,
+    "features": [
+      {
+        "danceability": 0.687,
+        "energy": 0.838,
+        "key": 1,
+        "loudness": -7.118,
+        "mode": 1,
+        "speechiness": 0.224,
+        "acousticness": 0.114,
+        "instrumentalness": 0.0283,
+        "liveness": 0.149,
+        "valence": 0.613,
+        "tempo": 92.968,
+        "type": "audio_features",
+        "id": "2q4Vq5gPgWIHeAXEWKZELu",
+        "uri": "spotify:track:2q4Vq5gPgWIHeAXEWKZELu",
+        "track_href": "https://api.spotify.com/v1/tracks/2q4Vq5gPgWIHeAXEWKZELu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2q4Vq5gPgWIHeAXEWKZELu",
+        "duration_ms": 177950,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3GrHP2CwUNecBc1SdVMTJ8",
+    "name": "DRILL MUSIC IN ZION",
+    "artist": "Lupe Fiasco",
+    "album": "DRILL MUSIC IN ZION",
+    "bpm": 78.856,
+    "features": [
+      {
+        "danceability": 0.588,
+        "energy": 0.793,
+        "key": 1,
+        "loudness": -7.576,
+        "mode": 1,
+        "speechiness": 0.336,
+        "acousticness": 0.472,
+        "instrumentalness": 0.0287,
+        "liveness": 0.454,
+        "valence": 0.548,
+        "tempo": 78.856,
+        "type": "audio_features",
+        "id": "3GrHP2CwUNecBc1SdVMTJ8",
+        "uri": "spotify:track:3GrHP2CwUNecBc1SdVMTJ8",
+        "track_href": "https://api.spotify.com/v1/tracks/3GrHP2CwUNecBc1SdVMTJ8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3GrHP2CwUNecBc1SdVMTJ8",
+        "duration_ms": 271883,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5It0Qpe4pVBbCs113i8AKq",
+    "name": "SEATTLE",
+    "artist": "Lupe Fiasco",
+    "album": "DRILL MUSIC IN ZION",
+    "bpm": 139.857,
+    "features": [
+      {
+        "danceability": 0.626,
+        "energy": 0.527,
+        "key": 1,
+        "loudness": -9.111,
+        "mode": 0,
+        "speechiness": 0.149,
+        "acousticness": 0.51,
+        "instrumentalness": 0.0049,
+        "liveness": 0.124,
+        "valence": 0.29,
+        "tempo": 139.857,
+        "type": "audio_features",
+        "id": "5It0Qpe4pVBbCs113i8AKq",
+        "uri": "spotify:track:5It0Qpe4pVBbCs113i8AKq",
+        "track_href": "https://api.spotify.com/v1/tracks/5It0Qpe4pVBbCs113i8AKq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5It0Qpe4pVBbCs113i8AKq",
+        "duration_ms": 316365,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0sCtBy5i9pZUwMq3Il1O4U",
+    "name": "ON FAUX NEM",
+    "artist": "Lupe Fiasco",
+    "album": "DRILL MUSIC IN ZION",
+    "bpm": 166.042,
+    "features": [
+      {
+        "danceability": 0.717,
+        "energy": 0.568,
+        "key": 0,
+        "loudness": -9.328,
+        "mode": 1,
+        "speechiness": 0.425,
+        "acousticness": 0.454,
+        "instrumentalness": 0.00342,
+        "liveness": 0.159,
+        "valence": 0.355,
+        "tempo": 166.042,
+        "type": "audio_features",
+        "id": "0sCtBy5i9pZUwMq3Il1O4U",
+        "uri": "spotify:track:0sCtBy5i9pZUwMq3Il1O4U",
+        "track_href": "https://api.spotify.com/v1/tracks/0sCtBy5i9pZUwMq3Il1O4U",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0sCtBy5i9pZUwMq3Il1O4U",
+        "duration_ms": 338932,
+        "time_signature": 4
+      }
+    ]
+  }
+]

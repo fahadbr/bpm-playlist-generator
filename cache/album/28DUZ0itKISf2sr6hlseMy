@@ -1,0 +1,1452 @@
+[
+  {
+    "id": "49WLgjpFzrF2gCBZzWw1iv",
+    "name": "Papercut",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 150.184,
+    "features": [
+      {
+        "danceability": 0.524,
+        "energy": 0.94,
+        "key": 9,
+        "loudness": -3.994,
+        "mode": 1,
+        "speechiness": 0.111,
+        "acousticness": 0.000217,
+        "instrumentalness": 0,
+        "liveness": 0.623,
+        "valence": 0.664,
+        "tempo": 150.184,
+        "type": "audio_features",
+        "id": "49WLgjpFzrF2gCBZzWw1iv",
+        "uri": "spotify:track:49WLgjpFzrF2gCBZzWw1iv",
+        "track_href": "https://api.spotify.com/v1/tracks/49WLgjpFzrF2gCBZzWw1iv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/49WLgjpFzrF2gCBZzWw1iv",
+        "duration_ms": 184867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1qIQeMHFw09UjBpgrsrdys",
+    "name": "One Step Closer",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 95.137,
+    "features": [
+      {
+        "danceability": 0.492,
+        "energy": 0.969,
+        "key": 9,
+        "loudness": -4.419,
+        "mode": 1,
+        "speechiness": 0.0492,
+        "acousticness": 0.00144,
+        "instrumentalness": 1.36e-06,
+        "liveness": 0.0789,
+        "valence": 0.538,
+        "tempo": 95.137,
+        "type": "audio_features",
+        "id": "1qIQeMHFw09UjBpgrsrdys",
+        "uri": "spotify:track:1qIQeMHFw09UjBpgrsrdys",
+        "track_href": "https://api.spotify.com/v1/tracks/1qIQeMHFw09UjBpgrsrdys",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1qIQeMHFw09UjBpgrsrdys",
+        "duration_ms": 157333,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6NPVVeHetUBa6NhYSaMo1w",
+    "name": "With You",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 196.93,
+    "features": [
+      {
+        "danceability": 0.423,
+        "energy": 0.978,
+        "key": 6,
+        "loudness": -4.004,
+        "mode": 0,
+        "speechiness": 0.303,
+        "acousticness": 0.0037,
+        "instrumentalness": 0,
+        "liveness": 0.111,
+        "valence": 0.361,
+        "tempo": 196.93,
+        "type": "audio_features",
+        "id": "6NPVVeHetUBa6NhYSaMo1w",
+        "uri": "spotify:track:6NPVVeHetUBa6NhYSaMo1w",
+        "track_href": "https://api.spotify.com/v1/tracks/6NPVVeHetUBa6NhYSaMo1w",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6NPVVeHetUBa6NhYSaMo1w",
+        "duration_ms": 203267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0hSDsJ6OC0O4pih8jgT5m7",
+    "name": "Points of Authority",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 95.056,
+    "features": [
+      {
+        "danceability": 0.569,
+        "energy": 0.97,
+        "key": 8,
+        "loudness": -3.886,
+        "mode": 0,
+        "speechiness": 0.196,
+        "acousticness": 0.03,
+        "instrumentalness": 0,
+        "liveness": 0.0993,
+        "valence": 0.435,
+        "tempo": 95.056,
+        "type": "audio_features",
+        "id": "0hSDsJ6OC0O4pih8jgT5m7",
+        "uri": "spotify:track:0hSDsJ6OC0O4pih8jgT5m7",
+        "track_href": "https://api.spotify.com/v1/tracks/0hSDsJ6OC0O4pih8jgT5m7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0hSDsJ6OC0O4pih8jgT5m7",
+        "duration_ms": 200240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1BfzeCKzo8xSvJcYLmnP8f",
+    "name": "Crawling",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 105.074,
+    "features": [
+      {
+        "danceability": 0.581,
+        "energy": 0.699,
+        "key": 4,
+        "loudness": -5.564,
+        "mode": 1,
+        "speechiness": 0.0337,
+        "acousticness": 0.0455,
+        "instrumentalness": 3.74e-06,
+        "liveness": 0.536,
+        "valence": 0.282,
+        "tempo": 105.074,
+        "type": "audio_features",
+        "id": "1BfzeCKzo8xSvJcYLmnP8f",
+        "uri": "spotify:track:1BfzeCKzo8xSvJcYLmnP8f",
+        "track_href": "https://api.spotify.com/v1/tracks/1BfzeCKzo8xSvJcYLmnP8f",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1BfzeCKzo8xSvJcYLmnP8f",
+        "duration_ms": 208960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3uO2ODjs7Lqp1DVZ4LtouE",
+    "name": "Runaway",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 109.117,
+    "features": [
+      {
+        "danceability": 0.631,
+        "energy": 0.873,
+        "key": 7,
+        "loudness": -4.748,
+        "mode": 1,
+        "speechiness": 0.0653,
+        "acousticness": 0.0141,
+        "instrumentalness": 0,
+        "liveness": 0.253,
+        "valence": 0.467,
+        "tempo": 109.117,
+        "type": "audio_features",
+        "id": "3uO2ODjs7Lqp1DVZ4LtouE",
+        "uri": "spotify:track:3uO2ODjs7Lqp1DVZ4LtouE",
+        "track_href": "https://api.spotify.com/v1/tracks/3uO2ODjs7Lqp1DVZ4LtouE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3uO2ODjs7Lqp1DVZ4LtouE",
+        "duration_ms": 183973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6mqhbwoBgTcw1lVqysIlTC",
+    "name": "By Myself",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 103.024,
+    "features": [
+      {
+        "danceability": 0.545,
+        "energy": 0.935,
+        "key": 6,
+        "loudness": -4.159,
+        "mode": 0,
+        "speechiness": 0.173,
+        "acousticness": 0.0175,
+        "instrumentalness": 0.00279,
+        "liveness": 0.297,
+        "valence": 0.339,
+        "tempo": 103.024,
+        "type": "audio_features",
+        "id": "6mqhbwoBgTcw1lVqysIlTC",
+        "uri": "spotify:track:6mqhbwoBgTcw1lVqysIlTC",
+        "track_href": "https://api.spotify.com/v1/tracks/6mqhbwoBgTcw1lVqysIlTC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6mqhbwoBgTcw1lVqysIlTC",
+        "duration_ms": 189800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6zyrb7dW1IR4Hrc8nXJsln",
+    "name": "In the End",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 105.193,
+    "features": [
+      {
+        "danceability": 0.555,
+        "energy": 0.844,
+        "key": 3,
+        "loudness": -6.567,
+        "mode": 0,
+        "speechiness": 0.0553,
+        "acousticness": 0.00818,
+        "instrumentalness": 0,
+        "liveness": 0.0895,
+        "valence": 0.464,
+        "tempo": 105.193,
+        "type": "audio_features",
+        "id": "6zyrb7dW1IR4Hrc8nXJsln",
+        "uri": "spotify:track:6zyrb7dW1IR4Hrc8nXJsln",
+        "track_href": "https://api.spotify.com/v1/tracks/6zyrb7dW1IR4Hrc8nXJsln",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6zyrb7dW1IR4Hrc8nXJsln",
+        "duration_ms": 216800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1c162st6mztGwnCllaJhcU",
+    "name": "A Place for My Head",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 133.063,
+    "features": [
+      {
+        "danceability": 0.603,
+        "energy": 0.908,
+        "key": 11,
+        "loudness": -5.254,
+        "mode": 1,
+        "speechiness": 0.184,
+        "acousticness": 0.0143,
+        "instrumentalness": 0,
+        "liveness": 0.671,
+        "valence": 0.458,
+        "tempo": 133.063,
+        "type": "audio_features",
+        "id": "1c162st6mztGwnCllaJhcU",
+        "uri": "spotify:track:1c162st6mztGwnCllaJhcU",
+        "track_href": "https://api.spotify.com/v1/tracks/1c162st6mztGwnCllaJhcU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1c162st6mztGwnCllaJhcU",
+        "duration_ms": 184640,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3QIPgdsvQpX6caei3iNJCe",
+    "name": "Forgotten",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 108.198,
+    "features": [
+      {
+        "danceability": 0.616,
+        "energy": 0.947,
+        "key": 8,
+        "loudness": -3.817,
+        "mode": 0,
+        "speechiness": 0.11,
+        "acousticness": 0.0132,
+        "instrumentalness": 0,
+        "liveness": 0.366,
+        "valence": 0.498,
+        "tempo": 108.198,
+        "type": "audio_features",
+        "id": "3QIPgdsvQpX6caei3iNJCe",
+        "uri": "spotify:track:3QIPgdsvQpX6caei3iNJCe",
+        "track_href": "https://api.spotify.com/v1/tracks/3QIPgdsvQpX6caei3iNJCe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3QIPgdsvQpX6caei3iNJCe",
+        "duration_ms": 194427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0aOXvRZZJ2i874kZCvb7Z0",
+    "name": "Cure for the Itch",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 99.984,
+    "features": [
+      {
+        "danceability": 0.752,
+        "energy": 0.677,
+        "key": 0,
+        "loudness": -7.376,
+        "mode": 0,
+        "speechiness": 0.214,
+        "acousticness": 0.163,
+        "instrumentalness": 0.0509,
+        "liveness": 0.234,
+        "valence": 0.848,
+        "tempo": 99.984,
+        "type": "audio_features",
+        "id": "0aOXvRZZJ2i874kZCvb7Z0",
+        "uri": "spotify:track:0aOXvRZZJ2i874kZCvb7Z0",
+        "track_href": "https://api.spotify.com/v1/tracks/0aOXvRZZJ2i874kZCvb7Z0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0aOXvRZZJ2i874kZCvb7Z0",
+        "duration_ms": 157200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4GQSDgwPgIswz5WvFp7ROO",
+    "name": "Pushing Me Away",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 103.108,
+    "features": [
+      {
+        "danceability": 0.483,
+        "energy": 0.913,
+        "key": 6,
+        "loudness": -4.305,
+        "mode": 1,
+        "speechiness": 0.0425,
+        "acousticness": 0.000391,
+        "instrumentalness": 0,
+        "liveness": 0.309,
+        "valence": 0.279,
+        "tempo": 103.108,
+        "type": "audio_features",
+        "id": "4GQSDgwPgIswz5WvFp7ROO",
+        "uri": "spotify:track:4GQSDgwPgIswz5WvFp7ROO",
+        "track_href": "https://api.spotify.com/v1/tracks/4GQSDgwPgIswz5WvFp7ROO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4GQSDgwPgIswz5WvFp7ROO",
+        "duration_ms": 191440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5crDbY4BQ6pDjYCfG1kyyj",
+    "name": "Opening",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 79.974,
+    "features": [
+      {
+        "danceability": 0.181,
+        "energy": 0.163,
+        "key": 4,
+        "loudness": -16.565,
+        "mode": 1,
+        "speechiness": 0.0384,
+        "acousticness": 0.641,
+        "instrumentalness": 0.335,
+        "liveness": 0.0784,
+        "valence": 0.0352,
+        "tempo": 79.974,
+        "type": "audio_features",
+        "id": "5crDbY4BQ6pDjYCfG1kyyj",
+        "uri": "spotify:track:5crDbY4BQ6pDjYCfG1kyyj",
+        "track_href": "https://api.spotify.com/v1/tracks/5crDbY4BQ6pDjYCfG1kyyj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5crDbY4BQ6pDjYCfG1kyyj",
+        "duration_ms": 67560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6NDBZEa5nz6sy1CbCIrbe0",
+    "name": "Pts.Of.Athrty - Jay Gordon Reanimation",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 95.218,
+    "features": [
+      {
+        "danceability": 0.507,
+        "energy": 0.973,
+        "key": 8,
+        "loudness": -5.085,
+        "mode": 0,
+        "speechiness": 0.109,
+        "acousticness": 0.00172,
+        "instrumentalness": 0.00211,
+        "liveness": 0.354,
+        "valence": 0.255,
+        "tempo": 95.218,
+        "type": "audio_features",
+        "id": "6NDBZEa5nz6sy1CbCIrbe0",
+        "uri": "spotify:track:6NDBZEa5nz6sy1CbCIrbe0",
+        "track_href": "https://api.spotify.com/v1/tracks/6NDBZEa5nz6sy1CbCIrbe0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6NDBZEa5nz6sy1CbCIrbe0",
+        "duration_ms": 225520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7AicotfpDogKGfS6N5S3fF",
+    "name": "Enth E Nd (Kutmasta Kurt Reanimation) [feat. Motion Man]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 105.009,
+    "features": [
+      {
+        "danceability": 0.747,
+        "energy": 0.803,
+        "key": 6,
+        "loudness": -7.388,
+        "mode": 1,
+        "speechiness": 0.0485,
+        "acousticness": 0.00386,
+        "instrumentalness": 0.000239,
+        "liveness": 0.407,
+        "valence": 0.884,
+        "tempo": 105.009,
+        "type": "audio_features",
+        "id": "7AicotfpDogKGfS6N5S3fF",
+        "uri": "spotify:track:7AicotfpDogKGfS6N5S3fF",
+        "track_href": "https://api.spotify.com/v1/tracks/7AicotfpDogKGfS6N5S3fF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7AicotfpDogKGfS6N5S3fF",
+        "duration_ms": 239960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Dh5GC7gUnOVzXBn6SKqly",
+    "name": "[Chali]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 114.901,
+    "features": [
+      {
+        "danceability": 0.818,
+        "energy": 0.514,
+        "key": 10,
+        "loudness": -22.725,
+        "mode": 1,
+        "speechiness": 0.494,
+        "acousticness": 0.98,
+        "instrumentalness": 3.03e-06,
+        "liveness": 0.59,
+        "valence": 0.57,
+        "tempo": 114.901,
+        "type": "audio_features",
+        "id": "6Dh5GC7gUnOVzXBn6SKqly",
+        "uri": "spotify:track:6Dh5GC7gUnOVzXBn6SKqly",
+        "track_href": "https://api.spotify.com/v1/tracks/6Dh5GC7gUnOVzXBn6SKqly",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Dh5GC7gUnOVzXBn6SKqly",
+        "duration_ms": 23747,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "5Jq2dNGLV7MYp7JUc4Jega",
+    "name": "Frgt/10 (Alchemist Reanimation) [feat. Chali 2na]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 95.134,
+    "features": [
+      {
+        "danceability": 0.64,
+        "energy": 0.747,
+        "key": 10,
+        "loudness": -6.957,
+        "mode": 1,
+        "speechiness": 0.06,
+        "acousticness": 0.0339,
+        "instrumentalness": 0.00506,
+        "liveness": 0.294,
+        "valence": 0.615,
+        "tempo": 95.134,
+        "type": "audio_features",
+        "id": "5Jq2dNGLV7MYp7JUc4Jega",
+        "uri": "spotify:track:5Jq2dNGLV7MYp7JUc4Jega",
+        "track_href": "https://api.spotify.com/v1/tracks/5Jq2dNGLV7MYp7JUc4Jega",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Jq2dNGLV7MYp7JUc4Jega",
+        "duration_ms": 211520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0NiLFbppboKW7fmsG1fKmF",
+    "name": "P5hng Me A*wy (Mike Shinoda Reanimation) [feat. Stephen Richards]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 103.179,
+    "features": [
+      {
+        "danceability": 0.543,
+        "energy": 0.77,
+        "key": 3,
+        "loudness": -6.383,
+        "mode": 0,
+        "speechiness": 0.0419,
+        "acousticness": 0.0332,
+        "instrumentalness": 0.0101,
+        "liveness": 0.0548,
+        "valence": 0.577,
+        "tempo": 103.179,
+        "type": "audio_features",
+        "id": "0NiLFbppboKW7fmsG1fKmF",
+        "uri": "spotify:track:0NiLFbppboKW7fmsG1fKmF",
+        "track_href": "https://api.spotify.com/v1/tracks/0NiLFbppboKW7fmsG1fKmF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0NiLFbppboKW7fmsG1fKmF",
+        "duration_ms": 277973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3z4YazJkbpzlQCLFeeXrPi",
+    "name": "Plc.4 Mie H\u00e6d (Amp Live Reanimation) [feat. Zion]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 133.275,
+    "features": [
+      {
+        "danceability": 0.64,
+        "energy": 0.902,
+        "key": 1,
+        "loudness": -7.068,
+        "mode": 1,
+        "speechiness": 0.18,
+        "acousticness": 0.18,
+        "instrumentalness": 0,
+        "liveness": 0.654,
+        "valence": 0.523,
+        "tempo": 133.275,
+        "type": "audio_features",
+        "id": "3z4YazJkbpzlQCLFeeXrPi",
+        "uri": "spotify:track:3z4YazJkbpzlQCLFeeXrPi",
+        "track_href": "https://api.spotify.com/v1/tracks/3z4YazJkbpzlQCLFeeXrPi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3z4YazJkbpzlQCLFeeXrPi",
+        "duration_ms": 260747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "46aLUOdBtEab6wAuMohYy9",
+    "name": "X-Ecutioner Style (feat. Black Thought)",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 93.646,
+    "features": [
+      {
+        "danceability": 0.757,
+        "energy": 0.978,
+        "key": 5,
+        "loudness": -3.749,
+        "mode": 0,
+        "speechiness": 0.215,
+        "acousticness": 0.0441,
+        "instrumentalness": 0.000821,
+        "liveness": 0.0355,
+        "valence": 0.539,
+        "tempo": 93.646,
+        "type": "audio_features",
+        "id": "46aLUOdBtEab6wAuMohYy9",
+        "uri": "spotify:track:46aLUOdBtEab6wAuMohYy9",
+        "track_href": "https://api.spotify.com/v1/tracks/46aLUOdBtEab6wAuMohYy9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/46aLUOdBtEab6wAuMohYy9",
+        "duration_ms": 109493,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2hJj4BdCUJxBETb9OWP9nV",
+    "name": "H! Vltg3 (Evidence Reanimation) [feat. Pharoahe Monch and DJ Babu]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 93.676,
+    "features": [
+      {
+        "danceability": 0.667,
+        "energy": 0.942,
+        "key": 1,
+        "loudness": -4.166,
+        "mode": 0,
+        "speechiness": 0.238,
+        "acousticness": 0.13,
+        "instrumentalness": 0,
+        "liveness": 0.557,
+        "valence": 0.605,
+        "tempo": 93.676,
+        "type": "audio_features",
+        "id": "2hJj4BdCUJxBETb9OWP9nV",
+        "uri": "spotify:track:2hJj4BdCUJxBETb9OWP9nV",
+        "track_href": "https://api.spotify.com/v1/tracks/2hJj4BdCUJxBETb9OWP9nV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2hJj4BdCUJxBETb9OWP9nV",
+        "duration_ms": 210733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3nqpkABou9JCeWdSr6xsYC",
+    "name": "[Riff Raff]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 130.985,
+    "features": [
+      {
+        "danceability": 0.474,
+        "energy": 0.295,
+        "key": 5,
+        "loudness": -20.233,
+        "mode": 1,
+        "speechiness": 0.108,
+        "acousticness": 0.993,
+        "instrumentalness": 1.14e-05,
+        "liveness": 0.545,
+        "valence": 0.961,
+        "tempo": 130.985,
+        "type": "audio_features",
+        "id": "3nqpkABou9JCeWdSr6xsYC",
+        "uri": "spotify:track:3nqpkABou9JCeWdSr6xsYC",
+        "track_href": "https://api.spotify.com/v1/tracks/3nqpkABou9JCeWdSr6xsYC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3nqpkABou9JCeWdSr6xsYC",
+        "duration_ms": 21907,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3R2GJThtA7RLFP21ko1Cvd",
+    "name": "Wth>You (Chairman Hahn Reanimation) [feat. Aceyalone]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 98.19,
+    "features": [
+      {
+        "danceability": 0.58,
+        "energy": 0.982,
+        "key": 4,
+        "loudness": -3.428,
+        "mode": 0,
+        "speechiness": 0.0731,
+        "acousticness": 0.00696,
+        "instrumentalness": 4.57e-06,
+        "liveness": 0.165,
+        "valence": 0.511,
+        "tempo": 98.19,
+        "type": "audio_features",
+        "id": "3R2GJThtA7RLFP21ko1Cvd",
+        "uri": "spotify:track:3R2GJThtA7RLFP21ko1Cvd",
+        "track_href": "https://api.spotify.com/v1/tracks/3R2GJThtA7RLFP21ko1Cvd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3R2GJThtA7RLFP21ko1Cvd",
+        "duration_ms": 252307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3du26wz3Rqcdooh2cli8yv",
+    "name": "Ntr\\mssion",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 206.551,
+    "features": [
+      {
+        "danceability": 0.451,
+        "energy": 0.0585,
+        "key": 4,
+        "loudness": -25.115,
+        "mode": 1,
+        "speechiness": 0.155,
+        "acousticness": 0.994,
+        "instrumentalness": 0.969,
+        "liveness": 0.669,
+        "valence": 0,
+        "tempo": 206.551,
+        "type": "audio_features",
+        "id": "3du26wz3Rqcdooh2cli8yv",
+        "uri": "spotify:track:3du26wz3Rqcdooh2cli8yv",
+        "track_href": "https://api.spotify.com/v1/tracks/3du26wz3Rqcdooh2cli8yv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3du26wz3Rqcdooh2cli8yv",
+        "duration_ms": 29400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "78jQ3BOkQyEDH5FLfaXIeW",
+    "name": "Ppr:kut (Cheapshot and Jubacca Reanimation) [feat. Rasco and Planet Asia]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 150.345,
+    "features": [
+      {
+        "danceability": 0.562,
+        "energy": 0.897,
+        "key": 1,
+        "loudness": -6.319,
+        "mode": 1,
+        "speechiness": 0.113,
+        "acousticness": 0.000588,
+        "instrumentalness": 0.000864,
+        "liveness": 0.646,
+        "valence": 0.599,
+        "tempo": 150.345,
+        "type": "audio_features",
+        "id": "78jQ3BOkQyEDH5FLfaXIeW",
+        "uri": "spotify:track:78jQ3BOkQyEDH5FLfaXIeW",
+        "track_href": "https://api.spotify.com/v1/tracks/78jQ3BOkQyEDH5FLfaXIeW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/78jQ3BOkQyEDH5FLfaXIeW",
+        "duration_ms": 206347,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0bRLMjdzjWSsX8joI3jqZ6",
+    "name": "Rnw@y (Backyard Bangers Reanimation) [feat. Phoenix Orion]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 108.691,
+    "features": [
+      {
+        "danceability": 0.603,
+        "energy": 0.921,
+        "key": 7,
+        "loudness": -4.633,
+        "mode": 1,
+        "speechiness": 0.0604,
+        "acousticness": 0.000414,
+        "instrumentalness": 0.000288,
+        "liveness": 0.0983,
+        "valence": 0.545,
+        "tempo": 108.691,
+        "type": "audio_features",
+        "id": "0bRLMjdzjWSsX8joI3jqZ6",
+        "uri": "spotify:track:0bRLMjdzjWSsX8joI3jqZ6",
+        "track_href": "https://api.spotify.com/v1/tracks/0bRLMjdzjWSsX8joI3jqZ6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0bRLMjdzjWSsX8joI3jqZ6",
+        "duration_ms": 193400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4BFMKKGTSTlazezCdELF9X",
+    "name": "My<Dsmbr (Mickey P. Reanimation) [feat. Kelli Ali]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 104.732,
+    "features": [
+      {
+        "danceability": 0.658,
+        "energy": 0.81,
+        "key": 7,
+        "loudness": -8.048,
+        "mode": 1,
+        "speechiness": 0.0344,
+        "acousticness": 0.16,
+        "instrumentalness": 0.487,
+        "liveness": 0.0637,
+        "valence": 0.225,
+        "tempo": 104.732,
+        "type": "audio_features",
+        "id": "4BFMKKGTSTlazezCdELF9X",
+        "uri": "spotify:track:4BFMKKGTSTlazezCdELF9X",
+        "track_href": "https://api.spotify.com/v1/tracks/4BFMKKGTSTlazezCdELF9X",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4BFMKKGTSTlazezCdELF9X",
+        "duration_ms": 257587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7toixYEruTisOFLKrLI9pX",
+    "name": "[Stef]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 0,
+    "features": [
+      {
+        "danceability": 0,
+        "energy": 0.305,
+        "key": 11,
+        "loudness": -21.081,
+        "mode": 0,
+        "speechiness": 0,
+        "acousticness": 0.992,
+        "instrumentalness": 0,
+        "liveness": 0.589,
+        "valence": 0,
+        "tempo": 0,
+        "type": "audio_features",
+        "id": "7toixYEruTisOFLKrLI9pX",
+        "uri": "spotify:track:7toixYEruTisOFLKrLI9pX",
+        "track_href": "https://api.spotify.com/v1/tracks/7toixYEruTisOFLKrLI9pX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7toixYEruTisOFLKrLI9pX",
+        "duration_ms": 10027,
+        "time_signature": 0
+      }
+    ]
+  },
+  {
+    "id": "1JJ0CGEo4MOxsU7FAvfkpq",
+    "name": "By_Myslf (Josh Abraham and Mike Shinoda Reanimation)",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 103.206,
+    "features": [
+      {
+        "danceability": 0.553,
+        "energy": 0.968,
+        "key": 8,
+        "loudness": -4.915,
+        "mode": 0,
+        "speechiness": 0.102,
+        "acousticness": 0.000569,
+        "instrumentalness": 0.184,
+        "liveness": 0.128,
+        "valence": 0.256,
+        "tempo": 103.206,
+        "type": "audio_features",
+        "id": "1JJ0CGEo4MOxsU7FAvfkpq",
+        "uri": "spotify:track:1JJ0CGEo4MOxsU7FAvfkpq",
+        "track_href": "https://api.spotify.com/v1/tracks/1JJ0CGEo4MOxsU7FAvfkpq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1JJ0CGEo4MOxsU7FAvfkpq",
+        "duration_ms": 222440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "12FdO9DtYQ22AMRK38rMYF",
+    "name": "Kyur4 Th Ich (Chairman Hahn Reanimation)",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 102.136,
+    "features": [
+      {
+        "danceability": 0.672,
+        "energy": 0.974,
+        "key": 10,
+        "loudness": -5.604,
+        "mode": 0,
+        "speechiness": 0.113,
+        "acousticness": 0.044,
+        "instrumentalness": 0.656,
+        "liveness": 0.828,
+        "valence": 0.297,
+        "tempo": 102.136,
+        "type": "audio_features",
+        "id": "12FdO9DtYQ22AMRK38rMYF",
+        "uri": "spotify:track:12FdO9DtYQ22AMRK38rMYF",
+        "track_href": "https://api.spotify.com/v1/tracks/12FdO9DtYQ22AMRK38rMYF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/12FdO9DtYQ22AMRK38rMYF",
+        "duration_ms": 152533,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7e5Tro36k4sZgtycrvFFHs",
+    "name": "1Stp Klosr (The Humble Brothers Reanimation) [feat. Jonathan Davis]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 96.194,
+    "features": [
+      {
+        "danceability": 0.472,
+        "energy": 0.929,
+        "key": 1,
+        "loudness": -5.81,
+        "mode": 1,
+        "speechiness": 0.0455,
+        "acousticness": 0.00268,
+        "instrumentalness": 0.414,
+        "liveness": 0.131,
+        "valence": 0.247,
+        "tempo": 96.194,
+        "type": "audio_features",
+        "id": "7e5Tro36k4sZgtycrvFFHs",
+        "uri": "spotify:track:7e5Tro36k4sZgtycrvFFHs",
+        "track_href": "https://api.spotify.com/v1/tracks/7e5Tro36k4sZgtycrvFFHs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7e5Tro36k4sZgtycrvFFHs",
+        "duration_ms": 346040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6UHfIy0iHrQ8iDXvUJFkQq",
+    "name": "Krwlng (Mike Shinoda Reanimation) [feat. Aaron Lewis]",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 105.217,
+    "features": [
+      {
+        "danceability": 0.429,
+        "energy": 0.528,
+        "key": 4,
+        "loudness": -7.567,
+        "mode": 1,
+        "speechiness": 0.0293,
+        "acousticness": 0.0879,
+        "instrumentalness": 0.00648,
+        "liveness": 0.0746,
+        "valence": 0.0468,
+        "tempo": 105.217,
+        "type": "audio_features",
+        "id": "6UHfIy0iHrQ8iDXvUJFkQq",
+        "uri": "spotify:track:6UHfIy0iHrQ8iDXvUJFkQq",
+        "track_href": "https://api.spotify.com/v1/tracks/6UHfIy0iHrQ8iDXvUJFkQq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6UHfIy0iHrQ8iDXvUJFkQq",
+        "duration_ms": 340253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "77QlaJaOiR6cAl8zeF0evm",
+    "name": "Carousel - Hybrid Theory EP",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 115.122,
+    "features": [
+      {
+        "danceability": 0.603,
+        "energy": 0.87,
+        "key": 8,
+        "loudness": -6.479,
+        "mode": 1,
+        "speechiness": 0.0643,
+        "acousticness": 0.00745,
+        "instrumentalness": 0.0299,
+        "liveness": 0.159,
+        "valence": 0.282,
+        "tempo": 115.122,
+        "type": "audio_features",
+        "id": "77QlaJaOiR6cAl8zeF0evm",
+        "uri": "spotify:track:77QlaJaOiR6cAl8zeF0evm",
+        "track_href": "https://api.spotify.com/v1/tracks/77QlaJaOiR6cAl8zeF0evm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/77QlaJaOiR6cAl8zeF0evm",
+        "duration_ms": 182654,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1tC6pl3ivmgcxSj4PGmiJR",
+    "name": "Technique (Short) - Hybrid Theory EP",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 94.991,
+    "features": [
+      {
+        "danceability": 0.673,
+        "energy": 0.921,
+        "key": 6,
+        "loudness": -7.882,
+        "mode": 0,
+        "speechiness": 0.183,
+        "acousticness": 0.0828,
+        "instrumentalness": 0.00978,
+        "liveness": 0.189,
+        "valence": 0.269,
+        "tempo": 94.991,
+        "type": "audio_features",
+        "id": "1tC6pl3ivmgcxSj4PGmiJR",
+        "uri": "spotify:track:1tC6pl3ivmgcxSj4PGmiJR",
+        "track_href": "https://api.spotify.com/v1/tracks/1tC6pl3ivmgcxSj4PGmiJR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1tC6pl3ivmgcxSj4PGmiJR",
+        "duration_ms": 39031,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "67i8fR6kdjaVzSPrqexHAC",
+    "name": "Step Up - Hybrid Theory EP",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 100.005,
+    "features": [
+      {
+        "danceability": 0.706,
+        "energy": 0.944,
+        "key": 1,
+        "loudness": -4.856,
+        "mode": 0,
+        "speechiness": 0.156,
+        "acousticness": 0.0651,
+        "instrumentalness": 0,
+        "liveness": 0.681,
+        "valence": 0.448,
+        "tempo": 100.005,
+        "type": "audio_features",
+        "id": "67i8fR6kdjaVzSPrqexHAC",
+        "uri": "spotify:track:67i8fR6kdjaVzSPrqexHAC",
+        "track_href": "https://api.spotify.com/v1/tracks/67i8fR6kdjaVzSPrqexHAC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/67i8fR6kdjaVzSPrqexHAC",
+        "duration_ms": 234642,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0h4BEv6xL4dkHhdUP3GaOU",
+    "name": "And One - Hybrid Theory EP",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 109.762,
+    "features": [
+      {
+        "danceability": 0.389,
+        "energy": 0.881,
+        "key": 9,
+        "loudness": -5.037,
+        "mode": 1,
+        "speechiness": 0.0993,
+        "acousticness": 0.00319,
+        "instrumentalness": 0.153,
+        "liveness": 0.317,
+        "valence": 0.332,
+        "tempo": 109.762,
+        "type": "audio_features",
+        "id": "0h4BEv6xL4dkHhdUP3GaOU",
+        "uri": "spotify:track:0h4BEv6xL4dkHhdUP3GaOU",
+        "track_href": "https://api.spotify.com/v1/tracks/0h4BEv6xL4dkHhdUP3GaOU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0h4BEv6xL4dkHhdUP3GaOU",
+        "duration_ms": 269882,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7b9d6ZvzsRGy9YehdsLwhQ",
+    "name": "High Voltage - Hybrid Theory EP",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 94.025,
+    "features": [
+      {
+        "danceability": 0.754,
+        "energy": 0.785,
+        "key": 9,
+        "loudness": -3.598,
+        "mode": 0,
+        "speechiness": 0.0737,
+        "acousticness": 0.316,
+        "instrumentalness": 7.9e-05,
+        "liveness": 0.449,
+        "valence": 0.771,
+        "tempo": 94.025,
+        "type": "audio_features",
+        "id": "7b9d6ZvzsRGy9YehdsLwhQ",
+        "uri": "spotify:track:7b9d6ZvzsRGy9YehdsLwhQ",
+        "track_href": "https://api.spotify.com/v1/tracks/7b9d6ZvzsRGy9YehdsLwhQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7b9d6ZvzsRGy9YehdsLwhQ",
+        "duration_ms": 209834,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3KS0xvLYYnhpGWLiMyv360",
+    "name": "Part of Me - Hybrid Theory EP",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 101.115,
+    "features": [
+      {
+        "danceability": 0.535,
+        "energy": 0.646,
+        "key": 1,
+        "loudness": -10.128,
+        "mode": 1,
+        "speechiness": 0.135,
+        "acousticness": 0.102,
+        "instrumentalness": 0.0852,
+        "liveness": 0.199,
+        "valence": 0.0919,
+        "tempo": 101.115,
+        "type": "audio_features",
+        "id": "3KS0xvLYYnhpGWLiMyv360",
+        "uri": "spotify:track:3KS0xvLYYnhpGWLiMyv360",
+        "track_href": "https://api.spotify.com/v1/tracks/3KS0xvLYYnhpGWLiMyv360",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3KS0xvLYYnhpGWLiMyv360",
+        "duration_ms": 764503,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2nNxukFZizofaXAZzNPATS",
+    "name": "One Step Closer (Rock Mix) - B-Side Rarities",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 95.178,
+    "features": [
+      {
+        "danceability": 0.507,
+        "energy": 0.979,
+        "key": 9,
+        "loudness": -3.2,
+        "mode": 1,
+        "speechiness": 0.0504,
+        "acousticness": 0.00293,
+        "instrumentalness": 4.97e-06,
+        "liveness": 0.0438,
+        "valence": 0.509,
+        "tempo": 95.178,
+        "type": "audio_features",
+        "id": "2nNxukFZizofaXAZzNPATS",
+        "uri": "spotify:track:2nNxukFZizofaXAZzNPATS",
+        "track_href": "https://api.spotify.com/v1/tracks/2nNxukFZizofaXAZzNPATS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2nNxukFZizofaXAZzNPATS",
+        "duration_ms": 157246,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0eJi1RvFCgcd555HkmsK8j",
+    "name": "It's Goin' Down (feat. Mike Shinoda and Mr. Hahn) - B-Side Rarities",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 104.869,
+    "features": [
+      {
+        "danceability": 0.677,
+        "energy": 0.905,
+        "key": 8,
+        "loudness": -2.955,
+        "mode": 0,
+        "speechiness": 0.264,
+        "acousticness": 0.00152,
+        "instrumentalness": 0.0148,
+        "liveness": 0.0432,
+        "valence": 0.867,
+        "tempo": 104.869,
+        "type": "audio_features",
+        "id": "0eJi1RvFCgcd555HkmsK8j",
+        "uri": "spotify:track:0eJi1RvFCgcd555HkmsK8j",
+        "track_href": "https://api.spotify.com/v1/tracks/0eJi1RvFCgcd555HkmsK8j",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0eJi1RvFCgcd555HkmsK8j",
+        "duration_ms": 249689,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5lfno3QZzPZ0g7p2ulLBP5",
+    "name": "Papercut (Live from the BBC) - B-Side Rarities",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 150.021,
+    "features": [
+      {
+        "danceability": 0.465,
+        "energy": 0.976,
+        "key": 1,
+        "loudness": -2.532,
+        "mode": 0,
+        "speechiness": 0.167,
+        "acousticness": 0.000222,
+        "instrumentalness": 0.000567,
+        "liveness": 0.13,
+        "valence": 0.651,
+        "tempo": 150.021,
+        "type": "audio_features",
+        "id": "5lfno3QZzPZ0g7p2ulLBP5",
+        "uri": "spotify:track:5lfno3QZzPZ0g7p2ulLBP5",
+        "track_href": "https://api.spotify.com/v1/tracks/5lfno3QZzPZ0g7p2ulLBP5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5lfno3QZzPZ0g7p2ulLBP5",
+        "duration_ms": 187425,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3uPwjOj3eqVQChOTHpMYKN",
+    "name": "In The End (Live BBC Radio One) - B-Side Rarities",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 104.937,
+    "features": [
+      {
+        "danceability": 0.579,
+        "energy": 0.903,
+        "key": 3,
+        "loudness": -3.398,
+        "mode": 0,
+        "speechiness": 0.0466,
+        "acousticness": 0.00578,
+        "instrumentalness": 2.51e-06,
+        "liveness": 0.248,
+        "valence": 0.607,
+        "tempo": 104.937,
+        "type": "audio_features",
+        "id": "3uPwjOj3eqVQChOTHpMYKN",
+        "uri": "spotify:track:3uPwjOj3eqVQChOTHpMYKN",
+        "track_href": "https://api.spotify.com/v1/tracks/3uPwjOj3eqVQChOTHpMYKN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3uPwjOj3eqVQChOTHpMYKN",
+        "duration_ms": 205567,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7y8Sjxbfmg4mahaobhAirB",
+    "name": "Points of Authority (Live BBC Radio One) - B-Side Rarities",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 95.013,
+    "features": [
+      {
+        "danceability": 0.267,
+        "energy": 0.971,
+        "key": 11,
+        "loudness": -3.516,
+        "mode": 1,
+        "speechiness": 0.174,
+        "acousticness": 0.00909,
+        "instrumentalness": 0.00171,
+        "liveness": 0.0519,
+        "valence": 0.557,
+        "tempo": 95.013,
+        "type": "audio_features",
+        "id": "7y8Sjxbfmg4mahaobhAirB",
+        "uri": "spotify:track:7y8Sjxbfmg4mahaobhAirB",
+        "track_href": "https://api.spotify.com/v1/tracks/7y8Sjxbfmg4mahaobhAirB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7y8Sjxbfmg4mahaobhAirB",
+        "duration_ms": 204741,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "22LEp6BaCNmteFWIGBoGx2",
+    "name": "High Voltage - B-Side Rarities",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 93.962,
+    "features": [
+      {
+        "danceability": 0.589,
+        "energy": 0.985,
+        "key": 10,
+        "loudness": -2.295,
+        "mode": 1,
+        "speechiness": 0.241,
+        "acousticness": 0.119,
+        "instrumentalness": 2.29e-06,
+        "liveness": 0.294,
+        "valence": 0.239,
+        "tempo": 93.962,
+        "type": "audio_features",
+        "id": "22LEp6BaCNmteFWIGBoGx2",
+        "uri": "spotify:track:22LEp6BaCNmteFWIGBoGx2",
+        "track_href": "https://api.spotify.com/v1/tracks/22LEp6BaCNmteFWIGBoGx2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/22LEp6BaCNmteFWIGBoGx2",
+        "duration_ms": 224686,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6bObaYMFvVT1CilvkuVXzI",
+    "name": "Step Up (1999 Demo) - B-Side Rarities",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 100.033,
+    "features": [
+      {
+        "danceability": 0.698,
+        "energy": 0.965,
+        "key": 1,
+        "loudness": -3.018,
+        "mode": 0,
+        "speechiness": 0.182,
+        "acousticness": 0.0814,
+        "instrumentalness": 0,
+        "liveness": 0.665,
+        "valence": 0.475,
+        "tempo": 100.033,
+        "type": "audio_features",
+        "id": "6bObaYMFvVT1CilvkuVXzI",
+        "uri": "spotify:track:6bObaYMFvVT1CilvkuVXzI",
+        "track_href": "https://api.spotify.com/v1/tracks/6bObaYMFvVT1CilvkuVXzI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6bObaYMFvVT1CilvkuVXzI",
+        "duration_ms": 234537,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3fY3mY4ER7KIuoz4yTvq9G",
+    "name": "My December - B-Side Rarities",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 100.02,
+    "features": [
+      {
+        "danceability": 0.731,
+        "energy": 0.702,
+        "key": 0,
+        "loudness": -5.997,
+        "mode": 1,
+        "speechiness": 0.0238,
+        "acousticness": 0.226,
+        "instrumentalness": 0.0155,
+        "liveness": 0.145,
+        "valence": 0.669,
+        "tempo": 100.02,
+        "type": "audio_features",
+        "id": "3fY3mY4ER7KIuoz4yTvq9G",
+        "uri": "spotify:track:3fY3mY4ER7KIuoz4yTvq9G",
+        "track_href": "https://api.spotify.com/v1/tracks/3fY3mY4ER7KIuoz4yTvq9G",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3fY3mY4ER7KIuoz4yTvq9G",
+        "duration_ms": 261054,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6ply1w2Q2wKTu4sNZpRGTf",
+    "name": "A Place for My Head (Live at Docklands Arena, London) - B-Side Rarities",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 132.175,
+    "features": [
+      {
+        "danceability": 0.241,
+        "energy": 0.984,
+        "key": 8,
+        "loudness": -2.875,
+        "mode": 0,
+        "speechiness": 0.126,
+        "acousticness": 0.0384,
+        "instrumentalness": 0.000534,
+        "liveness": 0.835,
+        "valence": 0.21,
+        "tempo": 132.175,
+        "type": "audio_features",
+        "id": "6ply1w2Q2wKTu4sNZpRGTf",
+        "uri": "spotify:track:6ply1w2Q2wKTu4sNZpRGTf",
+        "track_href": "https://api.spotify.com/v1/tracks/6ply1w2Q2wKTu4sNZpRGTf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ply1w2Q2wKTu4sNZpRGTf",
+        "duration_ms": 190480,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "45f2AYPLVviUWTG3COknLO",
+    "name": "Points of Authority (Live at Docklands Arena, London) - B-Side Rarities",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 95.507,
+    "features": [
+      {
+        "danceability": 0.358,
+        "energy": 0.972,
+        "key": 4,
+        "loudness": -2.617,
+        "mode": 1,
+        "speechiness": 0.0547,
+        "acousticness": 0.00167,
+        "instrumentalness": 1.94e-06,
+        "liveness": 0.85,
+        "valence": 0.361,
+        "tempo": 95.507,
+        "type": "audio_features",
+        "id": "45f2AYPLVviUWTG3COknLO",
+        "uri": "spotify:track:45f2AYPLVviUWTG3COknLO",
+        "track_href": "https://api.spotify.com/v1/tracks/45f2AYPLVviUWTG3COknLO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/45f2AYPLVviUWTG3COknLO",
+        "duration_ms": 209331,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4qU24OCoz7oG5KghT4FpqT",
+    "name": "Papercut (Live at Docklands Arena, London) - B-Side Rarities",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 149.994,
+    "features": [
+      {
+        "danceability": 0.33,
+        "energy": 0.986,
+        "key": 9,
+        "loudness": -2.864,
+        "mode": 1,
+        "speechiness": 0.209,
+        "acousticness": 0.000783,
+        "instrumentalness": 0.000615,
+        "liveness": 0.756,
+        "valence": 0.247,
+        "tempo": 149.994,
+        "type": "audio_features",
+        "id": "4qU24OCoz7oG5KghT4FpqT",
+        "uri": "spotify:track:4qU24OCoz7oG5KghT4FpqT",
+        "track_href": "https://api.spotify.com/v1/tracks/4qU24OCoz7oG5KghT4FpqT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4qU24OCoz7oG5KghT4FpqT",
+        "duration_ms": 192084,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0ALzErEpvwCoRvXogdlBup",
+    "name": "Buy Myself (Marilyn Manson Remix) - B-Side Rarities",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "bpm": 102.987,
+    "features": [
+      {
+        "danceability": 0.626,
+        "energy": 0.941,
+        "key": 1,
+        "loudness": -4.668,
+        "mode": 1,
+        "speechiness": 0.118,
+        "acousticness": 0.0122,
+        "instrumentalness": 0.00343,
+        "liveness": 0.778,
+        "valence": 0.365,
+        "tempo": 102.987,
+        "type": "audio_features",
+        "id": "0ALzErEpvwCoRvXogdlBup",
+        "uri": "spotify:track:0ALzErEpvwCoRvXogdlBup",
+        "track_href": "https://api.spotify.com/v1/tracks/0ALzErEpvwCoRvXogdlBup",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ALzErEpvwCoRvXogdlBup",
+        "duration_ms": 267551,
+        "time_signature": 4
+      }
+    ]
+  }
+]

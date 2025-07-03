@@ -1,0 +1,379 @@
+[
+  {
+    "id": "7yNK27ZTpHew0c55VvIJgm",
+    "name": "Dark Fantasy",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 87.998,
+    "features": [
+      {
+        "danceability": 0.599,
+        "energy": 0.587,
+        "key": 5,
+        "loudness": -5.919,
+        "mode": 1,
+        "speechiness": 0.0423,
+        "acousticness": 0.274,
+        "instrumentalness": 0,
+        "liveness": 0.167,
+        "valence": 0.373,
+        "tempo": 87.998,
+        "type": "audio_features",
+        "id": "7yNK27ZTpHew0c55VvIJgm",
+        "uri": "spotify:track:7yNK27ZTpHew0c55VvIJgm",
+        "track_href": "https://api.spotify.com/v1/tracks/7yNK27ZTpHew0c55VvIJgm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7yNK27ZTpHew0c55VvIJgm",
+        "duration_ms": 280787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "23SZWX2IaDnxmhFsSLvkG2",
+    "name": "Gorgeous",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 91.964,
+    "features": [
+      {
+        "danceability": 0.598,
+        "energy": 0.713,
+        "key": 6,
+        "loudness": -3.625,
+        "mode": 0,
+        "speechiness": 0.0326,
+        "acousticness": 0.0207,
+        "instrumentalness": 0.000175,
+        "liveness": 0.431,
+        "valence": 0.118,
+        "tempo": 91.964,
+        "type": "audio_features",
+        "id": "23SZWX2IaDnxmhFsSLvkG2",
+        "uri": "spotify:track:23SZWX2IaDnxmhFsSLvkG2",
+        "track_href": "https://api.spotify.com/v1/tracks/23SZWX2IaDnxmhFsSLvkG2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/23SZWX2IaDnxmhFsSLvkG2",
+        "duration_ms": 357653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2gZUPNdnz5Y45eiGxpHGSc",
+    "name": "POWER",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 153.993,
+    "features": [
+      {
+        "danceability": 0.542,
+        "energy": 0.914,
+        "key": 0,
+        "loudness": -4.747,
+        "mode": 0,
+        "speechiness": 0.113,
+        "acousticness": 0.0161,
+        "instrumentalness": 0,
+        "liveness": 0.744,
+        "valence": 0.576,
+        "tempo": 153.993,
+        "type": "audio_features",
+        "id": "2gZUPNdnz5Y45eiGxpHGSc",
+        "uri": "spotify:track:2gZUPNdnz5Y45eiGxpHGSc",
+        "track_href": "https://api.spotify.com/v1/tracks/2gZUPNdnz5Y45eiGxpHGSc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gZUPNdnz5Y45eiGxpHGSc",
+        "duration_ms": 292093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4D6TpthzUVNTjWQqfBW5Kb",
+    "name": "All Of The Lights (Interlude)",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 110.95,
+    "features": [
+      {
+        "danceability": 0.296,
+        "energy": 0.0792,
+        "key": 10,
+        "loudness": -16.569,
+        "mode": 0,
+        "speechiness": 0.0389,
+        "acousticness": 0.902,
+        "instrumentalness": 0.591,
+        "liveness": 0.128,
+        "valence": 0.496,
+        "tempo": 110.95,
+        "type": "audio_features",
+        "id": "4D6TpthzUVNTjWQqfBW5Kb",
+        "uri": "spotify:track:4D6TpthzUVNTjWQqfBW5Kb",
+        "track_href": "https://api.spotify.com/v1/tracks/4D6TpthzUVNTjWQqfBW5Kb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4D6TpthzUVNTjWQqfBW5Kb",
+        "duration_ms": 62253,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "22L7bfCiAkJo5xGSQgmiIO",
+    "name": "All Of The Lights",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 142.113,
+    "features": [
+      {
+        "danceability": 0.531,
+        "energy": 0.803,
+        "key": 1,
+        "loudness": -3.284,
+        "mode": 1,
+        "speechiness": 0.0717,
+        "acousticness": 0.0796,
+        "instrumentalness": 1.71e-05,
+        "liveness": 0.176,
+        "valence": 0.221,
+        "tempo": 142.113,
+        "type": "audio_features",
+        "id": "22L7bfCiAkJo5xGSQgmiIO",
+        "uri": "spotify:track:22L7bfCiAkJo5xGSQgmiIO",
+        "track_href": "https://api.spotify.com/v1/tracks/22L7bfCiAkJo5xGSQgmiIO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/22L7bfCiAkJo5xGSQgmiIO",
+        "duration_ms": 299613,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1ZHYJ2Wwgxes4m8Ba88PeK",
+    "name": "Monster",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 124.887,
+    "features": [
+      {
+        "danceability": 0.628,
+        "energy": 0.692,
+        "key": 2,
+        "loudness": -5.64,
+        "mode": 1,
+        "speechiness": 0.202,
+        "acousticness": 0.00244,
+        "instrumentalness": 0.0129,
+        "liveness": 0.668,
+        "valence": 0.0963,
+        "tempo": 124.887,
+        "type": "audio_features",
+        "id": "1ZHYJ2Wwgxes4m8Ba88PeK",
+        "uri": "spotify:track:1ZHYJ2Wwgxes4m8Ba88PeK",
+        "track_href": "https://api.spotify.com/v1/tracks/1ZHYJ2Wwgxes4m8Ba88PeK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ZHYJ2Wwgxes4m8Ba88PeK",
+        "duration_ms": 378893,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "6K07Ahf6V7CAQn0ikrOztl",
+    "name": "So Appalled",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 87.15,
+    "features": [
+      {
+        "danceability": 0.64,
+        "energy": 0.754,
+        "key": 1,
+        "loudness": -5.873,
+        "mode": 0,
+        "speechiness": 0.283,
+        "acousticness": 0.255,
+        "instrumentalness": 0,
+        "liveness": 0.63,
+        "valence": 0.584,
+        "tempo": 87.15,
+        "type": "audio_features",
+        "id": "6K07Ahf6V7CAQn0ikrOztl",
+        "uri": "spotify:track:6K07Ahf6V7CAQn0ikrOztl",
+        "track_href": "https://api.spotify.com/v1/tracks/6K07Ahf6V7CAQn0ikrOztl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6K07Ahf6V7CAQn0ikrOztl",
+        "duration_ms": 397667,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1UGD3lW3tDmgZfAVDh6w7r",
+    "name": "Devil In A New Dress",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 80.082,
+    "features": [
+      {
+        "danceability": 0.435,
+        "energy": 0.76,
+        "key": 8,
+        "loudness": -4.935,
+        "mode": 0,
+        "speechiness": 0.0721,
+        "acousticness": 0.0175,
+        "instrumentalness": 0,
+        "liveness": 0.158,
+        "valence": 0.206,
+        "tempo": 80.082,
+        "type": "audio_features",
+        "id": "1UGD3lW3tDmgZfAVDh6w7r",
+        "uri": "spotify:track:1UGD3lW3tDmgZfAVDh6w7r",
+        "track_href": "https://api.spotify.com/v1/tracks/1UGD3lW3tDmgZfAVDh6w7r",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1UGD3lW3tDmgZfAVDh6w7r",
+        "duration_ms": 351947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3DK6m7It6Pw857FcQftMds",
+    "name": "Runaway",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 84.733,
+    "features": [
+      {
+        "danceability": 0.374,
+        "energy": 0.568,
+        "key": 1,
+        "loudness": -3.825,
+        "mode": 0,
+        "speechiness": 0.109,
+        "acousticness": 0.219,
+        "instrumentalness": 0.00219,
+        "liveness": 0.513,
+        "valence": 0.111,
+        "tempo": 84.733,
+        "type": "audio_features",
+        "id": "3DK6m7It6Pw857FcQftMds",
+        "uri": "spotify:track:3DK6m7It6Pw857FcQftMds",
+        "track_href": "https://api.spotify.com/v1/tracks/3DK6m7It6Pw857FcQftMds",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3DK6m7It6Pw857FcQftMds",
+        "duration_ms": 547733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3rCNmRonlHN1TXQLcG3dSk",
+    "name": "Hell Of A Life",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 177.962,
+    "features": [
+      {
+        "danceability": 0.449,
+        "energy": 0.813,
+        "key": 8,
+        "loudness": -5.478,
+        "mode": 1,
+        "speechiness": 0.129,
+        "acousticness": 0.00142,
+        "instrumentalness": 0.000172,
+        "liveness": 0.106,
+        "valence": 0.452,
+        "tempo": 177.962,
+        "type": "audio_features",
+        "id": "3rCNmRonlHN1TXQLcG3dSk",
+        "uri": "spotify:track:3rCNmRonlHN1TXQLcG3dSk",
+        "track_href": "https://api.spotify.com/v1/tracks/3rCNmRonlHN1TXQLcG3dSk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3rCNmRonlHN1TXQLcG3dSk",
+        "duration_ms": 327787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4EndPA8b6FDWYp1RgsnLEB",
+    "name": "Blame Game",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 80.305,
+    "features": [
+      {
+        "danceability": 0.419,
+        "energy": 0.581,
+        "key": 10,
+        "loudness": -5.964,
+        "mode": 0,
+        "speechiness": 0.0688,
+        "acousticness": 0.306,
+        "instrumentalness": 6.3e-05,
+        "liveness": 0.11,
+        "valence": 0.636,
+        "tempo": 80.305,
+        "type": "audio_features",
+        "id": "4EndPA8b6FDWYp1RgsnLEB",
+        "uri": "spotify:track:4EndPA8b6FDWYp1RgsnLEB",
+        "track_href": "https://api.spotify.com/v1/tracks/4EndPA8b6FDWYp1RgsnLEB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4EndPA8b6FDWYp1RgsnLEB",
+        "duration_ms": 469867,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "2Im64pIz6m0EJKdUe6eZ8r",
+    "name": "Lost In The World",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 117.072,
+    "features": [
+      {
+        "danceability": 0.608,
+        "energy": 0.746,
+        "key": 5,
+        "loudness": -5.249,
+        "mode": 0,
+        "speechiness": 0.184,
+        "acousticness": 0.115,
+        "instrumentalness": 0.0087,
+        "liveness": 0.427,
+        "valence": 0.277,
+        "tempo": 117.072,
+        "type": "audio_features",
+        "id": "2Im64pIz6m0EJKdUe6eZ8r",
+        "uri": "spotify:track:2Im64pIz6m0EJKdUe6eZ8r",
+        "track_href": "https://api.spotify.com/v1/tracks/2Im64pIz6m0EJKdUe6eZ8r",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Im64pIz6m0EJKdUe6eZ8r",
+        "duration_ms": 256587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4e5IPJxSGVWPsaxQzdRseN",
+    "name": "Who Will Survive In America",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 116.166,
+    "features": [
+      {
+        "danceability": 0.677,
+        "energy": 0.842,
+        "key": 1,
+        "loudness": -6.111,
+        "mode": 1,
+        "speechiness": 0.36,
+        "acousticness": 0.228,
+        "instrumentalness": 0.000684,
+        "liveness": 0.856,
+        "valence": 0.595,
+        "tempo": 116.166,
+        "type": "audio_features",
+        "id": "4e5IPJxSGVWPsaxQzdRseN",
+        "uri": "spotify:track:4e5IPJxSGVWPsaxQzdRseN",
+        "track_href": "https://api.spotify.com/v1/tracks/4e5IPJxSGVWPsaxQzdRseN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4e5IPJxSGVWPsaxQzdRseN",
+        "duration_ms": 98200,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "3o3YwmhvMgLw9Vs0ICZ1qn",
+    "name": "Interstellar - First Step",
+    "artist": "Kyle Landry",
+    "album": "Interstellar - First Step",
+    "bpm": 75.136,
+    "features": [
+      {
+        "danceability": 0.233,
+        "energy": 0.065,
+        "key": 9,
+        "loudness": -21.868,
+        "mode": 0,
+        "speechiness": 0.0378,
+        "acousticness": 0.961,
+        "instrumentalness": 0.927,
+        "liveness": 0.061,
+        "valence": 0.0371,
+        "tempo": 75.136,
+        "type": "audio_features",
+        "id": "3o3YwmhvMgLw9Vs0ICZ1qn",
+        "uri": "spotify:track:3o3YwmhvMgLw9Vs0ICZ1qn",
+        "track_href": "https://api.spotify.com/v1/tracks/3o3YwmhvMgLw9Vs0ICZ1qn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3o3YwmhvMgLw9Vs0ICZ1qn",
+        "duration_ms": 508622,
+        "time_signature": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "4vQmIPjndEvsTcru39kxy8",
+    "name": "Deep Brown Noise | Sleep Sound (12 Hours)",
+    "artist": null,
+    "album": "White Noise and Sleep Sounds (12 Hours)",
+    "playlist": "brown noise playlist",
+    "bpm": NaN,
+    "features": [
+      null
+    ]
+  },
+  {
+    "id": "04boE4u1AupbrGlI62WvoO",
+    "name": "White Noise 3 Hour Long",
+    "artist": "White Noise Therapy",
+    "album": "White Noise 3 Hour Long",
+    "playlist": "brown noise playlist",
+    "bpm": NaN,
+    "features": [
+      null
+    ]
+  },
+  {
+    "id": "5sSoBock1ZOkM6srpxQaLG",
+    "name": "Dreamy Brown Noise",
+    "artist": "Focus Noise",
+    "album": "Dreamy Brown Noise",
+    "playlist": "brown noise playlist",
+    "bpm": 95.195,
+    "features": [
+      {
+        "danceability": 0.114,
+        "energy": 0.0861,
+        "key": 1,
+        "loudness": -37.856,
+        "mode": 1,
+        "speechiness": 0.154,
+        "acousticness": 0.124,
+        "instrumentalness": 0.243,
+        "liveness": 0.112,
+        "valence": 0.0663,
+        "tempo": 95.195,
+        "type": "audio_features",
+        "id": "5sSoBock1ZOkM6srpxQaLG",
+        "uri": "spotify:track:5sSoBock1ZOkM6srpxQaLG",
+        "track_href": "https://api.spotify.com/v1/tracks/5sSoBock1ZOkM6srpxQaLG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5sSoBock1ZOkM6srpxQaLG",
+        "duration_ms": 183500,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1wvBsgAAOSOsGvedOeoAPP",
+    "name": "Brown Noise Sleep",
+    "artist": "Everywhere Brown Noise",
+    "album": "Relax with Brown Noise",
+    "playlist": "brown noise playlist",
+    "bpm": 126.747,
+    "features": [
+      {
+        "danceability": 0.167,
+        "energy": 0.164,
+        "key": 10,
+        "loudness": -38.138,
+        "mode": 0,
+        "speechiness": 0.0874,
+        "acousticness": 0.896,
+        "instrumentalness": 0.963,
+        "liveness": 0.112,
+        "valence": 0.039,
+        "tempo": 126.747,
+        "type": "audio_features",
+        "id": "1wvBsgAAOSOsGvedOeoAPP",
+        "uri": "spotify:track:1wvBsgAAOSOsGvedOeoAPP",
+        "track_href": "https://api.spotify.com/v1/tracks/1wvBsgAAOSOsGvedOeoAPP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1wvBsgAAOSOsGvedOeoAPP",
+        "duration_ms": 218000,
+        "time_signature": 4
+      }
+    ]
+  }
+]

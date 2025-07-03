@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "5S6O5UYDS2dxVTY7JSF9xy",
+    "name": "Road to Hell",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 98.995,
+    "features": [
+      {
+        "danceability": 0.507,
+        "energy": 0.651,
+        "key": 8,
+        "loudness": -4.937,
+        "mode": 1,
+        "speechiness": 0.194,
+        "acousticness": 0.676,
+        "instrumentalness": 1.55e-05,
+        "liveness": 0.0642,
+        "valence": 0.7,
+        "tempo": 98.995,
+        "type": "audio_features",
+        "id": "5S6O5UYDS2dxVTY7JSF9xy",
+        "uri": "spotify:track:5S6O5UYDS2dxVTY7JSF9xy",
+        "track_href": "https://api.spotify.com/v1/tracks/5S6O5UYDS2dxVTY7JSF9xy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5S6O5UYDS2dxVTY7JSF9xy",
+        "duration_ms": 317879,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0HZq47ubBTbuUUPGSueUOh",
+    "name": "Any Way the Wind Blows",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 89.045,
+    "features": [
+      {
+        "danceability": 0.437,
+        "energy": 0.274,
+        "key": 5,
+        "loudness": -9.041,
+        "mode": 1,
+        "speechiness": 0.0622,
+        "acousticness": 0.888,
+        "instrumentalness": 0,
+        "liveness": 0.178,
+        "valence": 0.274,
+        "tempo": 89.045,
+        "type": "audio_features",
+        "id": "0HZq47ubBTbuUUPGSueUOh",
+        "uri": "spotify:track:0HZq47ubBTbuUUPGSueUOh",
+        "track_href": "https://api.spotify.com/v1/tracks/0HZq47ubBTbuUUPGSueUOh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0HZq47ubBTbuUUPGSueUOh",
+        "duration_ms": 225805,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "15r85VRFlKo2w8a5ymikr7",
+    "name": "Come Home with Me",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 183.961,
+    "features": [
+      {
+        "danceability": 0.499,
+        "energy": 0.314,
+        "key": 9,
+        "loudness": -10.737,
+        "mode": 1,
+        "speechiness": 0.139,
+        "acousticness": 0.811,
+        "instrumentalness": 0,
+        "liveness": 0.103,
+        "valence": 0.392,
+        "tempo": 183.961,
+        "type": "audio_features",
+        "id": "15r85VRFlKo2w8a5ymikr7",
+        "uri": "spotify:track:15r85VRFlKo2w8a5ymikr7",
+        "track_href": "https://api.spotify.com/v1/tracks/15r85VRFlKo2w8a5ymikr7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/15r85VRFlKo2w8a5ymikr7",
+        "duration_ms": 107650,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1yy0XglPOI5E8NKbtGH3OO",
+    "name": "Wedding Song",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 92.315,
+    "features": [
+      {
+        "danceability": 0.603,
+        "energy": 0.57,
+        "key": 7,
+        "loudness": -6.242,
+        "mode": 1,
+        "speechiness": 0.035,
+        "acousticness": 0.427,
+        "instrumentalness": 0.000674,
+        "liveness": 0.106,
+        "valence": 0.192,
+        "tempo": 92.315,
+        "type": "audio_features",
+        "id": "1yy0XglPOI5E8NKbtGH3OO",
+        "uri": "spotify:track:1yy0XglPOI5E8NKbtGH3OO",
+        "track_href": "https://api.spotify.com/v1/tracks/1yy0XglPOI5E8NKbtGH3OO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1yy0XglPOI5E8NKbtGH3OO",
+        "duration_ms": 213198,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0XmLRP1GkjjRrdIx0G75Dj",
+    "name": "Epic I",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 127.117,
+    "features": [
+      {
+        "danceability": 0.617,
+        "energy": 0.18,
+        "key": 5,
+        "loudness": -11.518,
+        "mode": 1,
+        "speechiness": 0.193,
+        "acousticness": 0.926,
+        "instrumentalness": 0,
+        "liveness": 0.1,
+        "valence": 0.405,
+        "tempo": 127.117,
+        "type": "audio_features",
+        "id": "0XmLRP1GkjjRrdIx0G75Dj",
+        "uri": "spotify:track:0XmLRP1GkjjRrdIx0G75Dj",
+        "track_href": "https://api.spotify.com/v1/tracks/0XmLRP1GkjjRrdIx0G75Dj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0XmLRP1GkjjRrdIx0G75Dj",
+        "duration_ms": 192891,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2IZiwBnwtrc0Fd8VIwAPeG",
+    "name": "Livin' it Up on Top",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 105.491,
+    "features": [
+      {
+        "danceability": 0.536,
+        "energy": 0.662,
+        "key": 0,
+        "loudness": -5.574,
+        "mode": 1,
+        "speechiness": 0.226,
+        "acousticness": 0.477,
+        "instrumentalness": 5.19e-05,
+        "liveness": 0.0504,
+        "valence": 0.504,
+        "tempo": 105.491,
+        "type": "audio_features",
+        "id": "2IZiwBnwtrc0Fd8VIwAPeG",
+        "uri": "spotify:track:2IZiwBnwtrc0Fd8VIwAPeG",
+        "track_href": "https://api.spotify.com/v1/tracks/2IZiwBnwtrc0Fd8VIwAPeG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2IZiwBnwtrc0Fd8VIwAPeG",
+        "duration_ms": 329696,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0irU6Rwf7WBfLIZ8i1DGur",
+    "name": "All I've Ever Known (\"In spite of herself...\") [Intro]",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 119.784,
+    "features": [
+      {
+        "danceability": 0.754,
+        "energy": 0.106,
+        "key": 10,
+        "loudness": -19.676,
+        "mode": 0,
+        "speechiness": 0.0443,
+        "acousticness": 0.921,
+        "instrumentalness": 0.00101,
+        "liveness": 0.111,
+        "valence": 0.59,
+        "tempo": 119.784,
+        "type": "audio_features",
+        "id": "0irU6Rwf7WBfLIZ8i1DGur",
+        "uri": "spotify:track:0irU6Rwf7WBfLIZ8i1DGur",
+        "track_href": "https://api.spotify.com/v1/tracks/0irU6Rwf7WBfLIZ8i1DGur",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0irU6Rwf7WBfLIZ8i1DGur",
+        "duration_ms": 40926,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0DBF9dFpekB4AMCYiR2SSY",
+    "name": "All I've Ever Known",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 119.897,
+    "features": [
+      {
+        "danceability": 0.647,
+        "energy": 0.276,
+        "key": 1,
+        "loudness": -10.793,
+        "mode": 1,
+        "speechiness": 0.0324,
+        "acousticness": 0.887,
+        "instrumentalness": 5.55e-05,
+        "liveness": 0.118,
+        "valence": 0.212,
+        "tempo": 119.897,
+        "type": "audio_features",
+        "id": "0DBF9dFpekB4AMCYiR2SSY",
+        "uri": "spotify:track:0DBF9dFpekB4AMCYiR2SSY",
+        "track_href": "https://api.spotify.com/v1/tracks/0DBF9dFpekB4AMCYiR2SSY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0DBF9dFpekB4AMCYiR2SSY",
+        "duration_ms": 243332,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5fnl0Tyeh4r5gPANdaVu61",
+    "name": "Way Down Hadestown",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 93.088,
+    "features": [
+      {
+        "danceability": 0.655,
+        "energy": 0.622,
+        "key": 10,
+        "loudness": -5.413,
+        "mode": 0,
+        "speechiness": 0.187,
+        "acousticness": 0.657,
+        "instrumentalness": 1.86e-05,
+        "liveness": 0.0637,
+        "valence": 0.547,
+        "tempo": 93.088,
+        "type": "audio_features",
+        "id": "5fnl0Tyeh4r5gPANdaVu61",
+        "uri": "spotify:track:5fnl0Tyeh4r5gPANdaVu61",
+        "track_href": "https://api.spotify.com/v1/tracks/5fnl0Tyeh4r5gPANdaVu61",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5fnl0Tyeh4r5gPANdaVu61",
+        "duration_ms": 300246,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4UjHCwSYfl0uWOyPktTv4u",
+    "name": "A Gathering Storm",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 110.146,
+    "features": [
+      {
+        "danceability": 0.326,
+        "energy": 0.299,
+        "key": 2,
+        "loudness": -10.527,
+        "mode": 0,
+        "speechiness": 0.0343,
+        "acousticness": 0.845,
+        "instrumentalness": 1.16e-05,
+        "liveness": 0.0797,
+        "valence": 0.174,
+        "tempo": 110.146,
+        "type": "audio_features",
+        "id": "4UjHCwSYfl0uWOyPktTv4u",
+        "uri": "spotify:track:4UjHCwSYfl0uWOyPktTv4u",
+        "track_href": "https://api.spotify.com/v1/tracks/4UjHCwSYfl0uWOyPktTv4u",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4UjHCwSYfl0uWOyPktTv4u",
+        "duration_ms": 93202,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0CqUTgTtbPMntR7LE8xdoa",
+    "name": "Epic II",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 134.686,
+    "features": [
+      {
+        "danceability": 0.499,
+        "energy": 0.416,
+        "key": 5,
+        "loudness": -6.829,
+        "mode": 1,
+        "speechiness": 0.0558,
+        "acousticness": 0.812,
+        "instrumentalness": 3.26e-06,
+        "liveness": 0.601,
+        "valence": 0.355,
+        "tempo": 134.686,
+        "type": "audio_features",
+        "id": "0CqUTgTtbPMntR7LE8xdoa",
+        "uri": "spotify:track:0CqUTgTtbPMntR7LE8xdoa",
+        "track_href": "https://api.spotify.com/v1/tracks/0CqUTgTtbPMntR7LE8xdoa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0CqUTgTtbPMntR7LE8xdoa",
+        "duration_ms": 146366,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "78Ii0NNdsL7wSQbYE50kAk",
+    "name": "Chant",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 93.992,
+    "features": [
+      {
+        "danceability": 0.566,
+        "energy": 0.561,
+        "key": 8,
+        "loudness": -6.662,
+        "mode": 0,
+        "speechiness": 0.0527,
+        "acousticness": 0.728,
+        "instrumentalness": 0,
+        "liveness": 0.134,
+        "valence": 0.501,
+        "tempo": 93.992,
+        "type": "audio_features",
+        "id": "78Ii0NNdsL7wSQbYE50kAk",
+        "uri": "spotify:track:78Ii0NNdsL7wSQbYE50kAk",
+        "track_href": "https://api.spotify.com/v1/tracks/78Ii0NNdsL7wSQbYE50kAk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/78Ii0NNdsL7wSQbYE50kAk",
+        "duration_ms": 391011,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3sinFkDuVOd2oJ8XKCyKuf",
+    "name": "Hey, Little Songbird",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 127.299,
+    "features": [
+      {
+        "danceability": 0.481,
+        "energy": 0.286,
+        "key": 0,
+        "loudness": -12.853,
+        "mode": 0,
+        "speechiness": 0.0664,
+        "acousticness": 0.38,
+        "instrumentalness": 0.000152,
+        "liveness": 0.234,
+        "valence": 0.247,
+        "tempo": 127.299,
+        "type": "audio_features",
+        "id": "3sinFkDuVOd2oJ8XKCyKuf",
+        "uri": "spotify:track:3sinFkDuVOd2oJ8XKCyKuf",
+        "track_href": "https://api.spotify.com/v1/tracks/3sinFkDuVOd2oJ8XKCyKuf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3sinFkDuVOd2oJ8XKCyKuf",
+        "duration_ms": 212618,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2L9kJVudxeW91NpF9pVAbG",
+    "name": "When the Chips are Down (\"Songbird vs. rattlesnake...\") [Intro]",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 95.473,
+    "features": [
+      {
+        "danceability": 0.64,
+        "energy": 0.406,
+        "key": 10,
+        "loudness": -14.417,
+        "mode": 0,
+        "speechiness": 0.653,
+        "acousticness": 0.904,
+        "instrumentalness": 0,
+        "liveness": 0.0967,
+        "valence": 0.473,
+        "tempo": 95.473,
+        "type": "audio_features",
+        "id": "2L9kJVudxeW91NpF9pVAbG",
+        "uri": "spotify:track:2L9kJVudxeW91NpF9pVAbG",
+        "track_href": "https://api.spotify.com/v1/tracks/2L9kJVudxeW91NpF9pVAbG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2L9kJVudxeW91NpF9pVAbG",
+        "duration_ms": 20265,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3csi3SryPTup0NhtRKidsm",
+    "name": "When the Chips are Down",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 96.053,
+    "features": [
+      {
+        "danceability": 0.801,
+        "energy": 0.762,
+        "key": 5,
+        "loudness": -6.136,
+        "mode": 0,
+        "speechiness": 0.0644,
+        "acousticness": 0.596,
+        "instrumentalness": 0.00036,
+        "liveness": 0.0505,
+        "valence": 0.809,
+        "tempo": 96.053,
+        "type": "audio_features",
+        "id": "3csi3SryPTup0NhtRKidsm",
+        "uri": "spotify:track:3csi3SryPTup0NhtRKidsm",
+        "track_href": "https://api.spotify.com/v1/tracks/3csi3SryPTup0NhtRKidsm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3csi3SryPTup0NhtRKidsm",
+        "duration_ms": 134251,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "65axyQvg2r4AjZHzV5xfhC",
+    "name": "Gone, I'm Gone",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 139.109,
+    "features": [
+      {
+        "danceability": 0.43,
+        "energy": 0.184,
+        "key": 0,
+        "loudness": -10.264,
+        "mode": 1,
+        "speechiness": 0.0459,
+        "acousticness": 0.827,
+        "instrumentalness": 0,
+        "liveness": 0.303,
+        "valence": 0.287,
+        "tempo": 139.109,
+        "type": "audio_features",
+        "id": "65axyQvg2r4AjZHzV5xfhC",
+        "uri": "spotify:track:65axyQvg2r4AjZHzV5xfhC",
+        "track_href": "https://api.spotify.com/v1/tracks/65axyQvg2r4AjZHzV5xfhC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/65axyQvg2r4AjZHzV5xfhC",
+        "duration_ms": 101170,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "6FNYKnVrG1u0IaMvVcUcMU",
+    "name": "Wait for Me (\"Hey, the big artiste...\") [Intro]",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 89.089,
+    "features": [
+      {
+        "danceability": 0.693,
+        "energy": 0.336,
+        "key": 9,
+        "loudness": -12.299,
+        "mode": 0,
+        "speechiness": 0.109,
+        "acousticness": 0.619,
+        "instrumentalness": 0,
+        "liveness": 0.489,
+        "valence": 0.178,
+        "tempo": 89.089,
+        "type": "audio_features",
+        "id": "6FNYKnVrG1u0IaMvVcUcMU",
+        "uri": "spotify:track:6FNYKnVrG1u0IaMvVcUcMU",
+        "track_href": "https://api.spotify.com/v1/tracks/6FNYKnVrG1u0IaMvVcUcMU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6FNYKnVrG1u0IaMvVcUcMU",
+        "duration_ms": 91425,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1dARoUpgYHvx33Qp8dawsZ",
+    "name": "Wait for Me",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 89.028,
+    "features": [
+      {
+        "danceability": 0.568,
+        "energy": 0.487,
+        "key": 2,
+        "loudness": -6.722,
+        "mode": 1,
+        "speechiness": 0.0468,
+        "acousticness": 0.443,
+        "instrumentalness": 0.000588,
+        "liveness": 0.107,
+        "valence": 0.117,
+        "tempo": 89.028,
+        "type": "audio_features",
+        "id": "1dARoUpgYHvx33Qp8dawsZ",
+        "uri": "spotify:track:1dARoUpgYHvx33Qp8dawsZ",
+        "track_href": "https://api.spotify.com/v1/tracks/1dARoUpgYHvx33Qp8dawsZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1dARoUpgYHvx33Qp8dawsZ",
+        "duration_ms": 214961,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "68oU2YXg4kwPpertTUFrC6",
+    "name": "Why We Build the Wall",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 80.318,
+    "features": [
+      {
+        "danceability": 0.563,
+        "energy": 0.457,
+        "key": 5,
+        "loudness": -7.19,
+        "mode": 1,
+        "speechiness": 0.0353,
+        "acousticness": 0.586,
+        "instrumentalness": 0.000229,
+        "liveness": 0.201,
+        "valence": 0.323,
+        "tempo": 80.318,
+        "type": "audio_features",
+        "id": "68oU2YXg4kwPpertTUFrC6",
+        "uri": "spotify:track:68oU2YXg4kwPpertTUFrC6",
+        "track_href": "https://api.spotify.com/v1/tracks/68oU2YXg4kwPpertTUFrC6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/68oU2YXg4kwPpertTUFrC6",
+        "duration_ms": 240194,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7A4IlN2Itx3gBOl6q2yW7q",
+    "name": "Why We Build the Wall (\"Behind closed doors...\") [Outro]",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 85.255,
+    "features": [
+      {
+        "danceability": 0.407,
+        "energy": 0.288,
+        "key": 2,
+        "loudness": -11.714,
+        "mode": 0,
+        "speechiness": 0.046,
+        "acousticness": 0.817,
+        "instrumentalness": 5.53e-06,
+        "liveness": 0.0677,
+        "valence": 0.356,
+        "tempo": 85.255,
+        "type": "audio_features",
+        "id": "7A4IlN2Itx3gBOl6q2yW7q",
+        "uri": "spotify:track:7A4IlN2Itx3gBOl6q2yW7q",
+        "track_href": "https://api.spotify.com/v1/tracks/7A4IlN2Itx3gBOl6q2yW7q",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7A4IlN2Itx3gBOl6q2yW7q",
+        "duration_ms": 57212,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1OQ6Jk2d4bv622LStoYapx",
+    "name": "Our Lady of the Underground",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 131.021,
+    "features": [
+      {
+        "danceability": 0.532,
+        "energy": 0.582,
+        "key": 11,
+        "loudness": -6.738,
+        "mode": 0,
+        "speechiness": 0.153,
+        "acousticness": 0.392,
+        "instrumentalness": 0.000164,
+        "liveness": 0.0831,
+        "valence": 0.402,
+        "tempo": 131.021,
+        "type": "audio_features",
+        "id": "1OQ6Jk2d4bv622LStoYapx",
+        "uri": "spotify:track:1OQ6Jk2d4bv622LStoYapx",
+        "track_href": "https://api.spotify.com/v1/tracks/1OQ6Jk2d4bv622LStoYapx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1OQ6Jk2d4bv622LStoYapx",
+        "duration_ms": 324031,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1FomWvYH5RqagHVHYj9OfC",
+    "name": "Way Down Hadestown (Reprise)",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 120.433,
+    "features": [
+      {
+        "danceability": 0.565,
+        "energy": 0.456,
+        "key": 0,
+        "loudness": -7.272,
+        "mode": 0,
+        "speechiness": 0.179,
+        "acousticness": 0.85,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "valence": 0.346,
+        "tempo": 120.433,
+        "type": "audio_features",
+        "id": "1FomWvYH5RqagHVHYj9OfC",
+        "uri": "spotify:track:1FomWvYH5RqagHVHYj9OfC",
+        "track_href": "https://api.spotify.com/v1/tracks/1FomWvYH5RqagHVHYj9OfC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1FomWvYH5RqagHVHYj9OfC",
+        "duration_ms": 230324,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "48PFfbnf0ZRcGCxO4zApPp",
+    "name": "Flowers",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 85.921,
+    "features": [
+      {
+        "danceability": 0.49,
+        "energy": 0.138,
+        "key": 4,
+        "loudness": -13.18,
+        "mode": 1,
+        "speechiness": 0.0344,
+        "acousticness": 0.829,
+        "instrumentalness": 0.000237,
+        "liveness": 0.12,
+        "valence": 0.15,
+        "tempo": 85.921,
+        "type": "audio_features",
+        "id": "48PFfbnf0ZRcGCxO4zApPp",
+        "uri": "spotify:track:48PFfbnf0ZRcGCxO4zApPp",
+        "track_href": "https://api.spotify.com/v1/tracks/48PFfbnf0ZRcGCxO4zApPp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/48PFfbnf0ZRcGCxO4zApPp",
+        "duration_ms": 211038,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7pa1vDDj9rhlw2ABngvF6D",
+    "name": "Come Home with Me (Reprise)",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 129.112,
+    "features": [
+      {
+        "danceability": 0.586,
+        "energy": 0.197,
+        "key": 0,
+        "loudness": -10.742,
+        "mode": 1,
+        "speechiness": 0.0452,
+        "acousticness": 0.878,
+        "instrumentalness": 3.33e-05,
+        "liveness": 0.15,
+        "valence": 0.407,
+        "tempo": 129.112,
+        "type": "audio_features",
+        "id": "7pa1vDDj9rhlw2ABngvF6D",
+        "uri": "spotify:track:7pa1vDDj9rhlw2ABngvF6D",
+        "track_href": "https://api.spotify.com/v1/tracks/7pa1vDDj9rhlw2ABngvF6D",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7pa1vDDj9rhlw2ABngvF6D",
+        "duration_ms": 61038,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1oVH404oz30kMDH3HgUooq",
+    "name": "Papers (\"You're not from around here, son...\") [Intro]",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 171.516,
+    "features": [
+      {
+        "danceability": 0.583,
+        "energy": 0.604,
+        "key": 11,
+        "loudness": -8.25,
+        "mode": 0,
+        "speechiness": 0.523,
+        "acousticness": 0.311,
+        "instrumentalness": 1.32e-06,
+        "liveness": 0.0293,
+        "valence": 0.443,
+        "tempo": 171.516,
+        "type": "audio_features",
+        "id": "1oVH404oz30kMDH3HgUooq",
+        "uri": "spotify:track:1oVH404oz30kMDH3HgUooq",
+        "track_href": "https://api.spotify.com/v1/tracks/1oVH404oz30kMDH3HgUooq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1oVH404oz30kMDH3HgUooq",
+        "duration_ms": 113818,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "14OjlLWKs63z4UI7OapYm8",
+    "name": "Papers - Instrumental",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 87.262,
+    "features": [
+      {
+        "danceability": 0.42,
+        "energy": 0.736,
+        "key": 0,
+        "loudness": -7.701,
+        "mode": 0,
+        "speechiness": 0.0405,
+        "acousticness": 0.0258,
+        "instrumentalness": 0.638,
+        "liveness": 0.494,
+        "valence": 0.721,
+        "tempo": 87.262,
+        "type": "audio_features",
+        "id": "14OjlLWKs63z4UI7OapYm8",
+        "uri": "spotify:track:14OjlLWKs63z4UI7OapYm8",
+        "track_href": "https://api.spotify.com/v1/tracks/14OjlLWKs63z4UI7OapYm8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/14OjlLWKs63z4UI7OapYm8",
+        "duration_ms": 73106,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "4MITx2mU5AihHNUVDPKEpE",
+    "name": "Nothing Changes",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 127.469,
+    "features": [
+      {
+        "danceability": 0.558,
+        "energy": 0.129,
+        "key": 5,
+        "loudness": -11.498,
+        "mode": 0,
+        "speechiness": 0.224,
+        "acousticness": 0.952,
+        "instrumentalness": 0,
+        "liveness": 0.204,
+        "valence": 0.193,
+        "tempo": 127.469,
+        "type": "audio_features",
+        "id": "4MITx2mU5AihHNUVDPKEpE",
+        "uri": "spotify:track:4MITx2mU5AihHNUVDPKEpE",
+        "track_href": "https://api.spotify.com/v1/tracks/4MITx2mU5AihHNUVDPKEpE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4MITx2mU5AihHNUVDPKEpE",
+        "duration_ms": 71775,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2IApCw6CLK9S59VeCfzs6Y",
+    "name": "If it's True",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 115.518,
+    "features": [
+      {
+        "danceability": 0.589,
+        "energy": 0.569,
+        "key": 10,
+        "loudness": -6.9,
+        "mode": 0,
+        "speechiness": 0.0462,
+        "acousticness": 0.614,
+        "instrumentalness": 0,
+        "liveness": 0.0896,
+        "valence": 0.247,
+        "tempo": 115.518,
+        "type": "audio_features",
+        "id": "2IApCw6CLK9S59VeCfzs6Y",
+        "uri": "spotify:track:2IApCw6CLK9S59VeCfzs6Y",
+        "track_href": "https://api.spotify.com/v1/tracks/2IApCw6CLK9S59VeCfzs6Y",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2IApCw6CLK9S59VeCfzs6Y",
+        "duration_ms": 253383,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3nOSvfxdOeIAaUYO0KMYox",
+    "name": "How Long?",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 94.887,
+    "features": [
+      {
+        "danceability": 0.391,
+        "energy": 0.374,
+        "key": 2,
+        "loudness": -11.914,
+        "mode": 0,
+        "speechiness": 0.0763,
+        "acousticness": 0.754,
+        "instrumentalness": 0.000209,
+        "liveness": 0.157,
+        "valence": 0.28,
+        "tempo": 94.887,
+        "type": "audio_features",
+        "id": "3nOSvfxdOeIAaUYO0KMYox",
+        "uri": "spotify:track:3nOSvfxdOeIAaUYO0KMYox",
+        "track_href": "https://api.spotify.com/v1/tracks/3nOSvfxdOeIAaUYO0KMYox",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3nOSvfxdOeIAaUYO0KMYox",
+        "duration_ms": 221159,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4OxpwmdDfxSv2pVrCI4Rt8",
+    "name": "Chant (Reprise)",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 93.76,
+    "features": [
+      {
+        "danceability": 0.666,
+        "energy": 0.601,
+        "key": 9,
+        "loudness": -6.822,
+        "mode": 1,
+        "speechiness": 0.137,
+        "acousticness": 0.746,
+        "instrumentalness": 0,
+        "liveness": 0.141,
+        "valence": 0.515,
+        "tempo": 93.76,
+        "type": "audio_features",
+        "id": "4OxpwmdDfxSv2pVrCI4Rt8",
+        "uri": "spotify:track:4OxpwmdDfxSv2pVrCI4Rt8",
+        "track_href": "https://api.spotify.com/v1/tracks/4OxpwmdDfxSv2pVrCI4Rt8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4OxpwmdDfxSv2pVrCI4Rt8",
+        "duration_ms": 241118,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0EWMHYcf5t9Gk7MWhgReEr",
+    "name": "Epic III",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 174.807,
+    "features": [
+      {
+        "danceability": 0.356,
+        "energy": 0.231,
+        "key": 5,
+        "loudness": -9.967,
+        "mode": 1,
+        "speechiness": 0.0707,
+        "acousticness": 0.829,
+        "instrumentalness": 0,
+        "liveness": 0.134,
+        "valence": 0.244,
+        "tempo": 174.807,
+        "type": "audio_features",
+        "id": "0EWMHYcf5t9Gk7MWhgReEr",
+        "uri": "spotify:track:0EWMHYcf5t9Gk7MWhgReEr",
+        "track_href": "https://api.spotify.com/v1/tracks/0EWMHYcf5t9Gk7MWhgReEr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0EWMHYcf5t9Gk7MWhgReEr",
+        "duration_ms": 351440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2hqT2TJCKmvexNRZngk3SD",
+    "name": "Epic III (\"They danced...\") - Instrumental",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 94.346,
+    "features": [
+      {
+        "danceability": 0.354,
+        "energy": 0.329,
+        "key": 5,
+        "loudness": -10.449,
+        "mode": 1,
+        "speechiness": 0.0317,
+        "acousticness": 0.71,
+        "instrumentalness": 0.103,
+        "liveness": 0.117,
+        "valence": 0.254,
+        "tempo": 94.346,
+        "type": "audio_features",
+        "id": "2hqT2TJCKmvexNRZngk3SD",
+        "uri": "spotify:track:2hqT2TJCKmvexNRZngk3SD",
+        "track_href": "https://api.spotify.com/v1/tracks/2hqT2TJCKmvexNRZngk3SD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2hqT2TJCKmvexNRZngk3SD",
+        "duration_ms": 99564,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2bwpVCOZAlZRYMWAOISXkv",
+    "name": "Promises",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 123.776,
+    "features": [
+      {
+        "danceability": 0.618,
+        "energy": 0.297,
+        "key": 9,
+        "loudness": -9.377,
+        "mode": 1,
+        "speechiness": 0.0381,
+        "acousticness": 0.751,
+        "instrumentalness": 1.82e-05,
+        "liveness": 0.098,
+        "valence": 0.245,
+        "tempo": 123.776,
+        "type": "audio_features",
+        "id": "2bwpVCOZAlZRYMWAOISXkv",
+        "uri": "spotify:track:2bwpVCOZAlZRYMWAOISXkv",
+        "track_href": "https://api.spotify.com/v1/tracks/2bwpVCOZAlZRYMWAOISXkv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2bwpVCOZAlZRYMWAOISXkv",
+        "duration_ms": 163970,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4P0KFyujfbjBmU4eb2Ev51",
+    "name": "Word to the Wise",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 86.943,
+    "features": [
+      {
+        "danceability": 0.593,
+        "energy": 0.346,
+        "key": 0,
+        "loudness": -8.214,
+        "mode": 0,
+        "speechiness": 0.148,
+        "acousticness": 0.93,
+        "instrumentalness": 0,
+        "liveness": 0.203,
+        "valence": 0.525,
+        "tempo": 86.943,
+        "type": "audio_features",
+        "id": "4P0KFyujfbjBmU4eb2Ev51",
+        "uri": "spotify:track:4P0KFyujfbjBmU4eb2Ev51",
+        "track_href": "https://api.spotify.com/v1/tracks/4P0KFyujfbjBmU4eb2Ev51",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4P0KFyujfbjBmU4eb2Ev51",
+        "duration_ms": 80278,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5COXzddFkxwPdVOcMe84fX",
+    "name": "His Kiss, the Riot",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 78.476,
+    "features": [
+      {
+        "danceability": 0.217,
+        "energy": 0.506,
+        "key": 10,
+        "loudness": -10.434,
+        "mode": 1,
+        "speechiness": 0.114,
+        "acousticness": 0.553,
+        "instrumentalness": 0.00517,
+        "liveness": 0.0878,
+        "valence": 0.229,
+        "tempo": 78.476,
+        "type": "audio_features",
+        "id": "5COXzddFkxwPdVOcMe84fX",
+        "uri": "spotify:track:5COXzddFkxwPdVOcMe84fX",
+        "track_href": "https://api.spotify.com/v1/tracks/5COXzddFkxwPdVOcMe84fX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5COXzddFkxwPdVOcMe84fX",
+        "duration_ms": 183794,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2naokPR0Inhpw9JgW4w956",
+    "name": "Wait for Me (\"If you wanna walk out of hell...\") - Intro; Reprise",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 91.951,
+    "features": [
+      {
+        "danceability": 0.717,
+        "energy": 0.323,
+        "key": 6,
+        "loudness": -14.467,
+        "mode": 0,
+        "speechiness": 0.078,
+        "acousticness": 0.676,
+        "instrumentalness": 1.22e-05,
+        "liveness": 0.234,
+        "valence": 0.333,
+        "tempo": 91.951,
+        "type": "audio_features",
+        "id": "2naokPR0Inhpw9JgW4w956",
+        "uri": "spotify:track:2naokPR0Inhpw9JgW4w956",
+        "track_href": "https://api.spotify.com/v1/tracks/2naokPR0Inhpw9JgW4w956",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2naokPR0Inhpw9JgW4w956",
+        "duration_ms": 96526,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3fJJ28RcXGkgKlgbgBSbc8",
+    "name": "Wait for Me (Reprise)",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 92.08,
+    "features": [
+      {
+        "danceability": 0.705,
+        "energy": 0.501,
+        "key": 0,
+        "loudness": -6.352,
+        "mode": 1,
+        "speechiness": 0.0933,
+        "acousticness": 0.576,
+        "instrumentalness": 3.62e-06,
+        "liveness": 0.636,
+        "valence": 0.203,
+        "tempo": 92.08,
+        "type": "audio_features",
+        "id": "3fJJ28RcXGkgKlgbgBSbc8",
+        "uri": "spotify:track:3fJJ28RcXGkgKlgbgBSbc8",
+        "track_href": "https://api.spotify.com/v1/tracks/3fJJ28RcXGkgKlgbgBSbc8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3fJJ28RcXGkgKlgbgBSbc8",
+        "duration_ms": 192282,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1vmanLxFqqfhUs0oBGydmo",
+    "name": "Doubt Comes In",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 83.785,
+    "features": [
+      {
+        "danceability": 0.376,
+        "energy": 0.34,
+        "key": 7,
+        "loudness": -8.998,
+        "mode": 0,
+        "speechiness": 0.0321,
+        "acousticness": 0.687,
+        "instrumentalness": 0.000778,
+        "liveness": 0.214,
+        "valence": 0.0649,
+        "tempo": 83.785,
+        "type": "audio_features",
+        "id": "1vmanLxFqqfhUs0oBGydmo",
+        "uri": "spotify:track:1vmanLxFqqfhUs0oBGydmo",
+        "track_href": "https://api.spotify.com/v1/tracks/1vmanLxFqqfhUs0oBGydmo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1vmanLxFqqfhUs0oBGydmo",
+        "duration_ms": 291959,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2GMLTm3qlHmKkHnQA3wuRn",
+    "name": "Road to Hell (Reprise)",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 106.382,
+    "features": [
+      {
+        "danceability": 0.48,
+        "energy": 0.182,
+        "key": 10,
+        "loudness": -10.4,
+        "mode": 1,
+        "speechiness": 0.0695,
+        "acousticness": 0.778,
+        "instrumentalness": 2.09e-05,
+        "liveness": 0.108,
+        "valence": 0.23,
+        "tempo": 106.382,
+        "type": "audio_features",
+        "id": "2GMLTm3qlHmKkHnQA3wuRn",
+        "uri": "spotify:track:2GMLTm3qlHmKkHnQA3wuRn",
+        "track_href": "https://api.spotify.com/v1/tracks/2GMLTm3qlHmKkHnQA3wuRn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2GMLTm3qlHmKkHnQA3wuRn",
+        "duration_ms": 305491,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7hDMTdph3j6w7XQJ7DgJLj",
+    "name": "We Raise Our Cups",
+    "artist": "Original Broadway Cast of Hadestown",
+    "album": "Hadestown (Original Broadway Cast Recording)",
+    "bpm": 125.522,
+    "features": [
+      {
+        "danceability": 0.602,
+        "energy": 0.136,
+        "key": 1,
+        "loudness": -11.055,
+        "mode": 0,
+        "speechiness": 0.0379,
+        "acousticness": 0.9,
+        "instrumentalness": 0,
+        "liveness": 0.103,
+        "valence": 0.127,
+        "tempo": 125.522,
+        "type": "audio_features",
+        "id": "7hDMTdph3j6w7XQJ7DgJLj",
+        "uri": "spotify:track:7hDMTdph3j6w7XQJ7DgJLj",
+        "track_href": "https://api.spotify.com/v1/tracks/7hDMTdph3j6w7XQJ7DgJLj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7hDMTdph3j6w7XQJ7DgJLj",
+        "duration_ms": 125008,
+        "time_signature": 3
+      }
+    ]
+  }
+]

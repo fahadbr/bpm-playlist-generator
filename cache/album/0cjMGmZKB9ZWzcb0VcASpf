@@ -1,0 +1,321 @@
+[
+  {
+    "id": "3LqnOFWrX9I5jTjA7cUWjD",
+    "name": "Perfect World",
+    "artist": "Broken Bells",
+    "album": "After the Disco",
+    "bpm": 155.988,
+    "features": [
+      {
+        "danceability": 0.553,
+        "energy": 0.885,
+        "key": 1,
+        "loudness": -7.334,
+        "mode": 0,
+        "speechiness": 0.0328,
+        "acousticness": 0.0158,
+        "instrumentalness": 0.00198,
+        "liveness": 0.0927,
+        "valence": 0.767,
+        "tempo": 155.988,
+        "type": "audio_features",
+        "id": "3LqnOFWrX9I5jTjA7cUWjD",
+        "uri": "spotify:track:3LqnOFWrX9I5jTjA7cUWjD",
+        "track_href": "https://api.spotify.com/v1/tracks/3LqnOFWrX9I5jTjA7cUWjD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3LqnOFWrX9I5jTjA7cUWjD",
+        "duration_ms": 384427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1MmDfBzGsWKXb0rQfTyvOy",
+    "name": "After the Disco",
+    "artist": "Broken Bells",
+    "album": "After the Disco",
+    "bpm": 115.984,
+    "features": [
+      {
+        "danceability": 0.729,
+        "energy": 0.74,
+        "key": 9,
+        "loudness": -5.444,
+        "mode": 1,
+        "speechiness": 0.0258,
+        "acousticness": 0.00226,
+        "instrumentalness": 0.0305,
+        "liveness": 0.13,
+        "valence": 0.966,
+        "tempo": 115.984,
+        "type": "audio_features",
+        "id": "1MmDfBzGsWKXb0rQfTyvOy",
+        "uri": "spotify:track:1MmDfBzGsWKXb0rQfTyvOy",
+        "track_href": "https://api.spotify.com/v1/tracks/1MmDfBzGsWKXb0rQfTyvOy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1MmDfBzGsWKXb0rQfTyvOy",
+        "duration_ms": 219293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "757PJjXAgywxrYkdhMkEV9",
+    "name": "Holding on for Life",
+    "artist": "Broken Bells",
+    "album": "After the Disco",
+    "bpm": 168.847,
+    "features": [
+      {
+        "danceability": 0.342,
+        "energy": 0.587,
+        "key": 11,
+        "loudness": -7.273,
+        "mode": 0,
+        "speechiness": 0.0537,
+        "acousticness": 0.00648,
+        "instrumentalness": 0.0995,
+        "liveness": 0.207,
+        "valence": 0.484,
+        "tempo": 168.847,
+        "type": "audio_features",
+        "id": "757PJjXAgywxrYkdhMkEV9",
+        "uri": "spotify:track:757PJjXAgywxrYkdhMkEV9",
+        "track_href": "https://api.spotify.com/v1/tracks/757PJjXAgywxrYkdhMkEV9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/757PJjXAgywxrYkdhMkEV9",
+        "duration_ms": 236867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7uLpd43d2fKFDUD3IyXeAi",
+    "name": "Leave It Alone",
+    "artist": "Broken Bells",
+    "album": "After the Disco",
+    "bpm": 141.987,
+    "features": [
+      {
+        "danceability": 0.499,
+        "energy": 0.444,
+        "key": 1,
+        "loudness": -8.749,
+        "mode": 1,
+        "speechiness": 0.026,
+        "acousticness": 0.641,
+        "instrumentalness": 0.00348,
+        "liveness": 0.122,
+        "valence": 0.484,
+        "tempo": 141.987,
+        "type": "audio_features",
+        "id": "7uLpd43d2fKFDUD3IyXeAi",
+        "uri": "spotify:track:7uLpd43d2fKFDUD3IyXeAi",
+        "track_href": "https://api.spotify.com/v1/tracks/7uLpd43d2fKFDUD3IyXeAi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7uLpd43d2fKFDUD3IyXeAi",
+        "duration_ms": 330853,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1TefJ43egrnGQfvBvAcZvQ",
+    "name": "The Changing Lights",
+    "artist": "Broken Bells",
+    "album": "After the Disco",
+    "bpm": 133.059,
+    "features": [
+      {
+        "danceability": 0.668,
+        "energy": 0.764,
+        "key": 4,
+        "loudness": -7.051,
+        "mode": 0,
+        "speechiness": 0.0373,
+        "acousticness": 0.286,
+        "instrumentalness": 0.0352,
+        "liveness": 0.183,
+        "valence": 0.886,
+        "tempo": 133.059,
+        "type": "audio_features",
+        "id": "1TefJ43egrnGQfvBvAcZvQ",
+        "uri": "spotify:track:1TefJ43egrnGQfvBvAcZvQ",
+        "track_href": "https://api.spotify.com/v1/tracks/1TefJ43egrnGQfvBvAcZvQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1TefJ43egrnGQfvBvAcZvQ",
+        "duration_ms": 228547,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1QZJiYulh7ak7GpZ8OAdwI",
+    "name": "Control",
+    "artist": "Broken Bells",
+    "album": "After the Disco",
+    "bpm": 113.999,
+    "features": [
+      {
+        "danceability": 0.741,
+        "energy": 0.634,
+        "key": 9,
+        "loudness": -6.625,
+        "mode": 0,
+        "speechiness": 0.0264,
+        "acousticness": 0.00676,
+        "instrumentalness": 2.59e-05,
+        "liveness": 0.337,
+        "valence": 0.951,
+        "tempo": 113.999,
+        "type": "audio_features",
+        "id": "1QZJiYulh7ak7GpZ8OAdwI",
+        "uri": "spotify:track:1QZJiYulh7ak7GpZ8OAdwI",
+        "track_href": "https://api.spotify.com/v1/tracks/1QZJiYulh7ak7GpZ8OAdwI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1QZJiYulh7ak7GpZ8OAdwI",
+        "duration_ms": 221427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "67oZ3miFAzcJSt8878Ppk0",
+    "name": "Lazy Wonderland",
+    "artist": "Broken Bells",
+    "album": "After the Disco",
+    "bpm": 124.939,
+    "features": [
+      {
+        "danceability": 0.649,
+        "energy": 0.436,
+        "key": 3,
+        "loudness": -8.01,
+        "mode": 1,
+        "speechiness": 0.0266,
+        "acousticness": 0.481,
+        "instrumentalness": 1.62e-05,
+        "liveness": 0.0758,
+        "valence": 0.614,
+        "tempo": 124.939,
+        "type": "audio_features",
+        "id": "67oZ3miFAzcJSt8878Ppk0",
+        "uri": "spotify:track:67oZ3miFAzcJSt8878Ppk0",
+        "track_href": "https://api.spotify.com/v1/tracks/67oZ3miFAzcJSt8878Ppk0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/67oZ3miFAzcJSt8878Ppk0",
+        "duration_ms": 201787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3jaOfXYnWg49JrTZnrryx4",
+    "name": "Medicine",
+    "artist": "Broken Bells",
+    "album": "After the Disco",
+    "bpm": 122.021,
+    "features": [
+      {
+        "danceability": 0.765,
+        "energy": 0.686,
+        "key": 11,
+        "loudness": -7.191,
+        "mode": 0,
+        "speechiness": 0.0367,
+        "acousticness": 0.18,
+        "instrumentalness": 0.000837,
+        "liveness": 0.153,
+        "valence": 0.569,
+        "tempo": 122.021,
+        "type": "audio_features",
+        "id": "3jaOfXYnWg49JrTZnrryx4",
+        "uri": "spotify:track:3jaOfXYnWg49JrTZnrryx4",
+        "track_href": "https://api.spotify.com/v1/tracks/3jaOfXYnWg49JrTZnrryx4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3jaOfXYnWg49JrTZnrryx4",
+        "duration_ms": 208693,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0JgZO1d9PMhgrA1F3GCbsQ",
+    "name": "No Matter What You're Told",
+    "artist": "Broken Bells",
+    "album": "After the Disco",
+    "bpm": 124.969,
+    "features": [
+      {
+        "danceability": 0.725,
+        "energy": 0.797,
+        "key": 7,
+        "loudness": -7.167,
+        "mode": 1,
+        "speechiness": 0.0378,
+        "acousticness": 0.163,
+        "instrumentalness": 0,
+        "liveness": 0.171,
+        "valence": 0.934,
+        "tempo": 124.969,
+        "type": "audio_features",
+        "id": "0JgZO1d9PMhgrA1F3GCbsQ",
+        "uri": "spotify:track:0JgZO1d9PMhgrA1F3GCbsQ",
+        "track_href": "https://api.spotify.com/v1/tracks/0JgZO1d9PMhgrA1F3GCbsQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0JgZO1d9PMhgrA1F3GCbsQ",
+        "duration_ms": 230720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0fd0506d5oBAQDyBF6TZ05",
+    "name": "The Angel and the Fool",
+    "artist": "Broken Bells",
+    "album": "After the Disco",
+    "bpm": 75.006,
+    "features": [
+      {
+        "danceability": 0.597,
+        "energy": 0.323,
+        "key": 5,
+        "loudness": -11.992,
+        "mode": 1,
+        "speechiness": 0.039,
+        "acousticness": 0.613,
+        "instrumentalness": 0.828,
+        "liveness": 0.0799,
+        "valence": 0.358,
+        "tempo": 75.006,
+        "type": "audio_features",
+        "id": "0fd0506d5oBAQDyBF6TZ05",
+        "uri": "spotify:track:0fd0506d5oBAQDyBF6TZ05",
+        "track_href": "https://api.spotify.com/v1/tracks/0fd0506d5oBAQDyBF6TZ05",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0fd0506d5oBAQDyBF6TZ05",
+        "duration_ms": 195080,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3DXJaOI3mI10QkPhRu3r2p",
+    "name": "The Remains of Rock & Roll",
+    "artist": "Broken Bells",
+    "album": "After the Disco",
+    "bpm": 111.984,
+    "features": [
+      {
+        "danceability": 0.622,
+        "energy": 0.676,
+        "key": 0,
+        "loudness": -6.385,
+        "mode": 1,
+        "speechiness": 0.0252,
+        "acousticness": 0.012,
+        "instrumentalness": 1.82e-05,
+        "liveness": 0.0804,
+        "valence": 0.709,
+        "tempo": 111.984,
+        "type": "audio_features",
+        "id": "3DXJaOI3mI10QkPhRu3r2p",
+        "uri": "spotify:track:3DXJaOI3mI10QkPhRu3r2p",
+        "track_href": "https://api.spotify.com/v1/tracks/3DXJaOI3mI10QkPhRu3r2p",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3DXJaOI3mI10QkPhRu3r2p",
+        "duration_ms": 294520,
+        "time_signature": 3
+      }
+    ]
+  }
+]

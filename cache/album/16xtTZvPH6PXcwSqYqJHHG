@@ -1,0 +1,292 @@
+[
+  {
+    "id": "0hfByzDRgR10HDLqm89lA9",
+    "name": "Stay Frosty Royal Milk Tea",
+    "artist": "Fall Out Boy",
+    "album": "MANIA",
+    "bpm": 145.886,
+    "features": [
+      {
+        "danceability": 0.465,
+        "energy": 0.872,
+        "key": 8,
+        "loudness": -4.653,
+        "mode": 0,
+        "speechiness": 0.0647,
+        "acousticness": 0.000643,
+        "instrumentalness": 6.57e-06,
+        "liveness": 0.25,
+        "valence": 0.68,
+        "tempo": 145.886,
+        "type": "audio_features",
+        "id": "0hfByzDRgR10HDLqm89lA9",
+        "uri": "spotify:track:0hfByzDRgR10HDLqm89lA9",
+        "track_href": "https://api.spotify.com/v1/tracks/0hfByzDRgR10HDLqm89lA9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0hfByzDRgR10HDLqm89lA9",
+        "duration_ms": 171053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1f6xYh2HSx8ttCjl4Pckep",
+    "name": "The Last Of The Real Ones",
+    "artist": "Fall Out Boy",
+    "album": "MANIA",
+    "bpm": 115.034,
+    "features": [
+      {
+        "danceability": 0.577,
+        "energy": 0.872,
+        "key": 8,
+        "loudness": -5.294,
+        "mode": 1,
+        "speechiness": 0.0471,
+        "acousticness": 0.00594,
+        "instrumentalness": 0,
+        "liveness": 0.192,
+        "valence": 0.557,
+        "tempo": 115.034,
+        "type": "audio_features",
+        "id": "1f6xYh2HSx8ttCjl4Pckep",
+        "uri": "spotify:track:1f6xYh2HSx8ttCjl4Pckep",
+        "track_href": "https://api.spotify.com/v1/tracks/1f6xYh2HSx8ttCjl4Pckep",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1f6xYh2HSx8ttCjl4Pckep",
+        "duration_ms": 230400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Q9vbV7G2Q6lts13nY9YGP",
+    "name": "HOLD ME TIGHT OR DON\u2019T",
+    "artist": "Fall Out Boy",
+    "album": "MANIA",
+    "bpm": 95.988,
+    "features": [
+      {
+        "danceability": 0.582,
+        "energy": 0.925,
+        "key": 6,
+        "loudness": -4.363,
+        "mode": 0,
+        "speechiness": 0.0523,
+        "acousticness": 0.00695,
+        "instrumentalness": 3.08e-06,
+        "liveness": 0.108,
+        "valence": 0.788,
+        "tempo": 95.988,
+        "type": "audio_features",
+        "id": "0Q9vbV7G2Q6lts13nY9YGP",
+        "uri": "spotify:track:0Q9vbV7G2Q6lts13nY9YGP",
+        "track_href": "https://api.spotify.com/v1/tracks/0Q9vbV7G2Q6lts13nY9YGP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Q9vbV7G2Q6lts13nY9YGP",
+        "duration_ms": 210360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2W6kVW3UZ3hwr4qbfCDp6B",
+    "name": "Wilson (Expensive Mistakes)",
+    "artist": "Fall Out Boy",
+    "album": "MANIA",
+    "bpm": 152.032,
+    "features": [
+      {
+        "danceability": 0.492,
+        "energy": 0.807,
+        "key": 6,
+        "loudness": -4.372,
+        "mode": 1,
+        "speechiness": 0.0597,
+        "acousticness": 0.0242,
+        "instrumentalness": 0,
+        "liveness": 0.107,
+        "valence": 0.657,
+        "tempo": 152.032,
+        "type": "audio_features",
+        "id": "2W6kVW3UZ3hwr4qbfCDp6B",
+        "uri": "spotify:track:2W6kVW3UZ3hwr4qbfCDp6B",
+        "track_href": "https://api.spotify.com/v1/tracks/2W6kVW3UZ3hwr4qbfCDp6B",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2W6kVW3UZ3hwr4qbfCDp6B",
+        "duration_ms": 216933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0OUQhRKgGSb0PPrLUuEQka",
+    "name": "Church",
+    "artist": "Fall Out Boy",
+    "album": "MANIA",
+    "bpm": 168.003,
+    "features": [
+      {
+        "danceability": 0.37,
+        "energy": 0.901,
+        "key": 6,
+        "loudness": -3.393,
+        "mode": 0,
+        "speechiness": 0.05,
+        "acousticness": 0.0014,
+        "instrumentalness": 0,
+        "liveness": 0.25,
+        "valence": 0.403,
+        "tempo": 168.003,
+        "type": "audio_features",
+        "id": "0OUQhRKgGSb0PPrLUuEQka",
+        "uri": "spotify:track:0OUQhRKgGSb0PPrLUuEQka",
+        "track_href": "https://api.spotify.com/v1/tracks/0OUQhRKgGSb0PPrLUuEQka",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0OUQhRKgGSb0PPrLUuEQka",
+        "duration_ms": 211827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4lN5YgMQNBANIKWSl6G54k",
+    "name": "Heaven\u2019s Gate",
+    "artist": "Fall Out Boy",
+    "album": "MANIA",
+    "bpm": 176.065,
+    "features": [
+      {
+        "danceability": 0.403,
+        "energy": 0.586,
+        "key": 6,
+        "loudness": -4.975,
+        "mode": 0,
+        "speechiness": 0.034,
+        "acousticness": 0.0166,
+        "instrumentalness": 0,
+        "liveness": 0.334,
+        "valence": 0.213,
+        "tempo": 176.065,
+        "type": "audio_features",
+        "id": "4lN5YgMQNBANIKWSl6G54k",
+        "uri": "spotify:track:4lN5YgMQNBANIKWSl6G54k",
+        "track_href": "https://api.spotify.com/v1/tracks/4lN5YgMQNBANIKWSl6G54k",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4lN5YgMQNBANIKWSl6G54k",
+        "duration_ms": 225707,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1DRUwJSt2YOUUEz965OJ66",
+    "name": "Champion",
+    "artist": "Fall Out Boy",
+    "album": "MANIA",
+    "bpm": 187.784,
+    "features": [
+      {
+        "danceability": 0.308,
+        "energy": 0.905,
+        "key": 0,
+        "loudness": -4.109,
+        "mode": 1,
+        "speechiness": 0.254,
+        "acousticness": 0.000934,
+        "instrumentalness": 3.19e-05,
+        "liveness": 0.431,
+        "valence": 0.309,
+        "tempo": 187.784,
+        "type": "audio_features",
+        "id": "1DRUwJSt2YOUUEz965OJ66",
+        "uri": "spotify:track:1DRUwJSt2YOUUEz965OJ66",
+        "track_href": "https://api.spotify.com/v1/tracks/1DRUwJSt2YOUUEz965OJ66",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1DRUwJSt2YOUUEz965OJ66",
+        "duration_ms": 192533,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0ZqqrBHeSeyZahfcyw9N8O",
+    "name": "Sunshine Riptide",
+    "artist": "Fall Out Boy",
+    "album": "MANIA",
+    "bpm": 133.98,
+    "features": [
+      {
+        "danceability": 0.584,
+        "energy": 0.732,
+        "key": 11,
+        "loudness": -5.186,
+        "mode": 1,
+        "speechiness": 0.0386,
+        "acousticness": 0.00165,
+        "instrumentalness": 0,
+        "liveness": 0.0462,
+        "valence": 0.805,
+        "tempo": 133.98,
+        "type": "audio_features",
+        "id": "0ZqqrBHeSeyZahfcyw9N8O",
+        "uri": "spotify:track:0ZqqrBHeSeyZahfcyw9N8O",
+        "track_href": "https://api.spotify.com/v1/tracks/0ZqqrBHeSeyZahfcyw9N8O",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ZqqrBHeSeyZahfcyw9N8O",
+        "duration_ms": 204813,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2wQA22CbUkSD38g5Doqd9a",
+    "name": "Young And Menace",
+    "artist": "Fall Out Boy",
+    "album": "MANIA",
+    "bpm": 107.998,
+    "features": [
+      {
+        "danceability": 0.646,
+        "energy": 0.832,
+        "key": 11,
+        "loudness": -5.131,
+        "mode": 1,
+        "speechiness": 0.0574,
+        "acousticness": 0.109,
+        "instrumentalness": 0.000486,
+        "liveness": 0.121,
+        "valence": 0.271,
+        "tempo": 107.998,
+        "type": "audio_features",
+        "id": "2wQA22CbUkSD38g5Doqd9a",
+        "uri": "spotify:track:2wQA22CbUkSD38g5Doqd9a",
+        "track_href": "https://api.spotify.com/v1/tracks/2wQA22CbUkSD38g5Doqd9a",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2wQA22CbUkSD38g5Doqd9a",
+        "duration_ms": 223947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5lKI9qLSJkWWJ6USwMu6jF",
+    "name": "Bishops Knife Trick",
+    "artist": "Fall Out Boy",
+    "album": "MANIA",
+    "bpm": 139.854,
+    "features": [
+      {
+        "danceability": 0.442,
+        "energy": 0.755,
+        "key": 9,
+        "loudness": -4.818,
+        "mode": 0,
+        "speechiness": 0.0356,
+        "acousticness": 0.0138,
+        "instrumentalness": 0,
+        "liveness": 0.0903,
+        "valence": 0.383,
+        "tempo": 139.854,
+        "type": "audio_features",
+        "id": "5lKI9qLSJkWWJ6USwMu6jF",
+        "uri": "spotify:track:5lKI9qLSJkWWJ6USwMu6jF",
+        "track_href": "https://api.spotify.com/v1/tracks/5lKI9qLSJkWWJ6USwMu6jF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5lKI9qLSJkWWJ6USwMu6jF",
+        "duration_ms": 263227,
+        "time_signature": 4
+      }
+    ]
+  }
+]

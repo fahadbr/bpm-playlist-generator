@@ -1,0 +1,205 @@
+[
+  {
+    "id": "6bGwKHXHNLmTy6yt147FPh",
+    "name": "If You Know You Know",
+    "artist": "Pusha T",
+    "album": "DAYTONA",
+    "bpm": 153.426,
+    "features": [
+      {
+        "danceability": 0.46,
+        "energy": 0.697,
+        "key": 6,
+        "loudness": -5.954,
+        "mode": 0,
+        "speechiness": 0.325,
+        "acousticness": 0.0186,
+        "instrumentalness": 0,
+        "liveness": 0.362,
+        "valence": 0.701,
+        "tempo": 153.426,
+        "type": "audio_features",
+        "id": "6bGwKHXHNLmTy6yt147FPh",
+        "uri": "spotify:track:6bGwKHXHNLmTy6yt147FPh",
+        "track_href": "https://api.spotify.com/v1/tracks/6bGwKHXHNLmTy6yt147FPh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6bGwKHXHNLmTy6yt147FPh",
+        "duration_ms": 202120,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7iEoaTyBCqLaAwJnOP1BTn",
+    "name": "The Games We Play",
+    "artist": "Pusha T",
+    "album": "DAYTONA",
+    "bpm": 78.035,
+    "features": [
+      {
+        "danceability": 0.695,
+        "energy": 0.796,
+        "key": 5,
+        "loudness": -3.696,
+        "mode": 1,
+        "speechiness": 0.171,
+        "acousticness": 0.0713,
+        "instrumentalness": 0.0163,
+        "liveness": 0.096,
+        "valence": 0.598,
+        "tempo": 78.035,
+        "type": "audio_features",
+        "id": "7iEoaTyBCqLaAwJnOP1BTn",
+        "uri": "spotify:track:7iEoaTyBCqLaAwJnOP1BTn",
+        "track_href": "https://api.spotify.com/v1/tracks/7iEoaTyBCqLaAwJnOP1BTn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7iEoaTyBCqLaAwJnOP1BTn",
+        "duration_ms": 166120,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3HgA5R5alihocnOYE9ihpS",
+    "name": "Hard Piano",
+    "artist": "Pusha T",
+    "album": "DAYTONA",
+    "bpm": 82.2,
+    "features": [
+      {
+        "danceability": 0.56,
+        "energy": 0.775,
+        "key": 4,
+        "loudness": -3.774,
+        "mode": 0,
+        "speechiness": 0.18,
+        "acousticness": 0.035,
+        "instrumentalness": 0,
+        "liveness": 0.21,
+        "valence": 0.212,
+        "tempo": 82.2,
+        "type": "audio_features",
+        "id": "3HgA5R5alihocnOYE9ihpS",
+        "uri": "spotify:track:3HgA5R5alihocnOYE9ihpS",
+        "track_href": "https://api.spotify.com/v1/tracks/3HgA5R5alihocnOYE9ihpS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3HgA5R5alihocnOYE9ihpS",
+        "duration_ms": 195733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2BuBXn15gj4MNYZydyWgrk",
+    "name": "Come Back Baby",
+    "artist": "Pusha T",
+    "album": "DAYTONA",
+    "bpm": 92.001,
+    "features": [
+      {
+        "danceability": 0.874,
+        "energy": 0.485,
+        "key": 0,
+        "loudness": -3.026,
+        "mode": 1,
+        "speechiness": 0.171,
+        "acousticness": 0.0487,
+        "instrumentalness": 0,
+        "liveness": 0.299,
+        "valence": 0.322,
+        "tempo": 92.001,
+        "type": "audio_features",
+        "id": "2BuBXn15gj4MNYZydyWgrk",
+        "uri": "spotify:track:2BuBXn15gj4MNYZydyWgrk",
+        "track_href": "https://api.spotify.com/v1/tracks/2BuBXn15gj4MNYZydyWgrk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2BuBXn15gj4MNYZydyWgrk",
+        "duration_ms": 206707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4LKSaRoKNnlpKXTT663BrT",
+    "name": "Santeria",
+    "artist": "Pusha T",
+    "album": "DAYTONA",
+    "bpm": 88.231,
+    "features": [
+      {
+        "danceability": 0.621,
+        "energy": 0.678,
+        "key": 8,
+        "loudness": -4.104,
+        "mode": 1,
+        "speechiness": 0.197,
+        "acousticness": 0.141,
+        "instrumentalness": 0,
+        "liveness": 0.098,
+        "valence": 0.0883,
+        "tempo": 88.231,
+        "type": "audio_features",
+        "id": "4LKSaRoKNnlpKXTT663BrT",
+        "uri": "spotify:track:4LKSaRoKNnlpKXTT663BrT",
+        "track_href": "https://api.spotify.com/v1/tracks/4LKSaRoKNnlpKXTT663BrT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4LKSaRoKNnlpKXTT663BrT",
+        "duration_ms": 176027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5vnuJ8EopkP5dHukpOmT3L",
+    "name": "What Would Meek Do?",
+    "artist": "Pusha T",
+    "album": "DAYTONA",
+    "bpm": 83.071,
+    "features": [
+      {
+        "danceability": 0.678,
+        "energy": 0.636,
+        "key": 1,
+        "loudness": -3.155,
+        "mode": 1,
+        "speechiness": 0.0981,
+        "acousticness": 0.0064,
+        "instrumentalness": 8.3e-06,
+        "liveness": 0.177,
+        "valence": 0.0617,
+        "tempo": 83.071,
+        "type": "audio_features",
+        "id": "5vnuJ8EopkP5dHukpOmT3L",
+        "uri": "spotify:track:5vnuJ8EopkP5dHukpOmT3L",
+        "track_href": "https://api.spotify.com/v1/tracks/5vnuJ8EopkP5dHukpOmT3L",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5vnuJ8EopkP5dHukpOmT3L",
+        "duration_ms": 153267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6cpsixIHI63L0hwh3CwZg3",
+    "name": "Infrared",
+    "artist": "Pusha T",
+    "album": "DAYTONA",
+    "bpm": 112.265,
+    "features": [
+      {
+        "danceability": 0.674,
+        "energy": 0.578,
+        "key": 10,
+        "loudness": -8.768,
+        "mode": 0,
+        "speechiness": 0.298,
+        "acousticness": 0.0518,
+        "instrumentalness": 0.00553,
+        "liveness": 0.72,
+        "valence": 0.163,
+        "tempo": 112.265,
+        "type": "audio_features",
+        "id": "6cpsixIHI63L0hwh3CwZg3",
+        "uri": "spotify:track:6cpsixIHI63L0hwh3CwZg3",
+        "track_href": "https://api.spotify.com/v1/tracks/6cpsixIHI63L0hwh3CwZg3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6cpsixIHI63L0hwh3CwZg3",
+        "duration_ms": 170240,
+        "time_signature": 5
+      }
+    ]
+  }
+]

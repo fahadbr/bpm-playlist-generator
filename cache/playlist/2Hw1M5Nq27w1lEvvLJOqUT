@@ -1,0 +1,92 @@
+[
+  {
+    "id": "7AsG1F1eMWd17RYan8M3Wm",
+    "name": "Dil Nu",
+    "artist": "AP Dhillon",
+    "album": "Two Hearts Never Break The Same",
+    "playlist": "entrance songs ",
+    "bpm": 117.979,
+    "features": [
+      {
+        "danceability": 0.811,
+        "energy": 0.655,
+        "key": 1,
+        "loudness": -7.118,
+        "mode": 0,
+        "speechiness": 0.0353,
+        "acousticness": 0.0947,
+        "instrumentalness": 1.63e-06,
+        "liveness": 0.068,
+        "valence": 0.925,
+        "tempo": 117.979,
+        "type": "audio_features",
+        "id": "7AsG1F1eMWd17RYan8M3Wm",
+        "uri": "spotify:track:7AsG1F1eMWd17RYan8M3Wm",
+        "track_href": "https://api.spotify.com/v1/tracks/7AsG1F1eMWd17RYan8M3Wm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7AsG1F1eMWd17RYan8M3Wm",
+        "duration_ms": 233666,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0XwRlvv3KlOu4HWlOH34XG",
+    "name": "Lover",
+    "artist": "Diljit Dosanjh",
+    "album": "MoonChild Era",
+    "playlist": "entrance songs ",
+    "bpm": 119.936,
+    "features": [
+      {
+        "danceability": 0.827,
+        "energy": 0.587,
+        "key": 9,
+        "loudness": -5.531,
+        "mode": 0,
+        "speechiness": 0.113,
+        "acousticness": 0.203,
+        "instrumentalness": 0,
+        "liveness": 0.0727,
+        "valence": 0.774,
+        "tempo": 119.936,
+        "type": "audio_features",
+        "id": "0XwRlvv3KlOu4HWlOH34XG",
+        "uri": "spotify:track:0XwRlvv3KlOu4HWlOH34XG",
+        "track_href": "https://api.spotify.com/v1/tracks/0XwRlvv3KlOu4HWlOH34XG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0XwRlvv3KlOu4HWlOH34XG",
+        "duration_ms": 190000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6qMiZK4mGuCRkVwRFds4Sm",
+    "name": "Let the Sun In",
+    "artist": "Wallows",
+    "album": "Spring EP",
+    "playlist": "entrance songs ",
+    "bpm": 189.891,
+    "features": [
+      {
+        "danceability": 0.32,
+        "energy": 0.663,
+        "key": 0,
+        "loudness": -5.802,
+        "mode": 1,
+        "speechiness": 0.0291,
+        "acousticness": 0.00141,
+        "instrumentalness": 6.7e-05,
+        "liveness": 0.0968,
+        "valence": 0.673,
+        "tempo": 189.891,
+        "type": "audio_features",
+        "id": "6qMiZK4mGuCRkVwRFds4Sm",
+        "uri": "spotify:track:6qMiZK4mGuCRkVwRFds4Sm",
+        "track_href": "https://api.spotify.com/v1/tracks/6qMiZK4mGuCRkVwRFds4Sm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6qMiZK4mGuCRkVwRFds4Sm",
+        "duration_ms": 223053,
+        "time_signature": 4
+      }
+    ]
+  }
+]

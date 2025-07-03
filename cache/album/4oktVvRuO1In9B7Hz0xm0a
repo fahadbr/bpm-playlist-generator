@@ -1,0 +1,408 @@
+[
+  {
+    "id": "5hMR6jMlewdi9glfFc3L7q",
+    "name": "Intro",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 134.975,
+    "features": [
+      {
+        "danceability": 0.543,
+        "energy": 0.657,
+        "key": 9,
+        "loudness": -8.126,
+        "mode": 0,
+        "speechiness": 0.0323,
+        "acousticness": 0.4,
+        "instrumentalness": 0.791,
+        "liveness": 0.0584,
+        "valence": 0.284,
+        "tempo": 134.975,
+        "type": "audio_features",
+        "id": "5hMR6jMlewdi9glfFc3L7q",
+        "uri": "spotify:track:5hMR6jMlewdi9glfFc3L7q",
+        "track_href": "https://api.spotify.com/v1/tracks/5hMR6jMlewdi9glfFc3L7q",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hMR6jMlewdi9glfFc3L7q",
+        "duration_ms": 278029,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4BVm9zEoX4Z73LeFAab0PC",
+    "name": "Arrival in Nara",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 119.523,
+    "features": [
+      {
+        "danceability": 0.484,
+        "energy": 0.0823,
+        "key": 9,
+        "loudness": -20.53,
+        "mode": 0,
+        "speechiness": 0.0533,
+        "acousticness": 0.963,
+        "instrumentalness": 0.114,
+        "liveness": 0.111,
+        "valence": 0.175,
+        "tempo": 119.523,
+        "type": "audio_features",
+        "id": "4BVm9zEoX4Z73LeFAab0PC",
+        "uri": "spotify:track:4BVm9zEoX4Z73LeFAab0PC",
+        "track_href": "https://api.spotify.com/v1/tracks/4BVm9zEoX4Z73LeFAab0PC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4BVm9zEoX4Z73LeFAab0PC",
+        "duration_ms": 253418,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "57tzAvfPHXHzCHUNp9AUBm",
+    "name": "Nara",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 146.968,
+    "features": [
+      {
+        "danceability": 0.511,
+        "energy": 0.519,
+        "key": 11,
+        "loudness": -7.794,
+        "mode": 0,
+        "speechiness": 0.0408,
+        "acousticness": 0.426,
+        "instrumentalness": 0.588,
+        "liveness": 0.121,
+        "valence": 0.0953,
+        "tempo": 146.968,
+        "type": "audio_features",
+        "id": "57tzAvfPHXHzCHUNp9AUBm",
+        "uri": "spotify:track:57tzAvfPHXHzCHUNp9AUBm",
+        "track_href": "https://api.spotify.com/v1/tracks/57tzAvfPHXHzCHUNp9AUBm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/57tzAvfPHXHzCHUNp9AUBm",
+        "duration_ms": 296058,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6BVBkKpZK09NmifUMZqj1z",
+    "name": "Every Other Freckle",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 143.915,
+    "features": [
+      {
+        "danceability": 0.543,
+        "energy": 0.707,
+        "key": 2,
+        "loudness": -7.636,
+        "mode": 1,
+        "speechiness": 0.07,
+        "acousticness": 0.614,
+        "instrumentalness": 0.0414,
+        "liveness": 0.118,
+        "valence": 0.515,
+        "tempo": 143.915,
+        "type": "audio_features",
+        "id": "6BVBkKpZK09NmifUMZqj1z",
+        "uri": "spotify:track:6BVBkKpZK09NmifUMZqj1z",
+        "track_href": "https://api.spotify.com/v1/tracks/6BVBkKpZK09NmifUMZqj1z",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6BVBkKpZK09NmifUMZqj1z",
+        "duration_ms": 216004,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4iEOVEULZRvmzYSZY2ViKN",
+    "name": "Left Hand Free",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 101.99,
+    "features": [
+      {
+        "danceability": 0.697,
+        "energy": 0.877,
+        "key": 3,
+        "loudness": -4.465,
+        "mode": 1,
+        "speechiness": 0.0462,
+        "acousticness": 0.462,
+        "instrumentalness": 0.00943,
+        "liveness": 0.083,
+        "valence": 0.802,
+        "tempo": 101.99,
+        "type": "audio_features",
+        "id": "4iEOVEULZRvmzYSZY2ViKN",
+        "uri": "spotify:track:4iEOVEULZRvmzYSZY2ViKN",
+        "track_href": "https://api.spotify.com/v1/tracks/4iEOVEULZRvmzYSZY2ViKN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4iEOVEULZRvmzYSZY2ViKN",
+        "duration_ms": 173631,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6onmdzTxsisLDtItnIS5WV",
+    "name": "Garden of England - Interlude",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 113.455,
+    "features": [
+      {
+        "danceability": 0.219,
+        "energy": 0.0995,
+        "key": 4,
+        "loudness": -27.833,
+        "mode": 1,
+        "speechiness": 0.0552,
+        "acousticness": 0.953,
+        "instrumentalness": 0,
+        "liveness": 0.306,
+        "valence": 0.14,
+        "tempo": 113.455,
+        "type": "audio_features",
+        "id": "6onmdzTxsisLDtItnIS5WV",
+        "uri": "spotify:track:6onmdzTxsisLDtItnIS5WV",
+        "track_href": "https://api.spotify.com/v1/tracks/6onmdzTxsisLDtItnIS5WV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6onmdzTxsisLDtItnIS5WV",
+        "duration_ms": 67684,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2N7jeqGCdaPeXHuudTBO73",
+    "name": "Choice Kingdom",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 124.026,
+    "features": [
+      {
+        "danceability": 0.446,
+        "energy": 0.177,
+        "key": 2,
+        "loudness": -19.427,
+        "mode": 1,
+        "speechiness": 0.035,
+        "acousticness": 0.871,
+        "instrumentalness": 0.426,
+        "liveness": 0.281,
+        "valence": 0.118,
+        "tempo": 124.026,
+        "type": "audio_features",
+        "id": "2N7jeqGCdaPeXHuudTBO73",
+        "uri": "spotify:track:2N7jeqGCdaPeXHuudTBO73",
+        "track_href": "https://api.spotify.com/v1/tracks/2N7jeqGCdaPeXHuudTBO73",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2N7jeqGCdaPeXHuudTBO73",
+        "duration_ms": 257498,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2mkv1b3dRFyiJ4Ybq31owf",
+    "name": "Hunger of the Pine",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 93.618,
+    "features": [
+      {
+        "danceability": 0.6,
+        "energy": 0.413,
+        "key": 7,
+        "loudness": -9.572,
+        "mode": 1,
+        "speechiness": 0.0258,
+        "acousticness": 0.785,
+        "instrumentalness": 0.0289,
+        "liveness": 0.109,
+        "valence": 0.0741,
+        "tempo": 93.618,
+        "type": "audio_features",
+        "id": "2mkv1b3dRFyiJ4Ybq31owf",
+        "uri": "spotify:track:2mkv1b3dRFyiJ4Ybq31owf",
+        "track_href": "https://api.spotify.com/v1/tracks/2mkv1b3dRFyiJ4Ybq31owf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2mkv1b3dRFyiJ4Ybq31owf",
+        "duration_ms": 299711,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1YUcTZ0ehoHY6G6Prhcbj0",
+    "name": "Warm Foothills",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 92.997,
+    "features": [
+      {
+        "danceability": 0.274,
+        "energy": 0.209,
+        "key": 2,
+        "loudness": -16.158,
+        "mode": 1,
+        "speechiness": 0.0411,
+        "acousticness": 0.913,
+        "instrumentalness": 0.0968,
+        "liveness": 0.0978,
+        "valence": 0.0661,
+        "tempo": 92.997,
+        "type": "audio_features",
+        "id": "1YUcTZ0ehoHY6G6Prhcbj0",
+        "uri": "spotify:track:1YUcTZ0ehoHY6G6Prhcbj0",
+        "track_href": "https://api.spotify.com/v1/tracks/1YUcTZ0ehoHY6G6Prhcbj0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1YUcTZ0ehoHY6G6Prhcbj0",
+        "duration_ms": 225018,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5QZJAcP4nu3xL2NQV4AVHO",
+    "name": "The Gospel of John Hurt",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 134.923,
+    "features": [
+      {
+        "danceability": 0.426,
+        "energy": 0.499,
+        "key": 0,
+        "loudness": -10.099,
+        "mode": 1,
+        "speechiness": 0.0343,
+        "acousticness": 0.592,
+        "instrumentalness": 0.708,
+        "liveness": 0.119,
+        "valence": 0.203,
+        "tempo": 134.923,
+        "type": "audio_features",
+        "id": "5QZJAcP4nu3xL2NQV4AVHO",
+        "uri": "spotify:track:5QZJAcP4nu3xL2NQV4AVHO",
+        "track_href": "https://api.spotify.com/v1/tracks/5QZJAcP4nu3xL2NQV4AVHO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5QZJAcP4nu3xL2NQV4AVHO",
+        "duration_ms": 315524,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2H6NbSsccvcT1j4jwAjDmf",
+    "name": "Pusher",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 114.685,
+    "features": [
+      {
+        "danceability": 0.619,
+        "energy": 0.0488,
+        "key": 2,
+        "loudness": -18.962,
+        "mode": 1,
+        "speechiness": 0.061,
+        "acousticness": 0.949,
+        "instrumentalness": 0.000523,
+        "liveness": 0.131,
+        "valence": 0.101,
+        "tempo": 114.685,
+        "type": "audio_features",
+        "id": "2H6NbSsccvcT1j4jwAjDmf",
+        "uri": "spotify:track:2H6NbSsccvcT1j4jwAjDmf",
+        "track_href": "https://api.spotify.com/v1/tracks/2H6NbSsccvcT1j4jwAjDmf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2H6NbSsccvcT1j4jwAjDmf",
+        "duration_ms": 209271,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3TY8GltNNtMpDS3YY6tJqo",
+    "name": "Bloodflood, Pt. II",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 120.016,
+    "features": [
+      {
+        "danceability": 0.599,
+        "energy": 0.564,
+        "key": 6,
+        "loudness": -9.484,
+        "mode": 0,
+        "speechiness": 0.0401,
+        "acousticness": 0.711,
+        "instrumentalness": 0.0608,
+        "liveness": 0.068,
+        "valence": 0.0992,
+        "tempo": 120.016,
+        "type": "audio_features",
+        "id": "3TY8GltNNtMpDS3YY6tJqo",
+        "uri": "spotify:track:3TY8GltNNtMpDS3YY6tJqo",
+        "track_href": "https://api.spotify.com/v1/tracks/3TY8GltNNtMpDS3YY6tJqo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3TY8GltNNtMpDS3YY6tJqo",
+        "duration_ms": 319498,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1ngGQNvLajpyVVzFdx47Pa",
+    "name": "Leaving Nara",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 120.158,
+    "features": [
+      {
+        "danceability": 0.477,
+        "energy": 0.0378,
+        "key": 9,
+        "loudness": -9.556,
+        "mode": 0,
+        "speechiness": 0.0406,
+        "acousticness": 0.572,
+        "instrumentalness": 0.000104,
+        "liveness": 0.102,
+        "valence": 0.0363,
+        "tempo": 120.158,
+        "type": "audio_features",
+        "id": "1ngGQNvLajpyVVzFdx47Pa",
+        "uri": "spotify:track:1ngGQNvLajpyVVzFdx47Pa",
+        "track_href": "https://api.spotify.com/v1/tracks/1ngGQNvLajpyVVzFdx47Pa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ngGQNvLajpyVVzFdx47Pa",
+        "duration_ms": 180831,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4OxtqhSBnOsgGc1yfYAfOn",
+    "name": "Lovely Day",
+    "artist": "alt-J",
+    "album": "This Is All Yours",
+    "bpm": 97.847,
+    "features": [
+      {
+        "danceability": 0.465,
+        "energy": 0.487,
+        "key": 11,
+        "loudness": -8.743,
+        "mode": 1,
+        "speechiness": 0.0399,
+        "acousticness": 0.0483,
+        "instrumentalness": 0.344,
+        "liveness": 0.0951,
+        "valence": 0.203,
+        "tempo": 97.847,
+        "type": "audio_features",
+        "id": "4OxtqhSBnOsgGc1yfYAfOn",
+        "uri": "spotify:track:4OxtqhSBnOsgGc1yfYAfOn",
+        "track_href": "https://api.spotify.com/v1/tracks/4OxtqhSBnOsgGc1yfYAfOn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4OxtqhSBnOsgGc1yfYAfOn",
+        "duration_ms": 241546,
+        "time_signature": 4
+      }
+    ]
+  }
+]

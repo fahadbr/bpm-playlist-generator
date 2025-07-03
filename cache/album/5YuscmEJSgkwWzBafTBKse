@@ -1,0 +1,263 @@
+[
+  {
+    "id": "2zMBvrfHVIbcl8iEaoy2VA",
+    "name": "LONG TIME COMING",
+    "artist": "mgk",
+    "album": "BINGE",
+    "bpm": 68.935,
+    "features": [
+      {
+        "danceability": 0.372,
+        "energy": 0.263,
+        "key": 0,
+        "loudness": -15.83,
+        "mode": 1,
+        "speechiness": 0.0325,
+        "acousticness": 0.578,
+        "instrumentalness": 0.537,
+        "liveness": 0.118,
+        "valence": 0.069,
+        "tempo": 68.935,
+        "type": "audio_features",
+        "id": "2zMBvrfHVIbcl8iEaoy2VA",
+        "uri": "spotify:track:2zMBvrfHVIbcl8iEaoy2VA",
+        "track_href": "https://api.spotify.com/v1/tracks/2zMBvrfHVIbcl8iEaoy2VA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2zMBvrfHVIbcl8iEaoy2VA",
+        "duration_ms": 62627,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4jaH6whRB6Zgy5EzvKN5ZL",
+    "name": "LOCO",
+    "artist": "mgk",
+    "album": "BINGE",
+    "bpm": 141.044,
+    "features": [
+      {
+        "danceability": 0.839,
+        "energy": 0.638,
+        "key": 9,
+        "loudness": -5.905,
+        "mode": 1,
+        "speechiness": 0.194,
+        "acousticness": 0.0294,
+        "instrumentalness": 2.04e-06,
+        "liveness": 0.105,
+        "valence": 0.314,
+        "tempo": 141.044,
+        "type": "audio_features",
+        "id": "4jaH6whRB6Zgy5EzvKN5ZL",
+        "uri": "spotify:track:4jaH6whRB6Zgy5EzvKN5ZL",
+        "track_href": "https://api.spotify.com/v1/tracks/4jaH6whRB6Zgy5EzvKN5ZL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4jaH6whRB6Zgy5EzvKN5ZL",
+        "duration_ms": 157093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3jwgpIHWvV8jfvF21s0SHD",
+    "name": "GTS",
+    "artist": "mgk",
+    "album": "BINGE",
+    "bpm": 134.992,
+    "features": [
+      {
+        "danceability": 0.891,
+        "energy": 0.595,
+        "key": 10,
+        "loudness": -5.736,
+        "mode": 1,
+        "speechiness": 0.0725,
+        "acousticness": 0.0339,
+        "instrumentalness": 0,
+        "liveness": 0.157,
+        "valence": 0.359,
+        "tempo": 134.992,
+        "type": "audio_features",
+        "id": "3jwgpIHWvV8jfvF21s0SHD",
+        "uri": "spotify:track:3jwgpIHWvV8jfvF21s0SHD",
+        "track_href": "https://api.spotify.com/v1/tracks/3jwgpIHWvV8jfvF21s0SHD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3jwgpIHWvV8jfvF21s0SHD",
+        "duration_ms": 142213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "43TP6JCWXgkc2D7Xjz5hBr",
+    "name": "RAP DEVIL",
+    "artist": "mgk",
+    "album": "BINGE",
+    "bpm": 149.968,
+    "features": [
+      {
+        "danceability": 0.896,
+        "energy": 0.834,
+        "key": 9,
+        "loudness": -4.682,
+        "mode": 0,
+        "speechiness": 0.238,
+        "acousticness": 0.215,
+        "instrumentalness": 3.92e-06,
+        "liveness": 0.184,
+        "valence": 0.776,
+        "tempo": 149.968,
+        "type": "audio_features",
+        "id": "43TP6JCWXgkc2D7Xjz5hBr",
+        "uri": "spotify:track:43TP6JCWXgkc2D7Xjz5hBr",
+        "track_href": "https://api.spotify.com/v1/tracks/43TP6JCWXgkc2D7Xjz5hBr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/43TP6JCWXgkc2D7Xjz5hBr",
+        "duration_ms": 281587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "150a7VlsKvbQjfR10T3Bab",
+    "name": "NYLON",
+    "artist": "mgk",
+    "album": "BINGE",
+    "bpm": 134.927,
+    "features": [
+      {
+        "danceability": 0.885,
+        "energy": 0.482,
+        "key": 1,
+        "loudness": -8.723,
+        "mode": 1,
+        "speechiness": 0.182,
+        "acousticness": 0.0948,
+        "instrumentalness": 9.24e-05,
+        "liveness": 0.156,
+        "valence": 0.139,
+        "tempo": 134.927,
+        "type": "audio_features",
+        "id": "150a7VlsKvbQjfR10T3Bab",
+        "uri": "spotify:track:150a7VlsKvbQjfR10T3Bab",
+        "track_href": "https://api.spotify.com/v1/tracks/150a7VlsKvbQjfR10T3Bab",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/150a7VlsKvbQjfR10T3Bab",
+        "duration_ms": 108413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5GsDw8rD0LJ9XF4dEzUPDK",
+    "name": "LATELY",
+    "artist": "mgk",
+    "album": "BINGE",
+    "bpm": 149.976,
+    "features": [
+      {
+        "danceability": 0.856,
+        "energy": 0.418,
+        "key": 1,
+        "loudness": -9.751,
+        "mode": 1,
+        "speechiness": 0.195,
+        "acousticness": 0.0706,
+        "instrumentalness": 1.33e-06,
+        "liveness": 0.0991,
+        "valence": 0.271,
+        "tempo": 149.976,
+        "type": "audio_features",
+        "id": "5GsDw8rD0LJ9XF4dEzUPDK",
+        "uri": "spotify:track:5GsDw8rD0LJ9XF4dEzUPDK",
+        "track_href": "https://api.spotify.com/v1/tracks/5GsDw8rD0LJ9XF4dEzUPDK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5GsDw8rD0LJ9XF4dEzUPDK",
+        "duration_ms": 193907,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1JDOIxrGzvGRrDCzmxnTVo",
+    "name": "SIGNS (Feat. 24hrs)",
+    "artist": "mgk",
+    "album": "BINGE",
+    "bpm": 104.974,
+    "features": [
+      {
+        "danceability": 0.819,
+        "energy": 0.533,
+        "key": 1,
+        "loudness": -6.365,
+        "mode": 1,
+        "speechiness": 0.0438,
+        "acousticness": 0.0266,
+        "instrumentalness": 0,
+        "liveness": 0.0994,
+        "valence": 0.0531,
+        "tempo": 104.974,
+        "type": "audio_features",
+        "id": "1JDOIxrGzvGRrDCzmxnTVo",
+        "uri": "spotify:track:1JDOIxrGzvGRrDCzmxnTVo",
+        "track_href": "https://api.spotify.com/v1/tracks/1JDOIxrGzvGRrDCzmxnTVo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1JDOIxrGzvGRrDCzmxnTVo",
+        "duration_ms": 166053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6KlVxwMX2pepWM9RkIYQvu",
+    "name": "GET THE BROOM",
+    "artist": "mgk",
+    "album": "BINGE",
+    "bpm": 129.037,
+    "features": [
+      {
+        "danceability": 0.905,
+        "energy": 0.535,
+        "key": 2,
+        "loudness": -8.867,
+        "mode": 1,
+        "speechiness": 0.231,
+        "acousticness": 0.0774,
+        "instrumentalness": 0.000713,
+        "liveness": 0.104,
+        "valence": 0.186,
+        "tempo": 129.037,
+        "type": "audio_features",
+        "id": "6KlVxwMX2pepWM9RkIYQvu",
+        "uri": "spotify:track:6KlVxwMX2pepWM9RkIYQvu",
+        "track_href": "https://api.spotify.com/v1/tracks/6KlVxwMX2pepWM9RkIYQvu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6KlVxwMX2pepWM9RkIYQvu",
+        "duration_ms": 152613,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1WEDk9ZjxoLEpToYe0ap7t",
+    "name": "LIVEFASTDIEYOUNG",
+    "artist": "mgk",
+    "album": "BINGE",
+    "bpm": 134.98,
+    "features": [
+      {
+        "danceability": 0.771,
+        "energy": 0.66,
+        "key": 7,
+        "loudness": -7.12,
+        "mode": 1,
+        "speechiness": 0.191,
+        "acousticness": 0.245,
+        "instrumentalness": 0.00204,
+        "liveness": 0.117,
+        "valence": 0.282,
+        "tempo": 134.98,
+        "type": "audio_features",
+        "id": "1WEDk9ZjxoLEpToYe0ap7t",
+        "uri": "spotify:track:1WEDk9ZjxoLEpToYe0ap7t",
+        "track_href": "https://api.spotify.com/v1/tracks/1WEDk9ZjxoLEpToYe0ap7t",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1WEDk9ZjxoLEpToYe0ap7t",
+        "duration_ms": 194427,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "id": "7gEdleVWw2RrImYlvXImch",
+    "name": "Outside",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 175.497,
+    "features": [
+      {
+        "danceability": 0.468,
+        "energy": 0.557,
+        "key": 2,
+        "loudness": -7.482,
+        "mode": 0,
+        "speechiness": 0.098,
+        "acousticness": 0.395,
+        "instrumentalness": 0,
+        "liveness": 0.118,
+        "valence": 0.187,
+        "tempo": 175.497,
+        "type": "audio_features",
+        "id": "7gEdleVWw2RrImYlvXImch",
+        "uri": "spotify:track:7gEdleVWw2RrImYlvXImch",
+        "track_href": "https://api.spotify.com/v1/tracks/7gEdleVWw2RrImYlvXImch",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7gEdleVWw2RrImYlvXImch",
+        "duration_ms": 270053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2O0rIAtaJj77UMZUGtlg3T",
+    "name": "Fire Fly",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 87.502,
+    "features": [
+      {
+        "danceability": 0.673,
+        "energy": 0.887,
+        "key": 11,
+        "loudness": -4.121,
+        "mode": 0,
+        "speechiness": 0.222,
+        "acousticness": 0.146,
+        "instrumentalness": 0,
+        "liveness": 0.272,
+        "valence": 0.49,
+        "tempo": 87.502,
+        "type": "audio_features",
+        "id": "2O0rIAtaJj77UMZUGtlg3T",
+        "uri": "spotify:track:2O0rIAtaJj77UMZUGtlg3T",
+        "track_href": "https://api.spotify.com/v1/tracks/2O0rIAtaJj77UMZUGtlg3T",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2O0rIAtaJj77UMZUGtlg3T",
+        "duration_ms": 203053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0wps7rop5iHwBo0rQZ2g9A",
+    "name": "Bonfire",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 161.808,
+    "features": [
+      {
+        "danceability": 0.506,
+        "energy": 0.745,
+        "key": 1,
+        "loudness": -6.044,
+        "mode": 1,
+        "speechiness": 0.331,
+        "acousticness": 0.0594,
+        "instrumentalness": 0,
+        "liveness": 0.341,
+        "valence": 0.31,
+        "tempo": 161.808,
+        "type": "audio_features",
+        "id": "0wps7rop5iHwBo0rQZ2g9A",
+        "uri": "spotify:track:0wps7rop5iHwBo0rQZ2g9A",
+        "track_href": "https://api.spotify.com/v1/tracks/0wps7rop5iHwBo0rQZ2g9A",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0wps7rop5iHwBo0rQZ2g9A",
+        "duration_ms": 192947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1j9lI5MkLFayW9ojc7S5Zt",
+    "name": "All The Shine",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 80.204,
+    "features": [
+      {
+        "danceability": 0.335,
+        "energy": 0.579,
+        "key": 0,
+        "loudness": -8.053,
+        "mode": 0,
+        "speechiness": 0.135,
+        "acousticness": 0.0218,
+        "instrumentalness": 0.000135,
+        "liveness": 0.15,
+        "valence": 0.367,
+        "tempo": 80.204,
+        "type": "audio_features",
+        "id": "1j9lI5MkLFayW9ojc7S5Zt",
+        "uri": "spotify:track:1j9lI5MkLFayW9ojc7S5Zt",
+        "track_href": "https://api.spotify.com/v1/tracks/1j9lI5MkLFayW9ojc7S5Zt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1j9lI5MkLFayW9ojc7S5Zt",
+        "duration_ms": 346013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1bv9wrUiUgjWfahxVwtGSr",
+    "name": "Letter Home",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 81.604,
+    "features": [
+      {
+        "danceability": 0.152,
+        "energy": 0.345,
+        "key": 0,
+        "loudness": -9.983,
+        "mode": 0,
+        "speechiness": 0.0348,
+        "acousticness": 0.514,
+        "instrumentalness": 4.07e-05,
+        "liveness": 0.128,
+        "valence": 0.267,
+        "tempo": 81.604,
+        "type": "audio_features",
+        "id": "1bv9wrUiUgjWfahxVwtGSr",
+        "uri": "spotify:track:1bv9wrUiUgjWfahxVwtGSr",
+        "track_href": "https://api.spotify.com/v1/tracks/1bv9wrUiUgjWfahxVwtGSr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1bv9wrUiUgjWfahxVwtGSr",
+        "duration_ms": 104387,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "5AGQSF0ytihJyt96K5vW9d",
+    "name": "Heartbeat",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 119.959,
+    "features": [
+      {
+        "danceability": 0.8,
+        "energy": 0.545,
+        "key": 1,
+        "loudness": -7.002,
+        "mode": 0,
+        "speechiness": 0.127,
+        "acousticness": 0.00373,
+        "instrumentalness": 0.000511,
+        "liveness": 0.0445,
+        "valence": 0.291,
+        "tempo": 119.959,
+        "type": "audio_features",
+        "id": "5AGQSF0ytihJyt96K5vW9d",
+        "uri": "spotify:track:5AGQSF0ytihJyt96K5vW9d",
+        "track_href": "https://api.spotify.com/v1/tracks/5AGQSF0ytihJyt96K5vW9d",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5AGQSF0ytihJyt96K5vW9d",
+        "duration_ms": 269840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5BsM0OrFsQThIXKTnYmuW0",
+    "name": "Backpackers",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 170.419,
+    "features": [
+      {
+        "danceability": 0.545,
+        "energy": 0.851,
+        "key": 5,
+        "loudness": -6.095,
+        "mode": 0,
+        "speechiness": 0.429,
+        "acousticness": 0.296,
+        "instrumentalness": 0,
+        "liveness": 0.0821,
+        "valence": 0.586,
+        "tempo": 170.419,
+        "type": "audio_features",
+        "id": "5BsM0OrFsQThIXKTnYmuW0",
+        "uri": "spotify:track:5BsM0OrFsQThIXKTnYmuW0",
+        "track_href": "https://api.spotify.com/v1/tracks/5BsM0OrFsQThIXKTnYmuW0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5BsM0OrFsQThIXKTnYmuW0",
+        "duration_ms": 195640,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7ghKr0pCYyPPyp7t1FH8k4",
+    "name": "LES",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 102.891,
+    "features": [
+      {
+        "danceability": 0.543,
+        "energy": 0.674,
+        "key": 1,
+        "loudness": -7.038,
+        "mode": 0,
+        "speechiness": 0.083,
+        "acousticness": 0.00654,
+        "instrumentalness": 9.4e-05,
+        "liveness": 0.221,
+        "valence": 0.129,
+        "tempo": 102.891,
+        "type": "audio_features",
+        "id": "7ghKr0pCYyPPyp7t1FH8k4",
+        "uri": "spotify:track:7ghKr0pCYyPPyp7t1FH8k4",
+        "track_href": "https://api.spotify.com/v1/tracks/7ghKr0pCYyPPyp7t1FH8k4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ghKr0pCYyPPyp7t1FH8k4",
+        "duration_ms": 317293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4uDkagullY9IiBg6rIQsKR",
+    "name": "Hold You Down",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 85.053,
+    "features": [
+      {
+        "danceability": 0.582,
+        "energy": 0.69,
+        "key": 7,
+        "loudness": -7.88,
+        "mode": 1,
+        "speechiness": 0.108,
+        "acousticness": 0.229,
+        "instrumentalness": 1.77e-05,
+        "liveness": 0.146,
+        "valence": 0.507,
+        "tempo": 85.053,
+        "type": "audio_features",
+        "id": "4uDkagullY9IiBg6rIQsKR",
+        "uri": "spotify:track:4uDkagullY9IiBg6rIQsKR",
+        "track_href": "https://api.spotify.com/v1/tracks/4uDkagullY9IiBg6rIQsKR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4uDkagullY9IiBg6rIQsKR",
+        "duration_ms": 292453,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2jrP54CkSMNnnRPu4sTJFD",
+    "name": "Kids",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 84.981,
+    "features": [
+      {
+        "danceability": 0.68,
+        "energy": 0.468,
+        "key": 9,
+        "loudness": -11.128,
+        "mode": 1,
+        "speechiness": 0.0948,
+        "acousticness": 0.0312,
+        "instrumentalness": 0,
+        "liveness": 0.207,
+        "valence": 0.348,
+        "tempo": 84.981,
+        "type": "audio_features",
+        "id": "2jrP54CkSMNnnRPu4sTJFD",
+        "uri": "spotify:track:2jrP54CkSMNnnRPu4sTJFD",
+        "track_href": "https://api.spotify.com/v1/tracks/2jrP54CkSMNnnRPu4sTJFD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2jrP54CkSMNnnRPu4sTJFD",
+        "duration_ms": 297933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6sg6kWL8RjUcl7Kq7lxwEc",
+    "name": "You See Me",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 69.753,
+    "features": [
+      {
+        "danceability": 0.672,
+        "energy": 0.804,
+        "key": 2,
+        "loudness": -6.685,
+        "mode": 1,
+        "speechiness": 0.534,
+        "acousticness": 0.048,
+        "instrumentalness": 0,
+        "liveness": 0.0831,
+        "valence": 0.686,
+        "tempo": 69.753,
+        "type": "audio_features",
+        "id": "6sg6kWL8RjUcl7Kq7lxwEc",
+        "uri": "spotify:track:6sg6kWL8RjUcl7Kq7lxwEc",
+        "track_href": "https://api.spotify.com/v1/tracks/6sg6kWL8RjUcl7Kq7lxwEc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6sg6kWL8RjUcl7Kq7lxwEc",
+        "duration_ms": 195373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5EiLjOB57pHdNnkcrWh1m4",
+    "name": "Sunrise",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 79.938,
+    "features": [
+      {
+        "danceability": 0.549,
+        "energy": 0.693,
+        "key": 7,
+        "loudness": -6.374,
+        "mode": 1,
+        "speechiness": 0.0456,
+        "acousticness": 0.0108,
+        "instrumentalness": 0,
+        "liveness": 0.0713,
+        "valence": 0.184,
+        "tempo": 79.938,
+        "type": "audio_features",
+        "id": "5EiLjOB57pHdNnkcrWh1m4",
+        "uri": "spotify:track:5EiLjOB57pHdNnkcrWh1m4",
+        "track_href": "https://api.spotify.com/v1/tracks/5EiLjOB57pHdNnkcrWh1m4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5EiLjOB57pHdNnkcrWh1m4",
+        "duration_ms": 219840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7g4kv8dGaR8mHjxL2WP9ej",
+    "name": "That Power",
+    "artist": "Childish Gambino",
+    "album": "Camp",
+    "bpm": 82.169,
+    "features": [
+      {
+        "danceability": 0.421,
+        "energy": 0.676,
+        "key": 4,
+        "loudness": -7.334,
+        "mode": 0,
+        "speechiness": 0.178,
+        "acousticness": 0.111,
+        "instrumentalness": 0,
+        "liveness": 0.157,
+        "valence": 0.688,
+        "tempo": 82.169,
+        "type": "audio_features",
+        "id": "7g4kv8dGaR8mHjxL2WP9ej",
+        "uri": "spotify:track:7g4kv8dGaR8mHjxL2WP9ej",
+        "track_href": "https://api.spotify.com/v1/tracks/7g4kv8dGaR8mHjxL2WP9ej",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7g4kv8dGaR8mHjxL2WP9ej",
+        "duration_ms": 462253,
+        "time_signature": 4
+      }
+    ]
+  }
+]

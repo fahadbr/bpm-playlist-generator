@@ -1,0 +1,563 @@
+[
+  {
+    "id": "2d8JP84HNLKhmd6IYOoupQ",
+    "name": "Trap Queen",
+    "artist": "Fetty Wap",
+    "album": "Fetty Wap (Deluxe)",
+    "playlist": "windham trip",
+    "bpm": 148.075,
+    "features": [
+      {
+        "danceability": 0.746,
+        "energy": 0.873,
+        "key": 7,
+        "loudness": -3.803,
+        "mode": 1,
+        "speechiness": 0.128,
+        "acousticness": 0.0244,
+        "instrumentalness": 0,
+        "liveness": 0.354,
+        "valence": 0.817,
+        "tempo": 148.075,
+        "type": "audio_features",
+        "id": "2d8JP84HNLKhmd6IYOoupQ",
+        "uri": "spotify:track:2d8JP84HNLKhmd6IYOoupQ",
+        "track_href": "https://api.spotify.com/v1/tracks/2d8JP84HNLKhmd6IYOoupQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2d8JP84HNLKhmd6IYOoupQ",
+        "duration_ms": 222093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5f9JYuHSIHjp6rggue13RS",
+    "name": "Mahogany",
+    "artist": "Lil Wayne",
+    "album": "Funeral",
+    "playlist": "windham trip",
+    "bpm": 79.48,
+    "features": [
+      {
+        "danceability": 0.466,
+        "energy": 0.608,
+        "key": 1,
+        "loudness": -4.8,
+        "mode": 0,
+        "speechiness": 0.45,
+        "acousticness": 0.0736,
+        "instrumentalness": 0,
+        "liveness": 0.406,
+        "valence": 0.41,
+        "tempo": 79.48,
+        "type": "audio_features",
+        "id": "5f9JYuHSIHjp6rggue13RS",
+        "uri": "spotify:track:5f9JYuHSIHjp6rggue13RS",
+        "track_href": "https://api.spotify.com/v1/tracks/5f9JYuHSIHjp6rggue13RS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5f9JYuHSIHjp6rggue13RS",
+        "duration_ms": 177867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2gYnjDEz020IZvYcyTLWck",
+    "name": "Fly Like an Eagle",
+    "artist": "Seal",
+    "album": "Space Jam (Music From And Inspired By The Motion Picture)",
+    "playlist": "windham trip",
+    "bpm": 97.096,
+    "features": [
+      {
+        "danceability": 0.63,
+        "energy": 0.692,
+        "key": 7,
+        "loudness": -8.377,
+        "mode": 1,
+        "speechiness": 0.0497,
+        "acousticness": 0.00414,
+        "instrumentalness": 4.26e-05,
+        "liveness": 0.0817,
+        "valence": 0.574,
+        "tempo": 97.096,
+        "type": "audio_features",
+        "id": "2gYnjDEz020IZvYcyTLWck",
+        "uri": "spotify:track:2gYnjDEz020IZvYcyTLWck",
+        "track_href": "https://api.spotify.com/v1/tracks/2gYnjDEz020IZvYcyTLWck",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gYnjDEz020IZvYcyTLWck",
+        "duration_ms": 253773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2ouURa1AIXp3AvkS52Jry5",
+    "name": "Every Morning",
+    "artist": "Sugar Ray",
+    "album": "14:59",
+    "playlist": "windham trip",
+    "bpm": 109.917,
+    "features": [
+      {
+        "danceability": 0.833,
+        "energy": 0.679,
+        "key": 8,
+        "loudness": -4.496,
+        "mode": 1,
+        "speechiness": 0.0365,
+        "acousticness": 0.0834,
+        "instrumentalness": 0.00258,
+        "liveness": 0.0769,
+        "valence": 0.975,
+        "tempo": 109.917,
+        "type": "audio_features",
+        "id": "2ouURa1AIXp3AvkS52Jry5",
+        "uri": "spotify:track:2ouURa1AIXp3AvkS52Jry5",
+        "track_href": "https://api.spotify.com/v1/tracks/2ouURa1AIXp3AvkS52Jry5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ouURa1AIXp3AvkS52Jry5",
+        "duration_ms": 219867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4KfSdst7rW39C0sfhArdrz",
+    "name": "Barracuda",
+    "artist": "Heart",
+    "album": "Little Queen",
+    "playlist": "windham trip",
+    "bpm": 137.145,
+    "features": [
+      {
+        "danceability": 0.548,
+        "energy": 0.691,
+        "key": 4,
+        "loudness": -13.553,
+        "mode": 0,
+        "speechiness": 0.0369,
+        "acousticness": 0.015,
+        "instrumentalness": 0.106,
+        "liveness": 0.144,
+        "valence": 0.667,
+        "tempo": 137.145,
+        "type": "audio_features",
+        "id": "4KfSdst7rW39C0sfhArdrz",
+        "uri": "spotify:track:4KfSdst7rW39C0sfhArdrz",
+        "track_href": "https://api.spotify.com/v1/tracks/4KfSdst7rW39C0sfhArdrz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4KfSdst7rW39C0sfhArdrz",
+        "duration_ms": 261933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "00NAQYOP4AmWR549nnYJZu",
+    "name": "Secrets",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 109.949,
+    "features": [
+      {
+        "danceability": 0.664,
+        "energy": 0.771,
+        "key": 0,
+        "loudness": -5.779,
+        "mode": 1,
+        "speechiness": 0.0533,
+        "acousticness": 0.0155,
+        "instrumentalness": 9.6e-06,
+        "liveness": 0.46,
+        "valence": 0.763,
+        "tempo": 109.949,
+        "type": "audio_features",
+        "id": "00NAQYOP4AmWR549nnYJZu",
+        "uri": "spotify:track:00NAQYOP4AmWR549nnYJZu",
+        "track_href": "https://api.spotify.com/v1/tracks/00NAQYOP4AmWR549nnYJZu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/00NAQYOP4AmWR549nnYJZu",
+        "duration_ms": 265600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0e7ipj03S05BNilyu5bRzt",
+    "name": "rockstar (feat. 21 Savage)",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 159.798,
+    "features": [
+      {
+        "danceability": 0.585,
+        "energy": 0.52,
+        "key": 5,
+        "loudness": -6.136,
+        "mode": 0,
+        "speechiness": 0.0713,
+        "acousticness": 0.124,
+        "instrumentalness": 7.75e-05,
+        "liveness": 0.131,
+        "valence": 0.129,
+        "tempo": 159.798,
+        "type": "audio_features",
+        "id": "0e7ipj03S05BNilyu5bRzt",
+        "uri": "spotify:track:0e7ipj03S05BNilyu5bRzt",
+        "track_href": "https://api.spotify.com/v1/tracks/0e7ipj03S05BNilyu5bRzt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0e7ipj03S05BNilyu5bRzt",
+        "duration_ms": 218147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7eW9cHOAHmYqphs5tWXETw",
+    "name": "Clique",
+    "artist": "Kanye West",
+    "album": "Kanye West Presents Good Music Cruel Summer",
+    "playlist": "windham trip",
+    "bpm": 109.204,
+    "features": [
+      {
+        "danceability": 0.71,
+        "energy": 0.555,
+        "key": 9,
+        "loudness": -5.942,
+        "mode": 0,
+        "speechiness": 0.295,
+        "acousticness": 0.0601,
+        "instrumentalness": 0,
+        "liveness": 0.227,
+        "valence": 0.303,
+        "tempo": 109.204,
+        "type": "audio_features",
+        "id": "7eW9cHOAHmYqphs5tWXETw",
+        "uri": "spotify:track:7eW9cHOAHmYqphs5tWXETw",
+        "track_href": "https://api.spotify.com/v1/tracks/7eW9cHOAHmYqphs5tWXETw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7eW9cHOAHmYqphs5tWXETw",
+        "duration_ms": 293613,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "3XClLzrEPTpHHKOhzhifzz",
+    "name": "Starz In Their Eyes",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 123.773,
+    "features": [
+      {
+        "danceability": 0.665,
+        "energy": 0.789,
+        "key": 3,
+        "loudness": -6.821,
+        "mode": 1,
+        "speechiness": 0.067,
+        "acousticness": 0.00163,
+        "instrumentalness": 0.000618,
+        "liveness": 0.667,
+        "valence": 0.646,
+        "tempo": 123.773,
+        "type": "audio_features",
+        "id": "3XClLzrEPTpHHKOhzhifzz",
+        "uri": "spotify:track:3XClLzrEPTpHHKOhzhifzz",
+        "track_href": "https://api.spotify.com/v1/tracks/3XClLzrEPTpHHKOhzhifzz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3XClLzrEPTpHHKOhzhifzz",
+        "duration_ms": 297973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6gpcs5eMhJwax4mIfKDYQk",
+    "name": "Slide (feat. Frank Ocean & Migos)",
+    "artist": "Calvin Harris",
+    "album": "Slide (feat. Frank Ocean & Migos)",
+    "playlist": "windham trip",
+    "bpm": 104.066,
+    "features": [
+      {
+        "danceability": 0.736,
+        "energy": 0.795,
+        "key": 1,
+        "loudness": -3.299,
+        "mode": 0,
+        "speechiness": 0.0545,
+        "acousticness": 0.498,
+        "instrumentalness": 1.21e-06,
+        "liveness": 0.254,
+        "valence": 0.511,
+        "tempo": 104.066,
+        "type": "audio_features",
+        "id": "6gpcs5eMhJwax4mIfKDYQk",
+        "uri": "spotify:track:6gpcs5eMhJwax4mIfKDYQk",
+        "track_href": "https://api.spotify.com/v1/tracks/6gpcs5eMhJwax4mIfKDYQk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6gpcs5eMhJwax4mIfKDYQk",
+        "duration_ms": 230813,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2LzyUfJdRp3uqTrITBJXEY",
+    "name": "Bottom of the River",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 74.672,
+    "features": [
+      {
+        "danceability": 0.668,
+        "energy": 0.63,
+        "key": 11,
+        "loudness": -5.746,
+        "mode": 0,
+        "speechiness": 0.0828,
+        "acousticness": 0.573,
+        "instrumentalness": 0,
+        "liveness": 0.0869,
+        "valence": 0.716,
+        "tempo": 74.672,
+        "type": "audio_features",
+        "id": "2LzyUfJdRp3uqTrITBJXEY",
+        "uri": "spotify:track:2LzyUfJdRp3uqTrITBJXEY",
+        "track_href": "https://api.spotify.com/v1/tracks/2LzyUfJdRp3uqTrITBJXEY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2LzyUfJdRp3uqTrITBJXEY",
+        "duration_ms": 202520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1PS1QMdUqOal0ai3Gt7sDQ",
+    "name": "Gold Digger",
+    "artist": "Kanye West",
+    "album": "Late Registration",
+    "playlist": "windham trip",
+    "bpm": 93.034,
+    "features": [
+      {
+        "danceability": 0.629,
+        "energy": 0.696,
+        "key": 1,
+        "loudness": -5.572,
+        "mode": 0,
+        "speechiness": 0.348,
+        "acousticness": 0.0195,
+        "instrumentalness": 0,
+        "liveness": 0.0554,
+        "valence": 0.623,
+        "tempo": 93.034,
+        "type": "audio_features",
+        "id": "1PS1QMdUqOal0ai3Gt7sDQ",
+        "uri": "spotify:track:1PS1QMdUqOal0ai3Gt7sDQ",
+        "track_href": "https://api.spotify.com/v1/tracks/1PS1QMdUqOal0ai3Gt7sDQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1PS1QMdUqOal0ai3Gt7sDQ",
+        "duration_ms": 207627,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3cld8uMQZok9Z8TCw041zF",
+    "name": "Arcs of Command",
+    "artist": "Caspian",
+    "album": "Dust and Disquiet",
+    "bpm": 190.867,
+    "features": [
+      {
+        "danceability": 0.236,
+        "energy": 0.784,
+        "key": 2,
+        "loudness": -7.982,
+        "mode": 0,
+        "speechiness": 0.0575,
+        "acousticness": 9.79e-05,
+        "instrumentalness": 0.915,
+        "liveness": 0.123,
+        "valence": 0.0795,
+        "tempo": 190.867,
+        "type": "audio_features",
+        "id": "3cld8uMQZok9Z8TCw041zF",
+        "uri": "spotify:track:3cld8uMQZok9Z8TCw041zF",
+        "track_href": "https://api.spotify.com/v1/tracks/3cld8uMQZok9Z8TCw041zF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3cld8uMQZok9Z8TCw041zF",
+        "duration_ms": 528773,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5LTgI9VsuL3NKrv2WHBgNx",
+    "name": "Have Some Love",
+    "artist": "Childish Gambino",
+    "album": "\"Awaken, My Love!\"",
+    "playlist": "windham trip",
+    "bpm": 148.227,
+    "features": [
+      {
+        "danceability": 0.783,
+        "energy": 0.803,
+        "key": 4,
+        "loudness": -6.266,
+        "mode": 0,
+        "speechiness": 0.0805,
+        "acousticness": 0.0158,
+        "instrumentalness": 0.016,
+        "liveness": 0.681,
+        "valence": 0.945,
+        "tempo": 148.227,
+        "type": "audio_features",
+        "id": "5LTgI9VsuL3NKrv2WHBgNx",
+        "uri": "spotify:track:5LTgI9VsuL3NKrv2WHBgNx",
+        "track_href": "https://api.spotify.com/v1/tracks/5LTgI9VsuL3NKrv2WHBgNx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5LTgI9VsuL3NKrv2WHBgNx",
+        "duration_ms": 224253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0N3W5peJUQtI4eyR6GJT5O",
+    "name": "King Kunta",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp A Butterfly",
+    "bpm": 107.059,
+    "features": [
+      {
+        "danceability": 0.884,
+        "energy": 0.657,
+        "key": 6,
+        "loudness": -4.569,
+        "mode": 0,
+        "speechiness": 0.0977,
+        "acousticness": 0.00589,
+        "instrumentalness": 0,
+        "liveness": 0.154,
+        "valence": 0.489,
+        "tempo": 107.059,
+        "type": "audio_features",
+        "id": "0N3W5peJUQtI4eyR6GJT5O",
+        "uri": "spotify:track:0N3W5peJUQtI4eyR6GJT5O",
+        "track_href": "https://api.spotify.com/v1/tracks/0N3W5peJUQtI4eyR6GJT5O",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0N3W5peJUQtI4eyR6GJT5O",
+        "duration_ms": 234693,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "503OTo2dSqe7qk76rgsbep",
+    "name": "Still D.R.E.",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 93.431,
+    "features": [
+      {
+        "danceability": 0.816,
+        "energy": 0.775,
+        "key": 11,
+        "loudness": -3.323,
+        "mode": 1,
+        "speechiness": 0.234,
+        "acousticness": 0.16,
+        "instrumentalness": 0.00031,
+        "liveness": 0.0543,
+        "valence": 0.527,
+        "tempo": 93.431,
+        "type": "audio_features",
+        "id": "503OTo2dSqe7qk76rgsbep",
+        "uri": "spotify:track:503OTo2dSqe7qk76rgsbep",
+        "track_href": "https://api.spotify.com/v1/tracks/503OTo2dSqe7qk76rgsbep",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/503OTo2dSqe7qk76rgsbep",
+        "duration_ms": 270587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1YscJ7yVTlFxW3eF6pv5ba",
+    "name": "Allergic",
+    "artist": "Post Malone",
+    "album": "Hollywood's Bleeding",
+    "bpm": 144.968,
+    "features": [
+      {
+        "danceability": 0.664,
+        "energy": 0.741,
+        "key": 0,
+        "loudness": -3.694,
+        "mode": 1,
+        "speechiness": 0.079,
+        "acousticness": 0.154,
+        "instrumentalness": 3.02e-05,
+        "liveness": 0.345,
+        "valence": 0.569,
+        "tempo": 144.968,
+        "type": "audio_features",
+        "id": "1YscJ7yVTlFxW3eF6pv5ba",
+        "uri": "spotify:track:1YscJ7yVTlFxW3eF6pv5ba",
+        "track_href": "https://api.spotify.com/v1/tracks/1YscJ7yVTlFxW3eF6pv5ba",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1YscJ7yVTlFxW3eF6pv5ba",
+        "duration_ms": 156893,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0AtP8EkGPn6SwxKDaUuXec",
+    "name": "Remember The Name (feat. Eminem & 50 Cent)",
+    "artist": "Ed Sheeran",
+    "album": "No.6 Collaborations Project",
+    "bpm": 91.046,
+    "features": [
+      {
+        "danceability": 0.852,
+        "energy": 0.666,
+        "key": 11,
+        "loudness": -6.923,
+        "mode": 0,
+        "speechiness": 0.184,
+        "acousticness": 0.135,
+        "instrumentalness": 0,
+        "liveness": 0.798,
+        "valence": 0.726,
+        "tempo": 91.046,
+        "type": "audio_features",
+        "id": "0AtP8EkGPn6SwxKDaUuXec",
+        "uri": "spotify:track:0AtP8EkGPn6SwxKDaUuXec",
+        "track_href": "https://api.spotify.com/v1/tracks/0AtP8EkGPn6SwxKDaUuXec",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0AtP8EkGPn6SwxKDaUuXec",
+        "duration_ms": 207760,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4sjLcE0GQ6urc4iUXsUPe9",
+    "name": "Kings And Queens",
+    "artist": "Thirty Seconds To Mars",
+    "album": "This Is War",
+    "playlist": "windham trip",
+    "bpm": 165.0,
+    "features": [
+      {
+        "danceability": 0.293,
+        "energy": 0.817,
+        "key": 8,
+        "loudness": -5.432,
+        "mode": 1,
+        "speechiness": 0.0852,
+        "acousticness": 0.0401,
+        "instrumentalness": 3.4e-05,
+        "liveness": 0.13,
+        "valence": 0.145,
+        "tempo": 165.0,
+        "type": "audio_features",
+        "id": "4sjLcE0GQ6urc4iUXsUPe9",
+        "uri": "spotify:track:4sjLcE0GQ6urc4iUXsUPe9",
+        "track_href": "https://api.spotify.com/v1/tracks/4sjLcE0GQ6urc4iUXsUPe9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4sjLcE0GQ6urc4iUXsUPe9",
+        "duration_ms": 347667,
+        "time_signature": 4
+      }
+    ]
+  }
+]

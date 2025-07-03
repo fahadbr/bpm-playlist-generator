@@ -1,0 +1,321 @@
+[
+  {
+    "id": "04IgJXw7Wq1lDLefyMAUAC",
+    "name": "Vices",
+    "artist": "Brand New",
+    "album": "Daisy",
+    "bpm": 87.436,
+    "features": [
+      {
+        "danceability": 0.208,
+        "energy": 0.854,
+        "key": 9,
+        "loudness": -4.553,
+        "mode": 1,
+        "speechiness": 0.156,
+        "acousticness": 0.00571,
+        "instrumentalness": 2.01e-06,
+        "liveness": 0.0876,
+        "valence": 0.114,
+        "tempo": 87.436,
+        "type": "audio_features",
+        "id": "04IgJXw7Wq1lDLefyMAUAC",
+        "uri": "spotify:track:04IgJXw7Wq1lDLefyMAUAC",
+        "track_href": "https://api.spotify.com/v1/tracks/04IgJXw7Wq1lDLefyMAUAC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/04IgJXw7Wq1lDLefyMAUAC",
+        "duration_ms": 203627,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4NnPTMfNcQXcFJHmxQOFtz",
+    "name": "Bed",
+    "artist": "Brand New",
+    "album": "Daisy",
+    "bpm": 191.998,
+    "features": [
+      {
+        "danceability": 0.453,
+        "energy": 0.738,
+        "key": 4,
+        "loudness": -6.355,
+        "mode": 0,
+        "speechiness": 0.0336,
+        "acousticness": 0.00848,
+        "instrumentalness": 0.252,
+        "liveness": 0.113,
+        "valence": 0.383,
+        "tempo": 191.998,
+        "type": "audio_features",
+        "id": "4NnPTMfNcQXcFJHmxQOFtz",
+        "uri": "spotify:track:4NnPTMfNcQXcFJHmxQOFtz",
+        "track_href": "https://api.spotify.com/v1/tracks/4NnPTMfNcQXcFJHmxQOFtz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4NnPTMfNcQXcFJHmxQOFtz",
+        "duration_ms": 189533,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2YVWOvYEZBNkzeklG44v92",
+    "name": "At The Bottom",
+    "artist": "Brand New",
+    "album": "Daisy",
+    "bpm": 78.81,
+    "features": [
+      {
+        "danceability": 0.502,
+        "energy": 0.948,
+        "key": 2,
+        "loudness": -3.347,
+        "mode": 1,
+        "speechiness": 0.0634,
+        "acousticness": 0.107,
+        "instrumentalness": 6.9e-06,
+        "liveness": 0.0725,
+        "valence": 0.212,
+        "tempo": 78.81,
+        "type": "audio_features",
+        "id": "2YVWOvYEZBNkzeklG44v92",
+        "uri": "spotify:track:2YVWOvYEZBNkzeklG44v92",
+        "track_href": "https://api.spotify.com/v1/tracks/2YVWOvYEZBNkzeklG44v92",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YVWOvYEZBNkzeklG44v92",
+        "duration_ms": 244400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3f3lTGxLGsntJKtzczIVmH",
+    "name": "Gasoline",
+    "artist": "Brand New",
+    "album": "Daisy",
+    "bpm": 169.202,
+    "features": [
+      {
+        "danceability": 0.218,
+        "energy": 0.823,
+        "key": 11,
+        "loudness": -4.579,
+        "mode": 0,
+        "speechiness": 0.138,
+        "acousticness": 0.0861,
+        "instrumentalness": 0.00182,
+        "liveness": 0.535,
+        "valence": 0.157,
+        "tempo": 169.202,
+        "type": "audio_features",
+        "id": "3f3lTGxLGsntJKtzczIVmH",
+        "uri": "spotify:track:3f3lTGxLGsntJKtzczIVmH",
+        "track_href": "https://api.spotify.com/v1/tracks/3f3lTGxLGsntJKtzczIVmH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3f3lTGxLGsntJKtzczIVmH",
+        "duration_ms": 212107,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3E9It65dQyz5YfwhUndjoz",
+    "name": "You Stole",
+    "artist": "Brand New",
+    "album": "Daisy",
+    "bpm": 100.004,
+    "features": [
+      {
+        "danceability": 0.601,
+        "energy": 0.465,
+        "key": 9,
+        "loudness": -5.553,
+        "mode": 0,
+        "speechiness": 0.0292,
+        "acousticness": 0.0868,
+        "instrumentalness": 0.463,
+        "liveness": 0.057,
+        "valence": 0.137,
+        "tempo": 100.004,
+        "type": "audio_features",
+        "id": "3E9It65dQyz5YfwhUndjoz",
+        "uri": "spotify:track:3E9It65dQyz5YfwhUndjoz",
+        "track_href": "https://api.spotify.com/v1/tracks/3E9It65dQyz5YfwhUndjoz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3E9It65dQyz5YfwhUndjoz",
+        "duration_ms": 359973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Ss76aBg59l3enYvTsOAXe",
+    "name": "Be Gone",
+    "artist": "Brand New",
+    "album": "Daisy",
+    "bpm": 88.558,
+    "features": [
+      {
+        "danceability": 0.351,
+        "energy": 0.526,
+        "key": 6,
+        "loudness": -11.614,
+        "mode": 0,
+        "speechiness": 0.102,
+        "acousticness": 0.755,
+        "instrumentalness": 0.83,
+        "liveness": 0.107,
+        "valence": 0.86,
+        "tempo": 88.558,
+        "type": "audio_features",
+        "id": "6Ss76aBg59l3enYvTsOAXe",
+        "uri": "spotify:track:6Ss76aBg59l3enYvTsOAXe",
+        "track_href": "https://api.spotify.com/v1/tracks/6Ss76aBg59l3enYvTsOAXe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Ss76aBg59l3enYvTsOAXe",
+        "duration_ms": 90093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "79aBwWS3BX4BZLQGjbqB8W",
+    "name": "Sink",
+    "artist": "Brand New",
+    "album": "Daisy",
+    "bpm": 93.03,
+    "features": [
+      {
+        "danceability": 0.573,
+        "energy": 0.733,
+        "key": 0,
+        "loudness": -2.581,
+        "mode": 1,
+        "speechiness": 0.0376,
+        "acousticness": 0.00571,
+        "instrumentalness": 0.000193,
+        "liveness": 0.385,
+        "valence": 0.5,
+        "tempo": 93.03,
+        "type": "audio_features",
+        "id": "79aBwWS3BX4BZLQGjbqB8W",
+        "uri": "spotify:track:79aBwWS3BX4BZLQGjbqB8W",
+        "track_href": "https://api.spotify.com/v1/tracks/79aBwWS3BX4BZLQGjbqB8W",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/79aBwWS3BX4BZLQGjbqB8W",
+        "duration_ms": 199800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2Z54pMn4p3s9yYJ1d2nb16",
+    "name": "Bought A Bride",
+    "artist": "Brand New",
+    "album": "Daisy",
+    "bpm": 106.992,
+    "features": [
+      {
+        "danceability": 0.451,
+        "energy": 0.955,
+        "key": 9,
+        "loudness": -2.255,
+        "mode": 1,
+        "speechiness": 0.0989,
+        "acousticness": 0.0012,
+        "instrumentalness": 0.431,
+        "liveness": 0.067,
+        "valence": 0.078,
+        "tempo": 106.992,
+        "type": "audio_features",
+        "id": "2Z54pMn4p3s9yYJ1d2nb16",
+        "uri": "spotify:track:2Z54pMn4p3s9yYJ1d2nb16",
+        "track_href": "https://api.spotify.com/v1/tracks/2Z54pMn4p3s9yYJ1d2nb16",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Z54pMn4p3s9yYJ1d2nb16",
+        "duration_ms": 185933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "38JojmlSYWpjzCsjS3MJcf",
+    "name": "Daisy",
+    "artist": "Brand New",
+    "album": "Daisy",
+    "bpm": 111.957,
+    "features": [
+      {
+        "danceability": 0.634,
+        "energy": 0.62,
+        "key": 6,
+        "loudness": -7.352,
+        "mode": 0,
+        "speechiness": 0.0774,
+        "acousticness": 0.541,
+        "instrumentalness": 7.72e-06,
+        "liveness": 0.0938,
+        "valence": 0.705,
+        "tempo": 111.957,
+        "type": "audio_features",
+        "id": "38JojmlSYWpjzCsjS3MJcf",
+        "uri": "spotify:track:38JojmlSYWpjzCsjS3MJcf",
+        "track_href": "https://api.spotify.com/v1/tracks/38JojmlSYWpjzCsjS3MJcf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/38JojmlSYWpjzCsjS3MJcf",
+        "duration_ms": 186200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4iEDMDLH5HeRq2c8mxu6r0",
+    "name": "In A Jar",
+    "artist": "Brand New",
+    "album": "Daisy",
+    "bpm": 123.966,
+    "features": [
+      {
+        "danceability": 0.541,
+        "energy": 0.885,
+        "key": 4,
+        "loudness": -2.595,
+        "mode": 0,
+        "speechiness": 0.065,
+        "acousticness": 0.00898,
+        "instrumentalness": 0.0273,
+        "liveness": 0.342,
+        "valence": 0.48,
+        "tempo": 123.966,
+        "type": "audio_features",
+        "id": "4iEDMDLH5HeRq2c8mxu6r0",
+        "uri": "spotify:track:4iEDMDLH5HeRq2c8mxu6r0",
+        "track_href": "https://api.spotify.com/v1/tracks/4iEDMDLH5HeRq2c8mxu6r0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4iEDMDLH5HeRq2c8mxu6r0",
+        "duration_ms": 185960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0gnghYueLlFClfojwYuBas",
+    "name": "Noro",
+    "artist": "Brand New",
+    "album": "Daisy",
+    "bpm": 115.34,
+    "features": [
+      {
+        "danceability": 0.429,
+        "energy": 0.569,
+        "key": 4,
+        "loudness": -6.548,
+        "mode": 0,
+        "speechiness": 0.0434,
+        "acousticness": 0.0782,
+        "instrumentalness": 0.00144,
+        "liveness": 0.273,
+        "valence": 0.131,
+        "tempo": 115.34,
+        "type": "audio_features",
+        "id": "0gnghYueLlFClfojwYuBas",
+        "uri": "spotify:track:0gnghYueLlFClfojwYuBas",
+        "track_href": "https://api.spotify.com/v1/tracks/0gnghYueLlFClfojwYuBas",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0gnghYueLlFClfojwYuBas",
+        "duration_ms": 386773,
+        "time_signature": 4
+      }
+    ]
+  }
+]

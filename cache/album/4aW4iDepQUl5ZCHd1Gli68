@@ -1,0 +1,437 @@
+[
+  {
+    "id": "7xENAAODeE2hKzdWFI6YaB",
+    "name": "Entergalactic Theme",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 87.07,
+    "features": [
+      {
+        "danceability": 0.162,
+        "energy": 0.37,
+        "key": 6,
+        "loudness": -13.549,
+        "mode": 0,
+        "speechiness": 0.0399,
+        "acousticness": 0.439,
+        "instrumentalness": 0.905,
+        "liveness": 0.123,
+        "valence": 0.0394,
+        "tempo": 87.07,
+        "type": "audio_features",
+        "id": "7xENAAODeE2hKzdWFI6YaB",
+        "uri": "spotify:track:7xENAAODeE2hKzdWFI6YaB",
+        "track_href": "https://api.spotify.com/v1/tracks/7xENAAODeE2hKzdWFI6YaB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7xENAAODeE2hKzdWFI6YaB",
+        "duration_ms": 90480,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "42pKWuJst0oAuUbTvkNqr6",
+    "name": "New Mode",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 152.064,
+    "features": [
+      {
+        "danceability": 0.75,
+        "energy": 0.555,
+        "key": 5,
+        "loudness": -6.081,
+        "mode": 0,
+        "speechiness": 0.0429,
+        "acousticness": 0.173,
+        "instrumentalness": 0.185,
+        "liveness": 0.1,
+        "valence": 0.874,
+        "tempo": 152.064,
+        "type": "audio_features",
+        "id": "42pKWuJst0oAuUbTvkNqr6",
+        "uri": "spotify:track:42pKWuJst0oAuUbTvkNqr6",
+        "track_href": "https://api.spotify.com/v1/tracks/42pKWuJst0oAuUbTvkNqr6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/42pKWuJst0oAuUbTvkNqr6",
+        "duration_ms": 236320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5OIz27S6SQOJtweneBd6QP",
+    "name": "Do What I Want",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 154.998,
+    "features": [
+      {
+        "danceability": 0.825,
+        "energy": 0.885,
+        "key": 1,
+        "loudness": -3.928,
+        "mode": 1,
+        "speechiness": 0.126,
+        "acousticness": 0.0851,
+        "instrumentalness": 6.62e-06,
+        "liveness": 0.114,
+        "valence": 0.372,
+        "tempo": 154.998,
+        "type": "audio_features",
+        "id": "5OIz27S6SQOJtweneBd6QP",
+        "uri": "spotify:track:5OIz27S6SQOJtweneBd6QP",
+        "track_href": "https://api.spotify.com/v1/tracks/5OIz27S6SQOJtweneBd6QP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5OIz27S6SQOJtweneBd6QP",
+        "duration_ms": 172053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1T8YUlqrG15Tjetxhos6eJ",
+    "name": "Angel",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 115.458,
+    "features": [
+      {
+        "danceability": 0.269,
+        "energy": 0.145,
+        "key": 8,
+        "loudness": -18.0,
+        "mode": 0,
+        "speechiness": 0.0396,
+        "acousticness": 0.965,
+        "instrumentalness": 0.182,
+        "liveness": 0.103,
+        "valence": 0.154,
+        "tempo": 115.458,
+        "type": "audio_features",
+        "id": "1T8YUlqrG15Tjetxhos6eJ",
+        "uri": "spotify:track:1T8YUlqrG15Tjetxhos6eJ",
+        "track_href": "https://api.spotify.com/v1/tracks/1T8YUlqrG15Tjetxhos6eJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1T8YUlqrG15Tjetxhos6eJ",
+        "duration_ms": 146667,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7CY88rDZ8oKYAlmYoSyxwR",
+    "name": "Ignite The Love",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 90.069,
+    "features": [
+      {
+        "danceability": 0.346,
+        "energy": 0.512,
+        "key": 5,
+        "loudness": -8.972,
+        "mode": 0,
+        "speechiness": 0.0454,
+        "acousticness": 0.0863,
+        "instrumentalness": 0.00165,
+        "liveness": 0.102,
+        "valence": 0.0928,
+        "tempo": 90.069,
+        "type": "audio_features",
+        "id": "7CY88rDZ8oKYAlmYoSyxwR",
+        "uri": "spotify:track:7CY88rDZ8oKYAlmYoSyxwR",
+        "track_href": "https://api.spotify.com/v1/tracks/7CY88rDZ8oKYAlmYoSyxwR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7CY88rDZ8oKYAlmYoSyxwR",
+        "duration_ms": 162067,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2aerPJ594vJMo0lK0hHGRO",
+    "name": "In Love",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 121.462,
+    "features": [
+      {
+        "danceability": 0.64,
+        "energy": 0.497,
+        "key": 0,
+        "loudness": -8.158,
+        "mode": 0,
+        "speechiness": 0.0289,
+        "acousticness": 0.132,
+        "instrumentalness": 0.00404,
+        "liveness": 0.103,
+        "valence": 0.282,
+        "tempo": 121.462,
+        "type": "audio_features",
+        "id": "2aerPJ594vJMo0lK0hHGRO",
+        "uri": "spotify:track:2aerPJ594vJMo0lK0hHGRO",
+        "track_href": "https://api.spotify.com/v1/tracks/2aerPJ594vJMo0lK0hHGRO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2aerPJ594vJMo0lK0hHGRO",
+        "duration_ms": 218160,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1OFQT3lHGbnn3x9jPtagXk",
+    "name": "Willing To Trust (with Ty Dolla $ign)",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 78.013,
+    "features": [
+      {
+        "danceability": 0.602,
+        "energy": 0.733,
+        "key": 0,
+        "loudness": -7.06,
+        "mode": 1,
+        "speechiness": 0.223,
+        "acousticness": 0.00939,
+        "instrumentalness": 0.136,
+        "liveness": 0.346,
+        "valence": 0.315,
+        "tempo": 78.013,
+        "type": "audio_features",
+        "id": "1OFQT3lHGbnn3x9jPtagXk",
+        "uri": "spotify:track:1OFQT3lHGbnn3x9jPtagXk",
+        "track_href": "https://api.spotify.com/v1/tracks/1OFQT3lHGbnn3x9jPtagXk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1OFQT3lHGbnn3x9jPtagXk",
+        "duration_ms": 282053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1r3qUIDhMvoTct7cxPnbdN",
+    "name": "Can't Believe It (feat. 2 Chainz)",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 169.878,
+    "features": [
+      {
+        "danceability": 0.761,
+        "energy": 0.645,
+        "key": 1,
+        "loudness": -6.415,
+        "mode": 1,
+        "speechiness": 0.114,
+        "acousticness": 0.000709,
+        "instrumentalness": 0.0443,
+        "liveness": 0.356,
+        "valence": 0.656,
+        "tempo": 169.878,
+        "type": "audio_features",
+        "id": "1r3qUIDhMvoTct7cxPnbdN",
+        "uri": "spotify:track:1r3qUIDhMvoTct7cxPnbdN",
+        "track_href": "https://api.spotify.com/v1/tracks/1r3qUIDhMvoTct7cxPnbdN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1r3qUIDhMvoTct7cxPnbdN",
+        "duration_ms": 172107,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "37Qn9foJ2E2S24guZSyvyg",
+    "name": "Livin' My Truth",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 80.99,
+    "features": [
+      {
+        "danceability": 0.678,
+        "energy": 0.692,
+        "key": 11,
+        "loudness": -6.587,
+        "mode": 0,
+        "speechiness": 0.0392,
+        "acousticness": 0.357,
+        "instrumentalness": 0.0597,
+        "liveness": 0.143,
+        "valence": 0.934,
+        "tempo": 80.99,
+        "type": "audio_features",
+        "id": "37Qn9foJ2E2S24guZSyvyg",
+        "uri": "spotify:track:37Qn9foJ2E2S24guZSyvyg",
+        "track_href": "https://api.spotify.com/v1/tracks/37Qn9foJ2E2S24guZSyvyg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/37Qn9foJ2E2S24guZSyvyg",
+        "duration_ms": 133507,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2K5cJfIJ5nak7BPfnM6VHP",
+    "name": "Maybe So",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 142.105,
+    "features": [
+      {
+        "danceability": 0.517,
+        "energy": 0.414,
+        "key": 7,
+        "loudness": -10.242,
+        "mode": 1,
+        "speechiness": 0.0272,
+        "acousticness": 0.128,
+        "instrumentalness": 0.0271,
+        "liveness": 0.268,
+        "valence": 0.174,
+        "tempo": 142.105,
+        "type": "audio_features",
+        "id": "2K5cJfIJ5nak7BPfnM6VHP",
+        "uri": "spotify:track:2K5cJfIJ5nak7BPfnM6VHP",
+        "track_href": "https://api.spotify.com/v1/tracks/2K5cJfIJ5nak7BPfnM6VHP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2K5cJfIJ5nak7BPfnM6VHP",
+        "duration_ms": 220187,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4AmISPiQJMPLN4KootjCUu",
+    "name": "Can't Shake Her (with Ty Dolla $ign)",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 121.004,
+    "features": [
+      {
+        "danceability": 0.629,
+        "energy": 0.628,
+        "key": 9,
+        "loudness": -9.388,
+        "mode": 0,
+        "speechiness": 0.0341,
+        "acousticness": 0.0223,
+        "instrumentalness": 0,
+        "liveness": 0.192,
+        "valence": 0.515,
+        "tempo": 121.004,
+        "type": "audio_features",
+        "id": "4AmISPiQJMPLN4KootjCUu",
+        "uri": "spotify:track:4AmISPiQJMPLN4KootjCUu",
+        "track_href": "https://api.spotify.com/v1/tracks/4AmISPiQJMPLN4KootjCUu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4AmISPiQJMPLN4KootjCUu",
+        "duration_ms": 176600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1WWCpeMyByhHYM2K9atukB",
+    "name": "She's Lookin' For Me",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 76.003,
+    "features": [
+      {
+        "danceability": 0.631,
+        "energy": 0.428,
+        "key": 1,
+        "loudness": -7.379,
+        "mode": 1,
+        "speechiness": 0.0335,
+        "acousticness": 0.151,
+        "instrumentalness": 7.85e-05,
+        "liveness": 0.107,
+        "valence": 0.186,
+        "tempo": 76.003,
+        "type": "audio_features",
+        "id": "1WWCpeMyByhHYM2K9atukB",
+        "uri": "spotify:track:1WWCpeMyByhHYM2K9atukB",
+        "track_href": "https://api.spotify.com/v1/tracks/1WWCpeMyByhHYM2K9atukB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1WWCpeMyByhHYM2K9atukB",
+        "duration_ms": 215467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6MQuFi8gzoJAYwxkYvnbb1",
+    "name": "My Drug",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 150.372,
+    "features": [
+      {
+        "danceability": 0.479,
+        "energy": 0.386,
+        "key": 2,
+        "loudness": -9.944,
+        "mode": 0,
+        "speechiness": 0.0314,
+        "acousticness": 0.0326,
+        "instrumentalness": 1.62e-05,
+        "liveness": 0.113,
+        "valence": 0.155,
+        "tempo": 150.372,
+        "type": "audio_features",
+        "id": "6MQuFi8gzoJAYwxkYvnbb1",
+        "uri": "spotify:track:6MQuFi8gzoJAYwxkYvnbb1",
+        "track_href": "https://api.spotify.com/v1/tracks/6MQuFi8gzoJAYwxkYvnbb1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6MQuFi8gzoJAYwxkYvnbb1",
+        "duration_ms": 131373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1irXetrpIyLUtvkNw2F2tu",
+    "name": "Somewhere to Fly (with Don Toliver)",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 171.003,
+    "features": [
+      {
+        "danceability": 0.589,
+        "energy": 0.581,
+        "key": 7,
+        "loudness": -8.497,
+        "mode": 0,
+        "speechiness": 0.0559,
+        "acousticness": 0.231,
+        "instrumentalness": 0.00512,
+        "liveness": 0.0779,
+        "valence": 0.495,
+        "tempo": 171.003,
+        "type": "audio_features",
+        "id": "1irXetrpIyLUtvkNw2F2tu",
+        "uri": "spotify:track:1irXetrpIyLUtvkNw2F2tu",
+        "track_href": "https://api.spotify.com/v1/tracks/1irXetrpIyLUtvkNw2F2tu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1irXetrpIyLUtvkNw2F2tu",
+        "duration_ms": 176680,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "79QdtrBWO8lCVaZCYMIxvn",
+    "name": "Burrow (with Don Toliver, Steve Aoki & Dot Da Genius) - Bonus Track",
+    "artist": "Kid Cudi",
+    "album": "Entergalactic",
+    "bpm": 135.012,
+    "features": [
+      {
+        "danceability": 0.645,
+        "energy": 0.743,
+        "key": 8,
+        "loudness": -7.0,
+        "mode": 0,
+        "speechiness": 0.0279,
+        "acousticness": 0.0175,
+        "instrumentalness": 0.321,
+        "liveness": 0.0916,
+        "valence": 0.226,
+        "tempo": 135.012,
+        "type": "audio_features",
+        "id": "79QdtrBWO8lCVaZCYMIxvn",
+        "uri": "spotify:track:79QdtrBWO8lCVaZCYMIxvn",
+        "track_href": "https://api.spotify.com/v1/tracks/79QdtrBWO8lCVaZCYMIxvn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/79QdtrBWO8lCVaZCYMIxvn",
+        "duration_ms": 211280,
+        "time_signature": 4
+      }
+    ]
+  }
+]

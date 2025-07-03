@@ -1,0 +1,534 @@
+[
+  {
+    "id": "6fd9RQbjRJVu5bboe76Asw",
+    "name": "The Library - Intro",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": NaN,
+    "features": [
+      null
+    ]
+  },
+  {
+    "id": "11LpjG9t8CIEiDpDufY70V",
+    "name": "I.Crawl",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 132.976,
+    "features": [
+      {
+        "danceability": 0.588,
+        "energy": 0.539,
+        "key": 6,
+        "loudness": -8.816,
+        "mode": 1,
+        "speechiness": 0.0396,
+        "acousticness": 0.0445,
+        "instrumentalness": 4.82e-06,
+        "liveness": 0.122,
+        "valence": 0.343,
+        "tempo": 132.976,
+        "type": "audio_features",
+        "id": "11LpjG9t8CIEiDpDufY70V",
+        "uri": "spotify:track:11LpjG9t8CIEiDpDufY70V",
+        "track_href": "https://api.spotify.com/v1/tracks/11LpjG9t8CIEiDpDufY70V",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/11LpjG9t8CIEiDpDufY70V",
+        "duration_ms": 209473,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4oIHQ7BXApxvJ42yX0d5Qj",
+    "name": "II. Worldstar",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 119.828,
+    "features": [
+      {
+        "danceability": 0.57,
+        "energy": 0.598,
+        "key": 0,
+        "loudness": -9.684,
+        "mode": 1,
+        "speechiness": 0.167,
+        "acousticness": 0.348,
+        "instrumentalness": 0.159,
+        "liveness": 0.135,
+        "valence": 0.223,
+        "tempo": 119.828,
+        "type": "audio_features",
+        "id": "4oIHQ7BXApxvJ42yX0d5Qj",
+        "uri": "spotify:track:4oIHQ7BXApxvJ42yX0d5Qj",
+        "track_href": "https://api.spotify.com/v1/tracks/4oIHQ7BXApxvJ42yX0d5Qj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4oIHQ7BXApxvJ42yX0d5Qj",
+        "duration_ms": 244652,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2XWJSH29t2wiVssvn6ZJT4",
+    "name": "Dial up",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 97.116,
+    "features": [
+      {
+        "danceability": 0.454,
+        "energy": 0.254,
+        "key": 3,
+        "loudness": -17.844,
+        "mode": 1,
+        "speechiness": 0.0408,
+        "acousticness": 0.91,
+        "instrumentalness": 0.655,
+        "liveness": 0.535,
+        "valence": 0.51,
+        "tempo": 97.116,
+        "type": "audio_features",
+        "id": "2XWJSH29t2wiVssvn6ZJT4",
+        "uri": "spotify:track:2XWJSH29t2wiVssvn6ZJT4",
+        "track_href": "https://api.spotify.com/v1/tracks/2XWJSH29t2wiVssvn6ZJT4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2XWJSH29t2wiVssvn6ZJT4",
+        "duration_ms": 44536,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4jnctHRggVIvMgkru936fN",
+    "name": "I. The Worst Guys",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 97.047,
+    "features": [
+      {
+        "danceability": 0.596,
+        "energy": 0.64,
+        "key": 5,
+        "loudness": -7.553,
+        "mode": 0,
+        "speechiness": 0.111,
+        "acousticness": 0.0573,
+        "instrumentalness": 0,
+        "liveness": 0.0622,
+        "valence": 0.354,
+        "tempo": 97.047,
+        "type": "audio_features",
+        "id": "4jnctHRggVIvMgkru936fN",
+        "uri": "spotify:track:4jnctHRggVIvMgkru936fN",
+        "track_href": "https://api.spotify.com/v1/tracks/4jnctHRggVIvMgkru936fN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4jnctHRggVIvMgkru936fN",
+        "duration_ms": 219740,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4A32tQkqdNxhP3vom3TqWe",
+    "name": "II. Shadows",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 116.32,
+    "features": [
+      {
+        "danceability": 0.606,
+        "energy": 0.727,
+        "key": 1,
+        "loudness": -9.802,
+        "mode": 1,
+        "speechiness": 0.208,
+        "acousticness": 0.0882,
+        "instrumentalness": 0.0302,
+        "liveness": 0.332,
+        "valence": 0.378,
+        "tempo": 116.32,
+        "type": "audio_features",
+        "id": "4A32tQkqdNxhP3vom3TqWe",
+        "uri": "spotify:track:4A32tQkqdNxhP3vom3TqWe",
+        "track_href": "https://api.spotify.com/v1/tracks/4A32tQkqdNxhP3vom3TqWe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4A32tQkqdNxhP3vom3TqWe",
+        "duration_ms": 231746,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0fgosF2PWrYbyy9e7BclKz",
+    "name": "III. Telegraph Ave. (\"Oakland\" by Lloyd)",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 129.928,
+    "features": [
+      {
+        "danceability": 0.497,
+        "energy": 0.693,
+        "key": 5,
+        "loudness": -9.576,
+        "mode": 0,
+        "speechiness": 0.247,
+        "acousticness": 0.159,
+        "instrumentalness": 0.0261,
+        "liveness": 0.141,
+        "valence": 0.597,
+        "tempo": 129.928,
+        "type": "audio_features",
+        "id": "0fgosF2PWrYbyy9e7BclKz",
+        "uri": "spotify:track:0fgosF2PWrYbyy9e7BclKz",
+        "track_href": "https://api.spotify.com/v1/tracks/0fgosF2PWrYbyy9e7BclKz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0fgosF2PWrYbyy9e7BclKz",
+        "duration_ms": 210673,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4NvXTrOSsVlCw0bFe3lKY9",
+    "name": "IV. Sweatpants",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 80.027,
+    "features": [
+      {
+        "danceability": 0.71,
+        "energy": 0.463,
+        "key": 1,
+        "loudness": -9.33,
+        "mode": 0,
+        "speechiness": 0.146,
+        "acousticness": 0.154,
+        "instrumentalness": 0,
+        "liveness": 0.642,
+        "valence": 0.59,
+        "tempo": 80.027,
+        "type": "audio_features",
+        "id": "4NvXTrOSsVlCw0bFe3lKY9",
+        "uri": "spotify:track:4NvXTrOSsVlCw0bFe3lKY9",
+        "track_href": "https://api.spotify.com/v1/tracks/4NvXTrOSsVlCw0bFe3lKY9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4NvXTrOSsVlCw0bFe3lKY9",
+        "duration_ms": 180675,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2X6b7zLdIxCejd6GqVcQ9M",
+    "name": "3005",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 166.065,
+    "features": [
+      {
+        "danceability": 0.472,
+        "energy": 0.449,
+        "key": 6,
+        "loudness": -7.272,
+        "mode": 0,
+        "speechiness": 0.326,
+        "acousticness": 0.113,
+        "instrumentalness": 0,
+        "liveness": 0.0891,
+        "valence": 0.634,
+        "tempo": 166.065,
+        "type": "audio_features",
+        "id": "2X6b7zLdIxCejd6GqVcQ9M",
+        "uri": "spotify:track:2X6b7zLdIxCejd6GqVcQ9M",
+        "track_href": "https://api.spotify.com/v1/tracks/2X6b7zLdIxCejd6GqVcQ9M",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2X6b7zLdIxCejd6GqVcQ9M",
+        "duration_ms": 234215,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2PvNMb5Tp3f4Zh0tOvB7fp",
+    "name": "Playing Around Before The Party Starts",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 167.262,
+    "features": [
+      {
+        "danceability": 0.264,
+        "energy": 0.126,
+        "key": 7,
+        "loudness": -22.601,
+        "mode": 0,
+        "speechiness": 0.0391,
+        "acousticness": 0.995,
+        "instrumentalness": 0.948,
+        "liveness": 0.243,
+        "valence": 0.0858,
+        "tempo": 167.262,
+        "type": "audio_features",
+        "id": "2PvNMb5Tp3f4Zh0tOvB7fp",
+        "uri": "spotify:track:2PvNMb5Tp3f4Zh0tOvB7fp",
+        "track_href": "https://api.spotify.com/v1/tracks/2PvNMb5Tp3f4Zh0tOvB7fp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2PvNMb5Tp3f4Zh0tOvB7fp",
+        "duration_ms": 54454,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1pYC3p85HfI8Ex1B1vzOww",
+    "name": "I. The Party",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 148.223,
+    "features": [
+      {
+        "danceability": 0.503,
+        "energy": 0.567,
+        "key": 6,
+        "loudness": -11.415,
+        "mode": 1,
+        "speechiness": 0.349,
+        "acousticness": 0.153,
+        "instrumentalness": 0.00446,
+        "liveness": 0.14,
+        "valence": 0.38,
+        "tempo": 148.223,
+        "type": "audio_features",
+        "id": "1pYC3p85HfI8Ex1B1vzOww",
+        "uri": "spotify:track:1pYC3p85HfI8Ex1B1vzOww",
+        "track_href": "https://api.spotify.com/v1/tracks/1pYC3p85HfI8Ex1B1vzOww",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1pYC3p85HfI8Ex1B1vzOww",
+        "duration_ms": 91292,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4fjUDvbCndgYBWuYMpW894",
+    "name": "II. No Exit",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 92.153,
+    "features": [
+      {
+        "danceability": 0.698,
+        "energy": 0.556,
+        "key": 10,
+        "loudness": -9.499,
+        "mode": 0,
+        "speechiness": 0.396,
+        "acousticness": 0.703,
+        "instrumentalness": 0.00202,
+        "liveness": 0.195,
+        "valence": 0.169,
+        "tempo": 92.153,
+        "type": "audio_features",
+        "id": "4fjUDvbCndgYBWuYMpW894",
+        "uri": "spotify:track:4fjUDvbCndgYBWuYMpW894",
+        "track_href": "https://api.spotify.com/v1/tracks/4fjUDvbCndgYBWuYMpW894",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4fjUDvbCndgYBWuYMpW894",
+        "duration_ms": 171779,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1lDCNFj85Zmf98AOvDsBif",
+    "name": "Death By Numbers",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 100.254,
+    "features": [
+      {
+        "danceability": 0.639,
+        "energy": 0.377,
+        "key": 6,
+        "loudness": -11.204,
+        "mode": 1,
+        "speechiness": 0.0708,
+        "acousticness": 0.416,
+        "instrumentalness": 0.765,
+        "liveness": 0.169,
+        "valence": 0.464,
+        "tempo": 100.254,
+        "type": "audio_features",
+        "id": "1lDCNFj85Zmf98AOvDsBif",
+        "uri": "spotify:track:1lDCNFj85Zmf98AOvDsBif",
+        "track_href": "https://api.spotify.com/v1/tracks/1lDCNFj85Zmf98AOvDsBif",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1lDCNFj85Zmf98AOvDsBif",
+        "duration_ms": 43968,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0RDKUURGxghQIpKRpwIbpp",
+    "name": "I. Flight Of The Navigator",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 79.597,
+    "features": [
+      {
+        "danceability": 0.332,
+        "energy": 0.667,
+        "key": 1,
+        "loudness": -10.739,
+        "mode": 0,
+        "speechiness": 0.0436,
+        "acousticness": 0.0539,
+        "instrumentalness": 0.147,
+        "liveness": 0.128,
+        "valence": 0.164,
+        "tempo": 79.597,
+        "type": "audio_features",
+        "id": "0RDKUURGxghQIpKRpwIbpp",
+        "uri": "spotify:track:0RDKUURGxghQIpKRpwIbpp",
+        "track_href": "https://api.spotify.com/v1/tracks/0RDKUURGxghQIpKRpwIbpp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0RDKUURGxghQIpKRpwIbpp",
+        "duration_ms": 344143,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6f22TuMwo4G1yADTOPdJiy",
+    "name": "II. Zealots Of Stockholm [Free Information]",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 73.575,
+    "features": [
+      {
+        "danceability": 0.242,
+        "energy": 0.401,
+        "key": 6,
+        "loudness": -11.735,
+        "mode": 1,
+        "speechiness": 0.0659,
+        "acousticness": 0.0851,
+        "instrumentalness": 0.000272,
+        "liveness": 0.28,
+        "valence": 0.0994,
+        "tempo": 73.575,
+        "type": "audio_features",
+        "id": "6f22TuMwo4G1yADTOPdJiy",
+        "uri": "spotify:track:6f22TuMwo4G1yADTOPdJiy",
+        "track_href": "https://api.spotify.com/v1/tracks/6f22TuMwo4G1yADTOPdJiy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6f22TuMwo4G1yADTOPdJiy",
+        "duration_ms": 290706,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "6KqAgoz02Jjga2TGdnCAKy",
+    "name": "III. Urn",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 139.727,
+    "features": [
+      {
+        "danceability": 0.613,
+        "energy": 0.446,
+        "key": 2,
+        "loudness": -12.759,
+        "mode": 0,
+        "speechiness": 0.062,
+        "acousticness": 0.623,
+        "instrumentalness": 0.00257,
+        "liveness": 0.0731,
+        "valence": 0.406,
+        "tempo": 139.727,
+        "type": "audio_features",
+        "id": "6KqAgoz02Jjga2TGdnCAKy",
+        "uri": "spotify:track:6KqAgoz02Jjga2TGdnCAKy",
+        "track_href": "https://api.spotify.com/v1/tracks/6KqAgoz02Jjga2TGdnCAKy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6KqAgoz02Jjga2TGdnCAKy",
+        "duration_ms": 73387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5rmmw20qm7TDplJvyQAhIn",
+    "name": "I. Pink Toes",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 79.615,
+    "features": [
+      {
+        "danceability": 0.42,
+        "energy": 0.621,
+        "key": 7,
+        "loudness": -9.512,
+        "mode": 1,
+        "speechiness": 0.0749,
+        "acousticness": 0.0599,
+        "instrumentalness": 0.000209,
+        "liveness": 0.575,
+        "valence": 0.351,
+        "tempo": 79.615,
+        "type": "audio_features",
+        "id": "5rmmw20qm7TDplJvyQAhIn",
+        "uri": "spotify:track:5rmmw20qm7TDplJvyQAhIn",
+        "track_href": "https://api.spotify.com/v1/tracks/5rmmw20qm7TDplJvyQAhIn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5rmmw20qm7TDplJvyQAhIn",
+        "duration_ms": 207067,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4lVonIcSSHhcqXG1mowTC0",
+    "name": "II. Earth: The Oldest Computer (The Last Night)",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 139.767,
+    "features": [
+      {
+        "danceability": 0.473,
+        "energy": 0.687,
+        "key": 2,
+        "loudness": -7.248,
+        "mode": 1,
+        "speechiness": 0.0542,
+        "acousticness": 0.0043,
+        "instrumentalness": 0.000193,
+        "liveness": 0.047,
+        "valence": 0.13,
+        "tempo": 139.767,
+        "type": "audio_features",
+        "id": "4lVonIcSSHhcqXG1mowTC0",
+        "uri": "spotify:track:4lVonIcSSHhcqXG1mowTC0",
+        "track_href": "https://api.spotify.com/v1/tracks/4lVonIcSSHhcqXG1mowTC0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4lVonIcSSHhcqXG1mowTC0",
+        "duration_ms": 282418,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0cXHPADqI7N0BEQByrkmwd",
+    "name": "III. Life: The Biggest Troll [Andrew Auernheimer]",
+    "artist": "Childish Gambino",
+    "album": "Because The Internet",
+    "bpm": 80.086,
+    "features": [
+      {
+        "danceability": 0.559,
+        "energy": 0.611,
+        "key": 1,
+        "loudness": -7.798,
+        "mode": 1,
+        "speechiness": 0.206,
+        "acousticness": 0.018,
+        "instrumentalness": 0,
+        "liveness": 0.111,
+        "valence": 0.526,
+        "tempo": 80.086,
+        "type": "audio_features",
+        "id": "0cXHPADqI7N0BEQByrkmwd",
+        "uri": "spotify:track:0cXHPADqI7N0BEQByrkmwd",
+        "track_href": "https://api.spotify.com/v1/tracks/0cXHPADqI7N0BEQByrkmwd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0cXHPADqI7N0BEQByrkmwd",
+        "duration_ms": 342049,
+        "time_signature": 4
+      }
+    ]
+  }
+]

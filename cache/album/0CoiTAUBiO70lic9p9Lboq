@@ -1,0 +1,524 @@
+[
+  {
+    "id": "5zfvGTlCAxY6GwZ9TkCZ4M",
+    "name": "Ten Thousand Hours",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 80.488,
+    "features": [
+      {
+        "danceability": 0.355,
+        "energy": 0.758,
+        "key": 3,
+        "loudness": -7.566,
+        "mode": 0,
+        "speechiness": 0.326,
+        "acousticness": 0.199,
+        "instrumentalness": 0,
+        "liveness": 0.144,
+        "valence": 0.541,
+        "tempo": 80.488,
+        "type": "audio_features",
+        "id": "5zfvGTlCAxY6GwZ9TkCZ4M",
+        "uri": "spotify:track:5zfvGTlCAxY6GwZ9TkCZ4M",
+        "track_href": "https://api.spotify.com/v1/tracks/5zfvGTlCAxY6GwZ9TkCZ4M",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zfvGTlCAxY6GwZ9TkCZ4M",
+        "duration_ms": 249534,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "22skzmqfdWrjJylampe0kt",
+    "name": "Can't Hold Us (feat. Ray Dalton)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 146.097,
+    "features": [
+      {
+        "danceability": 0.633,
+        "energy": 0.927,
+        "key": 2,
+        "loudness": -4.468,
+        "mode": 1,
+        "speechiness": 0.0839,
+        "acousticness": 0.0267,
+        "instrumentalness": 0,
+        "liveness": 0.0986,
+        "valence": 0.88,
+        "tempo": 146.097,
+        "type": "audio_features",
+        "id": "22skzmqfdWrjJylampe0kt",
+        "uri": "spotify:track:22skzmqfdWrjJylampe0kt",
+        "track_href": "https://api.spotify.com/v1/tracks/22skzmqfdWrjJylampe0kt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/22skzmqfdWrjJylampe0kt",
+        "duration_ms": 258432,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6CjtS2JZH9RkDz5UVInsa9",
+    "name": "Thrift Shop (feat. Wanz)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 94.993,
+    "features": [
+      {
+        "danceability": 0.781,
+        "energy": 0.526,
+        "key": 6,
+        "loudness": -6.986,
+        "mode": 0,
+        "speechiness": 0.293,
+        "acousticness": 0.0633,
+        "instrumentalness": 0,
+        "liveness": 0.0457,
+        "valence": 0.665,
+        "tempo": 94.993,
+        "type": "audio_features",
+        "id": "6CjtS2JZH9RkDz5UVInsa9",
+        "uri": "spotify:track:6CjtS2JZH9RkDz5UVInsa9",
+        "track_href": "https://api.spotify.com/v1/tracks/6CjtS2JZH9RkDz5UVInsa9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6CjtS2JZH9RkDz5UVInsa9",
+        "duration_ms": 235613,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2fydEzbtN7EkzbEC4iMYhn",
+    "name": "Thin Line (feat. Buffalo Madonna)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 104.717,
+    "features": [
+      {
+        "danceability": 0.689,
+        "energy": 0.813,
+        "key": 1,
+        "loudness": -6.54,
+        "mode": 1,
+        "speechiness": 0.263,
+        "acousticness": 0.622,
+        "instrumentalness": 1.43e-05,
+        "liveness": 0.122,
+        "valence": 0.119,
+        "tempo": 104.717,
+        "type": "audio_features",
+        "id": "2fydEzbtN7EkzbEC4iMYhn",
+        "uri": "spotify:track:2fydEzbtN7EkzbEC4iMYhn",
+        "track_href": "https://api.spotify.com/v1/tracks/2fydEzbtN7EkzbEC4iMYhn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2fydEzbtN7EkzbEC4iMYhn",
+        "duration_ms": 256180,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2SUbEGOWS0cUV19uFjQQxR",
+    "name": "Same Love (feat. Mary Lambert)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 84.964,
+    "features": [
+      {
+        "danceability": 0.618,
+        "energy": 0.475,
+        "key": 8,
+        "loudness": -9.05,
+        "mode": 1,
+        "speechiness": 0.165,
+        "acousticness": 0.718,
+        "instrumentalness": 2.33e-05,
+        "liveness": 0.0994,
+        "valence": 0.313,
+        "tempo": 84.964,
+        "type": "audio_features",
+        "id": "2SUbEGOWS0cUV19uFjQQxR",
+        "uri": "spotify:track:2SUbEGOWS0cUV19uFjQQxR",
+        "track_href": "https://api.spotify.com/v1/tracks/2SUbEGOWS0cUV19uFjQQxR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2SUbEGOWS0cUV19uFjQQxR",
+        "duration_ms": 320035,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0YnkUO5Pb02TyNtS9DpOd4",
+    "name": "Make The Money",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 88.763,
+    "features": [
+      {
+        "danceability": 0.61,
+        "energy": 0.917,
+        "key": 2,
+        "loudness": -5.993,
+        "mode": 0,
+        "speechiness": 0.271,
+        "acousticness": 0.168,
+        "instrumentalness": 1.38e-05,
+        "liveness": 0.366,
+        "valence": 0.463,
+        "tempo": 88.763,
+        "type": "audio_features",
+        "id": "0YnkUO5Pb02TyNtS9DpOd4",
+        "uri": "spotify:track:0YnkUO5Pb02TyNtS9DpOd4",
+        "track_href": "https://api.spotify.com/v1/tracks/0YnkUO5Pb02TyNtS9DpOd4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YnkUO5Pb02TyNtS9DpOd4",
+        "duration_ms": 224834,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3VAXbgI4hKU3Dk7VWpFMMf",
+    "name": "Neon Cathedral (feat. Allen Stone)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 164.488,
+    "features": [
+      {
+        "danceability": 0.507,
+        "energy": 0.592,
+        "key": 4,
+        "loudness": -8.84,
+        "mode": 0,
+        "speechiness": 0.456,
+        "acousticness": 0.383,
+        "instrumentalness": 0,
+        "liveness": 0.0801,
+        "valence": 0.544,
+        "tempo": 164.488,
+        "type": "audio_features",
+        "id": "3VAXbgI4hKU3Dk7VWpFMMf",
+        "uri": "spotify:track:3VAXbgI4hKU3Dk7VWpFMMf",
+        "track_href": "https://api.spotify.com/v1/tracks/3VAXbgI4hKU3Dk7VWpFMMf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3VAXbgI4hKU3Dk7VWpFMMf",
+        "duration_ms": 274285,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0lqbeYBf3b3DQEageCXThv",
+    "name": "BomBom (feat. The Teaching)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 126.478,
+    "features": [
+      {
+        "danceability": 0.765,
+        "energy": 0.582,
+        "key": 1,
+        "loudness": -10.075,
+        "mode": 0,
+        "speechiness": 0.0415,
+        "acousticness": 0.768,
+        "instrumentalness": 0.903,
+        "liveness": 0.111,
+        "valence": 0.262,
+        "tempo": 126.478,
+        "type": "audio_features",
+        "id": "0lqbeYBf3b3DQEageCXThv",
+        "uri": "spotify:track:0lqbeYBf3b3DQEageCXThv",
+        "track_href": "https://api.spotify.com/v1/tracks/0lqbeYBf3b3DQEageCXThv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0lqbeYBf3b3DQEageCXThv",
+        "duration_ms": 295679,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1o1Pny4JcE3LdUBeBedbm6",
+    "name": "White Walls (feat. ScHoolboy Q & Hollis)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 116.492,
+    "features": [
+      {
+        "danceability": 0.768,
+        "energy": 0.782,
+        "key": 7,
+        "loudness": -5.545,
+        "mode": 1,
+        "speechiness": 0.141,
+        "acousticness": 0.0545,
+        "instrumentalness": 0,
+        "liveness": 0.338,
+        "valence": 0.842,
+        "tempo": 116.492,
+        "type": "audio_features",
+        "id": "1o1Pny4JcE3LdUBeBedbm6",
+        "uri": "spotify:track:1o1Pny4JcE3LdUBeBedbm6",
+        "track_href": "https://api.spotify.com/v1/tracks/1o1Pny4JcE3LdUBeBedbm6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1o1Pny4JcE3LdUBeBedbm6",
+        "duration_ms": 220319,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0s4NbQ0wejCPZu6aMrpVQM",
+    "name": "Jimmy Iovine (feat. Ab-Soul)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 77.448,
+    "features": [
+      {
+        "danceability": 0.557,
+        "energy": 0.848,
+        "key": 7,
+        "loudness": -5.559,
+        "mode": 1,
+        "speechiness": 0.313,
+        "acousticness": 0.117,
+        "instrumentalness": 0,
+        "liveness": 0.0855,
+        "valence": 0.671,
+        "tempo": 77.448,
+        "type": "audio_features",
+        "id": "0s4NbQ0wejCPZu6aMrpVQM",
+        "uri": "spotify:track:0s4NbQ0wejCPZu6aMrpVQM",
+        "track_href": "https://api.spotify.com/v1/tracks/0s4NbQ0wejCPZu6aMrpVQM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0s4NbQ0wejCPZu6aMrpVQM",
+        "duration_ms": 233196,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2NywFcoD8G4U5SyIh8CWQ3",
+    "name": "Wing$",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 73.052,
+    "features": [
+      {
+        "danceability": 0.399,
+        "energy": 0.599,
+        "key": 3,
+        "loudness": -6.987,
+        "mode": 1,
+        "speechiness": 0.204,
+        "acousticness": 0.363,
+        "instrumentalness": 0,
+        "liveness": 0.188,
+        "valence": 0.0903,
+        "tempo": 73.052,
+        "type": "audio_features",
+        "id": "2NywFcoD8G4U5SyIh8CWQ3",
+        "uri": "spotify:track:2NywFcoD8G4U5SyIh8CWQ3",
+        "track_href": "https://api.spotify.com/v1/tracks/2NywFcoD8G4U5SyIh8CWQ3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2NywFcoD8G4U5SyIh8CWQ3",
+        "duration_ms": 299600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0f5leEKNHInbvCX5D09aZg",
+    "name": "A Wake (feat. Evan Roman)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 101.15,
+    "features": [
+      {
+        "danceability": 0.687,
+        "energy": 0.736,
+        "key": 10,
+        "loudness": -7.482,
+        "mode": 1,
+        "speechiness": 0.106,
+        "acousticness": 0.165,
+        "instrumentalness": 0.00503,
+        "liveness": 0.0711,
+        "valence": 0.449,
+        "tempo": 101.15,
+        "type": "audio_features",
+        "id": "0f5leEKNHInbvCX5D09aZg",
+        "uri": "spotify:track:0f5leEKNHInbvCX5D09aZg",
+        "track_href": "https://api.spotify.com/v1/tracks/0f5leEKNHInbvCX5D09aZg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0f5leEKNHInbvCX5D09aZg",
+        "duration_ms": 226049,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0a4CAmtWcIjhoAHASaA4pt",
+    "name": "Gold (feat. Eighty4 Fly)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 172.023,
+    "features": [
+      {
+        "danceability": 0.471,
+        "energy": 0.674,
+        "key": 5,
+        "loudness": -5.015,
+        "mode": 1,
+        "speechiness": 0.149,
+        "acousticness": 0.0991,
+        "instrumentalness": 0,
+        "liveness": 0.0873,
+        "valence": 0.626,
+        "tempo": 172.023,
+        "type": "audio_features",
+        "id": "0a4CAmtWcIjhoAHASaA4pt",
+        "uri": "spotify:track:0a4CAmtWcIjhoAHASaA4pt",
+        "track_href": "https://api.spotify.com/v1/tracks/0a4CAmtWcIjhoAHASaA4pt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0a4CAmtWcIjhoAHASaA4pt",
+        "duration_ms": 251510,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7gSyfcCtcnlHDbA8O3Lnls",
+    "name": "Starting Over (feat. Ben Bridwell)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 164.084,
+    "features": [
+      {
+        "danceability": 0.536,
+        "energy": 0.873,
+        "key": 6,
+        "loudness": -6.505,
+        "mode": 1,
+        "speechiness": 0.409,
+        "acousticness": 0.725,
+        "instrumentalness": 0.00946,
+        "liveness": 0.684,
+        "valence": 0.644,
+        "tempo": 164.084,
+        "type": "audio_features",
+        "id": "7gSyfcCtcnlHDbA8O3Lnls",
+        "uri": "spotify:track:7gSyfcCtcnlHDbA8O3Lnls",
+        "track_href": "https://api.spotify.com/v1/tracks/7gSyfcCtcnlHDbA8O3Lnls",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7gSyfcCtcnlHDbA8O3Lnls",
+        "duration_ms": 251196,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3EXsZpJ5081LaCrjuiDVkc",
+    "name": "Cowboy Boots",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 145.98,
+    "features": [
+      {
+        "danceability": 0.588,
+        "energy": 0.632,
+        "key": 8,
+        "loudness": -9.026,
+        "mode": 1,
+        "speechiness": 0.275,
+        "acousticness": 0.0338,
+        "instrumentalness": 0.0106,
+        "liveness": 0.115,
+        "valence": 0.444,
+        "tempo": 145.98,
+        "type": "audio_features",
+        "id": "3EXsZpJ5081LaCrjuiDVkc",
+        "uri": "spotify:track:3EXsZpJ5081LaCrjuiDVkc",
+        "track_href": "https://api.spotify.com/v1/tracks/3EXsZpJ5081LaCrjuiDVkc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3EXsZpJ5081LaCrjuiDVkc",
+        "duration_ms": 257856,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5Zr7Kzw91ragcuFOn7JECm",
+    "name": "Castle",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 120.057,
+    "features": [
+      {
+        "danceability": 0.61,
+        "energy": 0.69,
+        "key": 0,
+        "loudness": -5.792,
+        "mode": 1,
+        "speechiness": 0.0823,
+        "acousticness": 0.32,
+        "instrumentalness": 0,
+        "liveness": 0.335,
+        "valence": 0.437,
+        "tempo": 120.057,
+        "type": "audio_features",
+        "id": "5Zr7Kzw91ragcuFOn7JECm",
+        "uri": "spotify:track:5Zr7Kzw91ragcuFOn7JECm",
+        "track_href": "https://api.spotify.com/v1/tracks/5Zr7Kzw91ragcuFOn7JECm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Zr7Kzw91ragcuFOn7JECm",
+        "duration_ms": 257962,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Pi7FM06HeixUs0TChN1yh",
+    "name": "My Oh My",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 177.725,
+    "features": [
+      {
+        "danceability": 0.431,
+        "energy": 0.807,
+        "key": 1,
+        "loudness": -6.572,
+        "mode": 1,
+        "speechiness": 0.441,
+        "acousticness": 0.287,
+        "instrumentalness": 0,
+        "liveness": 0.219,
+        "valence": 0.253,
+        "tempo": 177.725,
+        "type": "audio_features",
+        "id": "6Pi7FM06HeixUs0TChN1yh",
+        "uri": "spotify:track:6Pi7FM06HeixUs0TChN1yh",
+        "track_href": "https://api.spotify.com/v1/tracks/6Pi7FM06HeixUs0TChN1yh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Pi7FM06HeixUs0TChN1yh",
+        "duration_ms": 257053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4KMj9aLrNc45H9ETYz7IcE",
+    "name": "Victory Lap",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "bpm": 91.022,
+    "features": [
+      {
+        "danceability": 0.663,
+        "energy": 0.784,
+        "key": 7,
+        "loudness": -5.611,
+        "mode": 1,
+        "speechiness": 0.179,
+        "acousticness": 0.153,
+        "instrumentalness": 0,
+        "liveness": 0.061,
+        "valence": 0.6,
+        "tempo": 91.022,
+        "type": "audio_features",
+        "id": "4KMj9aLrNc45H9ETYz7IcE",
+        "uri": "spotify:track:4KMj9aLrNc45H9ETYz7IcE",
+        "track_href": "https://api.spotify.com/v1/tracks/4KMj9aLrNc45H9ETYz7IcE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4KMj9aLrNc45H9ETYz7IcE",
+        "duration_ms": 213718,
+        "time_signature": 4
+      }
+    ]
+  }
+]

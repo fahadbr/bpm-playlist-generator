@@ -1,0 +1,495 @@
+[
+  {
+    "id": "0Do558uLLjB7D3aSP5Ho9u",
+    "name": "Save the Children",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 171.794,
+    "features": [
+      {
+        "danceability": 0.393,
+        "energy": 0.918,
+        "key": 2,
+        "loudness": -3.29,
+        "mode": 1,
+        "speechiness": 0.458,
+        "acousticness": 0.271,
+        "instrumentalness": 0,
+        "liveness": 0.239,
+        "valence": 0.523,
+        "tempo": 171.794,
+        "type": "audio_features",
+        "id": "0Do558uLLjB7D3aSP5Ho9u",
+        "uri": "spotify:track:0Do558uLLjB7D3aSP5Ho9u",
+        "track_href": "https://api.spotify.com/v1/tracks/0Do558uLLjB7D3aSP5Ho9u",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Do558uLLjB7D3aSP5Ho9u",
+        "duration_ms": 215167,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7hcw6rldYNF8Uqvbz8WhI3",
+    "name": "Greenbax (Introlude)",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 85.939,
+    "features": [
+      {
+        "danceability": 0.527,
+        "energy": 0.713,
+        "key": 4,
+        "loudness": -5.368,
+        "mode": 0,
+        "speechiness": 0.343,
+        "acousticness": 0.726,
+        "instrumentalness": 0,
+        "liveness": 0.377,
+        "valence": 0.921,
+        "tempo": 85.939,
+        "type": "audio_features",
+        "id": "7hcw6rldYNF8Uqvbz8WhI3",
+        "uri": "spotify:track:7hcw6rldYNF8Uqvbz8WhI3",
+        "track_href": "https://api.spotify.com/v1/tracks/7hcw6rldYNF8Uqvbz8WhI3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7hcw6rldYNF8Uqvbz8WhI3",
+        "duration_ms": 48492,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "23bOfmnZiN42pB1frXNyak",
+    "name": "Paper Trail$",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 93.62,
+    "features": [
+      {
+        "danceability": 0.548,
+        "energy": 0.829,
+        "key": 1,
+        "loudness": -4.103,
+        "mode": 0,
+        "speechiness": 0.285,
+        "acousticness": 0.339,
+        "instrumentalness": 0,
+        "liveness": 0.537,
+        "valence": 0.452,
+        "tempo": 93.62,
+        "type": "audio_features",
+        "id": "23bOfmnZiN42pB1frXNyak",
+        "uri": "spotify:track:23bOfmnZiN42pB1frXNyak",
+        "track_href": "https://api.spotify.com/v1/tracks/23bOfmnZiN42pB1frXNyak",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/23bOfmnZiN42pB1frXNyak",
+        "duration_ms": 194739,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0pVxLnmqEphwVMRspv5N7Y",
+    "name": "Piece of Mind",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 88.733,
+    "features": [
+      {
+        "danceability": 0.536,
+        "energy": 0.869,
+        "key": 5,
+        "loudness": -5.224,
+        "mode": 0,
+        "speechiness": 0.183,
+        "acousticness": 0.44,
+        "instrumentalness": 0,
+        "liveness": 0.748,
+        "valence": 0.902,
+        "tempo": 88.733,
+        "type": "audio_features",
+        "id": "0pVxLnmqEphwVMRspv5N7Y",
+        "uri": "spotify:track:0pVxLnmqEphwVMRspv5N7Y",
+        "track_href": "https://api.spotify.com/v1/tracks/0pVxLnmqEphwVMRspv5N7Y",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0pVxLnmqEphwVMRspv5N7Y",
+        "duration_ms": 218635,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "3wnAMgb3pkn4O3gYYLP5db",
+    "name": "Big Dusty",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 81.05,
+    "features": [
+      {
+        "danceability": 0.521,
+        "energy": 0.77,
+        "key": 8,
+        "loudness": -5.204,
+        "mode": 1,
+        "speechiness": 0.495,
+        "acousticness": 0.443,
+        "instrumentalness": 0,
+        "liveness": 0.204,
+        "valence": 0.421,
+        "tempo": 81.05,
+        "type": "audio_features",
+        "id": "3wnAMgb3pkn4O3gYYLP5db",
+        "uri": "spotify:track:3wnAMgb3pkn4O3gYYLP5db",
+        "track_href": "https://api.spotify.com/v1/tracks/3wnAMgb3pkn4O3gYYLP5db",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3wnAMgb3pkn4O3gYYLP5db",
+        "duration_ms": 293361,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "637UDCAD6UE0Ik3s039Ppi",
+    "name": "Hazeus View",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 89.807,
+    "features": [
+      {
+        "danceability": 0.655,
+        "energy": 0.656,
+        "key": 9,
+        "loudness": -6.25,
+        "mode": 1,
+        "speechiness": 0.315,
+        "acousticness": 0.28,
+        "instrumentalness": 0,
+        "liveness": 0.111,
+        "valence": 0.586,
+        "tempo": 89.807,
+        "type": "audio_features",
+        "id": "637UDCAD6UE0Ik3s039Ppi",
+        "uri": "spotify:track:637UDCAD6UE0Ik3s039Ppi",
+        "track_href": "https://api.spotify.com/v1/tracks/637UDCAD6UE0Ik3s039Ppi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/637UDCAD6UE0Ik3s039Ppi",
+        "duration_ms": 219505,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7BeoNED8yeNC7pCuA30fGs",
+    "name": "Like Me",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 90.892,
+    "features": [
+      {
+        "danceability": 0.731,
+        "energy": 0.71,
+        "key": 0,
+        "loudness": -4.997,
+        "mode": 0,
+        "speechiness": 0.29,
+        "acousticness": 0.534,
+        "instrumentalness": 0,
+        "liveness": 0.112,
+        "valence": 0.757,
+        "tempo": 90.892,
+        "type": "audio_features",
+        "id": "7BeoNED8yeNC7pCuA30fGs",
+        "uri": "spotify:track:7BeoNED8yeNC7pCuA30fGs",
+        "track_href": "https://api.spotify.com/v1/tracks/7BeoNED8yeNC7pCuA30fGs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7BeoNED8yeNC7pCuA30fGs",
+        "duration_ms": 266382,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Wy4rMZYocgmnaCYTpZc4n",
+    "name": "Belly of the Beast",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 89.228,
+    "features": [
+      {
+        "danceability": 0.563,
+        "energy": 0.692,
+        "key": 8,
+        "loudness": -9.542,
+        "mode": 1,
+        "speechiness": 0.356,
+        "acousticness": 0.251,
+        "instrumentalness": 0,
+        "liveness": 0.493,
+        "valence": 0.549,
+        "tempo": 89.228,
+        "type": "audio_features",
+        "id": "6Wy4rMZYocgmnaCYTpZc4n",
+        "uri": "spotify:track:6Wy4rMZYocgmnaCYTpZc4n",
+        "track_href": "https://api.spotify.com/v1/tracks/6Wy4rMZYocgmnaCYTpZc4n",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Wy4rMZYocgmnaCYTpZc4n",
+        "duration_ms": 236518,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1gy1Uhh6UP8AYeCFQSENm1",
+    "name": "No. 99",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 101.448,
+    "features": [
+      {
+        "danceability": 0.619,
+        "energy": 0.842,
+        "key": 1,
+        "loudness": -5.473,
+        "mode": 0,
+        "speechiness": 0.291,
+        "acousticness": 0.235,
+        "instrumentalness": 0,
+        "liveness": 0.169,
+        "valence": 0.478,
+        "tempo": 101.448,
+        "type": "audio_features",
+        "id": "1gy1Uhh6UP8AYeCFQSENm1",
+        "uri": "spotify:track:1gy1Uhh6UP8AYeCFQSENm1",
+        "track_href": "https://api.spotify.com/v1/tracks/1gy1Uhh6UP8AYeCFQSENm1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1gy1Uhh6UP8AYeCFQSENm1",
+        "duration_ms": 171125,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6v4s7JosY38tu0hTZGpgrx",
+    "name": "Christ Conscious",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 86.798,
+    "features": [
+      {
+        "danceability": 0.649,
+        "energy": 0.717,
+        "key": 4,
+        "loudness": -5.021,
+        "mode": 1,
+        "speechiness": 0.262,
+        "acousticness": 0.0131,
+        "instrumentalness": 3.26e-05,
+        "liveness": 0.18,
+        "valence": 0.589,
+        "tempo": 86.798,
+        "type": "audio_features",
+        "id": "6v4s7JosY38tu0hTZGpgrx",
+        "uri": "spotify:track:6v4s7JosY38tu0hTZGpgrx",
+        "track_href": "https://api.spotify.com/v1/tracks/6v4s7JosY38tu0hTZGpgrx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6v4s7JosY38tu0hTZGpgrx",
+        "duration_ms": 173793,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6hYCHgEJMiTtVTKhfZTOrH",
+    "name": "On & On",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 91.946,
+    "features": [
+      {
+        "danceability": 0.454,
+        "energy": 0.911,
+        "key": 1,
+        "loudness": -4.202,
+        "mode": 0,
+        "speechiness": 0.232,
+        "acousticness": 0.519,
+        "instrumentalness": 0,
+        "liveness": 0.146,
+        "valence": 0.66,
+        "tempo": 91.946,
+        "type": "audio_features",
+        "id": "6hYCHgEJMiTtVTKhfZTOrH",
+        "uri": "spotify:track:6hYCHgEJMiTtVTKhfZTOrH",
+        "track_href": "https://api.spotify.com/v1/tracks/6hYCHgEJMiTtVTKhfZTOrH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6hYCHgEJMiTtVTKhfZTOrH",
+        "duration_ms": 280829,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2x9Mt52XXFU3i654kjaZ7x",
+    "name": "Escape 120",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 76.515,
+    "features": [
+      {
+        "danceability": 0.526,
+        "energy": 0.894,
+        "key": 10,
+        "loudness": -4.901,
+        "mode": 0,
+        "speechiness": 0.389,
+        "acousticness": 0.137,
+        "instrumentalness": 0,
+        "liveness": 0.176,
+        "valence": 0.577,
+        "tempo": 76.515,
+        "type": "audio_features",
+        "id": "2x9Mt52XXFU3i654kjaZ7x",
+        "uri": "spotify:track:2x9Mt52XXFU3i654kjaZ7x",
+        "track_href": "https://api.spotify.com/v1/tracks/2x9Mt52XXFU3i654kjaZ7x",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2x9Mt52XXFU3i654kjaZ7x",
+        "duration_ms": 227786,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Dp8tLOg4I1jNaB40H8atR",
+    "name": "Black Beetles",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 63.464,
+    "features": [
+      {
+        "danceability": 0.446,
+        "energy": 0.798,
+        "key": 1,
+        "loudness": -5.809,
+        "mode": 1,
+        "speechiness": 0.213,
+        "acousticness": 0.248,
+        "instrumentalness": 2.22e-06,
+        "liveness": 0.081,
+        "valence": 0.433,
+        "tempo": 63.464,
+        "type": "audio_features",
+        "id": "0Dp8tLOg4I1jNaB40H8atR",
+        "uri": "spotify:track:0Dp8tLOg4I1jNaB40H8atR",
+        "track_href": "https://api.spotify.com/v1/tracks/0Dp8tLOg4I1jNaB40H8atR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Dp8tLOg4I1jNaB40H8atR",
+        "duration_ms": 230765,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3cTjrgUbe9WzdEvkLJQE5d",
+    "name": "O.C.B.",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 148.747,
+    "features": [
+      {
+        "danceability": 0.54,
+        "energy": 0.79,
+        "key": 11,
+        "loudness": -5.54,
+        "mode": 1,
+        "speechiness": 0.25,
+        "acousticness": 0.0903,
+        "instrumentalness": 0,
+        "liveness": 0.565,
+        "valence": 0.677,
+        "tempo": 148.747,
+        "type": "audio_features",
+        "id": "3cTjrgUbe9WzdEvkLJQE5d",
+        "uri": "spotify:track:3cTjrgUbe9WzdEvkLJQE5d",
+        "track_href": "https://api.spotify.com/v1/tracks/3cTjrgUbe9WzdEvkLJQE5d",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3cTjrgUbe9WzdEvkLJQE5d",
+        "duration_ms": 223051,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0xRQcaFxNETdmB0mIpAkuU",
+    "name": "Curry Chicken",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 140.04,
+    "features": [
+      {
+        "danceability": 0.711,
+        "energy": 0.793,
+        "key": 9,
+        "loudness": -5.123,
+        "mode": 1,
+        "speechiness": 0.0777,
+        "acousticness": 0.302,
+        "instrumentalness": 0,
+        "liveness": 0.855,
+        "valence": 0.374,
+        "tempo": 140.04,
+        "type": "audio_features",
+        "id": "0xRQcaFxNETdmB0mIpAkuU",
+        "uri": "spotify:track:0xRQcaFxNETdmB0mIpAkuU",
+        "track_href": "https://api.spotify.com/v1/tracks/0xRQcaFxNETdmB0mIpAkuU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0xRQcaFxNETdmB0mIpAkuU",
+        "duration_ms": 213330,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3rJILRCvM7tfTXwHdNaMVl",
+    "name": "Run up on Ya - Bonus",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 81.934,
+    "features": [
+      {
+        "danceability": 0.702,
+        "energy": 0.773,
+        "key": 1,
+        "loudness": -5.58,
+        "mode": 1,
+        "speechiness": 0.217,
+        "acousticness": 0.0896,
+        "instrumentalness": 0,
+        "liveness": 0.097,
+        "valence": 0.647,
+        "tempo": 81.934,
+        "type": "audio_features",
+        "id": "3rJILRCvM7tfTXwHdNaMVl",
+        "uri": "spotify:track:3rJILRCvM7tfTXwHdNaMVl",
+        "track_href": "https://api.spotify.com/v1/tracks/3rJILRCvM7tfTXwHdNaMVl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3rJILRCvM7tfTXwHdNaMVl",
+        "duration_ms": 248319,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0RZx763PZaGsBI66gSnW44",
+    "name": "Teach Me",
+    "artist": "Joey Bada$$",
+    "album": "B4.Da.$$",
+    "bpm": 76.991,
+    "features": [
+      {
+        "danceability": 0.706,
+        "energy": 0.692,
+        "key": 8,
+        "loudness": -4.872,
+        "mode": 0,
+        "speechiness": 0.166,
+        "acousticness": 0.283,
+        "instrumentalness": 0,
+        "liveness": 0.138,
+        "valence": 0.71,
+        "tempo": 76.991,
+        "type": "audio_features",
+        "id": "0RZx763PZaGsBI66gSnW44",
+        "uri": "spotify:track:0RZx763PZaGsBI66gSnW44",
+        "track_href": "https://api.spotify.com/v1/tracks/0RZx763PZaGsBI66gSnW44",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0RZx763PZaGsBI66gSnW44",
+        "duration_ms": 258919,
+        "time_signature": 4
+      }
+    ]
+  }
+]

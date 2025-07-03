@@ -1,0 +1,466 @@
+[
+  {
+    "id": "1UmKAxmX38mKnwUC9N4RuJ",
+    "name": "Holding on to Good",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 145.965,
+    "features": [
+      {
+        "danceability": 0.485,
+        "energy": 0.416,
+        "key": 1,
+        "loudness": -8.316,
+        "mode": 1,
+        "speechiness": 0.0284,
+        "acousticness": 0.37,
+        "instrumentalness": 0.0125,
+        "liveness": 0.102,
+        "valence": 0.357,
+        "tempo": 145.965,
+        "type": "audio_features",
+        "id": "1UmKAxmX38mKnwUC9N4RuJ",
+        "uri": "spotify:track:1UmKAxmX38mKnwUC9N4RuJ",
+        "track_href": "https://api.spotify.com/v1/tracks/1UmKAxmX38mKnwUC9N4RuJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1UmKAxmX38mKnwUC9N4RuJ",
+        "duration_ms": 284920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "72qPAcGzgLm1lL9cpz9Jwp",
+    "name": "Is There Anyone out There",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 160.988,
+    "features": [
+      {
+        "danceability": 0.318,
+        "energy": 0.618,
+        "key": 0,
+        "loudness": -7.99,
+        "mode": 1,
+        "speechiness": 0.0428,
+        "acousticness": 0.0236,
+        "instrumentalness": 1.02e-06,
+        "liveness": 0.329,
+        "valence": 0.406,
+        "tempo": 160.988,
+        "type": "audio_features",
+        "id": "72qPAcGzgLm1lL9cpz9Jwp",
+        "uri": "spotify:track:72qPAcGzgLm1lL9cpz9Jwp",
+        "track_href": "https://api.spotify.com/v1/tracks/72qPAcGzgLm1lL9cpz9Jwp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/72qPAcGzgLm1lL9cpz9Jwp",
+        "duration_ms": 290227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "63byZ03y35JFoU735ZPfXO",
+    "name": "Morning Comes",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 174.339,
+    "features": [
+      {
+        "danceability": 0.327,
+        "energy": 0.59,
+        "key": 0,
+        "loudness": -6.908,
+        "mode": 1,
+        "speechiness": 0.0531,
+        "acousticness": 0.0643,
+        "instrumentalness": 0,
+        "liveness": 0.165,
+        "valence": 0.257,
+        "tempo": 174.339,
+        "type": "audio_features",
+        "id": "63byZ03y35JFoU735ZPfXO",
+        "uri": "spotify:track:63byZ03y35JFoU735ZPfXO",
+        "track_href": "https://api.spotify.com/v1/tracks/63byZ03y35JFoU735ZPfXO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/63byZ03y35JFoU735ZPfXO",
+        "duration_ms": 238360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5i9ob4zvx3a72kPLfheUkh",
+    "name": "If I Loved You",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 171.19,
+    "features": [
+      {
+        "danceability": 0.408,
+        "energy": 0.464,
+        "key": 7,
+        "loudness": -5.564,
+        "mode": 1,
+        "speechiness": 0.0301,
+        "acousticness": 0.433,
+        "instrumentalness": 3.38e-05,
+        "liveness": 0.106,
+        "valence": 0.263,
+        "tempo": 171.19,
+        "type": "audio_features",
+        "id": "5i9ob4zvx3a72kPLfheUkh",
+        "uri": "spotify:track:5i9ob4zvx3a72kPLfheUkh",
+        "track_href": "https://api.spotify.com/v1/tracks/5i9ob4zvx3a72kPLfheUkh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5i9ob4zvx3a72kPLfheUkh",
+        "duration_ms": 219147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2LzyUfJdRp3uqTrITBJXEY",
+    "name": "Bottom of the River",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 74.672,
+    "features": [
+      {
+        "danceability": 0.668,
+        "energy": 0.63,
+        "key": 11,
+        "loudness": -5.746,
+        "mode": 0,
+        "speechiness": 0.0828,
+        "acousticness": 0.573,
+        "instrumentalness": 0,
+        "liveness": 0.0869,
+        "valence": 0.716,
+        "tempo": 74.672,
+        "type": "audio_features",
+        "id": "2LzyUfJdRp3uqTrITBJXEY",
+        "uri": "spotify:track:2LzyUfJdRp3uqTrITBJXEY",
+        "track_href": "https://api.spotify.com/v1/tracks/2LzyUfJdRp3uqTrITBJXEY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2LzyUfJdRp3uqTrITBJXEY",
+        "duration_ms": 202520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4SuLdroRxgYX7ibItOVB01",
+    "name": "Country House",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 77.948,
+    "features": [
+      {
+        "danceability": 0.479,
+        "energy": 0.194,
+        "key": 5,
+        "loudness": -10.031,
+        "mode": 1,
+        "speechiness": 0.0301,
+        "acousticness": 0.148,
+        "instrumentalness": 0.000187,
+        "liveness": 0.147,
+        "valence": 0.159,
+        "tempo": 77.948,
+        "type": "audio_features",
+        "id": "4SuLdroRxgYX7ibItOVB01",
+        "uri": "spotify:track:4SuLdroRxgYX7ibItOVB01",
+        "track_href": "https://api.spotify.com/v1/tracks/4SuLdroRxgYX7ibItOVB01",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4SuLdroRxgYX7ibItOVB01",
+        "duration_ms": 263827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3nxObHvLOpRPuGDy8KVKPl",
+    "name": "Surrounded",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 150.033,
+    "features": [
+      {
+        "danceability": 0.392,
+        "energy": 0.537,
+        "key": 2,
+        "loudness": -7.8,
+        "mode": 1,
+        "speechiness": 0.0319,
+        "acousticness": 0.289,
+        "instrumentalness": 0,
+        "liveness": 0.371,
+        "valence": 0.286,
+        "tempo": 150.033,
+        "type": "audio_features",
+        "id": "3nxObHvLOpRPuGDy8KVKPl",
+        "uri": "spotify:track:3nxObHvLOpRPuGDy8KVKPl",
+        "track_href": "https://api.spotify.com/v1/tracks/3nxObHvLOpRPuGDy8KVKPl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3nxObHvLOpRPuGDy8KVKPl",
+        "duration_ms": 289653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1gOEbMyphMVhTyZ4HxXQro",
+    "name": "Dance in the Graveyards",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 102.003,
+    "features": [
+      {
+        "danceability": 0.616,
+        "energy": 0.731,
+        "key": 4,
+        "loudness": -4.995,
+        "mode": 1,
+        "speechiness": 0.0375,
+        "acousticness": 0.082,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "valence": 0.577,
+        "tempo": 102.003,
+        "type": "audio_features",
+        "id": "1gOEbMyphMVhTyZ4HxXQro",
+        "uri": "spotify:track:1gOEbMyphMVhTyZ4HxXQro",
+        "track_href": "https://api.spotify.com/v1/tracks/1gOEbMyphMVhTyZ4HxXQro",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1gOEbMyphMVhTyZ4HxXQro",
+        "duration_ms": 207640,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4m9hINfMRMzH5tArljmhqQ",
+    "name": "Fire",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 79.852,
+    "features": [
+      {
+        "danceability": 0.412,
+        "energy": 0.85,
+        "key": 7,
+        "loudness": -4.566,
+        "mode": 0,
+        "speechiness": 0.0434,
+        "acousticness": 0.0128,
+        "instrumentalness": 0.0675,
+        "liveness": 0.143,
+        "valence": 0.46,
+        "tempo": 79.852,
+        "type": "audio_features",
+        "id": "4m9hINfMRMzH5tArljmhqQ",
+        "uri": "spotify:track:4m9hINfMRMzH5tArljmhqQ",
+        "track_href": "https://api.spotify.com/v1/tracks/4m9hINfMRMzH5tArljmhqQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4m9hINfMRMzH5tArljmhqQ",
+        "duration_ms": 220960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2zfWpRfj8xd5I48x9DSUuF",
+    "name": "Forgive the Children We Once Were",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 139.402,
+    "features": [
+      {
+        "danceability": 0.438,
+        "energy": 0.324,
+        "key": 0,
+        "loudness": -9.629,
+        "mode": 1,
+        "speechiness": 0.0303,
+        "acousticness": 0.488,
+        "instrumentalness": 0,
+        "liveness": 0.102,
+        "valence": 0.386,
+        "tempo": 139.402,
+        "type": "audio_features",
+        "id": "2zfWpRfj8xd5I48x9DSUuF",
+        "uri": "spotify:track:2zfWpRfj8xd5I48x9DSUuF",
+        "track_href": "https://api.spotify.com/v1/tracks/2zfWpRfj8xd5I48x9DSUuF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2zfWpRfj8xd5I48x9DSUuF",
+        "duration_ms": 280253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1uJ5I0bvgQKlX1Wng5T88q",
+    "name": "Unlike Any Other",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 68.99,
+    "features": [
+      {
+        "danceability": 0.542,
+        "energy": 0.123,
+        "key": 4,
+        "loudness": -10.938,
+        "mode": 1,
+        "speechiness": 0.039,
+        "acousticness": 0.928,
+        "instrumentalness": 2.43e-06,
+        "liveness": 0.104,
+        "valence": 0.27,
+        "tempo": 68.99,
+        "type": "audio_features",
+        "id": "1uJ5I0bvgQKlX1Wng5T88q",
+        "uri": "spotify:track:1uJ5I0bvgQKlX1Wng5T88q",
+        "track_href": "https://api.spotify.com/v1/tracks/1uJ5I0bvgQKlX1Wng5T88q",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1uJ5I0bvgQKlX1Wng5T88q",
+        "duration_ms": 188013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3CMLuCytBHykn4m4gpQewX",
+    "name": "Hey, Hey, Hey",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 101.962,
+    "features": [
+      {
+        "danceability": 0.512,
+        "energy": 0.487,
+        "key": 4,
+        "loudness": -9.097,
+        "mode": 1,
+        "speechiness": 0.0787,
+        "acousticness": 0.293,
+        "instrumentalness": 0,
+        "liveness": 0.258,
+        "valence": 0.246,
+        "tempo": 101.962,
+        "type": "audio_features",
+        "id": "3CMLuCytBHykn4m4gpQewX",
+        "uri": "spotify:track:3CMLuCytBHykn4m4gpQewX",
+        "track_href": "https://api.spotify.com/v1/tracks/3CMLuCytBHykn4m4gpQewX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3CMLuCytBHykn4m4gpQewX",
+        "duration_ms": 242027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1jkDA4uq4X5n3aLJoIcmL3",
+    "name": "New Days - Acoustic",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 100.941,
+    "features": [
+      {
+        "danceability": 0.595,
+        "energy": 0.613,
+        "key": 2,
+        "loudness": -4.323,
+        "mode": 1,
+        "speechiness": 0.0342,
+        "acousticness": 0.00314,
+        "instrumentalness": 1.07e-06,
+        "liveness": 0.18,
+        "valence": 0.196,
+        "tempo": 100.941,
+        "type": "audio_features",
+        "id": "1jkDA4uq4X5n3aLJoIcmL3",
+        "uri": "spotify:track:1jkDA4uq4X5n3aLJoIcmL3",
+        "track_href": "https://api.spotify.com/v1/tracks/1jkDA4uq4X5n3aLJoIcmL3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1jkDA4uq4X5n3aLJoIcmL3",
+        "duration_ms": 170857,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5TyyqkEv8itQo5EAScsD48",
+    "name": "Morning Comes - Acoustic",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 79.193,
+    "features": [
+      {
+        "danceability": 0.46,
+        "energy": 0.241,
+        "key": 0,
+        "loudness": -9.386,
+        "mode": 1,
+        "speechiness": 0.0422,
+        "acousticness": 0.9,
+        "instrumentalness": 0,
+        "liveness": 0.128,
+        "valence": 0.284,
+        "tempo": 79.193,
+        "type": "audio_features",
+        "id": "5TyyqkEv8itQo5EAScsD48",
+        "uri": "spotify:track:5TyyqkEv8itQo5EAScsD48",
+        "track_href": "https://api.spotify.com/v1/tracks/5TyyqkEv8itQo5EAScsD48",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5TyyqkEv8itQo5EAScsD48",
+        "duration_ms": 259464,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4Nw48uG2LlY39v2NgCtEAZ",
+    "name": "If I Loved You (feat. Lindsey Buckingham)",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 88.066,
+    "features": [
+      {
+        "danceability": 0.613,
+        "energy": 0.676,
+        "key": 7,
+        "loudness": -4.669,
+        "mode": 1,
+        "speechiness": 0.0306,
+        "acousticness": 0.205,
+        "instrumentalness": 0,
+        "liveness": 0.165,
+        "valence": 0.17,
+        "tempo": 88.066,
+        "type": "audio_features",
+        "id": "4Nw48uG2LlY39v2NgCtEAZ",
+        "uri": "spotify:track:4Nw48uG2LlY39v2NgCtEAZ",
+        "track_href": "https://api.spotify.com/v1/tracks/4Nw48uG2LlY39v2NgCtEAZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Nw48uG2LlY39v2NgCtEAZ",
+        "duration_ms": 216480,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4tsGGnmA744Trbr9iskmXg",
+    "name": "Dance in the Graveyards - Alternate Version; aka EP Version",
+    "artist": "Delta Rae",
+    "album": "Carry the Fire",
+    "bpm": 102.917,
+    "features": [
+      {
+        "danceability": 0.529,
+        "energy": 0.705,
+        "key": 4,
+        "loudness": -4.496,
+        "mode": 1,
+        "speechiness": 0.0346,
+        "acousticness": 0.00564,
+        "instrumentalness": 0,
+        "liveness": 0.12,
+        "valence": 0.497,
+        "tempo": 102.917,
+        "type": "audio_features",
+        "id": "4tsGGnmA744Trbr9iskmXg",
+        "uri": "spotify:track:4tsGGnmA744Trbr9iskmXg",
+        "track_href": "https://api.spotify.com/v1/tracks/4tsGGnmA744Trbr9iskmXg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4tsGGnmA744Trbr9iskmXg",
+        "duration_ms": 197093,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,437 @@
+[
+  {
+    "id": "74fpNVAJrKGQuqHETi4WSt",
+    "name": "Tennis Court",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 89.991,
+    "features": [
+      {
+        "danceability": 0.764,
+        "energy": 0.567,
+        "key": 0,
+        "loudness": -8.585,
+        "mode": 1,
+        "speechiness": 0.0609,
+        "acousticness": 0.0126,
+        "instrumentalness": 9.08e-05,
+        "liveness": 0.257,
+        "valence": 0.426,
+        "tempo": 89.991,
+        "type": "audio_features",
+        "id": "74fpNVAJrKGQuqHETi4WSt",
+        "uri": "spotify:track:74fpNVAJrKGQuqHETi4WSt",
+        "track_href": "https://api.spotify.com/v1/tracks/74fpNVAJrKGQuqHETi4WSt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/74fpNVAJrKGQuqHETi4WSt",
+        "duration_ms": 198907,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6rjtB7KSIiJ6v9vrACMlqF",
+    "name": "400 Lux",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 183.95,
+    "features": [
+      {
+        "danceability": 0.516,
+        "energy": 0.474,
+        "key": 2,
+        "loudness": -8.361,
+        "mode": 1,
+        "speechiness": 0.0377,
+        "acousticness": 0.0793,
+        "instrumentalness": 0.00338,
+        "liveness": 0.134,
+        "valence": 0.192,
+        "tempo": 183.95,
+        "type": "audio_features",
+        "id": "6rjtB7KSIiJ6v9vrACMlqF",
+        "uri": "spotify:track:6rjtB7KSIiJ6v9vrACMlqF",
+        "track_href": "https://api.spotify.com/v1/tracks/6rjtB7KSIiJ6v9vrACMlqF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6rjtB7KSIiJ6v9vrACMlqF",
+        "duration_ms": 234286,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2dLLR6qlu5UJ5gk0dKz0h3",
+    "name": "Royals",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 84.876,
+    "features": [
+      {
+        "danceability": 0.674,
+        "energy": 0.426,
+        "key": 7,
+        "loudness": -9.504,
+        "mode": 1,
+        "speechiness": 0.122,
+        "acousticness": 0.12,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "valence": 0.337,
+        "tempo": 84.876,
+        "type": "audio_features",
+        "id": "2dLLR6qlu5UJ5gk0dKz0h3",
+        "uri": "spotify:track:2dLLR6qlu5UJ5gk0dKz0h3",
+        "track_href": "https://api.spotify.com/v1/tracks/2dLLR6qlu5UJ5gk0dKz0h3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2dLLR6qlu5UJ5gk0dKz0h3",
+        "duration_ms": 190185,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2MvvoeRt8NcOXWESkxWn3g",
+    "name": "Ribs",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 127.945,
+    "features": [
+      {
+        "danceability": 0.525,
+        "energy": 0.472,
+        "key": 4,
+        "loudness": -9.277,
+        "mode": 1,
+        "speechiness": 0.0739,
+        "acousticness": 0.534,
+        "instrumentalness": 0.614,
+        "liveness": 0.11,
+        "valence": 0.0424,
+        "tempo": 127.945,
+        "type": "audio_features",
+        "id": "2MvvoeRt8NcOXWESkxWn3g",
+        "uri": "spotify:track:2MvvoeRt8NcOXWESkxWn3g",
+        "track_href": "https://api.spotify.com/v1/tracks/2MvvoeRt8NcOXWESkxWn3g",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2MvvoeRt8NcOXWESkxWn3g",
+        "duration_ms": 258969,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "51QEyJI5M7uyd8DOh9tqQY",
+    "name": "Buzzcut Season",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 111.039,
+    "features": [
+      {
+        "danceability": 0.733,
+        "energy": 0.62,
+        "key": 1,
+        "loudness": -10.525,
+        "mode": 1,
+        "speechiness": 0.0752,
+        "acousticness": 0.612,
+        "instrumentalness": 0.291,
+        "liveness": 0.117,
+        "valence": 0.251,
+        "tempo": 111.039,
+        "type": "audio_features",
+        "id": "51QEyJI5M7uyd8DOh9tqQY",
+        "uri": "spotify:track:51QEyJI5M7uyd8DOh9tqQY",
+        "track_href": "https://api.spotify.com/v1/tracks/51QEyJI5M7uyd8DOh9tqQY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/51QEyJI5M7uyd8DOh9tqQY",
+        "duration_ms": 246755,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3G6hD9B2ZHOsgf4WfNu7X1",
+    "name": "Team",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 99.984,
+    "features": [
+      {
+        "danceability": 0.691,
+        "energy": 0.578,
+        "key": 6,
+        "loudness": -7.436,
+        "mode": 1,
+        "speechiness": 0.106,
+        "acousticness": 0.167,
+        "instrumentalness": 0,
+        "liveness": 0.305,
+        "valence": 0.412,
+        "tempo": 99.984,
+        "type": "audio_features",
+        "id": "3G6hD9B2ZHOsgf4WfNu7X1",
+        "uri": "spotify:track:3G6hD9B2ZHOsgf4WfNu7X1",
+        "track_href": "https://api.spotify.com/v1/tracks/3G6hD9B2ZHOsgf4WfNu7X1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3G6hD9B2ZHOsgf4WfNu7X1",
+        "duration_ms": 193059,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "60jI0JgMLLj1VggHJVhtRs",
+    "name": "Glory And Gore",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 143.947,
+    "features": [
+      {
+        "danceability": 0.689,
+        "energy": 0.377,
+        "key": 1,
+        "loudness": -8.761,
+        "mode": 1,
+        "speechiness": 0.0397,
+        "acousticness": 0.281,
+        "instrumentalness": 0,
+        "liveness": 0.268,
+        "valence": 0.295,
+        "tempo": 143.947,
+        "type": "audio_features",
+        "id": "60jI0JgMLLj1VggHJVhtRs",
+        "uri": "spotify:track:60jI0JgMLLj1VggHJVhtRs",
+        "track_href": "https://api.spotify.com/v1/tracks/60jI0JgMLLj1VggHJVhtRs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/60jI0JgMLLj1VggHJVhtRs",
+        "duration_ms": 210738,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5TRZnGsX49uCZkXxIbD7Ru",
+    "name": "Still Sane",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 130.255,
+    "features": [
+      {
+        "danceability": 0.36,
+        "energy": 0.361,
+        "key": 0,
+        "loudness": -12.14,
+        "mode": 1,
+        "speechiness": 0.0463,
+        "acousticness": 0.664,
+        "instrumentalness": 0.00582,
+        "liveness": 0.0682,
+        "valence": 0.0948,
+        "tempo": 130.255,
+        "type": "audio_features",
+        "id": "5TRZnGsX49uCZkXxIbD7Ru",
+        "uri": "spotify:track:5TRZnGsX49uCZkXxIbD7Ru",
+        "track_href": "https://api.spotify.com/v1/tracks/5TRZnGsX49uCZkXxIbD7Ru",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5TRZnGsX49uCZkXxIbD7Ru",
+        "duration_ms": 188133,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "35kahykNu00FPysz3C2euR",
+    "name": "White Teeth Teens",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 113.992,
+    "features": [
+      {
+        "danceability": 0.654,
+        "energy": 0.304,
+        "key": 6,
+        "loudness": -9.067,
+        "mode": 0,
+        "speechiness": 0.0358,
+        "acousticness": 0.649,
+        "instrumentalness": 6.65e-05,
+        "liveness": 0.147,
+        "valence": 0.102,
+        "tempo": 113.992,
+        "type": "audio_features",
+        "id": "35kahykNu00FPysz3C2euR",
+        "uri": "spotify:track:35kahykNu00FPysz3C2euR",
+        "track_href": "https://api.spotify.com/v1/tracks/35kahykNu00FPysz3C2euR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/35kahykNu00FPysz3C2euR",
+        "duration_ms": 216600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "55N0YHhO55Q1lWsc4dDPcI",
+    "name": "A World Alone",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 118.01,
+    "features": [
+      {
+        "danceability": 0.562,
+        "energy": 0.485,
+        "key": 1,
+        "loudness": -8.347,
+        "mode": 0,
+        "speechiness": 0.0359,
+        "acousticness": 0.289,
+        "instrumentalness": 0.00173,
+        "liveness": 0.194,
+        "valence": 0.0665,
+        "tempo": 118.01,
+        "type": "audio_features",
+        "id": "55N0YHhO55Q1lWsc4dDPcI",
+        "uri": "spotify:track:55N0YHhO55Q1lWsc4dDPcI",
+        "track_href": "https://api.spotify.com/v1/tracks/55N0YHhO55Q1lWsc4dDPcI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/55N0YHhO55Q1lWsc4dDPcI",
+        "duration_ms": 294222,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1vbnYODenOFCFWxYNRYw1N",
+    "name": "Bravado",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 87.967,
+    "features": [
+      {
+        "danceability": 0.603,
+        "energy": 0.529,
+        "key": 7,
+        "loudness": -10.323,
+        "mode": 1,
+        "speechiness": 0.0482,
+        "acousticness": 0.572,
+        "instrumentalness": 0.0321,
+        "liveness": 0.167,
+        "valence": 0.0394,
+        "tempo": 87.967,
+        "type": "audio_features",
+        "id": "1vbnYODenOFCFWxYNRYw1N",
+        "uri": "spotify:track:1vbnYODenOFCFWxYNRYw1N",
+        "track_href": "https://api.spotify.com/v1/tracks/1vbnYODenOFCFWxYNRYw1N",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1vbnYODenOFCFWxYNRYw1N",
+        "duration_ms": 221409,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2rRyDXEaZwUkr4DHZpAdRS",
+    "name": "Million Dollar Bills",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 82.044,
+    "features": [
+      {
+        "danceability": 0.692,
+        "energy": 0.563,
+        "key": 10,
+        "loudness": -6.405,
+        "mode": 0,
+        "speechiness": 0.0745,
+        "acousticness": 0.262,
+        "instrumentalness": 0.0312,
+        "liveness": 0.0891,
+        "valence": 0.46,
+        "tempo": 82.044,
+        "type": "audio_features",
+        "id": "2rRyDXEaZwUkr4DHZpAdRS",
+        "uri": "spotify:track:2rRyDXEaZwUkr4DHZpAdRS",
+        "track_href": "https://api.spotify.com/v1/tracks/2rRyDXEaZwUkr4DHZpAdRS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2rRyDXEaZwUkr4DHZpAdRS",
+        "duration_ms": 138211,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2HotTAoFiOYTeMZkNs1Ces",
+    "name": "The Love Club",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 92.032,
+    "features": [
+      {
+        "danceability": 0.799,
+        "energy": 0.501,
+        "key": 0,
+        "loudness": -7.244,
+        "mode": 1,
+        "speechiness": 0.0465,
+        "acousticness": 0.211,
+        "instrumentalness": 0.0123,
+        "liveness": 0.118,
+        "valence": 0.635,
+        "tempo": 92.032,
+        "type": "audio_features",
+        "id": "2HotTAoFiOYTeMZkNs1Ces",
+        "uri": "spotify:track:2HotTAoFiOYTeMZkNs1Ces",
+        "track_href": "https://api.spotify.com/v1/tracks/2HotTAoFiOYTeMZkNs1Ces",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2HotTAoFiOYTeMZkNs1Ces",
+        "duration_ms": 201434,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2bQorkqtGzEJatTcD8I1F0",
+    "name": "Biting Down",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 116.03,
+    "features": [
+      {
+        "danceability": 0.832,
+        "energy": 0.378,
+        "key": 8,
+        "loudness": -10.733,
+        "mode": 0,
+        "speechiness": 0.0551,
+        "acousticness": 0.724,
+        "instrumentalness": 0.0174,
+        "liveness": 0.107,
+        "valence": 0.336,
+        "tempo": 116.03,
+        "type": "audio_features",
+        "id": "2bQorkqtGzEJatTcD8I1F0",
+        "uri": "spotify:track:2bQorkqtGzEJatTcD8I1F0",
+        "track_href": "https://api.spotify.com/v1/tracks/2bQorkqtGzEJatTcD8I1F0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2bQorkqtGzEJatTcD8I1F0",
+        "duration_ms": 213666,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3YYwrOdeMEvmHBWHJ0TmB6",
+    "name": "Swingin Party",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 107.472,
+    "features": [
+      {
+        "danceability": 0.337,
+        "energy": 0.245,
+        "key": 10,
+        "loudness": -13.442,
+        "mode": 1,
+        "speechiness": 0.0384,
+        "acousticness": 0.92,
+        "instrumentalness": 2.56e-05,
+        "liveness": 0.119,
+        "valence": 0.107,
+        "tempo": 107.472,
+        "type": "audio_features",
+        "id": "3YYwrOdeMEvmHBWHJ0TmB6",
+        "uri": "spotify:track:3YYwrOdeMEvmHBWHJ0TmB6",
+        "track_href": "https://api.spotify.com/v1/tracks/3YYwrOdeMEvmHBWHJ0TmB6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3YYwrOdeMEvmHBWHJ0TmB6",
+        "duration_ms": 222363,
+        "time_signature": 4
+      }
+    ]
+  }
+]

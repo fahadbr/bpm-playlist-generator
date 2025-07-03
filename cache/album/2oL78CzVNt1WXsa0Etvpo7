@@ -1,0 +1,292 @@
+[
+  {
+    "id": "6R7fAiIfgopeIEciX25lun",
+    "name": "Odyssey",
+    "artist": "Scale The Summit",
+    "album": "The Migration",
+    "bpm": 126.086,
+    "features": [
+      {
+        "danceability": 0.317,
+        "energy": 0.853,
+        "key": 7,
+        "loudness": -4.534,
+        "mode": 1,
+        "speechiness": 0.0957,
+        "acousticness": 0.00036,
+        "instrumentalness": 0.758,
+        "liveness": 0.114,
+        "valence": 0.176,
+        "tempo": 126.086,
+        "type": "audio_features",
+        "id": "6R7fAiIfgopeIEciX25lun",
+        "uri": "spotify:track:6R7fAiIfgopeIEciX25lun",
+        "track_href": "https://api.spotify.com/v1/tracks/6R7fAiIfgopeIEciX25lun",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6R7fAiIfgopeIEciX25lun",
+        "duration_ms": 312520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "02v81HQA1yS0DSZ4dw3YzF",
+    "name": "Atlas Novus",
+    "artist": "Scale The Summit",
+    "album": "The Migration",
+    "bpm": 160.037,
+    "features": [
+      {
+        "danceability": 0.488,
+        "energy": 0.84,
+        "key": 7,
+        "loudness": -5.24,
+        "mode": 1,
+        "speechiness": 0.0301,
+        "acousticness": 0.0131,
+        "instrumentalness": 0.824,
+        "liveness": 0.0873,
+        "valence": 0.489,
+        "tempo": 160.037,
+        "type": "audio_features",
+        "id": "02v81HQA1yS0DSZ4dw3YzF",
+        "uri": "spotify:track:02v81HQA1yS0DSZ4dw3YzF",
+        "track_href": "https://api.spotify.com/v1/tracks/02v81HQA1yS0DSZ4dw3YzF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/02v81HQA1yS0DSZ4dw3YzF",
+        "duration_ms": 307107,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5kwwpKxdH9Jp211Q7yDHVT",
+    "name": "The Olive Tree",
+    "artist": "Scale The Summit",
+    "album": "The Migration",
+    "bpm": 95.041,
+    "features": [
+      {
+        "danceability": 0.463,
+        "energy": 0.796,
+        "key": 0,
+        "loudness": -4.064,
+        "mode": 1,
+        "speechiness": 0.0525,
+        "acousticness": 0.00251,
+        "instrumentalness": 0.778,
+        "liveness": 0.593,
+        "valence": 0.494,
+        "tempo": 95.041,
+        "type": "audio_features",
+        "id": "5kwwpKxdH9Jp211Q7yDHVT",
+        "uri": "spotify:track:5kwwpKxdH9Jp211Q7yDHVT",
+        "track_href": "https://api.spotify.com/v1/tracks/5kwwpKxdH9Jp211Q7yDHVT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5kwwpKxdH9Jp211Q7yDHVT",
+        "duration_ms": 307813,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3wHplNWGpH6JOmFjmyxMJP",
+    "name": "Narrow Salient",
+    "artist": "Scale The Summit",
+    "album": "The Migration",
+    "bpm": 129.931,
+    "features": [
+      {
+        "danceability": 0.498,
+        "energy": 0.946,
+        "key": 0,
+        "loudness": -4.033,
+        "mode": 1,
+        "speechiness": 0.111,
+        "acousticness": 9.5e-06,
+        "instrumentalness": 0.795,
+        "liveness": 0.0964,
+        "valence": 0.384,
+        "tempo": 129.931,
+        "type": "audio_features",
+        "id": "3wHplNWGpH6JOmFjmyxMJP",
+        "uri": "spotify:track:3wHplNWGpH6JOmFjmyxMJP",
+        "track_href": "https://api.spotify.com/v1/tracks/3wHplNWGpH6JOmFjmyxMJP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3wHplNWGpH6JOmFjmyxMJP",
+        "duration_ms": 214773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6qMhSCfd0SfSClvQhu0LpG",
+    "name": "Oracle",
+    "artist": "Scale The Summit",
+    "album": "The Migration",
+    "bpm": 155.058,
+    "features": [
+      {
+        "danceability": 0.386,
+        "energy": 0.906,
+        "key": 10,
+        "loudness": -4.137,
+        "mode": 1,
+        "speechiness": 0.0638,
+        "acousticness": 4.34e-05,
+        "instrumentalness": 0.813,
+        "liveness": 0.119,
+        "valence": 0.344,
+        "tempo": 155.058,
+        "type": "audio_features",
+        "id": "6qMhSCfd0SfSClvQhu0LpG",
+        "uri": "spotify:track:6qMhSCfd0SfSClvQhu0LpG",
+        "track_href": "https://api.spotify.com/v1/tracks/6qMhSCfd0SfSClvQhu0LpG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6qMhSCfd0SfSClvQhu0LpG",
+        "duration_ms": 330960,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "0JGJjPh3inXInUIxv44uqL",
+    "name": "Evergreen",
+    "artist": "Scale The Summit",
+    "album": "The Migration",
+    "bpm": 139.984,
+    "features": [
+      {
+        "danceability": 0.525,
+        "energy": 0.181,
+        "key": 7,
+        "loudness": -22.518,
+        "mode": 1,
+        "speechiness": 0.0569,
+        "acousticness": 0.868,
+        "instrumentalness": 0.971,
+        "liveness": 0.111,
+        "valence": 0.0391,
+        "tempo": 139.984,
+        "type": "audio_features",
+        "id": "0JGJjPh3inXInUIxv44uqL",
+        "uri": "spotify:track:0JGJjPh3inXInUIxv44uqL",
+        "track_href": "https://api.spotify.com/v1/tracks/0JGJjPh3inXInUIxv44uqL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0JGJjPh3inXInUIxv44uqL",
+        "duration_ms": 101240,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "17wrGS0QmHc5MOGNm3FrpW",
+    "name": "The Dark Horse",
+    "artist": "Scale The Summit",
+    "album": "The Migration",
+    "bpm": 114.891,
+    "features": [
+      {
+        "danceability": 0.44,
+        "energy": 0.96,
+        "key": 9,
+        "loudness": -4.473,
+        "mode": 0,
+        "speechiness": 0.0875,
+        "acousticness": 0.000132,
+        "instrumentalness": 0.623,
+        "liveness": 0.114,
+        "valence": 0.134,
+        "tempo": 114.891,
+        "type": "audio_features",
+        "id": "17wrGS0QmHc5MOGNm3FrpW",
+        "uri": "spotify:track:17wrGS0QmHc5MOGNm3FrpW",
+        "track_href": "https://api.spotify.com/v1/tracks/17wrGS0QmHc5MOGNm3FrpW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/17wrGS0QmHc5MOGNm3FrpW",
+        "duration_ms": 252253,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "3i5kcNoGMr2OBBv1UVwVsS",
+    "name": "Willow",
+    "artist": "Scale The Summit",
+    "album": "The Migration",
+    "bpm": 119.995,
+    "features": [
+      {
+        "danceability": 0.412,
+        "energy": 0.89,
+        "key": 1,
+        "loudness": -3.992,
+        "mode": 0,
+        "speechiness": 0.051,
+        "acousticness": 0.000151,
+        "instrumentalness": 0.763,
+        "liveness": 0.0698,
+        "valence": 0.305,
+        "tempo": 119.995,
+        "type": "audio_features",
+        "id": "3i5kcNoGMr2OBBv1UVwVsS",
+        "uri": "spotify:track:3i5kcNoGMr2OBBv1UVwVsS",
+        "track_href": "https://api.spotify.com/v1/tracks/3i5kcNoGMr2OBBv1UVwVsS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3i5kcNoGMr2OBBv1UVwVsS",
+        "duration_ms": 306827,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1kLskB4cAFZeKgGVVn36MD",
+    "name": "Sabrosa",
+    "artist": "Scale The Summit",
+    "album": "The Migration",
+    "bpm": 69.475,
+    "features": [
+      {
+        "danceability": 0.232,
+        "energy": 0.0315,
+        "key": 9,
+        "loudness": -20.638,
+        "mode": 0,
+        "speechiness": 0.0455,
+        "acousticness": 0.953,
+        "instrumentalness": 0.91,
+        "liveness": 0.118,
+        "valence": 0.066,
+        "tempo": 69.475,
+        "type": "audio_features",
+        "id": "1kLskB4cAFZeKgGVVn36MD",
+        "uri": "spotify:track:1kLskB4cAFZeKgGVVn36MD",
+        "track_href": "https://api.spotify.com/v1/tracks/1kLskB4cAFZeKgGVVn36MD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1kLskB4cAFZeKgGVVn36MD",
+        "duration_ms": 31440,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5cMLp4AneL7d5k3b1Z9AmJ",
+    "name": "The Traveler",
+    "artist": "Scale The Summit",
+    "album": "The Migration",
+    "bpm": 139.915,
+    "features": [
+      {
+        "danceability": 0.393,
+        "energy": 0.901,
+        "key": 0,
+        "loudness": -4.792,
+        "mode": 1,
+        "speechiness": 0.137,
+        "acousticness": 0.000124,
+        "instrumentalness": 0.852,
+        "liveness": 0.551,
+        "valence": 0.313,
+        "tempo": 139.915,
+        "type": "audio_features",
+        "id": "5cMLp4AneL7d5k3b1Z9AmJ",
+        "uri": "spotify:track:5cMLp4AneL7d5k3b1Z9AmJ",
+        "track_href": "https://api.spotify.com/v1/tracks/5cMLp4AneL7d5k3b1Z9AmJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5cMLp4AneL7d5k3b1Z9AmJ",
+        "duration_ms": 364840,
+        "time_signature": 3
+      }
+    ]
+  }
+]

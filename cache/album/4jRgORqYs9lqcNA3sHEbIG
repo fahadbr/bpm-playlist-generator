@@ -1,0 +1,234 @@
+[
+  {
+    "id": "2NvDbs2olpmLdUjW2WCwTD",
+    "name": "Coram Tempestate",
+    "artist": "H\u00c6LOS",
+    "album": "SOMNUM",
+    "bpm": 127.993,
+    "features": [
+      {
+        "danceability": 0.187,
+        "energy": 0.326,
+        "key": 0,
+        "loudness": -18.854,
+        "mode": 0,
+        "speechiness": 0.0467,
+        "acousticness": 0.832,
+        "instrumentalness": 0.877,
+        "liveness": 0.11,
+        "valence": 0.139,
+        "tempo": 127.993,
+        "type": "audio_features",
+        "id": "2NvDbs2olpmLdUjW2WCwTD",
+        "uri": "spotify:track:2NvDbs2olpmLdUjW2WCwTD",
+        "track_href": "https://api.spotify.com/v1/tracks/2NvDbs2olpmLdUjW2WCwTD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2NvDbs2olpmLdUjW2WCwTD",
+        "duration_ms": 361875,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "462xPwNdnOLE0yEAmbcgrO",
+    "name": "Quietus",
+    "artist": "H\u00c6LOS",
+    "album": "SOMNUM",
+    "bpm": 85.822,
+    "features": [
+      {
+        "danceability": 0.171,
+        "energy": 0.311,
+        "key": 3,
+        "loudness": -18.003,
+        "mode": 0,
+        "speechiness": 0.0347,
+        "acousticness": 0.897,
+        "instrumentalness": 0.798,
+        "liveness": 0.169,
+        "valence": 0.147,
+        "tempo": 85.822,
+        "type": "audio_features",
+        "id": "462xPwNdnOLE0yEAmbcgrO",
+        "uri": "spotify:track:462xPwNdnOLE0yEAmbcgrO",
+        "track_href": "https://api.spotify.com/v1/tracks/462xPwNdnOLE0yEAmbcgrO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/462xPwNdnOLE0yEAmbcgrO",
+        "duration_ms": 186369,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "64QHBshyg2YU73OfL7PwdZ",
+    "name": "Momenta",
+    "artist": "H\u00c6LOS",
+    "album": "SOMNUM",
+    "bpm": 127.997,
+    "features": [
+      {
+        "danceability": 0.534,
+        "energy": 0.501,
+        "key": 8,
+        "loudness": -14.628,
+        "mode": 1,
+        "speechiness": 0.0683,
+        "acousticness": 0.695,
+        "instrumentalness": 0.918,
+        "liveness": 0.0668,
+        "valence": 0.0764,
+        "tempo": 127.997,
+        "type": "audio_features",
+        "id": "64QHBshyg2YU73OfL7PwdZ",
+        "uri": "spotify:track:64QHBshyg2YU73OfL7PwdZ",
+        "track_href": "https://api.spotify.com/v1/tracks/64QHBshyg2YU73OfL7PwdZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/64QHBshyg2YU73OfL7PwdZ",
+        "duration_ms": 305156,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3Aqxloi2rOAsSSBkdzrIGM",
+    "name": "Caligo",
+    "artist": "H\u00c6LOS",
+    "album": "SOMNUM",
+    "bpm": 42.145,
+    "features": [
+      {
+        "danceability": 0.154,
+        "energy": 0.196,
+        "key": 6,
+        "loudness": -20.103,
+        "mode": 1,
+        "speechiness": 0.0497,
+        "acousticness": 0.931,
+        "instrumentalness": 0.843,
+        "liveness": 0.0752,
+        "valence": 0.0656,
+        "tempo": 42.145,
+        "type": "audio_features",
+        "id": "3Aqxloi2rOAsSSBkdzrIGM",
+        "uri": "spotify:track:3Aqxloi2rOAsSSBkdzrIGM",
+        "track_href": "https://api.spotify.com/v1/tracks/3Aqxloi2rOAsSSBkdzrIGM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Aqxloi2rOAsSSBkdzrIGM",
+        "duration_ms": 250307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3IVrbzLhl8al0ydF5hm4Mc",
+    "name": "Noctis",
+    "artist": "H\u00c6LOS",
+    "album": "SOMNUM",
+    "bpm": 120.007,
+    "features": [
+      {
+        "danceability": 0.506,
+        "energy": 0.165,
+        "key": 6,
+        "loudness": -18.133,
+        "mode": 1,
+        "speechiness": 0.0339,
+        "acousticness": 0.956,
+        "instrumentalness": 0.954,
+        "liveness": 0.0892,
+        "valence": 0.0386,
+        "tempo": 120.007,
+        "type": "audio_features",
+        "id": "3IVrbzLhl8al0ydF5hm4Mc",
+        "uri": "spotify:track:3IVrbzLhl8al0ydF5hm4Mc",
+        "track_href": "https://api.spotify.com/v1/tracks/3IVrbzLhl8al0ydF5hm4Mc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3IVrbzLhl8al0ydF5hm4Mc",
+        "duration_ms": 661267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "12L8wuaqUl7GtossLBHADM",
+    "name": "Somnum",
+    "artist": "H\u00c6LOS",
+    "album": "SOMNUM",
+    "bpm": 177.485,
+    "features": [
+      {
+        "danceability": 0.116,
+        "energy": 0.108,
+        "key": 0,
+        "loudness": -21.986,
+        "mode": 1,
+        "speechiness": 0.0369,
+        "acousticness": 0.976,
+        "instrumentalness": 0.834,
+        "liveness": 0.117,
+        "valence": 0.0397,
+        "tempo": 177.485,
+        "type": "audio_features",
+        "id": "12L8wuaqUl7GtossLBHADM",
+        "uri": "spotify:track:12L8wuaqUl7GtossLBHADM",
+        "track_href": "https://api.spotify.com/v1/tracks/12L8wuaqUl7GtossLBHADM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/12L8wuaqUl7GtossLBHADM",
+        "duration_ms": 440324,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3fqXkpUpCQa4mcVjtpHI3X",
+    "name": "Luna",
+    "artist": "H\u00c6LOS",
+    "album": "SOMNUM",
+    "bpm": 123.37,
+    "features": [
+      {
+        "danceability": 0.232,
+        "energy": 0.158,
+        "key": 6,
+        "loudness": -22.373,
+        "mode": 0,
+        "speechiness": 0.036,
+        "acousticness": 0.955,
+        "instrumentalness": 0.933,
+        "liveness": 0.0926,
+        "valence": 0.0389,
+        "tempo": 123.37,
+        "type": "audio_features",
+        "id": "3fqXkpUpCQa4mcVjtpHI3X",
+        "uri": "spotify:track:3fqXkpUpCQa4mcVjtpHI3X",
+        "track_href": "https://api.spotify.com/v1/tracks/3fqXkpUpCQa4mcVjtpHI3X",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3fqXkpUpCQa4mcVjtpHI3X",
+        "duration_ms": 464368,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6pFsign8HcrTHCi6vWOfbl",
+    "name": "Aurora",
+    "artist": "H\u00c6LOS",
+    "album": "SOMNUM",
+    "bpm": 61.268,
+    "features": [
+      {
+        "danceability": 0.176,
+        "energy": 0.0873,
+        "key": 10,
+        "loudness": -25.371,
+        "mode": 1,
+        "speechiness": 0.054,
+        "acousticness": 0.915,
+        "instrumentalness": 0.908,
+        "liveness": 0.106,
+        "valence": 0.0779,
+        "tempo": 61.268,
+        "type": "audio_features",
+        "id": "6pFsign8HcrTHCi6vWOfbl",
+        "uri": "spotify:track:6pFsign8HcrTHCi6vWOfbl",
+        "track_href": "https://api.spotify.com/v1/tracks/6pFsign8HcrTHCi6vWOfbl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6pFsign8HcrTHCi6vWOfbl",
+        "duration_ms": 423687,
+        "time_signature": 4
+      }
+    ]
+  }
+]

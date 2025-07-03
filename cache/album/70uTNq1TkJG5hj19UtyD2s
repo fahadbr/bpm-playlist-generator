@@ -1,0 +1,31 @@
+[
+  {
+    "id": "6pp45BIqjV8hSym7diBNRx",
+    "name": "Dearly Beloved 2014",
+    "artist": "Kyle Landry",
+    "album": "Dearly Beloved 2014",
+    "bpm": 149.452,
+    "features": [
+      {
+        "danceability": 0.29,
+        "energy": 0.0274,
+        "key": 3,
+        "loudness": -27.36,
+        "mode": 1,
+        "speechiness": 0.0396,
+        "acousticness": 0.984,
+        "instrumentalness": 0.904,
+        "liveness": 0.118,
+        "valence": 0.0807,
+        "tempo": 149.452,
+        "type": "audio_features",
+        "id": "6pp45BIqjV8hSym7diBNRx",
+        "uri": "spotify:track:6pp45BIqjV8hSym7diBNRx",
+        "track_href": "https://api.spotify.com/v1/tracks/6pp45BIqjV8hSym7diBNRx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6pp45BIqjV8hSym7diBNRx",
+        "duration_ms": 845880,
+        "time_signature": 4
+      }
+    ]
+  }
+]

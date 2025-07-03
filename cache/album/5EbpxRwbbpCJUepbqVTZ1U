@@ -1,0 +1,872 @@
+[
+  {
+    "id": "2ye9iWj5V4g6k6HFeTTAKa",
+    "name": "High For This",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 75.033,
+    "features": [
+      {
+        "danceability": 0.466,
+        "energy": 0.403,
+        "key": 4,
+        "loudness": -10.441,
+        "mode": 0,
+        "speechiness": 0.0502,
+        "acousticness": 0.59,
+        "instrumentalness": 9.51e-05,
+        "liveness": 0.1,
+        "valence": 0.0967,
+        "tempo": 75.033,
+        "type": "audio_features",
+        "id": "2ye9iWj5V4g6k6HFeTTAKa",
+        "uri": "spotify:track:2ye9iWj5V4g6k6HFeTTAKa",
+        "track_href": "https://api.spotify.com/v1/tracks/2ye9iWj5V4g6k6HFeTTAKa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ye9iWj5V4g6k6HFeTTAKa",
+        "duration_ms": 249102,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4Yw8TyBm9J8cpy2guHUYog",
+    "name": "What You Need",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 133.853,
+    "features": [
+      {
+        "danceability": 0.638,
+        "energy": 0.335,
+        "key": 7,
+        "loudness": -10.522,
+        "mode": 0,
+        "speechiness": 0.0854,
+        "acousticness": 0.505,
+        "instrumentalness": 0.0139,
+        "liveness": 0.116,
+        "valence": 0.0608,
+        "tempo": 133.853,
+        "type": "audio_features",
+        "id": "4Yw8TyBm9J8cpy2guHUYog",
+        "uri": "spotify:track:4Yw8TyBm9J8cpy2guHUYog",
+        "track_href": "https://api.spotify.com/v1/tracks/4Yw8TyBm9J8cpy2guHUYog",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Yw8TyBm9J8cpy2guHUYog",
+        "duration_ms": 206421,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2r7BPog74oaTG5shNYiUnV",
+    "name": "House Of Balloons / Glass Table Girls",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 88.989,
+    "features": [
+      {
+        "danceability": 0.662,
+        "energy": 0.511,
+        "key": 0,
+        "loudness": -8.419,
+        "mode": 1,
+        "speechiness": 0.0342,
+        "acousticness": 0.00237,
+        "instrumentalness": 0.0036,
+        "liveness": 0.275,
+        "valence": 0.228,
+        "tempo": 88.989,
+        "type": "audio_features",
+        "id": "2r7BPog74oaTG5shNYiUnV",
+        "uri": "spotify:track:2r7BPog74oaTG5shNYiUnV",
+        "track_href": "https://api.spotify.com/v1/tracks/2r7BPog74oaTG5shNYiUnV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2r7BPog74oaTG5shNYiUnV",
+        "duration_ms": 407316,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4jBfUB4kQJCWOrjGLQqhO0",
+    "name": "The Morning",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 120.097,
+    "features": [
+      {
+        "danceability": 0.682,
+        "energy": 0.51,
+        "key": 6,
+        "loudness": -9.987,
+        "mode": 0,
+        "speechiness": 0.0441,
+        "acousticness": 0.143,
+        "instrumentalness": 4.46e-06,
+        "liveness": 0.0797,
+        "valence": 0.191,
+        "tempo": 120.097,
+        "type": "audio_features",
+        "id": "4jBfUB4kQJCWOrjGLQqhO0",
+        "uri": "spotify:track:4jBfUB4kQJCWOrjGLQqhO0",
+        "track_href": "https://api.spotify.com/v1/tracks/4jBfUB4kQJCWOrjGLQqhO0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4jBfUB4kQJCWOrjGLQqhO0",
+        "duration_ms": 314110,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "00aqkszH1FdUiJJWvX6iEl",
+    "name": "Wicked Games",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 114.033,
+    "features": [
+      {
+        "danceability": 0.606,
+        "energy": 0.57,
+        "key": 9,
+        "loudness": -6.684,
+        "mode": 1,
+        "speechiness": 0.032,
+        "acousticness": 0.0217,
+        "instrumentalness": 8.47e-06,
+        "liveness": 0.301,
+        "valence": 0.258,
+        "tempo": 114.033,
+        "type": "audio_features",
+        "id": "00aqkszH1FdUiJJWvX6iEl",
+        "uri": "spotify:track:00aqkszH1FdUiJJWvX6iEl",
+        "track_href": "https://api.spotify.com/v1/tracks/00aqkszH1FdUiJJWvX6iEl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/00aqkszH1FdUiJJWvX6iEl",
+        "duration_ms": 325305,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0GROiXm03OrMC5ltXLhGIu",
+    "name": "The Party & The After Party",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 101.733,
+    "features": [
+      {
+        "danceability": 0.645,
+        "energy": 0.58,
+        "key": 5,
+        "loudness": -9.527,
+        "mode": 0,
+        "speechiness": 0.0406,
+        "acousticness": 0.22,
+        "instrumentalness": 0,
+        "liveness": 0.0878,
+        "valence": 0.163,
+        "tempo": 101.733,
+        "type": "audio_features",
+        "id": "0GROiXm03OrMC5ltXLhGIu",
+        "uri": "spotify:track:0GROiXm03OrMC5ltXLhGIu",
+        "track_href": "https://api.spotify.com/v1/tracks/0GROiXm03OrMC5ltXLhGIu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0GROiXm03OrMC5ltXLhGIu",
+        "duration_ms": 459660,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3mHO1J6kfiArjBo1zhLFGP",
+    "name": "Coming Down",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 120.973,
+    "features": [
+      {
+        "danceability": 0.694,
+        "energy": 0.649,
+        "key": 2,
+        "loudness": -5.262,
+        "mode": 0,
+        "speechiness": 0.0353,
+        "acousticness": 0.303,
+        "instrumentalness": 2.41e-05,
+        "liveness": 0.206,
+        "valence": 0.344,
+        "tempo": 120.973,
+        "type": "audio_features",
+        "id": "3mHO1J6kfiArjBo1zhLFGP",
+        "uri": "spotify:track:3mHO1J6kfiArjBo1zhLFGP",
+        "track_href": "https://api.spotify.com/v1/tracks/3mHO1J6kfiArjBo1zhLFGP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3mHO1J6kfiArjBo1zhLFGP",
+        "duration_ms": 295435,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2yBz1hupoOBncorzuKcJ2z",
+    "name": "Loft Music",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 77.528,
+    "features": [
+      {
+        "danceability": 0.257,
+        "energy": 0.443,
+        "key": 6,
+        "loudness": -9.998,
+        "mode": 0,
+        "speechiness": 0.0921,
+        "acousticness": 0.49,
+        "instrumentalness": 0.00049,
+        "liveness": 0.219,
+        "valence": 0.112,
+        "tempo": 77.528,
+        "type": "audio_features",
+        "id": "2yBz1hupoOBncorzuKcJ2z",
+        "uri": "spotify:track:2yBz1hupoOBncorzuKcJ2z",
+        "track_href": "https://api.spotify.com/v1/tracks/2yBz1hupoOBncorzuKcJ2z",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2yBz1hupoOBncorzuKcJ2z",
+        "duration_ms": 363057,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6tjsbysvZh8Pq8DZA5ldrn",
+    "name": "The Knowing",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 85.994,
+    "features": [
+      {
+        "danceability": 0.454,
+        "energy": 0.668,
+        "key": 6,
+        "loudness": -5.821,
+        "mode": 0,
+        "speechiness": 0.03,
+        "acousticness": 0.205,
+        "instrumentalness": 0.000841,
+        "liveness": 0.0938,
+        "valence": 0.168,
+        "tempo": 85.994,
+        "type": "audio_features",
+        "id": "6tjsbysvZh8Pq8DZA5ldrn",
+        "uri": "spotify:track:6tjsbysvZh8Pq8DZA5ldrn",
+        "track_href": "https://api.spotify.com/v1/tracks/6tjsbysvZh8Pq8DZA5ldrn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6tjsbysvZh8Pq8DZA5ldrn",
+        "duration_ms": 342829,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3dQEShIMs5TW8H3eUh11r7",
+    "name": "Twenty Eight",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 129.966,
+    "features": [
+      {
+        "danceability": 0.636,
+        "energy": 0.64,
+        "key": 3,
+        "loudness": -7.171,
+        "mode": 0,
+        "speechiness": 0.0366,
+        "acousticness": 0.566,
+        "instrumentalness": 0.000207,
+        "liveness": 0.108,
+        "valence": 0.247,
+        "tempo": 129.966,
+        "type": "audio_features",
+        "id": "3dQEShIMs5TW8H3eUh11r7",
+        "uri": "spotify:track:3dQEShIMs5TW8H3eUh11r7",
+        "track_href": "https://api.spotify.com/v1/tracks/3dQEShIMs5TW8H3eUh11r7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3dQEShIMs5TW8H3eUh11r7",
+        "duration_ms": 258294,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5JpSjNcjuP8L9QrYmv3xcn",
+    "name": "Lonely Star",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 158.001,
+    "features": [
+      {
+        "danceability": 0.483,
+        "energy": 0.621,
+        "key": 2,
+        "loudness": -8.602,
+        "mode": 1,
+        "speechiness": 0.0393,
+        "acousticness": 0.267,
+        "instrumentalness": 0.0284,
+        "liveness": 0.472,
+        "valence": 0.172,
+        "tempo": 158.001,
+        "type": "audio_features",
+        "id": "5JpSjNcjuP8L9QrYmv3xcn",
+        "uri": "spotify:track:5JpSjNcjuP8L9QrYmv3xcn",
+        "track_href": "https://api.spotify.com/v1/tracks/5JpSjNcjuP8L9QrYmv3xcn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5JpSjNcjuP8L9QrYmv3xcn",
+        "duration_ms": 349033,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6eJbjaoLRlfwrfWpeS6alF",
+    "name": "Life Of The Party",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 138.107,
+    "features": [
+      {
+        "danceability": 0.596,
+        "energy": 0.553,
+        "key": 2,
+        "loudness": -7.96,
+        "mode": 1,
+        "speechiness": 0.0269,
+        "acousticness": 0.00294,
+        "instrumentalness": 0.00148,
+        "liveness": 0.595,
+        "valence": 0.516,
+        "tempo": 138.107,
+        "type": "audio_features",
+        "id": "6eJbjaoLRlfwrfWpeS6alF",
+        "uri": "spotify:track:6eJbjaoLRlfwrfWpeS6alF",
+        "track_href": "https://api.spotify.com/v1/tracks/6eJbjaoLRlfwrfWpeS6alF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6eJbjaoLRlfwrfWpeS6alF",
+        "duration_ms": 296286,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0l1p13Fbujayv894H0hfpS",
+    "name": "Thursday",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 179.327,
+    "features": [
+      {
+        "danceability": 0.26,
+        "energy": 0.491,
+        "key": 0,
+        "loudness": -8.059,
+        "mode": 0,
+        "speechiness": 0.0501,
+        "acousticness": 0.476,
+        "instrumentalness": 0.0263,
+        "liveness": 0.0558,
+        "valence": 0.207,
+        "tempo": 179.327,
+        "type": "audio_features",
+        "id": "0l1p13Fbujayv894H0hfpS",
+        "uri": "spotify:track:0l1p13Fbujayv894H0hfpS",
+        "track_href": "https://api.spotify.com/v1/tracks/0l1p13Fbujayv894H0hfpS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0l1p13Fbujayv894H0hfpS",
+        "duration_ms": 320004,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "53qYItjefG5SUf62428dIw",
+    "name": "The Zone",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 139.95,
+    "features": [
+      {
+        "danceability": 0.654,
+        "energy": 0.383,
+        "key": 3,
+        "loudness": -9.875,
+        "mode": 0,
+        "speechiness": 0.0363,
+        "acousticness": 0.129,
+        "instrumentalness": 0.000755,
+        "liveness": 0.103,
+        "valence": 0.268,
+        "tempo": 139.95,
+        "type": "audio_features",
+        "id": "53qYItjefG5SUf62428dIw",
+        "uri": "spotify:track:53qYItjefG5SUf62428dIw",
+        "track_href": "https://api.spotify.com/v1/tracks/53qYItjefG5SUf62428dIw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/53qYItjefG5SUf62428dIw",
+        "duration_ms": 418057,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5SF1kcOiOmtZFUIQNGC4TC",
+    "name": "The Birds Pt. 1",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 127.873,
+    "features": [
+      {
+        "danceability": 0.56,
+        "energy": 0.586,
+        "key": 0,
+        "loudness": -7.382,
+        "mode": 0,
+        "speechiness": 0.0351,
+        "acousticness": 0.00176,
+        "instrumentalness": 0,
+        "liveness": 0.0838,
+        "valence": 0.171,
+        "tempo": 127.873,
+        "type": "audio_features",
+        "id": "5SF1kcOiOmtZFUIQNGC4TC",
+        "uri": "spotify:track:5SF1kcOiOmtZFUIQNGC4TC",
+        "track_href": "https://api.spotify.com/v1/tracks/5SF1kcOiOmtZFUIQNGC4TC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5SF1kcOiOmtZFUIQNGC4TC",
+        "duration_ms": 214516,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2yYDijitHN6psA2tH0ndXs",
+    "name": "The Birds Pt. 2",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 78.639,
+    "features": [
+      {
+        "danceability": 0.278,
+        "energy": 0.564,
+        "key": 9,
+        "loudness": -7.61,
+        "mode": 0,
+        "speechiness": 0.0357,
+        "acousticness": 0.459,
+        "instrumentalness": 9.4e-06,
+        "liveness": 0.256,
+        "valence": 0.177,
+        "tempo": 78.639,
+        "type": "audio_features",
+        "id": "2yYDijitHN6psA2tH0ndXs",
+        "uri": "spotify:track:2yYDijitHN6psA2tH0ndXs",
+        "track_href": "https://api.spotify.com/v1/tracks/2yYDijitHN6psA2tH0ndXs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2yYDijitHN6psA2tH0ndXs",
+        "duration_ms": 350584,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7xgYvziLsxNd0UznaEw8Oi",
+    "name": "Gone",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 109.371,
+    "features": [
+      {
+        "danceability": 0.473,
+        "energy": 0.478,
+        "key": 0,
+        "loudness": -10.258,
+        "mode": 0,
+        "speechiness": 0.091,
+        "acousticness": 0.425,
+        "instrumentalness": 0.000232,
+        "liveness": 0.0629,
+        "valence": 0.262,
+        "tempo": 109.371,
+        "type": "audio_features",
+        "id": "7xgYvziLsxNd0UznaEw8Oi",
+        "uri": "spotify:track:7xgYvziLsxNd0UznaEw8Oi",
+        "track_href": "https://api.spotify.com/v1/tracks/7xgYvziLsxNd0UznaEw8Oi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7xgYvziLsxNd0UznaEw8Oi",
+        "duration_ms": 486426,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4dXnS1YXBkn4oAIxRLPJcK",
+    "name": "Rolling Stone",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 129.92,
+    "features": [
+      {
+        "danceability": 0.678,
+        "energy": 0.352,
+        "key": 8,
+        "loudness": -12.019,
+        "mode": 0,
+        "speechiness": 0.0317,
+        "acousticness": 0.536,
+        "instrumentalness": 5.29e-05,
+        "liveness": 0.11,
+        "valence": 0.397,
+        "tempo": 129.92,
+        "type": "audio_features",
+        "id": "4dXnS1YXBkn4oAIxRLPJcK",
+        "uri": "spotify:track:4dXnS1YXBkn4oAIxRLPJcK",
+        "track_href": "https://api.spotify.com/v1/tracks/4dXnS1YXBkn4oAIxRLPJcK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4dXnS1YXBkn4oAIxRLPJcK",
+        "duration_ms": 230784,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5JQ5Acrgv1VrO9UtMUN052",
+    "name": "Heaven Or Las Vegas",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 125.055,
+    "features": [
+      {
+        "danceability": 0.53,
+        "energy": 0.699,
+        "key": 11,
+        "loudness": -8.558,
+        "mode": 0,
+        "speechiness": 0.063,
+        "acousticness": 0.0128,
+        "instrumentalness": 0.000152,
+        "liveness": 0.0865,
+        "valence": 0.212,
+        "tempo": 125.055,
+        "type": "audio_features",
+        "id": "5JQ5Acrgv1VrO9UtMUN052",
+        "uri": "spotify:track:5JQ5Acrgv1VrO9UtMUN052",
+        "track_href": "https://api.spotify.com/v1/tracks/5JQ5Acrgv1VrO9UtMUN052",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5JQ5Acrgv1VrO9UtMUN052",
+        "duration_ms": 353732,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5JaqApg5415jtjdyjY3wa9",
+    "name": "Valerie",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 147.962,
+    "features": [
+      {
+        "danceability": 0.644,
+        "energy": 0.528,
+        "key": 5,
+        "loudness": -6.623,
+        "mode": 0,
+        "speechiness": 0.0446,
+        "acousticness": 0.364,
+        "instrumentalness": 6.96e-06,
+        "liveness": 0.0833,
+        "valence": 0.451,
+        "tempo": 147.962,
+        "type": "audio_features",
+        "id": "5JaqApg5415jtjdyjY3wa9",
+        "uri": "spotify:track:5JaqApg5415jtjdyjY3wa9",
+        "track_href": "https://api.spotify.com/v1/tracks/5JaqApg5415jtjdyjY3wa9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5JaqApg5415jtjdyjY3wa9",
+        "duration_ms": 286599,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0WdJTI3UVvUMbLwPk5ObKI",
+    "name": "D.D.",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 119.966,
+    "features": [
+      {
+        "danceability": 0.677,
+        "energy": 0.663,
+        "key": 7,
+        "loudness": -6.582,
+        "mode": 0,
+        "speechiness": 0.0773,
+        "acousticness": 0.687,
+        "instrumentalness": 0,
+        "liveness": 0.643,
+        "valence": 0.412,
+        "tempo": 119.966,
+        "type": "audio_features",
+        "id": "0WdJTI3UVvUMbLwPk5ObKI",
+        "uri": "spotify:track:0WdJTI3UVvUMbLwPk5ObKI",
+        "track_href": "https://api.spotify.com/v1/tracks/0WdJTI3UVvUMbLwPk5ObKI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0WdJTI3UVvUMbLwPk5ObKI",
+        "duration_ms": 274434,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0UGdO687azruy9tFlCxO6F",
+    "name": "Montreal",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 183.822,
+    "features": [
+      {
+        "danceability": 0.54,
+        "energy": 0.775,
+        "key": 7,
+        "loudness": -4.118,
+        "mode": 0,
+        "speechiness": 0.0992,
+        "acousticness": 0.0598,
+        "instrumentalness": 2.93e-05,
+        "liveness": 0.624,
+        "valence": 0.166,
+        "tempo": 183.822,
+        "type": "audio_features",
+        "id": "0UGdO687azruy9tFlCxO6F",
+        "uri": "spotify:track:0UGdO687azruy9tFlCxO6F",
+        "track_href": "https://api.spotify.com/v1/tracks/0UGdO687azruy9tFlCxO6F",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0UGdO687azruy9tFlCxO6F",
+        "duration_ms": 250506,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "58yC1Q6XKjmHeWkEWh9O6B",
+    "name": "Outside",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 139.97,
+    "features": [
+      {
+        "danceability": 0.578,
+        "energy": 0.491,
+        "key": 5,
+        "loudness": -7.107,
+        "mode": 0,
+        "speechiness": 0.0469,
+        "acousticness": 0.748,
+        "instrumentalness": 0,
+        "liveness": 0.16,
+        "valence": 0.237,
+        "tempo": 139.97,
+        "type": "audio_features",
+        "id": "58yC1Q6XKjmHeWkEWh9O6B",
+        "uri": "spotify:track:58yC1Q6XKjmHeWkEWh9O6B",
+        "track_href": "https://api.spotify.com/v1/tracks/58yC1Q6XKjmHeWkEWh9O6B",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/58yC1Q6XKjmHeWkEWh9O6B",
+        "duration_ms": 259004,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Hs5enNuaAXmJssAybWbOw",
+    "name": "XO / The Host",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 127.999,
+    "features": [
+      {
+        "danceability": 0.449,
+        "energy": 0.717,
+        "key": 2,
+        "loudness": -6.055,
+        "mode": 1,
+        "speechiness": 0.0549,
+        "acousticness": 0.419,
+        "instrumentalness": 0.000272,
+        "liveness": 0.346,
+        "valence": 0.235,
+        "tempo": 127.999,
+        "type": "audio_features",
+        "id": "0Hs5enNuaAXmJssAybWbOw",
+        "uri": "spotify:track:0Hs5enNuaAXmJssAybWbOw",
+        "track_href": "https://api.spotify.com/v1/tracks/0Hs5enNuaAXmJssAybWbOw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Hs5enNuaAXmJssAybWbOw",
+        "duration_ms": 444213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3QWENKFYGEgp3itgTnrgq9",
+    "name": "Initiation",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 139.953,
+    "features": [
+      {
+        "danceability": 0.644,
+        "energy": 0.691,
+        "key": 1,
+        "loudness": -6.348,
+        "mode": 1,
+        "speechiness": 0.0655,
+        "acousticness": 0.555,
+        "instrumentalness": 5.59e-06,
+        "liveness": 0.211,
+        "valence": 0.718,
+        "tempo": 139.953,
+        "type": "audio_features",
+        "id": "3QWENKFYGEgp3itgTnrgq9",
+        "uri": "spotify:track:3QWENKFYGEgp3itgTnrgq9",
+        "track_href": "https://api.spotify.com/v1/tracks/3QWENKFYGEgp3itgTnrgq9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3QWENKFYGEgp3itgTnrgq9",
+        "duration_ms": 260730,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "37zSTGaP8bfBDGpJnUmSDl",
+    "name": "Same Old Song",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 109.963,
+    "features": [
+      {
+        "danceability": 0.795,
+        "energy": 0.562,
+        "key": 8,
+        "loudness": -4.939,
+        "mode": 1,
+        "speechiness": 0.0439,
+        "acousticness": 0.398,
+        "instrumentalness": 1.64e-05,
+        "liveness": 0.574,
+        "valence": 0.408,
+        "tempo": 109.963,
+        "type": "audio_features",
+        "id": "37zSTGaP8bfBDGpJnUmSDl",
+        "uri": "spotify:track:37zSTGaP8bfBDGpJnUmSDl",
+        "track_href": "https://api.spotify.com/v1/tracks/37zSTGaP8bfBDGpJnUmSDl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/37zSTGaP8bfBDGpJnUmSDl",
+        "duration_ms": 312059,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0JGoOLSl8A80mSPBL7ya9U",
+    "name": "The Fall",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 150.092,
+    "features": [
+      {
+        "danceability": 0.425,
+        "energy": 0.782,
+        "key": 5,
+        "loudness": -6.52,
+        "mode": 0,
+        "speechiness": 0.0892,
+        "acousticness": 0.737,
+        "instrumentalness": 0.000181,
+        "liveness": 0.5,
+        "valence": 0.41,
+        "tempo": 150.092,
+        "type": "audio_features",
+        "id": "0JGoOLSl8A80mSPBL7ya9U",
+        "uri": "spotify:track:0JGoOLSl8A80mSPBL7ya9U",
+        "track_href": "https://api.spotify.com/v1/tracks/0JGoOLSl8A80mSPBL7ya9U",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0JGoOLSl8A80mSPBL7ya9U",
+        "duration_ms": 345251,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6pG3yiKNsX03ZFTFWdOasv",
+    "name": "Next",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 112.051,
+    "features": [
+      {
+        "danceability": 0.674,
+        "energy": 0.671,
+        "key": 6,
+        "loudness": -6.323,
+        "mode": 1,
+        "speechiness": 0.0403,
+        "acousticness": 0.824,
+        "instrumentalness": 9.05e-06,
+        "liveness": 0.334,
+        "valence": 0.509,
+        "tempo": 112.051,
+        "type": "audio_features",
+        "id": "6pG3yiKNsX03ZFTFWdOasv",
+        "uri": "spotify:track:6pG3yiKNsX03ZFTFWdOasv",
+        "track_href": "https://api.spotify.com/v1/tracks/6pG3yiKNsX03ZFTFWdOasv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6pG3yiKNsX03ZFTFWdOasv",
+        "duration_ms": 361688,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3weHnt82LuCTMa2AnZFM78",
+    "name": "Echoes Of Silence",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 130.688,
+    "features": [
+      {
+        "danceability": 0.356,
+        "energy": 0.201,
+        "key": 6,
+        "loudness": -12.289,
+        "mode": 0,
+        "speechiness": 0.0388,
+        "acousticness": 0.974,
+        "instrumentalness": 0.000273,
+        "liveness": 0.108,
+        "valence": 0.18,
+        "tempo": 130.688,
+        "type": "audio_features",
+        "id": "3weHnt82LuCTMa2AnZFM78",
+        "uri": "spotify:track:3weHnt82LuCTMa2AnZFM78",
+        "track_href": "https://api.spotify.com/v1/tracks/3weHnt82LuCTMa2AnZFM78",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3weHnt82LuCTMa2AnZFM78",
+        "duration_ms": 239995,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0kXHpsg9SmpRqsQ4wQvQsK",
+    "name": "Till Dawn (Here Comes The Sun)",
+    "artist": "The Weeknd",
+    "album": "Trilogy",
+    "bpm": 100.015,
+    "features": [
+      {
+        "danceability": 0.702,
+        "energy": 0.546,
+        "key": 9,
+        "loudness": -8.776,
+        "mode": 0,
+        "speechiness": 0.0432,
+        "acousticness": 0.821,
+        "instrumentalness": 0.000237,
+        "liveness": 0.148,
+        "valence": 0.592,
+        "tempo": 100.015,
+        "type": "audio_features",
+        "id": "0kXHpsg9SmpRqsQ4wQvQsK",
+        "uri": "spotify:track:0kXHpsg9SmpRqsQ4wQvQsK",
+        "track_href": "https://api.spotify.com/v1/tracks/0kXHpsg9SmpRqsQ4wQvQsK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0kXHpsg9SmpRqsQ4wQvQsK",
+        "duration_ms": 319531,
+        "time_signature": 4
+      }
+    ]
+  }
+]

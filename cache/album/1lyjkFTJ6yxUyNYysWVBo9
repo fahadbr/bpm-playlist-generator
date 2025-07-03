@@ -1,0 +1,408 @@
+[
+  {
+    "id": "4ut9fdC5ncgcvCo0KaphNY",
+    "name": "Thank You (ft. Lucy Rose & The RattPack)",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 159.39,
+    "features": [
+      {
+        "danceability": 0.601,
+        "energy": 0.748,
+        "key": 10,
+        "loudness": -7.12,
+        "mode": 1,
+        "speechiness": 0.267,
+        "acousticness": 0.172,
+        "instrumentalness": 3.19e-06,
+        "liveness": 0.4,
+        "valence": 0.577,
+        "tempo": 159.39,
+        "type": "audio_features",
+        "id": "4ut9fdC5ncgcvCo0KaphNY",
+        "uri": "spotify:track:4ut9fdC5ncgcvCo0KaphNY",
+        "track_href": "https://api.spotify.com/v1/tracks/4ut9fdC5ncgcvCo0KaphNY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ut9fdC5ncgcvCo0KaphNY",
+        "duration_ms": 430427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2Egoo3acImq7hV6TfYV90E",
+    "name": "Everybody Dies",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 94.082,
+    "features": [
+      {
+        "danceability": 0.784,
+        "energy": 0.922,
+        "key": 2,
+        "loudness": -3.92,
+        "mode": 1,
+        "speechiness": 0.152,
+        "acousticness": 0.141,
+        "instrumentalness": 3.46e-06,
+        "liveness": 0.377,
+        "valence": 0.836,
+        "tempo": 94.082,
+        "type": "audio_features",
+        "id": "2Egoo3acImq7hV6TfYV90E",
+        "uri": "spotify:track:2Egoo3acImq7hV6TfYV90E",
+        "track_href": "https://api.spotify.com/v1/tracks/2Egoo3acImq7hV6TfYV90E",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Egoo3acImq7hV6TfYV90E",
+        "duration_ms": 250213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5ZcMWSpUeUPvO87FkSZbJB",
+    "name": "The Return",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 90.011,
+    "features": [
+      {
+        "danceability": 0.801,
+        "energy": 0.958,
+        "key": 7,
+        "loudness": -4.412,
+        "mode": 1,
+        "speechiness": 0.177,
+        "acousticness": 0.115,
+        "instrumentalness": 0,
+        "liveness": 0.0833,
+        "valence": 0.652,
+        "tempo": 90.011,
+        "type": "audio_features",
+        "id": "5ZcMWSpUeUPvO87FkSZbJB",
+        "uri": "spotify:track:5ZcMWSpUeUPvO87FkSZbJB",
+        "track_href": "https://api.spotify.com/v1/tracks/5ZcMWSpUeUPvO87FkSZbJB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ZcMWSpUeUPvO87FkSZbJB",
+        "duration_ms": 252053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "066QkK1heGoXBUPBbcOhEG",
+    "name": "The Glorious Five",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 91.995,
+    "features": [
+      {
+        "danceability": 0.823,
+        "energy": 0.842,
+        "key": 10,
+        "loudness": -7.539,
+        "mode": 0,
+        "speechiness": 0.0471,
+        "acousticness": 0.0359,
+        "instrumentalness": 0,
+        "liveness": 0.381,
+        "valence": 0.397,
+        "tempo": 91.995,
+        "type": "audio_features",
+        "id": "066QkK1heGoXBUPBbcOhEG",
+        "uri": "spotify:track:066QkK1heGoXBUPBbcOhEG",
+        "track_href": "https://api.spotify.com/v1/tracks/066QkK1heGoXBUPBbcOhEG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/066QkK1heGoXBUPBbcOhEG",
+        "duration_ms": 216520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7rKKh8AGVXuNXgLBpTBTFH",
+    "name": "One Day (ft. Ryan Tedder)",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 189.723,
+    "features": [
+      {
+        "danceability": 0.546,
+        "energy": 0.871,
+        "key": 10,
+        "loudness": -5.81,
+        "mode": 1,
+        "speechiness": 0.148,
+        "acousticness": 0.139,
+        "instrumentalness": 8.85e-05,
+        "liveness": 0.104,
+        "valence": 0.303,
+        "tempo": 189.723,
+        "type": "audio_features",
+        "id": "7rKKh8AGVXuNXgLBpTBTFH",
+        "uri": "spotify:track:7rKKh8AGVXuNXgLBpTBTFH",
+        "track_href": "https://api.spotify.com/v1/tracks/7rKKh8AGVXuNXgLBpTBTFH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7rKKh8AGVXuNXgLBpTBTFH",
+        "duration_ms": 198107,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6VDz4m1vEGHDDqQojf1mpc",
+    "name": "Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA)",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 91.012,
+    "features": [
+      {
+        "danceability": 0.743,
+        "energy": 0.81,
+        "key": 1,
+        "loudness": -4.94,
+        "mode": 1,
+        "speechiness": 0.286,
+        "acousticness": 0.134,
+        "instrumentalness": 0,
+        "liveness": 0.369,
+        "valence": 0.755,
+        "tempo": 91.012,
+        "type": "audio_features",
+        "id": "6VDz4m1vEGHDDqQojf1mpc",
+        "uri": "spotify:track:6VDz4m1vEGHDDqQojf1mpc",
+        "track_href": "https://api.spotify.com/v1/tracks/6VDz4m1vEGHDDqQojf1mpc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6VDz4m1vEGHDDqQojf1mpc",
+        "duration_ms": 487960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4CstQ0SUkl0YkoeZkIZlIx",
+    "name": "100 Miles and Running (ft. Wale & John Lindahl)",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 118.986,
+    "features": [
+      {
+        "danceability": 0.806,
+        "energy": 0.93,
+        "key": 7,
+        "loudness": -3.595,
+        "mode": 1,
+        "speechiness": 0.0743,
+        "acousticness": 0.581,
+        "instrumentalness": 1.34e-06,
+        "liveness": 0.38,
+        "valence": 0.96,
+        "tempo": 118.986,
+        "type": "audio_features",
+        "id": "4CstQ0SUkl0YkoeZkIZlIx",
+        "uri": "spotify:track:4CstQ0SUkl0YkoeZkIZlIx",
+        "track_href": "https://api.spotify.com/v1/tracks/4CstQ0SUkl0YkoeZkIZlIx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4CstQ0SUkl0YkoeZkIZlIx",
+        "duration_ms": 353453,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2zIAPysksDdMAiG33qH6kW",
+    "name": "Ordinary Day (ft. Hailee Steinfeld)",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 157.966,
+    "features": [
+      {
+        "danceability": 0.743,
+        "energy": 0.898,
+        "key": 1,
+        "loudness": -6.67,
+        "mode": 1,
+        "speechiness": 0.0755,
+        "acousticness": 0.0228,
+        "instrumentalness": 0,
+        "liveness": 0.143,
+        "valence": 0.825,
+        "tempo": 157.966,
+        "type": "audio_features",
+        "id": "2zIAPysksDdMAiG33qH6kW",
+        "uri": "spotify:track:2zIAPysksDdMAiG33qH6kW",
+        "track_href": "https://api.spotify.com/v1/tracks/2zIAPysksDdMAiG33qH6kW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2zIAPysksDdMAiG33qH6kW",
+        "duration_ms": 188400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3irKogkH8P1B1nONmEcHgY",
+    "name": "YSIV",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 91.022,
+    "features": [
+      {
+        "danceability": 0.769,
+        "energy": 0.777,
+        "key": 8,
+        "loudness": -6.065,
+        "mode": 0,
+        "speechiness": 0.312,
+        "acousticness": 0.0716,
+        "instrumentalness": 0,
+        "liveness": 0.11,
+        "valence": 0.696,
+        "tempo": 91.022,
+        "type": "audio_features",
+        "id": "3irKogkH8P1B1nONmEcHgY",
+        "uri": "spotify:track:3irKogkH8P1B1nONmEcHgY",
+        "track_href": "https://api.spotify.com/v1/tracks/3irKogkH8P1B1nONmEcHgY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3irKogkH8P1B1nONmEcHgY",
+        "duration_ms": 369240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Me3TlqFkaIzoZzAGU1EDh",
+    "name": "Street Dreams II",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 176.088,
+    "features": [
+      {
+        "danceability": 0.677,
+        "energy": 0.871,
+        "key": 10,
+        "loudness": -6.128,
+        "mode": 0,
+        "speechiness": 0.272,
+        "acousticness": 0.0893,
+        "instrumentalness": 0,
+        "liveness": 0.736,
+        "valence": 0.253,
+        "tempo": 176.088,
+        "type": "audio_features",
+        "id": "0Me3TlqFkaIzoZzAGU1EDh",
+        "uri": "spotify:track:0Me3TlqFkaIzoZzAGU1EDh",
+        "track_href": "https://api.spotify.com/v1/tracks/0Me3TlqFkaIzoZzAGU1EDh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Me3TlqFkaIzoZzAGU1EDh",
+        "duration_ms": 266440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5xE8cBcKRjKEDdJwmh1ixN",
+    "name": "The Adventures Of Stoney Bob (ft. Kajo, Slaydro, Big Lenbo)",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 95.062,
+    "features": [
+      {
+        "danceability": 0.649,
+        "energy": 0.852,
+        "key": 2,
+        "loudness": -6.261,
+        "mode": 1,
+        "speechiness": 0.308,
+        "acousticness": 0.0894,
+        "instrumentalness": 0,
+        "liveness": 0.354,
+        "valence": 0.735,
+        "tempo": 95.062,
+        "type": "audio_features",
+        "id": "5xE8cBcKRjKEDdJwmh1ixN",
+        "uri": "spotify:track:5xE8cBcKRjKEDdJwmh1ixN",
+        "track_href": "https://api.spotify.com/v1/tracks/5xE8cBcKRjKEDdJwmh1ixN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5xE8cBcKRjKEDdJwmh1ixN",
+        "duration_ms": 260213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5mJAediEZEv8KKpWxrNIqf",
+    "name": "Legacy",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 87.999,
+    "features": [
+      {
+        "danceability": 0.692,
+        "energy": 0.791,
+        "key": 7,
+        "loudness": -3.508,
+        "mode": 1,
+        "speechiness": 0.274,
+        "acousticness": 0.426,
+        "instrumentalness": 0,
+        "liveness": 0.138,
+        "valence": 0.638,
+        "tempo": 87.999,
+        "type": "audio_features",
+        "id": "5mJAediEZEv8KKpWxrNIqf",
+        "uri": "spotify:track:5mJAediEZEv8KKpWxrNIqf",
+        "track_href": "https://api.spotify.com/v1/tracks/5mJAediEZEv8KKpWxrNIqf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5mJAediEZEv8KKpWxrNIqf",
+        "duration_ms": 351840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1FmdAhS8FqRoEJ4jcSfuKZ",
+    "name": "ICONIC (ft. Jaden Smith)",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 175.933,
+    "features": [
+      {
+        "danceability": 0.388,
+        "energy": 0.777,
+        "key": 1,
+        "loudness": -5.55,
+        "mode": 1,
+        "speechiness": 0.241,
+        "acousticness": 0.00575,
+        "instrumentalness": 0,
+        "liveness": 0.288,
+        "valence": 0.191,
+        "tempo": 175.933,
+        "type": "audio_features",
+        "id": "1FmdAhS8FqRoEJ4jcSfuKZ",
+        "uri": "spotify:track:1FmdAhS8FqRoEJ4jcSfuKZ",
+        "track_href": "https://api.spotify.com/v1/tracks/1FmdAhS8FqRoEJ4jcSfuKZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1FmdAhS8FqRoEJ4jcSfuKZ",
+        "duration_ms": 298133,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "202RUoPIUYZLyg6VtosWci",
+    "name": "Last Call",
+    "artist": "Logic",
+    "album": "YSIV",
+    "bpm": 86.947,
+    "features": [
+      {
+        "danceability": 0.772,
+        "energy": 0.818,
+        "key": 8,
+        "loudness": -5.29,
+        "mode": 0,
+        "speechiness": 0.333,
+        "acousticness": 0.302,
+        "instrumentalness": 0,
+        "liveness": 0.101,
+        "valence": 0.811,
+        "tempo": 86.947,
+        "type": "audio_features",
+        "id": "202RUoPIUYZLyg6VtosWci",
+        "uri": "spotify:track:202RUoPIUYZLyg6VtosWci",
+        "track_href": "https://api.spotify.com/v1/tracks/202RUoPIUYZLyg6VtosWci",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/202RUoPIUYZLyg6VtosWci",
+        "duration_ms": 645667,
+        "time_signature": 4
+      }
+    ]
+  }
+]

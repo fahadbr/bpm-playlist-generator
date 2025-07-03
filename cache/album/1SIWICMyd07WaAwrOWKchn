@@ -1,0 +1,350 @@
+[
+  {
+    "id": "7qWFbzF821vbTSCtkmULPR",
+    "name": "Goodbye to Everything",
+    "artist": "Between The Buried And Me",
+    "album": "The Parallax II: Future Sequence",
+    "bpm": 97.179,
+    "features": [
+      {
+        "danceability": 0.153,
+        "energy": 0.355,
+        "key": 3,
+        "loudness": -8.603,
+        "mode": 0,
+        "speechiness": 0.0311,
+        "acousticness": 0.856,
+        "instrumentalness": 0.00312,
+        "liveness": 0.382,
+        "valence": 0.0562,
+        "tempo": 97.179,
+        "type": "audio_features",
+        "id": "7qWFbzF821vbTSCtkmULPR",
+        "uri": "spotify:track:7qWFbzF821vbTSCtkmULPR",
+        "track_href": "https://api.spotify.com/v1/tracks/7qWFbzF821vbTSCtkmULPR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7qWFbzF821vbTSCtkmULPR",
+        "duration_ms": 99387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1zA0jUxDtT6ht8qgpDBDpT",
+    "name": "Astral Body",
+    "artist": "Between The Buried And Me",
+    "album": "The Parallax II: Future Sequence",
+    "bpm": 109.8,
+    "features": [
+      {
+        "danceability": 0.292,
+        "energy": 0.97,
+        "key": 11,
+        "loudness": -3.615,
+        "mode": 1,
+        "speechiness": 0.132,
+        "acousticness": 0.000612,
+        "instrumentalness": 0.403,
+        "liveness": 0.308,
+        "valence": 0.351,
+        "tempo": 109.8,
+        "type": "audio_features",
+        "id": "1zA0jUxDtT6ht8qgpDBDpT",
+        "uri": "spotify:track:1zA0jUxDtT6ht8qgpDBDpT",
+        "track_href": "https://api.spotify.com/v1/tracks/1zA0jUxDtT6ht8qgpDBDpT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1zA0jUxDtT6ht8qgpDBDpT",
+        "duration_ms": 301613,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6f8nxx8zPqrctU6kLphyHS",
+    "name": "Lay Your Ghosts to Rest",
+    "artist": "Between The Buried And Me",
+    "album": "The Parallax II: Future Sequence",
+    "bpm": 103.138,
+    "features": [
+      {
+        "danceability": 0.276,
+        "energy": 0.977,
+        "key": 6,
+        "loudness": -3.503,
+        "mode": 0,
+        "speechiness": 0.152,
+        "acousticness": 0.000502,
+        "instrumentalness": 0.000639,
+        "liveness": 0.362,
+        "valence": 0.242,
+        "tempo": 103.138,
+        "type": "audio_features",
+        "id": "6f8nxx8zPqrctU6kLphyHS",
+        "uri": "spotify:track:6f8nxx8zPqrctU6kLphyHS",
+        "track_href": "https://api.spotify.com/v1/tracks/6f8nxx8zPqrctU6kLphyHS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6f8nxx8zPqrctU6kLphyHS",
+        "duration_ms": 602427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5C34FGQ9Rwe6gcVltToUz0",
+    "name": "Autumn",
+    "artist": "Between The Buried And Me",
+    "album": "The Parallax II: Future Sequence",
+    "bpm": 77.007,
+    "features": [
+      {
+        "danceability": 0.201,
+        "energy": 0.488,
+        "key": 10,
+        "loudness": -19.223,
+        "mode": 0,
+        "speechiness": 0.0573,
+        "acousticness": 0.96,
+        "instrumentalness": 0.99,
+        "liveness": 0.142,
+        "valence": 0.0947,
+        "tempo": 77.007,
+        "type": "audio_features",
+        "id": "5C34FGQ9Rwe6gcVltToUz0",
+        "uri": "spotify:track:5C34FGQ9Rwe6gcVltToUz0",
+        "track_href": "https://api.spotify.com/v1/tracks/5C34FGQ9Rwe6gcVltToUz0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5C34FGQ9Rwe6gcVltToUz0",
+        "duration_ms": 77720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1WWPO82Q5kl5tXh46auLC9",
+    "name": "Extremophile Elite",
+    "artist": "Between The Buried And Me",
+    "album": "The Parallax II: Future Sequence",
+    "bpm": 159.851,
+    "features": [
+      {
+        "danceability": 0.227,
+        "energy": 0.973,
+        "key": 1,
+        "loudness": -3.606,
+        "mode": 1,
+        "speechiness": 0.184,
+        "acousticness": 0.000264,
+        "instrumentalness": 0.0105,
+        "liveness": 0.141,
+        "valence": 0.286,
+        "tempo": 159.851,
+        "type": "audio_features",
+        "id": "1WWPO82Q5kl5tXh46auLC9",
+        "uri": "spotify:track:1WWPO82Q5kl5tXh46auLC9",
+        "track_href": "https://api.spotify.com/v1/tracks/1WWPO82Q5kl5tXh46auLC9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1WWPO82Q5kl5tXh46auLC9",
+        "duration_ms": 598640,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5GoOXx2O676br7DKLO6GLr",
+    "name": "Parallax",
+    "artist": "Between The Buried And Me",
+    "album": "The Parallax II: Future Sequence",
+    "bpm": 55.577,
+    "features": [
+      {
+        "danceability": 0.313,
+        "energy": 0.582,
+        "key": 1,
+        "loudness": -13.18,
+        "mode": 0,
+        "speechiness": 0.0688,
+        "acousticness": 0.769,
+        "instrumentalness": 0.777,
+        "liveness": 0.15,
+        "valence": 0.0486,
+        "tempo": 55.577,
+        "type": "audio_features",
+        "id": "5GoOXx2O676br7DKLO6GLr",
+        "uri": "spotify:track:5GoOXx2O676br7DKLO6GLr",
+        "track_href": "https://api.spotify.com/v1/tracks/5GoOXx2O676br7DKLO6GLr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5GoOXx2O676br7DKLO6GLr",
+        "duration_ms": 75440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3LV19asKFQUwxMNOlln6QY",
+    "name": "The Black Box",
+    "artist": "Between The Buried And Me",
+    "album": "The Parallax II: Future Sequence",
+    "bpm": 135.07,
+    "features": [
+      {
+        "danceability": 0.445,
+        "energy": 0.404,
+        "key": 1,
+        "loudness": -7.229,
+        "mode": 0,
+        "speechiness": 0.0318,
+        "acousticness": 0.563,
+        "instrumentalness": 0.00189,
+        "liveness": 0.224,
+        "valence": 0.29,
+        "tempo": 135.07,
+        "type": "audio_features",
+        "id": "3LV19asKFQUwxMNOlln6QY",
+        "uri": "spotify:track:3LV19asKFQUwxMNOlln6QY",
+        "track_href": "https://api.spotify.com/v1/tracks/3LV19asKFQUwxMNOlln6QY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3LV19asKFQUwxMNOlln6QY",
+        "duration_ms": 130840,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2Yv5DeAVqMuH8AHQImqJX7",
+    "name": "Telos",
+    "artist": "Between The Buried And Me",
+    "album": "The Parallax II: Future Sequence",
+    "bpm": 125.12,
+    "features": [
+      {
+        "danceability": 0.3,
+        "energy": 0.99,
+        "key": 6,
+        "loudness": -3.643,
+        "mode": 1,
+        "speechiness": 0.188,
+        "acousticness": 0.000436,
+        "instrumentalness": 0.00704,
+        "liveness": 0.285,
+        "valence": 0.108,
+        "tempo": 125.12,
+        "type": "audio_features",
+        "id": "2Yv5DeAVqMuH8AHQImqJX7",
+        "uri": "spotify:track:2Yv5DeAVqMuH8AHQImqJX7",
+        "track_href": "https://api.spotify.com/v1/tracks/2Yv5DeAVqMuH8AHQImqJX7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Yv5DeAVqMuH8AHQImqJX7",
+        "duration_ms": 585400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "78BKyGHvpiNPOQMVRnDnD3",
+    "name": "Bloom",
+    "artist": "Between The Buried And Me",
+    "album": "The Parallax II: Future Sequence",
+    "bpm": 174.979,
+    "features": [
+      {
+        "danceability": 0.44,
+        "energy": 0.984,
+        "key": 11,
+        "loudness": -3.413,
+        "mode": 1,
+        "speechiness": 0.0752,
+        "acousticness": 0.00116,
+        "instrumentalness": 0.0208,
+        "liveness": 0.472,
+        "valence": 0.73,
+        "tempo": 174.979,
+        "type": "audio_features",
+        "id": "78BKyGHvpiNPOQMVRnDnD3",
+        "uri": "spotify:track:78BKyGHvpiNPOQMVRnDnD3",
+        "track_href": "https://api.spotify.com/v1/tracks/78BKyGHvpiNPOQMVRnDnD3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/78BKyGHvpiNPOQMVRnDnD3",
+        "duration_ms": 208960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6k7KdLa7AWsRreqXN4ocmb",
+    "name": "Melting City",
+    "artist": "Between The Buried And Me",
+    "album": "The Parallax II: Future Sequence",
+    "bpm": 86.496,
+    "features": [
+      {
+        "danceability": 0.228,
+        "energy": 0.961,
+        "key": 1,
+        "loudness": -3.556,
+        "mode": 1,
+        "speechiness": 0.0991,
+        "acousticness": 0.000486,
+        "instrumentalness": 0.0106,
+        "liveness": 0.316,
+        "valence": 0.222,
+        "tempo": 86.496,
+        "type": "audio_features",
+        "id": "6k7KdLa7AWsRreqXN4ocmb",
+        "uri": "spotify:track:6k7KdLa7AWsRreqXN4ocmb",
+        "track_href": "https://api.spotify.com/v1/tracks/6k7KdLa7AWsRreqXN4ocmb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6k7KdLa7AWsRreqXN4ocmb",
+        "duration_ms": 619453,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4oYGumi84fsMkxpiFpCSP8",
+    "name": "Silent Flight Parliament",
+    "artist": "Between The Buried And Me",
+    "album": "The Parallax II: Future Sequence",
+    "bpm": 112.547,
+    "features": [
+      {
+        "danceability": 0.289,
+        "energy": 0.973,
+        "key": 6,
+        "loudness": -3.811,
+        "mode": 0,
+        "speechiness": 0.201,
+        "acousticness": 0.000211,
+        "instrumentalness": 0.0822,
+        "liveness": 0.168,
+        "valence": 0.144,
+        "tempo": 112.547,
+        "type": "audio_features",
+        "id": "4oYGumi84fsMkxpiFpCSP8",
+        "uri": "spotify:track:4oYGumi84fsMkxpiFpCSP8",
+        "track_href": "https://api.spotify.com/v1/tracks/4oYGumi84fsMkxpiFpCSP8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4oYGumi84fsMkxpiFpCSP8",
+        "duration_ms": 909307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4cgbRsBKONUv6iJABWeIcX",
+    "name": "Goodbye to Everything Reprise",
+    "artist": "Between The Buried And Me",
+    "album": "The Parallax II: Future Sequence",
+    "bpm": 100.043,
+    "features": [
+      {
+        "danceability": 0.285,
+        "energy": 0.27,
+        "key": 1,
+        "loudness": -8.254,
+        "mode": 0,
+        "speechiness": 0.0353,
+        "acousticness": 0.622,
+        "instrumentalness": 0.859,
+        "liveness": 0.091,
+        "valence": 0.0335,
+        "tempo": 100.043,
+        "type": "audio_features",
+        "id": "4cgbRsBKONUv6iJABWeIcX",
+        "uri": "spotify:track:4cgbRsBKONUv6iJABWeIcX",
+        "track_href": "https://api.spotify.com/v1/tracks/4cgbRsBKONUv6iJABWeIcX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4cgbRsBKONUv6iJABWeIcX",
+        "duration_ms": 149267,
+        "time_signature": 3
+      }
+    ]
+  }
+]

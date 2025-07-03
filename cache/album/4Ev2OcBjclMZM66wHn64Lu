@@ -1,0 +1,379 @@
+[
+  {
+    "id": "58ZU9ScAsfI1gk9xyEtMj8",
+    "name": "Writer's Block",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 121.972,
+    "features": [
+      {
+        "danceability": 0.86,
+        "energy": 0.711,
+        "key": 9,
+        "loudness": -6.749,
+        "mode": 0,
+        "speechiness": 0.106,
+        "acousticness": 0.153,
+        "instrumentalness": 0.000649,
+        "liveness": 0.219,
+        "valence": 0.634,
+        "tempo": 121.972,
+        "type": "audio_features",
+        "id": "58ZU9ScAsfI1gk9xyEtMj8",
+        "uri": "spotify:track:58ZU9ScAsfI1gk9xyEtMj8",
+        "track_href": "https://api.spotify.com/v1/tracks/58ZU9ScAsfI1gk9xyEtMj8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/58ZU9ScAsfI1gk9xyEtMj8",
+        "duration_ms": 223533,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "71iZHChXGYnJmRNIDJhivf",
+    "name": "Glory Days",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 81.193,
+    "features": [
+      {
+        "danceability": 0.673,
+        "energy": 0.665,
+        "key": 2,
+        "loudness": -4.613,
+        "mode": 1,
+        "speechiness": 0.202,
+        "acousticness": 0.26,
+        "instrumentalness": 0,
+        "liveness": 0.0727,
+        "valence": 0.746,
+        "tempo": 81.193,
+        "type": "audio_features",
+        "id": "71iZHChXGYnJmRNIDJhivf",
+        "uri": "spotify:track:71iZHChXGYnJmRNIDJhivf",
+        "track_href": "https://api.spotify.com/v1/tracks/71iZHChXGYnJmRNIDJhivf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/71iZHChXGYnJmRNIDJhivf",
+        "duration_ms": 221733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2caMp830iwDTX8AZJECGN3",
+    "name": "Disco Friends",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 95.736,
+    "features": [
+      {
+        "danceability": 0.704,
+        "energy": 0.481,
+        "key": 9,
+        "loudness": -6.543,
+        "mode": 0,
+        "speechiness": 0.104,
+        "acousticness": 0.176,
+        "instrumentalness": 0.000942,
+        "liveness": 0.124,
+        "valence": 0.55,
+        "tempo": 95.736,
+        "type": "audio_features",
+        "id": "2caMp830iwDTX8AZJECGN3",
+        "uri": "spotify:track:2caMp830iwDTX8AZJECGN3",
+        "track_href": "https://api.spotify.com/v1/tracks/2caMp830iwDTX8AZJECGN3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2caMp830iwDTX8AZJECGN3",
+        "duration_ms": 182693,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3XClLzrEPTpHHKOhzhifzz",
+    "name": "Starz In Their Eyes",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 123.773,
+    "features": [
+      {
+        "danceability": 0.665,
+        "energy": 0.789,
+        "key": 3,
+        "loudness": -6.821,
+        "mode": 1,
+        "speechiness": 0.067,
+        "acousticness": 0.00163,
+        "instrumentalness": 0.000618,
+        "liveness": 0.667,
+        "valence": 0.646,
+        "tempo": 123.773,
+        "type": "audio_features",
+        "id": "3XClLzrEPTpHHKOhzhifzz",
+        "uri": "spotify:track:3XClLzrEPTpHHKOhzhifzz",
+        "track_href": "https://api.spotify.com/v1/tracks/3XClLzrEPTpHHKOhzhifzz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3XClLzrEPTpHHKOhzhifzz",
+        "duration_ms": 297973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "04iomyLynCC6r0G6yaEZ9x",
+    "name": "Lost",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 145.899,
+    "features": [
+      {
+        "danceability": 0.563,
+        "energy": 0.611,
+        "key": 7,
+        "loudness": -7.019,
+        "mode": 0,
+        "speechiness": 0.0703,
+        "acousticness": 0.107,
+        "instrumentalness": 0.000294,
+        "liveness": 0.327,
+        "valence": 0.411,
+        "tempo": 145.899,
+        "type": "audio_features",
+        "id": "04iomyLynCC6r0G6yaEZ9x",
+        "uri": "spotify:track:04iomyLynCC6r0G6yaEZ9x",
+        "track_href": "https://api.spotify.com/v1/tracks/04iomyLynCC6r0G6yaEZ9x",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/04iomyLynCC6r0G6yaEZ9x",
+        "duration_ms": 350560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4Tyrkic3qEGzC97sJLVJFy",
+    "name": "I Talk Too Much",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 110.033,
+    "features": [
+      {
+        "danceability": 0.712,
+        "energy": 0.857,
+        "key": 11,
+        "loudness": -4.927,
+        "mode": 0,
+        "speechiness": 0.0485,
+        "acousticness": 0.323,
+        "instrumentalness": 0.00052,
+        "liveness": 0.396,
+        "valence": 0.606,
+        "tempo": 110.033,
+        "type": "audio_features",
+        "id": "4Tyrkic3qEGzC97sJLVJFy",
+        "uri": "spotify:track:4Tyrkic3qEGzC97sJLVJFy",
+        "track_href": "https://api.spotify.com/v1/tracks/4Tyrkic3qEGzC97sJLVJFy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Tyrkic3qEGzC97sJLVJFy",
+        "duration_ms": 232027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3wzEd738dNCyyTGDIgHt3k",
+    "name": "Hold On",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 159.836,
+    "features": [
+      {
+        "danceability": 0.741,
+        "energy": 0.549,
+        "key": 9,
+        "loudness": -8.553,
+        "mode": 0,
+        "speechiness": 0.0574,
+        "acousticness": 0.581,
+        "instrumentalness": 3.01e-06,
+        "liveness": 0.0935,
+        "valence": 0.723,
+        "tempo": 159.836,
+        "type": "audio_features",
+        "id": "3wzEd738dNCyyTGDIgHt3k",
+        "uri": "spotify:track:3wzEd738dNCyyTGDIgHt3k",
+        "track_href": "https://api.spotify.com/v1/tracks/3wzEd738dNCyyTGDIgHt3k",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3wzEd738dNCyyTGDIgHt3k",
+        "duration_ms": 146880,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Q63kjLk5hsrrNTSyoLFLM",
+    "name": "Symphony Of Sirens",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 96.007,
+    "features": [
+      {
+        "danceability": 0.783,
+        "energy": 0.512,
+        "key": 0,
+        "loudness": -8.107,
+        "mode": 1,
+        "speechiness": 0.171,
+        "acousticness": 0.0312,
+        "instrumentalness": 0.00143,
+        "liveness": 0.145,
+        "valence": 0.781,
+        "tempo": 96.007,
+        "type": "audio_features",
+        "id": "6Q63kjLk5hsrrNTSyoLFLM",
+        "uri": "spotify:track:6Q63kjLk5hsrrNTSyoLFLM",
+        "track_href": "https://api.spotify.com/v1/tracks/6Q63kjLk5hsrrNTSyoLFLM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Q63kjLk5hsrrNTSyoLFLM",
+        "duration_ms": 262947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2Qq6JQEGJGLw4s2e6xiegV",
+    "name": "Life Stories",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 98.01,
+    "features": [
+      {
+        "danceability": 0.789,
+        "energy": 0.702,
+        "key": 7,
+        "loudness": -6.288,
+        "mode": 1,
+        "speechiness": 0.112,
+        "acousticness": 0.0685,
+        "instrumentalness": 0,
+        "liveness": 0.0467,
+        "valence": 0.842,
+        "tempo": 98.01,
+        "type": "audio_features",
+        "id": "2Qq6JQEGJGLw4s2e6xiegV",
+        "uri": "spotify:track:2Qq6JQEGJGLw4s2e6xiegV",
+        "track_href": "https://api.spotify.com/v1/tracks/2Qq6JQEGJGLw4s2e6xiegV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Qq6JQEGJGLw4s2e6xiegV",
+        "duration_ms": 234453,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2rn7og566ffViIvjw4Eyvm",
+    "name": "No Time",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 121.014,
+    "features": [
+      {
+        "danceability": 0.62,
+        "energy": 0.883,
+        "key": 7,
+        "loudness": -4.473,
+        "mode": 0,
+        "speechiness": 0.0654,
+        "acousticness": 0.0378,
+        "instrumentalness": 0,
+        "liveness": 0.0646,
+        "valence": 0.438,
+        "tempo": 121.014,
+        "type": "audio_features",
+        "id": "2rn7og566ffViIvjw4Eyvm",
+        "uri": "spotify:track:2rn7og566ffViIvjw4Eyvm",
+        "track_href": "https://api.spotify.com/v1/tracks/2rn7og566ffViIvjw4Eyvm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2rn7og566ffViIvjw4Eyvm",
+        "duration_ms": 209560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1TJ8rqTNmYoxXEHYIUapUw",
+    "name": "Mourning Morning",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 140.087,
+    "features": [
+      {
+        "danceability": 0.474,
+        "energy": 0.393,
+        "key": 4,
+        "loudness": -8.364,
+        "mode": 0,
+        "speechiness": 0.0289,
+        "acousticness": 0.789,
+        "instrumentalness": 0,
+        "liveness": 0.0924,
+        "valence": 0.493,
+        "tempo": 140.087,
+        "type": "audio_features",
+        "id": "1TJ8rqTNmYoxXEHYIUapUw",
+        "uri": "spotify:track:1TJ8rqTNmYoxXEHYIUapUw",
+        "track_href": "https://api.spotify.com/v1/tracks/1TJ8rqTNmYoxXEHYIUapUw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1TJ8rqTNmYoxXEHYIUapUw",
+        "duration_ms": 248640,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Yxw2kT95HY2dvqjJkCuzK",
+    "name": "Spectacular Failures",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 130.029,
+    "features": [
+      {
+        "danceability": 0.55,
+        "energy": 0.543,
+        "key": 2,
+        "loudness": -8.526,
+        "mode": 0,
+        "speechiness": 0.0278,
+        "acousticness": 0.0769,
+        "instrumentalness": 0.000942,
+        "liveness": 0.181,
+        "valence": 0.535,
+        "tempo": 130.029,
+        "type": "audio_features",
+        "id": "6Yxw2kT95HY2dvqjJkCuzK",
+        "uri": "spotify:track:6Yxw2kT95HY2dvqjJkCuzK",
+        "track_href": "https://api.spotify.com/v1/tracks/6Yxw2kT95HY2dvqjJkCuzK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Yxw2kT95HY2dvqjJkCuzK",
+        "duration_ms": 297213,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0IeGa7ip5KOEALFQv7lA2P",
+    "name": "Electrickery",
+    "artist": "Just Jack",
+    "album": "Overtones",
+    "bpm": 140.033,
+    "features": [
+      {
+        "danceability": 0.667,
+        "energy": 0.734,
+        "key": 4,
+        "loudness": -6.202,
+        "mode": 0,
+        "speechiness": 0.438,
+        "acousticness": 0.00305,
+        "instrumentalness": 0,
+        "liveness": 0.247,
+        "valence": 0.196,
+        "tempo": 140.033,
+        "type": "audio_features",
+        "id": "0IeGa7ip5KOEALFQv7lA2P",
+        "uri": "spotify:track:0IeGa7ip5KOEALFQv7lA2P",
+        "track_href": "https://api.spotify.com/v1/tracks/0IeGa7ip5KOEALFQv7lA2P",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0IeGa7ip5KOEALFQv7lA2P",
+        "duration_ms": 447347,
+        "time_signature": 4
+      }
+    ]
+  }
+]

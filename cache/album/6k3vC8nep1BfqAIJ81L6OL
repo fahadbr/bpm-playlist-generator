@@ -1,0 +1,408 @@
+[
+  {
+    "id": "3Hbd6gPZ0QErPWXVkC6GRt",
+    "name": "Intro",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 144.022,
+    "features": [
+      {
+        "danceability": 0.583,
+        "energy": 0.8,
+        "key": 11,
+        "loudness": -8.505,
+        "mode": 0,
+        "speechiness": 0.0349,
+        "acousticness": 0.444,
+        "instrumentalness": 0.843,
+        "liveness": 0.201,
+        "valence": 0.253,
+        "tempo": 144.022,
+        "type": "audio_features",
+        "id": "3Hbd6gPZ0QErPWXVkC6GRt",
+        "uri": "spotify:track:3Hbd6gPZ0QErPWXVkC6GRt",
+        "track_href": "https://api.spotify.com/v1/tracks/3Hbd6gPZ0QErPWXVkC6GRt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Hbd6gPZ0QErPWXVkC6GRt",
+        "duration_ms": 157813,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6EVbOYrewYsrt8AGyZodyh",
+    "name": "Interlude 1",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 179.001,
+    "features": [
+      {
+        "danceability": 0.613,
+        "energy": 0.128,
+        "key": 2,
+        "loudness": -13.851,
+        "mode": 1,
+        "speechiness": 0.463,
+        "acousticness": 0.872,
+        "instrumentalness": 0,
+        "liveness": 0.1,
+        "valence": 0.321,
+        "tempo": 179.001,
+        "type": "audio_features",
+        "id": "6EVbOYrewYsrt8AGyZodyh",
+        "uri": "spotify:track:6EVbOYrewYsrt8AGyZodyh",
+        "track_href": "https://api.spotify.com/v1/tracks/6EVbOYrewYsrt8AGyZodyh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6EVbOYrewYsrt8AGyZodyh",
+        "duration_ms": 72080,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1o22EcqsCANhwYdaNOSdwS",
+    "name": "Tessellate",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 116.969,
+    "features": [
+      {
+        "danceability": 0.702,
+        "energy": 0.607,
+        "key": 2,
+        "loudness": -6.509,
+        "mode": 1,
+        "speechiness": 0.0405,
+        "acousticness": 0.364,
+        "instrumentalness": 0.0271,
+        "liveness": 0.123,
+        "valence": 0.436,
+        "tempo": 116.969,
+        "type": "audio_features",
+        "id": "1o22EcqsCANhwYdaNOSdwS",
+        "uri": "spotify:track:1o22EcqsCANhwYdaNOSdwS",
+        "track_href": "https://api.spotify.com/v1/tracks/1o22EcqsCANhwYdaNOSdwS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1o22EcqsCANhwYdaNOSdwS",
+        "duration_ms": 181400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3n69hLUdIsSa1WlRmjMZlW",
+    "name": "Breezeblocks",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 150.093,
+    "features": [
+      {
+        "danceability": 0.615,
+        "energy": 0.658,
+        "key": 5,
+        "loudness": -7.299,
+        "mode": 1,
+        "speechiness": 0.0343,
+        "acousticness": 0.096,
+        "instrumentalness": 0.000911,
+        "liveness": 0.205,
+        "valence": 0.293,
+        "tempo": 150.093,
+        "type": "audio_features",
+        "id": "3n69hLUdIsSa1WlRmjMZlW",
+        "uri": "spotify:track:3n69hLUdIsSa1WlRmjMZlW",
+        "track_href": "https://api.spotify.com/v1/tracks/3n69hLUdIsSa1WlRmjMZlW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3n69hLUdIsSa1WlRmjMZlW",
+        "duration_ms": 227080,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5bp6twky1rHu72giADl7Mv",
+    "name": "Interlude 2",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 116.116,
+    "features": [
+      {
+        "danceability": 0.483,
+        "energy": 0.0893,
+        "key": 9,
+        "loudness": -27.743,
+        "mode": 1,
+        "speechiness": 0.0411,
+        "acousticness": 0.96,
+        "instrumentalness": 0.967,
+        "liveness": 0.373,
+        "valence": 0.364,
+        "tempo": 116.116,
+        "type": "audio_features",
+        "id": "5bp6twky1rHu72giADl7Mv",
+        "uri": "spotify:track:5bp6twky1rHu72giADl7Mv",
+        "track_href": "https://api.spotify.com/v1/tracks/5bp6twky1rHu72giADl7Mv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5bp6twky1rHu72giADl7Mv",
+        "duration_ms": 77400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3xqxETvPg43KWP0HOGiOmu",
+    "name": "Something Good",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 108.98,
+    "features": [
+      {
+        "danceability": 0.682,
+        "energy": 0.581,
+        "key": 7,
+        "loudness": -10.339,
+        "mode": 1,
+        "speechiness": 0.0295,
+        "acousticness": 0.714,
+        "instrumentalness": 0.323,
+        "liveness": 0.0802,
+        "valence": 0.539,
+        "tempo": 108.98,
+        "type": "audio_features",
+        "id": "3xqxETvPg43KWP0HOGiOmu",
+        "uri": "spotify:track:3xqxETvPg43KWP0HOGiOmu",
+        "track_href": "https://api.spotify.com/v1/tracks/3xqxETvPg43KWP0HOGiOmu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3xqxETvPg43KWP0HOGiOmu",
+        "duration_ms": 217320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2Dv7PTwSoB17f3VFDIKw8m",
+    "name": "Dissolve Me",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 107.951,
+    "features": [
+      {
+        "danceability": 0.557,
+        "energy": 0.605,
+        "key": 2,
+        "loudness": -8.194,
+        "mode": 1,
+        "speechiness": 0.0376,
+        "acousticness": 0.0986,
+        "instrumentalness": 0.0394,
+        "liveness": 0.0859,
+        "valence": 0.121,
+        "tempo": 107.951,
+        "type": "audio_features",
+        "id": "2Dv7PTwSoB17f3VFDIKw8m",
+        "uri": "spotify:track:2Dv7PTwSoB17f3VFDIKw8m",
+        "track_href": "https://api.spotify.com/v1/tracks/2Dv7PTwSoB17f3VFDIKw8m",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Dv7PTwSoB17f3VFDIKw8m",
+        "duration_ms": 239013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3aA5fk4c6a7e5HM4rJqkSF",
+    "name": "Matilda",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 147.947,
+    "features": [
+      {
+        "danceability": 0.578,
+        "energy": 0.675,
+        "key": 2,
+        "loudness": -9.208,
+        "mode": 1,
+        "speechiness": 0.03,
+        "acousticness": 0.787,
+        "instrumentalness": 0.403,
+        "liveness": 0.116,
+        "valence": 0.281,
+        "tempo": 147.947,
+        "type": "audio_features",
+        "id": "3aA5fk4c6a7e5HM4rJqkSF",
+        "uri": "spotify:track:3aA5fk4c6a7e5HM4rJqkSF",
+        "track_href": "https://api.spotify.com/v1/tracks/3aA5fk4c6a7e5HM4rJqkSF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3aA5fk4c6a7e5HM4rJqkSF",
+        "duration_ms": 228707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0pCTr2E9CtulIwNprituKi",
+    "name": "Ms",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 130.969,
+    "features": [
+      {
+        "danceability": 0.609,
+        "energy": 0.413,
+        "key": 5,
+        "loudness": -11.407,
+        "mode": 1,
+        "speechiness": 0.0351,
+        "acousticness": 0.876,
+        "instrumentalness": 0.0239,
+        "liveness": 0.0799,
+        "valence": 0.0697,
+        "tempo": 130.969,
+        "type": "audio_features",
+        "id": "0pCTr2E9CtulIwNprituKi",
+        "uri": "spotify:track:0pCTr2E9CtulIwNprituKi",
+        "track_href": "https://api.spotify.com/v1/tracks/0pCTr2E9CtulIwNprituKi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0pCTr2E9CtulIwNprituKi",
+        "duration_ms": 238747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7DdXf9x75iEVCHWfoRwRuR",
+    "name": "Fitzpleasure",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 143.935,
+    "features": [
+      {
+        "danceability": 0.584,
+        "energy": 0.594,
+        "key": 9,
+        "loudness": -6.935,
+        "mode": 1,
+        "speechiness": 0.0487,
+        "acousticness": 0.142,
+        "instrumentalness": 0.00117,
+        "liveness": 0.105,
+        "valence": 0.36,
+        "tempo": 143.935,
+        "type": "audio_features",
+        "id": "7DdXf9x75iEVCHWfoRwRuR",
+        "uri": "spotify:track:7DdXf9x75iEVCHWfoRwRuR",
+        "track_href": "https://api.spotify.com/v1/tracks/7DdXf9x75iEVCHWfoRwRuR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7DdXf9x75iEVCHWfoRwRuR",
+        "duration_ms": 219400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4oUIZiGkLIL2yAqb2phbJH",
+    "name": "Interlude 3",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 77.512,
+    "features": [
+      {
+        "danceability": 0.307,
+        "energy": 0.0131,
+        "key": 0,
+        "loudness": -32.719,
+        "mode": 1,
+        "speechiness": 0.0405,
+        "acousticness": 0.994,
+        "instrumentalness": 0.853,
+        "liveness": 0.264,
+        "valence": 0.352,
+        "tempo": 77.512,
+        "type": "audio_features",
+        "id": "4oUIZiGkLIL2yAqb2phbJH",
+        "uri": "spotify:track:4oUIZiGkLIL2yAqb2phbJH",
+        "track_href": "https://api.spotify.com/v1/tracks/4oUIZiGkLIL2yAqb2phbJH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4oUIZiGkLIL2yAqb2phbJH",
+        "duration_ms": 52653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "306zYyz3PFvBgLFGOCy9Xb",
+    "name": "Bloodflood",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 130.028,
+    "features": [
+      {
+        "danceability": 0.685,
+        "energy": 0.535,
+        "key": 6,
+        "loudness": -8.908,
+        "mode": 0,
+        "speechiness": 0.0365,
+        "acousticness": 0.833,
+        "instrumentalness": 0.395,
+        "liveness": 0.0896,
+        "valence": 0.22,
+        "tempo": 130.028,
+        "type": "audio_features",
+        "id": "306zYyz3PFvBgLFGOCy9Xb",
+        "uri": "spotify:track:306zYyz3PFvBgLFGOCy9Xb",
+        "track_href": "https://api.spotify.com/v1/tracks/306zYyz3PFvBgLFGOCy9Xb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/306zYyz3PFvBgLFGOCy9Xb",
+        "duration_ms": 249427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4tmwiN9YU7xMjh2hoqcVuI",
+    "name": "Taro",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 171.951,
+    "features": [
+      {
+        "danceability": 0.355,
+        "energy": 0.476,
+        "key": 5,
+        "loudness": -10.653,
+        "mode": 1,
+        "speechiness": 0.0341,
+        "acousticness": 0.765,
+        "instrumentalness": 0.00385,
+        "liveness": 0.0785,
+        "valence": 0.294,
+        "tempo": 171.951,
+        "type": "audio_features",
+        "id": "4tmwiN9YU7xMjh2hoqcVuI",
+        "uri": "spotify:track:4tmwiN9YU7xMjh2hoqcVuI",
+        "track_href": "https://api.spotify.com/v1/tracks/4tmwiN9YU7xMjh2hoqcVuI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4tmwiN9YU7xMjh2hoqcVuI",
+        "duration_ms": 314987,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3Kuz6KSGfiNIV9Rphs5hgL",
+    "name": "Hand-Made",
+    "artist": "alt-J",
+    "album": "An Awesome Wave",
+    "bpm": 114.797,
+    "features": [
+      {
+        "danceability": 0.362,
+        "energy": 0.114,
+        "key": 9,
+        "loudness": -13.077,
+        "mode": 1,
+        "speechiness": 0.0358,
+        "acousticness": 0.965,
+        "instrumentalness": 0.00716,
+        "liveness": 0.113,
+        "valence": 0.048,
+        "tempo": 114.797,
+        "type": "audio_features",
+        "id": "3Kuz6KSGfiNIV9Rphs5hgL",
+        "uri": "spotify:track:3Kuz6KSGfiNIV9Rphs5hgL",
+        "track_href": "https://api.spotify.com/v1/tracks/3Kuz6KSGfiNIV9Rphs5hgL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Kuz6KSGfiNIV9Rphs5hgL",
+        "duration_ms": 157491,
+        "time_signature": 4
+      }
+    ]
+  }
+]

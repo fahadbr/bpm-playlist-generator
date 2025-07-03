@@ -1,0 +1,321 @@
+[
+  {
+    "id": "1nG6nK5ICPEjmiuiUJzC9f",
+    "name": "ULTRA",
+    "artist": "NAVVI",
+    "album": "ULTRA",
+    "bpm": 149.728,
+    "features": [
+      {
+        "danceability": 0.368,
+        "energy": 0.58,
+        "key": 6,
+        "loudness": -8.614,
+        "mode": 1,
+        "speechiness": 0.0331,
+        "acousticness": 0.438,
+        "instrumentalness": 0.00144,
+        "liveness": 0.101,
+        "valence": 0.223,
+        "tempo": 149.728,
+        "type": "audio_features",
+        "id": "1nG6nK5ICPEjmiuiUJzC9f",
+        "uri": "spotify:track:1nG6nK5ICPEjmiuiUJzC9f",
+        "track_href": "https://api.spotify.com/v1/tracks/1nG6nK5ICPEjmiuiUJzC9f",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1nG6nK5ICPEjmiuiUJzC9f",
+        "duration_ms": 260783,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6l6N8ebMkKsD89gCePnSR2",
+    "name": "101",
+    "artist": "NAVVI",
+    "album": "ULTRA",
+    "bpm": 104.998,
+    "features": [
+      {
+        "danceability": 0.512,
+        "energy": 0.746,
+        "key": 5,
+        "loudness": -6.201,
+        "mode": 0,
+        "speechiness": 0.0526,
+        "acousticness": 0.000593,
+        "instrumentalness": 1.31e-05,
+        "liveness": 0.339,
+        "valence": 0.44,
+        "tempo": 104.998,
+        "type": "audio_features",
+        "id": "6l6N8ebMkKsD89gCePnSR2",
+        "uri": "spotify:track:6l6N8ebMkKsD89gCePnSR2",
+        "track_href": "https://api.spotify.com/v1/tracks/6l6N8ebMkKsD89gCePnSR2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6l6N8ebMkKsD89gCePnSR2",
+        "duration_ms": 210029,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4mwStyKxeeni0Pymh7dIgD",
+    "name": "Sampaguita",
+    "artist": "NAVVI",
+    "album": "ULTRA",
+    "bpm": 170.149,
+    "features": [
+      {
+        "danceability": 0.44,
+        "energy": 0.741,
+        "key": 9,
+        "loudness": -8.316,
+        "mode": 0,
+        "speechiness": 0.0426,
+        "acousticness": 0.017,
+        "instrumentalness": 0.000142,
+        "liveness": 0.0473,
+        "valence": 0.247,
+        "tempo": 170.149,
+        "type": "audio_features",
+        "id": "4mwStyKxeeni0Pymh7dIgD",
+        "uri": "spotify:track:4mwStyKxeeni0Pymh7dIgD",
+        "track_href": "https://api.spotify.com/v1/tracks/4mwStyKxeeni0Pymh7dIgD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4mwStyKxeeni0Pymh7dIgD",
+        "duration_ms": 173132,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2K7FkZIl4W841EIBs1rxKn",
+    "name": "Possibilities",
+    "artist": "NAVVI",
+    "album": "ULTRA",
+    "bpm": 78.03,
+    "features": [
+      {
+        "danceability": 0.42,
+        "energy": 0.565,
+        "key": 8,
+        "loudness": -10.457,
+        "mode": 0,
+        "speechiness": 0.0562,
+        "acousticness": 0.0283,
+        "instrumentalness": 0.00242,
+        "liveness": 0.112,
+        "valence": 0.154,
+        "tempo": 78.03,
+        "type": "audio_features",
+        "id": "2K7FkZIl4W841EIBs1rxKn",
+        "uri": "spotify:track:2K7FkZIl4W841EIBs1rxKn",
+        "track_href": "https://api.spotify.com/v1/tracks/2K7FkZIl4W841EIBs1rxKn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2K7FkZIl4W841EIBs1rxKn",
+        "duration_ms": 295394,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3nVDyGMUwkEPeJacAT8IAe",
+    "name": "Young Hearts",
+    "artist": "NAVVI",
+    "album": "ULTRA",
+    "bpm": 109.994,
+    "features": [
+      {
+        "danceability": 0.626,
+        "energy": 0.727,
+        "key": 1,
+        "loudness": -9.568,
+        "mode": 1,
+        "speechiness": 0.0352,
+        "acousticness": 1.32e-05,
+        "instrumentalness": 0.0182,
+        "liveness": 0.126,
+        "valence": 0.12,
+        "tempo": 109.994,
+        "type": "audio_features",
+        "id": "3nVDyGMUwkEPeJacAT8IAe",
+        "uri": "spotify:track:3nVDyGMUwkEPeJacAT8IAe",
+        "track_href": "https://api.spotify.com/v1/tracks/3nVDyGMUwkEPeJacAT8IAe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3nVDyGMUwkEPeJacAT8IAe",
+        "duration_ms": 252464,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "13tfK31bbppYbLFaEQKR8K",
+    "name": "Us",
+    "artist": "NAVVI",
+    "album": "ULTRA",
+    "bpm": 170.016,
+    "features": [
+      {
+        "danceability": 0.56,
+        "energy": 0.675,
+        "key": 3,
+        "loudness": -7.651,
+        "mode": 0,
+        "speechiness": 0.0414,
+        "acousticness": 0.0388,
+        "instrumentalness": 0.399,
+        "liveness": 0.115,
+        "valence": 0.252,
+        "tempo": 170.016,
+        "type": "audio_features",
+        "id": "13tfK31bbppYbLFaEQKR8K",
+        "uri": "spotify:track:13tfK31bbppYbLFaEQKR8K",
+        "track_href": "https://api.spotify.com/v1/tracks/13tfK31bbppYbLFaEQKR8K",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/13tfK31bbppYbLFaEQKR8K",
+        "duration_ms": 266460,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4zu52jZ3GTyPPPYWpb3ynx",
+    "name": "Devotion",
+    "artist": "NAVVI",
+    "album": "ULTRA",
+    "bpm": 119.989,
+    "features": [
+      {
+        "danceability": 0.643,
+        "energy": 0.603,
+        "key": 8,
+        "loudness": -10.69,
+        "mode": 1,
+        "speechiness": 0.0327,
+        "acousticness": 0.00191,
+        "instrumentalness": 0.163,
+        "liveness": 0.117,
+        "valence": 0.368,
+        "tempo": 119.989,
+        "type": "audio_features",
+        "id": "4zu52jZ3GTyPPPYWpb3ynx",
+        "uri": "spotify:track:4zu52jZ3GTyPPPYWpb3ynx",
+        "track_href": "https://api.spotify.com/v1/tracks/4zu52jZ3GTyPPPYWpb3ynx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4zu52jZ3GTyPPPYWpb3ynx",
+        "duration_ms": 194622,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7KjQdrmGyicfDKW6SoTFQN",
+    "name": "Ritual",
+    "artist": "NAVVI",
+    "album": "ULTRA",
+    "bpm": 170.058,
+    "features": [
+      {
+        "danceability": 0.433,
+        "energy": 0.687,
+        "key": 0,
+        "loudness": -9.628,
+        "mode": 1,
+        "speechiness": 0.0362,
+        "acousticness": 0.000387,
+        "instrumentalness": 0.0432,
+        "liveness": 0.13,
+        "valence": 0.155,
+        "tempo": 170.058,
+        "type": "audio_features",
+        "id": "7KjQdrmGyicfDKW6SoTFQN",
+        "uri": "spotify:track:7KjQdrmGyicfDKW6SoTFQN",
+        "track_href": "https://api.spotify.com/v1/tracks/7KjQdrmGyicfDKW6SoTFQN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7KjQdrmGyicfDKW6SoTFQN",
+        "duration_ms": 234165,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7jMETvrubtFZAevVGUUzpx",
+    "name": "Unparalleled",
+    "artist": "NAVVI",
+    "album": "ULTRA",
+    "bpm": 170.091,
+    "features": [
+      {
+        "danceability": 0.454,
+        "energy": 0.596,
+        "key": 9,
+        "loudness": -10.955,
+        "mode": 0,
+        "speechiness": 0.103,
+        "acousticness": 0.915,
+        "instrumentalness": 0.887,
+        "liveness": 0.338,
+        "valence": 0.497,
+        "tempo": 170.091,
+        "type": "audio_features",
+        "id": "7jMETvrubtFZAevVGUUzpx",
+        "uri": "spotify:track:7jMETvrubtFZAevVGUUzpx",
+        "track_href": "https://api.spotify.com/v1/tracks/7jMETvrubtFZAevVGUUzpx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7jMETvrubtFZAevVGUUzpx",
+        "duration_ms": 73359,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1sOJNyvSejWSByYdrQ1L59",
+    "name": "Dreem",
+    "artist": "NAVVI",
+    "album": "ULTRA",
+    "bpm": 102.975,
+    "features": [
+      {
+        "danceability": 0.672,
+        "energy": 0.51,
+        "key": 4,
+        "loudness": -10.758,
+        "mode": 0,
+        "speechiness": 0.0393,
+        "acousticness": 0.27,
+        "instrumentalness": 0.143,
+        "liveness": 0.0923,
+        "valence": 0.0722,
+        "tempo": 102.975,
+        "type": "audio_features",
+        "id": "1sOJNyvSejWSByYdrQ1L59",
+        "uri": "spotify:track:1sOJNyvSejWSByYdrQ1L59",
+        "track_href": "https://api.spotify.com/v1/tracks/1sOJNyvSejWSByYdrQ1L59",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1sOJNyvSejWSByYdrQ1L59",
+        "duration_ms": 248192,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2CTG6uRemTULzmNwpoKe04",
+    "name": "Human Highlight Reel",
+    "artist": "NAVVI",
+    "album": "ULTRA",
+    "bpm": 132.05,
+    "features": [
+      {
+        "danceability": 0.622,
+        "energy": 0.587,
+        "key": 6,
+        "loudness": -8.855,
+        "mode": 1,
+        "speechiness": 0.0315,
+        "acousticness": 0.0332,
+        "instrumentalness": 0.00712,
+        "liveness": 0.0965,
+        "valence": 0.673,
+        "tempo": 132.05,
+        "type": "audio_features",
+        "id": "2CTG6uRemTULzmNwpoKe04",
+        "uri": "spotify:track:2CTG6uRemTULzmNwpoKe04",
+        "track_href": "https://api.spotify.com/v1/tracks/2CTG6uRemTULzmNwpoKe04",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2CTG6uRemTULzmNwpoKe04",
+        "duration_ms": 216834,
+        "time_signature": 4
+      }
+    ]
+  }
+]

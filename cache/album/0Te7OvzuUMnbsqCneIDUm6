@@ -1,0 +1,408 @@
+[
+  {
+    "id": "5hkgrWxkobGtg30I7DsfVu",
+    "name": "Ten Thousand Fists",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 106.907,
+    "features": [
+      {
+        "danceability": 0.54,
+        "energy": 0.977,
+        "key": 1,
+        "loudness": -3.409,
+        "mode": 1,
+        "speechiness": 0.0876,
+        "acousticness": 2.55e-05,
+        "instrumentalness": 0.0588,
+        "liveness": 0.0533,
+        "valence": 0.211,
+        "tempo": 106.907,
+        "type": "audio_features",
+        "id": "5hkgrWxkobGtg30I7DsfVu",
+        "uri": "spotify:track:5hkgrWxkobGtg30I7DsfVu",
+        "track_href": "https://api.spotify.com/v1/tracks/5hkgrWxkobGtg30I7DsfVu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hkgrWxkobGtg30I7DsfVu",
+        "duration_ms": 212040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3WiXCGEioBloorG63T3dSF",
+    "name": "Just Stop",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 101.904,
+    "features": [
+      {
+        "danceability": 0.593,
+        "energy": 0.925,
+        "key": 1,
+        "loudness": -3.533,
+        "mode": 1,
+        "speechiness": 0.0798,
+        "acousticness": 2.91e-05,
+        "instrumentalness": 0.131,
+        "liveness": 0.118,
+        "valence": 0.446,
+        "tempo": 101.904,
+        "type": "audio_features",
+        "id": "3WiXCGEioBloorG63T3dSF",
+        "uri": "spotify:track:3WiXCGEioBloorG63T3dSF",
+        "track_href": "https://api.spotify.com/v1/tracks/3WiXCGEioBloorG63T3dSF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3WiXCGEioBloorG63T3dSF",
+        "duration_ms": 223453,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0f2YRp5HLHVzqIs8KfY6T1",
+    "name": "Guarded",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 136.912,
+    "features": [
+      {
+        "danceability": 0.498,
+        "energy": 0.936,
+        "key": 9,
+        "loudness": -3.141,
+        "mode": 1,
+        "speechiness": 0.0632,
+        "acousticness": 6.83e-05,
+        "instrumentalness": 0.0252,
+        "liveness": 0.0695,
+        "valence": 0.378,
+        "tempo": 136.912,
+        "type": "audio_features",
+        "id": "0f2YRp5HLHVzqIs8KfY6T1",
+        "uri": "spotify:track:0f2YRp5HLHVzqIs8KfY6T1",
+        "track_href": "https://api.spotify.com/v1/tracks/0f2YRp5HLHVzqIs8KfY6T1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0f2YRp5HLHVzqIs8KfY6T1",
+        "duration_ms": 200293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3H1SsrSSXeMFNj206eYim8",
+    "name": "Deify",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 104.97,
+    "features": [
+      {
+        "danceability": 0.539,
+        "energy": 0.952,
+        "key": 10,
+        "loudness": -3.748,
+        "mode": 0,
+        "speechiness": 0.111,
+        "acousticness": 4.08e-05,
+        "instrumentalness": 1.33e-05,
+        "liveness": 0.0726,
+        "valence": 0.342,
+        "tempo": 104.97,
+        "type": "audio_features",
+        "id": "3H1SsrSSXeMFNj206eYim8",
+        "uri": "spotify:track:3H1SsrSSXeMFNj206eYim8",
+        "track_href": "https://api.spotify.com/v1/tracks/3H1SsrSSXeMFNj206eYim8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3H1SsrSSXeMFNj206eYim8",
+        "duration_ms": 256573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6RJdYpFQwLyNfDc5FbjkgV",
+    "name": "Stricken",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 173.847,
+    "features": [
+      {
+        "danceability": 0.402,
+        "energy": 0.969,
+        "key": 8,
+        "loudness": -2.825,
+        "mode": 1,
+        "speechiness": 0.181,
+        "acousticness": 9.14e-05,
+        "instrumentalness": 0.0325,
+        "liveness": 0.225,
+        "valence": 0.262,
+        "tempo": 173.847,
+        "type": "audio_features",
+        "id": "6RJdYpFQwLyNfDc5FbjkgV",
+        "uri": "spotify:track:6RJdYpFQwLyNfDc5FbjkgV",
+        "track_href": "https://api.spotify.com/v1/tracks/6RJdYpFQwLyNfDc5FbjkgV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6RJdYpFQwLyNfDc5FbjkgV",
+        "duration_ms": 245227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1gFrm3uL7UAtmjaPspYedU",
+    "name": "I'm Alive",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 179.91,
+    "features": [
+      {
+        "danceability": 0.388,
+        "energy": 0.976,
+        "key": 1,
+        "loudness": -2.598,
+        "mode": 1,
+        "speechiness": 0.07,
+        "acousticness": 2.61e-05,
+        "instrumentalness": 0.0215,
+        "liveness": 0.118,
+        "valence": 0.571,
+        "tempo": 179.91,
+        "type": "audio_features",
+        "id": "1gFrm3uL7UAtmjaPspYedU",
+        "uri": "spotify:track:1gFrm3uL7UAtmjaPspYedU",
+        "track_href": "https://api.spotify.com/v1/tracks/1gFrm3uL7UAtmjaPspYedU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1gFrm3uL7UAtmjaPspYedU",
+        "duration_ms": 282053,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "69ZRVsGoLXjHrQWHMX5iCN",
+    "name": "Sons of Plunder",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 99.93,
+    "features": [
+      {
+        "danceability": 0.545,
+        "energy": 0.987,
+        "key": 11,
+        "loudness": -3.3,
+        "mode": 0,
+        "speechiness": 0.0489,
+        "acousticness": 7.06e-05,
+        "instrumentalness": 0.261,
+        "liveness": 0.191,
+        "valence": 0.395,
+        "tempo": 99.93,
+        "type": "audio_features",
+        "id": "69ZRVsGoLXjHrQWHMX5iCN",
+        "uri": "spotify:track:69ZRVsGoLXjHrQWHMX5iCN",
+        "track_href": "https://api.spotify.com/v1/tracks/69ZRVsGoLXjHrQWHMX5iCN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/69ZRVsGoLXjHrQWHMX5iCN",
+        "duration_ms": 228027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "71qQhkbrt4gVbovwbzHLpE",
+    "name": "Overburdened",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 123.952,
+    "features": [
+      {
+        "danceability": 0.466,
+        "energy": 0.867,
+        "key": 0,
+        "loudness": -3.981,
+        "mode": 0,
+        "speechiness": 0.0551,
+        "acousticness": 0.000793,
+        "instrumentalness": 0.675,
+        "liveness": 0.115,
+        "valence": 0.172,
+        "tempo": 123.952,
+        "type": "audio_features",
+        "id": "71qQhkbrt4gVbovwbzHLpE",
+        "uri": "spotify:track:71qQhkbrt4gVbovwbzHLpE",
+        "track_href": "https://api.spotify.com/v1/tracks/71qQhkbrt4gVbovwbzHLpE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/71qQhkbrt4gVbovwbzHLpE",
+        "duration_ms": 357320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0jY829pCMnstlNtaE72vSB",
+    "name": "Decadence",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 91.934,
+    "features": [
+      {
+        "danceability": 0.528,
+        "energy": 0.968,
+        "key": 1,
+        "loudness": -3.457,
+        "mode": 1,
+        "speechiness": 0.145,
+        "acousticness": 5.67e-05,
+        "instrumentalness": 0.0916,
+        "liveness": 0.0668,
+        "valence": 0.305,
+        "tempo": 91.934,
+        "type": "audio_features",
+        "id": "0jY829pCMnstlNtaE72vSB",
+        "uri": "spotify:track:0jY829pCMnstlNtaE72vSB",
+        "track_href": "https://api.spotify.com/v1/tracks/0jY829pCMnstlNtaE72vSB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0jY829pCMnstlNtaE72vSB",
+        "duration_ms": 204787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2UiFk0Fwy2gTWJShgQL8el",
+    "name": "Forgiven",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 93.972,
+    "features": [
+      {
+        "danceability": 0.484,
+        "energy": 0.968,
+        "key": 9,
+        "loudness": -2.973,
+        "mode": 0,
+        "speechiness": 0.112,
+        "acousticness": 0.000134,
+        "instrumentalness": 0.382,
+        "liveness": 0.111,
+        "valence": 0.358,
+        "tempo": 93.972,
+        "type": "audio_features",
+        "id": "2UiFk0Fwy2gTWJShgQL8el",
+        "uri": "spotify:track:2UiFk0Fwy2gTWJShgQL8el",
+        "track_href": "https://api.spotify.com/v1/tracks/2UiFk0Fwy2gTWJShgQL8el",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2UiFk0Fwy2gTWJShgQL8el",
+        "duration_ms": 252053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4ClGNWLK9vZMBtO0CpnyOE",
+    "name": "Land of Confusion",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 114.919,
+    "features": [
+      {
+        "danceability": 0.553,
+        "energy": 0.991,
+        "key": 8,
+        "loudness": -3.703,
+        "mode": 1,
+        "speechiness": 0.0925,
+        "acousticness": 4.44e-05,
+        "instrumentalness": 0.0729,
+        "liveness": 0.179,
+        "valence": 0.324,
+        "tempo": 114.919,
+        "type": "audio_features",
+        "id": "4ClGNWLK9vZMBtO0CpnyOE",
+        "uri": "spotify:track:4ClGNWLK9vZMBtO0CpnyOE",
+        "track_href": "https://api.spotify.com/v1/tracks/4ClGNWLK9vZMBtO0CpnyOE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ClGNWLK9vZMBtO0CpnyOE",
+        "duration_ms": 287067,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7yZtrG0ktXcDCyWkmIWmEi",
+    "name": "Sacred Lie",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 104.899,
+    "features": [
+      {
+        "danceability": 0.537,
+        "energy": 0.966,
+        "key": 5,
+        "loudness": -2.735,
+        "mode": 1,
+        "speechiness": 0.0649,
+        "acousticness": 0.000221,
+        "instrumentalness": 0.0355,
+        "liveness": 0.0999,
+        "valence": 0.287,
+        "tempo": 104.899,
+        "type": "audio_features",
+        "id": "7yZtrG0ktXcDCyWkmIWmEi",
+        "uri": "spotify:track:7yZtrG0ktXcDCyWkmIWmEi",
+        "track_href": "https://api.spotify.com/v1/tracks/7yZtrG0ktXcDCyWkmIWmEi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7yZtrG0ktXcDCyWkmIWmEi",
+        "duration_ms": 185640,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4H6qtMPzKYRCsf7bT2DcBP",
+    "name": "Pain Redefined",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 109.945,
+    "features": [
+      {
+        "danceability": 0.621,
+        "energy": 0.972,
+        "key": 5,
+        "loudness": -3.245,
+        "mode": 0,
+        "speechiness": 0.0568,
+        "acousticness": 0.000269,
+        "instrumentalness": 0.598,
+        "liveness": 0.27,
+        "valence": 0.507,
+        "tempo": 109.945,
+        "type": "audio_features",
+        "id": "4H6qtMPzKYRCsf7bT2DcBP",
+        "uri": "spotify:track:4H6qtMPzKYRCsf7bT2DcBP",
+        "track_href": "https://api.spotify.com/v1/tracks/4H6qtMPzKYRCsf7bT2DcBP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4H6qtMPzKYRCsf7bT2DcBP",
+        "duration_ms": 247080,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2mIlzbbLp09YcvqmOHwQ1F",
+    "name": "Avarice",
+    "artist": "Disturbed",
+    "album": "Ten Thousand Fists",
+    "bpm": 129.876,
+    "features": [
+      {
+        "danceability": 0.477,
+        "energy": 0.932,
+        "key": 9,
+        "loudness": -3.018,
+        "mode": 1,
+        "speechiness": 0.0878,
+        "acousticness": 4.36e-06,
+        "instrumentalness": 0.0413,
+        "liveness": 0.0735,
+        "valence": 0.152,
+        "tempo": 129.876,
+        "type": "audio_features",
+        "id": "2mIlzbbLp09YcvqmOHwQ1F",
+        "uri": "spotify:track:2mIlzbbLp09YcvqmOHwQ1F",
+        "track_href": "https://api.spotify.com/v1/tracks/2mIlzbbLp09YcvqmOHwQ1F",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2mIlzbbLp09YcvqmOHwQ1F",
+        "duration_ms": 176787,
+        "time_signature": 4
+      }
+    ]
+  }
+]

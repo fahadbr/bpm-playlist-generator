@@ -1,0 +1,408 @@
+[
+  {
+    "id": "0s8vpu2GVH8MNX2Er3xNYt",
+    "name": "Sex Drive",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 95.014,
+    "features": [
+      {
+        "danceability": 0.531,
+        "energy": 0.343,
+        "key": 0,
+        "loudness": -10.619,
+        "mode": 1,
+        "speechiness": 0.0391,
+        "acousticness": 0.116,
+        "instrumentalness": 0.419,
+        "liveness": 0.123,
+        "valence": 0.102,
+        "tempo": 95.014,
+        "type": "audio_features",
+        "id": "0s8vpu2GVH8MNX2Er3xNYt",
+        "uri": "spotify:track:0s8vpu2GVH8MNX2Er3xNYt",
+        "track_href": "https://api.spotify.com/v1/tracks/0s8vpu2GVH8MNX2Er3xNYt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0s8vpu2GVH8MNX2Er3xNYt",
+        "duration_ms": 123168,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2jRmKc69qzGKzGU9SdH5u7",
+    "name": "el Diablo",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 75.003,
+    "features": [
+      {
+        "danceability": 0.765,
+        "energy": 0.725,
+        "key": 3,
+        "loudness": -3.391,
+        "mode": 0,
+        "speechiness": 0.142,
+        "acousticness": 0.00471,
+        "instrumentalness": 0.000194,
+        "liveness": 0.154,
+        "valence": 0.578,
+        "tempo": 75.003,
+        "type": "audio_features",
+        "id": "2jRmKc69qzGKzGU9SdH5u7",
+        "uri": "spotify:track:2jRmKc69qzGKzGU9SdH5u7",
+        "track_href": "https://api.spotify.com/v1/tracks/2jRmKc69qzGKzGU9SdH5u7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2jRmKc69qzGKzGU9SdH5u7",
+        "duration_ms": 146264,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0uFNdjWpogmaJYp2zlNJj5",
+    "name": "Hollywood Whore",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 100.022,
+    "features": [
+      {
+        "danceability": 0.734,
+        "energy": 0.836,
+        "key": 6,
+        "loudness": -5.953,
+        "mode": 0,
+        "speechiness": 0.0817,
+        "acousticness": 0.0116,
+        "instrumentalness": 0,
+        "liveness": 0.106,
+        "valence": 0.214,
+        "tempo": 100.022,
+        "type": "audio_features",
+        "id": "0uFNdjWpogmaJYp2zlNJj5",
+        "uri": "spotify:track:0uFNdjWpogmaJYp2zlNJj5",
+        "track_href": "https://api.spotify.com/v1/tracks/0uFNdjWpogmaJYp2zlNJj5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0uFNdjWpogmaJYp2zlNJj5",
+        "duration_ms": 203175,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0YP8kt3sAYTj6eEyesreQH",
+    "name": "Glass House (feat. Naomi Wild)",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 149.968,
+    "features": [
+      {
+        "danceability": 0.68,
+        "energy": 0.586,
+        "key": 1,
+        "loudness": -7.01,
+        "mode": 0,
+        "speechiness": 0.0567,
+        "acousticness": 0.0174,
+        "instrumentalness": 3.19e-06,
+        "liveness": 0.128,
+        "valence": 0.196,
+        "tempo": 149.968,
+        "type": "audio_features",
+        "id": "0YP8kt3sAYTj6eEyesreQH",
+        "uri": "spotify:track:0YP8kt3sAYTj6eEyesreQH",
+        "track_href": "https://api.spotify.com/v1/tracks/0YP8kt3sAYTj6eEyesreQH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YP8kt3sAYTj6eEyesreQH",
+        "duration_ms": 201740,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1xGxSCtX96DB7inpF2wKIS",
+    "name": "Burning Memories (feat. Lil Skies)",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 80.788,
+    "features": [
+      {
+        "danceability": 0.558,
+        "energy": 0.592,
+        "key": 0,
+        "loudness": -8.104,
+        "mode": 0,
+        "speechiness": 0.153,
+        "acousticness": 0.15,
+        "instrumentalness": 0,
+        "liveness": 0.123,
+        "valence": 0.398,
+        "tempo": 80.788,
+        "type": "audio_features",
+        "id": "1xGxSCtX96DB7inpF2wKIS",
+        "uri": "spotify:track:1xGxSCtX96DB7inpF2wKIS",
+        "track_href": "https://api.spotify.com/v1/tracks/1xGxSCtX96DB7inpF2wKIS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1xGxSCtX96DB7inpF2wKIS",
+        "duration_ms": 216295,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1SGXy6nRTOJmY22vC6JwHE",
+    "name": "A Message From The Count",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 73.024,
+    "features": [
+      {
+        "danceability": 0.74,
+        "energy": 0.198,
+        "key": 1,
+        "loudness": -14.209,
+        "mode": 0,
+        "speechiness": 0.864,
+        "acousticness": 0.804,
+        "instrumentalness": 0,
+        "liveness": 0.526,
+        "valence": 0.456,
+        "tempo": 73.024,
+        "type": "audio_features",
+        "id": "1SGXy6nRTOJmY22vC6JwHE",
+        "uri": "spotify:track:1SGXy6nRTOJmY22vC6JwHE",
+        "track_href": "https://api.spotify.com/v1/tracks/1SGXy6nRTOJmY22vC6JwHE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SGXy6nRTOJmY22vC6JwHE",
+        "duration_ms": 37279,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5WZ4qFbz1x2vELPg8S7vza",
+    "name": "FLOOR 13",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 120.048,
+    "features": [
+      {
+        "danceability": 0.779,
+        "energy": 0.661,
+        "key": 9,
+        "loudness": -7.175,
+        "mode": 0,
+        "speechiness": 0.0966,
+        "acousticness": 0.15,
+        "instrumentalness": 0,
+        "liveness": 0.0895,
+        "valence": 0.306,
+        "tempo": 120.048,
+        "type": "audio_features",
+        "id": "5WZ4qFbz1x2vELPg8S7vza",
+        "uri": "spotify:track:5WZ4qFbz1x2vELPg8S7vza",
+        "track_href": "https://api.spotify.com/v1/tracks/5WZ4qFbz1x2vELPg8S7vza",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5WZ4qFbz1x2vELPg8S7vza",
+        "duration_ms": 194873,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5Uym8nZf9WyDsxPuum3ntT",
+    "name": "Roulette",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 95.975,
+    "features": [
+      {
+        "danceability": 0.749,
+        "energy": 0.703,
+        "key": 1,
+        "loudness": -6.639,
+        "mode": 1,
+        "speechiness": 0.0341,
+        "acousticness": 0.127,
+        "instrumentalness": 0,
+        "liveness": 0.0775,
+        "valence": 0.644,
+        "tempo": 95.975,
+        "type": "audio_features",
+        "id": "5Uym8nZf9WyDsxPuum3ntT",
+        "uri": "spotify:track:5Uym8nZf9WyDsxPuum3ntT",
+        "track_href": "https://api.spotify.com/v1/tracks/5Uym8nZf9WyDsxPuum3ntT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Uym8nZf9WyDsxPuum3ntT",
+        "duration_ms": 182623,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4WZpl5GUvuzXr54h1Dr7vz",
+    "name": "Truck Norris Interlude",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 125.33,
+    "features": [
+      {
+        "danceability": 0.627,
+        "energy": 0.584,
+        "key": 11,
+        "loudness": -6.625,
+        "mode": 0,
+        "speechiness": 0.389,
+        "acousticness": 0.0755,
+        "instrumentalness": 0,
+        "liveness": 0.257,
+        "valence": 0.387,
+        "tempo": 125.33,
+        "type": "audio_features",
+        "id": "4WZpl5GUvuzXr54h1Dr7vz",
+        "uri": "spotify:track:4WZpl5GUvuzXr54h1Dr7vz",
+        "track_href": "https://api.spotify.com/v1/tracks/4WZpl5GUvuzXr54h1Dr7vz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4WZpl5GUvuzXr54h1Dr7vz",
+        "duration_ms": 52652,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6CVrnuMvknlW7OXmY1zgX4",
+    "name": "Death In My Pocket",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 92.279,
+    "features": [
+      {
+        "danceability": 0.633,
+        "energy": 0.713,
+        "key": 3,
+        "loudness": -5.221,
+        "mode": 1,
+        "speechiness": 0.0724,
+        "acousticness": 0.226,
+        "instrumentalness": 0,
+        "liveness": 0.131,
+        "valence": 0.304,
+        "tempo": 92.279,
+        "type": "audio_features",
+        "id": "6CVrnuMvknlW7OXmY1zgX4",
+        "uri": "spotify:track:6CVrnuMvknlW7OXmY1zgX4",
+        "track_href": "https://api.spotify.com/v1/tracks/6CVrnuMvknlW7OXmY1zgX4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6CVrnuMvknlW7OXmY1zgX4",
+        "duration_ms": 179761,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "37AGgp9VP8TVJBfEat74Bj",
+    "name": "Candy (feat. Trippie Redd)",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 98.019,
+    "features": [
+      {
+        "danceability": 0.744,
+        "energy": 0.638,
+        "key": 5,
+        "loudness": -4.86,
+        "mode": 0,
+        "speechiness": 0.049,
+        "acousticness": 0.00829,
+        "instrumentalness": 0,
+        "liveness": 0.182,
+        "valence": 0.48,
+        "tempo": 98.019,
+        "type": "audio_features",
+        "id": "37AGgp9VP8TVJBfEat74Bj",
+        "uri": "spotify:track:37AGgp9VP8TVJBfEat74Bj",
+        "track_href": "https://api.spotify.com/v1/tracks/37AGgp9VP8TVJBfEat74Bj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/37AGgp9VP8TVJBfEat74Bj",
+        "duration_ms": 156719,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "581geNTL8gGJE3MEPY5tcE",
+    "name": "Waste Love (feat. Madison Love)",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 150.002,
+    "features": [
+      {
+        "danceability": 0.617,
+        "energy": 0.7,
+        "key": 9,
+        "loudness": -6.715,
+        "mode": 0,
+        "speechiness": 0.042,
+        "acousticness": 0.0155,
+        "instrumentalness": 7.23e-06,
+        "liveness": 0.0935,
+        "valence": 0.315,
+        "tempo": 150.002,
+        "type": "audio_features",
+        "id": "581geNTL8gGJE3MEPY5tcE",
+        "uri": "spotify:track:581geNTL8gGJE3MEPY5tcE",
+        "track_href": "https://api.spotify.com/v1/tracks/581geNTL8gGJE3MEPY5tcE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/581geNTL8gGJE3MEPY5tcE",
+        "duration_ms": 196141,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2ipqXnu9eUA11VerUdiqjg",
+    "name": "5:3666",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 79.979,
+    "features": [
+      {
+        "danceability": 0.531,
+        "energy": 0.386,
+        "key": 1,
+        "loudness": -7.73,
+        "mode": 0,
+        "speechiness": 0.0816,
+        "acousticness": 0.339,
+        "instrumentalness": 3.28e-06,
+        "liveness": 0.264,
+        "valence": 0.0946,
+        "tempo": 79.979,
+        "type": "audio_features",
+        "id": "2ipqXnu9eUA11VerUdiqjg",
+        "uri": "spotify:track:2ipqXnu9eUA11VerUdiqjg",
+        "track_href": "https://api.spotify.com/v1/tracks/2ipqXnu9eUA11VerUdiqjg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ipqXnu9eUA11VerUdiqjg",
+        "duration_ms": 194889,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2gTdDMpNxIRFSiu7HutMCg",
+    "name": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
+    "artist": "mgk",
+    "album": "Hotel Diablo",
+    "bpm": 119.921,
+    "features": [
+      {
+        "danceability": 0.628,
+        "energy": 0.744,
+        "key": 7,
+        "loudness": -4.718,
+        "mode": 1,
+        "speechiness": 0.0379,
+        "acousticness": 0.0257,
+        "instrumentalness": 0,
+        "liveness": 0.313,
+        "valence": 0.277,
+        "tempo": 119.921,
+        "type": "audio_features",
+        "id": "2gTdDMpNxIRFSiu7HutMCg",
+        "uri": "spotify:track:2gTdDMpNxIRFSiu7HutMCg",
+        "track_href": "https://api.spotify.com/v1/tracks/2gTdDMpNxIRFSiu7HutMCg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gTdDMpNxIRFSiu7HutMCg",
+        "duration_ms": 169397,
+        "time_signature": 4
+      }
+    ]
+  }
+]

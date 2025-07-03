@@ -1,0 +1,205 @@
+[
+  {
+    "id": "2uCR5vRJOjzh4MWNkWSAxr",
+    "name": "Epitaph",
+    "artist": "God Is An Astronaut",
+    "album": "Epitaph",
+    "bpm": 170.196,
+    "features": [
+      {
+        "danceability": 0.218,
+        "energy": 0.196,
+        "key": 1,
+        "loudness": -15.586,
+        "mode": 0,
+        "speechiness": 0.0333,
+        "acousticness": 0.586,
+        "instrumentalness": 0.853,
+        "liveness": 0.0991,
+        "valence": 0.0858,
+        "tempo": 170.196,
+        "type": "audio_features",
+        "id": "2uCR5vRJOjzh4MWNkWSAxr",
+        "uri": "spotify:track:2uCR5vRJOjzh4MWNkWSAxr",
+        "track_href": "https://api.spotify.com/v1/tracks/2uCR5vRJOjzh4MWNkWSAxr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2uCR5vRJOjzh4MWNkWSAxr",
+        "duration_ms": 473600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6zFzRIVwQ5VJgOuyRQXNA5",
+    "name": "Mortal Coil",
+    "artist": "God Is An Astronaut",
+    "album": "Epitaph",
+    "bpm": 106.025,
+    "features": [
+      {
+        "danceability": 0.465,
+        "energy": 0.763,
+        "key": 1,
+        "loudness": -12.043,
+        "mode": 0,
+        "speechiness": 0.0324,
+        "acousticness": 0.0773,
+        "instrumentalness": 0.888,
+        "liveness": 0.0851,
+        "valence": 0.154,
+        "tempo": 106.025,
+        "type": "audio_features",
+        "id": "6zFzRIVwQ5VJgOuyRQXNA5",
+        "uri": "spotify:track:6zFzRIVwQ5VJgOuyRQXNA5",
+        "track_href": "https://api.spotify.com/v1/tracks/6zFzRIVwQ5VJgOuyRQXNA5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6zFzRIVwQ5VJgOuyRQXNA5",
+        "duration_ms": 332680,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5BRN9l6QmQPNvHmugO2rwW",
+    "name": "Winter Dusk/Awakening",
+    "artist": "God Is An Astronaut",
+    "album": "Epitaph",
+    "bpm": 77.016,
+    "features": [
+      {
+        "danceability": 0.328,
+        "energy": 0.31,
+        "key": 9,
+        "loudness": -18.48,
+        "mode": 0,
+        "speechiness": 0.0354,
+        "acousticness": 0.798,
+        "instrumentalness": 0.895,
+        "liveness": 0.0995,
+        "valence": 0.214,
+        "tempo": 77.016,
+        "type": "audio_features",
+        "id": "5BRN9l6QmQPNvHmugO2rwW",
+        "uri": "spotify:track:5BRN9l6QmQPNvHmugO2rwW",
+        "track_href": "https://api.spotify.com/v1/tracks/5BRN9l6QmQPNvHmugO2rwW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5BRN9l6QmQPNvHmugO2rwW",
+        "duration_ms": 402400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6XMRoGMiXQxFlBGhFNK0ct",
+    "name": "Seance Room",
+    "artist": "God Is An Astronaut",
+    "album": "Epitaph",
+    "bpm": 94.45,
+    "features": [
+      {
+        "danceability": 0.241,
+        "energy": 0.499,
+        "key": 9,
+        "loudness": -12.853,
+        "mode": 0,
+        "speechiness": 0.0355,
+        "acousticness": 0.215,
+        "instrumentalness": 0.823,
+        "liveness": 0.118,
+        "valence": 0.0669,
+        "tempo": 94.45,
+        "type": "audio_features",
+        "id": "6XMRoGMiXQxFlBGhFNK0ct",
+        "uri": "spotify:track:6XMRoGMiXQxFlBGhFNK0ct",
+        "track_href": "https://api.spotify.com/v1/tracks/6XMRoGMiXQxFlBGhFNK0ct",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6XMRoGMiXQxFlBGhFNK0ct",
+        "duration_ms": 460693,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4XkXMrQFXXhZ37rpnzdL46",
+    "name": "Komorebi",
+    "artist": "God Is An Astronaut",
+    "album": "Epitaph",
+    "bpm": 81.859,
+    "features": [
+      {
+        "danceability": 0.179,
+        "energy": 0.169,
+        "key": 0,
+        "loudness": -20.402,
+        "mode": 1,
+        "speechiness": 0.0313,
+        "acousticness": 0.902,
+        "instrumentalness": 0.863,
+        "liveness": 0.117,
+        "valence": 0.0533,
+        "tempo": 81.859,
+        "type": "audio_features",
+        "id": "4XkXMrQFXXhZ37rpnzdL46",
+        "uri": "spotify:track:4XkXMrQFXXhZ37rpnzdL46",
+        "track_href": "https://api.spotify.com/v1/tracks/4XkXMrQFXXhZ37rpnzdL46",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4XkXMrQFXXhZ37rpnzdL46",
+        "duration_ms": 331413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0cU7vFj2s07D5WlNwnzeRT",
+    "name": "Medea",
+    "artist": "God Is An Astronaut",
+    "album": "Epitaph",
+    "bpm": 60.493,
+    "features": [
+      {
+        "danceability": 0.0602,
+        "energy": 0.305,
+        "key": 4,
+        "loudness": -15.859,
+        "mode": 0,
+        "speechiness": 0.0435,
+        "acousticness": 0.808,
+        "instrumentalness": 0.949,
+        "liveness": 0.125,
+        "valence": 0.0349,
+        "tempo": 60.493,
+        "type": "audio_features",
+        "id": "0cU7vFj2s07D5WlNwnzeRT",
+        "uri": "spotify:track:0cU7vFj2s07D5WlNwnzeRT",
+        "track_href": "https://api.spotify.com/v1/tracks/0cU7vFj2s07D5WlNwnzeRT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0cU7vFj2s07D5WlNwnzeRT",
+        "duration_ms": 418333,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "54vprmETTVO7xGyYu6nBfG",
+    "name": "Ois\u00edn",
+    "artist": "God Is An Astronaut",
+    "album": "Epitaph",
+    "bpm": 127.944,
+    "features": [
+      {
+        "danceability": 0.445,
+        "energy": 0.183,
+        "key": 0,
+        "loudness": -18.345,
+        "mode": 1,
+        "speechiness": 0.0335,
+        "acousticness": 0.949,
+        "instrumentalness": 0.832,
+        "liveness": 0.0706,
+        "valence": 0.11,
+        "tempo": 127.944,
+        "type": "audio_features",
+        "id": "54vprmETTVO7xGyYu6nBfG",
+        "uri": "spotify:track:54vprmETTVO7xGyYu6nBfG",
+        "track_href": "https://api.spotify.com/v1/tracks/54vprmETTVO7xGyYu6nBfG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/54vprmETTVO7xGyYu6nBfG",
+        "duration_ms": 258987,
+        "time_signature": 4
+      }
+    ]
+  }
+]

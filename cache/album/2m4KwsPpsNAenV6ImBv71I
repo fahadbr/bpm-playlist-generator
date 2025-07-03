@@ -1,0 +1,292 @@
+[
+  {
+    "id": "391wCckW8VlK0qbWAtDq5T",
+    "name": "Separation No. 2",
+    "artist": "Caspian",
+    "album": "Dust and Disquiet",
+    "bpm": 76.907,
+    "features": [
+      {
+        "danceability": 0.0813,
+        "energy": 0.0601,
+        "key": 2,
+        "loudness": -22.337,
+        "mode": 0,
+        "speechiness": 0.0391,
+        "acousticness": 0.966,
+        "instrumentalness": 0.942,
+        "liveness": 0.138,
+        "valence": 0.0388,
+        "tempo": 76.907,
+        "type": "audio_features",
+        "id": "391wCckW8VlK0qbWAtDq5T",
+        "uri": "spotify:track:391wCckW8VlK0qbWAtDq5T",
+        "track_href": "https://api.spotify.com/v1/tracks/391wCckW8VlK0qbWAtDq5T",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/391wCckW8VlK0qbWAtDq5T",
+        "duration_ms": 188840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "42wOySSV3mE3lSo12wKbmL",
+    "name": "Rioseco",
+    "artist": "Caspian",
+    "album": "Dust and Disquiet",
+    "bpm": 116.985,
+    "features": [
+      {
+        "danceability": 0.437,
+        "energy": 0.384,
+        "key": 2,
+        "loudness": -11.028,
+        "mode": 0,
+        "speechiness": 0.0344,
+        "acousticness": 0.0818,
+        "instrumentalness": 0.966,
+        "liveness": 0.222,
+        "valence": 0.0471,
+        "tempo": 116.985,
+        "type": "audio_features",
+        "id": "42wOySSV3mE3lSo12wKbmL",
+        "uri": "spotify:track:42wOySSV3mE3lSo12wKbmL",
+        "track_href": "https://api.spotify.com/v1/tracks/42wOySSV3mE3lSo12wKbmL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/42wOySSV3mE3lSo12wKbmL",
+        "duration_ms": 472240,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3cld8uMQZok9Z8TCw041zF",
+    "name": "Arcs of Command",
+    "artist": "Caspian",
+    "album": "Dust and Disquiet",
+    "bpm": 190.867,
+    "features": [
+      {
+        "danceability": 0.236,
+        "energy": 0.784,
+        "key": 2,
+        "loudness": -7.982,
+        "mode": 0,
+        "speechiness": 0.0575,
+        "acousticness": 9.79e-05,
+        "instrumentalness": 0.915,
+        "liveness": 0.123,
+        "valence": 0.0795,
+        "tempo": 190.867,
+        "type": "audio_features",
+        "id": "3cld8uMQZok9Z8TCw041zF",
+        "uri": "spotify:track:3cld8uMQZok9Z8TCw041zF",
+        "track_href": "https://api.spotify.com/v1/tracks/3cld8uMQZok9Z8TCw041zF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3cld8uMQZok9Z8TCw041zF",
+        "duration_ms": 528773,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3GPEflNyiBz1c1iveD7J5b",
+    "name": "Echo and Abyss",
+    "artist": "Caspian",
+    "album": "Dust and Disquiet",
+    "bpm": 122.011,
+    "features": [
+      {
+        "danceability": 0.407,
+        "energy": 0.682,
+        "key": 10,
+        "loudness": -9.066,
+        "mode": 1,
+        "speechiness": 0.0431,
+        "acousticness": 0.00215,
+        "instrumentalness": 0.899,
+        "liveness": 0.0618,
+        "valence": 0.0519,
+        "tempo": 122.011,
+        "type": "audio_features",
+        "id": "3GPEflNyiBz1c1iveD7J5b",
+        "uri": "spotify:track:3GPEflNyiBz1c1iveD7J5b",
+        "track_href": "https://api.spotify.com/v1/tracks/3GPEflNyiBz1c1iveD7J5b",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3GPEflNyiBz1c1iveD7J5b",
+        "duration_ms": 344587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0YXgbYFJiakHun1wPosv6k",
+    "name": "Run Dry",
+    "artist": "Caspian",
+    "album": "Dust and Disquiet",
+    "bpm": 109.999,
+    "features": [
+      {
+        "danceability": 0.593,
+        "energy": 0.129,
+        "key": 2,
+        "loudness": -19.86,
+        "mode": 0,
+        "speechiness": 0.0285,
+        "acousticness": 0.935,
+        "instrumentalness": 0.414,
+        "liveness": 0.102,
+        "valence": 0.0724,
+        "tempo": 109.999,
+        "type": "audio_features",
+        "id": "0YXgbYFJiakHun1wPosv6k",
+        "uri": "spotify:track:0YXgbYFJiakHun1wPosv6k",
+        "track_href": "https://api.spotify.com/v1/tracks/0YXgbYFJiakHun1wPosv6k",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YXgbYFJiakHun1wPosv6k",
+        "duration_ms": 275933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4fm4xyMUonpFXzqbSJNx1M",
+    "name": "Equal Night",
+    "artist": "Caspian",
+    "album": "Dust and Disquiet",
+    "bpm": 86.443,
+    "features": [
+      {
+        "danceability": 0.196,
+        "energy": 0.0296,
+        "key": 5,
+        "loudness": -33.325,
+        "mode": 1,
+        "speechiness": 0.0321,
+        "acousticness": 0.982,
+        "instrumentalness": 0.866,
+        "liveness": 0.136,
+        "valence": 0.219,
+        "tempo": 86.443,
+        "type": "audio_features",
+        "id": "4fm4xyMUonpFXzqbSJNx1M",
+        "uri": "spotify:track:4fm4xyMUonpFXzqbSJNx1M",
+        "track_href": "https://api.spotify.com/v1/tracks/4fm4xyMUonpFXzqbSJNx1M",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4fm4xyMUonpFXzqbSJNx1M",
+        "duration_ms": 116813,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "3e66nnkSbIvBHD8TFzh1mw",
+    "name": "Sad Heart of Mine",
+    "artist": "Caspian",
+    "album": "Dust and Disquiet",
+    "bpm": 120.038,
+    "features": [
+      {
+        "danceability": 0.382,
+        "energy": 0.449,
+        "key": 5,
+        "loudness": -10.189,
+        "mode": 1,
+        "speechiness": 0.035,
+        "acousticness": 0.0153,
+        "instrumentalness": 0.892,
+        "liveness": 0.1,
+        "valence": 0.107,
+        "tempo": 120.038,
+        "type": "audio_features",
+        "id": "3e66nnkSbIvBHD8TFzh1mw",
+        "uri": "spotify:track:3e66nnkSbIvBHD8TFzh1mw",
+        "track_href": "https://api.spotify.com/v1/tracks/3e66nnkSbIvBHD8TFzh1mw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3e66nnkSbIvBHD8TFzh1mw",
+        "duration_ms": 267333,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1xYYHZ32U32ZYZfFVaujtx",
+    "name": "Darkfield",
+    "artist": "Caspian",
+    "album": "Dust and Disquiet",
+    "bpm": 125.02,
+    "features": [
+      {
+        "danceability": 0.596,
+        "energy": 0.848,
+        "key": 2,
+        "loudness": -9.093,
+        "mode": 0,
+        "speechiness": 0.0482,
+        "acousticness": 0.00243,
+        "instrumentalness": 0.885,
+        "liveness": 0.207,
+        "valence": 0.125,
+        "tempo": 125.02,
+        "type": "audio_features",
+        "id": "1xYYHZ32U32ZYZfFVaujtx",
+        "uri": "spotify:track:1xYYHZ32U32ZYZfFVaujtx",
+        "track_href": "https://api.spotify.com/v1/tracks/1xYYHZ32U32ZYZfFVaujtx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1xYYHZ32U32ZYZfFVaujtx",
+        "duration_ms": 396107,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3TFyKMf0yTDjMUlpUNI1Ky",
+    "name": "Aetenum Vale",
+    "artist": "Caspian",
+    "album": "Dust and Disquiet",
+    "bpm": 80.143,
+    "features": [
+      {
+        "danceability": 0.563,
+        "energy": 0.0074,
+        "key": 0,
+        "loudness": -26.699,
+        "mode": 0,
+        "speechiness": 0.085,
+        "acousticness": 0.968,
+        "instrumentalness": 0.272,
+        "liveness": 0.516,
+        "valence": 0.321,
+        "tempo": 80.143,
+        "type": "audio_features",
+        "id": "3TFyKMf0yTDjMUlpUNI1Ky",
+        "uri": "spotify:track:3TFyKMf0yTDjMUlpUNI1Ky",
+        "track_href": "https://api.spotify.com/v1/tracks/3TFyKMf0yTDjMUlpUNI1Ky",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3TFyKMf0yTDjMUlpUNI1Ky",
+        "duration_ms": 128093,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0a1I4EhDV3s19YKHd2edDk",
+    "name": "Dust and Disquiet",
+    "artist": "Caspian",
+    "album": "Dust and Disquiet",
+    "bpm": 99.102,
+    "features": [
+      {
+        "danceability": 0.299,
+        "energy": 0.189,
+        "key": 3,
+        "loudness": -11.159,
+        "mode": 1,
+        "speechiness": 0.0375,
+        "acousticness": 0.0114,
+        "instrumentalness": 0.841,
+        "liveness": 0.105,
+        "valence": 0.0752,
+        "tempo": 99.102,
+        "type": "audio_features",
+        "id": "0a1I4EhDV3s19YKHd2edDk",
+        "uri": "spotify:track:0a1I4EhDV3s19YKHd2edDk",
+        "track_href": "https://api.spotify.com/v1/tracks/0a1I4EhDV3s19YKHd2edDk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0a1I4EhDV3s19YKHd2edDk",
+        "duration_ms": 685960,
+        "time_signature": 3
+      }
+    ]
+  }
+]

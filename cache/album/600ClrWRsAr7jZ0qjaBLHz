@@ -1,0 +1,350 @@
+[
+  {
+    "id": "4Ksj9mKfsYC5b8v8Ey3c8I",
+    "name": "0.00",
+    "artist": "Childish Gambino",
+    "album": "3.15.20",
+    "bpm": 116.713,
+    "features": [
+      {
+        "danceability": 0.174,
+        "energy": 0.0466,
+        "key": 3,
+        "loudness": -18.458,
+        "mode": 1,
+        "speechiness": 0.0495,
+        "acousticness": 0.672,
+        "instrumentalness": 0.196,
+        "liveness": 0.42,
+        "valence": 0.0337,
+        "tempo": 116.713,
+        "type": "audio_features",
+        "id": "4Ksj9mKfsYC5b8v8Ey3c8I",
+        "uri": "spotify:track:4Ksj9mKfsYC5b8v8Ey3c8I",
+        "track_href": "https://api.spotify.com/v1/tracks/4Ksj9mKfsYC5b8v8Ey3c8I",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Ksj9mKfsYC5b8v8Ey3c8I",
+        "duration_ms": 179387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "07FOCFJhMmCVQDyWX1d3gR",
+    "name": "Algorhythm",
+    "artist": "Childish Gambino",
+    "album": "3.15.20",
+    "bpm": 100.077,
+    "features": [
+      {
+        "danceability": 0.715,
+        "energy": 0.649,
+        "key": 2,
+        "loudness": -11.294,
+        "mode": 1,
+        "speechiness": 0.109,
+        "acousticness": 0.036,
+        "instrumentalness": 0.0199,
+        "liveness": 0.0795,
+        "valence": 0.478,
+        "tempo": 100.077,
+        "type": "audio_features",
+        "id": "07FOCFJhMmCVQDyWX1d3gR",
+        "uri": "spotify:track:07FOCFJhMmCVQDyWX1d3gR",
+        "track_href": "https://api.spotify.com/v1/tracks/07FOCFJhMmCVQDyWX1d3gR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/07FOCFJhMmCVQDyWX1d3gR",
+        "duration_ms": 212107,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2Aq78kKI9yuloJQkcbhQbU",
+    "name": "Time (feat. Ariana Grande)",
+    "artist": "Childish Gambino",
+    "album": "3.15.20",
+    "bpm": 85.977,
+    "features": [
+      {
+        "danceability": 0.621,
+        "energy": 0.538,
+        "key": 10,
+        "loudness": -9.307,
+        "mode": 1,
+        "speechiness": 0.0401,
+        "acousticness": 0.0117,
+        "instrumentalness": 0.0189,
+        "liveness": 0.583,
+        "valence": 0.311,
+        "tempo": 85.977,
+        "type": "audio_features",
+        "id": "2Aq78kKI9yuloJQkcbhQbU",
+        "uri": "spotify:track:2Aq78kKI9yuloJQkcbhQbU",
+        "track_href": "https://api.spotify.com/v1/tracks/2Aq78kKI9yuloJQkcbhQbU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Aq78kKI9yuloJQkcbhQbU",
+        "duration_ms": 367293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "011ZwIM48eD8ee2UBpG8nK",
+    "name": "12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",
+    "artist": "Childish Gambino",
+    "album": "3.15.20",
+    "bpm": 164.047,
+    "features": [
+      {
+        "danceability": 0.691,
+        "energy": 0.524,
+        "key": 5,
+        "loudness": -9.718,
+        "mode": 1,
+        "speechiness": 0.16,
+        "acousticness": 0.197,
+        "instrumentalness": 4.29e-05,
+        "liveness": 0.488,
+        "valence": 0.41,
+        "tempo": 164.047,
+        "type": "audio_features",
+        "id": "011ZwIM48eD8ee2UBpG8nK",
+        "uri": "spotify:track:011ZwIM48eD8ee2UBpG8nK",
+        "track_href": "https://api.spotify.com/v1/tracks/011ZwIM48eD8ee2UBpG8nK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/011ZwIM48eD8ee2UBpG8nK",
+        "duration_ms": 392187,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5X4R93Qcw54yp9Utwy7Mlr",
+    "name": "19.10",
+    "artist": "Childish Gambino",
+    "album": "3.15.20",
+    "bpm": 114.98,
+    "features": [
+      {
+        "danceability": 0.715,
+        "energy": 0.597,
+        "key": 0,
+        "loudness": -8.939,
+        "mode": 1,
+        "speechiness": 0.0749,
+        "acousticness": 0.012,
+        "instrumentalness": 0.00273,
+        "liveness": 0.0925,
+        "valence": 0.186,
+        "tempo": 114.98,
+        "type": "audio_features",
+        "id": "5X4R93Qcw54yp9Utwy7Mlr",
+        "uri": "spotify:track:5X4R93Qcw54yp9Utwy7Mlr",
+        "track_href": "https://api.spotify.com/v1/tracks/5X4R93Qcw54yp9Utwy7Mlr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5X4R93Qcw54yp9Utwy7Mlr",
+        "duration_ms": 308547,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3IB89bAf5k60jLUFoWAmn1",
+    "name": "24.19",
+    "artist": "Childish Gambino",
+    "album": "3.15.20",
+    "bpm": 149.927,
+    "features": [
+      {
+        "danceability": 0.538,
+        "energy": 0.463,
+        "key": 0,
+        "loudness": -13.573,
+        "mode": 1,
+        "speechiness": 0.038,
+        "acousticness": 0.0946,
+        "instrumentalness": 0.000304,
+        "liveness": 0.114,
+        "valence": 0.207,
+        "tempo": 149.927,
+        "type": "audio_features",
+        "id": "3IB89bAf5k60jLUFoWAmn1",
+        "uri": "spotify:track:3IB89bAf5k60jLUFoWAmn1",
+        "track_href": "https://api.spotify.com/v1/tracks/3IB89bAf5k60jLUFoWAmn1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3IB89bAf5k60jLUFoWAmn1",
+        "duration_ms": 479187,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5UxxCtrLtSqOVRBQQn4ZJ3",
+    "name": "32.22",
+    "artist": "Childish Gambino",
+    "album": "3.15.20",
+    "bpm": 108.035,
+    "features": [
+      {
+        "danceability": 0.708,
+        "energy": 0.636,
+        "key": 11,
+        "loudness": -10.655,
+        "mode": 1,
+        "speechiness": 0.299,
+        "acousticness": 0.605,
+        "instrumentalness": 0.42,
+        "liveness": 0.115,
+        "valence": 0.487,
+        "tempo": 108.035,
+        "type": "audio_features",
+        "id": "5UxxCtrLtSqOVRBQQn4ZJ3",
+        "uri": "spotify:track:5UxxCtrLtSqOVRBQQn4ZJ3",
+        "track_href": "https://api.spotify.com/v1/tracks/5UxxCtrLtSqOVRBQQn4ZJ3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5UxxCtrLtSqOVRBQQn4ZJ3",
+        "duration_ms": 192733,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "4vS4FB3HXgOSmICeqEY0Gh",
+    "name": "35.31",
+    "artist": "Childish Gambino",
+    "album": "3.15.20",
+    "bpm": 102.018,
+    "features": [
+      {
+        "danceability": 0.798,
+        "energy": 0.559,
+        "key": 5,
+        "loudness": -10.868,
+        "mode": 1,
+        "speechiness": 0.0592,
+        "acousticness": 0.286,
+        "instrumentalness": 0,
+        "liveness": 0.349,
+        "valence": 0.604,
+        "tempo": 102.018,
+        "type": "audio_features",
+        "id": "4vS4FB3HXgOSmICeqEY0Gh",
+        "uri": "spotify:track:4vS4FB3HXgOSmICeqEY0Gh",
+        "track_href": "https://api.spotify.com/v1/tracks/4vS4FB3HXgOSmICeqEY0Gh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4vS4FB3HXgOSmICeqEY0Gh",
+        "duration_ms": 236507,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2VMzIZtoTgnKydwx6cRPq7",
+    "name": "39.28",
+    "artist": "Childish Gambino",
+    "album": "3.15.20",
+    "bpm": 93.921,
+    "features": [
+      {
+        "danceability": 0.44,
+        "energy": 0.106,
+        "key": 2,
+        "loudness": -13.786,
+        "mode": 0,
+        "speechiness": 0.271,
+        "acousticness": 0.808,
+        "instrumentalness": 0,
+        "liveness": 0.285,
+        "valence": 0.175,
+        "tempo": 93.921,
+        "type": "audio_features",
+        "id": "2VMzIZtoTgnKydwx6cRPq7",
+        "uri": "spotify:track:2VMzIZtoTgnKydwx6cRPq7",
+        "track_href": "https://api.spotify.com/v1/tracks/2VMzIZtoTgnKydwx6cRPq7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2VMzIZtoTgnKydwx6cRPq7",
+        "duration_ms": 179360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5CTzapBNGovLrqPas4cy7J",
+    "name": "42.26",
+    "artist": "Childish Gambino",
+    "album": "3.15.20",
+    "bpm": 165.816,
+    "features": [
+      {
+        "danceability": 0.576,
+        "energy": 0.486,
+        "key": 7,
+        "loudness": -9.727,
+        "mode": 1,
+        "speechiness": 0.154,
+        "acousticness": 0.456,
+        "instrumentalness": 0.134,
+        "liveness": 0.0676,
+        "valence": 0.178,
+        "tempo": 165.816,
+        "type": "audio_features",
+        "id": "5CTzapBNGovLrqPas4cy7J",
+        "uri": "spotify:track:5CTzapBNGovLrqPas4cy7J",
+        "track_href": "https://api.spotify.com/v1/tracks/5CTzapBNGovLrqPas4cy7J",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5CTzapBNGovLrqPas4cy7J",
+        "duration_ms": 321387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7l8qR2ndOxgE9hbfQf6gxA",
+    "name": "47.48",
+    "artist": "Childish Gambino",
+    "album": "3.15.20",
+    "bpm": 148.018,
+    "features": [
+      {
+        "danceability": 0.681,
+        "energy": 0.597,
+        "key": 4,
+        "loudness": -12.623,
+        "mode": 0,
+        "speechiness": 0.0637,
+        "acousticness": 0.378,
+        "instrumentalness": 0.582,
+        "liveness": 0.125,
+        "valence": 0.486,
+        "tempo": 148.018,
+        "type": "audio_features",
+        "id": "7l8qR2ndOxgE9hbfQf6gxA",
+        "uri": "spotify:track:7l8qR2ndOxgE9hbfQf6gxA",
+        "track_href": "https://api.spotify.com/v1/tracks/7l8qR2ndOxgE9hbfQf6gxA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7l8qR2ndOxgE9hbfQf6gxA",
+        "duration_ms": 360933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2alJKJoqOOEPVU1Do3eIjJ",
+    "name": "53.49",
+    "artist": "Childish Gambino",
+    "album": "3.15.20",
+    "bpm": 171.905,
+    "features": [
+      {
+        "danceability": 0.518,
+        "energy": 0.952,
+        "key": 6,
+        "loudness": -5.274,
+        "mode": 0,
+        "speechiness": 0.198,
+        "acousticness": 0.0287,
+        "instrumentalness": 0,
+        "liveness": 0.381,
+        "valence": 0.622,
+        "tempo": 171.905,
+        "type": "audio_features",
+        "id": "2alJKJoqOOEPVU1Do3eIjJ",
+        "uri": "spotify:track:2alJKJoqOOEPVU1Do3eIjJ",
+        "track_href": "https://api.spotify.com/v1/tracks/2alJKJoqOOEPVU1Do3eIjJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2alJKJoqOOEPVU1Do3eIjJ",
+        "duration_ms": 235280,
+        "time_signature": 4
+      }
+    ]
+  }
+]

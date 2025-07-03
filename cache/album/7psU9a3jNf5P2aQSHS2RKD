@@ -1,0 +1,147 @@
+[
+  {
+    "id": "2ww4JXJolWV7DmC5PFfZyu",
+    "name": "Wild International",
+    "artist": "One Day As A Lion",
+    "album": "One Day As A Lion EP",
+    "bpm": 171.695,
+    "features": [
+      {
+        "danceability": 0.408,
+        "energy": 0.895,
+        "key": 1,
+        "loudness": -6.027,
+        "mode": 1,
+        "speechiness": 0.196,
+        "acousticness": 0.00964,
+        "instrumentalness": 0,
+        "liveness": 0.51,
+        "valence": 0.531,
+        "tempo": 171.695,
+        "type": "audio_features",
+        "id": "2ww4JXJolWV7DmC5PFfZyu",
+        "uri": "spotify:track:2ww4JXJolWV7DmC5PFfZyu",
+        "track_href": "https://api.spotify.com/v1/tracks/2ww4JXJolWV7DmC5PFfZyu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ww4JXJolWV7DmC5PFfZyu",
+        "duration_ms": 227760,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0EPUSXfGeUUXZQVJlzcJXE",
+    "name": "Ocean View",
+    "artist": "One Day As A Lion",
+    "album": "One Day As A Lion EP",
+    "bpm": 174.136,
+    "features": [
+      {
+        "danceability": 0.226,
+        "energy": 0.949,
+        "key": 10,
+        "loudness": -6.401,
+        "mode": 0,
+        "speechiness": 0.355,
+        "acousticness": 0.000329,
+        "instrumentalness": 1.75e-05,
+        "liveness": 0.368,
+        "valence": 0.395,
+        "tempo": 174.136,
+        "type": "audio_features",
+        "id": "0EPUSXfGeUUXZQVJlzcJXE",
+        "uri": "spotify:track:0EPUSXfGeUUXZQVJlzcJXE",
+        "track_href": "https://api.spotify.com/v1/tracks/0EPUSXfGeUUXZQVJlzcJXE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0EPUSXfGeUUXZQVJlzcJXE",
+        "duration_ms": 245947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0NfoHdgb5Xhd32qWx2RsBI",
+    "name": "Last Letter",
+    "artist": "One Day As A Lion",
+    "album": "One Day As A Lion EP",
+    "bpm": 81.738,
+    "features": [
+      {
+        "danceability": 0.205,
+        "energy": 0.974,
+        "key": 10,
+        "loudness": -3.147,
+        "mode": 0,
+        "speechiness": 0.142,
+        "acousticness": 0.000145,
+        "instrumentalness": 0.00331,
+        "liveness": 0.0519,
+        "valence": 0.399,
+        "tempo": 81.738,
+        "type": "audio_features",
+        "id": "0NfoHdgb5Xhd32qWx2RsBI",
+        "uri": "spotify:track:0NfoHdgb5Xhd32qWx2RsBI",
+        "track_href": "https://api.spotify.com/v1/tracks/0NfoHdgb5Xhd32qWx2RsBI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0NfoHdgb5Xhd32qWx2RsBI",
+        "duration_ms": 237573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "35DnztbVFFcstcqKl2gsC5",
+    "name": "If You Fear Dying",
+    "artist": "One Day As A Lion",
+    "album": "One Day As A Lion EP",
+    "bpm": 83.383,
+    "features": [
+      {
+        "danceability": 0.514,
+        "energy": 0.946,
+        "key": 1,
+        "loudness": -5.888,
+        "mode": 1,
+        "speechiness": 0.108,
+        "acousticness": 0.00395,
+        "instrumentalness": 0,
+        "liveness": 0.135,
+        "valence": 0.414,
+        "tempo": 83.383,
+        "type": "audio_features",
+        "id": "35DnztbVFFcstcqKl2gsC5",
+        "uri": "spotify:track:35DnztbVFFcstcqKl2gsC5",
+        "track_href": "https://api.spotify.com/v1/tracks/35DnztbVFFcstcqKl2gsC5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/35DnztbVFFcstcqKl2gsC5",
+        "duration_ms": 236173,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4cNYtHPmkh1yBPmdlCJPw0",
+    "name": "One Day As A Lion",
+    "artist": "One Day As A Lion",
+    "album": "One Day As A Lion EP",
+    "bpm": 104.011,
+    "features": [
+      {
+        "danceability": 0.57,
+        "energy": 0.947,
+        "key": 5,
+        "loudness": -4.889,
+        "mode": 0,
+        "speechiness": 0.106,
+        "acousticness": 0.00211,
+        "instrumentalness": 0.0144,
+        "liveness": 0.0584,
+        "valence": 0.353,
+        "tempo": 104.011,
+        "type": "audio_features",
+        "id": "4cNYtHPmkh1yBPmdlCJPw0",
+        "uri": "spotify:track:4cNYtHPmkh1yBPmdlCJPw0",
+        "track_href": "https://api.spotify.com/v1/tracks/4cNYtHPmkh1yBPmdlCJPw0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4cNYtHPmkh1yBPmdlCJPw0",
+        "duration_ms": 265187,
+        "time_signature": 4
+      }
+    ]
+  }
+]

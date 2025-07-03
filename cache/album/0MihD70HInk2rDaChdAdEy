@@ -1,0 +1,553 @@
+[
+  {
+    "id": "5EHhkMTHKGpURNo32lDXFQ",
+    "name": "Baba Says Cool for Thought",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 77.146,
+    "features": [
+      {
+        "danceability": 0.722,
+        "energy": 0.178,
+        "key": 1,
+        "loudness": -10.716,
+        "mode": 1,
+        "speechiness": 0.883,
+        "acousticness": 0.764,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "valence": 0.592,
+        "tempo": 77.146,
+        "type": "audio_features",
+        "id": "5EHhkMTHKGpURNo32lDXFQ",
+        "uri": "spotify:track:5EHhkMTHKGpURNo32lDXFQ",
+        "track_href": "https://api.spotify.com/v1/tracks/5EHhkMTHKGpURNo32lDXFQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5EHhkMTHKGpURNo32lDXFQ",
+        "duration_ms": 46920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3VkAjkB2HYkXyrCqj3ZG3m",
+    "name": "Free Chilly (feat. Sarah Green & GemStones) - Interlude",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 135.774,
+    "features": [
+      {
+        "danceability": 0.256,
+        "energy": 0.665,
+        "key": 9,
+        "loudness": -9.417,
+        "mode": 0,
+        "speechiness": 0.0934,
+        "acousticness": 0.000939,
+        "instrumentalness": 0,
+        "liveness": 0.107,
+        "valence": 0.383,
+        "tempo": 135.774,
+        "type": "audio_features",
+        "id": "3VkAjkB2HYkXyrCqj3ZG3m",
+        "uri": "spotify:track:3VkAjkB2HYkXyrCqj3ZG3m",
+        "track_href": "https://api.spotify.com/v1/tracks/3VkAjkB2HYkXyrCqj3ZG3m",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3VkAjkB2HYkXyrCqj3ZG3m",
+        "duration_ms": 62027,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "2aLVUQS8wipdinBxqm5YBE",
+    "name": "Go Go Gadget Flow",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 148.014,
+    "features": [
+      {
+        "danceability": 0.794,
+        "energy": 0.934,
+        "key": 11,
+        "loudness": -4.716,
+        "mode": 0,
+        "speechiness": 0.0842,
+        "acousticness": 0.115,
+        "instrumentalness": 0,
+        "liveness": 0.0654,
+        "valence": 0.964,
+        "tempo": 148.014,
+        "type": "audio_features",
+        "id": "2aLVUQS8wipdinBxqm5YBE",
+        "uri": "spotify:track:2aLVUQS8wipdinBxqm5YBE",
+        "track_href": "https://api.spotify.com/v1/tracks/2aLVUQS8wipdinBxqm5YBE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2aLVUQS8wipdinBxqm5YBE",
+        "duration_ms": 250387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1R6nmC4HUGOGSKU02Wqa0v",
+    "name": "The Coolest",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 88.535,
+    "features": [
+      {
+        "danceability": 0.493,
+        "energy": 0.882,
+        "key": 6,
+        "loudness": -5.143,
+        "mode": 0,
+        "speechiness": 0.302,
+        "acousticness": 0.634,
+        "instrumentalness": 0,
+        "liveness": 0.123,
+        "valence": 0.345,
+        "tempo": 88.535,
+        "type": "audio_features",
+        "id": "1R6nmC4HUGOGSKU02Wqa0v",
+        "uri": "spotify:track:1R6nmC4HUGOGSKU02Wqa0v",
+        "track_href": "https://api.spotify.com/v1/tracks/1R6nmC4HUGOGSKU02Wqa0v",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1R6nmC4HUGOGSKU02Wqa0v",
+        "duration_ms": 312933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7dltD9eEX7X1zk8JJ9BS0e",
+    "name": "Superstar (feat. Matthew Santos)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 94.812,
+    "features": [
+      {
+        "danceability": 0.572,
+        "energy": 0.822,
+        "key": 11,
+        "loudness": -6.015,
+        "mode": 0,
+        "speechiness": 0.361,
+        "acousticness": 0.207,
+        "instrumentalness": 0,
+        "liveness": 0.359,
+        "valence": 0.472,
+        "tempo": 94.812,
+        "type": "audio_features",
+        "id": "7dltD9eEX7X1zk8JJ9BS0e",
+        "uri": "spotify:track:7dltD9eEX7X1zk8JJ9BS0e",
+        "track_href": "https://api.spotify.com/v1/tracks/7dltD9eEX7X1zk8JJ9BS0e",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7dltD9eEX7X1zk8JJ9BS0e",
+        "duration_ms": 289000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2dXME00xUY1CRcMZsM3Y4q",
+    "name": "Paris, Tokyo",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 90.011,
+    "features": [
+      {
+        "danceability": 0.734,
+        "energy": 0.64,
+        "key": 9,
+        "loudness": -7.638,
+        "mode": 0,
+        "speechiness": 0.182,
+        "acousticness": 0.0895,
+        "instrumentalness": 0,
+        "liveness": 0.173,
+        "valence": 0.351,
+        "tempo": 90.011,
+        "type": "audio_features",
+        "id": "2dXME00xUY1CRcMZsM3Y4q",
+        "uri": "spotify:track:2dXME00xUY1CRcMZsM3Y4q",
+        "track_href": "https://api.spotify.com/v1/tracks/2dXME00xUY1CRcMZsM3Y4q",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2dXME00xUY1CRcMZsM3Y4q",
+        "duration_ms": 270653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5TwtHTqjpEqHmePcCX9XZr",
+    "name": "Hi-Definition (feat. Snoop Dogg & Pooh Bear)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 102.7,
+    "features": [
+      {
+        "danceability": 0.493,
+        "energy": 0.908,
+        "key": 9,
+        "loudness": -5.303,
+        "mode": 1,
+        "speechiness": 0.269,
+        "acousticness": 0.00966,
+        "instrumentalness": 0,
+        "liveness": 0.0392,
+        "valence": 0.392,
+        "tempo": 102.7,
+        "type": "audio_features",
+        "id": "5TwtHTqjpEqHmePcCX9XZr",
+        "uri": "spotify:track:5TwtHTqjpEqHmePcCX9XZr",
+        "track_href": "https://api.spotify.com/v1/tracks/5TwtHTqjpEqHmePcCX9XZr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5TwtHTqjpEqHmePcCX9XZr",
+        "duration_ms": 231787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2DGMORz6TjhKgCYM7quaZh",
+    "name": "Gold Watch",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 84.036,
+    "features": [
+      {
+        "danceability": 0.703,
+        "energy": 0.733,
+        "key": 7,
+        "loudness": -5.572,
+        "mode": 1,
+        "speechiness": 0.238,
+        "acousticness": 0.0565,
+        "instrumentalness": 0,
+        "liveness": 0.16,
+        "valence": 0.565,
+        "tempo": 84.036,
+        "type": "audio_features",
+        "id": "2DGMORz6TjhKgCYM7quaZh",
+        "uri": "spotify:track:2DGMORz6TjhKgCYM7quaZh",
+        "track_href": "https://api.spotify.com/v1/tracks/2DGMORz6TjhKgCYM7quaZh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2DGMORz6TjhKgCYM7quaZh",
+        "duration_ms": 252600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6N3oYlfZ2RPdjMYdHCRmFS",
+    "name": "Hip-Hop Saved My Life (feat. Nikki Jean)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 100.006,
+    "features": [
+      {
+        "danceability": 0.705,
+        "energy": 0.684,
+        "key": 0,
+        "loudness": -5.759,
+        "mode": 1,
+        "speechiness": 0.145,
+        "acousticness": 0.0353,
+        "instrumentalness": 0,
+        "liveness": 0.206,
+        "valence": 0.246,
+        "tempo": 100.006,
+        "type": "audio_features",
+        "id": "6N3oYlfZ2RPdjMYdHCRmFS",
+        "uri": "spotify:track:6N3oYlfZ2RPdjMYdHCRmFS",
+        "track_href": "https://api.spotify.com/v1/tracks/6N3oYlfZ2RPdjMYdHCRmFS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6N3oYlfZ2RPdjMYdHCRmFS",
+        "duration_ms": 242507,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2fjOaSt26CeQCCCgn8brsH",
+    "name": "Intruder Alert (feat. Sarah Green)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 139.387,
+    "features": [
+      {
+        "danceability": 0.508,
+        "energy": 0.544,
+        "key": 11,
+        "loudness": -5.883,
+        "mode": 0,
+        "speechiness": 0.0404,
+        "acousticness": 0.58,
+        "instrumentalness": 0,
+        "liveness": 0.117,
+        "valence": 0.36,
+        "tempo": 139.387,
+        "type": "audio_features",
+        "id": "2fjOaSt26CeQCCCgn8brsH",
+        "uri": "spotify:track:2fjOaSt26CeQCCCgn8brsH",
+        "track_href": "https://api.spotify.com/v1/tracks/2fjOaSt26CeQCCCgn8brsH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2fjOaSt26CeQCCCgn8brsH",
+        "duration_ms": 240280,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1fNpOEgu770UrRTzeVsKZT",
+    "name": "Streets on Fire",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 110.091,
+    "features": [
+      {
+        "danceability": 0.665,
+        "energy": 0.982,
+        "key": 7,
+        "loudness": -5.796,
+        "mode": 0,
+        "speechiness": 0.119,
+        "acousticness": 0.299,
+        "instrumentalness": 0,
+        "liveness": 0.119,
+        "valence": 0.46,
+        "tempo": 110.091,
+        "type": "audio_features",
+        "id": "1fNpOEgu770UrRTzeVsKZT",
+        "uri": "spotify:track:1fNpOEgu770UrRTzeVsKZT",
+        "track_href": "https://api.spotify.com/v1/tracks/1fNpOEgu770UrRTzeVsKZT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1fNpOEgu770UrRTzeVsKZT",
+        "duration_ms": 279973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7sb2qiE0af4NggQPa5FkYY",
+    "name": "Little Weapon (feat. Bishop G & Nikki Jean)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 109.958,
+    "features": [
+      {
+        "danceability": 0.723,
+        "energy": 0.808,
+        "key": 11,
+        "loudness": -6.32,
+        "mode": 0,
+        "speechiness": 0.203,
+        "acousticness": 0.0746,
+        "instrumentalness": 0,
+        "liveness": 0.196,
+        "valence": 0.336,
+        "tempo": 109.958,
+        "type": "audio_features",
+        "id": "7sb2qiE0af4NggQPa5FkYY",
+        "uri": "spotify:track:7sb2qiE0af4NggQPa5FkYY",
+        "track_href": "https://api.spotify.com/v1/tracks/7sb2qiE0af4NggQPa5FkYY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7sb2qiE0af4NggQPa5FkYY",
+        "duration_ms": 245853,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3UZH1lr5vx7S19ilecUtwj",
+    "name": "Gotta Eat",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 97.45,
+    "features": [
+      {
+        "danceability": 0.635,
+        "energy": 0.698,
+        "key": 2,
+        "loudness": -5.446,
+        "mode": 1,
+        "speechiness": 0.0946,
+        "acousticness": 0.0178,
+        "instrumentalness": 0,
+        "liveness": 0.0956,
+        "valence": 0.364,
+        "tempo": 97.45,
+        "type": "audio_features",
+        "id": "3UZH1lr5vx7S19ilecUtwj",
+        "uri": "spotify:track:3UZH1lr5vx7S19ilecUtwj",
+        "track_href": "https://api.spotify.com/v1/tracks/3UZH1lr5vx7S19ilecUtwj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3UZH1lr5vx7S19ilecUtwj",
+        "duration_ms": 204173,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0SPUNC31ZXVbadaj4M5TfD",
+    "name": "Dumb It Down (feat. GemStones & Graham Burris)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 95.114,
+    "features": [
+      {
+        "danceability": 0.703,
+        "energy": 0.768,
+        "key": 1,
+        "loudness": -6.26,
+        "mode": 1,
+        "speechiness": 0.29,
+        "acousticness": 0.147,
+        "instrumentalness": 0,
+        "liveness": 0.281,
+        "valence": 0.102,
+        "tempo": 95.114,
+        "type": "audio_features",
+        "id": "0SPUNC31ZXVbadaj4M5TfD",
+        "uri": "spotify:track:0SPUNC31ZXVbadaj4M5TfD",
+        "track_href": "https://api.spotify.com/v1/tracks/0SPUNC31ZXVbadaj4M5TfD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0SPUNC31ZXVbadaj4M5TfD",
+        "duration_ms": 243747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5ki2p4PK1nQgTmf3TRSREu",
+    "name": "Hello/Goodbye (Uncool) [feat. Unkle]",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 114.289,
+    "features": [
+      {
+        "danceability": 0.336,
+        "energy": 0.905,
+        "key": 2,
+        "loudness": -6.816,
+        "mode": 1,
+        "speechiness": 0.133,
+        "acousticness": 0.0033,
+        "instrumentalness": 0.000218,
+        "liveness": 0.383,
+        "valence": 0.229,
+        "tempo": 114.289,
+        "type": "audio_features",
+        "id": "5ki2p4PK1nQgTmf3TRSREu",
+        "uri": "spotify:track:5ki2p4PK1nQgTmf3TRSREu",
+        "track_href": "https://api.spotify.com/v1/tracks/5ki2p4PK1nQgTmf3TRSREu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ki2p4PK1nQgTmf3TRSREu",
+        "duration_ms": 266627,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "15Y3wFvRKbbnxrsCALs8AH",
+    "name": "The Die (feat. GemStones)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 133.874,
+    "features": [
+      {
+        "danceability": 0.655,
+        "energy": 0.797,
+        "key": 5,
+        "loudness": -6.099,
+        "mode": 0,
+        "speechiness": 0.32,
+        "acousticness": 0.181,
+        "instrumentalness": 0,
+        "liveness": 0.129,
+        "valence": 0.599,
+        "tempo": 133.874,
+        "type": "audio_features",
+        "id": "15Y3wFvRKbbnxrsCALs8AH",
+        "uri": "spotify:track:15Y3wFvRKbbnxrsCALs8AH",
+        "track_href": "https://api.spotify.com/v1/tracks/15Y3wFvRKbbnxrsCALs8AH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/15Y3wFvRKbbnxrsCALs8AH",
+        "duration_ms": 203107,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5PlYCPa9eV21gJcK5cQiZi",
+    "name": "Put You on Game",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 83.326,
+    "features": [
+      {
+        "danceability": 0.67,
+        "energy": 0.697,
+        "key": 5,
+        "loudness": -6.302,
+        "mode": 1,
+        "speechiness": 0.378,
+        "acousticness": 0.0309,
+        "instrumentalness": 0,
+        "liveness": 0.327,
+        "valence": 0.367,
+        "tempo": 83.326,
+        "type": "audio_features",
+        "id": "5PlYCPa9eV21gJcK5cQiZi",
+        "uri": "spotify:track:5PlYCPa9eV21gJcK5cQiZi",
+        "track_href": "https://api.spotify.com/v1/tracks/5PlYCPa9eV21gJcK5cQiZi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5PlYCPa9eV21gJcK5cQiZi",
+        "duration_ms": 182693,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2Kh1dZBgQAJQ2ZQ6AjMQdp",
+    "name": "Fighters (feat. Matthew Santos)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 140.061,
+    "features": [
+      {
+        "danceability": 0.664,
+        "energy": 0.597,
+        "key": 2,
+        "loudness": -8.731,
+        "mode": 1,
+        "speechiness": 0.165,
+        "acousticness": 0.869,
+        "instrumentalness": 0,
+        "liveness": 0.136,
+        "valence": 0.581,
+        "tempo": 140.061,
+        "type": "audio_features",
+        "id": "2Kh1dZBgQAJQ2ZQ6AjMQdp",
+        "uri": "spotify:track:2Kh1dZBgQAJQ2ZQ6AjMQdp",
+        "track_href": "https://api.spotify.com/v1/tracks/2Kh1dZBgQAJQ2ZQ6AjMQdp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Kh1dZBgQAJQ2ZQ6AjMQdp",
+        "duration_ms": 213333,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0QtbNh8K4XVc7SPahj3uVK",
+    "name": "Go Baby (feat. GemStones)",
+    "artist": "Lupe Fiasco",
+    "album": "Lupe Fiasco's The Cool",
+    "bpm": 199.975,
+    "features": [
+      {
+        "danceability": 0.542,
+        "energy": 0.854,
+        "key": 9,
+        "loudness": -5.017,
+        "mode": 0,
+        "speechiness": 0.0581,
+        "acousticness": 0.0705,
+        "instrumentalness": 0,
+        "liveness": 0.105,
+        "valence": 0.686,
+        "tempo": 199.975,
+        "type": "audio_features",
+        "id": "0QtbNh8K4XVc7SPahj3uVK",
+        "uri": "spotify:track:0QtbNh8K4XVc7SPahj3uVK",
+        "track_href": "https://api.spotify.com/v1/tracks/0QtbNh8K4XVc7SPahj3uVK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0QtbNh8K4XVc7SPahj3uVK",
+        "duration_ms": 216613,
+        "time_signature": 4
+      }
+    ]
+  }
+]

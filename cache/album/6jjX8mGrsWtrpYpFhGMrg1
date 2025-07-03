@@ -1,0 +1,495 @@
+[
+  {
+    "id": "0UULVQXjgFPOttIW5qF7Ak",
+    "name": "where u at?",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 100.564,
+    "features": [
+      {
+        "danceability": 0.539,
+        "energy": 0.808,
+        "key": 8,
+        "loudness": -10.408,
+        "mode": 0,
+        "speechiness": 0.585,
+        "acousticness": 0.824,
+        "instrumentalness": 0,
+        "liveness": 0.696,
+        "valence": 0.0585,
+        "tempo": 100.564,
+        "type": "audio_features",
+        "id": "0UULVQXjgFPOttIW5qF7Ak",
+        "uri": "spotify:track:0UULVQXjgFPOttIW5qF7Ak",
+        "track_href": "https://api.spotify.com/v1/tracks/0UULVQXjgFPOttIW5qF7Ak",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0UULVQXjgFPOttIW5qF7Ak",
+        "duration_ms": 44095,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "71lyUtIPCMAYjTwwwxy2jW",
+    "name": "4r Da Squaw",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 143.934,
+    "features": [
+      {
+        "danceability": 0.667,
+        "energy": 0.523,
+        "key": 10,
+        "loudness": -9.477,
+        "mode": 0,
+        "speechiness": 0.329,
+        "acousticness": 0.532,
+        "instrumentalness": 2.12e-05,
+        "liveness": 0.137,
+        "valence": 0.409,
+        "tempo": 143.934,
+        "type": "audio_features",
+        "id": "71lyUtIPCMAYjTwwwxy2jW",
+        "uri": "spotify:track:71lyUtIPCMAYjTwwwxy2jW",
+        "track_href": "https://api.spotify.com/v1/tracks/71lyUtIPCMAYjTwwwxy2jW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/71lyUtIPCMAYjTwwwxy2jW",
+        "duration_ms": 232571,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5FX89IUKm9QJT9ymrmyK4k",
+    "name": "Free Lunch",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 130.011,
+    "features": [
+      {
+        "danceability": 0.865,
+        "energy": 0.472,
+        "key": 11,
+        "loudness": -7.359,
+        "mode": 0,
+        "speechiness": 0.237,
+        "acousticness": 0.223,
+        "instrumentalness": 5.39e-05,
+        "liveness": 0.109,
+        "valence": 0.843,
+        "tempo": 130.011,
+        "type": "audio_features",
+        "id": "5FX89IUKm9QJT9ymrmyK4k",
+        "uri": "spotify:track:5FX89IUKm9QJT9ymrmyK4k",
+        "track_href": "https://api.spotify.com/v1/tracks/5FX89IUKm9QJT9ymrmyK4k",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5FX89IUKm9QJT9ymrmyK4k",
+        "duration_ms": 192029,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2TsBRXZQSGp1aaYeNPcT9o",
+    "name": "Rope (feat. SiR) // rosegold",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 91.937,
+    "features": [
+      {
+        "danceability": 0.617,
+        "energy": 0.604,
+        "key": 7,
+        "loudness": -8.879,
+        "mode": 1,
+        "speechiness": 0.255,
+        "acousticness": 0.0446,
+        "instrumentalness": 0.000156,
+        "liveness": 0.372,
+        "valence": 0.696,
+        "tempo": 91.937,
+        "type": "audio_features",
+        "id": "2TsBRXZQSGp1aaYeNPcT9o",
+        "uri": "spotify:track:2TsBRXZQSGp1aaYeNPcT9o",
+        "track_href": "https://api.spotify.com/v1/tracks/2TsBRXZQSGp1aaYeNPcT9o",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2TsBRXZQSGp1aaYeNPcT9o",
+        "duration_ms": 283527,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2RPbEp0DyBVlkRvvYKopO7",
+    "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 125.966,
+    "features": [
+      {
+        "danceability": 0.706,
+        "energy": 0.688,
+        "key": 1,
+        "loudness": -6.357,
+        "mode": 1,
+        "speechiness": 0.269,
+        "acousticness": 0.151,
+        "instrumentalness": 0,
+        "liveness": 0.466,
+        "valence": 0.313,
+        "tempo": 125.966,
+        "type": "audio_features",
+        "id": "2RPbEp0DyBVlkRvvYKopO7",
+        "uri": "spotify:track:2RPbEp0DyBVlkRvvYKopO7",
+        "track_href": "https://api.spotify.com/v1/tracks/2RPbEp0DyBVlkRvvYKopO7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2RPbEp0DyBVlkRvvYKopO7",
+        "duration_ms": 330783,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5hqh0JUxRShhqdaxu7wlz5",
+    "name": "Park",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 100.034,
+    "features": [
+      {
+        "danceability": 0.856,
+        "energy": 0.632,
+        "key": 7,
+        "loudness": -10.068,
+        "mode": 1,
+        "speechiness": 0.277,
+        "acousticness": 0.17,
+        "instrumentalness": 0,
+        "liveness": 0.306,
+        "valence": 0.543,
+        "tempo": 100.034,
+        "type": "audio_features",
+        "id": "5hqh0JUxRShhqdaxu7wlz5",
+        "uri": "spotify:track:5hqh0JUxRShhqdaxu7wlz5",
+        "track_href": "https://api.spotify.com/v1/tracks/5hqh0JUxRShhqdaxu7wlz5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hqh0JUxRShhqdaxu7wlz5",
+        "duration_ms": 173291,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2uRqJEudnHdYINvwmeaG9h",
+    "name": "Bday (feat. Deacon Blues & Kari Faux)",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 89.029,
+    "features": [
+      {
+        "danceability": 0.761,
+        "energy": 0.538,
+        "key": 0,
+        "loudness": -9.03,
+        "mode": 1,
+        "speechiness": 0.101,
+        "acousticness": 0.00617,
+        "instrumentalness": 3.16e-06,
+        "liveness": 0.481,
+        "valence": 0.451,
+        "tempo": 89.029,
+        "type": "audio_features",
+        "id": "2uRqJEudnHdYINvwmeaG9h",
+        "uri": "spotify:track:2uRqJEudnHdYINvwmeaG9h",
+        "track_href": "https://api.spotify.com/v1/tracks/2uRqJEudnHdYINvwmeaG9h",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2uRqJEudnHdYINvwmeaG9h",
+        "duration_ms": 232978,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5f6esnDQcBiFAm8iMfkw12",
+    "name": "Silkk da Shocka (feat. Syd)",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 121.986,
+    "features": [
+      {
+        "danceability": 0.59,
+        "energy": 0.602,
+        "key": 8,
+        "loudness": -8.195,
+        "mode": 1,
+        "speechiness": 0.413,
+        "acousticness": 0.577,
+        "instrumentalness": 6.59e-06,
+        "liveness": 0.643,
+        "valence": 0.72,
+        "tempo": 121.986,
+        "type": "audio_features",
+        "id": "5f6esnDQcBiFAm8iMfkw12",
+        "uri": "spotify:track:5f6esnDQcBiFAm8iMfkw12",
+        "track_href": "https://api.spotify.com/v1/tracks/5f6esnDQcBiFAm8iMfkw12",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5f6esnDQcBiFAm8iMfkw12",
+        "duration_ms": 166087,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2NoKRHt8LVpnQMVl3TPwvu",
+    "name": "Tity and Dolla (feat. Hugh Augustine & Jay Rock)",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 124.003,
+    "features": [
+      {
+        "danceability": 0.717,
+        "energy": 0.602,
+        "key": 0,
+        "loudness": -9.441,
+        "mode": 0,
+        "speechiness": 0.323,
+        "acousticness": 0.324,
+        "instrumentalness": 1.1e-05,
+        "liveness": 0.0923,
+        "valence": 0.539,
+        "tempo": 124.003,
+        "type": "audio_features",
+        "id": "2NoKRHt8LVpnQMVl3TPwvu",
+        "uri": "spotify:track:2NoKRHt8LVpnQMVl3TPwvu",
+        "track_href": "https://api.spotify.com/v1/tracks/2NoKRHt8LVpnQMVl3TPwvu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2NoKRHt8LVpnQMVl3TPwvu",
+        "duration_ms": 298035,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2eYY43d0V17SxOX0g7sBAD",
+    "name": "Stuck in the Mud (feat. SZA)",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 150.024,
+    "features": [
+      {
+        "danceability": 0.568,
+        "energy": 0.714,
+        "key": 11,
+        "loudness": -8.228,
+        "mode": 1,
+        "speechiness": 0.368,
+        "acousticness": 0.099,
+        "instrumentalness": 0.00522,
+        "liveness": 0.116,
+        "valence": 0.508,
+        "tempo": 150.024,
+        "type": "audio_features",
+        "id": "2eYY43d0V17SxOX0g7sBAD",
+        "uri": "spotify:track:2eYY43d0V17SxOX0g7sBAD",
+        "track_href": "https://api.spotify.com/v1/tracks/2eYY43d0V17SxOX0g7sBAD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2eYY43d0V17SxOX0g7sBAD",
+        "duration_ms": 423170,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0CsMyYqXKbdznGEXSjSroo",
+    "name": "A lot",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 148.032,
+    "features": [
+      {
+        "danceability": 0.775,
+        "energy": 0.6,
+        "key": 0,
+        "loudness": -8.792,
+        "mode": 1,
+        "speechiness": 0.0857,
+        "acousticness": 0.023,
+        "instrumentalness": 1.85e-05,
+        "liveness": 0.125,
+        "valence": 0.544,
+        "tempo": 148.032,
+        "type": "audio_features",
+        "id": "0CsMyYqXKbdznGEXSjSroo",
+        "uri": "spotify:track:0CsMyYqXKbdznGEXSjSroo",
+        "track_href": "https://api.spotify.com/v1/tracks/0CsMyYqXKbdznGEXSjSroo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0CsMyYqXKbdznGEXSjSroo",
+        "duration_ms": 205539,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "66UI237YMw6AL6S72FGKND",
+    "name": "AA",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 96.002,
+    "features": [
+      {
+        "danceability": 0.73,
+        "energy": 0.512,
+        "key": 3,
+        "loudness": -10.408,
+        "mode": 0,
+        "speechiness": 0.0469,
+        "acousticness": 0.0261,
+        "instrumentalness": 0,
+        "liveness": 0.333,
+        "valence": 0.513,
+        "tempo": 96.002,
+        "type": "audio_features",
+        "id": "66UI237YMw6AL6S72FGKND",
+        "uri": "spotify:track:66UI237YMw6AL6S72FGKND",
+        "track_href": "https://api.spotify.com/v1/tracks/66UI237YMw6AL6S72FGKND",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/66UI237YMw6AL6S72FGKND",
+        "duration_ms": 210061,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5oO0BgiNJzi3Q13uIvizqN",
+    "name": "Dressed Like Rappers",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 78.794,
+    "features": [
+      {
+        "danceability": 0.416,
+        "energy": 0.52,
+        "key": 6,
+        "loudness": -12.628,
+        "mode": 0,
+        "speechiness": 0.476,
+        "acousticness": 0.187,
+        "instrumentalness": 1.76e-06,
+        "liveness": 0.594,
+        "valence": 0.486,
+        "tempo": 78.794,
+        "type": "audio_features",
+        "id": "5oO0BgiNJzi3Q13uIvizqN",
+        "uri": "spotify:track:5oO0BgiNJzi3Q13uIvizqN",
+        "track_href": "https://api.spotify.com/v1/tracks/5oO0BgiNJzi3Q13uIvizqN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5oO0BgiNJzi3Q13uIvizqN",
+        "duration_ms": 206321,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5v1QJxlh7mkNsq7fsUf5wV",
+    "name": "Don't Matter",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 148.081,
+    "features": [
+      {
+        "danceability": 0.735,
+        "energy": 0.86,
+        "key": 11,
+        "loudness": -10.474,
+        "mode": 0,
+        "speechiness": 0.151,
+        "acousticness": 0.00841,
+        "instrumentalness": 0.0412,
+        "liveness": 0.752,
+        "valence": 0.76,
+        "tempo": 148.081,
+        "type": "audio_features",
+        "id": "5v1QJxlh7mkNsq7fsUf5wV",
+        "uri": "spotify:track:5v1QJxlh7mkNsq7fsUf5wV",
+        "track_href": "https://api.spotify.com/v1/tracks/5v1QJxlh7mkNsq7fsUf5wV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5v1QJxlh7mkNsq7fsUf5wV",
+        "duration_ms": 176982,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1YnhmaHKpNEroXiGqc3BLT",
+    "name": "Brenda",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 85.988,
+    "features": [
+      {
+        "danceability": 0.592,
+        "energy": 0.512,
+        "key": 10,
+        "loudness": -8.963,
+        "mode": 0,
+        "speechiness": 0.458,
+        "acousticness": 0.0741,
+        "instrumentalness": 2.48e-05,
+        "liveness": 0.262,
+        "valence": 0.564,
+        "tempo": 85.988,
+        "type": "audio_features",
+        "id": "1YnhmaHKpNEroXiGqc3BLT",
+        "uri": "spotify:track:1YnhmaHKpNEroXiGqc3BLT",
+        "track_href": "https://api.spotify.com/v1/tracks/1YnhmaHKpNEroXiGqc3BLT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1YnhmaHKpNEroXiGqc3BLT",
+        "duration_ms": 250358,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "24LTP6ZVZZ5epkbnTXM21c",
+    "name": "by george (outro)",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 126.011,
+    "features": [
+      {
+        "danceability": 0.792,
+        "energy": 0.564,
+        "key": 8,
+        "loudness": -9.242,
+        "mode": 0,
+        "speechiness": 0.238,
+        "acousticness": 0.00411,
+        "instrumentalness": 0.244,
+        "liveness": 0.332,
+        "valence": 0.0964,
+        "tempo": 126.011,
+        "type": "audio_features",
+        "id": "24LTP6ZVZZ5epkbnTXM21c",
+        "uri": "spotify:track:24LTP6ZVZZ5epkbnTXM21c",
+        "track_href": "https://api.spotify.com/v1/tracks/24LTP6ZVZZ5epkbnTXM21c",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/24LTP6ZVZZ5epkbnTXM21c",
+        "duration_ms": 198113,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "17JA4HlieSH7TY3pQk21MJ",
+    "name": "Find a Topic (homies begged)",
+    "artist": "Isaiah Rashad",
+    "album": "The Sun's Tirade",
+    "bpm": 130.999,
+    "features": [
+      {
+        "danceability": 0.91,
+        "energy": 0.567,
+        "key": 7,
+        "loudness": -5.208,
+        "mode": 1,
+        "speechiness": 0.0987,
+        "acousticness": 0.00274,
+        "instrumentalness": 5.29e-05,
+        "liveness": 0.498,
+        "valence": 0.545,
+        "tempo": 130.999,
+        "type": "audio_features",
+        "id": "17JA4HlieSH7TY3pQk21MJ",
+        "uri": "spotify:track:17JA4HlieSH7TY3pQk21MJ",
+        "track_href": "https://api.spotify.com/v1/tracks/17JA4HlieSH7TY3pQk21MJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/17JA4HlieSH7TY3pQk21MJ",
+        "duration_ms": 166688,
+        "time_signature": 4
+      }
+    ]
+  }
+]

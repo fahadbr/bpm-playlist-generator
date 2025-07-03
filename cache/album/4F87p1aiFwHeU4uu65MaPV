@@ -1,0 +1,379 @@
+[
+  {
+    "id": "3atCD3dVosUsd3KM2yzfeC",
+    "name": "Grandpa's Space Ship",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 119.082,
+    "features": [
+      {
+        "danceability": 0.719,
+        "energy": 0.167,
+        "key": 1,
+        "loudness": -18.942,
+        "mode": 1,
+        "speechiness": 0.889,
+        "acousticness": 0.266,
+        "instrumentalness": 0,
+        "liveness": 0.152,
+        "valence": 0.161,
+        "tempo": 119.082,
+        "type": "audio_features",
+        "id": "3atCD3dVosUsd3KM2yzfeC",
+        "uri": "spotify:track:3atCD3dVosUsd3KM2yzfeC",
+        "track_href": "https://api.spotify.com/v1/tracks/3atCD3dVosUsd3KM2yzfeC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3atCD3dVosUsd3KM2yzfeC",
+        "duration_ms": 122093,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "3s3VVLE1kB7Xk2AoJKlGmr",
+    "name": "Overnight",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 150.003,
+    "features": [
+      {
+        "danceability": 0.861,
+        "energy": 0.745,
+        "key": 1,
+        "loudness": -6.77,
+        "mode": 1,
+        "speechiness": 0.0608,
+        "acousticness": 0.0014,
+        "instrumentalness": 1.89e-05,
+        "liveness": 0.141,
+        "valence": 0.889,
+        "tempo": 150.003,
+        "type": "audio_features",
+        "id": "3s3VVLE1kB7Xk2AoJKlGmr",
+        "uri": "spotify:track:3s3VVLE1kB7Xk2AoJKlGmr",
+        "track_href": "https://api.spotify.com/v1/tracks/3s3VVLE1kB7Xk2AoJKlGmr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3s3VVLE1kB7Xk2AoJKlGmr",
+        "duration_ms": 217560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7u90MSvVyEjL0c8icaE7jl",
+    "name": "Contra",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 126.007,
+    "features": [
+      {
+        "danceability": 0.804,
+        "energy": 0.823,
+        "key": 8,
+        "loudness": -5.837,
+        "mode": 1,
+        "speechiness": 0.0488,
+        "acousticness": 0.104,
+        "instrumentalness": 0,
+        "liveness": 0.2,
+        "valence": 0.617,
+        "tempo": 126.007,
+        "type": "audio_features",
+        "id": "7u90MSvVyEjL0c8icaE7jl",
+        "uri": "spotify:track:7u90MSvVyEjL0c8icaE7jl",
+        "track_href": "https://api.spotify.com/v1/tracks/7u90MSvVyEjL0c8icaE7jl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7u90MSvVyEjL0c8icaE7jl",
+        "duration_ms": 217147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4fZxGiES1FKbNqJPrI4L3s",
+    "name": "BoomTrap Protocol",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 77.032,
+    "features": [
+      {
+        "danceability": 0.747,
+        "energy": 0.532,
+        "key": 10,
+        "loudness": -5.474,
+        "mode": 0,
+        "speechiness": 0.0394,
+        "acousticness": 0.0549,
+        "instrumentalness": 2.78e-06,
+        "liveness": 0.121,
+        "valence": 0.347,
+        "tempo": 77.032,
+        "type": "audio_features",
+        "id": "4fZxGiES1FKbNqJPrI4L3s",
+        "uri": "spotify:track:4fZxGiES1FKbNqJPrI4L3s",
+        "track_href": "https://api.spotify.com/v1/tracks/4fZxGiES1FKbNqJPrI4L3s",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4fZxGiES1FKbNqJPrI4L3s",
+        "duration_ms": 221360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0D5CXSUx8GOCHSY8KWgi9h",
+    "name": "Yuck",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 156.158,
+    "features": [
+      {
+        "danceability": 0.619,
+        "energy": 0.799,
+        "key": 11,
+        "loudness": -5.517,
+        "mode": 0,
+        "speechiness": 0.379,
+        "acousticness": 0.17,
+        "instrumentalness": 0,
+        "liveness": 0.17,
+        "valence": 0.709,
+        "tempo": 156.158,
+        "type": "audio_features",
+        "id": "0D5CXSUx8GOCHSY8KWgi9h",
+        "uri": "spotify:track:0D5CXSUx8GOCHSY8KWgi9h",
+        "track_href": "https://api.spotify.com/v1/tracks/0D5CXSUx8GOCHSY8KWgi9h",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0D5CXSUx8GOCHSY8KWgi9h",
+        "duration_ms": 173693,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0jqBo5RYn008f4ZY8kPewW",
+    "name": "Indica Badu",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 77.012,
+    "features": [
+      {
+        "danceability": 0.742,
+        "energy": 0.719,
+        "key": 0,
+        "loudness": -2.875,
+        "mode": 1,
+        "speechiness": 0.117,
+        "acousticness": 0.0401,
+        "instrumentalness": 0.000895,
+        "liveness": 0.0839,
+        "valence": 0.969,
+        "tempo": 77.012,
+        "type": "audio_features",
+        "id": "0jqBo5RYn008f4ZY8kPewW",
+        "uri": "spotify:track:0jqBo5RYn008f4ZY8kPewW",
+        "track_href": "https://api.spotify.com/v1/tracks/0jqBo5RYn008f4ZY8kPewW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0jqBo5RYn008f4ZY8kPewW",
+        "duration_ms": 260320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1GtVGc1UYin3zpMUdNSSpM",
+    "name": "Midnight",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 95.056,
+    "features": [
+      {
+        "danceability": 0.568,
+        "energy": 0.607,
+        "key": 9,
+        "loudness": -7.438,
+        "mode": 0,
+        "speechiness": 0.109,
+        "acousticness": 0.0884,
+        "instrumentalness": 0,
+        "liveness": 0.0972,
+        "valence": 0.27,
+        "tempo": 95.056,
+        "type": "audio_features",
+        "id": "1GtVGc1UYin3zpMUdNSSpM",
+        "uri": "spotify:track:1GtVGc1UYin3zpMUdNSSpM",
+        "track_href": "https://api.spotify.com/v1/tracks/1GtVGc1UYin3zpMUdNSSpM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1GtVGc1UYin3zpMUdNSSpM",
+        "duration_ms": 241427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3W4JFzOQdo5J2Wgt9DFg24",
+    "name": "Warm It Up",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 95.965,
+    "features": [
+      {
+        "danceability": 0.827,
+        "energy": 0.643,
+        "key": 10,
+        "loudness": -6.414,
+        "mode": 0,
+        "speechiness": 0.0898,
+        "acousticness": 0.256,
+        "instrumentalness": 0,
+        "liveness": 0.094,
+        "valence": 0.433,
+        "tempo": 95.965,
+        "type": "audio_features",
+        "id": "3W4JFzOQdo5J2Wgt9DFg24",
+        "uri": "spotify:track:3W4JFzOQdo5J2Wgt9DFg24",
+        "track_href": "https://api.spotify.com/v1/tracks/3W4JFzOQdo5J2Wgt9DFg24",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3W4JFzOQdo5J2Wgt9DFg24",
+        "duration_ms": 240093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2ycWek3FNNVHBhz2TcnOzZ",
+    "name": "Wizard Of Oz",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 146.002,
+    "features": [
+      {
+        "danceability": 0.72,
+        "energy": 0.601,
+        "key": 11,
+        "loudness": -6.931,
+        "mode": 0,
+        "speechiness": 0.0377,
+        "acousticness": 0.0481,
+        "instrumentalness": 0,
+        "liveness": 0.0753,
+        "valence": 0.0526,
+        "tempo": 146.002,
+        "type": "audio_features",
+        "id": "2ycWek3FNNVHBhz2TcnOzZ",
+        "uri": "spotify:track:2ycWek3FNNVHBhz2TcnOzZ",
+        "track_href": "https://api.spotify.com/v1/tracks/2ycWek3FNNVHBhz2TcnOzZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ycWek3FNNVHBhz2TcnOzZ",
+        "duration_ms": 144627,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "58cvckETahSOG74RP5WE99",
+    "name": "State Of Emergency",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 173.915,
+    "features": [
+      {
+        "danceability": 0.675,
+        "energy": 0.672,
+        "key": 0,
+        "loudness": -7.527,
+        "mode": 1,
+        "speechiness": 0.284,
+        "acousticness": 0.0836,
+        "instrumentalness": 0,
+        "liveness": 0.12,
+        "valence": 0.63,
+        "tempo": 173.915,
+        "type": "audio_features",
+        "id": "58cvckETahSOG74RP5WE99",
+        "uri": "spotify:track:58cvckETahSOG74RP5WE99",
+        "track_href": "https://api.spotify.com/v1/tracks/58cvckETahSOG74RP5WE99",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/58cvckETahSOG74RP5WE99",
+        "duration_ms": 154373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5KVciTEfXvpcFHR3RFbtJy",
+    "name": "Wassup",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 140.001,
+    "features": [
+      {
+        "danceability": 0.777,
+        "energy": 0.57,
+        "key": 1,
+        "loudness": -6.833,
+        "mode": 1,
+        "speechiness": 0.0471,
+        "acousticness": 0.0869,
+        "instrumentalness": 0,
+        "liveness": 0.121,
+        "valence": 0.322,
+        "tempo": 140.001,
+        "type": "audio_features",
+        "id": "5KVciTEfXvpcFHR3RFbtJy",
+        "uri": "spotify:track:5KVciTEfXvpcFHR3RFbtJy",
+        "track_href": "https://api.spotify.com/v1/tracks/5KVciTEfXvpcFHR3RFbtJy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5KVciTEfXvpcFHR3RFbtJy",
+        "duration_ms": 219480,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4EAV2cKiqKP5UPZmY6dejk",
+    "name": "Everyday",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 149.908,
+    "features": [
+      {
+        "danceability": 0.667,
+        "energy": 0.741,
+        "key": 1,
+        "loudness": -4.099,
+        "mode": 1,
+        "speechiness": 0.0378,
+        "acousticness": 0.0425,
+        "instrumentalness": 0,
+        "liveness": 0.0761,
+        "valence": 0.422,
+        "tempo": 149.908,
+        "type": "audio_features",
+        "id": "4EAV2cKiqKP5UPZmY6dejk",
+        "uri": "spotify:track:4EAV2cKiqKP5UPZmY6dejk",
+        "track_href": "https://api.spotify.com/v1/tracks/4EAV2cKiqKP5UPZmY6dejk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4EAV2cKiqKP5UPZmY6dejk",
+        "duration_ms": 204747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3e7Y6sfFlIdBMJhX7wpqVO",
+    "name": "44 More",
+    "artist": "Logic",
+    "album": "Bobby Tarantino II",
+    "bpm": 139.966,
+    "features": [
+      {
+        "danceability": 0.824,
+        "energy": 0.584,
+        "key": 10,
+        "loudness": -7.098,
+        "mode": 0,
+        "speechiness": 0.219,
+        "acousticness": 0.072,
+        "instrumentalness": 0,
+        "liveness": 0.106,
+        "valence": 0.219,
+        "tempo": 139.966,
+        "type": "audio_features",
+        "id": "3e7Y6sfFlIdBMJhX7wpqVO",
+        "uri": "spotify:track:3e7Y6sfFlIdBMJhX7wpqVO",
+        "track_href": "https://api.spotify.com/v1/tracks/3e7Y6sfFlIdBMJhX7wpqVO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3e7Y6sfFlIdBMJhX7wpqVO",
+        "duration_ms": 188600,
+        "time_signature": 4
+      }
+    ]
+  }
+]

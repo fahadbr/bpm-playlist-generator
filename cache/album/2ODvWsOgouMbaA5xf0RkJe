@@ -1,0 +1,524 @@
+[
+  {
+    "id": "7MXVkk9YMctZqd1Srtv4MB",
+    "name": "Starboy",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 186.003,
+    "features": [
+      {
+        "danceability": 0.679,
+        "energy": 0.587,
+        "key": 7,
+        "loudness": -7.015,
+        "mode": 1,
+        "speechiness": 0.276,
+        "acousticness": 0.141,
+        "instrumentalness": 6.35e-06,
+        "liveness": 0.137,
+        "valence": 0.486,
+        "tempo": 186.003,
+        "type": "audio_features",
+        "id": "7MXVkk9YMctZqd1Srtv4MB",
+        "uri": "spotify:track:7MXVkk9YMctZqd1Srtv4MB",
+        "track_href": "https://api.spotify.com/v1/tracks/7MXVkk9YMctZqd1Srtv4MB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7MXVkk9YMctZqd1Srtv4MB",
+        "duration_ms": 230453,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4F7A0DXBrmUAkp32uenhZt",
+    "name": "Party Monster",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 77.525,
+    "features": [
+      {
+        "danceability": 0.573,
+        "energy": 0.63,
+        "key": 1,
+        "loudness": -8.389,
+        "mode": 1,
+        "speechiness": 0.105,
+        "acousticness": 0.189,
+        "instrumentalness": 2.31e-05,
+        "liveness": 0.259,
+        "valence": 0.218,
+        "tempo": 77.525,
+        "type": "audio_features",
+        "id": "4F7A0DXBrmUAkp32uenhZt",
+        "uri": "spotify:track:4F7A0DXBrmUAkp32uenhZt",
+        "track_href": "https://api.spotify.com/v1/tracks/4F7A0DXBrmUAkp32uenhZt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4F7A0DXBrmUAkp32uenhZt",
+        "duration_ms": 249213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4oeaIftdpT3JuZLcCkKmVE",
+    "name": "False Alarm",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 173.978,
+    "features": [
+      {
+        "danceability": 0.517,
+        "energy": 0.677,
+        "key": 8,
+        "loudness": -6.373,
+        "mode": 0,
+        "speechiness": 0.0746,
+        "acousticness": 0.0324,
+        "instrumentalness": 3.37e-05,
+        "liveness": 0.189,
+        "valence": 0.192,
+        "tempo": 173.978,
+        "type": "audio_features",
+        "id": "4oeaIftdpT3JuZLcCkKmVE",
+        "uri": "spotify:track:4oeaIftdpT3JuZLcCkKmVE",
+        "track_href": "https://api.spotify.com/v1/tracks/4oeaIftdpT3JuZLcCkKmVE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4oeaIftdpT3JuZLcCkKmVE",
+        "duration_ms": 220307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "37F0uwRSrdzkBiuj0D5UHI",
+    "name": "Reminder",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 160.053,
+    "features": [
+      {
+        "danceability": 0.705,
+        "energy": 0.505,
+        "key": 8,
+        "loudness": -6.923,
+        "mode": 1,
+        "speechiness": 0.193,
+        "acousticness": 0.142,
+        "instrumentalness": 0,
+        "liveness": 0.164,
+        "valence": 0.388,
+        "tempo": 160.053,
+        "type": "audio_features",
+        "id": "37F0uwRSrdzkBiuj0D5UHI",
+        "uri": "spotify:track:37F0uwRSrdzkBiuj0D5UHI",
+        "track_href": "https://api.spotify.com/v1/tracks/37F0uwRSrdzkBiuj0D5UHI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/37F0uwRSrdzkBiuj0D5UHI",
+        "duration_ms": 218880,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "36YCdzT57us0LhDmCYtrNE",
+    "name": "Rockin\u2019",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 112.878,
+    "features": [
+      {
+        "danceability": 0.738,
+        "energy": 0.885,
+        "key": 9,
+        "loudness": -5.547,
+        "mode": 0,
+        "speechiness": 0.206,
+        "acousticness": 0.0133,
+        "instrumentalness": 0,
+        "liveness": 0.0821,
+        "valence": 0.752,
+        "tempo": 112.878,
+        "type": "audio_features",
+        "id": "36YCdzT57us0LhDmCYtrNE",
+        "uri": "spotify:track:36YCdzT57us0LhDmCYtrNE",
+        "track_href": "https://api.spotify.com/v1/tracks/36YCdzT57us0LhDmCYtrNE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/36YCdzT57us0LhDmCYtrNE",
+        "duration_ms": 232880,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "00NAQYOP4AmWR549nnYJZu",
+    "name": "Secrets",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 109.949,
+    "features": [
+      {
+        "danceability": 0.664,
+        "energy": 0.771,
+        "key": 0,
+        "loudness": -5.779,
+        "mode": 1,
+        "speechiness": 0.0533,
+        "acousticness": 0.0155,
+        "instrumentalness": 9.6e-06,
+        "liveness": 0.46,
+        "valence": 0.763,
+        "tempo": 109.949,
+        "type": "audio_features",
+        "id": "00NAQYOP4AmWR549nnYJZu",
+        "uri": "spotify:track:00NAQYOP4AmWR549nnYJZu",
+        "track_href": "https://api.spotify.com/v1/tracks/00NAQYOP4AmWR549nnYJZu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/00NAQYOP4AmWR549nnYJZu",
+        "duration_ms": 265600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1oGdVdYjeQvojGKDddxLQQ",
+    "name": "True Colors",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 76.671,
+    "features": [
+      {
+        "danceability": 0.624,
+        "energy": 0.424,
+        "key": 1,
+        "loudness": -8.237,
+        "mode": 1,
+        "speechiness": 0.24,
+        "acousticness": 0.286,
+        "instrumentalness": 0,
+        "liveness": 0.173,
+        "valence": 0.584,
+        "tempo": 76.671,
+        "type": "audio_features",
+        "id": "1oGdVdYjeQvojGKDddxLQQ",
+        "uri": "spotify:track:1oGdVdYjeQvojGKDddxLQQ",
+        "track_href": "https://api.spotify.com/v1/tracks/1oGdVdYjeQvojGKDddxLQQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1oGdVdYjeQvojGKDddxLQQ",
+        "duration_ms": 206013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4EDijkJdHBZZ0GwJ12iTAj",
+    "name": "Stargirl Interlude",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 179.771,
+    "features": [
+      {
+        "danceability": 0.638,
+        "energy": 0.474,
+        "key": 5,
+        "loudness": -12.7,
+        "mode": 0,
+        "speechiness": 0.124,
+        "acousticness": 0.351,
+        "instrumentalness": 0.191,
+        "liveness": 0.105,
+        "valence": 0.441,
+        "tempo": 179.771,
+        "type": "audio_features",
+        "id": "4EDijkJdHBZZ0GwJ12iTAj",
+        "uri": "spotify:track:4EDijkJdHBZZ0GwJ12iTAj",
+        "track_href": "https://api.spotify.com/v1/tracks/4EDijkJdHBZZ0GwJ12iTAj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4EDijkJdHBZZ0GwJ12iTAj",
+        "duration_ms": 111640,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4h90qkbnW1Qq6pBhoPvwko",
+    "name": "Sidewalks",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 149.828,
+    "features": [
+      {
+        "danceability": 0.542,
+        "energy": 0.72,
+        "key": 1,
+        "loudness": -5.136,
+        "mode": 0,
+        "speechiness": 0.0628,
+        "acousticness": 0.147,
+        "instrumentalness": 0,
+        "liveness": 0.348,
+        "valence": 0.623,
+        "tempo": 149.828,
+        "type": "audio_features",
+        "id": "4h90qkbnW1Qq6pBhoPvwko",
+        "uri": "spotify:track:4h90qkbnW1Qq6pBhoPvwko",
+        "track_href": "https://api.spotify.com/v1/tracks/4h90qkbnW1Qq6pBhoPvwko",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4h90qkbnW1Qq6pBhoPvwko",
+        "duration_ms": 231360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4mU5iXHeLgbR94siF7p1sY",
+    "name": "Six Feet Under",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 140.035,
+    "features": [
+      {
+        "danceability": 0.772,
+        "energy": 0.504,
+        "key": 6,
+        "loudness": -8.219,
+        "mode": 0,
+        "speechiness": 0.0761,
+        "acousticness": 0.129,
+        "instrumentalness": 0,
+        "liveness": 0.125,
+        "valence": 0.244,
+        "tempo": 140.035,
+        "type": "audio_features",
+        "id": "4mU5iXHeLgbR94siF7p1sY",
+        "uri": "spotify:track:4mU5iXHeLgbR94siF7p1sY",
+        "track_href": "https://api.spotify.com/v1/tracks/4mU5iXHeLgbR94siF7p1sY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4mU5iXHeLgbR94siF7p1sY",
+        "duration_ms": 237573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "27BgDmciSjoxTG0almHTpZ",
+    "name": "Love To Lay",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 116.971,
+    "features": [
+      {
+        "danceability": 0.711,
+        "energy": 0.807,
+        "key": 7,
+        "loudness": -5.052,
+        "mode": 0,
+        "speechiness": 0.0608,
+        "acousticness": 0.052,
+        "instrumentalness": 0,
+        "liveness": 0.214,
+        "valence": 0.698,
+        "tempo": 116.971,
+        "type": "audio_features",
+        "id": "27BgDmciSjoxTG0almHTpZ",
+        "uri": "spotify:track:27BgDmciSjoxTG0almHTpZ",
+        "track_href": "https://api.spotify.com/v1/tracks/27BgDmciSjoxTG0almHTpZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/27BgDmciSjoxTG0almHTpZ",
+        "duration_ms": 223293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0ifooM33X1iBxVYyOkSbXW",
+    "name": "A Lonely Night",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 113.998,
+    "features": [
+      {
+        "danceability": 0.853,
+        "energy": 0.663,
+        "key": 7,
+        "loudness": -6.955,
+        "mode": 0,
+        "speechiness": 0.0755,
+        "acousticness": 0.0431,
+        "instrumentalness": 8.71e-06,
+        "liveness": 0.0891,
+        "valence": 0.864,
+        "tempo": 113.998,
+        "type": "audio_features",
+        "id": "0ifooM33X1iBxVYyOkSbXW",
+        "uri": "spotify:track:0ifooM33X1iBxVYyOkSbXW",
+        "track_href": "https://api.spotify.com/v1/tracks/0ifooM33X1iBxVYyOkSbXW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ifooM33X1iBxVYyOkSbXW",
+        "duration_ms": 220173,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6pDVjCUA3B1vg9waKutAsv",
+    "name": "Attention",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 148.04,
+    "features": [
+      {
+        "danceability": 0.671,
+        "energy": 0.428,
+        "key": 4,
+        "loudness": -7.052,
+        "mode": 0,
+        "speechiness": 0.124,
+        "acousticness": 0.688,
+        "instrumentalness": 0.000182,
+        "liveness": 0.119,
+        "valence": 0.362,
+        "tempo": 148.04,
+        "type": "audio_features",
+        "id": "6pDVjCUA3B1vg9waKutAsv",
+        "uri": "spotify:track:6pDVjCUA3B1vg9waKutAsv",
+        "track_href": "https://api.spotify.com/v1/tracks/6pDVjCUA3B1vg9waKutAsv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6pDVjCUA3B1vg9waKutAsv",
+        "duration_ms": 197653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "15k2nBQJ0teDmPZHrOXL2N",
+    "name": "Ordinary Life",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 149.748,
+    "features": [
+      {
+        "danceability": 0.537,
+        "energy": 0.587,
+        "key": 7,
+        "loudness": -7.486,
+        "mode": 0,
+        "speechiness": 0.0771,
+        "acousticness": 0.0275,
+        "instrumentalness": 0,
+        "liveness": 0.0961,
+        "valence": 0.365,
+        "tempo": 149.748,
+        "type": "audio_features",
+        "id": "15k2nBQJ0teDmPZHrOXL2N",
+        "uri": "spotify:track:15k2nBQJ0teDmPZHrOXL2N",
+        "track_href": "https://api.spotify.com/v1/tracks/15k2nBQJ0teDmPZHrOXL2N",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/15k2nBQJ0teDmPZHrOXL2N",
+        "duration_ms": 221920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "57qiTKh8bVX0VtfUNTQqhw",
+    "name": "Nothing Without You",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 109.833,
+    "features": [
+      {
+        "danceability": 0.575,
+        "energy": 0.634,
+        "key": 1,
+        "loudness": -8.1,
+        "mode": 1,
+        "speechiness": 0.0681,
+        "acousticness": 0.0646,
+        "instrumentalness": 0,
+        "liveness": 0.0878,
+        "valence": 0.191,
+        "tempo": 109.833,
+        "type": "audio_features",
+        "id": "57qiTKh8bVX0VtfUNTQqhw",
+        "uri": "spotify:track:57qiTKh8bVX0VtfUNTQqhw",
+        "track_href": "https://api.spotify.com/v1/tracks/57qiTKh8bVX0VtfUNTQqhw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/57qiTKh8bVX0VtfUNTQqhw",
+        "duration_ms": 198653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0NWqNXBJTpXbkI5rPWNy3p",
+    "name": "All I Know",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 120.049,
+    "features": [
+      {
+        "danceability": 0.464,
+        "energy": 0.417,
+        "key": 8,
+        "loudness": -10.614,
+        "mode": 0,
+        "speechiness": 0.0786,
+        "acousticness": 0.421,
+        "instrumentalness": 0.000202,
+        "liveness": 0.102,
+        "valence": 0.172,
+        "tempo": 120.049,
+        "type": "audio_features",
+        "id": "0NWqNXBJTpXbkI5rPWNy3p",
+        "uri": "spotify:track:0NWqNXBJTpXbkI5rPWNy3p",
+        "track_href": "https://api.spotify.com/v1/tracks/0NWqNXBJTpXbkI5rPWNy3p",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0NWqNXBJTpXbkI5rPWNy3p",
+        "duration_ms": 321027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2Ch7LmS7r2Gy2kc64wv3Bz",
+    "name": "Die For You",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 133.63,
+    "features": [
+      {
+        "danceability": 0.586,
+        "energy": 0.525,
+        "key": 1,
+        "loudness": -7.163,
+        "mode": 0,
+        "speechiness": 0.0616,
+        "acousticness": 0.111,
+        "instrumentalness": 0,
+        "liveness": 0.134,
+        "valence": 0.507,
+        "tempo": 133.63,
+        "type": "audio_features",
+        "id": "2Ch7LmS7r2Gy2kc64wv3Bz",
+        "uri": "spotify:track:2Ch7LmS7r2Gy2kc64wv3Bz",
+        "track_href": "https://api.spotify.com/v1/tracks/2Ch7LmS7r2Gy2kc64wv3Bz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Ch7LmS7r2Gy2kc64wv3Bz",
+        "duration_ms": 260253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3dhjNA0jGA8vHBQ1VdD6vV",
+    "name": "I Feel It Coming",
+    "artist": "The Weeknd",
+    "album": "Starboy",
+    "bpm": 92.987,
+    "features": [
+      {
+        "danceability": 0.773,
+        "energy": 0.819,
+        "key": 0,
+        "loudness": -5.946,
+        "mode": 0,
+        "speechiness": 0.118,
+        "acousticness": 0.428,
+        "instrumentalness": 0,
+        "liveness": 0.0679,
+        "valence": 0.585,
+        "tempo": 92.987,
+        "type": "audio_features",
+        "id": "3dhjNA0jGA8vHBQ1VdD6vV",
+        "uri": "spotify:track:3dhjNA0jGA8vHBQ1VdD6vV",
+        "track_href": "https://api.spotify.com/v1/tracks/3dhjNA0jGA8vHBQ1VdD6vV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3dhjNA0jGA8vHBQ1VdD6vV",
+        "duration_ms": 269187,
+        "time_signature": 4
+      }
+    ]
+  }
+]

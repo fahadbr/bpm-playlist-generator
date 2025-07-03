@@ -1,0 +1,379 @@
+[
+  {
+    "id": "2jt2WxXMCD4zjACthkJQVE",
+    "name": "The Ringer",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 118.552,
+    "features": [
+      {
+        "danceability": 0.939,
+        "energy": 0.551,
+        "key": 1,
+        "loudness": -9.126,
+        "mode": 1,
+        "speechiness": 0.291,
+        "acousticness": 0.0311,
+        "instrumentalness": 0,
+        "liveness": 0.192,
+        "valence": 0.42,
+        "tempo": 118.552,
+        "type": "audio_features",
+        "id": "2jt2WxXMCD4zjACthkJQVE",
+        "uri": "spotify:track:2jt2WxXMCD4zjACthkJQVE",
+        "track_href": "https://api.spotify.com/v1/tracks/2jt2WxXMCD4zjACthkJQVE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2jt2WxXMCD4zjACthkJQVE",
+        "duration_ms": 337941,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2XTquzYQAdT1Hk78bOUwsv",
+    "name": "Greatest",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 80.025,
+    "features": [
+      {
+        "danceability": 0.809,
+        "energy": 0.737,
+        "key": 1,
+        "loudness": -5.186,
+        "mode": 1,
+        "speechiness": 0.108,
+        "acousticness": 0.0441,
+        "instrumentalness": 0,
+        "liveness": 0.341,
+        "valence": 0.367,
+        "tempo": 80.025,
+        "type": "audio_features",
+        "id": "2XTquzYQAdT1Hk78bOUwsv",
+        "uri": "spotify:track:2XTquzYQAdT1Hk78bOUwsv",
+        "track_href": "https://api.spotify.com/v1/tracks/2XTquzYQAdT1Hk78bOUwsv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2XTquzYQAdT1Hk78bOUwsv",
+        "duration_ms": 226938,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "60SdxE8apGAxMiRrpbmLY0",
+    "name": "Lucky You (feat. Joyner Lucas)",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 153.068,
+    "features": [
+      {
+        "danceability": 0.876,
+        "energy": 0.786,
+        "key": 10,
+        "loudness": -4.884,
+        "mode": 0,
+        "speechiness": 0.306,
+        "acousticness": 0.0627,
+        "instrumentalness": 0,
+        "liveness": 0.127,
+        "valence": 0.575,
+        "tempo": 153.068,
+        "type": "audio_features",
+        "id": "60SdxE8apGAxMiRrpbmLY0",
+        "uri": "spotify:track:60SdxE8apGAxMiRrpbmLY0",
+        "track_href": "https://api.spotify.com/v1/tracks/60SdxE8apGAxMiRrpbmLY0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/60SdxE8apGAxMiRrpbmLY0",
+        "duration_ms": 244679,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Uv5Kp8sEnriJjkX4oLfNI",
+    "name": "Paul - Skit",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 161.68,
+    "features": [
+      {
+        "danceability": 0.636,
+        "energy": 0.335,
+        "key": 11,
+        "loudness": -13.327,
+        "mode": 1,
+        "speechiness": 0.966,
+        "acousticness": 0.993,
+        "instrumentalness": 0,
+        "liveness": 0.342,
+        "valence": 0.561,
+        "tempo": 161.68,
+        "type": "audio_features",
+        "id": "0Uv5Kp8sEnriJjkX4oLfNI",
+        "uri": "spotify:track:0Uv5Kp8sEnriJjkX4oLfNI",
+        "track_href": "https://api.spotify.com/v1/tracks/0Uv5Kp8sEnriJjkX4oLfNI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Uv5Kp8sEnriJjkX4oLfNI",
+        "duration_ms": 35240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0evt4UZbdhnHtcAnxkm6A1",
+    "name": "Normal",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 120.995,
+    "features": [
+      {
+        "danceability": 0.907,
+        "energy": 0.64,
+        "key": 6,
+        "loudness": -6.542,
+        "mode": 1,
+        "speechiness": 0.354,
+        "acousticness": 0.261,
+        "instrumentalness": 0,
+        "liveness": 0.0785,
+        "valence": 0.803,
+        "tempo": 120.995,
+        "type": "audio_features",
+        "id": "0evt4UZbdhnHtcAnxkm6A1",
+        "uri": "spotify:track:0evt4UZbdhnHtcAnxkm6A1",
+        "track_href": "https://api.spotify.com/v1/tracks/0evt4UZbdhnHtcAnxkm6A1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0evt4UZbdhnHtcAnxkm6A1",
+        "duration_ms": 222477,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6B3zy3LOKHndqsviCr2z15",
+    "name": "Em Calls Paul - Skit",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 104.014,
+    "features": [
+      {
+        "danceability": 0.707,
+        "energy": 0.314,
+        "key": 6,
+        "loudness": -10.115,
+        "mode": 0,
+        "speechiness": 0.747,
+        "acousticness": 0.977,
+        "instrumentalness": 0,
+        "liveness": 0.109,
+        "valence": 0.602,
+        "tempo": 104.014,
+        "type": "audio_features",
+        "id": "6B3zy3LOKHndqsviCr2z15",
+        "uri": "spotify:track:6B3zy3LOKHndqsviCr2z15",
+        "track_href": "https://api.spotify.com/v1/tracks/6B3zy3LOKHndqsviCr2z15",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6B3zy3LOKHndqsviCr2z15",
+        "duration_ms": 49024,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "60Z57Wdrn0pEVpHI7d7GAX",
+    "name": "Stepping Stone",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 179.503,
+    "features": [
+      {
+        "danceability": 0.616,
+        "energy": 0.684,
+        "key": 7,
+        "loudness": -6.032,
+        "mode": 1,
+        "speechiness": 0.311,
+        "acousticness": 0.0305,
+        "instrumentalness": 0,
+        "liveness": 0.376,
+        "valence": 0.312,
+        "tempo": 179.503,
+        "type": "audio_features",
+        "id": "60Z57Wdrn0pEVpHI7d7GAX",
+        "uri": "spotify:track:60Z57Wdrn0pEVpHI7d7GAX",
+        "track_href": "https://api.spotify.com/v1/tracks/60Z57Wdrn0pEVpHI7d7GAX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/60Z57Wdrn0pEVpHI7d7GAX",
+        "duration_ms": 309638,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "28FGV3ORH14MYORd7s5dlU",
+    "name": "Not Alike (feat. Royce Da 5'9)",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 140.005,
+    "features": [
+      {
+        "danceability": 0.904,
+        "energy": 0.756,
+        "key": 10,
+        "loudness": -3.746,
+        "mode": 1,
+        "speechiness": 0.32,
+        "acousticness": 0.0692,
+        "instrumentalness": 0,
+        "liveness": 0.339,
+        "valence": 0.342,
+        "tempo": 140.005,
+        "type": "audio_features",
+        "id": "28FGV3ORH14MYORd7s5dlU",
+        "uri": "spotify:track:28FGV3ORH14MYORd7s5dlU",
+        "track_href": "https://api.spotify.com/v1/tracks/28FGV3ORH14MYORd7s5dlU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/28FGV3ORH14MYORd7s5dlU",
+        "duration_ms": 288087,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2gsNpSn7VvvJuSrIDfRoYy",
+    "name": "Kamikaze",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 79.982,
+    "features": [
+      {
+        "danceability": 0.78,
+        "energy": 0.808,
+        "key": 2,
+        "loudness": -5.175,
+        "mode": 1,
+        "speechiness": 0.484,
+        "acousticness": 0.112,
+        "instrumentalness": 0,
+        "liveness": 0.329,
+        "valence": 0.642,
+        "tempo": 79.982,
+        "type": "audio_features",
+        "id": "2gsNpSn7VvvJuSrIDfRoYy",
+        "uri": "spotify:track:2gsNpSn7VvvJuSrIDfRoYy",
+        "track_href": "https://api.spotify.com/v1/tracks/2gsNpSn7VvvJuSrIDfRoYy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gsNpSn7VvvJuSrIDfRoYy",
+        "duration_ms": 216029,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "58QhkbaAkLFnn7JwAnAato",
+    "name": "Fall",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 182.973,
+    "features": [
+      {
+        "danceability": 0.83,
+        "energy": 0.546,
+        "key": 1,
+        "loudness": -5.716,
+        "mode": 1,
+        "speechiness": 0.295,
+        "acousticness": 0.227,
+        "instrumentalness": 0,
+        "liveness": 0.112,
+        "valence": 0.535,
+        "tempo": 182.973,
+        "type": "audio_features",
+        "id": "58QhkbaAkLFnn7JwAnAato",
+        "uri": "spotify:track:58QhkbaAkLFnn7JwAnAato",
+        "track_href": "https://api.spotify.com/v1/tracks/58QhkbaAkLFnn7JwAnAato",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/58QhkbaAkLFnn7JwAnAato",
+        "duration_ms": 262494,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "09FfQO3PqHO4HIJL511Ksi",
+    "name": "Nice Guy (with Jessie Reyez)",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 139.226,
+    "features": [
+      {
+        "danceability": 0.65,
+        "energy": 0.639,
+        "key": 8,
+        "loudness": -5.962,
+        "mode": 1,
+        "speechiness": 0.458,
+        "acousticness": 0.0942,
+        "instrumentalness": 0,
+        "liveness": 0.135,
+        "valence": 0.563,
+        "tempo": 139.226,
+        "type": "audio_features",
+        "id": "09FfQO3PqHO4HIJL511Ksi",
+        "uri": "spotify:track:09FfQO3PqHO4HIJL511Ksi",
+        "track_href": "https://api.spotify.com/v1/tracks/09FfQO3PqHO4HIJL511Ksi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/09FfQO3PqHO4HIJL511Ksi",
+        "duration_ms": 150802,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4g32MdRoqwGKQd3NXIRhpU",
+    "name": "Good Guy (feat. Jessie Reyez)",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 89.973,
+    "features": [
+      {
+        "danceability": 0.696,
+        "energy": 0.634,
+        "key": 9,
+        "loudness": -6.918,
+        "mode": 0,
+        "speechiness": 0.281,
+        "acousticness": 0.244,
+        "instrumentalness": 0,
+        "liveness": 0.437,
+        "valence": 0.728,
+        "tempo": 89.973,
+        "type": "audio_features",
+        "id": "4g32MdRoqwGKQd3NXIRhpU",
+        "uri": "spotify:track:4g32MdRoqwGKQd3NXIRhpU",
+        "track_href": "https://api.spotify.com/v1/tracks/4g32MdRoqwGKQd3NXIRhpU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4g32MdRoqwGKQd3NXIRhpU",
+        "duration_ms": 142192,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2SL6oP2YAEQbqsrkOzRGO4",
+    "name": "Venom - Music From The Motion Picture",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 135.959,
+    "features": [
+      {
+        "danceability": 0.749,
+        "energy": 0.794,
+        "key": 0,
+        "loudness": -5.063,
+        "mode": 1,
+        "speechiness": 0.064,
+        "acousticness": 0.0193,
+        "instrumentalness": 0,
+        "liveness": 0.543,
+        "valence": 0.46,
+        "tempo": 135.959,
+        "type": "audio_features",
+        "id": "2SL6oP2YAEQbqsrkOzRGO4",
+        "uri": "spotify:track:2SL6oP2YAEQbqsrkOzRGO4",
+        "track_href": "https://api.spotify.com/v1/tracks/2SL6oP2YAEQbqsrkOzRGO4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2SL6oP2YAEQbqsrkOzRGO4",
+        "duration_ms": 269554,
+        "time_signature": 4
+      }
+    ]
+  }
+]

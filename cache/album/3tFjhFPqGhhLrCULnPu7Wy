@@ -1,0 +1,437 @@
+[
+  {
+    "id": "1BzXvBpIFWJgu0P8P6xmP4",
+    "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 118.574,
+    "features": [
+      {
+        "danceability": 0.671,
+        "energy": 0.857,
+        "key": 7,
+        "loudness": -5.435,
+        "mode": 1,
+        "speechiness": 0.292,
+        "acousticness": 0.266,
+        "instrumentalness": 0,
+        "liveness": 0.668,
+        "valence": 0.597,
+        "tempo": 118.574,
+        "type": "audio_features",
+        "id": "1BzXvBpIFWJgu0P8P6xmP4",
+        "uri": "spotify:track:1BzXvBpIFWJgu0P8P6xmP4",
+        "track_href": "https://api.spotify.com/v1/tracks/1BzXvBpIFWJgu0P8P6xmP4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1BzXvBpIFWJgu0P8P6xmP4",
+        "duration_ms": 309323,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7Gn7HA4yOHKXDo6vHCiNXV",
+    "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 122.754,
+    "features": [
+      {
+        "danceability": 0.842,
+        "energy": 0.403,
+        "key": 10,
+        "loudness": -8.087,
+        "mode": 1,
+        "speechiness": 0.583,
+        "acousticness": 0.495,
+        "instrumentalness": 0,
+        "liveness": 0.359,
+        "valence": 0.584,
+        "tempo": 122.754,
+        "type": "audio_features",
+        "id": "7Gn7HA4yOHKXDo6vHCiNXV",
+        "uri": "spotify:track:7Gn7HA4yOHKXDo6vHCiNXV",
+        "track_href": "https://api.spotify.com/v1/tracks/7Gn7HA4yOHKXDo6vHCiNXV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7Gn7HA4yOHKXDo6vHCiNXV",
+        "duration_ms": 173589,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0URbdJpIV9B54W2d9yeMwt",
+    "name": "Lifestyle (with Bas feat. A$AP Ferg)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 145.937,
+    "features": [
+      {
+        "danceability": 0.832,
+        "energy": 0.7,
+        "key": 0,
+        "loudness": -6.005,
+        "mode": 0,
+        "speechiness": 0.0491,
+        "acousticness": 0.12,
+        "instrumentalness": 0,
+        "liveness": 0.239,
+        "valence": 0.586,
+        "tempo": 145.937,
+        "type": "audio_features",
+        "id": "0URbdJpIV9B54W2d9yeMwt",
+        "uri": "spotify:track:0URbdJpIV9B54W2d9yeMwt",
+        "track_href": "https://api.spotify.com/v1/tracks/0URbdJpIV9B54W2d9yeMwt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0URbdJpIV9B54W2d9yeMwt",
+        "duration_ms": 166776,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2OSsmzINPSwQ1hLoMH70Rj",
+    "name": "Starting 5 (with Lute, Cozz & Omen)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 82.776,
+    "features": [
+      {
+        "danceability": 0.504,
+        "energy": 0.636,
+        "key": 1,
+        "loudness": -12.926,
+        "mode": 1,
+        "speechiness": 0.399,
+        "acousticness": 0.253,
+        "instrumentalness": 0,
+        "liveness": 0.211,
+        "valence": 0.713,
+        "tempo": 82.776,
+        "type": "audio_features",
+        "id": "2OSsmzINPSwQ1hLoMH70Rj",
+        "uri": "spotify:track:2OSsmzINPSwQ1hLoMH70Rj",
+        "track_href": "https://api.spotify.com/v1/tracks/2OSsmzINPSwQ1hLoMH70Rj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2OSsmzINPSwQ1hLoMH70Rj",
+        "duration_ms": 270045,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3p2HpO3ZgvFs97L15hGZOn",
+    "name": "Coming Down (with Ari Lennox)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 125.981,
+    "features": [
+      {
+        "danceability": 0.813,
+        "energy": 0.6,
+        "key": 9,
+        "loudness": -6.769,
+        "mode": 0,
+        "speechiness": 0.0602,
+        "acousticness": 0.115,
+        "instrumentalness": 1.34e-05,
+        "liveness": 0.159,
+        "valence": 0.622,
+        "tempo": 125.981,
+        "type": "audio_features",
+        "id": "3p2HpO3ZgvFs97L15hGZOn",
+        "uri": "spotify:track:3p2HpO3ZgvFs97L15hGZOn",
+        "track_href": "https://api.spotify.com/v1/tracks/3p2HpO3ZgvFs97L15hGZOn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3p2HpO3ZgvFs97L15hGZOn",
+        "duration_ms": 156944,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7eheBzQNeMd0ZxU3HoXltE",
+    "name": "Hair Salon (with Cozz feat. G Perico & Reason)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 75.027,
+    "features": [
+      {
+        "danceability": 0.672,
+        "energy": 0.83,
+        "key": 2,
+        "loudness": -6.125,
+        "mode": 1,
+        "speechiness": 0.335,
+        "acousticness": 0.369,
+        "instrumentalness": 0,
+        "liveness": 0.12,
+        "valence": 0.659,
+        "tempo": 75.027,
+        "type": "audio_features",
+        "id": "7eheBzQNeMd0ZxU3HoXltE",
+        "uri": "spotify:track:7eheBzQNeMd0ZxU3HoXltE",
+        "track_href": "https://api.spotify.com/v1/tracks/7eheBzQNeMd0ZxU3HoXltE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7eheBzQNeMd0ZxU3HoXltE",
+        "duration_ms": 193574,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5pQZullzXsixizZmBcmXhy",
+    "name": "Freedom of Speech (with J. Cole)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 90.809,
+    "features": [
+      {
+        "danceability": 0.611,
+        "energy": 0.697,
+        "key": 1,
+        "loudness": -6.317,
+        "mode": 1,
+        "speechiness": 0.378,
+        "acousticness": 0.125,
+        "instrumentalness": 0,
+        "liveness": 0.158,
+        "valence": 0.478,
+        "tempo": 90.809,
+        "type": "audio_features",
+        "id": "5pQZullzXsixizZmBcmXhy",
+        "uri": "spotify:track:5pQZullzXsixizZmBcmXhy",
+        "track_href": "https://api.spotify.com/v1/tracks/5pQZullzXsixizZmBcmXhy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5pQZullzXsixizZmBcmXhy",
+        "duration_ms": 131909,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "5xpU73nutoJizKpX3TZRhS",
+    "name": "Blackberry Sap (with Ari Lennox)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 125.96,
+    "features": [
+      {
+        "danceability": 0.777,
+        "energy": 0.551,
+        "key": 2,
+        "loudness": -7.774,
+        "mode": 1,
+        "speechiness": 0.0907,
+        "acousticness": 0.126,
+        "instrumentalness": 0,
+        "liveness": 0.0957,
+        "valence": 0.674,
+        "tempo": 125.96,
+        "type": "audio_features",
+        "id": "5xpU73nutoJizKpX3TZRhS",
+        "uri": "spotify:track:5xpU73nutoJizKpX3TZRhS",
+        "track_href": "https://api.spotify.com/v1/tracks/5xpU73nutoJizKpX3TZRhS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5xpU73nutoJizKpX3TZRhS",
+        "duration_ms": 149739,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2hflEM2ceD3eYZvxglqo5S",
+    "name": "Like Wine (with Lute)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 111.657,
+    "features": [
+      {
+        "danceability": 0.742,
+        "energy": 0.584,
+        "key": 6,
+        "loudness": -8.24,
+        "mode": 1,
+        "speechiness": 0.429,
+        "acousticness": 0.127,
+        "instrumentalness": 0,
+        "liveness": 0.114,
+        "valence": 0.53,
+        "tempo": 111.657,
+        "type": "audio_features",
+        "id": "2hflEM2ceD3eYZvxglqo5S",
+        "uri": "spotify:track:2hflEM2ceD3eYZvxglqo5S",
+        "track_href": "https://api.spotify.com/v1/tracks/2hflEM2ceD3eYZvxglqo5S",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2hflEM2ceD3eYZvxglqo5S",
+        "duration_ms": 155192,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0T7zFfMGZ5rQEH4VPbNJln",
+    "name": "Jozi Flows (with Bas & EARTHGANG)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 132.022,
+    "features": [
+      {
+        "danceability": 0.79,
+        "energy": 0.309,
+        "key": 8,
+        "loudness": -8.481,
+        "mode": 1,
+        "speechiness": 0.235,
+        "acousticness": 0.386,
+        "instrumentalness": 0,
+        "liveness": 0.174,
+        "valence": 0.33,
+        "tempo": 132.022,
+        "type": "audio_features",
+        "id": "0T7zFfMGZ5rQEH4VPbNJln",
+        "uri": "spotify:track:0T7zFfMGZ5rQEH4VPbNJln",
+        "track_href": "https://api.spotify.com/v1/tracks/0T7zFfMGZ5rQEH4VPbNJln",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0T7zFfMGZ5rQEH4VPbNJln",
+        "duration_ms": 175779,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4m3u9rV6KkVemoL5NFqXem",
+    "name": "Barry From Simpson (with JID feat. 2 Chainz & Young Nudy)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 126.983,
+    "features": [
+      {
+        "danceability": 0.746,
+        "energy": 0.52,
+        "key": 1,
+        "loudness": -6.687,
+        "mode": 1,
+        "speechiness": 0.423,
+        "acousticness": 0.104,
+        "instrumentalness": 0,
+        "liveness": 0.301,
+        "valence": 0.445,
+        "tempo": 126.983,
+        "type": "audio_features",
+        "id": "4m3u9rV6KkVemoL5NFqXem",
+        "uri": "spotify:track:4m3u9rV6KkVemoL5NFqXem",
+        "track_href": "https://api.spotify.com/v1/tracks/4m3u9rV6KkVemoL5NFqXem",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4m3u9rV6KkVemoL5NFqXem",
+        "duration_ms": 197535,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5twFAWoVedKgYZrswt1JIn",
+    "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 199.864,
+    "features": [
+      {
+        "danceability": 0.686,
+        "energy": 0.598,
+        "key": 1,
+        "loudness": -6.983,
+        "mode": 1,
+        "speechiness": 0.391,
+        "acousticness": 0.00618,
+        "instrumentalness": 0,
+        "liveness": 0.14,
+        "valence": 0.318,
+        "tempo": 199.864,
+        "type": "audio_features",
+        "id": "5twFAWoVedKgYZrswt1JIn",
+        "uri": "spotify:track:5twFAWoVedKgYZrswt1JIn",
+        "track_href": "https://api.spotify.com/v1/tracks/5twFAWoVedKgYZrswt1JIn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5twFAWoVedKgYZrswt1JIn",
+        "duration_ms": 203419,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1KsHmftDAysEtLpDK1o6Y9",
+    "name": "Ballin in Newport (with Omen)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 80.668,
+    "features": [
+      {
+        "danceability": 0.558,
+        "energy": 0.752,
+        "key": 10,
+        "loudness": -8.347,
+        "mode": 0,
+        "speechiness": 0.314,
+        "acousticness": 0.584,
+        "instrumentalness": 0,
+        "liveness": 0.53,
+        "valence": 0.705,
+        "tempo": 80.668,
+        "type": "audio_features",
+        "id": "1KsHmftDAysEtLpDK1o6Y9",
+        "uri": "spotify:track:1KsHmftDAysEtLpDK1o6Y9",
+        "track_href": "https://api.spotify.com/v1/tracks/1KsHmftDAysEtLpDK1o6Y9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1KsHmftDAysEtLpDK1o6Y9",
+        "duration_ms": 212800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3K7CM76wcnUmzShCPH6q7A",
+    "name": "Big Trouble Freestyle (with Cozz)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 91.633,
+    "features": [
+      {
+        "danceability": 0.822,
+        "energy": 0.793,
+        "key": 6,
+        "loudness": -5.877,
+        "mode": 0,
+        "speechiness": 0.356,
+        "acousticness": 0.133,
+        "instrumentalness": 0,
+        "liveness": 0.0517,
+        "valence": 0.935,
+        "tempo": 91.633,
+        "type": "audio_features",
+        "id": "3K7CM76wcnUmzShCPH6q7A",
+        "uri": "spotify:track:3K7CM76wcnUmzShCPH6q7A",
+        "track_href": "https://api.spotify.com/v1/tracks/3K7CM76wcnUmzShCPH6q7A",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3K7CM76wcnUmzShCPH6q7A",
+        "duration_ms": 163150,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "19h1LNf7idduUW3jBeswB8",
+    "name": "Heaven\u2019s EP (with J. Cole)",
+    "artist": "Dreamville",
+    "album": "D-Day: A Gangsta Grillz Mixtape",
+    "bpm": 77.977,
+    "features": [
+      {
+        "danceability": 0.686,
+        "energy": 0.667,
+        "key": 2,
+        "loudness": -7.284,
+        "mode": 1,
+        "speechiness": 0.426,
+        "acousticness": 0.296,
+        "instrumentalness": 0,
+        "liveness": 0.218,
+        "valence": 0.667,
+        "tempo": 77.977,
+        "type": "audio_features",
+        "id": "19h1LNf7idduUW3jBeswB8",
+        "uri": "spotify:track:19h1LNf7idduUW3jBeswB8",
+        "track_href": "https://api.spotify.com/v1/tracks/19h1LNf7idduUW3jBeswB8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/19h1LNf7idduUW3jBeswB8",
+        "duration_ms": 178292,
+        "time_signature": 4
+      }
+    ]
+  }
+]

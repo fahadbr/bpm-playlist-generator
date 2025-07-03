@@ -1,0 +1,292 @@
+[
+  {
+    "id": "3QLxvooYNnQF4JrsksKyW1",
+    "name": "Allure",
+    "artist": "Skyharbor",
+    "album": "Guiding Lights",
+    "bpm": 96.129,
+    "features": [
+      {
+        "danceability": 0.502,
+        "energy": 0.877,
+        "key": 7,
+        "loudness": -5.265,
+        "mode": 1,
+        "speechiness": 0.0434,
+        "acousticness": 0.000152,
+        "instrumentalness": 0.515,
+        "liveness": 0.106,
+        "valence": 0.513,
+        "tempo": 96.129,
+        "type": "audio_features",
+        "id": "3QLxvooYNnQF4JrsksKyW1",
+        "uri": "spotify:track:3QLxvooYNnQF4JrsksKyW1",
+        "track_href": "https://api.spotify.com/v1/tracks/3QLxvooYNnQF4JrsksKyW1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3QLxvooYNnQF4JrsksKyW1",
+        "duration_ms": 406240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "02rnsF5okjvxYqzeIBmKqn",
+    "name": "Evolution",
+    "artist": "Skyharbor",
+    "album": "Guiding Lights",
+    "bpm": 70.437,
+    "features": [
+      {
+        "danceability": 0.161,
+        "energy": 0.871,
+        "key": 1,
+        "loudness": -5.592,
+        "mode": 0,
+        "speechiness": 0.108,
+        "acousticness": 0.000306,
+        "instrumentalness": 0.0124,
+        "liveness": 0.127,
+        "valence": 0.156,
+        "tempo": 70.437,
+        "type": "audio_features",
+        "id": "02rnsF5okjvxYqzeIBmKqn",
+        "uri": "spotify:track:02rnsF5okjvxYqzeIBmKqn",
+        "track_href": "https://api.spotify.com/v1/tracks/02rnsF5okjvxYqzeIBmKqn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/02rnsF5okjvxYqzeIBmKqn",
+        "duration_ms": 339253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4Xft6336V19L76X2Oub80E",
+    "name": "Idle Minds",
+    "artist": "Skyharbor",
+    "album": "Guiding Lights",
+    "bpm": 160.009,
+    "features": [
+      {
+        "danceability": 0.401,
+        "energy": 0.876,
+        "key": 9,
+        "loudness": -5.178,
+        "mode": 1,
+        "speechiness": 0.0708,
+        "acousticness": 0.000984,
+        "instrumentalness": 0.0671,
+        "liveness": 0.0665,
+        "valence": 0.134,
+        "tempo": 160.009,
+        "type": "audio_features",
+        "id": "4Xft6336V19L76X2Oub80E",
+        "uri": "spotify:track:4Xft6336V19L76X2Oub80E",
+        "track_href": "https://api.spotify.com/v1/tracks/4Xft6336V19L76X2Oub80E",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Xft6336V19L76X2Oub80E",
+        "duration_ms": 466027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "07oKOs6qR44vy6olmUkyCh",
+    "name": "Miracle",
+    "artist": "Skyharbor",
+    "album": "Guiding Lights",
+    "bpm": 176.007,
+    "features": [
+      {
+        "danceability": 0.335,
+        "energy": 0.813,
+        "key": 4,
+        "loudness": -5.636,
+        "mode": 1,
+        "speechiness": 0.0645,
+        "acousticness": 0.00113,
+        "instrumentalness": 0.0111,
+        "liveness": 0.0983,
+        "valence": 0.0552,
+        "tempo": 176.007,
+        "type": "audio_features",
+        "id": "07oKOs6qR44vy6olmUkyCh",
+        "uri": "spotify:track:07oKOs6qR44vy6olmUkyCh",
+        "track_href": "https://api.spotify.com/v1/tracks/07oKOs6qR44vy6olmUkyCh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/07oKOs6qR44vy6olmUkyCh",
+        "duration_ms": 359307,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "71vEyNOYbYBjnjeOZl3sso",
+    "name": "Halogen",
+    "artist": "Skyharbor",
+    "album": "Guiding Lights",
+    "bpm": 144.977,
+    "features": [
+      {
+        "danceability": 0.288,
+        "energy": 0.713,
+        "key": 9,
+        "loudness": -6.7,
+        "mode": 0,
+        "speechiness": 0.0482,
+        "acousticness": 0.00256,
+        "instrumentalness": 0.157,
+        "liveness": 0.401,
+        "valence": 0.174,
+        "tempo": 144.977,
+        "type": "audio_features",
+        "id": "71vEyNOYbYBjnjeOZl3sso",
+        "uri": "spotify:track:71vEyNOYbYBjnjeOZl3sso",
+        "track_href": "https://api.spotify.com/v1/tracks/71vEyNOYbYBjnjeOZl3sso",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/71vEyNOYbYBjnjeOZl3sso",
+        "duration_ms": 422293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2xgM9H52SdJWqArdn4i4H4",
+    "name": "New Devil",
+    "artist": "Skyharbor",
+    "album": "Guiding Lights",
+    "bpm": 86.27,
+    "features": [
+      {
+        "danceability": 0.21,
+        "energy": 0.89,
+        "key": 5,
+        "loudness": -5.763,
+        "mode": 1,
+        "speechiness": 0.0728,
+        "acousticness": 0.000212,
+        "instrumentalness": 0.791,
+        "liveness": 0.12,
+        "valence": 0.0397,
+        "tempo": 86.27,
+        "type": "audio_features",
+        "id": "2xgM9H52SdJWqArdn4i4H4",
+        "uri": "spotify:track:2xgM9H52SdJWqArdn4i4H4",
+        "track_href": "https://api.spotify.com/v1/tracks/2xgM9H52SdJWqArdn4i4H4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2xgM9H52SdJWqArdn4i4H4",
+        "duration_ms": 415173,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "3XPcXwMAJSbHs2Tpl0BZZs",
+    "name": "Patience",
+    "artist": "Skyharbor",
+    "album": "Guiding Lights",
+    "bpm": 132.024,
+    "features": [
+      {
+        "danceability": 0.425,
+        "energy": 0.491,
+        "key": 0,
+        "loudness": -7.4,
+        "mode": 1,
+        "speechiness": 0.0337,
+        "acousticness": 0.265,
+        "instrumentalness": 1.89e-05,
+        "liveness": 0.107,
+        "valence": 0.0353,
+        "tempo": 132.024,
+        "type": "audio_features",
+        "id": "3XPcXwMAJSbHs2Tpl0BZZs",
+        "uri": "spotify:track:3XPcXwMAJSbHs2Tpl0BZZs",
+        "track_href": "https://api.spotify.com/v1/tracks/3XPcXwMAJSbHs2Tpl0BZZs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3XPcXwMAJSbHs2Tpl0BZZs",
+        "duration_ms": 282520,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7pIINQMtmmVyKjKVwITDiM",
+    "name": "Guiding Lights",
+    "artist": "Skyharbor",
+    "album": "Guiding Lights",
+    "bpm": 122.984,
+    "features": [
+      {
+        "danceability": 0.385,
+        "energy": 0.624,
+        "key": 2,
+        "loudness": -7.426,
+        "mode": 0,
+        "speechiness": 0.0372,
+        "acousticness": 0.0434,
+        "instrumentalness": 0.1,
+        "liveness": 0.141,
+        "valence": 0.105,
+        "tempo": 122.984,
+        "type": "audio_features",
+        "id": "7pIINQMtmmVyKjKVwITDiM",
+        "uri": "spotify:track:7pIINQMtmmVyKjKVwITDiM",
+        "track_href": "https://api.spotify.com/v1/tracks/7pIINQMtmmVyKjKVwITDiM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7pIINQMtmmVyKjKVwITDiM",
+        "duration_ms": 562787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1x6WVxYr4JrJ1tU6iIqDLe",
+    "name": "Kaikoma",
+    "artist": "Skyharbor",
+    "album": "Guiding Lights",
+    "bpm": 108.0,
+    "features": [
+      {
+        "danceability": 0.475,
+        "energy": 0.915,
+        "key": 4,
+        "loudness": -4.012,
+        "mode": 1,
+        "speechiness": 0.0722,
+        "acousticness": 2.18e-05,
+        "instrumentalness": 0.00656,
+        "liveness": 0.221,
+        "valence": 0.175,
+        "tempo": 108.0,
+        "type": "audio_features",
+        "id": "1x6WVxYr4JrJ1tU6iIqDLe",
+        "uri": "spotify:track:1x6WVxYr4JrJ1tU6iIqDLe",
+        "track_href": "https://api.spotify.com/v1/tracks/1x6WVxYr4JrJ1tU6iIqDLe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1x6WVxYr4JrJ1tU6iIqDLe",
+        "duration_ms": 277240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4IQOnf7HxJP1pWXuFbCSJU",
+    "name": "The Constant",
+    "artist": "Skyharbor",
+    "album": "Guiding Lights",
+    "bpm": 192.955,
+    "features": [
+      {
+        "danceability": 0.156,
+        "energy": 0.877,
+        "key": 6,
+        "loudness": -6.118,
+        "mode": 0,
+        "speechiness": 0.105,
+        "acousticness": 0.00652,
+        "instrumentalness": 0.0171,
+        "liveness": 0.0925,
+        "valence": 0.112,
+        "tempo": 192.955,
+        "type": "audio_features",
+        "id": "4IQOnf7HxJP1pWXuFbCSJU",
+        "uri": "spotify:track:4IQOnf7HxJP1pWXuFbCSJU",
+        "track_href": "https://api.spotify.com/v1/tracks/4IQOnf7HxJP1pWXuFbCSJU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4IQOnf7HxJP1pWXuFbCSJU",
+        "duration_ms": 573200,
+        "time_signature": 3
+      }
+    ]
+  }
+]

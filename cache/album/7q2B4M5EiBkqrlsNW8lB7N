@@ -1,0 +1,669 @@
+[
+  {
+    "id": "0GQQzmMNA7JE4tOdcSFh1C",
+    "name": "Lolo - Intro",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 72.949,
+    "features": [
+      {
+        "danceability": 0.381,
+        "energy": 0.678,
+        "key": 0,
+        "loudness": -13.532,
+        "mode": 1,
+        "speechiness": 0.427,
+        "acousticness": 0.0565,
+        "instrumentalness": 0,
+        "liveness": 0.232,
+        "valence": 0.134,
+        "tempo": 72.949,
+        "type": "audio_features",
+        "id": "0GQQzmMNA7JE4tOdcSFh1C",
+        "uri": "spotify:track:0GQQzmMNA7JE4tOdcSFh1C",
+        "track_href": "https://api.spotify.com/v1/tracks/0GQQzmMNA7JE4tOdcSFh1C",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0GQQzmMNA7JE4tOdcSFh1C",
+        "duration_ms": 41053,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "1iQ5E4z6CJ38dIzvMI9Wdo",
+    "name": "The Watcher",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 97.582,
+    "features": [
+      {
+        "danceability": 0.939,
+        "energy": 0.486,
+        "key": 7,
+        "loudness": -3.488,
+        "mode": 1,
+        "speechiness": 0.207,
+        "acousticness": 0.172,
+        "instrumentalness": 0,
+        "liveness": 0.264,
+        "valence": 0.517,
+        "tempo": 97.582,
+        "type": "audio_features",
+        "id": "1iQ5E4z6CJ38dIzvMI9Wdo",
+        "uri": "spotify:track:1iQ5E4z6CJ38dIzvMI9Wdo",
+        "track_href": "https://api.spotify.com/v1/tracks/1iQ5E4z6CJ38dIzvMI9Wdo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1iQ5E4z6CJ38dIzvMI9Wdo",
+        "duration_ms": 206547,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4FI0rdztOAYJZMupujL5Gp",
+    "name": "Fuck You",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 92.236,
+    "features": [
+      {
+        "danceability": 0.876,
+        "energy": 0.573,
+        "key": 0,
+        "loudness": -3.764,
+        "mode": 1,
+        "speechiness": 0.431,
+        "acousticness": 0.294,
+        "instrumentalness": 0,
+        "liveness": 0.121,
+        "valence": 0.756,
+        "tempo": 92.236,
+        "type": "audio_features",
+        "id": "4FI0rdztOAYJZMupujL5Gp",
+        "uri": "spotify:track:4FI0rdztOAYJZMupujL5Gp",
+        "track_href": "https://api.spotify.com/v1/tracks/4FI0rdztOAYJZMupujL5Gp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4FI0rdztOAYJZMupujL5Gp",
+        "duration_ms": 205453,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "503OTo2dSqe7qk76rgsbep",
+    "name": "Still D.R.E.",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 93.431,
+    "features": [
+      {
+        "danceability": 0.816,
+        "energy": 0.775,
+        "key": 11,
+        "loudness": -3.323,
+        "mode": 1,
+        "speechiness": 0.234,
+        "acousticness": 0.16,
+        "instrumentalness": 0.00031,
+        "liveness": 0.0543,
+        "valence": 0.527,
+        "tempo": 93.431,
+        "type": "audio_features",
+        "id": "503OTo2dSqe7qk76rgsbep",
+        "uri": "spotify:track:503OTo2dSqe7qk76rgsbep",
+        "track_href": "https://api.spotify.com/v1/tracks/503OTo2dSqe7qk76rgsbep",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/503OTo2dSqe7qk76rgsbep",
+        "duration_ms": 270587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2BMRUAA1oTc7e9JPlr6xbZ",
+    "name": "Big Ego's",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 88.69,
+    "features": [
+      {
+        "danceability": 0.827,
+        "energy": 0.81,
+        "key": 4,
+        "loudness": -1.257,
+        "mode": 0,
+        "speechiness": 0.223,
+        "acousticness": 0.57,
+        "instrumentalness": 1.28e-05,
+        "liveness": 0.2,
+        "valence": 0.524,
+        "tempo": 88.69,
+        "type": "audio_features",
+        "id": "2BMRUAA1oTc7e9JPlr6xbZ",
+        "uri": "spotify:track:2BMRUAA1oTc7e9JPlr6xbZ",
+        "track_href": "https://api.spotify.com/v1/tracks/2BMRUAA1oTc7e9JPlr6xbZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2BMRUAA1oTc7e9JPlr6xbZ",
+        "duration_ms": 238307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Ed7MeXx64f6OcIuoTRCg1",
+    "name": "Xxplosive",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 168.96,
+    "features": [
+      {
+        "danceability": 0.765,
+        "energy": 0.88,
+        "key": 1,
+        "loudness": -4.361,
+        "mode": 1,
+        "speechiness": 0.116,
+        "acousticness": 0.176,
+        "instrumentalness": 1e-05,
+        "liveness": 0.139,
+        "valence": 0.929,
+        "tempo": 168.96,
+        "type": "audio_features",
+        "id": "0Ed7MeXx64f6OcIuoTRCg1",
+        "uri": "spotify:track:0Ed7MeXx64f6OcIuoTRCg1",
+        "track_href": "https://api.spotify.com/v1/tracks/0Ed7MeXx64f6OcIuoTRCg1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Ed7MeXx64f6OcIuoTRCg1",
+        "duration_ms": 215200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1SWVDBtw6h3tm9OehOkDhv",
+    "name": "What's The Difference",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 91.921,
+    "features": [
+      {
+        "danceability": 0.772,
+        "energy": 0.821,
+        "key": 11,
+        "loudness": -0.14,
+        "mode": 0,
+        "speechiness": 0.25,
+        "acousticness": 0.223,
+        "instrumentalness": 0,
+        "liveness": 0.148,
+        "valence": 0.77,
+        "tempo": 91.921,
+        "type": "audio_features",
+        "id": "1SWVDBtw6h3tm9OehOkDhv",
+        "uri": "spotify:track:1SWVDBtw6h3tm9OehOkDhv",
+        "track_href": "https://api.spotify.com/v1/tracks/1SWVDBtw6h3tm9OehOkDhv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SWVDBtw6h3tm9OehOkDhv",
+        "duration_ms": 244200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0WWem437MQdylQuXxzE80H",
+    "name": "Bar One",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 81.328,
+    "features": [
+      {
+        "danceability": 0.813,
+        "energy": 0.796,
+        "key": 2,
+        "loudness": -8.545,
+        "mode": 0,
+        "speechiness": 0.308,
+        "acousticness": 0.203,
+        "instrumentalness": 0,
+        "liveness": 0.257,
+        "valence": 0.871,
+        "tempo": 81.328,
+        "type": "audio_features",
+        "id": "0WWem437MQdylQuXxzE80H",
+        "uri": "spotify:track:0WWem437MQdylQuXxzE80H",
+        "track_href": "https://api.spotify.com/v1/tracks/0WWem437MQdylQuXxzE80H",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0WWem437MQdylQuXxzE80H",
+        "duration_ms": 50653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1WvuZsXHaH2qNAtvrQY6SX",
+    "name": "Light Speed",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 86.375,
+    "features": [
+      {
+        "danceability": 0.865,
+        "energy": 0.797,
+        "key": 1,
+        "loudness": -2.44,
+        "mode": 0,
+        "speechiness": 0.18,
+        "acousticness": 0.066,
+        "instrumentalness": 3.24e-05,
+        "liveness": 0.141,
+        "valence": 0.877,
+        "tempo": 86.375,
+        "type": "audio_features",
+        "id": "1WvuZsXHaH2qNAtvrQY6SX",
+        "uri": "spotify:track:1WvuZsXHaH2qNAtvrQY6SX",
+        "track_href": "https://api.spotify.com/v1/tracks/1WvuZsXHaH2qNAtvrQY6SX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1WvuZsXHaH2qNAtvrQY6SX",
+        "duration_ms": 160973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7iXF2W9vKmDoGAhlHdpyIa",
+    "name": "Forgot About Dre",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 133.974,
+    "features": [
+      {
+        "danceability": 0.924,
+        "energy": 0.74,
+        "key": 8,
+        "loudness": -1.299,
+        "mode": 1,
+        "speechiness": 0.0774,
+        "acousticness": 0.0827,
+        "instrumentalness": 0,
+        "liveness": 0.163,
+        "valence": 0.621,
+        "tempo": 133.974,
+        "type": "audio_features",
+        "id": "7iXF2W9vKmDoGAhlHdpyIa",
+        "uri": "spotify:track:7iXF2W9vKmDoGAhlHdpyIa",
+        "track_href": "https://api.spotify.com/v1/tracks/7iXF2W9vKmDoGAhlHdpyIa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7iXF2W9vKmDoGAhlHdpyIa",
+        "duration_ms": 222293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4LwU4Vp6od3Sb08CsP99GC",
+    "name": "The Next Episode",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 95.295,
+    "features": [
+      {
+        "danceability": 0.922,
+        "energy": 0.909,
+        "key": 10,
+        "loudness": -2.429,
+        "mode": 0,
+        "speechiness": 0.27,
+        "acousticness": 0.0281,
+        "instrumentalness": 0,
+        "liveness": 0.0856,
+        "valence": 0.309,
+        "tempo": 95.295,
+        "type": "audio_features",
+        "id": "4LwU4Vp6od3Sb08CsP99GC",
+        "uri": "spotify:track:4LwU4Vp6od3Sb08CsP99GC",
+        "track_href": "https://api.spotify.com/v1/tracks/4LwU4Vp6od3Sb08CsP99GC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4LwU4Vp6od3Sb08CsP99GC",
+        "duration_ms": 161507,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0EZMXJMWf0tLKRWwCiA6Sx",
+    "name": "Let's Get High",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 99.375,
+    "features": [
+      {
+        "danceability": 0.905,
+        "energy": 0.85,
+        "key": 4,
+        "loudness": -2.795,
+        "mode": 0,
+        "speechiness": 0.331,
+        "acousticness": 0.055,
+        "instrumentalness": 0,
+        "liveness": 0.0903,
+        "valence": 0.498,
+        "tempo": 99.375,
+        "type": "audio_features",
+        "id": "0EZMXJMWf0tLKRWwCiA6Sx",
+        "uri": "spotify:track:0EZMXJMWf0tLKRWwCiA6Sx",
+        "track_href": "https://api.spotify.com/v1/tracks/0EZMXJMWf0tLKRWwCiA6Sx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0EZMXJMWf0tLKRWwCiA6Sx",
+        "duration_ms": 147427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5XkeTGKcCkGF8l6fA9YpsS",
+    "name": "Bitch Niggaz",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 75.888,
+    "features": [
+      {
+        "danceability": 0.695,
+        "energy": 0.717,
+        "key": 11,
+        "loudness": -1.454,
+        "mode": 0,
+        "speechiness": 0.395,
+        "acousticness": 0.359,
+        "instrumentalness": 0,
+        "liveness": 0.277,
+        "valence": 0.61,
+        "tempo": 75.888,
+        "type": "audio_features",
+        "id": "5XkeTGKcCkGF8l6fA9YpsS",
+        "uri": "spotify:track:5XkeTGKcCkGF8l6fA9YpsS",
+        "track_href": "https://api.spotify.com/v1/tracks/5XkeTGKcCkGF8l6fA9YpsS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5XkeTGKcCkGF8l6fA9YpsS",
+        "duration_ms": 253560,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "4PX9Ga99IMqlbgKucTxupc",
+    "name": "The Car Bomb",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 87.816,
+    "features": [
+      {
+        "danceability": 0.538,
+        "energy": 0.85,
+        "key": 5,
+        "loudness": -9.413,
+        "mode": 0,
+        "speechiness": 0.854,
+        "acousticness": 0.675,
+        "instrumentalness": 0,
+        "liveness": 0.36,
+        "valence": 0.459,
+        "tempo": 87.816,
+        "type": "audio_features",
+        "id": "4PX9Ga99IMqlbgKucTxupc",
+        "uri": "spotify:track:4PX9Ga99IMqlbgKucTxupc",
+        "track_href": "https://api.spotify.com/v1/tracks/4PX9Ga99IMqlbgKucTxupc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4PX9Ga99IMqlbgKucTxupc",
+        "duration_ms": 60893,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "0zkE78jc1kjLXrTYd9ZxpO",
+    "name": "Murder Ink",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 88.152,
+    "features": [
+      {
+        "danceability": 0.781,
+        "energy": 0.898,
+        "key": 11,
+        "loudness": -1.157,
+        "mode": 0,
+        "speechiness": 0.274,
+        "acousticness": 0.0234,
+        "instrumentalness": 2.79e-05,
+        "liveness": 0.503,
+        "valence": 0.838,
+        "tempo": 88.152,
+        "type": "audio_features",
+        "id": "0zkE78jc1kjLXrTYd9ZxpO",
+        "uri": "spotify:track:0zkE78jc1kjLXrTYd9ZxpO",
+        "track_href": "https://api.spotify.com/v1/tracks/0zkE78jc1kjLXrTYd9ZxpO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0zkE78jc1kjLXrTYd9ZxpO",
+        "duration_ms": 148293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0J2u6TAolef5gZEVy1HErU",
+    "name": "Ed-Ucation",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 168.791,
+    "features": [
+      {
+        "danceability": 0.66,
+        "energy": 0.868,
+        "key": 1,
+        "loudness": -3.229,
+        "mode": 1,
+        "speechiness": 0.502,
+        "acousticness": 0.458,
+        "instrumentalness": 0,
+        "liveness": 0.453,
+        "valence": 0.602,
+        "tempo": 168.791,
+        "type": "audio_features",
+        "id": "0J2u6TAolef5gZEVy1HErU",
+        "uri": "spotify:track:0J2u6TAolef5gZEVy1HErU",
+        "track_href": "https://api.spotify.com/v1/tracks/0J2u6TAolef5gZEVy1HErU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0J2u6TAolef5gZEVy1HErU",
+        "duration_ms": 92147,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "4VZPYvMTByQytb6F3MKP4w",
+    "name": "Some L.A. Niggaz",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 88.824,
+    "features": [
+      {
+        "danceability": 0.818,
+        "energy": 0.473,
+        "key": 5,
+        "loudness": -2.733,
+        "mode": 1,
+        "speechiness": 0.397,
+        "acousticness": 0.125,
+        "instrumentalness": 0,
+        "liveness": 0.0741,
+        "valence": 0.717,
+        "tempo": 88.824,
+        "type": "audio_features",
+        "id": "4VZPYvMTByQytb6F3MKP4w",
+        "uri": "spotify:track:4VZPYvMTByQytb6F3MKP4w",
+        "track_href": "https://api.spotify.com/v1/tracks/4VZPYvMTByQytb6F3MKP4w",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4VZPYvMTByQytb6F3MKP4w",
+        "duration_ms": 265213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6ALtdfVnklY8xp9bUBKVEP",
+    "name": "Pause 4 Porno",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 79.72,
+    "features": [
+      {
+        "danceability": 0.485,
+        "energy": 0.701,
+        "key": 1,
+        "loudness": -7.341,
+        "mode": 0,
+        "speechiness": 0.218,
+        "acousticness": 0.263,
+        "instrumentalness": 0,
+        "liveness": 0.632,
+        "valence": 0.77,
+        "tempo": 79.72,
+        "type": "audio_features",
+        "id": "6ALtdfVnklY8xp9bUBKVEP",
+        "uri": "spotify:track:6ALtdfVnklY8xp9bUBKVEP",
+        "track_href": "https://api.spotify.com/v1/tracks/6ALtdfVnklY8xp9bUBKVEP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ALtdfVnklY8xp9bUBKVEP",
+        "duration_ms": 92680,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Wik64zBKFTNoNjTpG70OH",
+    "name": "Housewife",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 92.892,
+    "features": [
+      {
+        "danceability": 0.89,
+        "energy": 0.705,
+        "key": 1,
+        "loudness": -2.56,
+        "mode": 0,
+        "speechiness": 0.245,
+        "acousticness": 0.252,
+        "instrumentalness": 1.9e-06,
+        "liveness": 0.665,
+        "valence": 0.917,
+        "tempo": 92.892,
+        "type": "audio_features",
+        "id": "0Wik64zBKFTNoNjTpG70OH",
+        "uri": "spotify:track:0Wik64zBKFTNoNjTpG70OH",
+        "track_href": "https://api.spotify.com/v1/tracks/0Wik64zBKFTNoNjTpG70OH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Wik64zBKFTNoNjTpG70OH",
+        "duration_ms": 242680,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4NGS3j6JmOx6VUaXt6VQbj",
+    "name": "Ackrite",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 94.229,
+    "features": [
+      {
+        "danceability": 0.864,
+        "energy": 0.741,
+        "key": 2,
+        "loudness": -3.356,
+        "mode": 1,
+        "speechiness": 0.32,
+        "acousticness": 0.0695,
+        "instrumentalness": 0,
+        "liveness": 0.529,
+        "valence": 0.859,
+        "tempo": 94.229,
+        "type": "audio_features",
+        "id": "4NGS3j6JmOx6VUaXt6VQbj",
+        "uri": "spotify:track:4NGS3j6JmOx6VUaXt6VQbj",
+        "track_href": "https://api.spotify.com/v1/tracks/4NGS3j6JmOx6VUaXt6VQbj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4NGS3j6JmOx6VUaXt6VQbj",
+        "duration_ms": 219933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2sXaZphe2LlqAyZVKvHbU1",
+    "name": "Bang Bang",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 95.323,
+    "features": [
+      {
+        "danceability": 0.865,
+        "energy": 0.884,
+        "key": 5,
+        "loudness": -2.435,
+        "mode": 0,
+        "speechiness": 0.138,
+        "acousticness": 0.121,
+        "instrumentalness": 2.31e-06,
+        "liveness": 0.102,
+        "valence": 0.788,
+        "tempo": 95.323,
+        "type": "audio_features",
+        "id": "2sXaZphe2LlqAyZVKvHbU1",
+        "uri": "spotify:track:2sXaZphe2LlqAyZVKvHbU1",
+        "track_href": "https://api.spotify.com/v1/tracks/2sXaZphe2LlqAyZVKvHbU1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2sXaZphe2LlqAyZVKvHbU1",
+        "duration_ms": 222320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6WgxXdBZrtdQFGBcxQxpiv",
+    "name": "The Message",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 82.448,
+    "features": [
+      {
+        "danceability": 0.711,
+        "energy": 0.608,
+        "key": 8,
+        "loudness": -4.008,
+        "mode": 0,
+        "speechiness": 0.0754,
+        "acousticness": 0.0446,
+        "instrumentalness": 7.56e-05,
+        "liveness": 0.123,
+        "valence": 0.791,
+        "tempo": 82.448,
+        "type": "audio_features",
+        "id": "6WgxXdBZrtdQFGBcxQxpiv",
+        "uri": "spotify:track:6WgxXdBZrtdQFGBcxQxpiv",
+        "track_href": "https://api.spotify.com/v1/tracks/6WgxXdBZrtdQFGBcxQxpiv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6WgxXdBZrtdQFGBcxQxpiv",
+        "duration_ms": 304027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4rmK0BSBLMiwNJ6iwWXJm1",
+    "name": "Outro",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "bpm": 80.966,
+    "features": [
+      {
+        "danceability": 0.692,
+        "energy": 0.273,
+        "key": 2,
+        "loudness": -12.367,
+        "mode": 1,
+        "speechiness": 0.949,
+        "acousticness": 0.578,
+        "instrumentalness": 0,
+        "liveness": 0.0925,
+        "valence": 0.909,
+        "tempo": 80.966,
+        "type": "audio_features",
+        "id": "4rmK0BSBLMiwNJ6iwWXJm1",
+        "uri": "spotify:track:4rmK0BSBLMiwNJ6iwWXJm1",
+        "track_href": "https://api.spotify.com/v1/tracks/4rmK0BSBLMiwNJ6iwWXJm1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4rmK0BSBLMiwNJ6iwWXJm1",
+        "duration_ms": 25747,
+        "time_signature": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "id": "6oPiLgwnuxc3ssDiKokLEt",
+    "name": "Bloodmeat",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 127.03,
+    "features": [
+      {
+        "danceability": 0.326,
+        "energy": 0.987,
+        "key": 11,
+        "loudness": -5.01,
+        "mode": 1,
+        "speechiness": 0.196,
+        "acousticness": 8.43e-05,
+        "instrumentalness": 0.00617,
+        "liveness": 0.316,
+        "valence": 0.203,
+        "tempo": 127.03,
+        "type": "audio_features",
+        "id": "6oPiLgwnuxc3ssDiKokLEt",
+        "uri": "spotify:track:6oPiLgwnuxc3ssDiKokLEt",
+        "track_href": "https://api.spotify.com/v1/tracks/6oPiLgwnuxc3ssDiKokLEt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6oPiLgwnuxc3ssDiKokLEt",
+        "duration_ms": 234187,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0zoz55jqCotPzPZTq050LG",
+    "name": "The Dissentience",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 108.996,
+    "features": [
+      {
+        "danceability": 0.342,
+        "energy": 0.986,
+        "key": 8,
+        "loudness": -5.487,
+        "mode": 1,
+        "speechiness": 0.136,
+        "acousticness": 7.4e-05,
+        "instrumentalness": 0.00259,
+        "liveness": 0.137,
+        "valence": 0.214,
+        "tempo": 108.996,
+        "type": "audio_features",
+        "id": "0zoz55jqCotPzPZTq050LG",
+        "uri": "spotify:track:0zoz55jqCotPzPZTq050LG",
+        "track_href": "https://api.spotify.com/v1/tracks/0zoz55jqCotPzPZTq050LG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0zoz55jqCotPzPZTq050LG",
+        "duration_ms": 264053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "11huuHSoC2ymshJJTOzm0j",
+    "name": "Bone Marrow",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 139.915,
+    "features": [
+      {
+        "danceability": 0.287,
+        "energy": 0.987,
+        "key": 10,
+        "loudness": -5.237,
+        "mode": 0,
+        "speechiness": 0.346,
+        "acousticness": 0.000441,
+        "instrumentalness": 0.018,
+        "liveness": 0.254,
+        "valence": 0.0734,
+        "tempo": 139.915,
+        "type": "audio_features",
+        "id": "11huuHSoC2ymshJJTOzm0j",
+        "uri": "spotify:track:11huuHSoC2ymshJJTOzm0j",
+        "track_href": "https://api.spotify.com/v1/tracks/11huuHSoC2ymshJJTOzm0j",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/11huuHSoC2ymshJJTOzm0j",
+        "duration_ms": 331373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7rrz6VETF39TP54h4zlZtl",
+    "name": "Sequoia Throne",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 149.751,
+    "features": [
+      {
+        "danceability": 0.223,
+        "energy": 0.979,
+        "key": 11,
+        "loudness": -5.553,
+        "mode": 1,
+        "speechiness": 0.248,
+        "acousticness": 3.72e-05,
+        "instrumentalness": 0.0394,
+        "liveness": 0.762,
+        "valence": 0.183,
+        "tempo": 149.751,
+        "type": "audio_features",
+        "id": "7rrz6VETF39TP54h4zlZtl",
+        "uri": "spotify:track:7rrz6VETF39TP54h4zlZtl",
+        "track_href": "https://api.spotify.com/v1/tracks/7rrz6VETF39TP54h4zlZtl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7rrz6VETF39TP54h4zlZtl",
+        "duration_ms": 191013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "40l0GQsdCqMpBSMTN6amqc",
+    "name": "Palms Read",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 162.209,
+    "features": [
+      {
+        "danceability": 0.259,
+        "energy": 0.96,
+        "key": 11,
+        "loudness": -6.079,
+        "mode": 1,
+        "speechiness": 0.239,
+        "acousticness": 6.85e-05,
+        "instrumentalness": 0.0269,
+        "liveness": 0.55,
+        "valence": 0.155,
+        "tempo": 162.209,
+        "type": "audio_features",
+        "id": "40l0GQsdCqMpBSMTN6amqc",
+        "uri": "spotify:track:40l0GQsdCqMpBSMTN6amqc",
+        "track_href": "https://api.spotify.com/v1/tracks/40l0GQsdCqMpBSMTN6amqc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/40l0GQsdCqMpBSMTN6amqc",
+        "duration_ms": 306560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0P2mdqZZhoZrCUj5CiJ91q",
+    "name": "Limb from Limb",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 119.725,
+    "features": [
+      {
+        "danceability": 0.285,
+        "energy": 0.985,
+        "key": 11,
+        "loudness": -5.772,
+        "mode": 1,
+        "speechiness": 0.272,
+        "acousticness": 9.25e-05,
+        "instrumentalness": 0.0209,
+        "liveness": 0.272,
+        "valence": 0.0598,
+        "tempo": 119.725,
+        "type": "audio_features",
+        "id": "0P2mdqZZhoZrCUj5CiJ91q",
+        "uri": "spotify:track:0P2mdqZZhoZrCUj5CiJ91q",
+        "track_href": "https://api.spotify.com/v1/tracks/0P2mdqZZhoZrCUj5CiJ91q",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0P2mdqZZhoZrCUj5CiJ91q",
+        "duration_ms": 262760,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5TxR16xeldhaiaUQ3gXcZ4",
+    "name": "Spoils",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 94.545,
+    "features": [
+      {
+        "danceability": 0.23,
+        "energy": 0.947,
+        "key": 6,
+        "loudness": -6.361,
+        "mode": 1,
+        "speechiness": 0.21,
+        "acousticness": 0.000451,
+        "instrumentalness": 0.00688,
+        "liveness": 0.302,
+        "valence": 0.0778,
+        "tempo": 94.545,
+        "type": "audio_features",
+        "id": "5TxR16xeldhaiaUQ3gXcZ4",
+        "uri": "spotify:track:5TxR16xeldhaiaUQ3gXcZ4",
+        "track_href": "https://api.spotify.com/v1/tracks/5TxR16xeldhaiaUQ3gXcZ4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5TxR16xeldhaiaUQ3gXcZ4",
+        "duration_ms": 223440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7h1YwUBfyBHS1jDfDSuaAE",
+    "name": "Wretch",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 143.9,
+    "features": [
+      {
+        "danceability": 0.496,
+        "energy": 0.976,
+        "key": 8,
+        "loudness": -5.018,
+        "mode": 1,
+        "speechiness": 0.155,
+        "acousticness": 9.35e-05,
+        "instrumentalness": 0.0011,
+        "liveness": 0.772,
+        "valence": 0.273,
+        "tempo": 143.9,
+        "type": "audio_features",
+        "id": "7h1YwUBfyBHS1jDfDSuaAE",
+        "uri": "spotify:track:7h1YwUBfyBHS1jDfDSuaAE",
+        "track_href": "https://api.spotify.com/v1/tracks/7h1YwUBfyBHS1jDfDSuaAE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7h1YwUBfyBHS1jDfDSuaAE",
+        "duration_ms": 252293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7Jq2YPPKLRJzCrNJGb5ENw",
+    "name": "Goddess Bound",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 104.05,
+    "features": [
+      {
+        "danceability": 0.306,
+        "energy": 0.991,
+        "key": 1,
+        "loudness": -5.202,
+        "mode": 1,
+        "speechiness": 0.141,
+        "acousticness": 0.000471,
+        "instrumentalness": 0.000122,
+        "liveness": 0.334,
+        "valence": 0.232,
+        "tempo": 104.05,
+        "type": "audio_features",
+        "id": "7Jq2YPPKLRJzCrNJGb5ENw",
+        "uri": "spotify:track:7Jq2YPPKLRJzCrNJGb5ENw",
+        "track_href": "https://api.spotify.com/v1/tracks/7Jq2YPPKLRJzCrNJGb5ENw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7Jq2YPPKLRJzCrNJGb5ENw",
+        "duration_ms": 215467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1FI2ZbZgvlJHEzAziB7V3L",
+    "name": "Goddess Gagged",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 168.002,
+    "features": [
+      {
+        "danceability": 0.4,
+        "energy": 0.981,
+        "key": 8,
+        "loudness": -6.246,
+        "mode": 1,
+        "speechiness": 0.212,
+        "acousticness": 0.000575,
+        "instrumentalness": 0.000447,
+        "liveness": 0.0392,
+        "valence": 0.327,
+        "tempo": 168.002,
+        "type": "audio_features",
+        "id": "1FI2ZbZgvlJHEzAziB7V3L",
+        "uri": "spotify:track:1FI2ZbZgvlJHEzAziB7V3L",
+        "track_href": "https://api.spotify.com/v1/tracks/1FI2ZbZgvlJHEzAziB7V3L",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1FI2ZbZgvlJHEzAziB7V3L",
+        "duration_ms": 194733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3PpBQJjeTcEi5JVkU04K16",
+    "name": "Bloodmeat - Instrumental",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 124.55,
+    "features": [
+      {
+        "danceability": 0.277,
+        "energy": 0.987,
+        "key": 8,
+        "loudness": -6.26,
+        "mode": 0,
+        "speechiness": 0.115,
+        "acousticness": 4.46e-05,
+        "instrumentalness": 0.894,
+        "liveness": 0.195,
+        "valence": 0.234,
+        "tempo": 124.55,
+        "type": "audio_features",
+        "id": "3PpBQJjeTcEi5JVkU04K16",
+        "uri": "spotify:track:3PpBQJjeTcEi5JVkU04K16",
+        "track_href": "https://api.spotify.com/v1/tracks/3PpBQJjeTcEi5JVkU04K16",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3PpBQJjeTcEi5JVkU04K16",
+        "duration_ms": 235200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6tkSSbNNjJxl8Ni4CwC3Ob",
+    "name": "The Dissentience - Instrumental",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 108.997,
+    "features": [
+      {
+        "danceability": 0.337,
+        "energy": 0.975,
+        "key": 8,
+        "loudness": -5.552,
+        "mode": 1,
+        "speechiness": 0.0996,
+        "acousticness": 1.55e-05,
+        "instrumentalness": 0.803,
+        "liveness": 0.15,
+        "valence": 0.34,
+        "tempo": 108.997,
+        "type": "audio_features",
+        "id": "6tkSSbNNjJxl8Ni4CwC3Ob",
+        "uri": "spotify:track:6tkSSbNNjJxl8Ni4CwC3Ob",
+        "track_href": "https://api.spotify.com/v1/tracks/6tkSSbNNjJxl8Ni4CwC3Ob",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6tkSSbNNjJxl8Ni4CwC3Ob",
+        "duration_ms": 244600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1STH5PR2uiVvQgNjIPQBu6",
+    "name": "Bone Marrow - Instrumental",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 120.598,
+    "features": [
+      {
+        "danceability": 0.315,
+        "energy": 0.948,
+        "key": 6,
+        "loudness": -6.647,
+        "mode": 1,
+        "speechiness": 0.153,
+        "acousticness": 5.04e-05,
+        "instrumentalness": 0.855,
+        "liveness": 0.506,
+        "valence": 0.205,
+        "tempo": 120.598,
+        "type": "audio_features",
+        "id": "1STH5PR2uiVvQgNjIPQBu6",
+        "uri": "spotify:track:1STH5PR2uiVvQgNjIPQBu6",
+        "track_href": "https://api.spotify.com/v1/tracks/1STH5PR2uiVvQgNjIPQBu6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1STH5PR2uiVvQgNjIPQBu6",
+        "duration_ms": 294107,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "7rrz6VETF39TP54h4zlZtl",
+    "name": "Sequoia Throne - Instrumental",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 149.751,
+    "features": [
+      {
+        "danceability": 0.223,
+        "energy": 0.979,
+        "key": 11,
+        "loudness": -5.553,
+        "mode": 1,
+        "speechiness": 0.248,
+        "acousticness": 3.72e-05,
+        "instrumentalness": 0.0394,
+        "liveness": 0.762,
+        "valence": 0.183,
+        "tempo": 149.751,
+        "type": "audio_features",
+        "id": "7rrz6VETF39TP54h4zlZtl",
+        "uri": "spotify:track:7rrz6VETF39TP54h4zlZtl",
+        "track_href": "https://api.spotify.com/v1/tracks/7rrz6VETF39TP54h4zlZtl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7rrz6VETF39TP54h4zlZtl",
+        "duration_ms": 191013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "28h2P9C6IJ5gUuLRHGKMgC",
+    "name": "Palms Read - Instrumental",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 147.017,
+    "features": [
+      {
+        "danceability": 0.242,
+        "energy": 0.935,
+        "key": 1,
+        "loudness": -6.195,
+        "mode": 0,
+        "speechiness": 0.111,
+        "acousticness": 7.15e-05,
+        "instrumentalness": 0.856,
+        "liveness": 0.689,
+        "valence": 0.259,
+        "tempo": 147.017,
+        "type": "audio_features",
+        "id": "28h2P9C6IJ5gUuLRHGKMgC",
+        "uri": "spotify:track:28h2P9C6IJ5gUuLRHGKMgC",
+        "track_href": "https://api.spotify.com/v1/tracks/28h2P9C6IJ5gUuLRHGKMgC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/28h2P9C6IJ5gUuLRHGKMgC",
+        "duration_ms": 227747,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1Z0Kw9gHkCljE9rc3Bmgj5",
+    "name": "Limb from Limb - Instrumental",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 110.85,
+    "features": [
+      {
+        "danceability": 0.31,
+        "energy": 0.977,
+        "key": 1,
+        "loudness": -5.411,
+        "mode": 0,
+        "speechiness": 0.179,
+        "acousticness": 0.000314,
+        "instrumentalness": 0.841,
+        "liveness": 0.293,
+        "valence": 0.112,
+        "tempo": 110.85,
+        "type": "audio_features",
+        "id": "1Z0Kw9gHkCljE9rc3Bmgj5",
+        "uri": "spotify:track:1Z0Kw9gHkCljE9rc3Bmgj5",
+        "track_href": "https://api.spotify.com/v1/tracks/1Z0Kw9gHkCljE9rc3Bmgj5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Z0Kw9gHkCljE9rc3Bmgj5",
+        "duration_ms": 262760,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0H2RiQJ0oP4eoMAekU6P4l",
+    "name": "Spoils - Instrumental",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 101.828,
+    "features": [
+      {
+        "danceability": 0.245,
+        "energy": 0.942,
+        "key": 6,
+        "loudness": -6.045,
+        "mode": 1,
+        "speechiness": 0.0921,
+        "acousticness": 6.34e-05,
+        "instrumentalness": 0.794,
+        "liveness": 0.264,
+        "valence": 0.334,
+        "tempo": 101.828,
+        "type": "audio_features",
+        "id": "0H2RiQJ0oP4eoMAekU6P4l",
+        "uri": "spotify:track:0H2RiQJ0oP4eoMAekU6P4l",
+        "track_href": "https://api.spotify.com/v1/tracks/0H2RiQJ0oP4eoMAekU6P4l",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0H2RiQJ0oP4eoMAekU6P4l",
+        "duration_ms": 179147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "32X2bvbzDzIjwdDuQ7ev9n",
+    "name": "Wretch - Instrumental",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 143.894,
+    "features": [
+      {
+        "danceability": 0.449,
+        "energy": 0.957,
+        "key": 8,
+        "loudness": -6.216,
+        "mode": 1,
+        "speechiness": 0.0819,
+        "acousticness": 2.29e-05,
+        "instrumentalness": 0.878,
+        "liveness": 0.412,
+        "valence": 0.401,
+        "tempo": 143.894,
+        "type": "audio_features",
+        "id": "32X2bvbzDzIjwdDuQ7ev9n",
+        "uri": "spotify:track:32X2bvbzDzIjwdDuQ7ev9n",
+        "track_href": "https://api.spotify.com/v1/tracks/32X2bvbzDzIjwdDuQ7ev9n",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/32X2bvbzDzIjwdDuQ7ev9n",
+        "duration_ms": 252293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4mgGbhhOQrIrmU5jLuMiI6",
+    "name": "Goddess Bound - Instrumental",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 103.986,
+    "features": [
+      {
+        "danceability": 0.281,
+        "energy": 0.971,
+        "key": 1,
+        "loudness": -6.01,
+        "mode": 1,
+        "speechiness": 0.058,
+        "acousticness": 0.000185,
+        "instrumentalness": 0.877,
+        "liveness": 0.343,
+        "valence": 0.53,
+        "tempo": 103.986,
+        "type": "audio_features",
+        "id": "4mgGbhhOQrIrmU5jLuMiI6",
+        "uri": "spotify:track:4mgGbhhOQrIrmU5jLuMiI6",
+        "track_href": "https://api.spotify.com/v1/tracks/4mgGbhhOQrIrmU5jLuMiI6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4mgGbhhOQrIrmU5jLuMiI6",
+        "duration_ms": 215547,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2L2dGJZqsHHXGeLJ9d5Jj8",
+    "name": "Goddess Gagged - Instrumental",
+    "artist": "Protest The Hero",
+    "album": "Fortress",
+    "bpm": 167.932,
+    "features": [
+      {
+        "danceability": 0.339,
+        "energy": 0.954,
+        "key": 8,
+        "loudness": -6.34,
+        "mode": 1,
+        "speechiness": 0.0797,
+        "acousticness": 2.26e-05,
+        "instrumentalness": 0.84,
+        "liveness": 0.035,
+        "valence": 0.432,
+        "tempo": 167.932,
+        "type": "audio_features",
+        "id": "2L2dGJZqsHHXGeLJ9d5Jj8",
+        "uri": "spotify:track:2L2dGJZqsHHXGeLJ9d5Jj8",
+        "track_href": "https://api.spotify.com/v1/tracks/2L2dGJZqsHHXGeLJ9d5Jj8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2L2dGJZqsHHXGeLJ9d5Jj8",
+        "duration_ms": 194667,
+        "time_signature": 4
+      }
+    ]
+  }
+]

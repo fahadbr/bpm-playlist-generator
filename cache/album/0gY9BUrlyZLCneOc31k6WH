@@ -1,0 +1,292 @@
+[
+  {
+    "id": "1x5S0vAgfRiwdJjkSoUfwP",
+    "name": "Mie",
+    "artist": "Caspian",
+    "album": "Tertia",
+    "bpm": 98.48,
+    "features": [
+      {
+        "danceability": 0.18,
+        "energy": 0.112,
+        "key": 7,
+        "loudness": -23.204,
+        "mode": 1,
+        "speechiness": 0.0384,
+        "acousticness": 0.413,
+        "instrumentalness": 0.856,
+        "liveness": 0.23,
+        "valence": 0.0369,
+        "tempo": 98.48,
+        "type": "audio_features",
+        "id": "1x5S0vAgfRiwdJjkSoUfwP",
+        "uri": "spotify:track:1x5S0vAgfRiwdJjkSoUfwP",
+        "track_href": "https://api.spotify.com/v1/tracks/1x5S0vAgfRiwdJjkSoUfwP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1x5S0vAgfRiwdJjkSoUfwP",
+        "duration_ms": 249667,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "6OGj5QOCrp99SrtPk2uSDf",
+    "name": "La Cerva",
+    "artist": "Caspian",
+    "album": "Tertia",
+    "bpm": 82.986,
+    "features": [
+      {
+        "danceability": 0.104,
+        "energy": 0.798,
+        "key": 6,
+        "loudness": -8.31,
+        "mode": 0,
+        "speechiness": 0.121,
+        "acousticness": 0.000662,
+        "instrumentalness": 0.905,
+        "liveness": 0.101,
+        "valence": 0.0414,
+        "tempo": 82.986,
+        "type": "audio_features",
+        "id": "6OGj5QOCrp99SrtPk2uSDf",
+        "uri": "spotify:track:6OGj5QOCrp99SrtPk2uSDf",
+        "track_href": "https://api.spotify.com/v1/tracks/6OGj5QOCrp99SrtPk2uSDf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6OGj5QOCrp99SrtPk2uSDf",
+        "duration_ms": 299200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "19uEjKDygVeRiY42jhtxiM",
+    "name": "Ghosts Of The Garden City",
+    "artist": "Caspian",
+    "album": "Tertia",
+    "bpm": 174.126,
+    "features": [
+      {
+        "danceability": 0.22,
+        "energy": 0.72,
+        "key": 11,
+        "loudness": -8.063,
+        "mode": 0,
+        "speechiness": 0.0679,
+        "acousticness": 0.000313,
+        "instrumentalness": 0.705,
+        "liveness": 0.297,
+        "valence": 0.263,
+        "tempo": 174.126,
+        "type": "audio_features",
+        "id": "19uEjKDygVeRiY42jhtxiM",
+        "uri": "spotify:track:19uEjKDygVeRiY42jhtxiM",
+        "track_href": "https://api.spotify.com/v1/tracks/19uEjKDygVeRiY42jhtxiM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/19uEjKDygVeRiY42jhtxiM",
+        "duration_ms": 451160,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5bTVgXa08huZRni3gJOhiP",
+    "name": "Malacoda",
+    "artist": "Caspian",
+    "album": "Tertia",
+    "bpm": 126.006,
+    "features": [
+      {
+        "danceability": 0.497,
+        "energy": 0.93,
+        "key": 11,
+        "loudness": -7.316,
+        "mode": 0,
+        "speechiness": 0.0612,
+        "acousticness": 0.00315,
+        "instrumentalness": 0.788,
+        "liveness": 0.112,
+        "valence": 0.324,
+        "tempo": 126.006,
+        "type": "audio_features",
+        "id": "5bTVgXa08huZRni3gJOhiP",
+        "uri": "spotify:track:5bTVgXa08huZRni3gJOhiP",
+        "track_href": "https://api.spotify.com/v1/tracks/5bTVgXa08huZRni3gJOhiP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5bTVgXa08huZRni3gJOhiP",
+        "duration_ms": 303587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0o3CO7xnINnhtmz3DTdTK5",
+    "name": "Epochs in Dmaj",
+    "artist": "Caspian",
+    "album": "Tertia",
+    "bpm": 93.232,
+    "features": [
+      {
+        "danceability": 0.355,
+        "energy": 0.212,
+        "key": 2,
+        "loudness": -17.67,
+        "mode": 1,
+        "speechiness": 0.0303,
+        "acousticness": 0.789,
+        "instrumentalness": 0.973,
+        "liveness": 0.141,
+        "valence": 0.0375,
+        "tempo": 93.232,
+        "type": "audio_features",
+        "id": "0o3CO7xnINnhtmz3DTdTK5",
+        "uri": "spotify:track:0o3CO7xnINnhtmz3DTdTK5",
+        "track_href": "https://api.spotify.com/v1/tracks/0o3CO7xnINnhtmz3DTdTK5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0o3CO7xnINnhtmz3DTdTK5",
+        "duration_ms": 199960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7lCt83sq0ZV6zCbTt9wA5Q",
+    "name": "Of Foam and Wave",
+    "artist": "Caspian",
+    "album": "Tertia",
+    "bpm": 160.677,
+    "features": [
+      {
+        "danceability": 0.142,
+        "energy": 0.566,
+        "key": 2,
+        "loudness": -6.949,
+        "mode": 1,
+        "speechiness": 0.0443,
+        "acousticness": 0.000566,
+        "instrumentalness": 0.877,
+        "liveness": 0.118,
+        "valence": 0.172,
+        "tempo": 160.677,
+        "type": "audio_features",
+        "id": "7lCt83sq0ZV6zCbTt9wA5Q",
+        "uri": "spotify:track:7lCt83sq0ZV6zCbTt9wA5Q",
+        "track_href": "https://api.spotify.com/v1/tracks/7lCt83sq0ZV6zCbTt9wA5Q",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7lCt83sq0ZV6zCbTt9wA5Q",
+        "duration_ms": 376320,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7jDQYsgC76RxniR2DmwxNE",
+    "name": "Concrescence",
+    "artist": "Caspian",
+    "album": "Tertia",
+    "bpm": 95.004,
+    "features": [
+      {
+        "danceability": 0.518,
+        "energy": 0.423,
+        "key": 7,
+        "loudness": -16.384,
+        "mode": 1,
+        "speechiness": 0.0252,
+        "acousticness": 0.298,
+        "instrumentalness": 0.951,
+        "liveness": 0.114,
+        "valence": 0.0829,
+        "tempo": 95.004,
+        "type": "audio_features",
+        "id": "7jDQYsgC76RxniR2DmwxNE",
+        "uri": "spotify:track:7jDQYsgC76RxniR2DmwxNE",
+        "track_href": "https://api.spotify.com/v1/tracks/7jDQYsgC76RxniR2DmwxNE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7jDQYsgC76RxniR2DmwxNE",
+        "duration_ms": 266027,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0cveBsH7HP0R7N5JujXO7U",
+    "name": "The Raven",
+    "artist": "Caspian",
+    "album": "Tertia",
+    "bpm": 123.099,
+    "features": [
+      {
+        "danceability": 0.434,
+        "energy": 0.637,
+        "key": 6,
+        "loudness": -7.268,
+        "mode": 0,
+        "speechiness": 0.0396,
+        "acousticness": 0.0006,
+        "instrumentalness": 0.786,
+        "liveness": 0.126,
+        "valence": 0.0925,
+        "tempo": 123.099,
+        "type": "audio_features",
+        "id": "0cveBsH7HP0R7N5JujXO7U",
+        "uri": "spotify:track:0cveBsH7HP0R7N5JujXO7U",
+        "track_href": "https://api.spotify.com/v1/tracks/0cveBsH7HP0R7N5JujXO7U",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0cveBsH7HP0R7N5JujXO7U",
+        "duration_ms": 430133,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7s2u7JmvLJ5DbTxOLEMqfF",
+    "name": "Vienna",
+    "artist": "Caspian",
+    "album": "Tertia",
+    "bpm": 127.709,
+    "features": [
+      {
+        "danceability": 0.192,
+        "energy": 0.125,
+        "key": 2,
+        "loudness": -19.907,
+        "mode": 1,
+        "speechiness": 0.0418,
+        "acousticness": 0.789,
+        "instrumentalness": 0.886,
+        "liveness": 0.623,
+        "valence": 0.051,
+        "tempo": 127.709,
+        "type": "audio_features",
+        "id": "7s2u7JmvLJ5DbTxOLEMqfF",
+        "uri": "spotify:track:7s2u7JmvLJ5DbTxOLEMqfF",
+        "track_href": "https://api.spotify.com/v1/tracks/7s2u7JmvLJ5DbTxOLEMqfF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7s2u7JmvLJ5DbTxOLEMqfF",
+        "duration_ms": 374560,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7Lp6gYzsrAvuv0qPdAJ2yA",
+    "name": "Sycamore",
+    "artist": "Caspian",
+    "album": "Tertia",
+    "bpm": 112.052,
+    "features": [
+      {
+        "danceability": 0.284,
+        "energy": 0.585,
+        "key": 2,
+        "loudness": -8.891,
+        "mode": 1,
+        "speechiness": 0.0517,
+        "acousticness": 0.0118,
+        "instrumentalness": 0.907,
+        "liveness": 0.193,
+        "valence": 0.17,
+        "tempo": 112.052,
+        "type": "audio_features",
+        "id": "7Lp6gYzsrAvuv0qPdAJ2yA",
+        "uri": "spotify:track:7Lp6gYzsrAvuv0qPdAJ2yA",
+        "track_href": "https://api.spotify.com/v1/tracks/7Lp6gYzsrAvuv0qPdAJ2yA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7Lp6gYzsrAvuv0qPdAJ2yA",
+        "duration_ms": 545813,
+        "time_signature": 4
+      }
+    ]
+  }
+]

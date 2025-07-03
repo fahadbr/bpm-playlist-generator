@@ -1,0 +1,350 @@
+[
+  {
+    "id": "3J7DDL3rGkwlIm4UkIyZcQ",
+    "name": "introll",
+    "artist": "Logic",
+    "album": "Bobby Tarantino III",
+    "bpm": 162.055,
+    "features": [
+      {
+        "danceability": 0.768,
+        "energy": 0.503,
+        "key": 2,
+        "loudness": -9.929,
+        "mode": 1,
+        "speechiness": 0.552,
+        "acousticness": 0.0867,
+        "instrumentalness": 0.0333,
+        "liveness": 0.104,
+        "valence": 0.528,
+        "tempo": 162.055,
+        "type": "audio_features",
+        "id": "3J7DDL3rGkwlIm4UkIyZcQ",
+        "uri": "spotify:track:3J7DDL3rGkwlIm4UkIyZcQ",
+        "track_href": "https://api.spotify.com/v1/tracks/3J7DDL3rGkwlIm4UkIyZcQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3J7DDL3rGkwlIm4UkIyZcQ",
+        "duration_ms": 59579,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4lHBn99hzTKCqmEGoZaZcL",
+    "name": "Vaccine",
+    "artist": "Logic",
+    "album": "Bobby Tarantino III",
+    "bpm": 149.922,
+    "features": [
+      {
+        "danceability": 0.785,
+        "energy": 0.612,
+        "key": 5,
+        "loudness": -4.068,
+        "mode": 1,
+        "speechiness": 0.0521,
+        "acousticness": 0.043,
+        "instrumentalness": 0,
+        "liveness": 0.108,
+        "valence": 0.583,
+        "tempo": 149.922,
+        "type": "audio_features",
+        "id": "4lHBn99hzTKCqmEGoZaZcL",
+        "uri": "spotify:track:4lHBn99hzTKCqmEGoZaZcL",
+        "track_href": "https://api.spotify.com/v1/tracks/4lHBn99hzTKCqmEGoZaZcL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4lHBn99hzTKCqmEGoZaZcL",
+        "duration_ms": 121559,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6XOY1Y6mZmkzoa9NDfozt3",
+    "name": "Get Up",
+    "artist": "Logic",
+    "album": "Bobby Tarantino III",
+    "bpm": 153.085,
+    "features": [
+      {
+        "danceability": 0.692,
+        "energy": 0.662,
+        "key": 0,
+        "loudness": -7.694,
+        "mode": 0,
+        "speechiness": 0.033,
+        "acousticness": 0.267,
+        "instrumentalness": 0.0214,
+        "liveness": 0.112,
+        "valence": 0.722,
+        "tempo": 153.085,
+        "type": "audio_features",
+        "id": "6XOY1Y6mZmkzoa9NDfozt3",
+        "uri": "spotify:track:6XOY1Y6mZmkzoa9NDfozt3",
+        "track_href": "https://api.spotify.com/v1/tracks/6XOY1Y6mZmkzoa9NDfozt3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6XOY1Y6mZmkzoa9NDfozt3",
+        "duration_ms": 213335,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "26xfrX9phl1NNsz1H5TJJn",
+    "name": "My Way",
+    "artist": "Logic",
+    "album": "Bobby Tarantino III",
+    "bpm": 184.021,
+    "features": [
+      {
+        "danceability": 0.608,
+        "energy": 0.667,
+        "key": 8,
+        "loudness": -5.751,
+        "mode": 1,
+        "speechiness": 0.0399,
+        "acousticness": 0.0186,
+        "instrumentalness": 0,
+        "liveness": 0.119,
+        "valence": 0.15,
+        "tempo": 184.021,
+        "type": "audio_features",
+        "id": "26xfrX9phl1NNsz1H5TJJn",
+        "uri": "spotify:track:26xfrX9phl1NNsz1H5TJJn",
+        "track_href": "https://api.spotify.com/v1/tracks/26xfrX9phl1NNsz1H5TJJn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/26xfrX9phl1NNsz1H5TJJn",
+        "duration_ms": 156530,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3GnKQbsTncWdliHNgqg0Av",
+    "name": "Call Me",
+    "artist": "Logic",
+    "album": "Bobby Tarantino III",
+    "bpm": 154.178,
+    "features": [
+      {
+        "danceability": 0.714,
+        "energy": 0.621,
+        "key": 11,
+        "loudness": -10.566,
+        "mode": 0,
+        "speechiness": 0.244,
+        "acousticness": 0.271,
+        "instrumentalness": 0.00393,
+        "liveness": 0.0783,
+        "valence": 0.627,
+        "tempo": 154.178,
+        "type": "audio_features",
+        "id": "3GnKQbsTncWdliHNgqg0Av",
+        "uri": "spotify:track:3GnKQbsTncWdliHNgqg0Av",
+        "track_href": "https://api.spotify.com/v1/tracks/3GnKQbsTncWdliHNgqg0Av",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3GnKQbsTncWdliHNgqg0Av",
+        "duration_ms": 210177,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4FC0MkDV5elZUcHDXZm1nj",
+    "name": "Inside (feat. Cynthia Erivo)",
+    "artist": "Logic",
+    "album": "Bobby Tarantino III",
+    "bpm": 88.365,
+    "features": [
+      {
+        "danceability": 0.39,
+        "energy": 0.479,
+        "key": 3,
+        "loudness": -7.362,
+        "mode": 0,
+        "speechiness": 0.0563,
+        "acousticness": 0.168,
+        "instrumentalness": 5.82e-06,
+        "liveness": 0.111,
+        "valence": 0.15,
+        "tempo": 88.365,
+        "type": "audio_features",
+        "id": "4FC0MkDV5elZUcHDXZm1nj",
+        "uri": "spotify:track:4FC0MkDV5elZUcHDXZm1nj",
+        "track_href": "https://api.spotify.com/v1/tracks/4FC0MkDV5elZUcHDXZm1nj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4FC0MkDV5elZUcHDXZm1nj",
+        "duration_ms": 140370,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "0OUZoXhXP1XbJnaez0jSJ4",
+    "name": "Flawless",
+    "artist": "Logic",
+    "album": "Bobby Tarantino III",
+    "bpm": 137.054,
+    "features": [
+      {
+        "danceability": 0.742,
+        "energy": 0.654,
+        "key": 9,
+        "loudness": -6.992,
+        "mode": 1,
+        "speechiness": 0.2,
+        "acousticness": 0.334,
+        "instrumentalness": 1.18e-06,
+        "liveness": 0.108,
+        "valence": 0.558,
+        "tempo": 137.054,
+        "type": "audio_features",
+        "id": "0OUZoXhXP1XbJnaez0jSJ4",
+        "uri": "spotify:track:0OUZoXhXP1XbJnaez0jSJ4",
+        "track_href": "https://api.spotify.com/v1/tracks/0OUZoXhXP1XbJnaez0jSJ4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0OUZoXhXP1XbJnaez0jSJ4",
+        "duration_ms": 224150,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0aROixALIghwvjNG4iD8pI",
+    "name": "Stupid Skit",
+    "artist": "Logic",
+    "album": "Bobby Tarantino III",
+    "bpm": 77.037,
+    "features": [
+      {
+        "danceability": 0.838,
+        "energy": 0.694,
+        "key": 11,
+        "loudness": -6.234,
+        "mode": 1,
+        "speechiness": 0.176,
+        "acousticness": 0.189,
+        "instrumentalness": 0.000129,
+        "liveness": 0.131,
+        "valence": 0.783,
+        "tempo": 77.037,
+        "type": "audio_features",
+        "id": "0aROixALIghwvjNG4iD8pI",
+        "uri": "spotify:track:0aROixALIghwvjNG4iD8pI",
+        "track_href": "https://api.spotify.com/v1/tracks/0aROixALIghwvjNG4iD8pI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0aROixALIghwvjNG4iD8pI",
+        "duration_ms": 49535,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "08dXaiP8qdpvQqGKv5rUqE",
+    "name": "Theme For The People",
+    "artist": "Logic",
+    "album": "Bobby Tarantino III",
+    "bpm": 138.055,
+    "features": [
+      {
+        "danceability": 0.793,
+        "energy": 0.908,
+        "key": 2,
+        "loudness": -4.021,
+        "mode": 0,
+        "speechiness": 0.058,
+        "acousticness": 0.618,
+        "instrumentalness": 0,
+        "liveness": 0.105,
+        "valence": 0.836,
+        "tempo": 138.055,
+        "type": "audio_features",
+        "id": "08dXaiP8qdpvQqGKv5rUqE",
+        "uri": "spotify:track:08dXaiP8qdpvQqGKv5rUqE",
+        "track_href": "https://api.spotify.com/v1/tracks/08dXaiP8qdpvQqGKv5rUqE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/08dXaiP8qdpvQqGKv5rUqE",
+        "duration_ms": 116830,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0p0b3Sq6hHoWLjQwND3etN",
+    "name": "God Might Judge",
+    "artist": "Logic",
+    "album": "Bobby Tarantino III",
+    "bpm": 93.032,
+    "features": [
+      {
+        "danceability": 0.517,
+        "energy": 0.82,
+        "key": 11,
+        "loudness": -3.868,
+        "mode": 0,
+        "speechiness": 0.138,
+        "acousticness": 0.0725,
+        "instrumentalness": 0,
+        "liveness": 0.362,
+        "valence": 0.483,
+        "tempo": 93.032,
+        "type": "audio_features",
+        "id": "0p0b3Sq6hHoWLjQwND3etN",
+        "uri": "spotify:track:0p0b3Sq6hHoWLjQwND3etN",
+        "track_href": "https://api.spotify.com/v1/tracks/0p0b3Sq6hHoWLjQwND3etN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0p0b3Sq6hHoWLjQwND3etN",
+        "duration_ms": 330075,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2wRHD4n81GyhlVMxYJ0nks",
+    "name": "See You Space Cowboy...",
+    "artist": "Logic",
+    "album": "Bobby Tarantino III",
+    "bpm": 93.994,
+    "features": [
+      {
+        "danceability": 0.507,
+        "energy": 0.817,
+        "key": 10,
+        "loudness": -5.264,
+        "mode": 0,
+        "speechiness": 0.276,
+        "acousticness": 0.0172,
+        "instrumentalness": 1.39e-06,
+        "liveness": 0.108,
+        "valence": 0.522,
+        "tempo": 93.994,
+        "type": "audio_features",
+        "id": "2wRHD4n81GyhlVMxYJ0nks",
+        "uri": "spotify:track:2wRHD4n81GyhlVMxYJ0nks",
+        "track_href": "https://api.spotify.com/v1/tracks/2wRHD4n81GyhlVMxYJ0nks",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2wRHD4n81GyhlVMxYJ0nks",
+        "duration_ms": 240229,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4ADNavlMOA9rx9hKw51PCW",
+    "name": "untitled",
+    "artist": "Logic",
+    "album": "Bobby Tarantino III",
+    "bpm": 93.14,
+    "features": [
+      {
+        "danceability": 0.726,
+        "energy": 0.674,
+        "key": 9,
+        "loudness": -4.683,
+        "mode": 0,
+        "speechiness": 0.213,
+        "acousticness": 0.252,
+        "instrumentalness": 0.000163,
+        "liveness": 0.0991,
+        "valence": 0.323,
+        "tempo": 93.14,
+        "type": "audio_features",
+        "id": "4ADNavlMOA9rx9hKw51PCW",
+        "uri": "spotify:track:4ADNavlMOA9rx9hKw51PCW",
+        "track_href": "https://api.spotify.com/v1/tracks/4ADNavlMOA9rx9hKw51PCW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ADNavlMOA9rx9hKw51PCW",
+        "duration_ms": 129197,
+        "time_signature": 4
+      }
+    ]
+  }
+]

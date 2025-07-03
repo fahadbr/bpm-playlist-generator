@@ -1,0 +1,321 @@
+[
+  {
+    "id": "5wL742yBgvtbw1IibA3FMJ",
+    "name": "Falling",
+    "artist": "HAIM",
+    "album": "Days Are Gone",
+    "bpm": 111.969,
+    "features": [
+      {
+        "danceability": 0.741,
+        "energy": 0.894,
+        "key": 2,
+        "loudness": -5.648,
+        "mode": 1,
+        "speechiness": 0.069,
+        "acousticness": 0.076,
+        "instrumentalness": 4.89e-05,
+        "liveness": 0.0835,
+        "valence": 0.297,
+        "tempo": 111.969,
+        "type": "audio_features",
+        "id": "5wL742yBgvtbw1IibA3FMJ",
+        "uri": "spotify:track:5wL742yBgvtbw1IibA3FMJ",
+        "track_href": "https://api.spotify.com/v1/tracks/5wL742yBgvtbw1IibA3FMJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5wL742yBgvtbw1IibA3FMJ",
+        "duration_ms": 257733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2319gHincsCeSmc19Efi2j",
+    "name": "Forever",
+    "artist": "HAIM",
+    "album": "Days Are Gone",
+    "bpm": 117.984,
+    "features": [
+      {
+        "danceability": 0.773,
+        "energy": 0.867,
+        "key": 0,
+        "loudness": -4.595,
+        "mode": 1,
+        "speechiness": 0.0603,
+        "acousticness": 0.145,
+        "instrumentalness": 0.000333,
+        "liveness": 0.105,
+        "valence": 0.592,
+        "tempo": 117.984,
+        "type": "audio_features",
+        "id": "2319gHincsCeSmc19Efi2j",
+        "uri": "spotify:track:2319gHincsCeSmc19Efi2j",
+        "track_href": "https://api.spotify.com/v1/tracks/2319gHincsCeSmc19Efi2j",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2319gHincsCeSmc19Efi2j",
+        "duration_ms": 245307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6golelYKuy85o3u0cxIxFK",
+    "name": "The Wire",
+    "artist": "HAIM",
+    "album": "Days Are Gone",
+    "bpm": 113.678,
+    "features": [
+      {
+        "danceability": 0.547,
+        "energy": 0.635,
+        "key": 2,
+        "loudness": -5.569,
+        "mode": 1,
+        "speechiness": 0.137,
+        "acousticness": 0.0127,
+        "instrumentalness": 5.01e-06,
+        "liveness": 0.0585,
+        "valence": 0.525,
+        "tempo": 113.678,
+        "type": "audio_features",
+        "id": "6golelYKuy85o3u0cxIxFK",
+        "uri": "spotify:track:6golelYKuy85o3u0cxIxFK",
+        "track_href": "https://api.spotify.com/v1/tracks/6golelYKuy85o3u0cxIxFK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6golelYKuy85o3u0cxIxFK",
+        "duration_ms": 245293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "056mbYcqyQo86Rfr9XfyYm",
+    "name": "If I Could Change Your Mind",
+    "artist": "HAIM",
+    "album": "Days Are Gone",
+    "bpm": 125.004,
+    "features": [
+      {
+        "danceability": 0.671,
+        "energy": 0.85,
+        "key": 2,
+        "loudness": -5.557,
+        "mode": 0,
+        "speechiness": 0.0426,
+        "acousticness": 0.0183,
+        "instrumentalness": 9.82e-05,
+        "liveness": 0.0766,
+        "valence": 0.736,
+        "tempo": 125.004,
+        "type": "audio_features",
+        "id": "056mbYcqyQo86Rfr9XfyYm",
+        "uri": "spotify:track:056mbYcqyQo86Rfr9XfyYm",
+        "track_href": "https://api.spotify.com/v1/tracks/056mbYcqyQo86Rfr9XfyYm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/056mbYcqyQo86Rfr9XfyYm",
+        "duration_ms": 229373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1KM2YtlA69C6WKbxA1vdsR",
+    "name": "Honey & I",
+    "artist": "HAIM",
+    "album": "Days Are Gone",
+    "bpm": 159.596,
+    "features": [
+      {
+        "danceability": 0.436,
+        "energy": 0.809,
+        "key": 2,
+        "loudness": -6.423,
+        "mode": 1,
+        "speechiness": 0.053,
+        "acousticness": 0.0937,
+        "instrumentalness": 0.00289,
+        "liveness": 0.179,
+        "valence": 0.761,
+        "tempo": 159.596,
+        "type": "audio_features",
+        "id": "1KM2YtlA69C6WKbxA1vdsR",
+        "uri": "spotify:track:1KM2YtlA69C6WKbxA1vdsR",
+        "track_href": "https://api.spotify.com/v1/tracks/1KM2YtlA69C6WKbxA1vdsR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1KM2YtlA69C6WKbxA1vdsR",
+        "duration_ms": 250133,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Je5Vjd8VXVpQYcOiav5KU",
+    "name": "Don't Save Me",
+    "artist": "HAIM",
+    "album": "Days Are Gone",
+    "bpm": 139.963,
+    "features": [
+      {
+        "danceability": 0.676,
+        "energy": 0.889,
+        "key": 7,
+        "loudness": -4.277,
+        "mode": 1,
+        "speechiness": 0.0441,
+        "acousticness": 0.0284,
+        "instrumentalness": 1.2e-06,
+        "liveness": 0.0978,
+        "valence": 0.649,
+        "tempo": 139.963,
+        "type": "audio_features",
+        "id": "6Je5Vjd8VXVpQYcOiav5KU",
+        "uri": "spotify:track:6Je5Vjd8VXVpQYcOiav5KU",
+        "track_href": "https://api.spotify.com/v1/tracks/6Je5Vjd8VXVpQYcOiav5KU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Je5Vjd8VXVpQYcOiav5KU",
+        "duration_ms": 230293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5pKVh2W9oZkfRVmzf4UeYD",
+    "name": "Days Are Gone",
+    "artist": "HAIM",
+    "album": "Days Are Gone",
+    "bpm": 119.999,
+    "features": [
+      {
+        "danceability": 0.743,
+        "energy": 0.88,
+        "key": 9,
+        "loudness": -4.748,
+        "mode": 0,
+        "speechiness": 0.0509,
+        "acousticness": 0.0059,
+        "instrumentalness": 1.78e-06,
+        "liveness": 0.0539,
+        "valence": 0.477,
+        "tempo": 119.999,
+        "type": "audio_features",
+        "id": "5pKVh2W9oZkfRVmzf4UeYD",
+        "uri": "spotify:track:5pKVh2W9oZkfRVmzf4UeYD",
+        "track_href": "https://api.spotify.com/v1/tracks/5pKVh2W9oZkfRVmzf4UeYD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5pKVh2W9oZkfRVmzf4UeYD",
+        "duration_ms": 213320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0jCGo9MLTR98iPUQCT0p5r",
+    "name": "My Song 5",
+    "artist": "HAIM",
+    "album": "Days Are Gone",
+    "bpm": 152.496,
+    "features": [
+      {
+        "danceability": 0.65,
+        "energy": 0.658,
+        "key": 11,
+        "loudness": -5.698,
+        "mode": 0,
+        "speechiness": 0.113,
+        "acousticness": 0.331,
+        "instrumentalness": 0,
+        "liveness": 0.108,
+        "valence": 0.863,
+        "tempo": 152.496,
+        "type": "audio_features",
+        "id": "0jCGo9MLTR98iPUQCT0p5r",
+        "uri": "spotify:track:0jCGo9MLTR98iPUQCT0p5r",
+        "track_href": "https://api.spotify.com/v1/tracks/0jCGo9MLTR98iPUQCT0p5r",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0jCGo9MLTR98iPUQCT0p5r",
+        "duration_ms": 232107,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5mKbFgEbuYRJRvl7SlPpRf",
+    "name": "Go Slow",
+    "artist": "HAIM",
+    "album": "Days Are Gone",
+    "bpm": 145.061,
+    "features": [
+      {
+        "danceability": 0.676,
+        "energy": 0.707,
+        "key": 11,
+        "loudness": -6.834,
+        "mode": 0,
+        "speechiness": 0.0304,
+        "acousticness": 0.17,
+        "instrumentalness": 0.00516,
+        "liveness": 0.0889,
+        "valence": 0.804,
+        "tempo": 145.061,
+        "type": "audio_features",
+        "id": "5mKbFgEbuYRJRvl7SlPpRf",
+        "uri": "spotify:track:5mKbFgEbuYRJRvl7SlPpRf",
+        "track_href": "https://api.spotify.com/v1/tracks/5mKbFgEbuYRJRvl7SlPpRf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5mKbFgEbuYRJRvl7SlPpRf",
+        "duration_ms": 256880,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "26Ij4Z5uXledB0fRg7V9av",
+    "name": "Let Me Go",
+    "artist": "HAIM",
+    "album": "Days Are Gone",
+    "bpm": 127.884,
+    "features": [
+      {
+        "danceability": 0.397,
+        "energy": 0.835,
+        "key": 0,
+        "loudness": -5.803,
+        "mode": 1,
+        "speechiness": 0.15,
+        "acousticness": 0.0237,
+        "instrumentalness": 0.00122,
+        "liveness": 0.111,
+        "valence": 0.0911,
+        "tempo": 127.884,
+        "type": "audio_features",
+        "id": "26Ij4Z5uXledB0fRg7V9av",
+        "uri": "spotify:track:26Ij4Z5uXledB0fRg7V9av",
+        "track_href": "https://api.spotify.com/v1/tracks/26Ij4Z5uXledB0fRg7V9av",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/26Ij4Z5uXledB0fRg7V9av",
+        "duration_ms": 248240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7p3vvpBKc7QRY1ur4qj2jP",
+    "name": "Running If You Call My Name",
+    "artist": "HAIM",
+    "album": "Days Are Gone",
+    "bpm": 134.389,
+    "features": [
+      {
+        "danceability": 0.619,
+        "energy": 0.95,
+        "key": 0,
+        "loudness": -5.361,
+        "mode": 1,
+        "speechiness": 0.0571,
+        "acousticness": 0.024,
+        "instrumentalness": 0.176,
+        "liveness": 0.0654,
+        "valence": 0.445,
+        "tempo": 134.389,
+        "type": "audio_features",
+        "id": "7p3vvpBKc7QRY1ur4qj2jP",
+        "uri": "spotify:track:7p3vvpBKc7QRY1ur4qj2jP",
+        "track_href": "https://api.spotify.com/v1/tracks/7p3vvpBKc7QRY1ur4qj2jP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7p3vvpBKc7QRY1ur4qj2jP",
+        "duration_ms": 242520,
+        "time_signature": 4
+      }
+    ]
+  }
+]

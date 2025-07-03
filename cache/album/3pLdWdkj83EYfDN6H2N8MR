@@ -1,0 +1,408 @@
+[
+  {
+    "id": "5qN4HFkapdAOV94XPryVof",
+    "name": "Black Panther",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 90.035,
+    "features": [
+      {
+        "danceability": 0.619,
+        "energy": 0.582,
+        "key": 1,
+        "loudness": -9.454,
+        "mode": 1,
+        "speechiness": 0.297,
+        "acousticness": 0.625,
+        "instrumentalness": 3.84e-06,
+        "liveness": 0.265,
+        "valence": 0.48,
+        "tempo": 90.035,
+        "type": "audio_features",
+        "id": "5qN4HFkapdAOV94XPryVof",
+        "uri": "spotify:track:5qN4HFkapdAOV94XPryVof",
+        "track_href": "https://api.spotify.com/v1/tracks/5qN4HFkapdAOV94XPryVof",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5qN4HFkapdAOV94XPryVof",
+        "duration_ms": 130613,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3GCdLUSnKSMJhs4Tj6CV3s",
+    "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 96.782,
+    "features": [
+      {
+        "danceability": 0.695,
+        "energy": 0.633,
+        "key": 8,
+        "loudness": -4.946,
+        "mode": 1,
+        "speechiness": 0.0599,
+        "acousticness": 0.0612,
+        "instrumentalness": 0.000195,
+        "liveness": 0.0926,
+        "valence": 0.557,
+        "tempo": 96.782,
+        "type": "audio_features",
+        "id": "3GCdLUSnKSMJhs4Tj6CV3s",
+        "uri": "spotify:track:3GCdLUSnKSMJhs4Tj6CV3s",
+        "track_href": "https://api.spotify.com/v1/tracks/3GCdLUSnKSMJhs4Tj6CV3s",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3GCdLUSnKSMJhs4Tj6CV3s",
+        "duration_ms": 232187,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4LmAnpjlhWTahvRkYR8xJa",
+    "name": "X (with 2 Chainz & Saudi)",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 131.018,
+    "features": [
+      {
+        "danceability": 0.776,
+        "energy": 0.471,
+        "key": 2,
+        "loudness": -8.406,
+        "mode": 1,
+        "speechiness": 0.253,
+        "acousticness": 0.0203,
+        "instrumentalness": 0,
+        "liveness": 0.268,
+        "valence": 0.405,
+        "tempo": 131.018,
+        "type": "audio_features",
+        "id": "4LmAnpjlhWTahvRkYR8xJa",
+        "uri": "spotify:track:4LmAnpjlhWTahvRkYR8xJa",
+        "track_href": "https://api.spotify.com/v1/tracks/4LmAnpjlhWTahvRkYR8xJa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4LmAnpjlhWTahvRkYR8xJa",
+        "duration_ms": 267427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5jyyPsIGM2yqkZN9R3TmvN",
+    "name": "The Ways (with Swae Lee)",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 140.08,
+    "features": [
+      {
+        "danceability": 0.727,
+        "energy": 0.719,
+        "key": 11,
+        "loudness": -5.856,
+        "mode": 0,
+        "speechiness": 0.049,
+        "acousticness": 0.0622,
+        "instrumentalness": 1.16e-06,
+        "liveness": 0.229,
+        "valence": 0.589,
+        "tempo": 140.08,
+        "type": "audio_features",
+        "id": "5jyyPsIGM2yqkZN9R3TmvN",
+        "uri": "spotify:track:5jyyPsIGM2yqkZN9R3TmvN",
+        "track_href": "https://api.spotify.com/v1/tracks/5jyyPsIGM2yqkZN9R3TmvN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5jyyPsIGM2yqkZN9R3TmvN",
+        "duration_ms": 238893,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7bUcBztfGqO7cSI2gMZeCI",
+    "name": "Opps (with Yugen Blakrok)",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 127.929,
+    "features": [
+      {
+        "danceability": 0.706,
+        "energy": 0.775,
+        "key": 1,
+        "loudness": -6.819,
+        "mode": 1,
+        "speechiness": 0.335,
+        "acousticness": 0.152,
+        "instrumentalness": 3.4e-05,
+        "liveness": 0.416,
+        "valence": 0.848,
+        "tempo": 127.929,
+        "type": "audio_features",
+        "id": "7bUcBztfGqO7cSI2gMZeCI",
+        "uri": "spotify:track:7bUcBztfGqO7cSI2gMZeCI",
+        "track_href": "https://api.spotify.com/v1/tracks/7bUcBztfGqO7cSI2gMZeCI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7bUcBztfGqO7cSI2gMZeCI",
+        "duration_ms": 180893,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0DJBgBiYeSn6n1AXAkFVE8",
+    "name": "I Am",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 148.776,
+    "features": [
+      {
+        "danceability": 0.601,
+        "energy": 0.582,
+        "key": 8,
+        "loudness": -5.725,
+        "mode": 0,
+        "speechiness": 0.264,
+        "acousticness": 0.143,
+        "instrumentalness": 9.78e-05,
+        "liveness": 0.183,
+        "valence": 0.315,
+        "tempo": 148.776,
+        "type": "audio_features",
+        "id": "0DJBgBiYeSn6n1AXAkFVE8",
+        "uri": "spotify:track:0DJBgBiYeSn6n1AXAkFVE8",
+        "track_href": "https://api.spotify.com/v1/tracks/0DJBgBiYeSn6n1AXAkFVE8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0DJBgBiYeSn6n1AXAkFVE8",
+        "duration_ms": 208760,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2tPcTFiQF9MbVUyjZ3zDhA",
+    "name": "Paramedic!",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 97.017,
+    "features": [
+      {
+        "danceability": 0.856,
+        "energy": 0.653,
+        "key": 1,
+        "loudness": -5.324,
+        "mode": 1,
+        "speechiness": 0.143,
+        "acousticness": 0.178,
+        "instrumentalness": 0,
+        "liveness": 0.193,
+        "valence": 0.471,
+        "tempo": 97.017,
+        "type": "audio_features",
+        "id": "2tPcTFiQF9MbVUyjZ3zDhA",
+        "uri": "spotify:track:2tPcTFiQF9MbVUyjZ3zDhA",
+        "track_href": "https://api.spotify.com/v1/tracks/2tPcTFiQF9MbVUyjZ3zDhA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2tPcTFiQF9MbVUyjZ3zDhA",
+        "duration_ms": 219307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4KXwFI9pgJLpUIAc9oSL8j",
+    "name": "Bloody Waters (with Anderson .Paak & James Blake)",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 180.593,
+    "features": [
+      {
+        "danceability": 0.507,
+        "energy": 0.606,
+        "key": 8,
+        "loudness": -8.758,
+        "mode": 1,
+        "speechiness": 0.452,
+        "acousticness": 0.184,
+        "instrumentalness": 0,
+        "liveness": 0.174,
+        "valence": 0.202,
+        "tempo": 180.593,
+        "type": "audio_features",
+        "id": "4KXwFI9pgJLpUIAc9oSL8j",
+        "uri": "spotify:track:4KXwFI9pgJLpUIAc9oSL8j",
+        "track_href": "https://api.spotify.com/v1/tracks/4KXwFI9pgJLpUIAc9oSL8j",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4KXwFI9pgJLpUIAc9oSL8j",
+        "duration_ms": 272307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1eLSF6HfrRA0AsNmTkUlKx",
+    "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 81.772,
+    "features": [
+      {
+        "danceability": 0.566,
+        "energy": 0.724,
+        "key": 1,
+        "loudness": -4.573,
+        "mode": 1,
+        "speechiness": 0.323,
+        "acousticness": 0.00104,
+        "instrumentalness": 0,
+        "liveness": 0.158,
+        "valence": 0.408,
+        "tempo": 81.772,
+        "type": "audio_features",
+        "id": "1eLSF6HfrRA0AsNmTkUlKx",
+        "uri": "spotify:track:1eLSF6HfrRA0AsNmTkUlKx",
+        "track_href": "https://api.spotify.com/v1/tracks/1eLSF6HfrRA0AsNmTkUlKx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1eLSF6HfrRA0AsNmTkUlKx",
+        "duration_ms": 225267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4FpfU1O7WCLBnmwu5XAFk4",
+    "name": "Redemption Interlude",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 121.164,
+    "features": [
+      {
+        "danceability": 0.55,
+        "energy": 0.449,
+        "key": 9,
+        "loudness": -13.645,
+        "mode": 0,
+        "speechiness": 0.103,
+        "acousticness": 0.656,
+        "instrumentalness": 4.8e-05,
+        "liveness": 0.0866,
+        "valence": 0.222,
+        "tempo": 121.164,
+        "type": "audio_features",
+        "id": "4FpfU1O7WCLBnmwu5XAFk4",
+        "uri": "spotify:track:4FpfU1O7WCLBnmwu5XAFk4",
+        "track_href": "https://api.spotify.com/v1/tracks/4FpfU1O7WCLBnmwu5XAFk4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4FpfU1O7WCLBnmwu5XAFk4",
+        "duration_ms": 85267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "76iVOVsliCHlWqKuDnCfhE",
+    "name": "Redemption (with Babes Wodumo)",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 125.062,
+    "features": [
+      {
+        "danceability": 0.778,
+        "energy": 0.764,
+        "key": 11,
+        "loudness": -7.175,
+        "mode": 0,
+        "speechiness": 0.127,
+        "acousticness": 0.139,
+        "instrumentalness": 0.0274,
+        "liveness": 0.123,
+        "valence": 0.642,
+        "tempo": 125.062,
+        "type": "audio_features",
+        "id": "76iVOVsliCHlWqKuDnCfhE",
+        "uri": "spotify:track:76iVOVsliCHlWqKuDnCfhE",
+        "track_href": "https://api.spotify.com/v1/tracks/76iVOVsliCHlWqKuDnCfhE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/76iVOVsliCHlWqKuDnCfhE",
+        "duration_ms": 222093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "35cOyocq8Gb6UcT0NWeTwn",
+    "name": "Seasons (with Sjava & Reason)",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 126.698,
+    "features": [
+      {
+        "danceability": 0.628,
+        "energy": 0.556,
+        "key": 1,
+        "loudness": -6.76,
+        "mode": 1,
+        "speechiness": 0.328,
+        "acousticness": 0.279,
+        "instrumentalness": 0,
+        "liveness": 0.158,
+        "valence": 0.32,
+        "tempo": 126.698,
+        "type": "audio_features",
+        "id": "35cOyocq8Gb6UcT0NWeTwn",
+        "uri": "spotify:track:35cOyocq8Gb6UcT0NWeTwn",
+        "track_href": "https://api.spotify.com/v1/tracks/35cOyocq8Gb6UcT0NWeTwn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/35cOyocq8Gb6UcT0NWeTwn",
+        "duration_ms": 242293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5cXg9IQS34FzLVdHhp7hu7",
+    "name": "Big Shot (with Travis Scott)",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 130.018,
+    "features": [
+      {
+        "danceability": 0.855,
+        "energy": 0.478,
+        "key": 1,
+        "loudness": -9.116,
+        "mode": 1,
+        "speechiness": 0.193,
+        "acousticness": 0.00759,
+        "instrumentalness": 0,
+        "liveness": 0.101,
+        "valence": 0.283,
+        "tempo": 130.018,
+        "type": "audio_features",
+        "id": "5cXg9IQS34FzLVdHhp7hu7",
+        "uri": "spotify:track:5cXg9IQS34FzLVdHhp7hu7",
+        "track_href": "https://api.spotify.com/v1/tracks/5cXg9IQS34FzLVdHhp7hu7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5cXg9IQS34FzLVdHhp7hu7",
+        "duration_ms": 221827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "77UjLW8j5UAGAGVGhR5oUK",
+    "name": "Pray For Me (with Kendrick Lamar)",
+    "artist": "Kendrick Lamar",
+    "album": "Black Panther The Album Music From And Inspired By",
+    "bpm": 100.563,
+    "features": [
+      {
+        "danceability": 0.735,
+        "energy": 0.677,
+        "key": 2,
+        "loudness": -4.979,
+        "mode": 1,
+        "speechiness": 0.0932,
+        "acousticness": 0.0756,
+        "instrumentalness": 2.17e-05,
+        "liveness": 0.111,
+        "valence": 0.187,
+        "tempo": 100.563,
+        "type": "audio_features",
+        "id": "77UjLW8j5UAGAGVGhR5oUK",
+        "uri": "spotify:track:77UjLW8j5UAGAGVGhR5oUK",
+        "track_href": "https://api.spotify.com/v1/tracks/77UjLW8j5UAGAGVGhR5oUK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/77UjLW8j5UAGAGVGhR5oUK",
+        "duration_ms": 211440,
+        "time_signature": 4
+      }
+    ]
+  }
+]

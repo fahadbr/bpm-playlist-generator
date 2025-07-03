@@ -1,0 +1,118 @@
+[
+  {
+    "id": "6OEJf2FP31D5LQHtTVRNJp",
+    "name": "I'm There",
+    "artist": "H\u00c6LOS",
+    "album": "I'm There",
+    "bpm": 81.007,
+    "features": [
+      {
+        "danceability": 0.618,
+        "energy": 0.253,
+        "key": 11,
+        "loudness": -16.336,
+        "mode": 0,
+        "speechiness": 0.0308,
+        "acousticness": 0.732,
+        "instrumentalness": 0.0049,
+        "liveness": 0.0851,
+        "valence": 0.362,
+        "tempo": 81.007,
+        "type": "audio_features",
+        "id": "6OEJf2FP31D5LQHtTVRNJp",
+        "uri": "spotify:track:6OEJf2FP31D5LQHtTVRNJp",
+        "track_href": "https://api.spotify.com/v1/tracks/6OEJf2FP31D5LQHtTVRNJp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6OEJf2FP31D5LQHtTVRNJp",
+        "duration_ms": 279605,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4go8e3GDxEIjqz7AkdxR2W",
+    "name": "Hold On",
+    "artist": "H\u00c6LOS",
+    "album": "I'm There",
+    "bpm": 100.022,
+    "features": [
+      {
+        "danceability": 0.641,
+        "energy": 0.581,
+        "key": 9,
+        "loudness": -12.607,
+        "mode": 0,
+        "speechiness": 0.0425,
+        "acousticness": 0.395,
+        "instrumentalness": 0.454,
+        "liveness": 0.0967,
+        "valence": 0.248,
+        "tempo": 100.022,
+        "type": "audio_features",
+        "id": "4go8e3GDxEIjqz7AkdxR2W",
+        "uri": "spotify:track:4go8e3GDxEIjqz7AkdxR2W",
+        "track_href": "https://api.spotify.com/v1/tracks/4go8e3GDxEIjqz7AkdxR2W",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4go8e3GDxEIjqz7AkdxR2W",
+        "duration_ms": 238251,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "21RK93h8VJjBKaGgefZ1ro",
+    "name": "Perfectly Broken",
+    "artist": "H\u00c6LOS",
+    "album": "I'm There",
+    "bpm": 150.066,
+    "features": [
+      {
+        "danceability": 0.696,
+        "energy": 0.467,
+        "key": 11,
+        "loudness": -13.254,
+        "mode": 0,
+        "speechiness": 0.0432,
+        "acousticness": 0.202,
+        "instrumentalness": 0.177,
+        "liveness": 0.126,
+        "valence": 0.782,
+        "tempo": 150.066,
+        "type": "audio_features",
+        "id": "21RK93h8VJjBKaGgefZ1ro",
+        "uri": "spotify:track:21RK93h8VJjBKaGgefZ1ro",
+        "track_href": "https://api.spotify.com/v1/tracks/21RK93h8VJjBKaGgefZ1ro",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/21RK93h8VJjBKaGgefZ1ro",
+        "duration_ms": 240177,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6ouhFVapApY0INdJUV1fkl",
+    "name": "Unknown Melody",
+    "artist": "H\u00c6LOS",
+    "album": "I'm There",
+    "bpm": 114.009,
+    "features": [
+      {
+        "danceability": 0.737,
+        "energy": 0.637,
+        "key": 8,
+        "loudness": -11.547,
+        "mode": 0,
+        "speechiness": 0.037,
+        "acousticness": 0.17,
+        "instrumentalness": 0.0287,
+        "liveness": 0.0447,
+        "valence": 0.757,
+        "tempo": 114.009,
+        "type": "audio_features",
+        "id": "6ouhFVapApY0INdJUV1fkl",
+        "uri": "spotify:track:6ouhFVapApY0INdJUV1fkl",
+        "track_href": "https://api.spotify.com/v1/tracks/6ouhFVapApY0INdJUV1fkl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ouhFVapApY0INdJUV1fkl",
+        "duration_ms": 239746,
+        "time_signature": 4
+      }
+    ]
+  }
+]

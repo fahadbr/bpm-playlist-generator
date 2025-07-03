@@ -1,0 +1,553 @@
+[
+  {
+    "id": "7uMZy0bALAdneerERyr7Ks",
+    "name": "Reflektor",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 111.563,
+    "features": [
+      {
+        "danceability": 0.585,
+        "energy": 0.717,
+        "key": 11,
+        "loudness": -8.379,
+        "mode": 0,
+        "speechiness": 0.0311,
+        "acousticness": 0.0561,
+        "instrumentalness": 0.0148,
+        "liveness": 0.366,
+        "valence": 0.636,
+        "tempo": 111.563,
+        "type": "audio_features",
+        "id": "7uMZy0bALAdneerERyr7Ks",
+        "uri": "spotify:track:7uMZy0bALAdneerERyr7Ks",
+        "track_href": "https://api.spotify.com/v1/tracks/7uMZy0bALAdneerERyr7Ks",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7uMZy0bALAdneerERyr7Ks",
+        "duration_ms": 450984,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "66gQu4ZIHmDhB8H4wkwm5f",
+    "name": "We Exist",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 116.398,
+    "features": [
+      {
+        "danceability": 0.567,
+        "energy": 0.507,
+        "key": 1,
+        "loudness": -8.761,
+        "mode": 1,
+        "speechiness": 0.0267,
+        "acousticness": 0.00636,
+        "instrumentalness": 0.231,
+        "liveness": 0.17,
+        "valence": 0.335,
+        "tempo": 116.398,
+        "type": "audio_features",
+        "id": "66gQu4ZIHmDhB8H4wkwm5f",
+        "uri": "spotify:track:66gQu4ZIHmDhB8H4wkwm5f",
+        "track_href": "https://api.spotify.com/v1/tracks/66gQu4ZIHmDhB8H4wkwm5f",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/66gQu4ZIHmDhB8H4wkwm5f",
+        "duration_ms": 344010,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4iRkDdI4vhLjjAxUbH1664",
+    "name": "Flashbulb Eyes",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 171.43,
+    "features": [
+      {
+        "danceability": 0.47,
+        "energy": 0.929,
+        "key": 7,
+        "loudness": -6.414,
+        "mode": 1,
+        "speechiness": 0.0505,
+        "acousticness": 0.00203,
+        "instrumentalness": 0.217,
+        "liveness": 0.676,
+        "valence": 0.814,
+        "tempo": 171.43,
+        "type": "audio_features",
+        "id": "4iRkDdI4vhLjjAxUbH1664",
+        "uri": "spotify:track:4iRkDdI4vhLjjAxUbH1664",
+        "track_href": "https://api.spotify.com/v1/tracks/4iRkDdI4vhLjjAxUbH1664",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4iRkDdI4vhLjjAxUbH1664",
+        "duration_ms": 163030,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4OZyVAbGOcrv4BYv5xDjet",
+    "name": "Here Comes The Night Time",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 95.014,
+    "features": [
+      {
+        "danceability": 0.446,
+        "energy": 0.675,
+        "key": 10,
+        "loudness": -7.802,
+        "mode": 1,
+        "speechiness": 0.0464,
+        "acousticness": 0.038,
+        "instrumentalness": 0.43,
+        "liveness": 0.372,
+        "valence": 0.626,
+        "tempo": 95.014,
+        "type": "audio_features",
+        "id": "4OZyVAbGOcrv4BYv5xDjet",
+        "uri": "spotify:track:4OZyVAbGOcrv4BYv5xDjet",
+        "track_href": "https://api.spotify.com/v1/tracks/4OZyVAbGOcrv4BYv5xDjet",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4OZyVAbGOcrv4BYv5xDjet",
+        "duration_ms": 390490,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1PglrPaaUHsfp2Cka5CLdK",
+    "name": "Normal Person",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 117.285,
+    "features": [
+      {
+        "danceability": 0.406,
+        "energy": 0.729,
+        "key": 7,
+        "loudness": -5.36,
+        "mode": 1,
+        "speechiness": 0.0581,
+        "acousticness": 0.0182,
+        "instrumentalness": 0.0127,
+        "liveness": 0.0713,
+        "valence": 0.364,
+        "tempo": 117.285,
+        "type": "audio_features",
+        "id": "1PglrPaaUHsfp2Cka5CLdK",
+        "uri": "spotify:track:1PglrPaaUHsfp2Cka5CLdK",
+        "track_href": "https://api.spotify.com/v1/tracks/1PglrPaaUHsfp2Cka5CLdK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1PglrPaaUHsfp2Cka5CLdK",
+        "duration_ms": 268001,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0qtymhwMYML4RX6NTGjIIy",
+    "name": "You Already Know",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 177.173,
+    "features": [
+      {
+        "danceability": 0.325,
+        "energy": 0.923,
+        "key": 6,
+        "loudness": -4.552,
+        "mode": 0,
+        "speechiness": 0.104,
+        "acousticness": 0.0307,
+        "instrumentalness": 2.48e-05,
+        "liveness": 0.705,
+        "valence": 0.572,
+        "tempo": 177.173,
+        "type": "audio_features",
+        "id": "0qtymhwMYML4RX6NTGjIIy",
+        "uri": "spotify:track:0qtymhwMYML4RX6NTGjIIy",
+        "track_href": "https://api.spotify.com/v1/tracks/0qtymhwMYML4RX6NTGjIIy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0qtymhwMYML4RX6NTGjIIy",
+        "duration_ms": 239973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1AKKVEylH3YPYm64MTzl7M",
+    "name": "Joan Of Arc",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 133.985,
+    "features": [
+      {
+        "danceability": 0.523,
+        "energy": 0.61,
+        "key": 10,
+        "loudness": -8.228,
+        "mode": 0,
+        "speechiness": 0.0293,
+        "acousticness": 0.00899,
+        "instrumentalness": 0.535,
+        "liveness": 0.352,
+        "valence": 0.349,
+        "tempo": 133.985,
+        "type": "audio_features",
+        "id": "1AKKVEylH3YPYm64MTzl7M",
+        "uri": "spotify:track:1AKKVEylH3YPYm64MTzl7M",
+        "track_href": "https://api.spotify.com/v1/tracks/1AKKVEylH3YPYm64MTzl7M",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1AKKVEylH3YPYm64MTzl7M",
+        "duration_ms": 326059,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Al8iBWqtHPbrtJH4UZ6Jt",
+    "name": "Here Comes The Night Time II",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 152.034,
+    "features": [
+      {
+        "danceability": 0.285,
+        "energy": 0.354,
+        "key": 4,
+        "loudness": -14.435,
+        "mode": 0,
+        "speechiness": 0.0342,
+        "acousticness": 0.604,
+        "instrumentalness": 0.685,
+        "liveness": 0.211,
+        "valence": 0.102,
+        "tempo": 152.034,
+        "type": "audio_features",
+        "id": "0Al8iBWqtHPbrtJH4UZ6Jt",
+        "uri": "spotify:track:0Al8iBWqtHPbrtJH4UZ6Jt",
+        "track_href": "https://api.spotify.com/v1/tracks/0Al8iBWqtHPbrtJH4UZ6Jt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Al8iBWqtHPbrtJH4UZ6Jt",
+        "duration_ms": 172039,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7GUZMdfx59cnVjgbDhy9Rx",
+    "name": "Awful Sound (Oh Eurydice)",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 140.864,
+    "features": [
+      {
+        "danceability": 0.311,
+        "energy": 0.693,
+        "key": 9,
+        "loudness": -7.797,
+        "mode": 1,
+        "speechiness": 0.0388,
+        "acousticness": 0.264,
+        "instrumentalness": 0.0905,
+        "liveness": 0.0684,
+        "valence": 0.54,
+        "tempo": 140.864,
+        "type": "audio_features",
+        "id": "7GUZMdfx59cnVjgbDhy9Rx",
+        "uri": "spotify:track:7GUZMdfx59cnVjgbDhy9Rx",
+        "track_href": "https://api.spotify.com/v1/tracks/7GUZMdfx59cnVjgbDhy9Rx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7GUZMdfx59cnVjgbDhy9Rx",
+        "duration_ms": 372906,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4VcPw1c8BdKv6rUKAD1Hhw",
+    "name": "It\u2019s Never Over (Hey Orpheus)",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 105.316,
+    "features": [
+      {
+        "danceability": 0.61,
+        "energy": 0.736,
+        "key": 7,
+        "loudness": -10.301,
+        "mode": 1,
+        "speechiness": 0.0514,
+        "acousticness": 0.0767,
+        "instrumentalness": 0.513,
+        "liveness": 0.106,
+        "valence": 0.224,
+        "tempo": 105.316,
+        "type": "audio_features",
+        "id": "4VcPw1c8BdKv6rUKAD1Hhw",
+        "uri": "spotify:track:4VcPw1c8BdKv6rUKAD1Hhw",
+        "track_href": "https://api.spotify.com/v1/tracks/4VcPw1c8BdKv6rUKAD1Hhw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4VcPw1c8BdKv6rUKAD1Hhw",
+        "duration_ms": 404904,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "48PWHnhCWgPGArCo0rvdm1",
+    "name": "Porno",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 98.098,
+    "features": [
+      {
+        "danceability": 0.689,
+        "energy": 0.538,
+        "key": 6,
+        "loudness": -8.069,
+        "mode": 0,
+        "speechiness": 0.029,
+        "acousticness": 0.105,
+        "instrumentalness": 0.104,
+        "liveness": 0.12,
+        "valence": 0.641,
+        "tempo": 98.098,
+        "type": "audio_features",
+        "id": "48PWHnhCWgPGArCo0rvdm1",
+        "uri": "spotify:track:48PWHnhCWgPGArCo0rvdm1",
+        "track_href": "https://api.spotify.com/v1/tracks/48PWHnhCWgPGArCo0rvdm1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/48PWHnhCWgPGArCo0rvdm1",
+        "duration_ms": 361962,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7rL602DQps4QmrrjbinLzP",
+    "name": "Afterlife",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 115.968,
+    "features": [
+      {
+        "danceability": 0.64,
+        "energy": 0.868,
+        "key": 11,
+        "loudness": -5.527,
+        "mode": 1,
+        "speechiness": 0.0341,
+        "acousticness": 0.0986,
+        "instrumentalness": 0.0454,
+        "liveness": 0.242,
+        "valence": 0.798,
+        "tempo": 115.968,
+        "type": "audio_features",
+        "id": "7rL602DQps4QmrrjbinLzP",
+        "uri": "spotify:track:7rL602DQps4QmrrjbinLzP",
+        "track_href": "https://api.spotify.com/v1/tracks/7rL602DQps4QmrrjbinLzP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7rL602DQps4QmrrjbinLzP",
+        "duration_ms": 353086,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4Y5nf6sLY0YryjmKBgJK8F",
+    "name": "Supersymmetry",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 108.006,
+    "features": [
+      {
+        "danceability": 0.237,
+        "energy": 0.326,
+        "key": 8,
+        "loudness": -17.682,
+        "mode": 1,
+        "speechiness": 0.0765,
+        "acousticness": 0.808,
+        "instrumentalness": 0.857,
+        "liveness": 0.363,
+        "valence": 0.238,
+        "tempo": 108.006,
+        "type": "audio_features",
+        "id": "4Y5nf6sLY0YryjmKBgJK8F",
+        "uri": "spotify:track:4Y5nf6sLY0YryjmKBgJK8F",
+        "track_href": "https://api.spotify.com/v1/tracks/4Y5nf6sLY0YryjmKBgJK8F",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Y5nf6sLY0YryjmKBgJK8F",
+        "duration_ms": 676776,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5KX1inKdqpWcJnN7MjXQvV",
+    "name": "Apocrypha",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 86.785,
+    "features": [
+      {
+        "danceability": 0.314,
+        "energy": 0.752,
+        "key": 2,
+        "loudness": -5.827,
+        "mode": 1,
+        "speechiness": 0.0357,
+        "acousticness": 0.214,
+        "instrumentalness": 0.00918,
+        "liveness": 0.758,
+        "valence": 0.357,
+        "tempo": 86.785,
+        "type": "audio_features",
+        "id": "5KX1inKdqpWcJnN7MjXQvV",
+        "uri": "spotify:track:5KX1inKdqpWcJnN7MjXQvV",
+        "track_href": "https://api.spotify.com/v1/tracks/5KX1inKdqpWcJnN7MjXQvV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5KX1inKdqpWcJnN7MjXQvV",
+        "duration_ms": 318087,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5dp188Wlu2IH66Qif2kfOU",
+    "name": "Women Of A Certain Age",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 88.027,
+    "features": [
+      {
+        "danceability": 0.654,
+        "energy": 0.614,
+        "key": 4,
+        "loudness": -9.795,
+        "mode": 0,
+        "speechiness": 0.0305,
+        "acousticness": 0.116,
+        "instrumentalness": 0.00135,
+        "liveness": 0.191,
+        "valence": 0.354,
+        "tempo": 88.027,
+        "type": "audio_features",
+        "id": "5dp188Wlu2IH66Qif2kfOU",
+        "uri": "spotify:track:5dp188Wlu2IH66Qif2kfOU",
+        "track_href": "https://api.spotify.com/v1/tracks/5dp188Wlu2IH66Qif2kfOU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5dp188Wlu2IH66Qif2kfOU",
+        "duration_ms": 195969,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1kALYmq5xptctMMJ1ZQjG8",
+    "name": "Flashbulb Eyes - Dennis Bovell Remix",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 85.746,
+    "features": [
+      {
+        "danceability": 0.653,
+        "energy": 0.739,
+        "key": 7,
+        "loudness": -8.866,
+        "mode": 1,
+        "speechiness": 0.0536,
+        "acousticness": 0.0411,
+        "instrumentalness": 0.00135,
+        "liveness": 0.373,
+        "valence": 0.552,
+        "tempo": 85.746,
+        "type": "audio_features",
+        "id": "1kALYmq5xptctMMJ1ZQjG8",
+        "uri": "spotify:track:1kALYmq5xptctMMJ1ZQjG8",
+        "track_href": "https://api.spotify.com/v1/tracks/1kALYmq5xptctMMJ1ZQjG8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1kALYmq5xptctMMJ1ZQjG8",
+        "duration_ms": 169409,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6AqYPBdoC7TWzNzuZ67e4F",
+    "name": "Soft Power",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 79.694,
+    "features": [
+      {
+        "danceability": 0.323,
+        "energy": 0.582,
+        "key": 0,
+        "loudness": -8.899,
+        "mode": 1,
+        "speechiness": 0.0262,
+        "acousticness": 0.0326,
+        "instrumentalness": 0.142,
+        "liveness": 0.307,
+        "valence": 0.0893,
+        "tempo": 79.694,
+        "type": "audio_features",
+        "id": "6AqYPBdoC7TWzNzuZ67e4F",
+        "uri": "spotify:track:6AqYPBdoC7TWzNzuZ67e4F",
+        "track_href": "https://api.spotify.com/v1/tracks/6AqYPBdoC7TWzNzuZ67e4F",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6AqYPBdoC7TWzNzuZ67e4F",
+        "duration_ms": 342745,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2cVaFbioaMfvjFSdeEYl1y",
+    "name": "Get Right",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 144.092,
+    "features": [
+      {
+        "danceability": 0.409,
+        "energy": 0.789,
+        "key": 2,
+        "loudness": -6.311,
+        "mode": 0,
+        "speechiness": 0.0384,
+        "acousticness": 0.000551,
+        "instrumentalness": 0.502,
+        "liveness": 0.111,
+        "valence": 0.443,
+        "tempo": 144.092,
+        "type": "audio_features",
+        "id": "2cVaFbioaMfvjFSdeEYl1y",
+        "uri": "spotify:track:2cVaFbioaMfvjFSdeEYl1y",
+        "track_href": "https://api.spotify.com/v1/tracks/2cVaFbioaMfvjFSdeEYl1y",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2cVaFbioaMfvjFSdeEYl1y",
+        "duration_ms": 281078,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4hWXcKMbhPhEouNZ6DVxBc",
+    "name": "Crucified Again",
+    "artist": "Arcade Fire",
+    "album": "Reflektor (Deluxe)",
+    "bpm": 87.621,
+    "features": [
+      {
+        "danceability": 0.386,
+        "energy": 0.275,
+        "key": 5,
+        "loudness": -11.401,
+        "mode": 1,
+        "speechiness": 0.0282,
+        "acousticness": 0.263,
+        "instrumentalness": 0.000731,
+        "liveness": 0.121,
+        "valence": 0.296,
+        "tempo": 87.621,
+        "type": "audio_features",
+        "id": "4hWXcKMbhPhEouNZ6DVxBc",
+        "uri": "spotify:track:4hWXcKMbhPhEouNZ6DVxBc",
+        "track_href": "https://api.spotify.com/v1/tracks/4hWXcKMbhPhEouNZ6DVxBc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4hWXcKMbhPhEouNZ6DVxBc",
+        "duration_ms": 302735,
+        "time_signature": 4
+      }
+    ]
+  }
+]

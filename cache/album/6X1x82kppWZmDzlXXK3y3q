@@ -1,0 +1,553 @@
+[
+  {
+    "id": "2Gnsof1hvZzjE1xdLRpjtf",
+    "name": "Over My Dead Body",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 185.516,
+    "features": [
+      {
+        "danceability": 0.489,
+        "energy": 0.57,
+        "key": 1,
+        "loudness": -10.291,
+        "mode": 1,
+        "speechiness": 0.306,
+        "acousticness": 0.759,
+        "instrumentalness": 2.1e-06,
+        "liveness": 0.179,
+        "valence": 0.584,
+        "tempo": 185.516,
+        "type": "audio_features",
+        "id": "2Gnsof1hvZzjE1xdLRpjtf",
+        "uri": "spotify:track:2Gnsof1hvZzjE1xdLRpjtf",
+        "track_href": "https://api.spotify.com/v1/tracks/2Gnsof1hvZzjE1xdLRpjtf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Gnsof1hvZzjE1xdLRpjtf",
+        "duration_ms": 272573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Z01gUquJsjJC67uNWm6P0",
+    "name": "Shot For Me",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 143.015,
+    "features": [
+      {
+        "danceability": 0.566,
+        "energy": 0.465,
+        "key": 2,
+        "loudness": -11.714,
+        "mode": 1,
+        "speechiness": 0.235,
+        "acousticness": 0.0555,
+        "instrumentalness": 0,
+        "liveness": 0.567,
+        "valence": 0.177,
+        "tempo": 143.015,
+        "type": "audio_features",
+        "id": "6Z01gUquJsjJC67uNWm6P0",
+        "uri": "spotify:track:6Z01gUquJsjJC67uNWm6P0",
+        "track_href": "https://api.spotify.com/v1/tracks/6Z01gUquJsjJC67uNWm6P0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Z01gUquJsjJC67uNWm6P0",
+        "duration_ms": 224720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6LxSe8YmdPxy095Ux6znaQ",
+    "name": "Headlines",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 151.894,
+    "features": [
+      {
+        "danceability": 0.636,
+        "energy": 0.566,
+        "key": 6,
+        "loudness": -7.16,
+        "mode": 0,
+        "speechiness": 0.106,
+        "acousticness": 0.365,
+        "instrumentalness": 0.000353,
+        "liveness": 0.0917,
+        "valence": 0.425,
+        "tempo": 151.894,
+        "type": "audio_features",
+        "id": "6LxSe8YmdPxy095Ux6znaQ",
+        "uri": "spotify:track:6LxSe8YmdPxy095Ux6znaQ",
+        "track_href": "https://api.spotify.com/v1/tracks/6LxSe8YmdPxy095Ux6znaQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6LxSe8YmdPxy095Ux6znaQ",
+        "duration_ms": 235987,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0V4l4GQhgnWQGtCWpvA7va",
+    "name": "Crew Love",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 160.152,
+    "features": [
+      {
+        "danceability": 0.418,
+        "energy": 0.546,
+        "key": 0,
+        "loudness": -9.057,
+        "mode": 0,
+        "speechiness": 0.238,
+        "acousticness": 0.227,
+        "instrumentalness": 0,
+        "liveness": 0.229,
+        "valence": 0.294,
+        "tempo": 160.152,
+        "type": "audio_features",
+        "id": "0V4l4GQhgnWQGtCWpvA7va",
+        "uri": "spotify:track:0V4l4GQhgnWQGtCWpvA7va",
+        "track_href": "https://api.spotify.com/v1/tracks/0V4l4GQhgnWQGtCWpvA7va",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0V4l4GQhgnWQGtCWpvA7va",
+        "duration_ms": 208813,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "124NFj84ppZ5pAxTuVQYCQ",
+    "name": "Take Care",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 121.845,
+    "features": [
+      {
+        "danceability": 0.629,
+        "energy": 0.515,
+        "key": 0,
+        "loudness": -10.358,
+        "mode": 0,
+        "speechiness": 0.265,
+        "acousticness": 0.0267,
+        "instrumentalness": 1.22e-05,
+        "liveness": 0.0888,
+        "valence": 0.299,
+        "tempo": 121.845,
+        "type": "audio_features",
+        "id": "124NFj84ppZ5pAxTuVQYCQ",
+        "uri": "spotify:track:124NFj84ppZ5pAxTuVQYCQ",
+        "track_href": "https://api.spotify.com/v1/tracks/124NFj84ppZ5pAxTuVQYCQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/124NFj84ppZ5pAxTuVQYCQ",
+        "duration_ms": 277387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "047fCsbO4NdmwCBn8pcUXl",
+    "name": "Marvins Room",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 111.519,
+    "features": [
+      {
+        "danceability": 0.492,
+        "energy": 0.26,
+        "key": 9,
+        "loudness": -17.341,
+        "mode": 0,
+        "speechiness": 0.0921,
+        "acousticness": 0.646,
+        "instrumentalness": 0.00178,
+        "liveness": 0.0705,
+        "valence": 0.312,
+        "tempo": 111.519,
+        "type": "audio_features",
+        "id": "047fCsbO4NdmwCBn8pcUXl",
+        "uri": "spotify:track:047fCsbO4NdmwCBn8pcUXl",
+        "track_href": "https://api.spotify.com/v1/tracks/047fCsbO4NdmwCBn8pcUXl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/047fCsbO4NdmwCBn8pcUXl",
+        "duration_ms": 347227,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "1ZyudLFv35SRvY5SvTZqJx",
+    "name": "Buried Alive Interlude",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 102.01,
+    "features": [
+      {
+        "danceability": 0.711,
+        "energy": 0.543,
+        "key": 0,
+        "loudness": -12.692,
+        "mode": 1,
+        "speechiness": 0.112,
+        "acousticness": 0.412,
+        "instrumentalness": 0,
+        "liveness": 0.505,
+        "valence": 0.801,
+        "tempo": 102.01,
+        "type": "audio_features",
+        "id": "1ZyudLFv35SRvY5SvTZqJx",
+        "uri": "spotify:track:1ZyudLFv35SRvY5SvTZqJx",
+        "track_href": "https://api.spotify.com/v1/tracks/1ZyudLFv35SRvY5SvTZqJx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ZyudLFv35SRvY5SvTZqJx",
+        "duration_ms": 150960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1D9XLqQp2YYiOxrr5KLb8K",
+    "name": "Under Ground Kings",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 156.209,
+    "features": [
+      {
+        "danceability": 0.487,
+        "energy": 0.712,
+        "key": 8,
+        "loudness": -7.323,
+        "mode": 1,
+        "speechiness": 0.27,
+        "acousticness": 5.2e-05,
+        "instrumentalness": 0,
+        "liveness": 0.198,
+        "valence": 0.397,
+        "tempo": 156.209,
+        "type": "audio_features",
+        "id": "1D9XLqQp2YYiOxrr5KLb8K",
+        "uri": "spotify:track:1D9XLqQp2YYiOxrr5KLb8K",
+        "track_href": "https://api.spotify.com/v1/tracks/1D9XLqQp2YYiOxrr5KLb8K",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1D9XLqQp2YYiOxrr5KLb8K",
+        "duration_ms": 212613,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7udsBKuqnJ5csWTAkR0vEI",
+    "name": "We'll Be Fine",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 193.397,
+    "features": [
+      {
+        "danceability": 0.386,
+        "energy": 0.488,
+        "key": 1,
+        "loudness": -7.303,
+        "mode": 0,
+        "speechiness": 0.422,
+        "acousticness": 0.00171,
+        "instrumentalness": 0,
+        "liveness": 0.64,
+        "valence": 0.217,
+        "tempo": 193.397,
+        "type": "audio_features",
+        "id": "7udsBKuqnJ5csWTAkR0vEI",
+        "uri": "spotify:track:7udsBKuqnJ5csWTAkR0vEI",
+        "track_href": "https://api.spotify.com/v1/tracks/7udsBKuqnJ5csWTAkR0vEI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7udsBKuqnJ5csWTAkR0vEI",
+        "duration_ms": 247947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7yfg0Eer6UZZt5tZ1XdsWz",
+    "name": "Make Me Proud",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 131.913,
+    "features": [
+      {
+        "danceability": 0.684,
+        "energy": 0.486,
+        "key": 1,
+        "loudness": -10.155,
+        "mode": 1,
+        "speechiness": 0.132,
+        "acousticness": 0.00268,
+        "instrumentalness": 0.000148,
+        "liveness": 0.157,
+        "valence": 0.355,
+        "tempo": 131.913,
+        "type": "audio_features",
+        "id": "7yfg0Eer6UZZt5tZ1XdsWz",
+        "uri": "spotify:track:7yfg0Eer6UZZt5tZ1XdsWz",
+        "track_href": "https://api.spotify.com/v1/tracks/7yfg0Eer6UZZt5tZ1XdsWz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7yfg0Eer6UZZt5tZ1XdsWz",
+        "duration_ms": 219893,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1QBwk6GTCxVdC2hoSw9tlM",
+    "name": "Lord Knows",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 167.579,
+    "features": [
+      {
+        "danceability": 0.417,
+        "energy": 0.887,
+        "key": 5,
+        "loudness": -5.551,
+        "mode": 0,
+        "speechiness": 0.367,
+        "acousticness": 0.0786,
+        "instrumentalness": 0,
+        "liveness": 0.834,
+        "valence": 0.303,
+        "tempo": 167.579,
+        "type": "audio_features",
+        "id": "1QBwk6GTCxVdC2hoSw9tlM",
+        "uri": "spotify:track:1QBwk6GTCxVdC2hoSw9tlM",
+        "track_href": "https://api.spotify.com/v1/tracks/1QBwk6GTCxVdC2hoSw9tlM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1QBwk6GTCxVdC2hoSw9tlM",
+        "duration_ms": 307640,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2FbGlEPAjNhWvrVvlentVq",
+    "name": "Cameras / Good Ones Go Interlude - Medley",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 139.92,
+    "features": [
+      {
+        "danceability": 0.441,
+        "energy": 0.403,
+        "key": 2,
+        "loudness": -11.18,
+        "mode": 0,
+        "speechiness": 0.147,
+        "acousticness": 0.255,
+        "instrumentalness": 1.27e-05,
+        "liveness": 0.13,
+        "valence": 0.158,
+        "tempo": 139.92,
+        "type": "audio_features",
+        "id": "2FbGlEPAjNhWvrVvlentVq",
+        "uri": "spotify:track:2FbGlEPAjNhWvrVvlentVq",
+        "track_href": "https://api.spotify.com/v1/tracks/2FbGlEPAjNhWvrVvlentVq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2FbGlEPAjNhWvrVvlentVq",
+        "duration_ms": 434960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4eSGSqP2TZvvX0kadZZttM",
+    "name": "Doing It Wrong",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 101.275,
+    "features": [
+      {
+        "danceability": 0.397,
+        "energy": 0.172,
+        "key": 6,
+        "loudness": -15.698,
+        "mode": 0,
+        "speechiness": 0.0445,
+        "acousticness": 0.841,
+        "instrumentalness": 6.78e-05,
+        "liveness": 0.108,
+        "valence": 0.123,
+        "tempo": 101.275,
+        "type": "audio_features",
+        "id": "4eSGSqP2TZvvX0kadZZttM",
+        "uri": "spotify:track:4eSGSqP2TZvvX0kadZZttM",
+        "track_href": "https://api.spotify.com/v1/tracks/4eSGSqP2TZvvX0kadZZttM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4eSGSqP2TZvvX0kadZZttM",
+        "duration_ms": 265120,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "74atKkOasLOVzvqB6mYgga",
+    "name": "The Real Her",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 65.041,
+    "features": [
+      {
+        "danceability": 0.567,
+        "energy": 0.309,
+        "key": 8,
+        "loudness": -14.254,
+        "mode": 1,
+        "speechiness": 0.385,
+        "acousticness": 0.166,
+        "instrumentalness": 0,
+        "liveness": 0.12,
+        "valence": 0.509,
+        "tempo": 65.041,
+        "type": "audio_features",
+        "id": "74atKkOasLOVzvqB6mYgga",
+        "uri": "spotify:track:74atKkOasLOVzvqB6mYgga",
+        "track_href": "https://api.spotify.com/v1/tracks/74atKkOasLOVzvqB6mYgga",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/74atKkOasLOVzvqB6mYgga",
+        "duration_ms": 321080,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7t1lBIr3WIEtqQEOdZFMUf",
+    "name": "Look What You've Done",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 134.369,
+    "features": [
+      {
+        "danceability": 0.495,
+        "energy": 0.351,
+        "key": 3,
+        "loudness": -14.669,
+        "mode": 0,
+        "speechiness": 0.34,
+        "acousticness": 0.485,
+        "instrumentalness": 0,
+        "liveness": 0.0967,
+        "valence": 0.271,
+        "tempo": 134.369,
+        "type": "audio_features",
+        "id": "7t1lBIr3WIEtqQEOdZFMUf",
+        "uri": "spotify:track:7t1lBIr3WIEtqQEOdZFMUf",
+        "track_href": "https://api.spotify.com/v1/tracks/7t1lBIr3WIEtqQEOdZFMUf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7t1lBIr3WIEtqQEOdZFMUf",
+        "duration_ms": 301960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0m1KYWlT6LhFRBDVq9UNx4",
+    "name": "HYFR (Hell Ya Fucking Right)",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 98.21,
+    "features": [
+      {
+        "danceability": 0.444,
+        "energy": 0.627,
+        "key": 7,
+        "loudness": -8.744,
+        "mode": 0,
+        "speechiness": 0.252,
+        "acousticness": 0.123,
+        "instrumentalness": 0,
+        "liveness": 0.0795,
+        "valence": 0.359,
+        "tempo": 98.21,
+        "type": "audio_features",
+        "id": "0m1KYWlT6LhFRBDVq9UNx4",
+        "uri": "spotify:track:0m1KYWlT6LhFRBDVq9UNx4",
+        "track_href": "https://api.spotify.com/v1/tracks/0m1KYWlT6LhFRBDVq9UNx4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0m1KYWlT6LhFRBDVq9UNx4",
+        "duration_ms": 206627,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0jF2AdhsalO1L7KkhK4LE5",
+    "name": "Practice",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 104.675,
+    "features": [
+      {
+        "danceability": 0.446,
+        "energy": 0.239,
+        "key": 1,
+        "loudness": -15.327,
+        "mode": 1,
+        "speechiness": 0.0876,
+        "acousticness": 0.574,
+        "instrumentalness": 7.76e-05,
+        "liveness": 0.12,
+        "valence": 0.31,
+        "tempo": 104.675,
+        "type": "audio_features",
+        "id": "0jF2AdhsalO1L7KkhK4LE5",
+        "uri": "spotify:track:0jF2AdhsalO1L7KkhK4LE5",
+        "track_href": "https://api.spotify.com/v1/tracks/0jF2AdhsalO1L7KkhK4LE5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0jF2AdhsalO1L7KkhK4LE5",
+        "duration_ms": 237733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4xRxYWgAtL6pzRz94GlZlA",
+    "name": "The Ride",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 155.948,
+    "features": [
+      {
+        "danceability": 0.556,
+        "energy": 0.702,
+        "key": 0,
+        "loudness": -10.079,
+        "mode": 0,
+        "speechiness": 0.205,
+        "acousticness": 0.517,
+        "instrumentalness": 0,
+        "liveness": 0.343,
+        "valence": 0.793,
+        "tempo": 155.948,
+        "type": "audio_features",
+        "id": "4xRxYWgAtL6pzRz94GlZlA",
+        "uri": "spotify:track:4xRxYWgAtL6pzRz94GlZlA",
+        "track_href": "https://api.spotify.com/v1/tracks/4xRxYWgAtL6pzRz94GlZlA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4xRxYWgAtL6pzRz94GlZlA",
+        "duration_ms": 351000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4Kz4RdRCceaA9VgTqBhBfa",
+    "name": "The Motto",
+    "artist": "Drake",
+    "album": "Take Care (Deluxe)",
+    "bpm": 201.8,
+    "features": [
+      {
+        "danceability": 0.766,
+        "energy": 0.442,
+        "key": 1,
+        "loudness": -8.558,
+        "mode": 1,
+        "speechiness": 0.356,
+        "acousticness": 0.000107,
+        "instrumentalness": 6.12e-05,
+        "liveness": 0.111,
+        "valence": 0.39,
+        "tempo": 201.8,
+        "type": "audio_features",
+        "id": "4Kz4RdRCceaA9VgTqBhBfa",
+        "uri": "spotify:track:4Kz4RdRCceaA9VgTqBhBfa",
+        "track_href": "https://api.spotify.com/v1/tracks/4Kz4RdRCceaA9VgTqBhBfa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Kz4RdRCceaA9VgTqBhBfa",
+        "duration_ms": 181573,
+        "time_signature": 4
+      }
+    ]
+  }
+]

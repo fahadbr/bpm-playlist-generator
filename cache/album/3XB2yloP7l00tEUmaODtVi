@@ -1,0 +1,350 @@
+[
+  {
+    "id": "2cZXlLwkRmDww37tbEygXl",
+    "name": "Keys to the Kingdom",
+    "artist": "Linkin Park",
+    "album": "The Hunting Party",
+    "bpm": 184.011,
+    "features": [
+      {
+        "danceability": 0.395,
+        "energy": 0.976,
+        "key": 7,
+        "loudness": -4.553,
+        "mode": 1,
+        "speechiness": 0.137,
+        "acousticness": 0.00735,
+        "instrumentalness": 0.000222,
+        "liveness": 0.379,
+        "valence": 0.334,
+        "tempo": 184.011,
+        "type": "audio_features",
+        "id": "2cZXlLwkRmDww37tbEygXl",
+        "uri": "spotify:track:2cZXlLwkRmDww37tbEygXl",
+        "track_href": "https://api.spotify.com/v1/tracks/2cZXlLwkRmDww37tbEygXl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2cZXlLwkRmDww37tbEygXl",
+        "duration_ms": 218547,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5Rcs3fREgibWujLUlUb8KA",
+    "name": "All for Nothing (feat. Page Hamilton)",
+    "artist": "Linkin Park",
+    "album": "The Hunting Party",
+    "bpm": 159.974,
+    "features": [
+      {
+        "danceability": 0.461,
+        "energy": 0.958,
+        "key": 4,
+        "loudness": -3.852,
+        "mode": 0,
+        "speechiness": 0.124,
+        "acousticness": 0.000203,
+        "instrumentalness": 9.33e-06,
+        "liveness": 0.459,
+        "valence": 0.264,
+        "tempo": 159.974,
+        "type": "audio_features",
+        "id": "5Rcs3fREgibWujLUlUb8KA",
+        "uri": "spotify:track:5Rcs3fREgibWujLUlUb8KA",
+        "track_href": "https://api.spotify.com/v1/tracks/5Rcs3fREgibWujLUlUb8KA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Rcs3fREgibWujLUlUb8KA",
+        "duration_ms": 213653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6L5QMBrydoaapTDMQ0Anui",
+    "name": "Guilty All the Same (feat. Rakim)",
+    "artist": "Linkin Park",
+    "album": "The Hunting Party",
+    "bpm": 100.012,
+    "features": [
+      {
+        "danceability": 0.566,
+        "energy": 0.969,
+        "key": 2,
+        "loudness": -3.369,
+        "mode": 0,
+        "speechiness": 0.046,
+        "acousticness": 0.0287,
+        "instrumentalness": 0.000442,
+        "liveness": 0.281,
+        "valence": 0.641,
+        "tempo": 100.012,
+        "type": "audio_features",
+        "id": "6L5QMBrydoaapTDMQ0Anui",
+        "uri": "spotify:track:6L5QMBrydoaapTDMQ0Anui",
+        "track_href": "https://api.spotify.com/v1/tracks/6L5QMBrydoaapTDMQ0Anui",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6L5QMBrydoaapTDMQ0Anui",
+        "duration_ms": 355120,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7wHW68IXAO0vlhXv1PxKFJ",
+    "name": "The Summoning",
+    "artist": "Linkin Park",
+    "album": "The Hunting Party",
+    "bpm": 143.747,
+    "features": [
+      {
+        "danceability": 0.294,
+        "energy": 0.926,
+        "key": 9,
+        "loudness": -8.833,
+        "mode": 0,
+        "speechiness": 0.769,
+        "acousticness": 0.914,
+        "instrumentalness": 0.0992,
+        "liveness": 0.713,
+        "valence": 0.0397,
+        "tempo": 143.747,
+        "type": "audio_features",
+        "id": "7wHW68IXAO0vlhXv1PxKFJ",
+        "uri": "spotify:track:7wHW68IXAO0vlhXv1PxKFJ",
+        "track_href": "https://api.spotify.com/v1/tracks/7wHW68IXAO0vlhXv1PxKFJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7wHW68IXAO0vlhXv1PxKFJ",
+        "duration_ms": 60440,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3h5gMWp1KJQkLBgCtG5EgH",
+    "name": "War",
+    "artist": "Linkin Park",
+    "album": "The Hunting Party",
+    "bpm": 142.309,
+    "features": [
+      {
+        "danceability": 0.371,
+        "energy": 0.991,
+        "key": 0,
+        "loudness": -3.237,
+        "mode": 1,
+        "speechiness": 0.254,
+        "acousticness": 0.00748,
+        "instrumentalness": 0.651,
+        "liveness": 0.929,
+        "valence": 0.0757,
+        "tempo": 142.309,
+        "type": "audio_features",
+        "id": "3h5gMWp1KJQkLBgCtG5EgH",
+        "uri": "spotify:track:3h5gMWp1KJQkLBgCtG5EgH",
+        "track_href": "https://api.spotify.com/v1/tracks/3h5gMWp1KJQkLBgCtG5EgH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3h5gMWp1KJQkLBgCtG5EgH",
+        "duration_ms": 131160,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3S8MFB68isPbRVgaU0MaIW",
+    "name": "Wastelands",
+    "artist": "Linkin Park",
+    "album": "The Hunting Party",
+    "bpm": 169.77,
+    "features": [
+      {
+        "danceability": 0.44,
+        "energy": 0.993,
+        "key": 2,
+        "loudness": -3.481,
+        "mode": 0,
+        "speechiness": 0.184,
+        "acousticness": 0.0104,
+        "instrumentalness": 0,
+        "liveness": 0.964,
+        "valence": 0.614,
+        "tempo": 169.77,
+        "type": "audio_features",
+        "id": "3S8MFB68isPbRVgaU0MaIW",
+        "uri": "spotify:track:3S8MFB68isPbRVgaU0MaIW",
+        "track_href": "https://api.spotify.com/v1/tracks/3S8MFB68isPbRVgaU0MaIW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3S8MFB68isPbRVgaU0MaIW",
+        "duration_ms": 195893,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2n1jBz26dVBtSbMvJNjGsu",
+    "name": "Until It's Gone",
+    "artist": "Linkin Park",
+    "album": "The Hunting Party",
+    "bpm": 114.986,
+    "features": [
+      {
+        "danceability": 0.47,
+        "energy": 0.878,
+        "key": 4,
+        "loudness": -3.391,
+        "mode": 0,
+        "speechiness": 0.0429,
+        "acousticness": 0.0172,
+        "instrumentalness": 0.054,
+        "liveness": 0.235,
+        "valence": 0.322,
+        "tempo": 114.986,
+        "type": "audio_features",
+        "id": "2n1jBz26dVBtSbMvJNjGsu",
+        "uri": "spotify:track:2n1jBz26dVBtSbMvJNjGsu",
+        "track_href": "https://api.spotify.com/v1/tracks/2n1jBz26dVBtSbMvJNjGsu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2n1jBz26dVBtSbMvJNjGsu",
+        "duration_ms": 233240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3zZ009FB8sc8JghwVrbLFq",
+    "name": "Rebellion (feat. Daron Malakian)",
+    "artist": "Linkin Park",
+    "album": "The Hunting Party",
+    "bpm": 130.023,
+    "features": [
+      {
+        "danceability": 0.508,
+        "energy": 0.971,
+        "key": 8,
+        "loudness": -3.027,
+        "mode": 1,
+        "speechiness": 0.0788,
+        "acousticness": 0.00145,
+        "instrumentalness": 0,
+        "liveness": 0.62,
+        "valence": 0.325,
+        "tempo": 130.023,
+        "type": "audio_features",
+        "id": "3zZ009FB8sc8JghwVrbLFq",
+        "uri": "spotify:track:3zZ009FB8sc8JghwVrbLFq",
+        "track_href": "https://api.spotify.com/v1/tracks/3zZ009FB8sc8JghwVrbLFq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3zZ009FB8sc8JghwVrbLFq",
+        "duration_ms": 224160,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "16AFbRYIdpesOleGTKClHs",
+    "name": "Mark the Graves",
+    "artist": "Linkin Park",
+    "album": "The Hunting Party",
+    "bpm": 134.94,
+    "features": [
+      {
+        "danceability": 0.442,
+        "energy": 0.925,
+        "key": 9,
+        "loudness": -3.781,
+        "mode": 1,
+        "speechiness": 0.0648,
+        "acousticness": 0.00195,
+        "instrumentalness": 0.496,
+        "liveness": 0.0851,
+        "valence": 0.196,
+        "tempo": 134.94,
+        "type": "audio_features",
+        "id": "16AFbRYIdpesOleGTKClHs",
+        "uri": "spotify:track:16AFbRYIdpesOleGTKClHs",
+        "track_href": "https://api.spotify.com/v1/tracks/16AFbRYIdpesOleGTKClHs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/16AFbRYIdpesOleGTKClHs",
+        "duration_ms": 305013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7MTDaY5oGjo4F8N5r7H8LT",
+    "name": "Drawbar (feat. Tom Morello)",
+    "artist": "Linkin Park",
+    "album": "The Hunting Party",
+    "bpm": 68.462,
+    "features": [
+      {
+        "danceability": 0.389,
+        "energy": 0.532,
+        "key": 4,
+        "loudness": -10.796,
+        "mode": 0,
+        "speechiness": 0.028,
+        "acousticness": 0.749,
+        "instrumentalness": 0.923,
+        "liveness": 0.108,
+        "valence": 0.0637,
+        "tempo": 68.462,
+        "type": "audio_features",
+        "id": "7MTDaY5oGjo4F8N5r7H8LT",
+        "uri": "spotify:track:7MTDaY5oGjo4F8N5r7H8LT",
+        "track_href": "https://api.spotify.com/v1/tracks/7MTDaY5oGjo4F8N5r7H8LT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7MTDaY5oGjo4F8N5r7H8LT",
+        "duration_ms": 166933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3aYBjxTMvrEOP0A0UXg9ER",
+    "name": "Final Masquerade",
+    "artist": "Linkin Park",
+    "album": "The Hunting Party",
+    "bpm": 164.032,
+    "features": [
+      {
+        "danceability": 0.466,
+        "energy": 0.852,
+        "key": 3,
+        "loudness": -4.487,
+        "mode": 1,
+        "speechiness": 0.0585,
+        "acousticness": 0.00774,
+        "instrumentalness": 2.6e-06,
+        "liveness": 0.0989,
+        "valence": 0.428,
+        "tempo": 164.032,
+        "type": "audio_features",
+        "id": "3aYBjxTMvrEOP0A0UXg9ER",
+        "uri": "spotify:track:3aYBjxTMvrEOP0A0UXg9ER",
+        "track_href": "https://api.spotify.com/v1/tracks/3aYBjxTMvrEOP0A0UXg9ER",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3aYBjxTMvrEOP0A0UXg9ER",
+        "duration_ms": 217613,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4BRvD5QdauTo8EuUvYchu3",
+    "name": "A Line in the Sand",
+    "artist": "Linkin Park",
+    "album": "The Hunting Party",
+    "bpm": 99.706,
+    "features": [
+      {
+        "danceability": 0.291,
+        "energy": 0.922,
+        "key": 2,
+        "loudness": -4.968,
+        "mode": 1,
+        "speechiness": 0.0885,
+        "acousticness": 0.037,
+        "instrumentalness": 0.0198,
+        "liveness": 0.101,
+        "valence": 0.0404,
+        "tempo": 99.706,
+        "type": "audio_features",
+        "id": "4BRvD5QdauTo8EuUvYchu3",
+        "uri": "spotify:track:4BRvD5QdauTo8EuUvYchu3",
+        "track_href": "https://api.spotify.com/v1/tracks/4BRvD5QdauTo8EuUvYchu3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4BRvD5QdauTo8EuUvYchu3",
+        "duration_ms": 395067,
+        "time_signature": 4
+      }
+    ]
+  }
+]

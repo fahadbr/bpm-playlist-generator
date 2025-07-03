@@ -1,0 +1,263 @@
+[
+  {
+    "id": "0W1NeGTXmEPyhTJXy1k3Ma",
+    "name": "Into The Blue",
+    "artist": "Broken Bells",
+    "album": "INTO THE BLUE",
+    "bpm": 112.932,
+    "features": [
+      {
+        "danceability": 0.487,
+        "energy": 0.458,
+        "key": 9,
+        "loudness": -8.447,
+        "mode": 1,
+        "speechiness": 0.0282,
+        "acousticness": 0.104,
+        "instrumentalness": 0.826,
+        "liveness": 0.0813,
+        "valence": 0.125,
+        "tempo": 112.932,
+        "type": "audio_features",
+        "id": "0W1NeGTXmEPyhTJXy1k3Ma",
+        "uri": "spotify:track:0W1NeGTXmEPyhTJXy1k3Ma",
+        "track_href": "https://api.spotify.com/v1/tracks/0W1NeGTXmEPyhTJXy1k3Ma",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0W1NeGTXmEPyhTJXy1k3Ma",
+        "duration_ms": 333747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4fh5VBuf6M62Bnd0vq68lT",
+    "name": "We're Not In Orbit Yet\u2026",
+    "artist": "Broken Bells",
+    "album": "INTO THE BLUE",
+    "bpm": 77.16,
+    "features": [
+      {
+        "danceability": 0.383,
+        "energy": 0.625,
+        "key": 2,
+        "loudness": -8.018,
+        "mode": 0,
+        "speechiness": 0.028,
+        "acousticness": 0.104,
+        "instrumentalness": 0.224,
+        "liveness": 0.127,
+        "valence": 0.433,
+        "tempo": 77.16,
+        "type": "audio_features",
+        "id": "4fh5VBuf6M62Bnd0vq68lT",
+        "uri": "spotify:track:4fh5VBuf6M62Bnd0vq68lT",
+        "track_href": "https://api.spotify.com/v1/tracks/4fh5VBuf6M62Bnd0vq68lT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4fh5VBuf6M62Bnd0vq68lT",
+        "duration_ms": 310840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "13P70yzBuuutHThBf0JhgC",
+    "name": "Invisible Exit",
+    "artist": "Broken Bells",
+    "album": "INTO THE BLUE",
+    "bpm": 133.869,
+    "features": [
+      {
+        "danceability": 0.547,
+        "energy": 0.198,
+        "key": 9,
+        "loudness": -10.753,
+        "mode": 1,
+        "speechiness": 0.0287,
+        "acousticness": 0.843,
+        "instrumentalness": 8.82e-05,
+        "liveness": 0.102,
+        "valence": 0.117,
+        "tempo": 133.869,
+        "type": "audio_features",
+        "id": "13P70yzBuuutHThBf0JhgC",
+        "uri": "spotify:track:13P70yzBuuutHThBf0JhgC",
+        "track_href": "https://api.spotify.com/v1/tracks/13P70yzBuuutHThBf0JhgC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/13P70yzBuuutHThBf0JhgC",
+        "duration_ms": 153693,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5rSDKf4Yxxgs8vfgfSQ13l",
+    "name": "Love On The Run",
+    "artist": "Broken Bells",
+    "album": "INTO THE BLUE",
+    "bpm": 139.984,
+    "features": [
+      {
+        "danceability": 0.532,
+        "energy": 0.67,
+        "key": 3,
+        "loudness": -7.761,
+        "mode": 1,
+        "speechiness": 0.0256,
+        "acousticness": 0.115,
+        "instrumentalness": 0.688,
+        "liveness": 0.146,
+        "valence": 0.338,
+        "tempo": 139.984,
+        "type": "audio_features",
+        "id": "5rSDKf4Yxxgs8vfgfSQ13l",
+        "uri": "spotify:track:5rSDKf4Yxxgs8vfgfSQ13l",
+        "track_href": "https://api.spotify.com/v1/tracks/5rSDKf4Yxxgs8vfgfSQ13l",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5rSDKf4Yxxgs8vfgfSQ13l",
+        "duration_ms": 423347,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4myNS0heeMhFLlhoWYV9FY",
+    "name": "One Night",
+    "artist": "Broken Bells",
+    "album": "INTO THE BLUE",
+    "bpm": 176.973,
+    "features": [
+      {
+        "danceability": 0.636,
+        "energy": 0.809,
+        "key": 8,
+        "loudness": -7.48,
+        "mode": 0,
+        "speechiness": 0.0368,
+        "acousticness": 0.0176,
+        "instrumentalness": 0.0488,
+        "liveness": 0.109,
+        "valence": 0.882,
+        "tempo": 176.973,
+        "type": "audio_features",
+        "id": "4myNS0heeMhFLlhoWYV9FY",
+        "uri": "spotify:track:4myNS0heeMhFLlhoWYV9FY",
+        "track_href": "https://api.spotify.com/v1/tracks/4myNS0heeMhFLlhoWYV9FY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4myNS0heeMhFLlhoWYV9FY",
+        "duration_ms": 229227,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5goxvcDgMMjh2OGpugWeZM",
+    "name": "Saturdays",
+    "artist": "Broken Bells",
+    "album": "INTO THE BLUE",
+    "bpm": 83.986,
+    "features": [
+      {
+        "danceability": 0.503,
+        "energy": 0.785,
+        "key": 6,
+        "loudness": -8.306,
+        "mode": 1,
+        "speechiness": 0.0387,
+        "acousticness": 0.00189,
+        "instrumentalness": 1.15e-05,
+        "liveness": 0.154,
+        "valence": 0.394,
+        "tempo": 83.986,
+        "type": "audio_features",
+        "id": "5goxvcDgMMjh2OGpugWeZM",
+        "uri": "spotify:track:5goxvcDgMMjh2OGpugWeZM",
+        "track_href": "https://api.spotify.com/v1/tracks/5goxvcDgMMjh2OGpugWeZM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5goxvcDgMMjh2OGpugWeZM",
+        "duration_ms": 187413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3OVivNXzo1Q3N0wyeZ8uBT",
+    "name": "Forgotten Boy",
+    "artist": "Broken Bells",
+    "album": "INTO THE BLUE",
+    "bpm": 140.035,
+    "features": [
+      {
+        "danceability": 0.53,
+        "energy": 0.755,
+        "key": 8,
+        "loudness": -7.473,
+        "mode": 0,
+        "speechiness": 0.0328,
+        "acousticness": 0.0103,
+        "instrumentalness": 0.469,
+        "liveness": 0.191,
+        "valence": 0.536,
+        "tempo": 140.035,
+        "type": "audio_features",
+        "id": "3OVivNXzo1Q3N0wyeZ8uBT",
+        "uri": "spotify:track:3OVivNXzo1Q3N0wyeZ8uBT",
+        "track_href": "https://api.spotify.com/v1/tracks/3OVivNXzo1Q3N0wyeZ8uBT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3OVivNXzo1Q3N0wyeZ8uBT",
+        "duration_ms": 224973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3eIP3EzfEUx4R7nLlUz8GD",
+    "name": "The Chase",
+    "artist": "Broken Bells",
+    "album": "INTO THE BLUE",
+    "bpm": 75.989,
+    "features": [
+      {
+        "danceability": 0.423,
+        "energy": 0.845,
+        "key": 6,
+        "loudness": -7.921,
+        "mode": 0,
+        "speechiness": 0.0371,
+        "acousticness": 0.00565,
+        "instrumentalness": 0.714,
+        "liveness": 0.131,
+        "valence": 0.583,
+        "tempo": 75.989,
+        "type": "audio_features",
+        "id": "3eIP3EzfEUx4R7nLlUz8GD",
+        "uri": "spotify:track:3eIP3EzfEUx4R7nLlUz8GD",
+        "track_href": "https://api.spotify.com/v1/tracks/3eIP3EzfEUx4R7nLlUz8GD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3eIP3EzfEUx4R7nLlUz8GD",
+        "duration_ms": 329827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "168qvZImKAMQ80pUlmoIJA",
+    "name": "Fade Away",
+    "artist": "Broken Bells",
+    "album": "INTO THE BLUE",
+    "bpm": 203.886,
+    "features": [
+      {
+        "danceability": 0.408,
+        "energy": 0.418,
+        "key": 8,
+        "loudness": -10.615,
+        "mode": 0,
+        "speechiness": 0.0285,
+        "acousticness": 0.125,
+        "instrumentalness": 0.0162,
+        "liveness": 0.125,
+        "valence": 0.3,
+        "tempo": 203.886,
+        "type": "audio_features",
+        "id": "168qvZImKAMQ80pUlmoIJA",
+        "uri": "spotify:track:168qvZImKAMQ80pUlmoIJA",
+        "track_href": "https://api.spotify.com/v1/tracks/168qvZImKAMQ80pUlmoIJA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/168qvZImKAMQ80pUlmoIJA",
+        "duration_ms": 286947,
+        "time_signature": 4
+      }
+    ]
+  }
+]

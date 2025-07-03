@@ -1,0 +1,437 @@
+[
+  {
+    "id": "2t8yVaLvJ0RenpXUIAC52d",
+    "name": "a lot",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 145.972,
+    "features": [
+      {
+        "danceability": 0.837,
+        "energy": 0.636,
+        "key": 1,
+        "loudness": -7.643,
+        "mode": 1,
+        "speechiness": 0.086,
+        "acousticness": 0.0395,
+        "instrumentalness": 0.00125,
+        "liveness": 0.342,
+        "valence": 0.274,
+        "tempo": 145.972,
+        "type": "audio_features",
+        "id": "2t8yVaLvJ0RenpXUIAC52d",
+        "uri": "spotify:track:2t8yVaLvJ0RenpXUIAC52d",
+        "track_href": "https://api.spotify.com/v1/tracks/2t8yVaLvJ0RenpXUIAC52d",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2t8yVaLvJ0RenpXUIAC52d",
+        "duration_ms": 288624,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5ZSIExfQuVv69tw5Qw3yDl",
+    "name": "break da law",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 141.037,
+    "features": [
+      {
+        "danceability": 0.904,
+        "energy": 0.575,
+        "key": 1,
+        "loudness": -7.823,
+        "mode": 1,
+        "speechiness": 0.346,
+        "acousticness": 0.0493,
+        "instrumentalness": 0,
+        "liveness": 0.256,
+        "valence": 0.359,
+        "tempo": 141.037,
+        "type": "audio_features",
+        "id": "5ZSIExfQuVv69tw5Qw3yDl",
+        "uri": "spotify:track:5ZSIExfQuVv69tw5Qw3yDl",
+        "track_href": "https://api.spotify.com/v1/tracks/5ZSIExfQuVv69tw5Qw3yDl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ZSIExfQuVv69tw5Qw3yDl",
+        "duration_ms": 177748,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6ho88pvz4c8WCSFbdVXNia",
+    "name": "a&t",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 146.976,
+    "features": [
+      {
+        "danceability": 0.924,
+        "energy": 0.567,
+        "key": 5,
+        "loudness": -5.009,
+        "mode": 1,
+        "speechiness": 0.0961,
+        "acousticness": 0.00169,
+        "instrumentalness": 0,
+        "liveness": 0.0898,
+        "valence": 0.827,
+        "tempo": 146.976,
+        "type": "audio_features",
+        "id": "6ho88pvz4c8WCSFbdVXNia",
+        "uri": "spotify:track:6ho88pvz4c8WCSFbdVXNia",
+        "track_href": "https://api.spotify.com/v1/tracks/6ho88pvz4c8WCSFbdVXNia",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ho88pvz4c8WCSFbdVXNia",
+        "duration_ms": 211588,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0ZKKJTv21zJpNrKiL0LYyV",
+    "name": "out for the night",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 173.368,
+    "features": [
+      {
+        "danceability": 0.841,
+        "energy": 0.695,
+        "key": 9,
+        "loudness": -5.625,
+        "mode": 1,
+        "speechiness": 0.415,
+        "acousticness": 0.001,
+        "instrumentalness": 4.26e-05,
+        "liveness": 0.189,
+        "valence": 0.408,
+        "tempo": 173.368,
+        "type": "audio_features",
+        "id": "0ZKKJTv21zJpNrKiL0LYyV",
+        "uri": "spotify:track:0ZKKJTv21zJpNrKiL0LYyV",
+        "track_href": "https://api.spotify.com/v1/tracks/0ZKKJTv21zJpNrKiL0LYyV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ZKKJTv21zJpNrKiL0LYyV",
+        "duration_ms": 137232,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4f1XXGjZZ9EkFkrbPJek6X",
+    "name": "gun smoke",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 85.992,
+    "features": [
+      {
+        "danceability": 0.809,
+        "energy": 0.461,
+        "key": 10,
+        "loudness": -5.677,
+        "mode": 0,
+        "speechiness": 0.0907,
+        "acousticness": 0.000832,
+        "instrumentalness": 4.43e-05,
+        "liveness": 0.143,
+        "valence": 0.325,
+        "tempo": 85.992,
+        "type": "audio_features",
+        "id": "4f1XXGjZZ9EkFkrbPJek6X",
+        "uri": "spotify:track:4f1XXGjZZ9EkFkrbPJek6X",
+        "track_href": "https://api.spotify.com/v1/tracks/4f1XXGjZZ9EkFkrbPJek6X",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4f1XXGjZZ9EkFkrbPJek6X",
+        "duration_ms": 167410,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2wOXxtHZgRkkrkEbKLzzqs",
+    "name": "1.5",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 84.022,
+    "features": [
+      {
+        "danceability": 0.885,
+        "energy": 0.52,
+        "key": 1,
+        "loudness": -8.353,
+        "mode": 1,
+        "speechiness": 0.359,
+        "acousticness": 0.000244,
+        "instrumentalness": 1.16e-06,
+        "liveness": 0.454,
+        "valence": 0.306,
+        "tempo": 84.022,
+        "type": "audio_features",
+        "id": "2wOXxtHZgRkkrkEbKLzzqs",
+        "uri": "spotify:track:2wOXxtHZgRkkrkEbKLzzqs",
+        "track_href": "https://api.spotify.com/v1/tracks/2wOXxtHZgRkkrkEbKLzzqs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2wOXxtHZgRkkrkEbKLzzqs",
+        "duration_ms": 148656,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4paAidoE8VAemwU4jgCc6l",
+    "name": "all my friends",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 130.09,
+    "features": [
+      {
+        "danceability": 0.713,
+        "energy": 0.62,
+        "key": 0,
+        "loudness": -4.513,
+        "mode": 1,
+        "speechiness": 0.0422,
+        "acousticness": 0.171,
+        "instrumentalness": 1.16e-06,
+        "liveness": 0.118,
+        "valence": 0.206,
+        "tempo": 130.09,
+        "type": "audio_features",
+        "id": "4paAidoE8VAemwU4jgCc6l",
+        "uri": "spotify:track:4paAidoE8VAemwU4jgCc6l",
+        "track_href": "https://api.spotify.com/v1/tracks/4paAidoE8VAemwU4jgCc6l",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4paAidoE8VAemwU4jgCc6l",
+        "duration_ms": 211785,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0hPLZrnDgtKxrym1BHjDhd",
+    "name": "can't leave without it",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 131.982,
+    "features": [
+      {
+        "danceability": 0.872,
+        "energy": 0.591,
+        "key": 6,
+        "loudness": -6.952,
+        "mode": 0,
+        "speechiness": 0.359,
+        "acousticness": 0.111,
+        "instrumentalness": 0,
+        "liveness": 0.144,
+        "valence": 0.696,
+        "tempo": 131.982,
+        "type": "audio_features",
+        "id": "0hPLZrnDgtKxrym1BHjDhd",
+        "uri": "spotify:track:0hPLZrnDgtKxrym1BHjDhd",
+        "track_href": "https://api.spotify.com/v1/tracks/0hPLZrnDgtKxrym1BHjDhd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0hPLZrnDgtKxrym1BHjDhd",
+        "duration_ms": 205352,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2QgfDF0fQ4sskDthP8MG5w",
+    "name": "asmr",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 170.067,
+    "features": [
+      {
+        "danceability": 0.84,
+        "energy": 0.543,
+        "key": 1,
+        "loudness": -7.738,
+        "mode": 1,
+        "speechiness": 0.476,
+        "acousticness": 0.0399,
+        "instrumentalness": 0,
+        "liveness": 0.117,
+        "valence": 0.161,
+        "tempo": 170.067,
+        "type": "audio_features",
+        "id": "2QgfDF0fQ4sskDthP8MG5w",
+        "uri": "spotify:track:2QgfDF0fQ4sskDthP8MG5w",
+        "track_href": "https://api.spotify.com/v1/tracks/2QgfDF0fQ4sskDthP8MG5w",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2QgfDF0fQ4sskDthP8MG5w",
+        "duration_ms": 171714,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "50a8bKqlwDEqeiEknrzkTO",
+    "name": "ball w/o you",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 137.994,
+    "features": [
+      {
+        "danceability": 0.892,
+        "energy": 0.633,
+        "key": 8,
+        "loudness": -7.471,
+        "mode": 1,
+        "speechiness": 0.0902,
+        "acousticness": 0.0467,
+        "instrumentalness": 0.000189,
+        "liveness": 0.139,
+        "valence": 0.459,
+        "tempo": 137.994,
+        "type": "audio_features",
+        "id": "50a8bKqlwDEqeiEknrzkTO",
+        "uri": "spotify:track:50a8bKqlwDEqeiEknrzkTO",
+        "track_href": "https://api.spotify.com/v1/tracks/50a8bKqlwDEqeiEknrzkTO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/50a8bKqlwDEqeiEknrzkTO",
+        "duration_ms": 195047,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2LqoYvMudv9xoTqNLFKILj",
+    "name": "good day",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 122.195,
+    "features": [
+      {
+        "danceability": 0.966,
+        "energy": 0.519,
+        "key": 1,
+        "loudness": -5.682,
+        "mode": 1,
+        "speechiness": 0.306,
+        "acousticness": 0.00359,
+        "instrumentalness": 0,
+        "liveness": 0.254,
+        "valence": 0.119,
+        "tempo": 122.195,
+        "type": "audio_features",
+        "id": "2LqoYvMudv9xoTqNLFKILj",
+        "uri": "spotify:track:2LqoYvMudv9xoTqNLFKILj",
+        "track_href": "https://api.spotify.com/v1/tracks/2LqoYvMudv9xoTqNLFKILj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2LqoYvMudv9xoTqNLFKILj",
+        "duration_ms": 242448,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5stbfxsPi8gcOH2LCuA4Le",
+    "name": "pad lock",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 130.024,
+    "features": [
+      {
+        "danceability": 0.959,
+        "energy": 0.55,
+        "key": 5,
+        "loudness": -8.012,
+        "mode": 0,
+        "speechiness": 0.197,
+        "acousticness": 0.0187,
+        "instrumentalness": 0,
+        "liveness": 0.112,
+        "valence": 0.798,
+        "tempo": 130.024,
+        "type": "audio_features",
+        "id": "5stbfxsPi8gcOH2LCuA4Le",
+        "uri": "spotify:track:5stbfxsPi8gcOH2LCuA4Le",
+        "track_href": "https://api.spotify.com/v1/tracks/5stbfxsPi8gcOH2LCuA4Le",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5stbfxsPi8gcOH2LCuA4Le",
+        "duration_ms": 191360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2FUNBaa5DwItJtYEBgAblU",
+    "name": "monster",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 134.022,
+    "features": [
+      {
+        "danceability": 0.89,
+        "energy": 0.607,
+        "key": 9,
+        "loudness": -6.916,
+        "mode": 0,
+        "speechiness": 0.124,
+        "acousticness": 0.158,
+        "instrumentalness": 0.000228,
+        "liveness": 0.118,
+        "valence": 0.224,
+        "tempo": 134.022,
+        "type": "audio_features",
+        "id": "2FUNBaa5DwItJtYEBgAblU",
+        "uri": "spotify:track:2FUNBaa5DwItJtYEBgAblU",
+        "track_href": "https://api.spotify.com/v1/tracks/2FUNBaa5DwItJtYEBgAblU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2FUNBaa5DwItJtYEBgAblU",
+        "duration_ms": 233040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "55xNjVrGJxgqcEFqCyejTM",
+    "name": "letter 2 my momma",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 80.225,
+    "features": [
+      {
+        "danceability": 0.864,
+        "energy": 0.608,
+        "key": 1,
+        "loudness": -10.567,
+        "mode": 0,
+        "speechiness": 0.275,
+        "acousticness": 0.0531,
+        "instrumentalness": 1.2e-05,
+        "liveness": 0.078,
+        "valence": 0.963,
+        "tempo": 80.225,
+        "type": "audio_features",
+        "id": "55xNjVrGJxgqcEFqCyejTM",
+        "uri": "spotify:track:55xNjVrGJxgqcEFqCyejTM",
+        "track_href": "https://api.spotify.com/v1/tracks/55xNjVrGJxgqcEFqCyejTM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/55xNjVrGJxgqcEFqCyejTM",
+        "duration_ms": 194810,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1uULQtJ8rbsX5TwjPpPc9Q",
+    "name": "4L",
+    "artist": "21 Savage",
+    "album": "i am > i was",
+    "bpm": 80.011,
+    "features": [
+      {
+        "danceability": 0.879,
+        "energy": 0.41,
+        "key": 8,
+        "loudness": -9.233,
+        "mode": 1,
+        "speechiness": 0.551,
+        "acousticness": 0.000897,
+        "instrumentalness": 2.09e-05,
+        "liveness": 0.108,
+        "valence": 0.0703,
+        "tempo": 80.011,
+        "type": "audio_features",
+        "id": "1uULQtJ8rbsX5TwjPpPc9Q",
+        "uri": "spotify:track:1uULQtJ8rbsX5TwjPpPc9Q",
+        "track_href": "https://api.spotify.com/v1/tracks/1uULQtJ8rbsX5TwjPpPc9Q",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1uULQtJ8rbsX5TwjPpPc9Q",
+        "duration_ms": 288364,
+        "time_signature": 4
+      }
+    ]
+  }
+]

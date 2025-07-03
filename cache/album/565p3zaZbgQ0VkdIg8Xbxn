@@ -1,0 +1,321 @@
+[
+  {
+    "id": "0I356NtjAiRMgJKmm4a6N5",
+    "name": "Node",
+    "artist": "Between The Buried And Me",
+    "album": "Coma Ecliptic",
+    "bpm": 119.975,
+    "features": [
+      {
+        "danceability": 0.451,
+        "energy": 0.191,
+        "key": 2,
+        "loudness": -10.894,
+        "mode": 0,
+        "speechiness": 0.0361,
+        "acousticness": 0.904,
+        "instrumentalness": 0.00808,
+        "liveness": 0.11,
+        "valence": 0.0328,
+        "tempo": 119.975,
+        "type": "audio_features",
+        "id": "0I356NtjAiRMgJKmm4a6N5",
+        "uri": "spotify:track:0I356NtjAiRMgJKmm4a6N5",
+        "track_href": "https://api.spotify.com/v1/tracks/0I356NtjAiRMgJKmm4a6N5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0I356NtjAiRMgJKmm4a6N5",
+        "duration_ms": 211773,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5EM6ySpK1SYeof4jm72psM",
+    "name": "The Coma Machine",
+    "artist": "Between The Buried And Me",
+    "album": "Coma Ecliptic",
+    "bpm": 145.088,
+    "features": [
+      {
+        "danceability": 0.273,
+        "energy": 0.971,
+        "key": 7,
+        "loudness": -4.495,
+        "mode": 1,
+        "speechiness": 0.139,
+        "acousticness": 7e-05,
+        "instrumentalness": 0.00079,
+        "liveness": 0.284,
+        "valence": 0.249,
+        "tempo": 145.088,
+        "type": "audio_features",
+        "id": "5EM6ySpK1SYeof4jm72psM",
+        "uri": "spotify:track:5EM6ySpK1SYeof4jm72psM",
+        "track_href": "https://api.spotify.com/v1/tracks/5EM6ySpK1SYeof4jm72psM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5EM6ySpK1SYeof4jm72psM",
+        "duration_ms": 455920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2AiZaE2Yo39nxDfJWiSW18",
+    "name": "Dim Ignition",
+    "artist": "Between The Buried And Me",
+    "album": "Coma Ecliptic",
+    "bpm": 120.028,
+    "features": [
+      {
+        "danceability": 0.453,
+        "energy": 0.945,
+        "key": 8,
+        "loudness": -6.8,
+        "mode": 0,
+        "speechiness": 0.0349,
+        "acousticness": 0.00013,
+        "instrumentalness": 0.00171,
+        "liveness": 0.0781,
+        "valence": 0.387,
+        "tempo": 120.028,
+        "type": "audio_features",
+        "id": "2AiZaE2Yo39nxDfJWiSW18",
+        "uri": "spotify:track:2AiZaE2Yo39nxDfJWiSW18",
+        "track_href": "https://api.spotify.com/v1/tracks/2AiZaE2Yo39nxDfJWiSW18",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2AiZaE2Yo39nxDfJWiSW18",
+        "duration_ms": 136067,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6IeXWJ2CKX8Dnir6pRk6U0",
+    "name": "Famine Wolf",
+    "artist": "Between The Buried And Me",
+    "album": "Coma Ecliptic",
+    "bpm": 125.152,
+    "features": [
+      {
+        "danceability": 0.295,
+        "energy": 0.956,
+        "key": 1,
+        "loudness": -4.945,
+        "mode": 1,
+        "speechiness": 0.109,
+        "acousticness": 6.31e-05,
+        "instrumentalness": 0.000155,
+        "liveness": 0.133,
+        "valence": 0.307,
+        "tempo": 125.152,
+        "type": "audio_features",
+        "id": "6IeXWJ2CKX8Dnir6pRk6U0",
+        "uri": "spotify:track:6IeXWJ2CKX8Dnir6pRk6U0",
+        "track_href": "https://api.spotify.com/v1/tracks/6IeXWJ2CKX8Dnir6pRk6U0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6IeXWJ2CKX8Dnir6pRk6U0",
+        "duration_ms": 410827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6gynm3KKVG9YniU1Kh5aAw",
+    "name": "King Redeem / Queen Serene",
+    "artist": "Between The Buried And Me",
+    "album": "Coma Ecliptic",
+    "bpm": 147.835,
+    "features": [
+      {
+        "danceability": 0.283,
+        "energy": 0.94,
+        "key": 1,
+        "loudness": -5.459,
+        "mode": 0,
+        "speechiness": 0.114,
+        "acousticness": 0.000372,
+        "instrumentalness": 3.35e-06,
+        "liveness": 0.097,
+        "valence": 0.251,
+        "tempo": 147.835,
+        "type": "audio_features",
+        "id": "6gynm3KKVG9YniU1Kh5aAw",
+        "uri": "spotify:track:6gynm3KKVG9YniU1Kh5aAw",
+        "track_href": "https://api.spotify.com/v1/tracks/6gynm3KKVG9YniU1Kh5aAw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6gynm3KKVG9YniU1Kh5aAw",
+        "duration_ms": 418813,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "4FBNrDv4VRSIzAaWflx7p2",
+    "name": "Turn on the Darkness",
+    "artist": "Between The Buried And Me",
+    "album": "Coma Ecliptic",
+    "bpm": 170.279,
+    "features": [
+      {
+        "danceability": 0.226,
+        "energy": 0.945,
+        "key": 8,
+        "loudness": -5.324,
+        "mode": 1,
+        "speechiness": 0.0686,
+        "acousticness": 6.6e-05,
+        "instrumentalness": 0.00117,
+        "liveness": 0.122,
+        "valence": 0.381,
+        "tempo": 170.279,
+        "type": "audio_features",
+        "id": "4FBNrDv4VRSIzAaWflx7p2",
+        "uri": "spotify:track:4FBNrDv4VRSIzAaWflx7p2",
+        "track_href": "https://api.spotify.com/v1/tracks/4FBNrDv4VRSIzAaWflx7p2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4FBNrDv4VRSIzAaWflx7p2",
+        "duration_ms": 506733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7HttAGuRTcBF7Yz40kzlWh",
+    "name": "The Ectopic Stroll",
+    "artist": "Between The Buried And Me",
+    "album": "Coma Ecliptic",
+    "bpm": 110.002,
+    "features": [
+      {
+        "danceability": 0.303,
+        "energy": 0.951,
+        "key": 6,
+        "loudness": -4.919,
+        "mode": 1,
+        "speechiness": 0.0752,
+        "acousticness": 0.000101,
+        "instrumentalness": 0.0024,
+        "liveness": 0.365,
+        "valence": 0.401,
+        "tempo": 110.002,
+        "type": "audio_features",
+        "id": "7HttAGuRTcBF7Yz40kzlWh",
+        "uri": "spotify:track:7HttAGuRTcBF7Yz40kzlWh",
+        "track_href": "https://api.spotify.com/v1/tracks/7HttAGuRTcBF7Yz40kzlWh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7HttAGuRTcBF7Yz40kzlWh",
+        "duration_ms": 422973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3XWE46KG9q1F8RwU4P2fMQ",
+    "name": "Rapid Calm",
+    "artist": "Between The Buried And Me",
+    "album": "Coma Ecliptic",
+    "bpm": 149.608,
+    "features": [
+      {
+        "danceability": 0.214,
+        "energy": 0.882,
+        "key": 10,
+        "loudness": -5.809,
+        "mode": 0,
+        "speechiness": 0.063,
+        "acousticness": 0.000334,
+        "instrumentalness": 0.000228,
+        "liveness": 0.0732,
+        "valence": 0.215,
+        "tempo": 149.608,
+        "type": "audio_features",
+        "id": "3XWE46KG9q1F8RwU4P2fMQ",
+        "uri": "spotify:track:3XWE46KG9q1F8RwU4P2fMQ",
+        "track_href": "https://api.spotify.com/v1/tracks/3XWE46KG9q1F8RwU4P2fMQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3XWE46KG9q1F8RwU4P2fMQ",
+        "duration_ms": 479600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3ffqeRAPY7QKEDHdtv5O3s",
+    "name": "Memory Palace",
+    "artist": "Between The Buried And Me",
+    "album": "Coma Ecliptic",
+    "bpm": 92.516,
+    "features": [
+      {
+        "danceability": 0.228,
+        "energy": 0.989,
+        "key": 11,
+        "loudness": -4.482,
+        "mode": 0,
+        "speechiness": 0.113,
+        "acousticness": 1.44e-05,
+        "instrumentalness": 0.000337,
+        "liveness": 0.187,
+        "valence": 0.425,
+        "tempo": 92.516,
+        "type": "audio_features",
+        "id": "3ffqeRAPY7QKEDHdtv5O3s",
+        "uri": "spotify:track:3ffqeRAPY7QKEDHdtv5O3s",
+        "track_href": "https://api.spotify.com/v1/tracks/3ffqeRAPY7QKEDHdtv5O3s",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ffqeRAPY7QKEDHdtv5O3s",
+        "duration_ms": 594453,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3nZahP20mwGWzIsuOL34lW",
+    "name": "Option Oblivion",
+    "artist": "Between The Buried And Me",
+    "album": "Coma Ecliptic",
+    "bpm": 89.976,
+    "features": [
+      {
+        "danceability": 0.221,
+        "energy": 0.983,
+        "key": 4,
+        "loudness": -4.347,
+        "mode": 0,
+        "speechiness": 0.0874,
+        "acousticness": 5.68e-06,
+        "instrumentalness": 4.43e-06,
+        "liveness": 0.386,
+        "valence": 0.27,
+        "tempo": 89.976,
+        "type": "audio_features",
+        "id": "3nZahP20mwGWzIsuOL34lW",
+        "uri": "spotify:track:3nZahP20mwGWzIsuOL34lW",
+        "track_href": "https://api.spotify.com/v1/tracks/3nZahP20mwGWzIsuOL34lW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3nZahP20mwGWzIsuOL34lW",
+        "duration_ms": 262320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "462J9jOoMZfAjzxWiSSq2E",
+    "name": "Life in Velvet",
+    "artist": "Between The Buried And Me",
+    "album": "Coma Ecliptic",
+    "bpm": 115.02,
+    "features": [
+      {
+        "danceability": 0.321,
+        "energy": 0.56,
+        "key": 4,
+        "loudness": -6.439,
+        "mode": 0,
+        "speechiness": 0.0479,
+        "acousticness": 0.00336,
+        "instrumentalness": 0.00254,
+        "liveness": 0.118,
+        "valence": 0.0396,
+        "tempo": 115.02,
+        "type": "audio_features",
+        "id": "462J9jOoMZfAjzxWiSSq2E",
+        "uri": "spotify:track:462J9jOoMZfAjzxWiSSq2E",
+        "track_href": "https://api.spotify.com/v1/tracks/462J9jOoMZfAjzxWiSSq2E",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/462J9jOoMZfAjzxWiSSq2E",
+        "duration_ms": 218520,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "id": "3PQH6w0yfM2ewcIGmKd2yL",
+    "name": "Intro/Spectrum",
+    "artist": "H\u00c6LOS",
+    "album": "Full Circle",
+    "bpm": 75.444,
+    "features": [
+      {
+        "danceability": 0.134,
+        "energy": 0.0859,
+        "key": 7,
+        "loudness": -18.807,
+        "mode": 1,
+        "speechiness": 0.0327,
+        "acousticness": 0.985,
+        "instrumentalness": 0.752,
+        "liveness": 0.11,
+        "valence": 0.0424,
+        "tempo": 75.444,
+        "type": "audio_features",
+        "id": "3PQH6w0yfM2ewcIGmKd2yL",
+        "uri": "spotify:track:3PQH6w0yfM2ewcIGmKd2yL",
+        "track_href": "https://api.spotify.com/v1/tracks/3PQH6w0yfM2ewcIGmKd2yL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3PQH6w0yfM2ewcIGmKd2yL",
+        "duration_ms": 90502,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "77V8QD2ofscKhbKvFFQByG",
+    "name": "Pray",
+    "artist": "H\u00c6LOS",
+    "album": "Full Circle",
+    "bpm": 107.015,
+    "features": [
+      {
+        "danceability": 0.587,
+        "energy": 0.855,
+        "key": 9,
+        "loudness": -7.919,
+        "mode": 0,
+        "speechiness": 0.036,
+        "acousticness": 0.00968,
+        "instrumentalness": 0.00354,
+        "liveness": 0.0971,
+        "valence": 0.0641,
+        "tempo": 107.015,
+        "type": "audio_features",
+        "id": "77V8QD2ofscKhbKvFFQByG",
+        "uri": "spotify:track:77V8QD2ofscKhbKvFFQByG",
+        "track_href": "https://api.spotify.com/v1/tracks/77V8QD2ofscKhbKvFFQByG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/77V8QD2ofscKhbKvFFQByG",
+        "duration_ms": 220745,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7AHaKrKuhzpl4xK0r2Jd9g",
+    "name": "DUST",
+    "artist": "H\u00c6LOS",
+    "album": "Full Circle",
+    "bpm": 99.998,
+    "features": [
+      {
+        "danceability": 0.656,
+        "energy": 0.521,
+        "key": 3,
+        "loudness": -9.897,
+        "mode": 0,
+        "speechiness": 0.0483,
+        "acousticness": 0.0454,
+        "instrumentalness": 8.4e-05,
+        "liveness": 0.0886,
+        "valence": 0.423,
+        "tempo": 99.998,
+        "type": "audio_features",
+        "id": "7AHaKrKuhzpl4xK0r2Jd9g",
+        "uri": "spotify:track:7AHaKrKuhzpl4xK0r2Jd9g",
+        "track_href": "https://api.spotify.com/v1/tracks/7AHaKrKuhzpl4xK0r2Jd9g",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7AHaKrKuhzpl4xK0r2Jd9g",
+        "duration_ms": 278145,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1DcBU8x5d7BrCIcgTfIRzk",
+    "name": "Full Circle",
+    "artist": "H\u00c6LOS",
+    "album": "Full Circle",
+    "bpm": 90.998,
+    "features": [
+      {
+        "danceability": 0.484,
+        "energy": 0.714,
+        "key": 7,
+        "loudness": -7.234,
+        "mode": 1,
+        "speechiness": 0.0455,
+        "acousticness": 0.0602,
+        "instrumentalness": 0.0122,
+        "liveness": 0.135,
+        "valence": 0.135,
+        "tempo": 90.998,
+        "type": "audio_features",
+        "id": "1DcBU8x5d7BrCIcgTfIRzk",
+        "uri": "spotify:track:1DcBU8x5d7BrCIcgTfIRzk",
+        "track_href": "https://api.spotify.com/v1/tracks/1DcBU8x5d7BrCIcgTfIRzk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1DcBU8x5d7BrCIcgTfIRzk",
+        "duration_ms": 303781,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5VDP0vZcOk7zNGJZpVrX9W",
+    "name": "Earth Not Above",
+    "artist": "H\u00c6LOS",
+    "album": "Full Circle",
+    "bpm": 94.992,
+    "features": [
+      {
+        "danceability": 0.591,
+        "energy": 0.756,
+        "key": 6,
+        "loudness": -6.234,
+        "mode": 0,
+        "speechiness": 0.035,
+        "acousticness": 0.0752,
+        "instrumentalness": 0.0317,
+        "liveness": 0.114,
+        "valence": 0.313,
+        "tempo": 94.992,
+        "type": "audio_features",
+        "id": "5VDP0vZcOk7zNGJZpVrX9W",
+        "uri": "spotify:track:5VDP0vZcOk7zNGJZpVrX9W",
+        "track_href": "https://api.spotify.com/v1/tracks/5VDP0vZcOk7zNGJZpVrX9W",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5VDP0vZcOk7zNGJZpVrX9W",
+        "duration_ms": 275665,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2r2qdAE52TxkdHhePTcsxA",
+    "name": "ORACLE",
+    "artist": "H\u00c6LOS",
+    "album": "Full Circle",
+    "bpm": 119.978,
+    "features": [
+      {
+        "danceability": 0.488,
+        "energy": 0.709,
+        "key": 8,
+        "loudness": -9.411,
+        "mode": 1,
+        "speechiness": 0.0526,
+        "acousticness": 0.243,
+        "instrumentalness": 0.709,
+        "liveness": 0.228,
+        "valence": 0.035,
+        "tempo": 119.978,
+        "type": "audio_features",
+        "id": "2r2qdAE52TxkdHhePTcsxA",
+        "uri": "spotify:track:2r2qdAE52TxkdHhePTcsxA",
+        "track_href": "https://api.spotify.com/v1/tracks/2r2qdAE52TxkdHhePTcsxA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2r2qdAE52TxkdHhePTcsxA",
+        "duration_ms": 327359,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4Vo0wEObIp0bYpyvd3NC1w",
+    "name": "Alone",
+    "artist": "H\u00c6LOS",
+    "album": "Full Circle",
+    "bpm": 111.969,
+    "features": [
+      {
+        "danceability": 0.687,
+        "energy": 0.538,
+        "key": 8,
+        "loudness": -8.485,
+        "mode": 0,
+        "speechiness": 0.0311,
+        "acousticness": 0.0115,
+        "instrumentalness": 0.426,
+        "liveness": 0.113,
+        "valence": 0.223,
+        "tempo": 111.969,
+        "type": "audio_features",
+        "id": "4Vo0wEObIp0bYpyvd3NC1w",
+        "uri": "spotify:track:4Vo0wEObIp0bYpyvd3NC1w",
+        "track_href": "https://api.spotify.com/v1/tracks/4Vo0wEObIp0bYpyvd3NC1w",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Vo0wEObIp0bYpyvd3NC1w",
+        "duration_ms": 273810,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7N21qy5O9BCfKh57DZsGEe",
+    "name": "SEPARATE LIVES",
+    "artist": "H\u00c6LOS",
+    "album": "Full Circle",
+    "bpm": 124.635,
+    "features": [
+      {
+        "danceability": 0.357,
+        "energy": 0.77,
+        "key": 4,
+        "loudness": -7.341,
+        "mode": 0,
+        "speechiness": 0.0544,
+        "acousticness": 0.0222,
+        "instrumentalness": 0.000539,
+        "liveness": 0.107,
+        "valence": 0.317,
+        "tempo": 124.635,
+        "type": "audio_features",
+        "id": "7N21qy5O9BCfKh57DZsGEe",
+        "uri": "spotify:track:7N21qy5O9BCfKh57DZsGEe",
+        "track_href": "https://api.spotify.com/v1/tracks/7N21qy5O9BCfKh57DZsGEe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7N21qy5O9BCfKh57DZsGEe",
+        "duration_ms": 287198,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2OncuWgfweYuhXGTIriTzV",
+    "name": "Sacred",
+    "artist": "H\u00c6LOS",
+    "album": "Full Circle",
+    "bpm": 119.993,
+    "features": [
+      {
+        "danceability": 0.598,
+        "energy": 0.782,
+        "key": 9,
+        "loudness": -8.31,
+        "mode": 0,
+        "speechiness": 0.0469,
+        "acousticness": 0.0265,
+        "instrumentalness": 0.558,
+        "liveness": 0.074,
+        "valence": 0.428,
+        "tempo": 119.993,
+        "type": "audio_features",
+        "id": "2OncuWgfweYuhXGTIriTzV",
+        "uri": "spotify:track:2OncuWgfweYuhXGTIriTzV",
+        "track_href": "https://api.spotify.com/v1/tracks/2OncuWgfweYuhXGTIriTzV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2OncuWgfweYuhXGTIriTzV",
+        "duration_ms": 269119,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0OA21c0lyBEV102c6hOcr0",
+    "name": "Cloud Nine",
+    "artist": "H\u00c6LOS",
+    "album": "Full Circle",
+    "bpm": 112.018,
+    "features": [
+      {
+        "danceability": 0.688,
+        "energy": 0.684,
+        "key": 2,
+        "loudness": -9.177,
+        "mode": 0,
+        "speechiness": 0.0318,
+        "acousticness": 0.113,
+        "instrumentalness": 0.52,
+        "liveness": 0.0732,
+        "valence": 0.539,
+        "tempo": 112.018,
+        "type": "audio_features",
+        "id": "0OA21c0lyBEV102c6hOcr0",
+        "uri": "spotify:track:0OA21c0lyBEV102c6hOcr0",
+        "track_href": "https://api.spotify.com/v1/tracks/0OA21c0lyBEV102c6hOcr0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0OA21c0lyBEV102c6hOcr0",
+        "duration_ms": 339699,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1dsMaqz58lFw4HQs2Gbz9b",
+    "name": "Pale",
+    "artist": "H\u00c6LOS",
+    "album": "Full Circle",
+    "bpm": 102.975,
+    "features": [
+      {
+        "danceability": 0.285,
+        "energy": 0.703,
+        "key": 3,
+        "loudness": -7.71,
+        "mode": 0,
+        "speechiness": 0.049,
+        "acousticness": 0.0147,
+        "instrumentalness": 9.43e-05,
+        "liveness": 0.0792,
+        "valence": 0.166,
+        "tempo": 102.975,
+        "type": "audio_features",
+        "id": "1dsMaqz58lFw4HQs2Gbz9b",
+        "uri": "spotify:track:1dsMaqz58lFw4HQs2Gbz9b",
+        "track_href": "https://api.spotify.com/v1/tracks/1dsMaqz58lFw4HQs2Gbz9b",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1dsMaqz58lFw4HQs2Gbz9b",
+        "duration_ms": 268216,
+        "time_signature": 4
+      }
+    ]
+  }
+]

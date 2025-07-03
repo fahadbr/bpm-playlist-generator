@@ -1,0 +1,292 @@
+[
+  {
+    "id": "7ccec2Fai8wSRf6BI9MYlC",
+    "name": "We Are Destroyer",
+    "artist": "Anberlin",
+    "album": "Lowborn",
+    "bpm": 159.965,
+    "features": [
+      {
+        "danceability": 0.431,
+        "energy": 0.97,
+        "key": 4,
+        "loudness": -4.812,
+        "mode": 0,
+        "speechiness": 0.144,
+        "acousticness": 7.09e-05,
+        "instrumentalness": 0.000202,
+        "liveness": 0.0911,
+        "valence": 0.456,
+        "tempo": 159.965,
+        "type": "audio_features",
+        "id": "7ccec2Fai8wSRf6BI9MYlC",
+        "uri": "spotify:track:7ccec2Fai8wSRf6BI9MYlC",
+        "track_href": "https://api.spotify.com/v1/tracks/7ccec2Fai8wSRf6BI9MYlC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ccec2Fai8wSRf6BI9MYlC",
+        "duration_ms": 209427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4iXOIvb9TStMyjeOq8Zurl",
+    "name": "Armageddon",
+    "artist": "Anberlin",
+    "album": "Lowborn",
+    "bpm": 93.001,
+    "features": [
+      {
+        "danceability": 0.531,
+        "energy": 0.674,
+        "key": 2,
+        "loudness": -7.308,
+        "mode": 0,
+        "speechiness": 0.0336,
+        "acousticness": 0.0251,
+        "instrumentalness": 0.18,
+        "liveness": 0.0656,
+        "valence": 0.289,
+        "tempo": 93.001,
+        "type": "audio_features",
+        "id": "4iXOIvb9TStMyjeOq8Zurl",
+        "uri": "spotify:track:4iXOIvb9TStMyjeOq8Zurl",
+        "track_href": "https://api.spotify.com/v1/tracks/4iXOIvb9TStMyjeOq8Zurl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4iXOIvb9TStMyjeOq8Zurl",
+        "duration_ms": 245600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4hKexemujj48I1hFLCWjwm",
+    "name": "Stranger Ways",
+    "artist": "Anberlin",
+    "album": "Lowborn",
+    "bpm": 134.906,
+    "features": [
+      {
+        "danceability": 0.536,
+        "energy": 0.852,
+        "key": 4,
+        "loudness": -6.652,
+        "mode": 0,
+        "speechiness": 0.0297,
+        "acousticness": 0.000695,
+        "instrumentalness": 0.0171,
+        "liveness": 0.157,
+        "valence": 0.37,
+        "tempo": 134.906,
+        "type": "audio_features",
+        "id": "4hKexemujj48I1hFLCWjwm",
+        "uri": "spotify:track:4hKexemujj48I1hFLCWjwm",
+        "track_href": "https://api.spotify.com/v1/tracks/4hKexemujj48I1hFLCWjwm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4hKexemujj48I1hFLCWjwm",
+        "duration_ms": 282373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5CZkZiFIDkmxds8jFFrqH0",
+    "name": "Velvet Covered Brick",
+    "artist": "Anberlin",
+    "album": "Lowborn",
+    "bpm": 156.959,
+    "features": [
+      {
+        "danceability": 0.299,
+        "energy": 0.964,
+        "key": 1,
+        "loudness": -4.353,
+        "mode": 1,
+        "speechiness": 0.124,
+        "acousticness": 7.32e-06,
+        "instrumentalness": 0.838,
+        "liveness": 0.535,
+        "valence": 0.177,
+        "tempo": 156.959,
+        "type": "audio_features",
+        "id": "5CZkZiFIDkmxds8jFFrqH0",
+        "uri": "spotify:track:5CZkZiFIDkmxds8jFFrqH0",
+        "track_href": "https://api.spotify.com/v1/tracks/5CZkZiFIDkmxds8jFFrqH0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5CZkZiFIDkmxds8jFFrqH0",
+        "duration_ms": 236320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7N2uDrFW4OtxfWLuP96XQV",
+    "name": "Atonement",
+    "artist": "Anberlin",
+    "album": "Lowborn",
+    "bpm": 81.978,
+    "features": [
+      {
+        "danceability": 0.391,
+        "energy": 0.946,
+        "key": 11,
+        "loudness": -5.831,
+        "mode": 0,
+        "speechiness": 0.0736,
+        "acousticness": 0.00262,
+        "instrumentalness": 0.128,
+        "liveness": 0.294,
+        "valence": 0.391,
+        "tempo": 81.978,
+        "type": "audio_features",
+        "id": "7N2uDrFW4OtxfWLuP96XQV",
+        "uri": "spotify:track:7N2uDrFW4OtxfWLuP96XQV",
+        "track_href": "https://api.spotify.com/v1/tracks/7N2uDrFW4OtxfWLuP96XQV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7N2uDrFW4OtxfWLuP96XQV",
+        "duration_ms": 257293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0gq8C518MTZuTf8VxoU670",
+    "name": "Birds of Prey",
+    "artist": "Anberlin",
+    "album": "Lowborn",
+    "bpm": 136.984,
+    "features": [
+      {
+        "danceability": 0.446,
+        "energy": 0.772,
+        "key": 10,
+        "loudness": -7.056,
+        "mode": 0,
+        "speechiness": 0.0454,
+        "acousticness": 0.0117,
+        "instrumentalness": 0.482,
+        "liveness": 0.146,
+        "valence": 0.308,
+        "tempo": 136.984,
+        "type": "audio_features",
+        "id": "0gq8C518MTZuTf8VxoU670",
+        "uri": "spotify:track:0gq8C518MTZuTf8VxoU670",
+        "track_href": "https://api.spotify.com/v1/tracks/0gq8C518MTZuTf8VxoU670",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0gq8C518MTZuTf8VxoU670",
+        "duration_ms": 235773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3g6OfZHk92WJUv7ODFKuO4",
+    "name": "Dissenter",
+    "artist": "Anberlin",
+    "album": "Lowborn",
+    "bpm": 149.915,
+    "features": [
+      {
+        "danceability": 0.399,
+        "energy": 0.984,
+        "key": 2,
+        "loudness": -4.967,
+        "mode": 0,
+        "speechiness": 0.368,
+        "acousticness": 1.61e-05,
+        "instrumentalness": 0.839,
+        "liveness": 0.051,
+        "valence": 0.0904,
+        "tempo": 149.915,
+        "type": "audio_features",
+        "id": "3g6OfZHk92WJUv7ODFKuO4",
+        "uri": "spotify:track:3g6OfZHk92WJUv7ODFKuO4",
+        "track_href": "https://api.spotify.com/v1/tracks/3g6OfZHk92WJUv7ODFKuO4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3g6OfZHk92WJUv7ODFKuO4",
+        "duration_ms": 195840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7wYZyREpCnV0KM2MgX82Rz",
+    "name": "Losing It All",
+    "artist": "Anberlin",
+    "album": "Lowborn",
+    "bpm": 177.965,
+    "features": [
+      {
+        "danceability": 0.373,
+        "energy": 0.903,
+        "key": 9,
+        "loudness": -3.636,
+        "mode": 0,
+        "speechiness": 0.0629,
+        "acousticness": 4.3e-05,
+        "instrumentalness": 0.0617,
+        "liveness": 0.0425,
+        "valence": 0.409,
+        "tempo": 177.965,
+        "type": "audio_features",
+        "id": "7wYZyREpCnV0KM2MgX82Rz",
+        "uri": "spotify:track:7wYZyREpCnV0KM2MgX82Rz",
+        "track_href": "https://api.spotify.com/v1/tracks/7wYZyREpCnV0KM2MgX82Rz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7wYZyREpCnV0KM2MgX82Rz",
+        "duration_ms": 254787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5RibjOFyMKUskdc0U8URmJ",
+    "name": "Hearing Voices",
+    "artist": "Anberlin",
+    "album": "Lowborn",
+    "bpm": 142.003,
+    "features": [
+      {
+        "danceability": 0.494,
+        "energy": 0.918,
+        "key": 6,
+        "loudness": -4.844,
+        "mode": 1,
+        "speechiness": 0.0836,
+        "acousticness": 0.00126,
+        "instrumentalness": 0.000499,
+        "liveness": 0.0662,
+        "valence": 0.487,
+        "tempo": 142.003,
+        "type": "audio_features",
+        "id": "5RibjOFyMKUskdc0U8URmJ",
+        "uri": "spotify:track:5RibjOFyMKUskdc0U8URmJ",
+        "track_href": "https://api.spotify.com/v1/tracks/5RibjOFyMKUskdc0U8URmJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5RibjOFyMKUskdc0U8URmJ",
+        "duration_ms": 214920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3fHFeW9vwiZkBSHNWyTUi2",
+    "name": "Harbinger",
+    "artist": "Anberlin",
+    "album": "Lowborn",
+    "bpm": 133.176,
+    "features": [
+      {
+        "danceability": 0.336,
+        "energy": 0.832,
+        "key": 7,
+        "loudness": -6.522,
+        "mode": 0,
+        "speechiness": 0.0543,
+        "acousticness": 0.00172,
+        "instrumentalness": 0.818,
+        "liveness": 0.154,
+        "valence": 0.117,
+        "tempo": 133.176,
+        "type": "audio_features",
+        "id": "3fHFeW9vwiZkBSHNWyTUi2",
+        "uri": "spotify:track:3fHFeW9vwiZkBSHNWyTUi2",
+        "track_href": "https://api.spotify.com/v1/tracks/3fHFeW9vwiZkBSHNWyTUi2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3fHFeW9vwiZkBSHNWyTUi2",
+        "duration_ms": 277147,
+        "time_signature": 4
+      }
+    ]
+  }
+]

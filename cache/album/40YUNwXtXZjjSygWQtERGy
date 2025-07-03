@@ -1,0 +1,379 @@
+[
+  {
+    "id": "06k4xnNG7NZEMPm1bE1YPI",
+    "name": "Dystopia",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 119.148,
+    "features": [
+      {
+        "danceability": 0.44,
+        "energy": 0.628,
+        "key": 2,
+        "loudness": -9.48,
+        "mode": 1,
+        "speechiness": 0.038,
+        "acousticness": 0.00504,
+        "instrumentalness": 0.0942,
+        "liveness": 0.119,
+        "valence": 0.101,
+        "tempo": 119.148,
+        "type": "audio_features",
+        "id": "06k4xnNG7NZEMPm1bE1YPI",
+        "uri": "spotify:track:06k4xnNG7NZEMPm1bE1YPI",
+        "track_href": "https://api.spotify.com/v1/tracks/06k4xnNG7NZEMPm1bE1YPI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/06k4xnNG7NZEMPm1bE1YPI",
+        "duration_ms": 411305,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2eMHUxMoNUW7sNX54ghLVo",
+    "name": "Hexes",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 104.316,
+    "features": [
+      {
+        "danceability": 0.241,
+        "energy": 0.725,
+        "key": 2,
+        "loudness": -8.189,
+        "mode": 0,
+        "speechiness": 0.0405,
+        "acousticness": 0.00748,
+        "instrumentalness": 0.00111,
+        "liveness": 0.183,
+        "valence": 0.0855,
+        "tempo": 104.316,
+        "type": "audio_features",
+        "id": "2eMHUxMoNUW7sNX54ghLVo",
+        "uri": "spotify:track:2eMHUxMoNUW7sNX54ghLVo",
+        "track_href": "https://api.spotify.com/v1/tracks/2eMHUxMoNUW7sNX54ghLVo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2eMHUxMoNUW7sNX54ghLVo",
+        "duration_ms": 317978,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "45fan4fM25Y5lj8ogS9vDQ",
+    "name": "Survival",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 134.941,
+    "features": [
+      {
+        "danceability": 0.53,
+        "energy": 0.883,
+        "key": 6,
+        "loudness": -7.806,
+        "mode": 1,
+        "speechiness": 0.0428,
+        "acousticness": 0.000538,
+        "instrumentalness": 3.51e-05,
+        "liveness": 0.32,
+        "valence": 0.37,
+        "tempo": 134.941,
+        "type": "audio_features",
+        "id": "45fan4fM25Y5lj8ogS9vDQ",
+        "uri": "spotify:track:45fan4fM25Y5lj8ogS9vDQ",
+        "track_href": "https://api.spotify.com/v1/tracks/45fan4fM25Y5lj8ogS9vDQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/45fan4fM25Y5lj8ogS9vDQ",
+        "duration_ms": 265039,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "4estc9tYBBwaV2YGdz1fav",
+    "name": "Tourniquet",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 163.024,
+    "features": [
+      {
+        "danceability": 0.404,
+        "energy": 0.565,
+        "key": 4,
+        "loudness": -11.412,
+        "mode": 0,
+        "speechiness": 0.0394,
+        "acousticness": 0.045,
+        "instrumentalness": 0.876,
+        "liveness": 0.115,
+        "valence": 0.0793,
+        "tempo": 163.024,
+        "type": "audio_features",
+        "id": "4estc9tYBBwaV2YGdz1fav",
+        "uri": "spotify:track:4estc9tYBBwaV2YGdz1fav",
+        "track_href": "https://api.spotify.com/v1/tracks/4estc9tYBBwaV2YGdz1fav",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4estc9tYBBwaV2YGdz1fav",
+        "duration_ms": 359305,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3gtWK9ZOrwb0oSEUgv66HX",
+    "name": "Utopia",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 92.563,
+    "features": [
+      {
+        "danceability": 0.382,
+        "energy": 0.81,
+        "key": 4,
+        "loudness": -7.897,
+        "mode": 0,
+        "speechiness": 0.0806,
+        "acousticness": 0.0178,
+        "instrumentalness": 0.00424,
+        "liveness": 0.11,
+        "valence": 0.0663,
+        "tempo": 92.563,
+        "type": "audio_features",
+        "id": "3gtWK9ZOrwb0oSEUgv66HX",
+        "uri": "spotify:track:3gtWK9ZOrwb0oSEUgv66HX",
+        "track_href": "https://api.spotify.com/v1/tracks/3gtWK9ZOrwb0oSEUgv66HX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3gtWK9ZOrwb0oSEUgv66HX",
+        "duration_ms": 333845,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0nPuEmt09RYqaob7MOVR3P",
+    "name": "Phoenix",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 138.992,
+    "features": [
+      {
+        "danceability": 0.453,
+        "energy": 0.831,
+        "key": 6,
+        "loudness": -7.332,
+        "mode": 0,
+        "speechiness": 0.0425,
+        "acousticness": 0.00205,
+        "instrumentalness": 2.29e-06,
+        "liveness": 0.0921,
+        "valence": 0.167,
+        "tempo": 138.992,
+        "type": "audio_features",
+        "id": "0nPuEmt09RYqaob7MOVR3P",
+        "uri": "spotify:track:0nPuEmt09RYqaob7MOVR3P",
+        "track_href": "https://api.spotify.com/v1/tracks/0nPuEmt09RYqaob7MOVR3P",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0nPuEmt09RYqaob7MOVR3P",
+        "duration_ms": 233960,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "6v9juA5CpZk7KIPRYk9N9L",
+    "name": "Messenger",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 89.997,
+    "features": [
+      {
+        "danceability": 0.486,
+        "energy": 0.902,
+        "key": 10,
+        "loudness": -5.617,
+        "mode": 0,
+        "speechiness": 0.062,
+        "acousticness": 6.14e-05,
+        "instrumentalness": 0.000134,
+        "liveness": 0.251,
+        "valence": 0.25,
+        "tempo": 89.997,
+        "type": "audio_features",
+        "id": "6v9juA5CpZk7KIPRYk9N9L",
+        "uri": "spotify:track:6v9juA5CpZk7KIPRYk9N9L",
+        "track_href": "https://api.spotify.com/v1/tracks/6v9juA5CpZk7KIPRYk9N9L",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6v9juA5CpZk7KIPRYk9N9L",
+        "duration_ms": 214670,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0fQFbT70jGyttQ3HZC3cNM",
+    "name": "Cages",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 160.083,
+    "features": [
+      {
+        "danceability": 0.473,
+        "energy": 0.712,
+        "key": 5,
+        "loudness": -8.309,
+        "mode": 0,
+        "speechiness": 0.0466,
+        "acousticness": 0.0269,
+        "instrumentalness": 0.705,
+        "liveness": 0.0973,
+        "valence": 0.157,
+        "tempo": 160.083,
+        "type": "audio_features",
+        "id": "0fQFbT70jGyttQ3HZC3cNM",
+        "uri": "spotify:track:0fQFbT70jGyttQ3HZC3cNM",
+        "track_href": "https://api.spotify.com/v1/tracks/0fQFbT70jGyttQ3HZC3cNM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0fQFbT70jGyttQ3HZC3cNM",
+        "duration_ms": 328768,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1L8T3pOmw8TVjxpgqRwYJn",
+    "name": "Seven Names",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 137.945,
+    "features": [
+      {
+        "danceability": 0.414,
+        "energy": 0.493,
+        "key": 10,
+        "loudness": -11.774,
+        "mode": 0,
+        "speechiness": 0.0419,
+        "acousticness": 0.192,
+        "instrumentalness": 0.757,
+        "liveness": 0.19,
+        "valence": 0.0885,
+        "tempo": 137.945,
+        "type": "audio_features",
+        "id": "1L8T3pOmw8TVjxpgqRwYJn",
+        "uri": "spotify:track:1L8T3pOmw8TVjxpgqRwYJn",
+        "track_href": "https://api.spotify.com/v1/tracks/1L8T3pOmw8TVjxpgqRwYJn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1L8T3pOmw8TVjxpgqRwYJn",
+        "duration_ms": 340000,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "17pFXZt1WOSjNpriXOQuZc",
+    "name": "Survival (Errai)",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 134.997,
+    "features": [
+      {
+        "danceability": 0.586,
+        "energy": 0.484,
+        "key": 3,
+        "loudness": -11.945,
+        "mode": 0,
+        "speechiness": 0.0328,
+        "acousticness": 0.622,
+        "instrumentalness": 0.0107,
+        "liveness": 0.105,
+        "valence": 0.203,
+        "tempo": 134.997,
+        "type": "audio_features",
+        "id": "17pFXZt1WOSjNpriXOQuZc",
+        "uri": "spotify:track:17pFXZt1WOSjNpriXOQuZc",
+        "track_href": "https://api.spotify.com/v1/tracks/17pFXZt1WOSjNpriXOQuZc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/17pFXZt1WOSjNpriXOQuZc",
+        "duration_ms": 242667,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "07BfeAk6ENDgc5VgzLd3as",
+    "name": "Cages (Errai)",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 160.06,
+    "features": [
+      {
+        "danceability": 0.446,
+        "energy": 0.455,
+        "key": 10,
+        "loudness": -12.701,
+        "mode": 1,
+        "speechiness": 0.038,
+        "acousticness": 0.258,
+        "instrumentalness": 0.0151,
+        "liveness": 0.0894,
+        "valence": 0.128,
+        "tempo": 160.06,
+        "type": "audio_features",
+        "id": "07BfeAk6ENDgc5VgzLd3as",
+        "uri": "spotify:track:07BfeAk6ENDgc5VgzLd3as",
+        "track_href": "https://api.spotify.com/v1/tracks/07BfeAk6ENDgc5VgzLd3as",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/07BfeAk6ENDgc5VgzLd3as",
+        "duration_ms": 251625,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "43TSPKwj0o1kJuU3Pe4q26",
+    "name": "Tourniquet (Errai)",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 160.017,
+    "features": [
+      {
+        "danceability": 0.362,
+        "energy": 0.463,
+        "key": 4,
+        "loudness": -13.542,
+        "mode": 0,
+        "speechiness": 0.0471,
+        "acousticness": 0.685,
+        "instrumentalness": 0.521,
+        "liveness": 0.0979,
+        "valence": 0.102,
+        "tempo": 160.017,
+        "type": "audio_features",
+        "id": "43TSPKwj0o1kJuU3Pe4q26",
+        "uri": "spotify:track:43TSPKwj0o1kJuU3Pe4q26",
+        "track_href": "https://api.spotify.com/v1/tracks/43TSPKwj0o1kJuU3Pe4q26",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/43TSPKwj0o1kJuU3Pe4q26",
+        "duration_ms": 383481,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "4fV5vLDsWZX3K7g8pTVJJS",
+    "name": "Seven Names (Errai)",
+    "artist": "TesseracT",
+    "album": "Polaris / Errai",
+    "bpm": 137.977,
+    "features": [
+      {
+        "danceability": 0.533,
+        "energy": 0.567,
+        "key": 8,
+        "loudness": -9.922,
+        "mode": 0,
+        "speechiness": 0.0411,
+        "acousticness": 0.184,
+        "instrumentalness": 0.17,
+        "liveness": 0.121,
+        "valence": 0.123,
+        "tempo": 137.977,
+        "type": "audio_features",
+        "id": "4fV5vLDsWZX3K7g8pTVJJS",
+        "uri": "spotify:track:4fV5vLDsWZX3K7g8pTVJJS",
+        "track_href": "https://api.spotify.com/v1/tracks/4fV5vLDsWZX3K7g8pTVJJS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4fV5vLDsWZX3K7g8pTVJJS",
+        "duration_ms": 261304,
+        "time_signature": 3
+      }
+    ]
+  }
+]

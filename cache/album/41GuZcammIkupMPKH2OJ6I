@@ -1,0 +1,495 @@
+[
+  {
+    "id": "7wBJfHzpfI3032CSD7CE2m",
+    "name": "STARGAZING",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 150.007,
+    "features": [
+      {
+        "danceability": 0.487,
+        "energy": 0.789,
+        "key": 8,
+        "loudness": -3.69,
+        "mode": 1,
+        "speechiness": 0.044,
+        "acousticness": 0.00947,
+        "instrumentalness": 4.05e-06,
+        "liveness": 0.189,
+        "valence": 0.0564,
+        "tempo": 150.007,
+        "type": "audio_features",
+        "id": "7wBJfHzpfI3032CSD7CE2m",
+        "uri": "spotify:track:7wBJfHzpfI3032CSD7CE2m",
+        "track_href": "https://api.spotify.com/v1/tracks/7wBJfHzpfI3032CSD7CE2m",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7wBJfHzpfI3032CSD7CE2m",
+        "duration_ms": 270715,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7KZ5MMVgBVox9ycroB2UrI",
+    "name": "CAROUSEL",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 95.387,
+    "features": [
+      {
+        "danceability": 0.428,
+        "energy": 0.403,
+        "key": 5,
+        "loudness": -5.914,
+        "mode": 0,
+        "speechiness": 0.209,
+        "acousticness": 0.229,
+        "instrumentalness": 0,
+        "liveness": 0.22,
+        "valence": 0.133,
+        "tempo": 95.387,
+        "type": "audio_features",
+        "id": "7KZ5MMVgBVox9ycroB2UrI",
+        "uri": "spotify:track:7KZ5MMVgBVox9ycroB2UrI",
+        "track_href": "https://api.spotify.com/v1/tracks/7KZ5MMVgBVox9ycroB2UrI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7KZ5MMVgBVox9ycroB2UrI",
+        "duration_ms": 180183,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "2xLMifQCjDGFmkHkpNLD9h",
+    "name": "SICKO MODE",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 155.008,
+    "features": [
+      {
+        "danceability": 0.834,
+        "energy": 0.73,
+        "key": 8,
+        "loudness": -3.714,
+        "mode": 1,
+        "speechiness": 0.222,
+        "acousticness": 0.00513,
+        "instrumentalness": 0,
+        "liveness": 0.124,
+        "valence": 0.446,
+        "tempo": 155.008,
+        "type": "audio_features",
+        "id": "2xLMifQCjDGFmkHkpNLD9h",
+        "uri": "spotify:track:2xLMifQCjDGFmkHkpNLD9h",
+        "track_href": "https://api.spotify.com/v1/tracks/2xLMifQCjDGFmkHkpNLD9h",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2xLMifQCjDGFmkHkpNLD9h",
+        "duration_ms": 312820,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4SZepBIPDRwPaHIjAKwRDb",
+    "name": "R.I.P. SCREW",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 74.946,
+    "features": [
+      {
+        "danceability": 0.607,
+        "energy": 0.609,
+        "key": 0,
+        "loudness": -5.978,
+        "mode": 0,
+        "speechiness": 0.291,
+        "acousticness": 0.389,
+        "instrumentalness": 1.6e-05,
+        "liveness": 0.111,
+        "valence": 0.556,
+        "tempo": 74.946,
+        "type": "audio_features",
+        "id": "4SZepBIPDRwPaHIjAKwRDb",
+        "uri": "spotify:track:4SZepBIPDRwPaHIjAKwRDb",
+        "track_href": "https://api.spotify.com/v1/tracks/4SZepBIPDRwPaHIjAKwRDb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4SZepBIPDRwPaHIjAKwRDb",
+        "duration_ms": 185610,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1xYpVRspgaLxdJLOTQkTjg",
+    "name": "STOP TRYING TO BE GOD",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 150.009,
+    "features": [
+      {
+        "danceability": 0.588,
+        "energy": 0.567,
+        "key": 4,
+        "loudness": -3.738,
+        "mode": 0,
+        "speechiness": 0.0628,
+        "acousticness": 0.221,
+        "instrumentalness": 0,
+        "liveness": 0.135,
+        "valence": 0.113,
+        "tempo": 150.009,
+        "type": "audio_features",
+        "id": "1xYpVRspgaLxdJLOTQkTjg",
+        "uri": "spotify:track:1xYpVRspgaLxdJLOTQkTjg",
+        "track_href": "https://api.spotify.com/v1/tracks/1xYpVRspgaLxdJLOTQkTjg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1xYpVRspgaLxdJLOTQkTjg",
+        "duration_ms": 338438,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6OaVWaGfhXn70ZJfdVcabn",
+    "name": "NO BYSTANDERS",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 147.045,
+    "features": [
+      {
+        "danceability": 0.731,
+        "energy": 0.811,
+        "key": 1,
+        "loudness": -3.225,
+        "mode": 1,
+        "speechiness": 0.0712,
+        "acousticness": 0.0204,
+        "instrumentalness": 0,
+        "liveness": 0.411,
+        "valence": 0.426,
+        "tempo": 147.045,
+        "type": "audio_features",
+        "id": "6OaVWaGfhXn70ZJfdVcabn",
+        "uri": "spotify:track:6OaVWaGfhXn70ZJfdVcabn",
+        "track_href": "https://api.spotify.com/v1/tracks/6OaVWaGfhXn70ZJfdVcabn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6OaVWaGfhXn70ZJfdVcabn",
+        "duration_ms": 218284,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6NMtzpDQBTOfJwMzgMX0zl",
+    "name": "SKELETONS",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 148.054,
+    "features": [
+      {
+        "danceability": 0.46,
+        "energy": 0.686,
+        "key": 0,
+        "loudness": -5.948,
+        "mode": 0,
+        "speechiness": 0.0367,
+        "acousticness": 0.00146,
+        "instrumentalness": 0,
+        "liveness": 0.375,
+        "valence": 0.252,
+        "tempo": 148.054,
+        "type": "audio_features",
+        "id": "6NMtzpDQBTOfJwMzgMX0zl",
+        "uri": "spotify:track:6NMtzpDQBTOfJwMzgMX0zl",
+        "track_href": "https://api.spotify.com/v1/tracks/6NMtzpDQBTOfJwMzgMX0zl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6NMtzpDQBTOfJwMzgMX0zl",
+        "duration_ms": 145588,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "20MuVazoNMv6xjKPnRFOxG",
+    "name": "WAKE UP",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 149.07,
+    "features": [
+      {
+        "danceability": 0.741,
+        "energy": 0.645,
+        "key": 11,
+        "loudness": -5.116,
+        "mode": 0,
+        "speechiness": 0.0963,
+        "acousticness": 0.192,
+        "instrumentalness": 0,
+        "liveness": 0.163,
+        "valence": 0.488,
+        "tempo": 149.07,
+        "type": "audio_features",
+        "id": "20MuVazoNMv6xjKPnRFOxG",
+        "uri": "spotify:track:20MuVazoNMv6xjKPnRFOxG",
+        "track_href": "https://api.spotify.com/v1/tracks/20MuVazoNMv6xjKPnRFOxG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/20MuVazoNMv6xjKPnRFOxG",
+        "duration_ms": 231964,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "11kDth1aKUEUMq9r1pqyds",
+    "name": "5% TINT",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 140.0,
+    "features": [
+      {
+        "danceability": 0.712,
+        "energy": 0.481,
+        "key": 4,
+        "loudness": -5.415,
+        "mode": 0,
+        "speechiness": 0.0487,
+        "acousticness": 0.173,
+        "instrumentalness": 0,
+        "liveness": 0.241,
+        "valence": 0.062,
+        "tempo": 140.0,
+        "type": "audio_features",
+        "id": "11kDth1aKUEUMq9r1pqyds",
+        "uri": "spotify:track:11kDth1aKUEUMq9r1pqyds",
+        "track_href": "https://api.spotify.com/v1/tracks/11kDth1aKUEUMq9r1pqyds",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/11kDth1aKUEUMq9r1pqyds",
+        "duration_ms": 196138,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6BJbOXDlgVAXSaq6wYFYT2",
+    "name": "NC-17",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 136.052,
+    "features": [
+      {
+        "danceability": 0.804,
+        "energy": 0.763,
+        "key": 2,
+        "loudness": -5.48,
+        "mode": 1,
+        "speechiness": 0.0519,
+        "acousticness": 0.0678,
+        "instrumentalness": 0,
+        "liveness": 0.368,
+        "valence": 0.0585,
+        "tempo": 136.052,
+        "type": "audio_features",
+        "id": "6BJbOXDlgVAXSaq6wYFYT2",
+        "uri": "spotify:track:6BJbOXDlgVAXSaq6wYFYT2",
+        "track_href": "https://api.spotify.com/v1/tracks/6BJbOXDlgVAXSaq6wYFYT2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6BJbOXDlgVAXSaq6wYFYT2",
+        "duration_ms": 156886,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4MXhiYIRDMGAuvZc5IFTwC",
+    "name": "ASTROTHUNDER",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 151.901,
+    "features": [
+      {
+        "danceability": 0.7,
+        "energy": 0.46,
+        "key": 4,
+        "loudness": -8.111,
+        "mode": 0,
+        "speechiness": 0.0661,
+        "acousticness": 0.142,
+        "instrumentalness": 4.81e-05,
+        "liveness": 0.111,
+        "valence": 0.286,
+        "tempo": 151.901,
+        "type": "audio_features",
+        "id": "4MXhiYIRDMGAuvZc5IFTwC",
+        "uri": "spotify:track:4MXhiYIRDMGAuvZc5IFTwC",
+        "track_href": "https://api.spotify.com/v1/tracks/4MXhiYIRDMGAuvZc5IFTwC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4MXhiYIRDMGAuvZc5IFTwC",
+        "duration_ms": 142969,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7lAK3oHbfEnvUQWosrMMpR",
+    "name": "YOSEMITE",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 128.047,
+    "features": [
+      {
+        "danceability": 0.785,
+        "energy": 0.554,
+        "key": 0,
+        "loudness": -6.571,
+        "mode": 1,
+        "speechiness": 0.0409,
+        "acousticness": 0.283,
+        "instrumentalness": 3.4e-06,
+        "liveness": 0.116,
+        "valence": 0.144,
+        "tempo": 128.047,
+        "type": "audio_features",
+        "id": "7lAK3oHbfEnvUQWosrMMpR",
+        "uri": "spotify:track:7lAK3oHbfEnvUQWosrMMpR",
+        "track_href": "https://api.spotify.com/v1/tracks/7lAK3oHbfEnvUQWosrMMpR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7lAK3oHbfEnvUQWosrMMpR",
+        "duration_ms": 150043,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "27a1mYSG5tYg7dmEjWBcmL",
+    "name": "CAN'T SAY",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 147.98,
+    "features": [
+      {
+        "danceability": 0.702,
+        "energy": 0.708,
+        "key": 10,
+        "loudness": -5.366,
+        "mode": 0,
+        "speechiness": 0.0547,
+        "acousticness": 0.201,
+        "instrumentalness": 0,
+        "liveness": 0.118,
+        "valence": 0.713,
+        "tempo": 147.98,
+        "type": "audio_features",
+        "id": "27a1mYSG5tYg7dmEjWBcmL",
+        "uri": "spotify:track:27a1mYSG5tYg7dmEjWBcmL",
+        "track_href": "https://api.spotify.com/v1/tracks/27a1mYSG5tYg7dmEjWBcmL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/27a1mYSG5tYg7dmEjWBcmL",
+        "duration_ms": 198408,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4KYS9GK68yeuUJ8vJfPxrq",
+    "name": "WHO? WHAT!",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 140.001,
+    "features": [
+      {
+        "danceability": 0.834,
+        "energy": 0.731,
+        "key": 10,
+        "loudness": -5.603,
+        "mode": 0,
+        "speechiness": 0.0566,
+        "acousticness": 0.0462,
+        "instrumentalness": 0,
+        "liveness": 0.0731,
+        "valence": 0.681,
+        "tempo": 140.001,
+        "type": "audio_features",
+        "id": "4KYS9GK68yeuUJ8vJfPxrq",
+        "uri": "spotify:track:4KYS9GK68yeuUJ8vJfPxrq",
+        "track_href": "https://api.spotify.com/v1/tracks/4KYS9GK68yeuUJ8vJfPxrq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4KYS9GK68yeuUJ8vJfPxrq",
+        "duration_ms": 176720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2cYqizR4lgvp4Qu6IQ3qGN",
+    "name": "BUTTERFLY EFFECT",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 140.958,
+    "features": [
+      {
+        "danceability": 0.763,
+        "energy": 0.628,
+        "key": 11,
+        "loudness": -5.85,
+        "mode": 1,
+        "speechiness": 0.05,
+        "acousticness": 0.0531,
+        "instrumentalness": 0,
+        "liveness": 0.114,
+        "valence": 0.193,
+        "tempo": 140.958,
+        "type": "audio_features",
+        "id": "2cYqizR4lgvp4Qu6IQ3qGN",
+        "uri": "spotify:track:2cYqizR4lgvp4Qu6IQ3qGN",
+        "track_href": "https://api.spotify.com/v1/tracks/2cYqizR4lgvp4Qu6IQ3qGN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2cYqizR4lgvp4Qu6IQ3qGN",
+        "duration_ms": 190557,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "58TaFP5j5i9swOf584yon2",
+    "name": "HOUSTONFORNICATION",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 160.042,
+    "features": [
+      {
+        "danceability": 0.689,
+        "energy": 0.723,
+        "key": 0,
+        "loudness": -4.052,
+        "mode": 0,
+        "speechiness": 0.0836,
+        "acousticness": 0.0985,
+        "instrumentalness": 0,
+        "liveness": 0.158,
+        "valence": 0.288,
+        "tempo": 160.042,
+        "type": "audio_features",
+        "id": "58TaFP5j5i9swOf584yon2",
+        "uri": "spotify:track:58TaFP5j5i9swOf584yon2",
+        "track_href": "https://api.spotify.com/v1/tracks/58TaFP5j5i9swOf584yon2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/58TaFP5j5i9swOf584yon2",
+        "duration_ms": 217828,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6vnfObZ4Ys70SBAtti1xZ9",
+    "name": "COFFEE BEAN",
+    "artist": "Travis Scott",
+    "album": "ASTROWORLD",
+    "bpm": 95.004,
+    "features": [
+      {
+        "danceability": 0.81,
+        "energy": 0.582,
+        "key": 5,
+        "loudness": -5.098,
+        "mode": 0,
+        "speechiness": 0.125,
+        "acousticness": 0.0862,
+        "instrumentalness": 0.00681,
+        "liveness": 0.207,
+        "valence": 0.503,
+        "tempo": 95.004,
+        "type": "audio_features",
+        "id": "6vnfObZ4Ys70SBAtti1xZ9",
+        "uri": "spotify:track:6vnfObZ4Ys70SBAtti1xZ9",
+        "track_href": "https://api.spotify.com/v1/tracks/6vnfObZ4Ys70SBAtti1xZ9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6vnfObZ4Ys70SBAtti1xZ9",
+        "duration_ms": 209116,
+        "time_signature": 4
+      }
+    ]
+  }
+]

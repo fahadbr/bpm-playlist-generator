@@ -1,0 +1,379 @@
+[
+  {
+    "id": "5zsHmE2gO3RefVsPyw2e3T",
+    "name": "What's Up Danger (with Black Caviar)",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 95.041,
+    "features": [
+      {
+        "danceability": 0.701,
+        "energy": 0.755,
+        "key": 2,
+        "loudness": -5.82,
+        "mode": 1,
+        "speechiness": 0.0417,
+        "acousticness": 0.00363,
+        "instrumentalness": 0.000814,
+        "liveness": 0.121,
+        "valence": 0.116,
+        "tempo": 95.041,
+        "type": "audio_features",
+        "id": "5zsHmE2gO3RefVsPyw2e3T",
+        "uri": "spotify:track:5zsHmE2gO3RefVsPyw2e3T",
+        "track_href": "https://api.spotify.com/v1/tracks/5zsHmE2gO3RefVsPyw2e3T",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zsHmE2gO3RefVsPyw2e3T",
+        "duration_ms": 222307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3KkXRkHbMCARz0aVfEt68P",
+    "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 89.908,
+    "features": [
+      {
+        "danceability": 0.76,
+        "energy": 0.478,
+        "key": 2,
+        "loudness": -5.574,
+        "mode": 1,
+        "speechiness": 0.0467,
+        "acousticness": 0.552,
+        "instrumentalness": 0,
+        "liveness": 0.0703,
+        "valence": 0.913,
+        "tempo": 89.908,
+        "type": "audio_features",
+        "id": "3KkXRkHbMCARz0aVfEt68P",
+        "uri": "spotify:track:3KkXRkHbMCARz0aVfEt68P",
+        "track_href": "https://api.spotify.com/v1/tracks/3KkXRkHbMCARz0aVfEt68P",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3KkXRkHbMCARz0aVfEt68P",
+        "duration_ms": 158040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7cFFhb9Wz2ZXLSpEk2VDKd",
+    "name": "Way Up",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 130.024,
+    "features": [
+      {
+        "danceability": 0.585,
+        "energy": 0.941,
+        "key": 10,
+        "loudness": -3.278,
+        "mode": 0,
+        "speechiness": 0.145,
+        "acousticness": 0.03,
+        "instrumentalness": 8.3e-06,
+        "liveness": 0.196,
+        "valence": 0.451,
+        "tempo": 130.024,
+        "type": "audio_features",
+        "id": "7cFFhb9Wz2ZXLSpEk2VDKd",
+        "uri": "spotify:track:7cFFhb9Wz2ZXLSpEk2VDKd",
+        "track_href": "https://api.spotify.com/v1/tracks/7cFFhb9Wz2ZXLSpEk2VDKd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7cFFhb9Wz2ZXLSpEk2VDKd",
+        "duration_ms": 153773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4Uy3kNxW2kB8AEoXljEcth",
+    "name": "Familia (with Anuel Aa, feat. Bantu) - Spider-Man: Into the Spider-Verse",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 112.029,
+    "features": [
+      {
+        "danceability": 0.766,
+        "energy": 0.881,
+        "key": 9,
+        "loudness": -5.158,
+        "mode": 0,
+        "speechiness": 0.137,
+        "acousticness": 0.0166,
+        "instrumentalness": 2.3e-06,
+        "liveness": 0.347,
+        "valence": 0.674,
+        "tempo": 112.029,
+        "type": "audio_features",
+        "id": "4Uy3kNxW2kB8AEoXljEcth",
+        "uri": "spotify:track:4Uy3kNxW2kB8AEoXljEcth",
+        "track_href": "https://api.spotify.com/v1/tracks/4Uy3kNxW2kB8AEoXljEcth",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Uy3kNxW2kB8AEoXljEcth",
+        "duration_ms": 174893,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "6VS7wKwtvL2FvTupYSWZ9e",
+    "name": "Invincible",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 86.964,
+    "features": [
+      {
+        "danceability": 0.759,
+        "energy": 0.6,
+        "key": 5,
+        "loudness": -4.391,
+        "mode": 0,
+        "speechiness": 0.29,
+        "acousticness": 0.145,
+        "instrumentalness": 0.000237,
+        "liveness": 0.104,
+        "valence": 0.458,
+        "tempo": 86.964,
+        "type": "audio_features",
+        "id": "6VS7wKwtvL2FvTupYSWZ9e",
+        "uri": "spotify:track:6VS7wKwtvL2FvTupYSWZ9e",
+        "track_href": "https://api.spotify.com/v1/tracks/6VS7wKwtvL2FvTupYSWZ9e",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6VS7wKwtvL2FvTupYSWZ9e",
+        "duration_ms": 196387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6V81K1OcvYgHEnCA6A2Qx9",
+    "name": "Start a Riot",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 143.144,
+    "features": [
+      {
+        "danceability": 0.728,
+        "energy": 0.727,
+        "key": 2,
+        "loudness": -3.585,
+        "mode": 1,
+        "speechiness": 0.206,
+        "acousticness": 0.0128,
+        "instrumentalness": 0,
+        "liveness": 0.0882,
+        "valence": 0.891,
+        "tempo": 143.144,
+        "type": "audio_features",
+        "id": "6V81K1OcvYgHEnCA6A2Qx9",
+        "uri": "spotify:track:6V81K1OcvYgHEnCA6A2Qx9",
+        "track_href": "https://api.spotify.com/v1/tracks/6V81K1OcvYgHEnCA6A2Qx9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6V81K1OcvYgHEnCA6A2Qx9",
+        "duration_ms": 171467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6rz0dTA0PdhXImFV5EjM0w",
+    "name": "Hide (feat. Seezyn)",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 149.999,
+    "features": [
+      {
+        "danceability": 0.715,
+        "energy": 0.638,
+        "key": 5,
+        "loudness": -5.017,
+        "mode": 0,
+        "speechiness": 0.0751,
+        "acousticness": 0.0616,
+        "instrumentalness": 0,
+        "liveness": 0.157,
+        "valence": 0.151,
+        "tempo": 149.999,
+        "type": "audio_features",
+        "id": "6rz0dTA0PdhXImFV5EjM0w",
+        "uri": "spotify:track:6rz0dTA0PdhXImFV5EjM0w",
+        "track_href": "https://api.spotify.com/v1/tracks/6rz0dTA0PdhXImFV5EjM0w",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6rz0dTA0PdhXImFV5EjM0w",
+        "duration_ms": 205800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2CWOMDYFK4Ef3867nEhnVM",
+    "name": "Memories",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 93.989,
+    "features": [
+      {
+        "danceability": 0.567,
+        "energy": 0.651,
+        "key": 5,
+        "loudness": -7.146,
+        "mode": 0,
+        "speechiness": 0.0554,
+        "acousticness": 0.0519,
+        "instrumentalness": 0,
+        "liveness": 0.183,
+        "valence": 0.518,
+        "tempo": 93.989,
+        "type": "audio_features",
+        "id": "2CWOMDYFK4Ef3867nEhnVM",
+        "uri": "spotify:track:2CWOMDYFK4Ef3867nEhnVM",
+        "track_href": "https://api.spotify.com/v1/tracks/2CWOMDYFK4Ef3867nEhnVM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2CWOMDYFK4Ef3867nEhnVM",
+        "duration_ms": 199147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0vkzRCT7wzqWCFJw5TN1MQ",
+    "name": "Save The Day (feat. Coi Leray & LouGotCash)",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 139.984,
+    "features": [
+      {
+        "danceability": 0.871,
+        "energy": 0.751,
+        "key": 6,
+        "loudness": -8.042,
+        "mode": 0,
+        "speechiness": 0.0789,
+        "acousticness": 0.00403,
+        "instrumentalness": 0,
+        "liveness": 0.0853,
+        "valence": 0.788,
+        "tempo": 139.984,
+        "type": "audio_features",
+        "id": "0vkzRCT7wzqWCFJw5TN1MQ",
+        "uri": "spotify:track:0vkzRCT7wzqWCFJw5TN1MQ",
+        "track_href": "https://api.spotify.com/v1/tracks/0vkzRCT7wzqWCFJw5TN1MQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0vkzRCT7wzqWCFJw5TN1MQ",
+        "duration_ms": 178720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5F2AuFzEiuAQD0JVNjVJQz",
+    "name": "Let Go",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 100.064,
+    "features": [
+      {
+        "danceability": 0.764,
+        "energy": 0.725,
+        "key": 7,
+        "loudness": -8.812,
+        "mode": 1,
+        "speechiness": 0.0575,
+        "acousticness": 0.463,
+        "instrumentalness": 7.38e-06,
+        "liveness": 0.109,
+        "valence": 0.0794,
+        "tempo": 100.064,
+        "type": "audio_features",
+        "id": "5F2AuFzEiuAQD0JVNjVJQz",
+        "uri": "spotify:track:5F2AuFzEiuAQD0JVNjVJQz",
+        "track_href": "https://api.spotify.com/v1/tracks/5F2AuFzEiuAQD0JVNjVJQz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5F2AuFzEiuAQD0JVNjVJQz",
+        "duration_ms": 177653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3vWzyGTu6Ovo1GdrcJqH6e",
+    "name": "Scared of the Dark (feat. XXXTENTACION)",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 79.949,
+    "features": [
+      {
+        "danceability": 0.549,
+        "energy": 0.625,
+        "key": 0,
+        "loudness": -6.717,
+        "mode": 0,
+        "speechiness": 0.0682,
+        "acousticness": 0.0485,
+        "instrumentalness": 0,
+        "liveness": 0.239,
+        "valence": 0.158,
+        "tempo": 79.949,
+        "type": "audio_features",
+        "id": "3vWzyGTu6Ovo1GdrcJqH6e",
+        "uri": "spotify:track:3vWzyGTu6Ovo1GdrcJqH6e",
+        "track_href": "https://api.spotify.com/v1/tracks/3vWzyGTu6Ovo1GdrcJqH6e",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3vWzyGTu6Ovo1GdrcJqH6e",
+        "duration_ms": 233000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6kiauSlWtddVQx4JwJx51p",
+    "name": "Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 129.097,
+    "features": [
+      {
+        "danceability": 0.552,
+        "energy": 0.935,
+        "key": 6,
+        "loudness": -4.847,
+        "mode": 0,
+        "speechiness": 0.316,
+        "acousticness": 0.174,
+        "instrumentalness": 0,
+        "liveness": 0.514,
+        "valence": 0.662,
+        "tempo": 129.097,
+        "type": "audio_features",
+        "id": "6kiauSlWtddVQx4JwJx51p",
+        "uri": "spotify:track:6kiauSlWtddVQx4JwJx51p",
+        "track_href": "https://api.spotify.com/v1/tracks/6kiauSlWtddVQx4JwJx51p",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6kiauSlWtddVQx4JwJx51p",
+        "duration_ms": 219400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7pBsquIkbED6W6uSQJGbkn",
+    "name": "Home",
+    "artist": "Various Artists",
+    "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "bpm": 118.018,
+    "features": [
+      {
+        "danceability": 0.606,
+        "energy": 0.737,
+        "key": 10,
+        "loudness": -5.597,
+        "mode": 0,
+        "speechiness": 0.0547,
+        "acousticness": 0.00608,
+        "instrumentalness": 0.111,
+        "liveness": 0.11,
+        "valence": 0.349,
+        "tempo": 118.018,
+        "type": "audio_features",
+        "id": "7pBsquIkbED6W6uSQJGbkn",
+        "uri": "spotify:track:7pBsquIkbED6W6uSQJGbkn",
+        "track_href": "https://api.spotify.com/v1/tracks/7pBsquIkbED6W6uSQJGbkn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7pBsquIkbED6W6uSQJGbkn",
+        "duration_ms": 211360,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "id": "0qg8rd6JsuLkt8TjBv7MSr",
+    "name": "Kascade",
+    "artist": "Animals As Leaders",
+    "album": "The Joy of Motion",
+    "bpm": 159.965,
+    "features": [
+      {
+        "danceability": 0.468,
+        "energy": 0.979,
+        "key": 6,
+        "loudness": -4.386,
+        "mode": 0,
+        "speechiness": 0.176,
+        "acousticness": 0.00594,
+        "instrumentalness": 0.813,
+        "liveness": 0.286,
+        "valence": 0.25,
+        "tempo": 159.965,
+        "type": "audio_features",
+        "id": "0qg8rd6JsuLkt8TjBv7MSr",
+        "uri": "spotify:track:0qg8rd6JsuLkt8TjBv7MSr",
+        "track_href": "https://api.spotify.com/v1/tracks/0qg8rd6JsuLkt8TjBv7MSr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0qg8rd6JsuLkt8TjBv7MSr",
+        "duration_ms": 323728,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "01AGriSCSOG6m9Qqnf1B2B",
+    "name": "Lippincott",
+    "artist": "Animals As Leaders",
+    "album": "The Joy of Motion",
+    "bpm": 104.043,
+    "features": [
+      {
+        "danceability": 0.546,
+        "energy": 0.959,
+        "key": 11,
+        "loudness": -4.77,
+        "mode": 1,
+        "speechiness": 0.065,
+        "acousticness": 0.000209,
+        "instrumentalness": 0.793,
+        "liveness": 0.0876,
+        "valence": 0.352,
+        "tempo": 104.043,
+        "type": "audio_features",
+        "id": "01AGriSCSOG6m9Qqnf1B2B",
+        "uri": "spotify:track:01AGriSCSOG6m9Qqnf1B2B",
+        "track_href": "https://api.spotify.com/v1/tracks/01AGriSCSOG6m9Qqnf1B2B",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/01AGriSCSOG6m9Qqnf1B2B",
+        "duration_ms": 262293,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7tGaZcGNY0jqf3dR185olj",
+    "name": "Air Chrysalis",
+    "artist": "Animals As Leaders",
+    "album": "The Joy of Motion",
+    "bpm": 122.009,
+    "features": [
+      {
+        "danceability": 0.323,
+        "energy": 0.914,
+        "key": 11,
+        "loudness": -5.273,
+        "mode": 1,
+        "speechiness": 0.0476,
+        "acousticness": 0.00262,
+        "instrumentalness": 0.861,
+        "liveness": 0.341,
+        "valence": 0.306,
+        "tempo": 122.009,
+        "type": "audio_features",
+        "id": "7tGaZcGNY0jqf3dR185olj",
+        "uri": "spotify:track:7tGaZcGNY0jqf3dR185olj",
+        "track_href": "https://api.spotify.com/v1/tracks/7tGaZcGNY0jqf3dR185olj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7tGaZcGNY0jqf3dR185olj",
+        "duration_ms": 305969,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5uJwIrsgZrFTrfaB9CzO9L",
+    "name": "Another Year",
+    "artist": "Animals As Leaders",
+    "album": "The Joy of Motion",
+    "bpm": 130.04,
+    "features": [
+      {
+        "danceability": 0.398,
+        "energy": 0.866,
+        "key": 1,
+        "loudness": -6.075,
+        "mode": 0,
+        "speechiness": 0.0442,
+        "acousticness": 0.0282,
+        "instrumentalness": 0.861,
+        "liveness": 0.0961,
+        "valence": 0.258,
+        "tempo": 130.04,
+        "type": "audio_features",
+        "id": "5uJwIrsgZrFTrfaB9CzO9L",
+        "uri": "spotify:track:5uJwIrsgZrFTrfaB9CzO9L",
+        "track_href": "https://api.spotify.com/v1/tracks/5uJwIrsgZrFTrfaB9CzO9L",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5uJwIrsgZrFTrfaB9CzO9L",
+        "duration_ms": 230934,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4sr5OIyYOY3JXbFYSoJR0G",
+    "name": "Physical Education",
+    "artist": "Animals As Leaders",
+    "album": "The Joy of Motion",
+    "bpm": 114.984,
+    "features": [
+      {
+        "danceability": 0.558,
+        "energy": 0.945,
+        "key": 1,
+        "loudness": -5.665,
+        "mode": 0,
+        "speechiness": 0.0577,
+        "acousticness": 0.000171,
+        "instrumentalness": 0.829,
+        "liveness": 0.0543,
+        "valence": 0.529,
+        "tempo": 114.984,
+        "type": "audio_features",
+        "id": "4sr5OIyYOY3JXbFYSoJR0G",
+        "uri": "spotify:track:4sr5OIyYOY3JXbFYSoJR0G",
+        "track_href": "https://api.spotify.com/v1/tracks/4sr5OIyYOY3JXbFYSoJR0G",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4sr5OIyYOY3JXbFYSoJR0G",
+        "duration_ms": 280956,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6BATOdnrsuOS61NAOlTt7s",
+    "name": "Tooth and Claw",
+    "artist": "Animals As Leaders",
+    "album": "The Joy of Motion",
+    "bpm": 150.037,
+    "features": [
+      {
+        "danceability": 0.277,
+        "energy": 0.967,
+        "key": 7,
+        "loudness": -4.795,
+        "mode": 1,
+        "speechiness": 0.202,
+        "acousticness": 0.000546,
+        "instrumentalness": 0.837,
+        "liveness": 0.354,
+        "valence": 0.253,
+        "tempo": 150.037,
+        "type": "audio_features",
+        "id": "6BATOdnrsuOS61NAOlTt7s",
+        "uri": "spotify:track:6BATOdnrsuOS61NAOlTt7s",
+        "track_href": "https://api.spotify.com/v1/tracks/6BATOdnrsuOS61NAOlTt7s",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6BATOdnrsuOS61NAOlTt7s",
+        "duration_ms": 263207,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1lZuMWe08KNHET97GjScan",
+    "name": "Crescent",
+    "artist": "Animals As Leaders",
+    "album": "The Joy of Motion",
+    "bpm": 149.914,
+    "features": [
+      {
+        "danceability": 0.35,
+        "energy": 0.985,
+        "key": 8,
+        "loudness": -4.443,
+        "mode": 0,
+        "speechiness": 0.184,
+        "acousticness": 0.000438,
+        "instrumentalness": 0.83,
+        "liveness": 0.11,
+        "valence": 0.345,
+        "tempo": 149.914,
+        "type": "audio_features",
+        "id": "1lZuMWe08KNHET97GjScan",
+        "uri": "spotify:track:1lZuMWe08KNHET97GjScan",
+        "track_href": "https://api.spotify.com/v1/tracks/1lZuMWe08KNHET97GjScan",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1lZuMWe08KNHET97GjScan",
+        "duration_ms": 263623,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "2JyBbbewdmHTj0RfeMgezZ",
+    "name": "The Future That Awaited Me",
+    "artist": "Animals As Leaders",
+    "album": "The Joy of Motion",
+    "bpm": 153.021,
+    "features": [
+      {
+        "danceability": 0.47,
+        "energy": 0.914,
+        "key": 5,
+        "loudness": -5.954,
+        "mode": 1,
+        "speechiness": 0.0383,
+        "acousticness": 0.0052,
+        "instrumentalness": 0.796,
+        "liveness": 0.0507,
+        "valence": 0.203,
+        "tempo": 153.021,
+        "type": "audio_features",
+        "id": "2JyBbbewdmHTj0RfeMgezZ",
+        "uri": "spotify:track:2JyBbbewdmHTj0RfeMgezZ",
+        "track_href": "https://api.spotify.com/v1/tracks/2JyBbbewdmHTj0RfeMgezZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2JyBbbewdmHTj0RfeMgezZ",
+        "duration_ms": 273366,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3e3d3tgp2ylhiaOSeLIJUD",
+    "name": "Para Mexer",
+    "artist": "Animals As Leaders",
+    "album": "The Joy of Motion",
+    "bpm": 114.928,
+    "features": [
+      {
+        "danceability": 0.358,
+        "energy": 0.897,
+        "key": 3,
+        "loudness": -8.072,
+        "mode": 1,
+        "speechiness": 0.0469,
+        "acousticness": 0.0312,
+        "instrumentalness": 0.917,
+        "liveness": 0.15,
+        "valence": 0.301,
+        "tempo": 114.928,
+        "type": "audio_features",
+        "id": "3e3d3tgp2ylhiaOSeLIJUD",
+        "uri": "spotify:track:3e3d3tgp2ylhiaOSeLIJUD",
+        "track_href": "https://api.spotify.com/v1/tracks/3e3d3tgp2ylhiaOSeLIJUD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3e3d3tgp2ylhiaOSeLIJUD",
+        "duration_ms": 269560,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2Lg8cOSLotJIdCMtXLasPH",
+    "name": "The Woven Web",
+    "artist": "Animals As Leaders",
+    "album": "The Joy of Motion",
+    "bpm": 118.02,
+    "features": [
+      {
+        "danceability": 0.549,
+        "energy": 0.935,
+        "key": 6,
+        "loudness": -5.692,
+        "mode": 0,
+        "speechiness": 0.0519,
+        "acousticness": 0.00691,
+        "instrumentalness": 0.774,
+        "liveness": 0.0641,
+        "valence": 0.341,
+        "tempo": 118.02,
+        "type": "audio_features",
+        "id": "2Lg8cOSLotJIdCMtXLasPH",
+        "uri": "spotify:track:2Lg8cOSLotJIdCMtXLasPH",
+        "track_href": "https://api.spotify.com/v1/tracks/2Lg8cOSLotJIdCMtXLasPH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Lg8cOSLotJIdCMtXLasPH",
+        "duration_ms": 247780,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1msLrrfPlfv1fiRna873e5",
+    "name": "Mind-Spun",
+    "artist": "Animals As Leaders",
+    "album": "The Joy of Motion",
+    "bpm": 145.144,
+    "features": [
+      {
+        "danceability": 0.487,
+        "energy": 0.987,
+        "key": 6,
+        "loudness": -5.507,
+        "mode": 1,
+        "speechiness": 0.158,
+        "acousticness": 0.000977,
+        "instrumentalness": 0.814,
+        "liveness": 0.0808,
+        "valence": 0.166,
+        "tempo": 145.144,
+        "type": "audio_features",
+        "id": "1msLrrfPlfv1fiRna873e5",
+        "uri": "spotify:track:1msLrrfPlfv1fiRna873e5",
+        "track_href": "https://api.spotify.com/v1/tracks/1msLrrfPlfv1fiRna873e5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1msLrrfPlfv1fiRna873e5",
+        "duration_ms": 275586,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "6jAWFQWhxvGbfFxqUqzx34",
+    "name": "Nephele",
+    "artist": "Animals As Leaders",
+    "album": "The Joy of Motion",
+    "bpm": 180.001,
+    "features": [
+      {
+        "danceability": 0.248,
+        "energy": 0.939,
+        "key": 2,
+        "loudness": -5.47,
+        "mode": 1,
+        "speechiness": 0.203,
+        "acousticness": 0.00318,
+        "instrumentalness": 0.748,
+        "liveness": 0.0645,
+        "valence": 0.261,
+        "tempo": 180.001,
+        "type": "audio_features",
+        "id": "6jAWFQWhxvGbfFxqUqzx34",
+        "uri": "spotify:track:6jAWFQWhxvGbfFxqUqzx34",
+        "track_href": "https://api.spotify.com/v1/tracks/6jAWFQWhxvGbfFxqUqzx34",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6jAWFQWhxvGbfFxqUqzx34",
+        "duration_ms": 271000,
+        "time_signature": 4
+      }
+    ]
+  }
+]

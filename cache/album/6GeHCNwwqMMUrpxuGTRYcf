@@ -1,0 +1,466 @@
+[
+  {
+    "id": "6yIGZp1AaFBoDczu3b4hVU",
+    "name": "Confessions of a Dangerous Mind",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 141.97,
+    "features": [
+      {
+        "danceability": 0.806,
+        "energy": 0.756,
+        "key": 7,
+        "loudness": -4.091,
+        "mode": 0,
+        "speechiness": 0.208,
+        "acousticness": 0.385,
+        "instrumentalness": 0,
+        "liveness": 0.11,
+        "valence": 0.622,
+        "tempo": 141.97,
+        "type": "audio_features",
+        "id": "6yIGZp1AaFBoDczu3b4hVU",
+        "uri": "spotify:track:6yIGZp1AaFBoDczu3b4hVU",
+        "track_href": "https://api.spotify.com/v1/tracks/6yIGZp1AaFBoDczu3b4hVU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6yIGZp1AaFBoDczu3b4hVU",
+        "duration_ms": 283867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7M2tXmeS15NAzEn7ABFeBg",
+    "name": "Homicide (feat. Eminem)",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 140.056,
+    "features": [
+      {
+        "danceability": 0.695,
+        "energy": 0.758,
+        "key": 10,
+        "loudness": -5.667,
+        "mode": 0,
+        "speechiness": 0.398,
+        "acousticness": 0.137,
+        "instrumentalness": 0,
+        "liveness": 0.167,
+        "valence": 0.769,
+        "tempo": 140.056,
+        "type": "audio_features",
+        "id": "7M2tXmeS15NAzEn7ABFeBg",
+        "uri": "spotify:track:7M2tXmeS15NAzEn7ABFeBg",
+        "track_href": "https://api.spotify.com/v1/tracks/7M2tXmeS15NAzEn7ABFeBg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7M2tXmeS15NAzEn7ABFeBg",
+        "duration_ms": 245387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3ur6bQ6Jb17tskma4euqZd",
+    "name": "Wannabe",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 134.012,
+    "features": [
+      {
+        "danceability": 0.917,
+        "energy": 0.828,
+        "key": 2,
+        "loudness": -7.551,
+        "mode": 1,
+        "speechiness": 0.108,
+        "acousticness": 0.0959,
+        "instrumentalness": 0,
+        "liveness": 0.0789,
+        "valence": 0.7,
+        "tempo": 134.012,
+        "type": "audio_features",
+        "id": "3ur6bQ6Jb17tskma4euqZd",
+        "uri": "spotify:track:3ur6bQ6Jb17tskma4euqZd",
+        "track_href": "https://api.spotify.com/v1/tracks/3ur6bQ6Jb17tskma4euqZd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ur6bQ6Jb17tskma4euqZd",
+        "duration_ms": 78800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2i3D8AJiOYTVCkIu1cOpsH",
+    "name": "clickbait",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 156.01,
+    "features": [
+      {
+        "danceability": 0.848,
+        "energy": 0.708,
+        "key": 0,
+        "loudness": -5.624,
+        "mode": 1,
+        "speechiness": 0.0925,
+        "acousticness": 0.0466,
+        "instrumentalness": 3.88e-05,
+        "liveness": 0.13,
+        "valence": 0.765,
+        "tempo": 156.01,
+        "type": "audio_features",
+        "id": "2i3D8AJiOYTVCkIu1cOpsH",
+        "uri": "spotify:track:2i3D8AJiOYTVCkIu1cOpsH",
+        "track_href": "https://api.spotify.com/v1/tracks/2i3D8AJiOYTVCkIu1cOpsH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2i3D8AJiOYTVCkIu1cOpsH",
+        "duration_ms": 157000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "760VYgBLbNyEJp4jLa0CZ6",
+    "name": "Mama/Show Love (feat. YBN Cordae)",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 154.051,
+    "features": [
+      {
+        "danceability": 0.574,
+        "energy": 0.823,
+        "key": 0,
+        "loudness": -4.322,
+        "mode": 0,
+        "speechiness": 0.124,
+        "acousticness": 0.116,
+        "instrumentalness": 0,
+        "liveness": 0.0898,
+        "valence": 0.256,
+        "tempo": 154.051,
+        "type": "audio_features",
+        "id": "760VYgBLbNyEJp4jLa0CZ6",
+        "uri": "spotify:track:760VYgBLbNyEJp4jLa0CZ6",
+        "track_href": "https://api.spotify.com/v1/tracks/760VYgBLbNyEJp4jLa0CZ6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/760VYgBLbNyEJp4jLa0CZ6",
+        "duration_ms": 241307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "15qVraQOI2EjZPPM05YGBS",
+    "name": "Out Of Sight",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 174.015,
+    "features": [
+      {
+        "danceability": 0.738,
+        "energy": 0.918,
+        "key": 1,
+        "loudness": -6.159,
+        "mode": 0,
+        "speechiness": 0.132,
+        "acousticness": 0.0605,
+        "instrumentalness": 2.9e-05,
+        "liveness": 0.107,
+        "valence": 0.665,
+        "tempo": 174.015,
+        "type": "audio_features",
+        "id": "15qVraQOI2EjZPPM05YGBS",
+        "uri": "spotify:track:15qVraQOI2EjZPPM05YGBS",
+        "track_href": "https://api.spotify.com/v1/tracks/15qVraQOI2EjZPPM05YGBS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/15qVraQOI2EjZPPM05YGBS",
+        "duration_ms": 137947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6H35Djes2GNU7shF0c822Y",
+    "name": "Pardon My Ego",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 95.489,
+    "features": [
+      {
+        "danceability": 0.876,
+        "energy": 0.954,
+        "key": 1,
+        "loudness": -4.962,
+        "mode": 1,
+        "speechiness": 0.0683,
+        "acousticness": 0.0631,
+        "instrumentalness": 0.00536,
+        "liveness": 0.0637,
+        "valence": 0.506,
+        "tempo": 95.489,
+        "type": "audio_features",
+        "id": "6H35Djes2GNU7shF0c822Y",
+        "uri": "spotify:track:6H35Djes2GNU7shF0c822Y",
+        "track_href": "https://api.spotify.com/v1/tracks/6H35Djes2GNU7shF0c822Y",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6H35Djes2GNU7shF0c822Y",
+        "duration_ms": 173547,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4p28KkjAQ16J3yF8PQHJVg",
+    "name": "COMMANDO (feat. G-Eazy)",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 77.001,
+    "features": [
+      {
+        "danceability": 0.847,
+        "energy": 0.488,
+        "key": 8,
+        "loudness": -6.47,
+        "mode": 1,
+        "speechiness": 0.289,
+        "acousticness": 0.141,
+        "instrumentalness": 0,
+        "liveness": 0.104,
+        "valence": 0.149,
+        "tempo": 77.001,
+        "type": "audio_features",
+        "id": "4p28KkjAQ16J3yF8PQHJVg",
+        "uri": "spotify:track:4p28KkjAQ16J3yF8PQHJVg",
+        "track_href": "https://api.spotify.com/v1/tracks/4p28KkjAQ16J3yF8PQHJVg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4p28KkjAQ16J3yF8PQHJVg",
+        "duration_ms": 211933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2FzgbCcszptrQpdJOr2Soi",
+    "name": "Icy (feat. Gucci Mane)",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 151.992,
+    "features": [
+      {
+        "danceability": 0.827,
+        "energy": 0.521,
+        "key": 7,
+        "loudness": -4.866,
+        "mode": 1,
+        "speechiness": 0.0849,
+        "acousticness": 0.164,
+        "instrumentalness": 1.19e-06,
+        "liveness": 0.109,
+        "valence": 0.477,
+        "tempo": 151.992,
+        "type": "audio_features",
+        "id": "2FzgbCcszptrQpdJOr2Soi",
+        "uri": "spotify:track:2FzgbCcszptrQpdJOr2Soi",
+        "track_href": "https://api.spotify.com/v1/tracks/2FzgbCcszptrQpdJOr2Soi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2FzgbCcszptrQpdJOr2Soi",
+        "duration_ms": 265267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "199Dz9IgqKekyiRy3LBnHn",
+    "name": "Still Ballin (feat. Wiz Khalifa)",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 160.001,
+    "features": [
+      {
+        "danceability": 0.79,
+        "energy": 0.676,
+        "key": 7,
+        "loudness": -5.27,
+        "mode": 1,
+        "speechiness": 0.104,
+        "acousticness": 0.0151,
+        "instrumentalness": 1.04e-05,
+        "liveness": 0.169,
+        "valence": 0.75,
+        "tempo": 160.001,
+        "type": "audio_features",
+        "id": "199Dz9IgqKekyiRy3LBnHn",
+        "uri": "spotify:track:199Dz9IgqKekyiRy3LBnHn",
+        "track_href": "https://api.spotify.com/v1/tracks/199Dz9IgqKekyiRy3LBnHn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/199Dz9IgqKekyiRy3LBnHn",
+        "duration_ms": 239987,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6P9RfMi5rmtu6CmBVZSCAP",
+    "name": "Cocaine",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 176.02,
+    "features": [
+      {
+        "danceability": 0.818,
+        "energy": 0.807,
+        "key": 4,
+        "loudness": -4.836,
+        "mode": 0,
+        "speechiness": 0.268,
+        "acousticness": 0.121,
+        "instrumentalness": 0,
+        "liveness": 0.145,
+        "valence": 0.711,
+        "tempo": 176.02,
+        "type": "audio_features",
+        "id": "6P9RfMi5rmtu6CmBVZSCAP",
+        "uri": "spotify:track:6P9RfMi5rmtu6CmBVZSCAP",
+        "track_href": "https://api.spotify.com/v1/tracks/6P9RfMi5rmtu6CmBVZSCAP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6P9RfMi5rmtu6CmBVZSCAP",
+        "duration_ms": 174560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "20EmzsRBgZSEVbZWp0fqtx",
+    "name": "Limitless",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 155.05,
+    "features": [
+      {
+        "danceability": 0.838,
+        "energy": 0.776,
+        "key": 0,
+        "loudness": -3.125,
+        "mode": 1,
+        "speechiness": 0.0932,
+        "acousticness": 0.0436,
+        "instrumentalness": 0.000114,
+        "liveness": 0.0924,
+        "valence": 0.715,
+        "tempo": 155.05,
+        "type": "audio_features",
+        "id": "20EmzsRBgZSEVbZWp0fqtx",
+        "uri": "spotify:track:20EmzsRBgZSEVbZWp0fqtx",
+        "track_href": "https://api.spotify.com/v1/tracks/20EmzsRBgZSEVbZWp0fqtx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/20EmzsRBgZSEVbZWp0fqtx",
+        "duration_ms": 244680,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3PYx9Wte3jwb48V0wArMOy",
+    "name": "Keanu Reeves",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 170.128,
+    "features": [
+      {
+        "danceability": 0.712,
+        "energy": 0.891,
+        "key": 2,
+        "loudness": -6.457,
+        "mode": 1,
+        "speechiness": 0.24,
+        "acousticness": 0.0572,
+        "instrumentalness": 0,
+        "liveness": 0.134,
+        "valence": 0.798,
+        "tempo": 170.128,
+        "type": "audio_features",
+        "id": "3PYx9Wte3jwb48V0wArMOy",
+        "uri": "spotify:track:3PYx9Wte3jwb48V0wArMOy",
+        "track_href": "https://api.spotify.com/v1/tracks/3PYx9Wte3jwb48V0wArMOy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3PYx9Wte3jwb48V0wArMOy",
+        "duration_ms": 225920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4jdLb7N6U6tmyynmu6PPRM",
+    "name": "Don't Be Afraid To Be Different (feat. Will Smith)",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 111.005,
+    "features": [
+      {
+        "danceability": 0.866,
+        "energy": 0.79,
+        "key": 1,
+        "loudness": -4.921,
+        "mode": 1,
+        "speechiness": 0.0947,
+        "acousticness": 0.0294,
+        "instrumentalness": 4.78e-05,
+        "liveness": 0.163,
+        "valence": 0.438,
+        "tempo": 111.005,
+        "type": "audio_features",
+        "id": "4jdLb7N6U6tmyynmu6PPRM",
+        "uri": "spotify:track:4jdLb7N6U6tmyynmu6PPRM",
+        "track_href": "https://api.spotify.com/v1/tracks/4jdLb7N6U6tmyynmu6PPRM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4jdLb7N6U6tmyynmu6PPRM",
+        "duration_ms": 167933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2K2b3pVT5LLDxzz1Vy4bHb",
+    "name": "BOBBY (feat. My Dad)",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 111.565,
+    "features": [
+      {
+        "danceability": 0.853,
+        "energy": 0.864,
+        "key": 0,
+        "loudness": -2.669,
+        "mode": 1,
+        "speechiness": 0.283,
+        "acousticness": 0.25,
+        "instrumentalness": 0,
+        "liveness": 0.0541,
+        "valence": 0.868,
+        "tempo": 111.565,
+        "type": "audio_features",
+        "id": "2K2b3pVT5LLDxzz1Vy4bHb",
+        "uri": "spotify:track:2K2b3pVT5LLDxzz1Vy4bHb",
+        "track_href": "https://api.spotify.com/v1/tracks/2K2b3pVT5LLDxzz1Vy4bHb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2K2b3pVT5LLDxzz1Vy4bHb",
+        "duration_ms": 167827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4Tk9QvtwwOj2Ah9E8ahutZ",
+    "name": "Lost In Translation",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "bpm": 93.04,
+    "features": [
+      {
+        "danceability": 0.573,
+        "energy": 0.801,
+        "key": 2,
+        "loudness": -4.173,
+        "mode": 1,
+        "speechiness": 0.366,
+        "acousticness": 0.568,
+        "instrumentalness": 5.73e-06,
+        "liveness": 0.0996,
+        "valence": 0.368,
+        "tempo": 93.04,
+        "type": "audio_features",
+        "id": "4Tk9QvtwwOj2Ah9E8ahutZ",
+        "uri": "spotify:track:4Tk9QvtwwOj2Ah9E8ahutZ",
+        "track_href": "https://api.spotify.com/v1/tracks/4Tk9QvtwwOj2Ah9E8ahutZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Tk9QvtwwOj2Ah9E8ahutZ",
+        "duration_ms": 289773,
+        "time_signature": 4
+      }
+    ]
+  }
+]

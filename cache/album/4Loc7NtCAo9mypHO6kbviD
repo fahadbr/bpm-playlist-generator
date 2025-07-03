@@ -1,0 +1,350 @@
+[
+  {
+    "id": "4NNY96bKp53diWJ3DWZ1fX",
+    "name": "Jeopardy",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 179.773,
+    "features": [
+      {
+        "danceability": 0.353,
+        "energy": 0.703,
+        "key": 10,
+        "loudness": -8.51,
+        "mode": 0,
+        "speechiness": 0.285,
+        "acousticness": 0.106,
+        "instrumentalness": 0,
+        "liveness": 0.335,
+        "valence": 0.452,
+        "tempo": 179.773,
+        "type": "audio_features",
+        "id": "4NNY96bKp53diWJ3DWZ1fX",
+        "uri": "spotify:track:4NNY96bKp53diWJ3DWZ1fX",
+        "track_href": "https://api.spotify.com/v1/tracks/4NNY96bKp53diWJ3DWZ1fX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4NNY96bKp53diWJ3DWZ1fX",
+        "duration_ms": 201987,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "6n21ivR9Tit58lZhttB2HZ",
+    "name": "Oh My Darling Don't Cry",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 100.482,
+    "features": [
+      {
+        "danceability": 0.577,
+        "energy": 0.588,
+        "key": 1,
+        "loudness": -7.125,
+        "mode": 1,
+        "speechiness": 0.273,
+        "acousticness": 0.0171,
+        "instrumentalness": 4.32e-06,
+        "liveness": 0.485,
+        "valence": 0.325,
+        "tempo": 100.482,
+        "type": "audio_features",
+        "id": "6n21ivR9Tit58lZhttB2HZ",
+        "uri": "spotify:track:6n21ivR9Tit58lZhttB2HZ",
+        "track_href": "https://api.spotify.com/v1/tracks/6n21ivR9Tit58lZhttB2HZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6n21ivR9Tit58lZhttB2HZ",
+        "duration_ms": 204840,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "4IkDkZxo0UamwkH3iunJRC",
+    "name": "Blockbuster Night, Pt. 1",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 151.612,
+    "features": [
+      {
+        "danceability": 0.62,
+        "energy": 0.523,
+        "key": 1,
+        "loudness": -7.999,
+        "mode": 0,
+        "speechiness": 0.373,
+        "acousticness": 0.0312,
+        "instrumentalness": 1.81e-06,
+        "liveness": 0.0568,
+        "valence": 0.406,
+        "tempo": 151.612,
+        "type": "audio_features",
+        "id": "4IkDkZxo0UamwkH3iunJRC",
+        "uri": "spotify:track:4IkDkZxo0UamwkH3iunJRC",
+        "track_href": "https://api.spotify.com/v1/tracks/4IkDkZxo0UamwkH3iunJRC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4IkDkZxo0UamwkH3iunJRC",
+        "duration_ms": 152253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "69boulENxqb2MYuIDxlbFA",
+    "name": "Close Your Eyes (And Count To Fuck)",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 79.998,
+    "features": [
+      {
+        "danceability": 0.714,
+        "energy": 0.661,
+        "key": 1,
+        "loudness": -6.534,
+        "mode": 1,
+        "speechiness": 0.323,
+        "acousticness": 0.0126,
+        "instrumentalness": 0,
+        "liveness": 0.141,
+        "valence": 0.477,
+        "tempo": 79.998,
+        "type": "audio_features",
+        "id": "69boulENxqb2MYuIDxlbFA",
+        "uri": "spotify:track:69boulENxqb2MYuIDxlbFA",
+        "track_href": "https://api.spotify.com/v1/tracks/69boulENxqb2MYuIDxlbFA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/69boulENxqb2MYuIDxlbFA",
+        "duration_ms": 234160,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0jm26zGVmtEU0j2seFhoM4",
+    "name": "All My Life",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 120.024,
+    "features": [
+      {
+        "danceability": 0.692,
+        "energy": 0.502,
+        "key": 5,
+        "loudness": -9.221,
+        "mode": 1,
+        "speechiness": 0.0651,
+        "acousticness": 0.543,
+        "instrumentalness": 7.67e-06,
+        "liveness": 0.371,
+        "valence": 0.146,
+        "tempo": 120.024,
+        "type": "audio_features",
+        "id": "0jm26zGVmtEU0j2seFhoM4",
+        "uri": "spotify:track:0jm26zGVmtEU0j2seFhoM4",
+        "track_href": "https://api.spotify.com/v1/tracks/0jm26zGVmtEU0j2seFhoM4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0jm26zGVmtEU0j2seFhoM4",
+        "duration_ms": 187973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6nlwNXpU0wh9CzGrVVr8i6",
+    "name": "Lie, Cheat, Steal",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 166.102,
+    "features": [
+      {
+        "danceability": 0.523,
+        "energy": 0.721,
+        "key": 4,
+        "loudness": -7.131,
+        "mode": 0,
+        "speechiness": 0.39,
+        "acousticness": 0.0418,
+        "instrumentalness": 0,
+        "liveness": 0.273,
+        "valence": 0.343,
+        "tempo": 166.102,
+        "type": "audio_features",
+        "id": "6nlwNXpU0wh9CzGrVVr8i6",
+        "uri": "spotify:track:6nlwNXpU0wh9CzGrVVr8i6",
+        "track_href": "https://api.spotify.com/v1/tracks/6nlwNXpU0wh9CzGrVVr8i6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6nlwNXpU0wh9CzGrVVr8i6",
+        "duration_ms": 208467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "38kNGmqmgR3PvyYuxFgyeB",
+    "name": "Early",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 120.014,
+    "features": [
+      {
+        "danceability": 0.714,
+        "energy": 0.556,
+        "key": 1,
+        "loudness": -8.56,
+        "mode": 0,
+        "speechiness": 0.0702,
+        "acousticness": 0.021,
+        "instrumentalness": 1.84e-06,
+        "liveness": 0.229,
+        "valence": 0.286,
+        "tempo": 120.014,
+        "type": "audio_features",
+        "id": "38kNGmqmgR3PvyYuxFgyeB",
+        "uri": "spotify:track:38kNGmqmgR3PvyYuxFgyeB",
+        "track_href": "https://api.spotify.com/v1/tracks/38kNGmqmgR3PvyYuxFgyeB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/38kNGmqmgR3PvyYuxFgyeB",
+        "duration_ms": 224067,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7MNVHiFQ6oTVpaPwlkCXpE",
+    "name": "All Due Respect",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 142.774,
+    "features": [
+      {
+        "danceability": 0.691,
+        "energy": 0.607,
+        "key": 1,
+        "loudness": -6.799,
+        "mode": 1,
+        "speechiness": 0.273,
+        "acousticness": 0.0371,
+        "instrumentalness": 0,
+        "liveness": 0.124,
+        "valence": 0.16,
+        "tempo": 142.774,
+        "type": "audio_features",
+        "id": "7MNVHiFQ6oTVpaPwlkCXpE",
+        "uri": "spotify:track:7MNVHiFQ6oTVpaPwlkCXpE",
+        "track_href": "https://api.spotify.com/v1/tracks/7MNVHiFQ6oTVpaPwlkCXpE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7MNVHiFQ6oTVpaPwlkCXpE",
+        "duration_ms": 167840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "107ojD9dVjatTQTq1AgCUl",
+    "name": "Love Again (Akinyele Back)",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 145.938,
+    "features": [
+      {
+        "danceability": 0.788,
+        "energy": 0.678,
+        "key": 1,
+        "loudness": -8.045,
+        "mode": 1,
+        "speechiness": 0.297,
+        "acousticness": 0.135,
+        "instrumentalness": 0,
+        "liveness": 0.0738,
+        "valence": 0.557,
+        "tempo": 145.938,
+        "type": "audio_features",
+        "id": "107ojD9dVjatTQTq1AgCUl",
+        "uri": "spotify:track:107ojD9dVjatTQTq1AgCUl",
+        "track_href": "https://api.spotify.com/v1/tracks/107ojD9dVjatTQTq1AgCUl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/107ojD9dVjatTQTq1AgCUl",
+        "duration_ms": 225093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4jvWdrWu68yFTEH8OFI8da",
+    "name": "Crown",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 164.986,
+    "features": [
+      {
+        "danceability": 0.612,
+        "energy": 0.72,
+        "key": 7,
+        "loudness": -9.535,
+        "mode": 1,
+        "speechiness": 0.113,
+        "acousticness": 0.132,
+        "instrumentalness": 0.574,
+        "liveness": 0.504,
+        "valence": 0.351,
+        "tempo": 164.986,
+        "type": "audio_features",
+        "id": "4jvWdrWu68yFTEH8OFI8da",
+        "uri": "spotify:track:4jvWdrWu68yFTEH8OFI8da",
+        "track_href": "https://api.spotify.com/v1/tracks/4jvWdrWu68yFTEH8OFI8da",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4jvWdrWu68yFTEH8OFI8da",
+        "duration_ms": 225720,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5fjHhxBN5l7A8Flwm06XPu",
+    "name": "Angel Duster",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 175.677,
+    "features": [
+      {
+        "danceability": 0.507,
+        "energy": 0.81,
+        "key": 6,
+        "loudness": -6.84,
+        "mode": 1,
+        "speechiness": 0.105,
+        "acousticness": 0.00293,
+        "instrumentalness": 7.52e-06,
+        "liveness": 0.314,
+        "valence": 0.206,
+        "tempo": 175.677,
+        "type": "audio_features",
+        "id": "5fjHhxBN5l7A8Flwm06XPu",
+        "uri": "spotify:track:5fjHhxBN5l7A8Flwm06XPu",
+        "track_href": "https://api.spotify.com/v1/tracks/5fjHhxBN5l7A8Flwm06XPu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5fjHhxBN5l7A8Flwm06XPu",
+        "duration_ms": 309840,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "67b7rZ4qRyVls0TuWBa5vb",
+    "name": "Blockbuster Night, Pt. 2 - Bonus Track",
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels 2",
+    "bpm": 78.727,
+    "features": [
+      {
+        "danceability": 0.616,
+        "energy": 0.749,
+        "key": 10,
+        "loudness": -7.418,
+        "mode": 0,
+        "speechiness": 0.375,
+        "acousticness": 0.112,
+        "instrumentalness": 0,
+        "liveness": 0.232,
+        "valence": 0.644,
+        "tempo": 78.727,
+        "type": "audio_features",
+        "id": "67b7rZ4qRyVls0TuWBa5vb",
+        "uri": "spotify:track:67b7rZ4qRyVls0TuWBa5vb",
+        "track_href": "https://api.spotify.com/v1/tracks/67b7rZ4qRyVls0TuWBa5vb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/67b7rZ4qRyVls0TuWBa5vb",
+        "duration_ms": 159231,
+        "time_signature": 4
+      }
+    ]
+  }
+]

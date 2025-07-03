@@ -1,0 +1,408 @@
+[
+  {
+    "id": "45tORLTHGyzygZNVnAhYnf",
+    "name": "All We Need",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 105.044,
+    "features": [
+      {
+        "danceability": 0.459,
+        "energy": 0.496,
+        "key": 5,
+        "loudness": -8.832,
+        "mode": 1,
+        "speechiness": 0.0341,
+        "acousticness": 0.397,
+        "instrumentalness": 0.0469,
+        "liveness": 0.122,
+        "valence": 0.0455,
+        "tempo": 105.044,
+        "type": "audio_features",
+        "id": "45tORLTHGyzygZNVnAhYnf",
+        "uri": "spotify:track:45tORLTHGyzygZNVnAhYnf",
+        "track_href": "https://api.spotify.com/v1/tracks/45tORLTHGyzygZNVnAhYnf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/45tORLTHGyzygZNVnAhYnf",
+        "duration_ms": 283320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0rVx0JleEdLRafoLAy6hEt",
+    "name": "Revolution",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 109.053,
+    "features": [
+      {
+        "danceability": 0.722,
+        "energy": 0.556,
+        "key": 7,
+        "loudness": -11.849,
+        "mode": 0,
+        "speechiness": 0.157,
+        "acousticness": 0.228,
+        "instrumentalness": 0.0179,
+        "liveness": 0.298,
+        "valence": 0.195,
+        "tempo": 109.053,
+        "type": "audio_features",
+        "id": "0rVx0JleEdLRafoLAy6hEt",
+        "uri": "spotify:track:0rVx0JleEdLRafoLAy6hEt",
+        "track_href": "https://api.spotify.com/v1/tracks/0rVx0JleEdLRafoLAy6hEt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0rVx0JleEdLRafoLAy6hEt",
+        "duration_ms": 196947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4hxxF2LVp9ZRNc887Mp1DT",
+    "name": "Forbidden Knowledge (feat. Big K.R.I.T.)",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 100.205,
+    "features": [
+      {
+        "danceability": 0.817,
+        "energy": 0.643,
+        "key": 9,
+        "loudness": -10.763,
+        "mode": 0,
+        "speechiness": 0.323,
+        "acousticness": 0.62,
+        "instrumentalness": 0.156,
+        "liveness": 0.11,
+        "valence": 0.756,
+        "tempo": 100.205,
+        "type": "audio_features",
+        "id": "4hxxF2LVp9ZRNc887Mp1DT",
+        "uri": "spotify:track:4hxxF2LVp9ZRNc887Mp1DT",
+        "track_href": "https://api.spotify.com/v1/tracks/4hxxF2LVp9ZRNc887Mp1DT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4hxxF2LVp9ZRNc887Mp1DT",
+        "duration_ms": 242600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3Uy4Ljf7BEbBeSUj4rOt45",
+    "name": "Woodcrest Manor II",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 79.497,
+    "features": [
+      {
+        "danceability": 0.441,
+        "energy": 0.384,
+        "key": 10,
+        "loudness": -13.728,
+        "mode": 1,
+        "speechiness": 0.202,
+        "acousticness": 0.619,
+        "instrumentalness": 0.0406,
+        "liveness": 0.122,
+        "valence": 0.154,
+        "tempo": 79.497,
+        "type": "audio_features",
+        "id": "3Uy4Ljf7BEbBeSUj4rOt45",
+        "uri": "spotify:track:3Uy4Ljf7BEbBeSUj4rOt45",
+        "track_href": "https://api.spotify.com/v1/tracks/3Uy4Ljf7BEbBeSUj4rOt45",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Uy4Ljf7BEbBeSUj4rOt45",
+        "duration_ms": 310560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2pRdXrdjIhFoTY0SEHX0l2",
+    "name": "CPU (feat. RZA)",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 144.894,
+    "features": [
+      {
+        "danceability": 0.408,
+        "energy": 0.631,
+        "key": 9,
+        "loudness": -10.451,
+        "mode": 0,
+        "speechiness": 0.0933,
+        "acousticness": 0.749,
+        "instrumentalness": 0.0103,
+        "liveness": 0.206,
+        "valence": 0.438,
+        "tempo": 144.894,
+        "type": "audio_features",
+        "id": "2pRdXrdjIhFoTY0SEHX0l2",
+        "uri": "spotify:track:2pRdXrdjIhFoTY0SEHX0l2",
+        "track_href": "https://api.spotify.com/v1/tracks/2pRdXrdjIhFoTY0SEHX0l2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2pRdXrdjIhFoTY0SEHX0l2",
+        "duration_ms": 268373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2uK0gfnFYHKpb73WkQml8h",
+    "name": "Devil's Whisper",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 107.991,
+    "features": [
+      {
+        "danceability": 0.778,
+        "energy": 0.636,
+        "key": 7,
+        "loudness": -9.484,
+        "mode": 1,
+        "speechiness": 0.172,
+        "acousticness": 0.234,
+        "instrumentalness": 0.0406,
+        "liveness": 0.345,
+        "valence": 0.312,
+        "tempo": 107.991,
+        "type": "audio_features",
+        "id": "2uK0gfnFYHKpb73WkQml8h",
+        "uri": "spotify:track:2uK0gfnFYHKpb73WkQml8h",
+        "track_href": "https://api.spotify.com/v1/tracks/2uK0gfnFYHKpb73WkQml8h",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2uK0gfnFYHKpb73WkQml8h",
+        "duration_ms": 220920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2YjweT5OLRUstLIYaVUwt2",
+    "name": "Peace Prevail",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 138.099,
+    "features": [
+      {
+        "danceability": 0.477,
+        "energy": 0.584,
+        "key": 0,
+        "loudness": -11.194,
+        "mode": 1,
+        "speechiness": 0.0994,
+        "acousticness": 0.394,
+        "instrumentalness": 0.0608,
+        "liveness": 0.0894,
+        "valence": 0.352,
+        "tempo": 138.099,
+        "type": "audio_features",
+        "id": "2YjweT5OLRUstLIYaVUwt2",
+        "uri": "spotify:track:2YjweT5OLRUstLIYaVUwt2",
+        "track_href": "https://api.spotify.com/v1/tracks/2YjweT5OLRUstLIYaVUwt2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YjweT5OLRUstLIYaVUwt2",
+        "duration_ms": 299147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "58l702tcyPKuXe9br3Grdl",
+    "name": "Crystal Express",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 119.98,
+    "features": [
+      {
+        "danceability": 0.757,
+        "energy": 0.942,
+        "key": 9,
+        "loudness": -6.213,
+        "mode": 1,
+        "speechiness": 0.0459,
+        "acousticness": 0.122,
+        "instrumentalness": 0.00298,
+        "liveness": 0.154,
+        "valence": 0.736,
+        "tempo": 119.98,
+        "type": "audio_features",
+        "id": "58l702tcyPKuXe9br3Grdl",
+        "uri": "spotify:track:58l702tcyPKuXe9br3Grdl",
+        "track_href": "https://api.spotify.com/v1/tracks/58l702tcyPKuXe9br3Grdl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/58l702tcyPKuXe9br3Grdl",
+        "duration_ms": 237827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1tAxvAS2nUsACIchn750c2",
+    "name": "Love is Not a Four Letter Word",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 93.34,
+    "features": [
+      {
+        "danceability": 0.447,
+        "energy": 0.501,
+        "key": 5,
+        "loudness": -10.502,
+        "mode": 1,
+        "speechiness": 0.207,
+        "acousticness": 0.702,
+        "instrumentalness": 0,
+        "liveness": 0.527,
+        "valence": 0.434,
+        "tempo": 93.34,
+        "type": "audio_features",
+        "id": "1tAxvAS2nUsACIchn750c2",
+        "uri": "spotify:track:1tAxvAS2nUsACIchn750c2",
+        "track_href": "https://api.spotify.com/v1/tracks/1tAxvAS2nUsACIchn750c2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1tAxvAS2nUsACIchn750c2",
+        "duration_ms": 109653,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6pug39h5ZVPpwsr5QUjjud",
+    "name": "Her",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 150.014,
+    "features": [
+      {
+        "danceability": 0.384,
+        "energy": 0.416,
+        "key": 10,
+        "loudness": -12.78,
+        "mode": 0,
+        "speechiness": 0.0378,
+        "acousticness": 0.841,
+        "instrumentalness": 0.229,
+        "liveness": 0.117,
+        "valence": 0.0475,
+        "tempo": 150.014,
+        "type": "audio_features",
+        "id": "6pug39h5ZVPpwsr5QUjjud",
+        "uri": "spotify:track:6pug39h5ZVPpwsr5QUjjud",
+        "track_href": "https://api.spotify.com/v1/tracks/6pug39h5ZVPpwsr5QUjjud",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6pug39h5ZVPpwsr5QUjjud",
+        "duration_ms": 256600,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5zKl4hZJoUr6ONcwI7MxxV",
+    "name": "Trap Tears (feat. Key!)",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 111.987,
+    "features": [
+      {
+        "danceability": 0.689,
+        "energy": 0.416,
+        "key": 0,
+        "loudness": -12.547,
+        "mode": 1,
+        "speechiness": 0.159,
+        "acousticness": 0.671,
+        "instrumentalness": 0.000401,
+        "liveness": 0.122,
+        "valence": 0.376,
+        "tempo": 111.987,
+        "type": "audio_features",
+        "id": "5zKl4hZJoUr6ONcwI7MxxV",
+        "uri": "spotify:track:5zKl4hZJoUr6ONcwI7MxxV",
+        "track_href": "https://api.spotify.com/v1/tracks/5zKl4hZJoUr6ONcwI7MxxV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zKl4hZJoUr6ONcwI7MxxV",
+        "duration_ms": 331307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2Tb7xvrJZj4eFQYXmKM65v",
+    "name": "Mama",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 129.898,
+    "features": [
+      {
+        "danceability": 0.597,
+        "energy": 0.416,
+        "key": 5,
+        "loudness": -8.247,
+        "mode": 1,
+        "speechiness": 0.0345,
+        "acousticness": 0.29,
+        "instrumentalness": 0.00483,
+        "liveness": 0.116,
+        "valence": 0.236,
+        "tempo": 129.898,
+        "type": "audio_features",
+        "id": "2Tb7xvrJZj4eFQYXmKM65v",
+        "uri": "spotify:track:2Tb7xvrJZj4eFQYXmKM65v",
+        "track_href": "https://api.spotify.com/v1/tracks/2Tb7xvrJZj4eFQYXmKM65v",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Tb7xvrJZj4eFQYXmKM65v",
+        "duration_ms": 238800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2CxcNhHJMqpsiHGZZBxVVW",
+    "name": "Kingdom Come",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 175.924,
+    "features": [
+      {
+        "danceability": 0.572,
+        "energy": 0.426,
+        "key": 2,
+        "loudness": -10.77,
+        "mode": 1,
+        "speechiness": 0.0548,
+        "acousticness": 0.756,
+        "instrumentalness": 0.0538,
+        "liveness": 0.123,
+        "valence": 0.356,
+        "tempo": 175.924,
+        "type": "audio_features",
+        "id": "2CxcNhHJMqpsiHGZZBxVVW",
+        "uri": "spotify:track:2CxcNhHJMqpsiHGZZBxVVW",
+        "track_href": "https://api.spotify.com/v1/tracks/2CxcNhHJMqpsiHGZZBxVVW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2CxcNhHJMqpsiHGZZBxVVW",
+        "duration_ms": 228920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4P3eLbdAxPsKy6zP3AInzV",
+    "name": "Friends (feat. Tom Morello)",
+    "artist": "Raury",
+    "album": "All We Need",
+    "bpm": 100.021,
+    "features": [
+      {
+        "danceability": 0.686,
+        "energy": 0.71,
+        "key": 0,
+        "loudness": -8.109,
+        "mode": 1,
+        "speechiness": 0.0425,
+        "acousticness": 0.00143,
+        "instrumentalness": 0.171,
+        "liveness": 0.178,
+        "valence": 0.183,
+        "tempo": 100.021,
+        "type": "audio_features",
+        "id": "4P3eLbdAxPsKy6zP3AInzV",
+        "uri": "spotify:track:4P3eLbdAxPsKy6zP3AInzV",
+        "track_href": "https://api.spotify.com/v1/tracks/4P3eLbdAxPsKy6zP3AInzV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4P3eLbdAxPsKy6zP3AInzV",
+        "duration_ms": 277107,
+        "time_signature": 4
+      }
+    ]
+  }
+]

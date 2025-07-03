@@ -1,0 +1,872 @@
+[
+  {
+    "id": "5pu7aEkjSMFVxFiboIDixE",
+    "name": "Under The Sun (with J. Cole & Lute feat. DaBaby)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 138.836,
+    "features": [
+      {
+        "danceability": 0.723,
+        "energy": 0.656,
+        "key": 0,
+        "loudness": -6.432,
+        "mode": 1,
+        "speechiness": 0.338,
+        "acousticness": 0.539,
+        "instrumentalness": 0,
+        "liveness": 0.298,
+        "valence": 0.155,
+        "tempo": 138.836,
+        "type": "audio_features",
+        "id": "5pu7aEkjSMFVxFiboIDixE",
+        "uri": "spotify:track:5pu7aEkjSMFVxFiboIDixE",
+        "track_href": "https://api.spotify.com/v1/tracks/5pu7aEkjSMFVxFiboIDixE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5pu7aEkjSMFVxFiboIDixE",
+        "duration_ms": 201773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1SYZeqExX1250udNlaEAze",
+    "name": "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 149.814,
+    "features": [
+      {
+        "danceability": 0.81,
+        "energy": 0.584,
+        "key": 0,
+        "loudness": -5.364,
+        "mode": 1,
+        "speechiness": 0.339,
+        "acousticness": 0.038,
+        "instrumentalness": 0,
+        "liveness": 0.0559,
+        "valence": 0.715,
+        "tempo": 149.814,
+        "type": "audio_features",
+        "id": "1SYZeqExX1250udNlaEAze",
+        "uri": "spotify:track:1SYZeqExX1250udNlaEAze",
+        "track_href": "https://api.spotify.com/v1/tracks/1SYZeqExX1250udNlaEAze",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SYZeqExX1250udNlaEAze",
+        "duration_ms": 169147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7KNE7h5dcOP8HgfrlAkHuE",
+    "name": "LamboTruck (with Cozz feat. REASON & Childish Major)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 135.001,
+    "features": [
+      {
+        "danceability": 0.659,
+        "energy": 0.693,
+        "key": 10,
+        "loudness": -5.268,
+        "mode": 0,
+        "speechiness": 0.298,
+        "acousticness": 0.0514,
+        "instrumentalness": 0,
+        "liveness": 0.184,
+        "valence": 0.261,
+        "tempo": 135.001,
+        "type": "audio_features",
+        "id": "7KNE7h5dcOP8HgfrlAkHuE",
+        "uri": "spotify:track:7KNE7h5dcOP8HgfrlAkHuE",
+        "track_href": "https://api.spotify.com/v1/tracks/7KNE7h5dcOP8HgfrlAkHuE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7KNE7h5dcOP8HgfrlAkHuE",
+        "duration_ms": 229387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4ucPhGibPjInOykvVNViRU",
+    "name": "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 109.839,
+    "features": [
+      {
+        "danceability": 0.594,
+        "energy": 0.545,
+        "key": 2,
+        "loudness": -7.208,
+        "mode": 1,
+        "speechiness": 0.416,
+        "acousticness": 0.247,
+        "instrumentalness": 0,
+        "liveness": 0.239,
+        "valence": 0.404,
+        "tempo": 109.839,
+        "type": "audio_features",
+        "id": "4ucPhGibPjInOykvVNViRU",
+        "uri": "spotify:track:4ucPhGibPjInOykvVNViRU",
+        "track_href": "https://api.spotify.com/v1/tracks/4ucPhGibPjInOykvVNViRU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ucPhGibPjInOykvVNViRU",
+        "duration_ms": 194613,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "5bnMRsrpblLaINuPh6b6QA",
+    "name": "Oh Wow...Swerve (with J. Cole feat. Zoink Gang, KEY! & Maxo Kream)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 165.265,
+    "features": [
+      {
+        "danceability": 0.518,
+        "energy": 0.713,
+        "key": 1,
+        "loudness": -6.143,
+        "mode": 1,
+        "speechiness": 0.508,
+        "acousticness": 0.375,
+        "instrumentalness": 1.09e-06,
+        "liveness": 0.279,
+        "valence": 0.307,
+        "tempo": 165.265,
+        "type": "audio_features",
+        "id": "5bnMRsrpblLaINuPh6b6QA",
+        "uri": "spotify:track:5bnMRsrpblLaINuPh6b6QA",
+        "track_href": "https://api.spotify.com/v1/tracks/5bnMRsrpblLaINuPh6b6QA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5bnMRsrpblLaINuPh6b6QA",
+        "duration_ms": 275987,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5NiJFLsaw1cUP80CPyMjdN",
+    "name": "Don't Hit Me Right Now (with Bas & Cozz feat. Yung Baby Tate, Guapdad 4000 & Buddy)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 123.98,
+    "features": [
+      {
+        "danceability": 0.78,
+        "energy": 0.59,
+        "key": 10,
+        "loudness": -6.587,
+        "mode": 0,
+        "speechiness": 0.123,
+        "acousticness": 0.59,
+        "instrumentalness": 0,
+        "liveness": 0.151,
+        "valence": 0.493,
+        "tempo": 123.98,
+        "type": "audio_features",
+        "id": "5NiJFLsaw1cUP80CPyMjdN",
+        "uri": "spotify:track:5NiJFLsaw1cUP80CPyMjdN",
+        "track_href": "https://api.spotify.com/v1/tracks/5NiJFLsaw1cUP80CPyMjdN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5NiJFLsaw1cUP80CPyMjdN",
+        "duration_ms": 174360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1tJfLhetVOhr9QtvMVTDrg",
+    "name": "Wells Fargo (with JID & EARTHGANG feat. Buddy & Guapdad 4000) - Interlude",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 148.022,
+    "features": [
+      {
+        "danceability": 0.799,
+        "energy": 0.827,
+        "key": 1,
+        "loudness": -3.198,
+        "mode": 1,
+        "speechiness": 0.103,
+        "acousticness": 0.0728,
+        "instrumentalness": 5.3e-06,
+        "liveness": 0.181,
+        "valence": 0.24,
+        "tempo": 148.022,
+        "type": "audio_features",
+        "id": "1tJfLhetVOhr9QtvMVTDrg",
+        "uri": "spotify:track:1tJfLhetVOhr9QtvMVTDrg",
+        "track_href": "https://api.spotify.com/v1/tracks/1tJfLhetVOhr9QtvMVTDrg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1tJfLhetVOhr9QtvMVTDrg",
+        "duration_ms": 123413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0qkiLDGEMIvrpSRIyAU6Xy",
+    "name": "Sleep Deprived (with Lute & Omen feat. Mez & DaVionne)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 88.174,
+    "features": [
+      {
+        "danceability": 0.56,
+        "energy": 0.798,
+        "key": 11,
+        "loudness": -4.282,
+        "mode": 0,
+        "speechiness": 0.355,
+        "acousticness": 0.286,
+        "instrumentalness": 0,
+        "liveness": 0.522,
+        "valence": 0.716,
+        "tempo": 88.174,
+        "type": "audio_features",
+        "id": "0qkiLDGEMIvrpSRIyAU6Xy",
+        "uri": "spotify:track:0qkiLDGEMIvrpSRIyAU6Xy",
+        "track_href": "https://api.spotify.com/v1/tracks/0qkiLDGEMIvrpSRIyAU6Xy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0qkiLDGEMIvrpSRIyAU6Xy",
+        "duration_ms": 238453,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6icmAHgt5ZcKijVxGme5ug",
+    "name": "Self Love (with Ari Lennox & Bas feat. Baby Rose)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 106.05,
+    "features": [
+      {
+        "danceability": 0.759,
+        "energy": 0.7,
+        "key": 5,
+        "loudness": -6.161,
+        "mode": 1,
+        "speechiness": 0.0593,
+        "acousticness": 0.189,
+        "instrumentalness": 0,
+        "liveness": 0.119,
+        "valence": 0.199,
+        "tempo": 106.05,
+        "type": "audio_features",
+        "id": "6icmAHgt5ZcKijVxGme5ug",
+        "uri": "spotify:track:6icmAHgt5ZcKijVxGme5ug",
+        "track_href": "https://api.spotify.com/v1/tracks/6icmAHgt5ZcKijVxGme5ug",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6icmAHgt5ZcKijVxGme5ug",
+        "duration_ms": 223013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "001tGjS4WX77wtQGCP8Sfm",
+    "name": "Ladies, Ladies, Ladies (with JID feat. T.I.)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 80.436,
+    "features": [
+      {
+        "danceability": 0.558,
+        "energy": 0.671,
+        "key": 6,
+        "loudness": -5.955,
+        "mode": 0,
+        "speechiness": 0.292,
+        "acousticness": 0.638,
+        "instrumentalness": 0,
+        "liveness": 0.301,
+        "valence": 0.485,
+        "tempo": 80.436,
+        "type": "audio_features",
+        "id": "001tGjS4WX77wtQGCP8Sfm",
+        "uri": "spotify:track:001tGjS4WX77wtQGCP8Sfm",
+        "track_href": "https://api.spotify.com/v1/tracks/001tGjS4WX77wtQGCP8Sfm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/001tGjS4WX77wtQGCP8Sfm",
+        "duration_ms": 167787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6stSUCyAY8mfBX00Nc5UuI",
+    "name": "Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 120.933,
+    "features": [
+      {
+        "danceability": 0.832,
+        "energy": 0.648,
+        "key": 7,
+        "loudness": -6.383,
+        "mode": 0,
+        "speechiness": 0.37,
+        "acousticness": 0.532,
+        "instrumentalness": 0,
+        "liveness": 0.0705,
+        "valence": 0.624,
+        "tempo": 120.933,
+        "type": "audio_features",
+        "id": "6stSUCyAY8mfBX00Nc5UuI",
+        "uri": "spotify:track:6stSUCyAY8mfBX00Nc5UuI",
+        "track_href": "https://api.spotify.com/v1/tracks/6stSUCyAY8mfBX00Nc5UuI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6stSUCyAY8mfBX00Nc5UuI",
+        "duration_ms": 217867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5lnkEsVe0nThSA7YcvzTLA",
+    "name": "1993 (with J. Cole, JID, Cozz & EARTHGANG feat. Smino & Buddy)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 177.677,
+    "features": [
+      {
+        "danceability": 0.524,
+        "energy": 0.725,
+        "key": 7,
+        "loudness": -5.318,
+        "mode": 1,
+        "speechiness": 0.625,
+        "acousticness": 0.528,
+        "instrumentalness": 0,
+        "liveness": 0.592,
+        "valence": 0.689,
+        "tempo": 177.677,
+        "type": "audio_features",
+        "id": "5lnkEsVe0nThSA7YcvzTLA",
+        "uri": "spotify:track:5lnkEsVe0nThSA7YcvzTLA",
+        "track_href": "https://api.spotify.com/v1/tracks/5lnkEsVe0nThSA7YcvzTLA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5lnkEsVe0nThSA7YcvzTLA",
+        "duration_ms": 210467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1zJ7ymdM0xajHw4ZYLICBo",
+    "name": "Rembrandt...Run It Back (with JID & J. Cole feat. Vince Staples)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 140.425,
+    "features": [
+      {
+        "danceability": 0.712,
+        "energy": 0.555,
+        "key": 1,
+        "loudness": -6.059,
+        "mode": 1,
+        "speechiness": 0.411,
+        "acousticness": 0.405,
+        "instrumentalness": 0.00191,
+        "liveness": 0.0844,
+        "valence": 0.259,
+        "tempo": 140.425,
+        "type": "audio_features",
+        "id": "1zJ7ymdM0xajHw4ZYLICBo",
+        "uri": "spotify:track:1zJ7ymdM0xajHw4ZYLICBo",
+        "track_href": "https://api.spotify.com/v1/tracks/1zJ7ymdM0xajHw4ZYLICBo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1zJ7ymdM0xajHw4ZYLICBo",
+        "duration_ms": 151827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1RSjLwX6inbcfF23cuqgrM",
+    "name": "Sunset (with J. Cole feat. Young Nudy)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 129.927,
+    "features": [
+      {
+        "danceability": 0.923,
+        "energy": 0.382,
+        "key": 1,
+        "loudness": -7.117,
+        "mode": 1,
+        "speechiness": 0.199,
+        "acousticness": 0.153,
+        "instrumentalness": 0,
+        "liveness": 0.151,
+        "valence": 0.406,
+        "tempo": 129.927,
+        "type": "audio_features",
+        "id": "1RSjLwX6inbcfF23cuqgrM",
+        "uri": "spotify:track:1RSjLwX6inbcfF23cuqgrM",
+        "track_href": "https://api.spotify.com/v1/tracks/1RSjLwX6inbcfF23cuqgrM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1RSjLwX6inbcfF23cuqgrM",
+        "duration_ms": 178373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "19Yum3jpUU8gey1Ue0dP4m",
+    "name": "Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 76.276,
+    "features": [
+      {
+        "danceability": 0.699,
+        "energy": 0.611,
+        "key": 7,
+        "loudness": -6.439,
+        "mode": 0,
+        "speechiness": 0.338,
+        "acousticness": 0.146,
+        "instrumentalness": 0,
+        "liveness": 0.0959,
+        "valence": 0.461,
+        "tempo": 76.276,
+        "type": "audio_features",
+        "id": "19Yum3jpUU8gey1Ue0dP4m",
+        "uri": "spotify:track:19Yum3jpUU8gey1Ue0dP4m",
+        "track_href": "https://api.spotify.com/v1/tracks/19Yum3jpUU8gey1Ue0dP4m",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/19Yum3jpUU8gey1Ue0dP4m",
+        "duration_ms": 284040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7CX1m1nI25iiNoOgRKNoIT",
+    "name": "MIDDLE CHILD",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 126.021,
+    "features": [
+      {
+        "danceability": 0.839,
+        "energy": 0.484,
+        "key": 8,
+        "loudness": -6.9,
+        "mode": 1,
+        "speechiness": 0.242,
+        "acousticness": 0.191,
+        "instrumentalness": 0,
+        "liveness": 0.254,
+        "valence": 0.513,
+        "tempo": 126.021,
+        "type": "audio_features",
+        "id": "7CX1m1nI25iiNoOgRKNoIT",
+        "uri": "spotify:track:7CX1m1nI25iiNoOgRKNoIT",
+        "track_href": "https://api.spotify.com/v1/tracks/7CX1m1nI25iiNoOgRKNoIT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7CX1m1nI25iiNoOgRKNoIT",
+        "duration_ms": 213000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5wYslsQvKIIWDt7PN6Y0zd",
+    "name": "PTSD (with Omen feat. Mereba, Deante' Hitchcock & St. Beauty)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 95.306,
+    "features": [
+      {
+        "danceability": 0.547,
+        "energy": 0.875,
+        "key": 1,
+        "loudness": -5.417,
+        "mode": 1,
+        "speechiness": 0.439,
+        "acousticness": 0.115,
+        "instrumentalness": 1.39e-06,
+        "liveness": 0.144,
+        "valence": 0.594,
+        "tempo": 95.306,
+        "type": "audio_features",
+        "id": "5wYslsQvKIIWDt7PN6Y0zd",
+        "uri": "spotify:track:5wYslsQvKIIWDt7PN6Y0zd",
+        "track_href": "https://api.spotify.com/v1/tracks/5wYslsQvKIIWDt7PN6Y0zd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5wYslsQvKIIWDt7PN6Y0zd",
+        "duration_ms": 237853,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "33mhcaisagS8xc7ZTckRU9",
+    "name": "Sacrifices (with EARTHGANG & J. Cole feat. Smino & Saba)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 146.995,
+    "features": [
+      {
+        "danceability": 0.827,
+        "energy": 0.685,
+        "key": 0,
+        "loudness": -6.978,
+        "mode": 1,
+        "speechiness": 0.407,
+        "acousticness": 0.101,
+        "instrumentalness": 0,
+        "liveness": 0.109,
+        "valence": 0.275,
+        "tempo": 146.995,
+        "type": "audio_features",
+        "id": "33mhcaisagS8xc7ZTckRU9",
+        "uri": "spotify:track:33mhcaisagS8xc7ZTckRU9",
+        "track_href": "https://api.spotify.com/v1/tracks/33mhcaisagS8xc7ZTckRU9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/33mhcaisagS8xc7ZTckRU9",
+        "duration_ms": 382307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2pQUmVMJiuGx3Dh0daDcJz",
+    "name": "Big Black Truck (with JID)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 171.332,
+    "features": [
+      {
+        "danceability": 0.607,
+        "energy": 0.48,
+        "key": 9,
+        "loudness": -7.833,
+        "mode": 1,
+        "speechiness": 0.635,
+        "acousticness": 0.451,
+        "instrumentalness": 0,
+        "liveness": 0.357,
+        "valence": 0.142,
+        "tempo": 171.332,
+        "type": "audio_features",
+        "id": "2pQUmVMJiuGx3Dh0daDcJz",
+        "uri": "spotify:track:2pQUmVMJiuGx3Dh0daDcJz",
+        "track_href": "https://api.spotify.com/v1/tracks/2pQUmVMJiuGx3Dh0daDcJz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2pQUmVMJiuGx3Dh0daDcJz",
+        "duration_ms": 152973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7pTnbqbltYggOYbXrIE3V9",
+    "name": "Still Up (with EARTHGANG feat. REASON)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 150.003,
+    "features": [
+      {
+        "danceability": 0.849,
+        "energy": 0.692,
+        "key": 10,
+        "loudness": -5.555,
+        "mode": 0,
+        "speechiness": 0.119,
+        "acousticness": 0.0894,
+        "instrumentalness": 0,
+        "liveness": 0.205,
+        "valence": 0.512,
+        "tempo": 150.003,
+        "type": "audio_features",
+        "id": "7pTnbqbltYggOYbXrIE3V9",
+        "uri": "spotify:track:7pTnbqbltYggOYbXrIE3V9",
+        "track_href": "https://api.spotify.com/v1/tracks/7pTnbqbltYggOYbXrIE3V9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7pTnbqbltYggOYbXrIE3V9",
+        "duration_ms": 205200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1MobF57nbROs1ml9IYEzwN",
+    "name": "Outta Pocket (with Bas & Cozz feat. Girl Talk)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 129.989,
+    "features": [
+      {
+        "danceability": 0.91,
+        "energy": 0.456,
+        "key": 2,
+        "loudness": -7.421,
+        "mode": 1,
+        "speechiness": 0.0642,
+        "acousticness": 0.244,
+        "instrumentalness": 0.00741,
+        "liveness": 0.0842,
+        "valence": 0.554,
+        "tempo": 129.989,
+        "type": "audio_features",
+        "id": "1MobF57nbROs1ml9IYEzwN",
+        "uri": "spotify:track:1MobF57nbROs1ml9IYEzwN",
+        "track_href": "https://api.spotify.com/v1/tracks/1MobF57nbROs1ml9IYEzwN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1MobF57nbROs1ml9IYEzwN",
+        "duration_ms": 157213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5hrDDQTYaIH6iD2zX7uuoj",
+    "name": "Late Night (with Cozz & Omen feat. Buddy & Landstrip Chip)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 125.451,
+    "features": [
+      {
+        "danceability": 0.678,
+        "energy": 0.656,
+        "key": 1,
+        "loudness": -7.803,
+        "mode": 1,
+        "speechiness": 0.507,
+        "acousticness": 0.103,
+        "instrumentalness": 0,
+        "liveness": 0.316,
+        "valence": 0.711,
+        "tempo": 125.451,
+        "type": "audio_features",
+        "id": "5hrDDQTYaIH6iD2zX7uuoj",
+        "uri": "spotify:track:5hrDDQTYaIH6iD2zX7uuoj",
+        "track_href": "https://api.spotify.com/v1/tracks/5hrDDQTYaIH6iD2zX7uuoj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hrDDQTYaIH6iD2zX7uuoj",
+        "duration_ms": 196920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1tJq10vQnqYI0eiZd9FkEB",
+    "name": "Spin Move (with Bas feat. Saba, Smino & The Hics)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 75.098,
+    "features": [
+      {
+        "danceability": 0.784,
+        "energy": 0.559,
+        "key": 7,
+        "loudness": -8.401,
+        "mode": 1,
+        "speechiness": 0.427,
+        "acousticness": 0.07,
+        "instrumentalness": 1.82e-06,
+        "liveness": 0.169,
+        "valence": 0.565,
+        "tempo": 75.098,
+        "type": "audio_features",
+        "id": "1tJq10vQnqYI0eiZd9FkEB",
+        "uri": "spotify:track:1tJq10vQnqYI0eiZd9FkEB",
+        "track_href": "https://api.spotify.com/v1/tracks/1tJq10vQnqYI0eiZd9FkEB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1tJq10vQnqYI0eiZd9FkEB",
+        "duration_ms": 223533,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "39KiTKARPALXdEYaG5tqFM",
+    "name": "BUSSIT (with Ari Lennox)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 144.96,
+    "features": [
+      {
+        "danceability": 0.796,
+        "energy": 0.563,
+        "key": 1,
+        "loudness": -6.421,
+        "mode": 1,
+        "speechiness": 0.363,
+        "acousticness": 0.22,
+        "instrumentalness": 1.44e-06,
+        "liveness": 0.077,
+        "valence": 0.485,
+        "tempo": 144.96,
+        "type": "audio_features",
+        "id": "39KiTKARPALXdEYaG5tqFM",
+        "uri": "spotify:track:39KiTKARPALXdEYaG5tqFM",
+        "track_href": "https://api.spotify.com/v1/tracks/39KiTKARPALXdEYaG5tqFM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/39KiTKARPALXdEYaG5tqFM",
+        "duration_ms": 150720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "18AFdCGyTiy6WtTDlx1HnN",
+    "name": "Passcode (with Ari Lennox feat. Buddy, Smino, Mez & Guapdad 4000)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 140.929,
+    "features": [
+      {
+        "danceability": 0.626,
+        "energy": 0.42,
+        "key": 1,
+        "loudness": -9.459,
+        "mode": 1,
+        "speechiness": 0.54,
+        "acousticness": 0.555,
+        "instrumentalness": 2.64e-06,
+        "liveness": 0.117,
+        "valence": 0.604,
+        "tempo": 140.929,
+        "type": "audio_features",
+        "id": "18AFdCGyTiy6WtTDlx1HnN",
+        "uri": "spotify:track:18AFdCGyTiy6WtTDlx1HnN",
+        "track_href": "https://api.spotify.com/v1/tracks/18AFdCGyTiy6WtTDlx1HnN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/18AFdCGyTiy6WtTDlx1HnN",
+        "duration_ms": 206000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6k6QKZTfsSkLcARPA3VY4D",
+    "name": "Up Up Away (with JID & EARTHGANG feat. Vince Staples)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 77.977,
+    "features": [
+      {
+        "danceability": 0.882,
+        "energy": 0.573,
+        "key": 1,
+        "loudness": -6.052,
+        "mode": 1,
+        "speechiness": 0.237,
+        "acousticness": 0.0333,
+        "instrumentalness": 0,
+        "liveness": 0.316,
+        "valence": 0.483,
+        "tempo": 77.977,
+        "type": "audio_features",
+        "id": "6k6QKZTfsSkLcARPA3VY4D",
+        "uri": "spotify:track:6k6QKZTfsSkLcARPA3VY4D",
+        "track_href": "https://api.spotify.com/v1/tracks/6k6QKZTfsSkLcARPA3VY4D",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6k6QKZTfsSkLcARPA3VY4D",
+        "duration_ms": 199707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7oL60LH1UJgqauinmCYiGr",
+    "name": "No Chorus (with Bas feat. Buddy, Guapdad 4000 & Dreezy)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 148.297,
+    "features": [
+      {
+        "danceability": 0.691,
+        "energy": 0.392,
+        "key": 2,
+        "loudness": -9.534,
+        "mode": 1,
+        "speechiness": 0.25,
+        "acousticness": 0.238,
+        "instrumentalness": 0,
+        "liveness": 0.149,
+        "valence": 0.0891,
+        "tempo": 148.297,
+        "type": "audio_features",
+        "id": "7oL60LH1UJgqauinmCYiGr",
+        "uri": "spotify:track:7oL60LH1UJgqauinmCYiGr",
+        "track_href": "https://api.spotify.com/v1/tracks/7oL60LH1UJgqauinmCYiGr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7oL60LH1UJgqauinmCYiGr",
+        "duration_ms": 202213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Kwblq3Rf6KWDPK3kUpNBg",
+    "name": "Disgusted (with Cozz feat. Childish Major)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 86.836,
+    "features": [
+      {
+        "danceability": 0.514,
+        "energy": 0.676,
+        "key": 7,
+        "loudness": -5.322,
+        "mode": 0,
+        "speechiness": 0.325,
+        "acousticness": 0.133,
+        "instrumentalness": 0,
+        "liveness": 0.0832,
+        "valence": 0.327,
+        "tempo": 86.836,
+        "type": "audio_features",
+        "id": "6Kwblq3Rf6KWDPK3kUpNBg",
+        "uri": "spotify:track:6Kwblq3Rf6KWDPK3kUpNBg",
+        "track_href": "https://api.spotify.com/v1/tracks/6Kwblq3Rf6KWDPK3kUpNBg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Kwblq3Rf6KWDPK3kUpNBg",
+        "duration_ms": 163053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "54DECsrTA7p2WdAllfCupL",
+    "name": "Revenge (with Lute & Omen feat. Ari Lennox, EARTHGANG, Childish Major & REASON)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 151.091,
+    "features": [
+      {
+        "danceability": 0.663,
+        "energy": 0.805,
+        "key": 11,
+        "loudness": -6.87,
+        "mode": 0,
+        "speechiness": 0.387,
+        "acousticness": 0.0389,
+        "instrumentalness": 0,
+        "liveness": 0.341,
+        "valence": 0.218,
+        "tempo": 151.091,
+        "type": "audio_features",
+        "id": "54DECsrTA7p2WdAllfCupL",
+        "uri": "spotify:track:54DECsrTA7p2WdAllfCupL",
+        "track_href": "https://api.spotify.com/v1/tracks/54DECsrTA7p2WdAllfCupL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/54DECsrTA7p2WdAllfCupL",
+        "duration_ms": 333227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1hp7uTRi0jYcN6wgFP077U",
+    "name": "Still Dreamin (with JID & Lute feat. 6LACK)",
+    "artist": "Dreamville",
+    "album": "Revenge Of The Dreamers III: Director's Cut",
+    "bpm": 82.411,
+    "features": [
+      {
+        "danceability": 0.452,
+        "energy": 0.557,
+        "key": 0,
+        "loudness": -6.425,
+        "mode": 1,
+        "speechiness": 0.261,
+        "acousticness": 0.478,
+        "instrumentalness": 1.75e-06,
+        "liveness": 0.0945,
+        "valence": 0.38,
+        "tempo": 82.411,
+        "type": "audio_features",
+        "id": "1hp7uTRi0jYcN6wgFP077U",
+        "uri": "spotify:track:1hp7uTRi0jYcN6wgFP077U",
+        "track_href": "https://api.spotify.com/v1/tracks/1hp7uTRi0jYcN6wgFP077U",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1hp7uTRi0jYcN6wgFP077U",
+        "duration_ms": 261053,
+        "time_signature": 4
+      }
+    ]
+  }
+]

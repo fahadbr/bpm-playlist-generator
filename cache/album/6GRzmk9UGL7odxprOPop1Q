@@ -1,0 +1,379 @@
+[
+  {
+    "id": "6Rfc5vnh8qine5VneEpy7a",
+    "name": "Intro",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 92.202,
+    "features": [
+      {
+        "danceability": 0.825,
+        "energy": 0.723,
+        "key": 6,
+        "loudness": -6.003,
+        "mode": 1,
+        "speechiness": 0.341,
+        "acousticness": 0.14,
+        "instrumentalness": 0,
+        "liveness": 0.433,
+        "valence": 0.834,
+        "tempo": 92.202,
+        "type": "audio_features",
+        "id": "6Rfc5vnh8qine5VneEpy7a",
+        "uri": "spotify:track:6Rfc5vnh8qine5VneEpy7a",
+        "track_href": "https://api.spotify.com/v1/tracks/6Rfc5vnh8qine5VneEpy7a",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Rfc5vnh8qine5VneEpy7a",
+        "duration_ms": 71613,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1mIpDPCehnf3EPk6J4ZCUF",
+    "name": "Astronomy (8th Light)",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 94.092,
+    "features": [
+      {
+        "danceability": 0.832,
+        "energy": 0.738,
+        "key": 6,
+        "loudness": -2.695,
+        "mode": 1,
+        "speechiness": 0.467,
+        "acousticness": 0.256,
+        "instrumentalness": 1.19e-06,
+        "liveness": 0.0915,
+        "valence": 0.812,
+        "tempo": 94.092,
+        "type": "audio_features",
+        "id": "1mIpDPCehnf3EPk6J4ZCUF",
+        "uri": "spotify:track:1mIpDPCehnf3EPk6J4ZCUF",
+        "track_href": "https://api.spotify.com/v1/tracks/1mIpDPCehnf3EPk6J4ZCUF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1mIpDPCehnf3EPk6J4ZCUF",
+        "duration_ms": 203680,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4C7Ss9bTPOWJMh3rarF1mN",
+    "name": "Definition",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 89.788,
+    "features": [
+      {
+        "danceability": 0.65,
+        "energy": 0.9,
+        "key": 1,
+        "loudness": -4.099,
+        "mode": 0,
+        "speechiness": 0.374,
+        "acousticness": 0.0252,
+        "instrumentalness": 0,
+        "liveness": 0.176,
+        "valence": 0.659,
+        "tempo": 89.788,
+        "type": "audio_features",
+        "id": "4C7Ss9bTPOWJMh3rarF1mN",
+        "uri": "spotify:track:4C7Ss9bTPOWJMh3rarF1mN",
+        "track_href": "https://api.spotify.com/v1/tracks/4C7Ss9bTPOWJMh3rarF1mN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4C7Ss9bTPOWJMh3rarF1mN",
+        "duration_ms": 206493,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5ED4wu4LKC0iNR28iMtAyv",
+    "name": "Re:Definition",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 180.24,
+    "features": [
+      {
+        "danceability": 0.41,
+        "energy": 0.864,
+        "key": 11,
+        "loudness": -2.855,
+        "mode": 1,
+        "speechiness": 0.314,
+        "acousticness": 0.044,
+        "instrumentalness": 0,
+        "liveness": 0.593,
+        "valence": 0.677,
+        "tempo": 180.24,
+        "type": "audio_features",
+        "id": "5ED4wu4LKC0iNR28iMtAyv",
+        "uri": "spotify:track:5ED4wu4LKC0iNR28iMtAyv",
+        "track_href": "https://api.spotify.com/v1/tracks/5ED4wu4LKC0iNR28iMtAyv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ED4wu4LKC0iNR28iMtAyv",
+        "duration_ms": 182973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2gR8M4j8V1n0ScoE6pB3Wv",
+    "name": "Children's Story",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 90.481,
+    "features": [
+      {
+        "danceability": 0.907,
+        "energy": 0.531,
+        "key": 1,
+        "loudness": -4.975,
+        "mode": 1,
+        "speechiness": 0.397,
+        "acousticness": 0.0357,
+        "instrumentalness": 2.68e-05,
+        "liveness": 0.109,
+        "valence": 0.765,
+        "tempo": 90.481,
+        "type": "audio_features",
+        "id": "2gR8M4j8V1n0ScoE6pB3Wv",
+        "uri": "spotify:track:2gR8M4j8V1n0ScoE6pB3Wv",
+        "track_href": "https://api.spotify.com/v1/tracks/2gR8M4j8V1n0ScoE6pB3Wv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gR8M4j8V1n0ScoE6pB3Wv",
+        "duration_ms": 212600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3Mz4AoWIedMfzCib1LYwMZ",
+    "name": "Brown Skin Lady",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 175.559,
+    "features": [
+      {
+        "danceability": 0.57,
+        "energy": 0.553,
+        "key": 1,
+        "loudness": -9.137,
+        "mode": 1,
+        "speechiness": 0.665,
+        "acousticness": 0.557,
+        "instrumentalness": 5.67e-05,
+        "liveness": 0.375,
+        "valence": 0.828,
+        "tempo": 175.559,
+        "type": "audio_features",
+        "id": "3Mz4AoWIedMfzCib1LYwMZ",
+        "uri": "spotify:track:3Mz4AoWIedMfzCib1LYwMZ",
+        "track_href": "https://api.spotify.com/v1/tracks/3Mz4AoWIedMfzCib1LYwMZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Mz4AoWIedMfzCib1LYwMZ",
+        "duration_ms": 346667,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "42Ukmio4yQyjiZrqpys8XY",
+    "name": "B Boys Will B Boys",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 107.004,
+    "features": [
+      {
+        "danceability": 0.765,
+        "energy": 0.836,
+        "key": 4,
+        "loudness": -9.132,
+        "mode": 1,
+        "speechiness": 0.199,
+        "acousticness": 0.0163,
+        "instrumentalness": 0,
+        "liveness": 0.271,
+        "valence": 0.441,
+        "tempo": 107.004,
+        "type": "audio_features",
+        "id": "42Ukmio4yQyjiZrqpys8XY",
+        "uri": "spotify:track:42Ukmio4yQyjiZrqpys8XY",
+        "track_href": "https://api.spotify.com/v1/tracks/42Ukmio4yQyjiZrqpys8XY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/42Ukmio4yQyjiZrqpys8XY",
+        "duration_ms": 156027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3DC6AWwtPhlhsBOm4pFkt1",
+    "name": "K.O.S. (Determination)",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 91.222,
+    "features": [
+      {
+        "danceability": 0.759,
+        "energy": 0.521,
+        "key": 11,
+        "loudness": -8.482,
+        "mode": 1,
+        "speechiness": 0.452,
+        "acousticness": 0.339,
+        "instrumentalness": 0,
+        "liveness": 0.109,
+        "valence": 0.779,
+        "tempo": 91.222,
+        "type": "audio_features",
+        "id": "3DC6AWwtPhlhsBOm4pFkt1",
+        "uri": "spotify:track:3DC6AWwtPhlhsBOm4pFkt1",
+        "track_href": "https://api.spotify.com/v1/tracks/3DC6AWwtPhlhsBOm4pFkt1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3DC6AWwtPhlhsBOm4pFkt1",
+        "duration_ms": 289200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0aoHxg1dcxHSgMJFE4umoQ",
+    "name": "Hater Players",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 95.922,
+    "features": [
+      {
+        "danceability": 0.864,
+        "energy": 0.543,
+        "key": 10,
+        "loudness": -5.543,
+        "mode": 0,
+        "speechiness": 0.336,
+        "acousticness": 0.0372,
+        "instrumentalness": 2.67e-06,
+        "liveness": 0.109,
+        "valence": 0.728,
+        "tempo": 95.922,
+        "type": "audio_features",
+        "id": "0aoHxg1dcxHSgMJFE4umoQ",
+        "uri": "spotify:track:0aoHxg1dcxHSgMJFE4umoQ",
+        "track_href": "https://api.spotify.com/v1/tracks/0aoHxg1dcxHSgMJFE4umoQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0aoHxg1dcxHSgMJFE4umoQ",
+        "duration_ms": 247800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6W8xPUq3muUFRnxVcVjdIK",
+    "name": "Yo Yeah",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 96.927,
+    "features": [
+      {
+        "danceability": 0.889,
+        "energy": 0.317,
+        "key": 8,
+        "loudness": -11.643,
+        "mode": 1,
+        "speechiness": 0.331,
+        "acousticness": 0.459,
+        "instrumentalness": 0.0652,
+        "liveness": 0.136,
+        "valence": 0.641,
+        "tempo": 96.927,
+        "type": "audio_features",
+        "id": "6W8xPUq3muUFRnxVcVjdIK",
+        "uri": "spotify:track:6W8xPUq3muUFRnxVcVjdIK",
+        "track_href": "https://api.spotify.com/v1/tracks/6W8xPUq3muUFRnxVcVjdIK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6W8xPUq3muUFRnxVcVjdIK",
+        "duration_ms": 70000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5mxVKAuunOKqcBfR5ivbRf",
+    "name": "Respiration",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 178.727,
+    "features": [
+      {
+        "danceability": 0.54,
+        "energy": 0.738,
+        "key": 6,
+        "loudness": -5.34,
+        "mode": 0,
+        "speechiness": 0.446,
+        "acousticness": 0.272,
+        "instrumentalness": 0,
+        "liveness": 0.199,
+        "valence": 0.528,
+        "tempo": 178.727,
+        "type": "audio_features",
+        "id": "5mxVKAuunOKqcBfR5ivbRf",
+        "uri": "spotify:track:5mxVKAuunOKqcBfR5ivbRf",
+        "track_href": "https://api.spotify.com/v1/tracks/5mxVKAuunOKqcBfR5ivbRf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5mxVKAuunOKqcBfR5ivbRf",
+        "duration_ms": 365333,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7tx1TUJrT6qxXFXAELqbev",
+    "name": "Thieves In The Night",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 92.04,
+    "features": [
+      {
+        "danceability": 0.816,
+        "energy": 0.597,
+        "key": 1,
+        "loudness": -6.407,
+        "mode": 1,
+        "speechiness": 0.281,
+        "acousticness": 0.147,
+        "instrumentalness": 0,
+        "liveness": 0.138,
+        "valence": 0.558,
+        "tempo": 92.04,
+        "type": "audio_features",
+        "id": "7tx1TUJrT6qxXFXAELqbev",
+        "uri": "spotify:track:7tx1TUJrT6qxXFXAELqbev",
+        "track_href": "https://api.spotify.com/v1/tracks/7tx1TUJrT6qxXFXAELqbev",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7tx1TUJrT6qxXFXAELqbev",
+        "duration_ms": 311960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3zlvo38o7gFkrjKi1mtaoV",
+    "name": "Twice Inna Lifetime",
+    "artist": "Black Star",
+    "album": "Mos Def & Talib Kweli Are Black Star",
+    "bpm": 85.524,
+    "features": [
+      {
+        "danceability": 0.772,
+        "energy": 0.846,
+        "key": 8,
+        "loudness": -5.939,
+        "mode": 1,
+        "speechiness": 0.432,
+        "acousticness": 0.161,
+        "instrumentalness": 0,
+        "liveness": 0.201,
+        "valence": 0.677,
+        "tempo": 85.524,
+        "type": "audio_features",
+        "id": "3zlvo38o7gFkrjKi1mtaoV",
+        "uri": "spotify:track:3zlvo38o7gFkrjKi1mtaoV",
+        "track_href": "https://api.spotify.com/v1/tracks/3zlvo38o7gFkrjKi1mtaoV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3zlvo38o7gFkrjKi1mtaoV",
+        "duration_ms": 338813,
+        "time_signature": 4
+      }
+    ]
+  }
+]

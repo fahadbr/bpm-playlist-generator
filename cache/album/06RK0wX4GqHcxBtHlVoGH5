@@ -1,0 +1,582 @@
+[
+  {
+    "id": "6sCvvleqKbeyOkQDieBYgp",
+    "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 177.115,
+    "features": [
+      {
+        "danceability": 0.247,
+        "energy": 0.299,
+        "key": 9,
+        "loudness": -6.083,
+        "mode": 1,
+        "speechiness": 0.0315,
+        "acousticness": 0.899,
+        "instrumentalness": 0,
+        "liveness": 0.131,
+        "valence": 0.172,
+        "tempo": 177.115,
+        "type": "audio_features",
+        "id": "6sCvvleqKbeyOkQDieBYgp",
+        "uri": "spotify:track:6sCvvleqKbeyOkQDieBYgp",
+        "track_href": "https://api.spotify.com/v1/tracks/6sCvvleqKbeyOkQDieBYgp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6sCvvleqKbeyOkQDieBYgp",
+        "duration_ms": 196520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6KsDoI8iySmXQ6UaSPuAx4",
+    "name": "Love & Loyalty (Believe)",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 111.99,
+    "features": [
+      {
+        "danceability": 0.816,
+        "energy": 0.726,
+        "key": 1,
+        "loudness": -9.874,
+        "mode": 1,
+        "speechiness": 0.0688,
+        "acousticness": 0.233,
+        "instrumentalness": 0.00183,
+        "liveness": 0.0669,
+        "valence": 0.596,
+        "tempo": 111.99,
+        "type": "audio_features",
+        "id": "6KsDoI8iySmXQ6UaSPuAx4",
+        "uri": "spotify:track:6KsDoI8iySmXQ6UaSPuAx4",
+        "track_href": "https://api.spotify.com/v1/tracks/6KsDoI8iySmXQ6UaSPuAx4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6KsDoI8iySmXQ6UaSPuAx4",
+        "duration_ms": 380053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0AoBY2Y3qs6dtGgOD6c91N",
+    "name": "Alone",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 89.955,
+    "features": [
+      {
+        "danceability": 0.6,
+        "energy": 0.659,
+        "key": 4,
+        "loudness": -7.264,
+        "mode": 0,
+        "speechiness": 0.0542,
+        "acousticness": 0.176,
+        "instrumentalness": 0,
+        "liveness": 0.111,
+        "valence": 0.307,
+        "tempo": 89.955,
+        "type": "audio_features",
+        "id": "0AoBY2Y3qs6dtGgOD6c91N",
+        "uri": "spotify:track:0AoBY2Y3qs6dtGgOD6c91N",
+        "track_href": "https://api.spotify.com/v1/tracks/0AoBY2Y3qs6dtGgOD6c91N",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0AoBY2Y3qs6dtGgOD6c91N",
+        "duration_ms": 221747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2yrtWT6W4KUMbfNtBcH8iN",
+    "name": "No Woman No Cry",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 147.268,
+    "features": [
+      {
+        "danceability": 0.434,
+        "energy": 0.252,
+        "key": 2,
+        "loudness": -9.082,
+        "mode": 1,
+        "speechiness": 0.0305,
+        "acousticness": 0.506,
+        "instrumentalness": 0.00101,
+        "liveness": 0.103,
+        "valence": 0.138,
+        "tempo": 147.268,
+        "type": "audio_features",
+        "id": "2yrtWT6W4KUMbfNtBcH8iN",
+        "uri": "spotify:track:2yrtWT6W4KUMbfNtBcH8iN",
+        "track_href": "https://api.spotify.com/v1/tracks/2yrtWT6W4KUMbfNtBcH8iN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2yrtWT6W4KUMbfNtBcH8iN",
+        "duration_ms": 213267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5UaiWpx39E60GAsoAtICoV",
+    "name": "\u00c1rboles Bajo El Mar",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 92.161,
+    "features": [
+      {
+        "danceability": 0.678,
+        "energy": 0.385,
+        "key": 6,
+        "loudness": -8.343,
+        "mode": 0,
+        "speechiness": 0.0389,
+        "acousticness": 0.783,
+        "instrumentalness": 0.00112,
+        "liveness": 0.0982,
+        "valence": 0.0577,
+        "tempo": 92.161,
+        "type": "audio_features",
+        "id": "5UaiWpx39E60GAsoAtICoV",
+        "uri": "spotify:track:5UaiWpx39E60GAsoAtICoV",
+        "track_href": "https://api.spotify.com/v1/tracks/5UaiWpx39E60GAsoAtICoV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5UaiWpx39E60GAsoAtICoV",
+        "duration_ms": 261787,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2LSsSV7V33wM9EKQA2xjGS",
+    "name": "Con La Brisa",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 113.818,
+    "features": [
+      {
+        "danceability": 0.608,
+        "energy": 0.429,
+        "key": 2,
+        "loudness": -10.336,
+        "mode": 0,
+        "speechiness": 0.0316,
+        "acousticness": 0.47,
+        "instrumentalness": 0.245,
+        "liveness": 0.129,
+        "valence": 0.242,
+        "tempo": 113.818,
+        "type": "audio_features",
+        "id": "2LSsSV7V33wM9EKQA2xjGS",
+        "uri": "spotify:track:2LSsSV7V33wM9EKQA2xjGS",
+        "track_href": "https://api.spotify.com/v1/tracks/2LSsSV7V33wM9EKQA2xjGS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2LSsSV7V33wM9EKQA2xjGS",
+        "duration_ms": 167387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7rIMBY4ANvxLDJS1m1TzmH",
+    "name": "La Vida",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 94.972,
+    "features": [
+      {
+        "danceability": 0.754,
+        "energy": 0.869,
+        "key": 1,
+        "loudness": -5.106,
+        "mode": 0,
+        "speechiness": 0.124,
+        "acousticness": 0.219,
+        "instrumentalness": 0,
+        "liveness": 0.105,
+        "valence": 0.278,
+        "tempo": 94.972,
+        "type": "audio_features",
+        "id": "7rIMBY4ANvxLDJS1m1TzmH",
+        "uri": "spotify:track:7rIMBY4ANvxLDJS1m1TzmH",
+        "track_href": "https://api.spotify.com/v1/tracks/7rIMBY4ANvxLDJS1m1TzmH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7rIMBY4ANvxLDJS1m1TzmH",
+        "duration_ms": 157813,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2IWpTwTSmuVB6WjeuKN8Cl",
+    "name": "Interlude",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 92.642,
+    "features": [
+      {
+        "danceability": 0.519,
+        "energy": 0.536,
+        "key": 4,
+        "loudness": -6.797,
+        "mode": 0,
+        "speechiness": 0.124,
+        "acousticness": 0.389,
+        "instrumentalness": 1.12e-05,
+        "liveness": 0.109,
+        "valence": 0.0385,
+        "tempo": 92.642,
+        "type": "audio_features",
+        "id": "2IWpTwTSmuVB6WjeuKN8Cl",
+        "uri": "spotify:track:2IWpTwTSmuVB6WjeuKN8Cl",
+        "track_href": "https://api.spotify.com/v1/tracks/2IWpTwTSmuVB6WjeuKN8Cl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2IWpTwTSmuVB6WjeuKN8Cl",
+        "duration_ms": 138520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5o77o7nTrQL1mWAyrvVMNI",
+    "name": "Coming Back For You",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 100.274,
+    "features": [
+      {
+        "danceability": 0.42,
+        "energy": 0.436,
+        "key": 7,
+        "loudness": -8.025,
+        "mode": 1,
+        "speechiness": 0.0449,
+        "acousticness": 0.00814,
+        "instrumentalness": 0,
+        "liveness": 0.128,
+        "valence": 0.242,
+        "tempo": 100.274,
+        "type": "audio_features",
+        "id": "5o77o7nTrQL1mWAyrvVMNI",
+        "uri": "spotify:track:5o77o7nTrQL1mWAyrvVMNI",
+        "track_href": "https://api.spotify.com/v1/tracks/5o77o7nTrQL1mWAyrvVMNI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5o77o7nTrQL1mWAyrvVMNI",
+        "duration_ms": 176293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1rHGit66Qhs5JL3FjaNYsW",
+    "name": "They Want It, But No",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 134.868,
+    "features": [
+      {
+        "danceability": 0.6,
+        "energy": 0.931,
+        "key": 1,
+        "loudness": -6.864,
+        "mode": 1,
+        "speechiness": 0.0973,
+        "acousticness": 0.00783,
+        "instrumentalness": 0.00149,
+        "liveness": 0.115,
+        "valence": 0.304,
+        "tempo": 134.868,
+        "type": "audio_features",
+        "id": "1rHGit66Qhs5JL3FjaNYsW",
+        "uri": "spotify:track:1rHGit66Qhs5JL3FjaNYsW",
+        "track_href": "https://api.spotify.com/v1/tracks/1rHGit66Qhs5JL3FjaNYsW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1rHGit66Qhs5JL3FjaNYsW",
+        "duration_ms": 157440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "02dF3qjpgTpmPCBKo72C06",
+    "name": "Laayli' kuxa'ano'one",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 150.027,
+    "features": [
+      {
+        "danceability": 0.787,
+        "energy": 0.598,
+        "key": 1,
+        "loudness": -7.457,
+        "mode": 1,
+        "speechiness": 0.212,
+        "acousticness": 0.573,
+        "instrumentalness": 2.29e-06,
+        "liveness": 0.103,
+        "valence": 0.82,
+        "tempo": 150.027,
+        "type": "audio_features",
+        "id": "02dF3qjpgTpmPCBKo72C06",
+        "uri": "spotify:track:02dF3qjpgTpmPCBKo72C06",
+        "track_href": "https://api.spotify.com/v1/tracks/02dF3qjpgTpmPCBKo72C06",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/02dF3qjpgTpmPCBKo72C06",
+        "duration_ms": 224747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1yIJZPDmD1HwxR6SJYYQWA",
+    "name": "Limoncello",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 99.991,
+    "features": [
+      {
+        "danceability": 0.834,
+        "energy": 0.591,
+        "key": 8,
+        "loudness": -7.466,
+        "mode": 1,
+        "speechiness": 0.273,
+        "acousticness": 0.0336,
+        "instrumentalness": 0,
+        "liveness": 0.11,
+        "valence": 0.215,
+        "tempo": 99.991,
+        "type": "audio_features",
+        "id": "1yIJZPDmD1HwxR6SJYYQWA",
+        "uri": "spotify:track:1yIJZPDmD1HwxR6SJYYQWA",
+        "track_href": "https://api.spotify.com/v1/tracks/1yIJZPDmD1HwxR6SJYYQWA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1yIJZPDmD1HwxR6SJYYQWA",
+        "duration_ms": 154880,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4m8YqoUZLToSUjpNmb7m5X",
+    "name": "Anya Mmiri",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 126.088,
+    "features": [
+      {
+        "danceability": 0.78,
+        "energy": 0.388,
+        "key": 5,
+        "loudness": -9.357,
+        "mode": 0,
+        "speechiness": 0.0385,
+        "acousticness": 0.158,
+        "instrumentalness": 0.115,
+        "liveness": 0.111,
+        "valence": 0.372,
+        "tempo": 126.088,
+        "type": "audio_features",
+        "id": "4m8YqoUZLToSUjpNmb7m5X",
+        "uri": "spotify:track:4m8YqoUZLToSUjpNmb7m5X",
+        "track_href": "https://api.spotify.com/v1/tracks/4m8YqoUZLToSUjpNmb7m5X",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4m8YqoUZLToSUjpNmb7m5X",
+        "duration_ms": 188920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "11eM29CRUKqdlb6zHe13pP",
+    "name": "Wake Up",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 100.063,
+    "features": [
+      {
+        "danceability": 0.828,
+        "energy": 0.599,
+        "key": 6,
+        "loudness": -6.493,
+        "mode": 1,
+        "speechiness": 0.133,
+        "acousticness": 0.174,
+        "instrumentalness": 0.0649,
+        "liveness": 0.0757,
+        "valence": 0.455,
+        "tempo": 100.063,
+        "type": "audio_features",
+        "id": "11eM29CRUKqdlb6zHe13pP",
+        "uri": "spotify:track:11eM29CRUKqdlb6zHe13pP",
+        "track_href": "https://api.spotify.com/v1/tracks/11eM29CRUKqdlb6zHe13pP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/11eM29CRUKqdlb6zHe13pP",
+        "duration_ms": 162827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0JAxf6vf8Lppihm55k13zv",
+    "name": "Pantera",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 179.934,
+    "features": [
+      {
+        "danceability": 0.595,
+        "energy": 0.732,
+        "key": 11,
+        "loudness": -6.561,
+        "mode": 0,
+        "speechiness": 0.116,
+        "acousticness": 0.0986,
+        "instrumentalness": 0,
+        "liveness": 0.137,
+        "valence": 0.0602,
+        "tempo": 179.934,
+        "type": "audio_features",
+        "id": "0JAxf6vf8Lppihm55k13zv",
+        "uri": "spotify:track:0JAxf6vf8Lppihm55k13zv",
+        "track_href": "https://api.spotify.com/v1/tracks/0JAxf6vf8Lppihm55k13zv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0JAxf6vf8Lppihm55k13zv",
+        "duration_ms": 169907,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2CFGMjBuqypSwkDaYnrsk8",
+    "name": "Jele",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 113.012,
+    "features": [
+      {
+        "danceability": 0.858,
+        "energy": 0.657,
+        "key": 10,
+        "loudness": -5.53,
+        "mode": 0,
+        "speechiness": 0.0494,
+        "acousticness": 0.177,
+        "instrumentalness": 3.28e-05,
+        "liveness": 0.15,
+        "valence": 0.406,
+        "tempo": 113.012,
+        "type": "audio_features",
+        "id": "2CFGMjBuqypSwkDaYnrsk8",
+        "uri": "spotify:track:2CFGMjBuqypSwkDaYnrsk8",
+        "track_href": "https://api.spotify.com/v1/tracks/2CFGMjBuqypSwkDaYnrsk8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2CFGMjBuqypSwkDaYnrsk8",
+        "duration_ms": 229507,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7u2cPWo0974RudXZKDmdmT",
+    "name": "Inframundo",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 157.08,
+    "features": [
+      {
+        "danceability": 0.295,
+        "energy": 0.336,
+        "key": 9,
+        "loudness": -7.712,
+        "mode": 1,
+        "speechiness": 0.0395,
+        "acousticness": 0.253,
+        "instrumentalness": 0.298,
+        "liveness": 0.0856,
+        "valence": 0.252,
+        "tempo": 157.08,
+        "type": "audio_features",
+        "id": "7u2cPWo0974RudXZKDmdmT",
+        "uri": "spotify:track:7u2cPWo0974RudXZKDmdmT",
+        "track_href": "https://api.spotify.com/v1/tracks/7u2cPWo0974RudXZKDmdmT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7u2cPWo0974RudXZKDmdmT",
+        "duration_ms": 191773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1p9R4HF2WGtZDISBxMwF3R",
+    "name": "No Digas Mi Nombre",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 96.746,
+    "features": [
+      {
+        "danceability": 0.513,
+        "energy": 0.692,
+        "key": 9,
+        "loudness": -6.03,
+        "mode": 1,
+        "speechiness": 0.0398,
+        "acousticness": 0.366,
+        "instrumentalness": 0,
+        "liveness": 0.151,
+        "valence": 0.534,
+        "tempo": 96.746,
+        "type": "audio_features",
+        "id": "1p9R4HF2WGtZDISBxMwF3R",
+        "uri": "spotify:track:1p9R4HF2WGtZDISBxMwF3R",
+        "track_href": "https://api.spotify.com/v1/tracks/1p9R4HF2WGtZDISBxMwF3R",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1p9R4HF2WGtZDISBxMwF3R",
+        "duration_ms": 222000,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "3c1YCQvr720s61gHPgtkv8",
+    "name": "Mi Pueblo",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 173.323,
+    "features": [
+      {
+        "danceability": 0.57,
+        "energy": 0.51,
+        "key": 5,
+        "loudness": -13.85,
+        "mode": 1,
+        "speechiness": 0.765,
+        "acousticness": 0.718,
+        "instrumentalness": 0.000467,
+        "liveness": 0.0979,
+        "valence": 0.138,
+        "tempo": 173.323,
+        "type": "audio_features",
+        "id": "3c1YCQvr720s61gHPgtkv8",
+        "uri": "spotify:track:3c1YCQvr720s61gHPgtkv8",
+        "track_href": "https://api.spotify.com/v1/tracks/3c1YCQvr720s61gHPgtkv8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3c1YCQvr720s61gHPgtkv8",
+        "duration_ms": 160480,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "18zQTt3ifDv6iLni2YuXMg",
+    "name": "Born Again",
+    "artist": "Rihanna",
+    "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
+    "bpm": 116.642,
+    "features": [
+      {
+        "danceability": 0.465,
+        "energy": 0.26,
+        "key": 0,
+        "loudness": -8.179,
+        "mode": 0,
+        "speechiness": 0.031,
+        "acousticness": 0.475,
+        "instrumentalness": 0,
+        "liveness": 0.138,
+        "valence": 0.259,
+        "tempo": 116.642,
+        "type": "audio_features",
+        "id": "18zQTt3ifDv6iLni2YuXMg",
+        "uri": "spotify:track:18zQTt3ifDv6iLni2YuXMg",
+        "track_href": "https://api.spotify.com/v1/tracks/18zQTt3ifDv6iLni2YuXMg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/18zQTt3ifDv6iLni2YuXMg",
+        "duration_ms": 213333,
+        "time_signature": 4
+      }
+    ]
+  }
+]

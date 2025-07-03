@@ -1,0 +1,698 @@
+[
+  {
+    "id": "0112jx7vfezsktgMjNaWsd",
+    "name": "In the Event of Typhoon",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 110.008,
+    "features": [
+      {
+        "danceability": 0.799,
+        "energy": 0.254,
+        "key": 8,
+        "loudness": -23.66,
+        "mode": 0,
+        "speechiness": 0.882,
+        "acousticness": 0.944,
+        "instrumentalness": 7.9e-05,
+        "liveness": 0.928,
+        "valence": 0.458,
+        "tempo": 110.008,
+        "type": "audio_features",
+        "id": "0112jx7vfezsktgMjNaWsd",
+        "uri": "spotify:track:0112jx7vfezsktgMjNaWsd",
+        "track_href": "https://api.spotify.com/v1/tracks/0112jx7vfezsktgMjNaWsd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0112jx7vfezsktgMjNaWsd",
+        "duration_ms": 18646,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "6gA0o2RO8BrFOjuaPYuthl",
+    "name": "Drogas",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 146.074,
+    "features": [
+      {
+        "danceability": 0.642,
+        "energy": 0.71,
+        "key": 9,
+        "loudness": -6.247,
+        "mode": 0,
+        "speechiness": 0.0347,
+        "acousticness": 0.0979,
+        "instrumentalness": 4.24e-05,
+        "liveness": 0.0806,
+        "valence": 0.761,
+        "tempo": 146.074,
+        "type": "audio_features",
+        "id": "6gA0o2RO8BrFOjuaPYuthl",
+        "uri": "spotify:track:6gA0o2RO8BrFOjuaPYuthl",
+        "track_href": "https://api.spotify.com/v1/tracks/6gA0o2RO8BrFOjuaPYuthl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6gA0o2RO8BrFOjuaPYuthl",
+        "duration_ms": 136526,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4qWFWexB8E8Bx0SMogNO9A",
+    "name": "Manilla",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 139.92,
+    "features": [
+      {
+        "danceability": 0.627,
+        "energy": 0.904,
+        "key": 4,
+        "loudness": -2.213,
+        "mode": 0,
+        "speechiness": 0.144,
+        "acousticness": 0.406,
+        "instrumentalness": 0,
+        "liveness": 0.204,
+        "valence": 0.654,
+        "tempo": 139.92,
+        "type": "audio_features",
+        "id": "4qWFWexB8E8Bx0SMogNO9A",
+        "uri": "spotify:track:4qWFWexB8E8Bx0SMogNO9A",
+        "track_href": "https://api.spotify.com/v1/tracks/4qWFWexB8E8Bx0SMogNO9A",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4qWFWexB8E8Bx0SMogNO9A",
+        "duration_ms": 327497,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "20aaarkNR4pjbHAc1Bglnz",
+    "name": "Gold vs the Right Things to Do",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 129.829,
+    "features": [
+      {
+        "danceability": 0.671,
+        "energy": 0.805,
+        "key": 1,
+        "loudness": -6.084,
+        "mode": 0,
+        "speechiness": 0.262,
+        "acousticness": 0.6,
+        "instrumentalness": 0,
+        "liveness": 0.0907,
+        "valence": 0.75,
+        "tempo": 129.829,
+        "type": "audio_features",
+        "id": "20aaarkNR4pjbHAc1Bglnz",
+        "uri": "spotify:track:20aaarkNR4pjbHAc1Bglnz",
+        "track_href": "https://api.spotify.com/v1/tracks/20aaarkNR4pjbHAc1Bglnz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/20aaarkNR4pjbHAc1Bglnz",
+        "duration_ms": 222883,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "05SjOaFAshcKjp6DIhWt5m",
+    "name": "Slave Ship - Interlude",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 69.993,
+    "features": [
+      {
+        "danceability": 0.188,
+        "energy": 0.307,
+        "key": 9,
+        "loudness": -13.499,
+        "mode": 1,
+        "speechiness": 0.0529,
+        "acousticness": 0.909,
+        "instrumentalness": 0.768,
+        "liveness": 0.169,
+        "valence": 0.0366,
+        "tempo": 69.993,
+        "type": "audio_features",
+        "id": "05SjOaFAshcKjp6DIhWt5m",
+        "uri": "spotify:track:05SjOaFAshcKjp6DIhWt5m",
+        "track_href": "https://api.spotify.com/v1/tracks/05SjOaFAshcKjp6DIhWt5m",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/05SjOaFAshcKjp6DIhWt5m",
+        "duration_ms": 211089,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0BWve9OJvo7ONwfR36Ty6Z",
+    "name": "WAV Files",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 207.852,
+    "features": [
+      {
+        "danceability": 0.573,
+        "energy": 0.738,
+        "key": 5,
+        "loudness": -5.855,
+        "mode": 0,
+        "speechiness": 0.283,
+        "acousticness": 0.0517,
+        "instrumentalness": 7.93e-05,
+        "liveness": 0.12,
+        "valence": 0.565,
+        "tempo": 207.852,
+        "type": "audio_features",
+        "id": "0BWve9OJvo7ONwfR36Ty6Z",
+        "uri": "spotify:track:0BWve9OJvo7ONwfR36Ty6Z",
+        "track_href": "https://api.spotify.com/v1/tracks/0BWve9OJvo7ONwfR36Ty6Z",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0BWve9OJvo7ONwfR36Ty6Z",
+        "duration_ms": 398202,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6VgYcgaeVz0kehOM1qQqd7",
+    "name": "Down (feat. Nikki Jean)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 168.095,
+    "features": [
+      {
+        "danceability": 0.5,
+        "energy": 0.533,
+        "key": 1,
+        "loudness": -8.914,
+        "mode": 1,
+        "speechiness": 0.345,
+        "acousticness": 0.287,
+        "instrumentalness": 0.000287,
+        "liveness": 0.0932,
+        "valence": 0.289,
+        "tempo": 168.095,
+        "type": "audio_features",
+        "id": "6VgYcgaeVz0kehOM1qQqd7",
+        "uri": "spotify:track:6VgYcgaeVz0kehOM1qQqd7",
+        "track_href": "https://api.spotify.com/v1/tracks/6VgYcgaeVz0kehOM1qQqd7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6VgYcgaeVz0kehOM1qQqd7",
+        "duration_ms": 377308,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0gdZeLCK5OBY9yQY6tiZB9",
+    "name": "Haile Selassie (feat. Nikki Jean)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 111.988,
+    "features": [
+      {
+        "danceability": 0.633,
+        "energy": 0.83,
+        "key": 9,
+        "loudness": -4.576,
+        "mode": 0,
+        "speechiness": 0.121,
+        "acousticness": 0.0315,
+        "instrumentalness": 0,
+        "liveness": 0.849,
+        "valence": 0.222,
+        "tempo": 111.988,
+        "type": "audio_features",
+        "id": "0gdZeLCK5OBY9yQY6tiZB9",
+        "uri": "spotify:track:0gdZeLCK5OBY9yQY6tiZB9",
+        "track_href": "https://api.spotify.com/v1/tracks/0gdZeLCK5OBY9yQY6tiZB9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0gdZeLCK5OBY9yQY6tiZB9",
+        "duration_ms": 289489,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1mJscqFPHlIfjLumYhYMrj",
+    "name": "Alan Forever (feat. Crystal Torres)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 126.048,
+    "features": [
+      {
+        "danceability": 0.727,
+        "energy": 0.644,
+        "key": 1,
+        "loudness": -7.119,
+        "mode": 0,
+        "speechiness": 0.076,
+        "acousticness": 0.523,
+        "instrumentalness": 0,
+        "liveness": 0.173,
+        "valence": 0.461,
+        "tempo": 126.048,
+        "type": "audio_features",
+        "id": "1mJscqFPHlIfjLumYhYMrj",
+        "uri": "spotify:track:1mJscqFPHlIfjLumYhYMrj",
+        "track_href": "https://api.spotify.com/v1/tracks/1mJscqFPHlIfjLumYhYMrj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1mJscqFPHlIfjLumYhYMrj",
+        "duration_ms": 284831,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0OEUZW33luqsTRKaX52J39",
+    "name": "Helter Skelter - Interlude",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 137.125,
+    "features": [
+      {
+        "danceability": 0.708,
+        "energy": 0.291,
+        "key": 5,
+        "loudness": -16.875,
+        "mode": 0,
+        "speechiness": 0.84,
+        "acousticness": 0.993,
+        "instrumentalness": 0,
+        "liveness": 0.122,
+        "valence": 0.668,
+        "tempo": 137.125,
+        "type": "audio_features",
+        "id": "0OEUZW33luqsTRKaX52J39",
+        "uri": "spotify:track:0OEUZW33luqsTRKaX52J39",
+        "track_href": "https://api.spotify.com/v1/tracks/0OEUZW33luqsTRKaX52J39",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0OEUZW33luqsTRKaX52J39",
+        "duration_ms": 16664,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "4ulCe5A1fWhNDfepa3G8NS",
+    "name": "Stronger (feat. Nikki Jean)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 88.699,
+    "features": [
+      {
+        "danceability": 0.473,
+        "energy": 0.842,
+        "key": 11,
+        "loudness": -4.768,
+        "mode": 0,
+        "speechiness": 0.316,
+        "acousticness": 0.627,
+        "instrumentalness": 0,
+        "liveness": 0.27,
+        "valence": 0.167,
+        "tempo": 88.699,
+        "type": "audio_features",
+        "id": "4ulCe5A1fWhNDfepa3G8NS",
+        "uri": "spotify:track:4ulCe5A1fWhNDfepa3G8NS",
+        "track_href": "https://api.spotify.com/v1/tracks/4ulCe5A1fWhNDfepa3G8NS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ulCe5A1fWhNDfepa3G8NS",
+        "duration_ms": 245420,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2maaXK8vK3gzOxsChNKiW6",
+    "name": "Sun God Sam & The California Drug Deals (feat. Nikki Jean)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 111.922,
+    "features": [
+      {
+        "danceability": 0.606,
+        "energy": 0.851,
+        "key": 1,
+        "loudness": -4.113,
+        "mode": 1,
+        "speechiness": 0.173,
+        "acousticness": 0.552,
+        "instrumentalness": 0,
+        "liveness": 0.102,
+        "valence": 0.269,
+        "tempo": 111.922,
+        "type": "audio_features",
+        "id": "2maaXK8vK3gzOxsChNKiW6",
+        "uri": "spotify:track:2maaXK8vK3gzOxsChNKiW6",
+        "track_href": "https://api.spotify.com/v1/tracks/2maaXK8vK3gzOxsChNKiW6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2maaXK8vK3gzOxsChNKiW6",
+        "duration_ms": 284238,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1YoMveQNDS1h2kJrv2OMSc",
+    "name": "XO (feat. Troi Irons)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 128.137,
+    "features": [
+      {
+        "danceability": 0.662,
+        "energy": 0.922,
+        "key": 9,
+        "loudness": -4.862,
+        "mode": 0,
+        "speechiness": 0.23,
+        "acousticness": 0.0224,
+        "instrumentalness": 0,
+        "liveness": 0.499,
+        "valence": 0.174,
+        "tempo": 128.137,
+        "type": "audio_features",
+        "id": "1YoMveQNDS1h2kJrv2OMSc",
+        "uri": "spotify:track:1YoMveQNDS1h2kJrv2OMSc",
+        "track_href": "https://api.spotify.com/v1/tracks/1YoMveQNDS1h2kJrv2OMSc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1YoMveQNDS1h2kJrv2OMSc",
+        "duration_ms": 271871,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2nYonPFoA9ts1Re7U7ozDQ",
+    "name": "Don't Mess up the Children - Interlude",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 136.152,
+    "features": [
+      {
+        "danceability": 0.704,
+        "energy": 0.319,
+        "key": 0,
+        "loudness": -15.271,
+        "mode": 1,
+        "speechiness": 0.948,
+        "acousticness": 0.835,
+        "instrumentalness": 0,
+        "liveness": 0.186,
+        "valence": 0.888,
+        "tempo": 136.152,
+        "type": "audio_features",
+        "id": "2nYonPFoA9ts1Re7U7ozDQ",
+        "uri": "spotify:track:2nYonPFoA9ts1Re7U7ozDQ",
+        "track_href": "https://api.spotify.com/v1/tracks/2nYonPFoA9ts1Re7U7ozDQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2nYonPFoA9ts1Re7U7ozDQ",
+        "duration_ms": 45119,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5Mvw0vUS4KYVhSRyY6rQ6e",
+    "name": "Jonylah Forever",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 94.129,
+    "features": [
+      {
+        "danceability": 0.408,
+        "energy": 0.888,
+        "key": 1,
+        "loudness": -3.439,
+        "mode": 0,
+        "speechiness": 0.209,
+        "acousticness": 0.198,
+        "instrumentalness": 0,
+        "liveness": 0.196,
+        "valence": 0.404,
+        "tempo": 94.129,
+        "type": "audio_features",
+        "id": "5Mvw0vUS4KYVhSRyY6rQ6e",
+        "uri": "spotify:track:5Mvw0vUS4KYVhSRyY6rQ6e",
+        "track_href": "https://api.spotify.com/v1/tracks/5Mvw0vUS4KYVhSRyY6rQ6e",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Mvw0vUS4KYVhSRyY6rQ6e",
+        "duration_ms": 225691,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "70PwLgyLykSloR0tKbo8Nw",
+    "name": "Kingdom (feat. Damian Marley)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 136.034,
+    "features": [
+      {
+        "danceability": 0.51,
+        "energy": 0.842,
+        "key": 10,
+        "loudness": -4.635,
+        "mode": 0,
+        "speechiness": 0.114,
+        "acousticness": 0.149,
+        "instrumentalness": 0,
+        "liveness": 0.144,
+        "valence": 0.424,
+        "tempo": 136.034,
+        "type": "audio_features",
+        "id": "70PwLgyLykSloR0tKbo8Nw",
+        "uri": "spotify:track:70PwLgyLykSloR0tKbo8Nw",
+        "track_href": "https://api.spotify.com/v1/tracks/70PwLgyLykSloR0tKbo8Nw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/70PwLgyLykSloR0tKbo8Nw",
+        "duration_ms": 285720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7DTE1efZT7XwX25523c78s",
+    "name": "Baba Kwesi - Interlude",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 131.344,
+    "features": [
+      {
+        "danceability": 0.709,
+        "energy": 0.0753,
+        "key": 2,
+        "loudness": -19.843,
+        "mode": 1,
+        "speechiness": 0.916,
+        "acousticness": 0.982,
+        "instrumentalness": 0,
+        "liveness": 0.222,
+        "valence": 0.692,
+        "tempo": 131.344,
+        "type": "audio_features",
+        "id": "7DTE1efZT7XwX25523c78s",
+        "uri": "spotify:track:7DTE1efZT7XwX25523c78s",
+        "track_href": "https://api.spotify.com/v1/tracks/7DTE1efZT7XwX25523c78s",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7DTE1efZT7XwX25523c78s",
+        "duration_ms": 35617,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1sCFW0LrXGgn21cHUvgenL",
+    "name": "Imagine (feat. Simon Sayz & Crystal Torres)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 170.105,
+    "features": [
+      {
+        "danceability": 0.659,
+        "energy": 0.858,
+        "key": 1,
+        "loudness": -3.851,
+        "mode": 0,
+        "speechiness": 0.258,
+        "acousticness": 0.0985,
+        "instrumentalness": 0,
+        "liveness": 0.126,
+        "valence": 0.555,
+        "tempo": 170.105,
+        "type": "audio_features",
+        "id": "1sCFW0LrXGgn21cHUvgenL",
+        "uri": "spotify:track:1sCFW0LrXGgn21cHUvgenL",
+        "track_href": "https://api.spotify.com/v1/tracks/1sCFW0LrXGgn21cHUvgenL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1sCFW0LrXGgn21cHUvgenL",
+        "duration_ms": 247864,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5hgjD9wh3CebT76HAeQKHR",
+    "name": "Stack That Cheese (feat. Nikki Jean)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 111.824,
+    "features": [
+      {
+        "danceability": 0.786,
+        "energy": 0.884,
+        "key": 9,
+        "loudness": -5.199,
+        "mode": 0,
+        "speechiness": 0.183,
+        "acousticness": 0.138,
+        "instrumentalness": 0,
+        "liveness": 0.0831,
+        "valence": 0.645,
+        "tempo": 111.824,
+        "type": "audio_features",
+        "id": "5hgjD9wh3CebT76HAeQKHR",
+        "uri": "spotify:track:5hgjD9wh3CebT76HAeQKHR",
+        "track_href": "https://api.spotify.com/v1/tracks/5hgjD9wh3CebT76HAeQKHR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hgjD9wh3CebT76HAeQKHR",
+        "duration_ms": 253495,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7aZqkLRsigNznFJa2sCuT1",
+    "name": "Cripple (feat. Elena Pinderhughes)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 87.465,
+    "features": [
+      {
+        "danceability": 0.634,
+        "energy": 0.684,
+        "key": 5,
+        "loudness": -6.443,
+        "mode": 0,
+        "speechiness": 0.12,
+        "acousticness": 0.191,
+        "instrumentalness": 0,
+        "liveness": 0.105,
+        "valence": 0.365,
+        "tempo": 87.465,
+        "type": "audio_features",
+        "id": "7aZqkLRsigNznFJa2sCuT1",
+        "uri": "spotify:track:7aZqkLRsigNznFJa2sCuT1",
+        "track_href": "https://api.spotify.com/v1/tracks/7aZqkLRsigNznFJa2sCuT1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7aZqkLRsigNznFJa2sCuT1",
+        "duration_ms": 291300,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2YihspRI9MHYbVkZRoECkv",
+    "name": "King Nas",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 174.445,
+    "features": [
+      {
+        "danceability": 0.487,
+        "energy": 0.819,
+        "key": 11,
+        "loudness": -6.737,
+        "mode": 0,
+        "speechiness": 0.374,
+        "acousticness": 0.157,
+        "instrumentalness": 0,
+        "liveness": 0.107,
+        "valence": 0.199,
+        "tempo": 174.445,
+        "type": "audio_features",
+        "id": "2YihspRI9MHYbVkZRoECkv",
+        "uri": "spotify:track:2YihspRI9MHYbVkZRoECkv",
+        "track_href": "https://api.spotify.com/v1/tracks/2YihspRI9MHYbVkZRoECkv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YihspRI9MHYbVkZRoECkv",
+        "duration_ms": 357649,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0fUvBWVKkzzx9tpRsR3KPM",
+    "name": "Quotations from Chairman Fred (feat. Nikki Jean & Bishop Edgar Jackson)",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 79.215,
+    "features": [
+      {
+        "danceability": 0.473,
+        "energy": 0.714,
+        "key": 5,
+        "loudness": -5.894,
+        "mode": 1,
+        "speechiness": 0.359,
+        "acousticness": 0.355,
+        "instrumentalness": 0,
+        "liveness": 0.112,
+        "valence": 0.401,
+        "tempo": 79.215,
+        "type": "audio_features",
+        "id": "0fUvBWVKkzzx9tpRsR3KPM",
+        "uri": "spotify:track:0fUvBWVKkzzx9tpRsR3KPM",
+        "track_href": "https://api.spotify.com/v1/tracks/0fUvBWVKkzzx9tpRsR3KPM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0fUvBWVKkzzx9tpRsR3KPM",
+        "duration_ms": 429005,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7r03EEYJvkxkIIRwGGoq4x",
+    "name": "Happy Timbuck2 Day",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 78.435,
+    "features": [
+      {
+        "danceability": 0.477,
+        "energy": 0.725,
+        "key": 5,
+        "loudness": -5.695,
+        "mode": 1,
+        "speechiness": 0.363,
+        "acousticness": 0.45,
+        "instrumentalness": 0,
+        "liveness": 0.357,
+        "valence": 0.192,
+        "tempo": 78.435,
+        "type": "audio_features",
+        "id": "7r03EEYJvkxkIIRwGGoq4x",
+        "uri": "spotify:track:7r03EEYJvkxkIIRwGGoq4x",
+        "track_href": "https://api.spotify.com/v1/tracks/7r03EEYJvkxkIIRwGGoq4x",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7r03EEYJvkxkIIRwGGoq4x",
+        "duration_ms": 348314,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2IrSemsc1jSOCPnbXGrU5u",
+    "name": "Mural Jr.",
+    "artist": "Lupe Fiasco",
+    "album": "DROGAS WAVE",
+    "bpm": 87.289,
+    "features": [
+      {
+        "danceability": 0.612,
+        "energy": 0.756,
+        "key": 1,
+        "loudness": -5.482,
+        "mode": 0,
+        "speechiness": 0.215,
+        "acousticness": 0.427,
+        "instrumentalness": 0,
+        "liveness": 0.0952,
+        "valence": 0.371,
+        "tempo": 87.289,
+        "type": "audio_features",
+        "id": "2IrSemsc1jSOCPnbXGrU5u",
+        "uri": "spotify:track:2IrSemsc1jSOCPnbXGrU5u",
+        "track_href": "https://api.spotify.com/v1/tracks/2IrSemsc1jSOCPnbXGrU5u",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2IrSemsc1jSOCPnbXGrU5u",
+        "duration_ms": 312686,
+        "time_signature": 4
+      }
+    ]
+  }
+]

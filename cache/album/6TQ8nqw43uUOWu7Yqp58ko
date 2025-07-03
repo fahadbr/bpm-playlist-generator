@@ -1,0 +1,466 @@
+[
+  {
+    "id": "4b9ruyWFMtREf1oatvwa5N",
+    "name": "Darkseid",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 81.55,
+    "features": [
+      {
+        "danceability": 0.488,
+        "energy": 0.536,
+        "key": 2,
+        "loudness": -11.221,
+        "mode": 1,
+        "speechiness": 0.412,
+        "acousticness": 0.412,
+        "instrumentalness": 0,
+        "liveness": 0.23,
+        "valence": 0.581,
+        "tempo": 81.55,
+        "type": "audio_features",
+        "id": "4b9ruyWFMtREf1oatvwa5N",
+        "uri": "spotify:track:4b9ruyWFMtREf1oatvwa5N",
+        "track_href": "https://api.spotify.com/v1/tracks/4b9ruyWFMtREf1oatvwa5N",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4b9ruyWFMtREf1oatvwa5N",
+        "duration_ms": 126619,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3Dah4SWoWwekrG4GShaHVP",
+    "name": "From the Garden (feat. Lil Uzi Vert)",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 142.04,
+    "features": [
+      {
+        "danceability": 0.866,
+        "energy": 0.64,
+        "key": 6,
+        "loudness": -6.195,
+        "mode": 0,
+        "speechiness": 0.413,
+        "acousticness": 0.000697,
+        "instrumentalness": 0.000114,
+        "liveness": 0.702,
+        "valence": 0.636,
+        "tempo": 142.04,
+        "type": "audio_features",
+        "id": "3Dah4SWoWwekrG4GShaHVP",
+        "uri": "spotify:track:3Dah4SWoWwekrG4GShaHVP",
+        "track_href": "https://api.spotify.com/v1/tracks/3Dah4SWoWwekrG4GShaHVP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Dah4SWoWwekrG4GShaHVP",
+        "duration_ms": 189307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6BiCjPFN5rM9JPy5eP5mCs",
+    "name": "RIP Young",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 120.027,
+    "features": [
+      {
+        "danceability": 0.971,
+        "energy": 0.677,
+        "key": 2,
+        "loudness": -6.895,
+        "mode": 1,
+        "speechiness": 0.092,
+        "acousticness": 0.0476,
+        "instrumentalness": 2.22e-05,
+        "liveness": 0.112,
+        "valence": 0.58,
+        "tempo": 120.027,
+        "type": "audio_features",
+        "id": "6BiCjPFN5rM9JPy5eP5mCs",
+        "uri": "spotify:track:6BiCjPFN5rM9JPy5eP5mCs",
+        "track_href": "https://api.spotify.com/v1/tracks/6BiCjPFN5rM9JPy5eP5mCs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6BiCjPFN5rM9JPy5eP5mCs",
+        "duration_ms": 158051,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5KW5AYiCyi5auXXZR2cvxM",
+    "name": "Lay Wit Ya (feat. Duke Deuce)",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 140.003,
+    "features": [
+      {
+        "danceability": 0.913,
+        "energy": 0.861,
+        "key": 1,
+        "loudness": -7.36,
+        "mode": 1,
+        "speechiness": 0.204,
+        "acousticness": 0.0332,
+        "instrumentalness": 4.26e-06,
+        "liveness": 0.766,
+        "valence": 0.969,
+        "tempo": 140.003,
+        "type": "audio_features",
+        "id": "5KW5AYiCyi5auXXZR2cvxM",
+        "uri": "spotify:track:5KW5AYiCyi5auXXZR2cvxM",
+        "track_href": "https://api.spotify.com/v1/tracks/5KW5AYiCyi5auXXZR2cvxM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5KW5AYiCyi5auXXZR2cvxM",
+        "duration_ms": 202331,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "051zam2WDIKOLdu4XYpCaA",
+    "name": "Claymore (feat. Smino)",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 141.287,
+    "features": [
+      {
+        "danceability": 0.688,
+        "energy": 0.517,
+        "key": 1,
+        "loudness": -10.374,
+        "mode": 1,
+        "speechiness": 0.125,
+        "acousticness": 0.632,
+        "instrumentalness": 0.000922,
+        "liveness": 0.0887,
+        "valence": 0.679,
+        "tempo": 141.287,
+        "type": "audio_features",
+        "id": "051zam2WDIKOLdu4XYpCaA",
+        "uri": "spotify:track:051zam2WDIKOLdu4XYpCaA",
+        "track_href": "https://api.spotify.com/v1/tracks/051zam2WDIKOLdu4XYpCaA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/051zam2WDIKOLdu4XYpCaA",
+        "duration_ms": 186152,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0xta6Gah3inmeHbj0e3F9a",
+    "name": "Headshots (4r da Locals)",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 120.0,
+    "features": [
+      {
+        "danceability": 0.894,
+        "energy": 0.615,
+        "key": 3,
+        "loudness": -6.269,
+        "mode": 1,
+        "speechiness": 0.0826,
+        "acousticness": 0.0308,
+        "instrumentalness": 0.00921,
+        "liveness": 0.309,
+        "valence": 0.661,
+        "tempo": 120.0,
+        "type": "audio_features",
+        "id": "0xta6Gah3inmeHbj0e3F9a",
+        "uri": "spotify:track:0xta6Gah3inmeHbj0e3F9a",
+        "track_href": "https://api.spotify.com/v1/tracks/0xta6Gah3inmeHbj0e3F9a",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0xta6Gah3inmeHbj0e3F9a",
+        "duration_ms": 193209,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4JsTX2WkPcdDTWbchQJuko",
+    "name": "All Herb (feat. Amindi)",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 83.332,
+    "features": [
+      {
+        "danceability": 0.692,
+        "energy": 0.681,
+        "key": 5,
+        "loudness": -6.623,
+        "mode": 0,
+        "speechiness": 0.302,
+        "acousticness": 0.0323,
+        "instrumentalness": 0.00447,
+        "liveness": 0.66,
+        "valence": 0.525,
+        "tempo": 83.332,
+        "type": "audio_features",
+        "id": "4JsTX2WkPcdDTWbchQJuko",
+        "uri": "spotify:track:4JsTX2WkPcdDTWbchQJuko",
+        "track_href": "https://api.spotify.com/v1/tracks/4JsTX2WkPcdDTWbchQJuko",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4JsTX2WkPcdDTWbchQJuko",
+        "duration_ms": 224448,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0McOOEVI11ks2PPOVZLou8",
+    "name": "Hey Mista",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 142.068,
+    "features": [
+      {
+        "danceability": 0.835,
+        "energy": 0.662,
+        "key": 9,
+        "loudness": -6.573,
+        "mode": 1,
+        "speechiness": 0.166,
+        "acousticness": 0.00835,
+        "instrumentalness": 0.0202,
+        "liveness": 0.0459,
+        "valence": 0.157,
+        "tempo": 142.068,
+        "type": "audio_features",
+        "id": "0McOOEVI11ks2PPOVZLou8",
+        "uri": "spotify:track:0McOOEVI11ks2PPOVZLou8",
+        "track_href": "https://api.spotify.com/v1/tracks/0McOOEVI11ks2PPOVZLou8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0McOOEVI11ks2PPOVZLou8",
+        "duration_ms": 115863,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5YZpdsmpazPtBHFbGN8mon",
+    "name": "True Story (feat. Jay Rock & Jay Worthy)",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 84.964,
+    "features": [
+      {
+        "danceability": 0.787,
+        "energy": 0.616,
+        "key": 2,
+        "loudness": -9.433,
+        "mode": 0,
+        "speechiness": 0.153,
+        "acousticness": 0.0142,
+        "instrumentalness": 0,
+        "liveness": 0.104,
+        "valence": 0.313,
+        "tempo": 84.964,
+        "type": "audio_features",
+        "id": "5YZpdsmpazPtBHFbGN8mon",
+        "uri": "spotify:track:5YZpdsmpazPtBHFbGN8mon",
+        "track_href": "https://api.spotify.com/v1/tracks/5YZpdsmpazPtBHFbGN8mon",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5YZpdsmpazPtBHFbGN8mon",
+        "duration_ms": 226667,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0VYchQkqpeEyh95D1pWqy2",
+    "name": "Wat U Sed (feat. Doechii & Kal Banx)",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 163.0,
+    "features": [
+      {
+        "danceability": 0.838,
+        "energy": 0.634,
+        "key": 11,
+        "loudness": -7.018,
+        "mode": 1,
+        "speechiness": 0.258,
+        "acousticness": 0.101,
+        "instrumentalness": 0.13,
+        "liveness": 0.143,
+        "valence": 0.526,
+        "tempo": 163.0,
+        "type": "audio_features",
+        "id": "0VYchQkqpeEyh95D1pWqy2",
+        "uri": "spotify:track:0VYchQkqpeEyh95D1pWqy2",
+        "track_href": "https://api.spotify.com/v1/tracks/0VYchQkqpeEyh95D1pWqy2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0VYchQkqpeEyh95D1pWqy2",
+        "duration_ms": 176683,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2j0sVvS8xk6j411buateBt",
+    "name": "Don't Shoot",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 124.032,
+    "features": [
+      {
+        "danceability": 0.665,
+        "energy": 0.611,
+        "key": 6,
+        "loudness": -7.626,
+        "mode": 1,
+        "speechiness": 0.0609,
+        "acousticness": 0.164,
+        "instrumentalness": 0.000319,
+        "liveness": 0.142,
+        "valence": 0.58,
+        "tempo": 124.032,
+        "type": "audio_features",
+        "id": "2j0sVvS8xk6j411buateBt",
+        "uri": "spotify:track:2j0sVvS8xk6j411buateBt",
+        "track_href": "https://api.spotify.com/v1/tracks/2j0sVvS8xk6j411buateBt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2j0sVvS8xk6j411buateBt",
+        "duration_ms": 141040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "764K7H74QNi24ebPevPWXr",
+    "name": "Chad (feat. YGTUT)",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 127.033,
+    "features": [
+      {
+        "danceability": 0.85,
+        "energy": 0.658,
+        "key": 6,
+        "loudness": -7.255,
+        "mode": 0,
+        "speechiness": 0.0516,
+        "acousticness": 0.108,
+        "instrumentalness": 9.37e-05,
+        "liveness": 0.609,
+        "valence": 0.577,
+        "tempo": 127.033,
+        "type": "audio_features",
+        "id": "764K7H74QNi24ebPevPWXr",
+        "uri": "spotify:track:764K7H74QNi24ebPevPWXr",
+        "track_href": "https://api.spotify.com/v1/tracks/764K7H74QNi24ebPevPWXr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/764K7H74QNi24ebPevPWXr",
+        "duration_ms": 159717,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1gKohc5B0OuqOncIu7JKlL",
+    "name": "9-3 Freestyle",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 145.011,
+    "features": [
+      {
+        "danceability": 0.869,
+        "energy": 0.538,
+        "key": 1,
+        "loudness": -9.392,
+        "mode": 1,
+        "speechiness": 0.221,
+        "acousticness": 0.000498,
+        "instrumentalness": 0.0926,
+        "liveness": 0.0595,
+        "valence": 0.688,
+        "tempo": 145.011,
+        "type": "audio_features",
+        "id": "1gKohc5B0OuqOncIu7JKlL",
+        "uri": "spotify:track:1gKohc5B0OuqOncIu7JKlL",
+        "track_href": "https://api.spotify.com/v1/tracks/1gKohc5B0OuqOncIu7JKlL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1gKohc5B0OuqOncIu7JKlL",
+        "duration_ms": 105912,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2ns1kl3c5NMvGCt2xVMNlI",
+    "name": "Score (feat. SZA & 6LACK)",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 85.173,
+    "features": [
+      {
+        "danceability": 0.5,
+        "energy": 0.515,
+        "key": 7,
+        "loudness": -8.283,
+        "mode": 1,
+        "speechiness": 0.31,
+        "acousticness": 0.442,
+        "instrumentalness": 0.00018,
+        "liveness": 0.0681,
+        "valence": 0.566,
+        "tempo": 85.173,
+        "type": "audio_features",
+        "id": "2ns1kl3c5NMvGCt2xVMNlI",
+        "uri": "spotify:track:2ns1kl3c5NMvGCt2xVMNlI",
+        "track_href": "https://api.spotify.com/v1/tracks/2ns1kl3c5NMvGCt2xVMNlI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ns1kl3c5NMvGCt2xVMNlI",
+        "duration_ms": 200968,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3i9ef14r5QFVbe7b6YdhvU",
+    "name": "THIB",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 149.941,
+    "features": [
+      {
+        "danceability": 0.71,
+        "energy": 0.586,
+        "key": 1,
+        "loudness": -7.056,
+        "mode": 1,
+        "speechiness": 0.471,
+        "acousticness": 0.081,
+        "instrumentalness": 0.00264,
+        "liveness": 0.0869,
+        "valence": 0.651,
+        "tempo": 149.941,
+        "type": "audio_features",
+        "id": "3i9ef14r5QFVbe7b6YdhvU",
+        "uri": "spotify:track:3i9ef14r5QFVbe7b6YdhvU",
+        "track_href": "https://api.spotify.com/v1/tracks/3i9ef14r5QFVbe7b6YdhvU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3i9ef14r5QFVbe7b6YdhvU",
+        "duration_ms": 154517,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2by88u2Ngp8wrJNWeULcvi",
+    "name": "HB2U",
+    "artist": "Isaiah Rashad",
+    "album": "The House Is Burning",
+    "bpm": 120.292,
+    "features": [
+      {
+        "danceability": 0.446,
+        "energy": 0.726,
+        "key": 1,
+        "loudness": -10.047,
+        "mode": 0,
+        "speechiness": 0.254,
+        "acousticness": 0.638,
+        "instrumentalness": 2.24e-06,
+        "liveness": 0.451,
+        "valence": 0.288,
+        "tempo": 120.292,
+        "type": "audio_features",
+        "id": "2by88u2Ngp8wrJNWeULcvi",
+        "uri": "spotify:track:2by88u2Ngp8wrJNWeULcvi",
+        "track_href": "https://api.spotify.com/v1/tracks/2by88u2Ngp8wrJNWeULcvi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2by88u2Ngp8wrJNWeULcvi",
+        "duration_ms": 345487,
+        "time_signature": 3
+      }
+    ]
+  }
+]

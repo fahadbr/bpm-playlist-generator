@@ -1,0 +1,524 @@
+[
+  {
+    "id": "3fpVWegR6YOS1Yk5HSMYIq",
+    "name": "Paranoid",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 159.872,
+    "features": [
+      {
+        "danceability": 0.62,
+        "energy": 0.535,
+        "key": 0,
+        "loudness": -5.428,
+        "mode": 1,
+        "speechiness": 0.0775,
+        "acousticness": 0.038,
+        "instrumentalness": 2.46e-05,
+        "liveness": 0.167,
+        "valence": 0.25,
+        "tempo": 159.872,
+        "type": "audio_features",
+        "id": "3fpVWegR6YOS1Yk5HSMYIq",
+        "uri": "spotify:track:3fpVWegR6YOS1Yk5HSMYIq",
+        "track_href": "https://api.spotify.com/v1/tracks/3fpVWegR6YOS1Yk5HSMYIq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3fpVWegR6YOS1Yk5HSMYIq",
+        "duration_ms": 221787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5VuxWXbt7XENQCtE9TzpTv",
+    "name": "Spoil My Night (feat. Swae Lee)",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 160.986,
+    "features": [
+      {
+        "danceability": 0.671,
+        "energy": 0.716,
+        "key": 1,
+        "loudness": -2.714,
+        "mode": 1,
+        "speechiness": 0.034,
+        "acousticness": 0.341,
+        "instrumentalness": 2.23e-05,
+        "liveness": 0.106,
+        "valence": 0.238,
+        "tempo": 160.986,
+        "type": "audio_features",
+        "id": "5VuxWXbt7XENQCtE9TzpTv",
+        "uri": "spotify:track:5VuxWXbt7XENQCtE9TzpTv",
+        "track_href": "https://api.spotify.com/v1/tracks/5VuxWXbt7XENQCtE9TzpTv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5VuxWXbt7XENQCtE9TzpTv",
+        "duration_ms": 194560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2VdT56BGpdqNHUgOe1j5vc",
+    "name": "Rich & Sad",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 152.132,
+    "features": [
+      {
+        "danceability": 0.596,
+        "energy": 0.571,
+        "key": 2,
+        "loudness": -4.997,
+        "mode": 1,
+        "speechiness": 0.0716,
+        "acousticness": 0.201,
+        "instrumentalness": 0,
+        "liveness": 0.0969,
+        "valence": 0.282,
+        "tempo": 152.132,
+        "type": "audio_features",
+        "id": "2VdT56BGpdqNHUgOe1j5vc",
+        "uri": "spotify:track:2VdT56BGpdqNHUgOe1j5vc",
+        "track_href": "https://api.spotify.com/v1/tracks/2VdT56BGpdqNHUgOe1j5vc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2VdT56BGpdqNHUgOe1j5vc",
+        "duration_ms": 206453,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5lZZmityu9TAjNvSY6GLhR",
+    "name": "Zack And Codeine",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 138.033,
+    "features": [
+      {
+        "danceability": 0.738,
+        "energy": 0.824,
+        "key": 5,
+        "loudness": -5.165,
+        "mode": 0,
+        "speechiness": 0.0437,
+        "acousticness": 0.148,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "valence": 0.386,
+        "tempo": 138.033,
+        "type": "audio_features",
+        "id": "5lZZmityu9TAjNvSY6GLhR",
+        "uri": "spotify:track:5lZZmityu9TAjNvSY6GLhR",
+        "track_href": "https://api.spotify.com/v1/tracks/5lZZmityu9TAjNvSY6GLhR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5lZZmityu9TAjNvSY6GLhR",
+        "duration_ms": 204360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5ffntNJnJOeFv7b7DCd0Bw",
+    "name": "Takin' Shots",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 120.049,
+    "features": [
+      {
+        "danceability": 0.763,
+        "energy": 0.621,
+        "key": 0,
+        "loudness": -6.241,
+        "mode": 1,
+        "speechiness": 0.0865,
+        "acousticness": 0.609,
+        "instrumentalness": 0,
+        "liveness": 0.464,
+        "valence": 0.596,
+        "tempo": 120.049,
+        "type": "audio_features",
+        "id": "5ffntNJnJOeFv7b7DCd0Bw",
+        "uri": "spotify:track:5ffntNJnJOeFv7b7DCd0Bw",
+        "track_href": "https://api.spotify.com/v1/tracks/5ffntNJnJOeFv7b7DCd0Bw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ffntNJnJOeFv7b7DCd0Bw",
+        "duration_ms": 216747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0e7ipj03S05BNilyu5bRzt",
+    "name": "rockstar (feat. 21 Savage)",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 159.798,
+    "features": [
+      {
+        "danceability": 0.585,
+        "energy": 0.52,
+        "key": 5,
+        "loudness": -6.136,
+        "mode": 0,
+        "speechiness": 0.0713,
+        "acousticness": 0.124,
+        "instrumentalness": 7.75e-05,
+        "liveness": 0.131,
+        "valence": 0.129,
+        "tempo": 159.798,
+        "type": "audio_features",
+        "id": "0e7ipj03S05BNilyu5bRzt",
+        "uri": "spotify:track:0e7ipj03S05BNilyu5bRzt",
+        "track_href": "https://api.spotify.com/v1/tracks/0e7ipj03S05BNilyu5bRzt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0e7ipj03S05BNilyu5bRzt",
+        "duration_ms": 218147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "09IOPhEh1OMe0HD9b36FJk",
+    "name": "Over Now",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 164.029,
+    "features": [
+      {
+        "danceability": 0.569,
+        "energy": 0.777,
+        "key": 4,
+        "loudness": -4.041,
+        "mode": 0,
+        "speechiness": 0.0834,
+        "acousticness": 0.137,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "valence": 0.181,
+        "tempo": 164.029,
+        "type": "audio_features",
+        "id": "09IOPhEh1OMe0HD9b36FJk",
+        "uri": "spotify:track:09IOPhEh1OMe0HD9b36FJk",
+        "track_href": "https://api.spotify.com/v1/tracks/09IOPhEh1OMe0HD9b36FJk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/09IOPhEh1OMe0HD9b36FJk",
+        "duration_ms": 246987,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3swc6WTsr7rl9DqQKQA55C",
+    "name": "Psycho (feat. Ty Dolla $ign)",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 140.06,
+    "features": [
+      {
+        "danceability": 0.75,
+        "energy": 0.56,
+        "key": 8,
+        "loudness": -8.094,
+        "mode": 1,
+        "speechiness": 0.105,
+        "acousticness": 0.546,
+        "instrumentalness": 0,
+        "liveness": 0.111,
+        "valence": 0.459,
+        "tempo": 140.06,
+        "type": "audio_features",
+        "id": "3swc6WTsr7rl9DqQKQA55C",
+        "uri": "spotify:track:3swc6WTsr7rl9DqQKQA55C",
+        "track_href": "https://api.spotify.com/v1/tracks/3swc6WTsr7rl9DqQKQA55C",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3swc6WTsr7rl9DqQKQA55C",
+        "duration_ms": 221440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7dt6x5M1jzdTEt8oCbisTK",
+    "name": "Better Now",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 145.07,
+    "features": [
+      {
+        "danceability": 0.674,
+        "energy": 0.578,
+        "key": 10,
+        "loudness": -5.804,
+        "mode": 1,
+        "speechiness": 0.0408,
+        "acousticness": 0.331,
+        "instrumentalness": 0,
+        "liveness": 0.135,
+        "valence": 0.34,
+        "tempo": 145.07,
+        "type": "audio_features",
+        "id": "7dt6x5M1jzdTEt8oCbisTK",
+        "uri": "spotify:track:7dt6x5M1jzdTEt8oCbisTK",
+        "track_href": "https://api.spotify.com/v1/tracks/7dt6x5M1jzdTEt8oCbisTK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7dt6x5M1jzdTEt8oCbisTK",
+        "duration_ms": 231267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6IaieqiCVvsNvEt6Y7yOFa",
+    "name": "Ball For Me (feat. Nicki Minaj)",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 134.042,
+    "features": [
+      {
+        "danceability": 0.774,
+        "energy": 0.55,
+        "key": 6,
+        "loudness": -4.166,
+        "mode": 0,
+        "speechiness": 0.301,
+        "acousticness": 0.51,
+        "instrumentalness": 0,
+        "liveness": 0.0786,
+        "valence": 0.538,
+        "tempo": 134.042,
+        "type": "audio_features",
+        "id": "6IaieqiCVvsNvEt6Y7yOFa",
+        "uri": "spotify:track:6IaieqiCVvsNvEt6Y7yOFa",
+        "track_href": "https://api.spotify.com/v1/tracks/6IaieqiCVvsNvEt6Y7yOFa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6IaieqiCVvsNvEt6Y7yOFa",
+        "duration_ms": 206267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4qWCFTuNnmGNdY4egtb4ZY",
+    "name": "Otherside",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 104.929,
+    "features": [
+      {
+        "danceability": 0.652,
+        "energy": 0.641,
+        "key": 9,
+        "loudness": -5.667,
+        "mode": 0,
+        "speechiness": 0.0353,
+        "acousticness": 0.324,
+        "instrumentalness": 2.73e-06,
+        "liveness": 0.208,
+        "valence": 0.111,
+        "tempo": 104.929,
+        "type": "audio_features",
+        "id": "4qWCFTuNnmGNdY4egtb4ZY",
+        "uri": "spotify:track:4qWCFTuNnmGNdY4egtb4ZY",
+        "track_href": "https://api.spotify.com/v1/tracks/4qWCFTuNnmGNdY4egtb4ZY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4qWCFTuNnmGNdY4egtb4ZY",
+        "duration_ms": 228227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4H7WNRErSbONkM06blBoGc",
+    "name": "Stay",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 86.042,
+    "features": [
+      {
+        "danceability": 0.506,
+        "energy": 0.48,
+        "key": 5,
+        "loudness": -5.418,
+        "mode": 1,
+        "speechiness": 0.0266,
+        "acousticness": 0.449,
+        "instrumentalness": 0,
+        "liveness": 0.147,
+        "valence": 0.351,
+        "tempo": 86.042,
+        "type": "audio_features",
+        "id": "4H7WNRErSbONkM06blBoGc",
+        "uri": "spotify:track:4H7WNRErSbONkM06blBoGc",
+        "track_href": "https://api.spotify.com/v1/tracks/4H7WNRErSbONkM06blBoGc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4H7WNRErSbONkM06blBoGc",
+        "duration_ms": 204427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1ZemPoaj7LBj1RAQrb89EC",
+    "name": "Blame It On Me",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 121.875,
+    "features": [
+      {
+        "danceability": 0.652,
+        "energy": 0.592,
+        "key": 11,
+        "loudness": -7.274,
+        "mode": 0,
+        "speechiness": 0.0418,
+        "acousticness": 0.142,
+        "instrumentalness": 5.61e-06,
+        "liveness": 0.164,
+        "valence": 0.271,
+        "tempo": 121.875,
+        "type": "audio_features",
+        "id": "1ZemPoaj7LBj1RAQrb89EC",
+        "uri": "spotify:track:1ZemPoaj7LBj1RAQrb89EC",
+        "track_href": "https://api.spotify.com/v1/tracks/1ZemPoaj7LBj1RAQrb89EC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ZemPoaj7LBj1RAQrb89EC",
+        "duration_ms": 261800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "688QpQAwqsLdBR6lr13wK1",
+    "name": "Same Bitches (feat. G-Eazy & YG)",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 100.005,
+    "features": [
+      {
+        "danceability": 0.731,
+        "energy": 0.774,
+        "key": 10,
+        "loudness": -5.273,
+        "mode": 0,
+        "speechiness": 0.0555,
+        "acousticness": 0.434,
+        "instrumentalness": 3.34e-06,
+        "liveness": 0.114,
+        "valence": 0.22,
+        "tempo": 100.005,
+        "type": "audio_features",
+        "id": "688QpQAwqsLdBR6lr13wK1",
+        "uri": "spotify:track:688QpQAwqsLdBR6lr13wK1",
+        "track_href": "https://api.spotify.com/v1/tracks/688QpQAwqsLdBR6lr13wK1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/688QpQAwqsLdBR6lr13wK1",
+        "duration_ms": 212467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0R6Jlsq25eZB3Wftpxi3oF",
+    "name": "Jonestown (Interlude)",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 77.594,
+    "features": [
+      {
+        "danceability": 0.38,
+        "energy": 0.454,
+        "key": 0,
+        "loudness": -10.271,
+        "mode": 0,
+        "speechiness": 0.0362,
+        "acousticness": 0.755,
+        "instrumentalness": 0.623,
+        "liveness": 0.263,
+        "valence": 0.288,
+        "tempo": 77.594,
+        "type": "audio_features",
+        "id": "0R6Jlsq25eZB3Wftpxi3oF",
+        "uri": "spotify:track:0R6Jlsq25eZB3Wftpxi3oF",
+        "track_href": "https://api.spotify.com/v1/tracks/0R6Jlsq25eZB3Wftpxi3oF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0R6Jlsq25eZB3Wftpxi3oF",
+        "duration_ms": 112013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1D2L6MefbXon28PzIk9I3r",
+    "name": "92 Explorer",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 146.047,
+    "features": [
+      {
+        "danceability": 0.798,
+        "energy": 0.733,
+        "key": 7,
+        "loudness": -4.811,
+        "mode": 0,
+        "speechiness": 0.0475,
+        "acousticness": 0.265,
+        "instrumentalness": 1.26e-06,
+        "liveness": 0.114,
+        "valence": 0.862,
+        "tempo": 146.047,
+        "type": "audio_features",
+        "id": "1D2L6MefbXon28PzIk9I3r",
+        "uri": "spotify:track:1D2L6MefbXon28PzIk9I3r",
+        "track_href": "https://api.spotify.com/v1/tracks/1D2L6MefbXon28PzIk9I3r",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1D2L6MefbXon28PzIk9I3r",
+        "duration_ms": 211427,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "32lItqlMi4LBhb4k0BaSaC",
+    "name": "Candy Paint",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 180.044,
+    "features": [
+      {
+        "danceability": 0.66,
+        "energy": 0.667,
+        "key": 4,
+        "loudness": -5.941,
+        "mode": 1,
+        "speechiness": 0.156,
+        "acousticness": 0.64,
+        "instrumentalness": 1.22e-06,
+        "liveness": 0.0753,
+        "valence": 0.381,
+        "tempo": 180.044,
+        "type": "audio_features",
+        "id": "32lItqlMi4LBhb4k0BaSaC",
+        "uri": "spotify:track:32lItqlMi4LBhb4k0BaSaC",
+        "track_href": "https://api.spotify.com/v1/tracks/32lItqlMi4LBhb4k0BaSaC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/32lItqlMi4LBhb4k0BaSaC",
+        "duration_ms": 227533,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0MrRAUcB8AZiB9ue2VOBYe",
+    "name": "Sugar Wraith",
+    "artist": "Post Malone",
+    "album": "beerbongs & bentleys",
+    "bpm": 164.026,
+    "features": [
+      {
+        "danceability": 0.607,
+        "energy": 0.775,
+        "key": 5,
+        "loudness": -4.269,
+        "mode": 0,
+        "speechiness": 0.067,
+        "acousticness": 0.262,
+        "instrumentalness": 0,
+        "liveness": 0.1,
+        "valence": 0.307,
+        "tempo": 164.026,
+        "type": "audio_features",
+        "id": "0MrRAUcB8AZiB9ue2VOBYe",
+        "uri": "spotify:track:0MrRAUcB8AZiB9ue2VOBYe",
+        "track_href": "https://api.spotify.com/v1/tracks/0MrRAUcB8AZiB9ue2VOBYe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0MrRAUcB8AZiB9ue2VOBYe",
+        "duration_ms": 228147,
+        "time_signature": 4
+      }
+    ]
+  }
+]

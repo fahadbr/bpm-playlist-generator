@@ -1,0 +1,466 @@
+[
+  {
+    "id": "1gXH8hT9dxsBqbRy7h2iC8",
+    "name": "F*ck Your Ethnicity",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 150.967,
+    "features": [
+      {
+        "danceability": 0.601,
+        "energy": 0.883,
+        "key": 0,
+        "loudness": -6.944,
+        "mode": 1,
+        "speechiness": 0.328,
+        "acousticness": 0.392,
+        "instrumentalness": 1.93e-05,
+        "liveness": 0.397,
+        "valence": 0.52,
+        "tempo": 150.967,
+        "type": "audio_features",
+        "id": "1gXH8hT9dxsBqbRy7h2iC8",
+        "uri": "spotify:track:1gXH8hT9dxsBqbRy7h2iC8",
+        "track_href": "https://api.spotify.com/v1/tracks/1gXH8hT9dxsBqbRy7h2iC8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1gXH8hT9dxsBqbRy7h2iC8",
+        "duration_ms": 224672,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6cfVDaIdvDtYH91RqC6Wox",
+    "name": "Hol' Up",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 155.983,
+    "features": [
+      {
+        "danceability": 0.607,
+        "energy": 0.869,
+        "key": 5,
+        "loudness": -5.271,
+        "mode": 1,
+        "speechiness": 0.345,
+        "acousticness": 0.781,
+        "instrumentalness": 0,
+        "liveness": 0.137,
+        "valence": 0.577,
+        "tempo": 155.983,
+        "type": "audio_features",
+        "id": "6cfVDaIdvDtYH91RqC6Wox",
+        "uri": "spotify:track:6cfVDaIdvDtYH91RqC6Wox",
+        "track_href": "https://api.spotify.com/v1/tracks/6cfVDaIdvDtYH91RqC6Wox",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6cfVDaIdvDtYH91RqC6Wox",
+        "duration_ms": 173158,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2Fw5S2gaOSZzdN5dFoC2dj",
+    "name": "A.D.H.D",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 157.74,
+    "features": [
+      {
+        "danceability": 0.609,
+        "energy": 0.799,
+        "key": 9,
+        "loudness": -6.883,
+        "mode": 1,
+        "speechiness": 0.24,
+        "acousticness": 0.33,
+        "instrumentalness": 0,
+        "liveness": 0.108,
+        "valence": 0.582,
+        "tempo": 157.74,
+        "type": "audio_features",
+        "id": "2Fw5S2gaOSZzdN5dFoC2dj",
+        "uri": "spotify:track:2Fw5S2gaOSZzdN5dFoC2dj",
+        "track_href": "https://api.spotify.com/v1/tracks/2Fw5S2gaOSZzdN5dFoC2dj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Fw5S2gaOSZzdN5dFoC2dj",
+        "duration_ms": 215509,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3L2YOO6dDiB91M1AbQ0CCR",
+    "name": "No Make-Up (Her Vice)",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 91.002,
+    "features": [
+      {
+        "danceability": 0.535,
+        "energy": 0.696,
+        "key": 5,
+        "loudness": -7.181,
+        "mode": 0,
+        "speechiness": 0.0901,
+        "acousticness": 0.541,
+        "instrumentalness": 0.00521,
+        "liveness": 0.63,
+        "valence": 0.213,
+        "tempo": 91.002,
+        "type": "audio_features",
+        "id": "3L2YOO6dDiB91M1AbQ0CCR",
+        "uri": "spotify:track:3L2YOO6dDiB91M1AbQ0CCR",
+        "track_href": "https://api.spotify.com/v1/tracks/3L2YOO6dDiB91M1AbQ0CCR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3L2YOO6dDiB91M1AbQ0CCR",
+        "duration_ms": 235921,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "22gXA7HlEd0z13zdc3hju7",
+    "name": "Tammy's Song (Her Evils)",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 97.317,
+    "features": [
+      {
+        "danceability": 0.477,
+        "energy": 0.835,
+        "key": 9,
+        "loudness": -5.942,
+        "mode": 0,
+        "speechiness": 0.438,
+        "acousticness": 0.924,
+        "instrumentalness": 0.000508,
+        "liveness": 0.129,
+        "valence": 0.52,
+        "tempo": 97.317,
+        "type": "audio_features",
+        "id": "22gXA7HlEd0z13zdc3hju7",
+        "uri": "spotify:track:22gXA7HlEd0z13zdc3hju7",
+        "track_href": "https://api.spotify.com/v1/tracks/22gXA7HlEd0z13zdc3hju7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/22gXA7HlEd0z13zdc3hju7",
+        "duration_ms": 161671,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3DBFOXJKitLKUjlyOCX7ow",
+    "name": "Chapter Six",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 67.9,
+    "features": [
+      {
+        "danceability": 0.51,
+        "energy": 0.537,
+        "key": 4,
+        "loudness": -11.297,
+        "mode": 0,
+        "speechiness": 0.0823,
+        "acousticness": 0.533,
+        "instrumentalness": 0,
+        "liveness": 0.185,
+        "valence": 0.67,
+        "tempo": 67.9,
+        "type": "audio_features",
+        "id": "3DBFOXJKitLKUjlyOCX7ow",
+        "uri": "spotify:track:3DBFOXJKitLKUjlyOCX7ow",
+        "track_href": "https://api.spotify.com/v1/tracks/3DBFOXJKitLKUjlyOCX7ow",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3DBFOXJKitLKUjlyOCX7ow",
+        "duration_ms": 161138,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "71d1KcqByBe8cl0NhFUKVU",
+    "name": "Ronald Reagan Era",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 167.469,
+    "features": [
+      {
+        "danceability": 0.424,
+        "energy": 0.828,
+        "key": 1,
+        "loudness": -4.991,
+        "mode": 0,
+        "speechiness": 0.335,
+        "acousticness": 0.0152,
+        "instrumentalness": 0,
+        "liveness": 0.389,
+        "valence": 0.3,
+        "tempo": 167.469,
+        "type": "audio_features",
+        "id": "71d1KcqByBe8cl0NhFUKVU",
+        "uri": "spotify:track:71d1KcqByBe8cl0NhFUKVU",
+        "track_href": "https://api.spotify.com/v1/tracks/71d1KcqByBe8cl0NhFUKVU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/71d1KcqByBe8cl0NhFUKVU",
+        "duration_ms": 216900,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5eOmhymcp3AisKPVAytrs6",
+    "name": "Poe Mans Dreams (His Vice)",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 88.124,
+    "features": [
+      {
+        "danceability": 0.736,
+        "energy": 0.892,
+        "key": 1,
+        "loudness": -5.217,
+        "mode": 1,
+        "speechiness": 0.28,
+        "acousticness": 0.619,
+        "instrumentalness": 1.14e-06,
+        "liveness": 0.111,
+        "valence": 0.597,
+        "tempo": 88.124,
+        "type": "audio_features",
+        "id": "5eOmhymcp3AisKPVAytrs6",
+        "uri": "spotify:track:5eOmhymcp3AisKPVAytrs6",
+        "track_href": "https://api.spotify.com/v1/tracks/5eOmhymcp3AisKPVAytrs6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5eOmhymcp3AisKPVAytrs6",
+        "duration_ms": 261874,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "12bCgkFnyyTI8B1OmmRhbx",
+    "name": "The Spiteful Chant",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 127.018,
+    "features": [
+      {
+        "danceability": 0.596,
+        "energy": 0.783,
+        "key": 0,
+        "loudness": -4.356,
+        "mode": 0,
+        "speechiness": 0.0313,
+        "acousticness": 0.0506,
+        "instrumentalness": 0,
+        "liveness": 0.181,
+        "valence": 0.334,
+        "tempo": 127.018,
+        "type": "audio_features",
+        "id": "12bCgkFnyyTI8B1OmmRhbx",
+        "uri": "spotify:track:12bCgkFnyyTI8B1OmmRhbx",
+        "track_href": "https://api.spotify.com/v1/tracks/12bCgkFnyyTI8B1OmmRhbx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/12bCgkFnyyTI8B1OmmRhbx",
+        "duration_ms": 320957,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "63OYaVrz3LIarx3l2DxCKD",
+    "name": "Chapter Ten",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 135.772,
+    "features": [
+      {
+        "danceability": 0.515,
+        "energy": 0.738,
+        "key": 11,
+        "loudness": -6.391,
+        "mode": 0,
+        "speechiness": 0.215,
+        "acousticness": 0.0355,
+        "instrumentalness": 0.000373,
+        "liveness": 0.287,
+        "valence": 0.541,
+        "tempo": 135.772,
+        "type": "audio_features",
+        "id": "63OYaVrz3LIarx3l2DxCKD",
+        "uri": "spotify:track:63OYaVrz3LIarx3l2DxCKD",
+        "track_href": "https://api.spotify.com/v1/tracks/63OYaVrz3LIarx3l2DxCKD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/63OYaVrz3LIarx3l2DxCKD",
+        "duration_ms": 75535,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7AaET28qSzlkFBcySHh4ES",
+    "name": "Keisha's Song (Her Pain)",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 85.126,
+    "features": [
+      {
+        "danceability": 0.465,
+        "energy": 0.854,
+        "key": 7,
+        "loudness": -7.564,
+        "mode": 1,
+        "speechiness": 0.377,
+        "acousticness": 0.429,
+        "instrumentalness": 0,
+        "liveness": 0.618,
+        "valence": 0.199,
+        "tempo": 85.126,
+        "type": "audio_features",
+        "id": "7AaET28qSzlkFBcySHh4ES",
+        "uri": "spotify:track:7AaET28qSzlkFBcySHh4ES",
+        "track_href": "https://api.spotify.com/v1/tracks/7AaET28qSzlkFBcySHh4ES",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7AaET28qSzlkFBcySHh4ES",
+        "duration_ms": 227291,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2lD6AoA8qf2t4Dkf2TcmNK",
+    "name": "Rigamortus",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 178.012,
+    "features": [
+      {
+        "danceability": 0.52,
+        "energy": 0.807,
+        "key": 2,
+        "loudness": -6.281,
+        "mode": 1,
+        "speechiness": 0.409,
+        "acousticness": 0.24,
+        "instrumentalness": 0.00257,
+        "liveness": 0.199,
+        "valence": 0.628,
+        "tempo": 178.012,
+        "type": "audio_features",
+        "id": "2lD6AoA8qf2t4Dkf2TcmNK",
+        "uri": "spotify:track:2lD6AoA8qf2t4Dkf2TcmNK",
+        "track_href": "https://api.spotify.com/v1/tracks/2lD6AoA8qf2t4Dkf2TcmNK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2lD6AoA8qf2t4Dkf2TcmNK",
+        "duration_ms": 168591,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2QVYTN3Z0IGLVF7YEQN5EJ",
+    "name": "Kush & Corinthians",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 176.781,
+    "features": [
+      {
+        "danceability": 0.383,
+        "energy": 0.731,
+        "key": 1,
+        "loudness": -5.996,
+        "mode": 1,
+        "speechiness": 0.201,
+        "acousticness": 0.726,
+        "instrumentalness": 0,
+        "liveness": 0.504,
+        "valence": 0.306,
+        "tempo": 176.781,
+        "type": "audio_features",
+        "id": "2QVYTN3Z0IGLVF7YEQN5EJ",
+        "uri": "spotify:track:2QVYTN3Z0IGLVF7YEQN5EJ",
+        "track_href": "https://api.spotify.com/v1/tracks/2QVYTN3Z0IGLVF7YEQN5EJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2QVYTN3Z0IGLVF7YEQN5EJ",
+        "duration_ms": 304668,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1FRF0NHXBW4ecdulGkTzJY",
+    "name": "Blow My High (Members Only)",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 119.933,
+    "features": [
+      {
+        "danceability": 0.959,
+        "energy": 0.524,
+        "key": 9,
+        "loudness": -8.145,
+        "mode": 0,
+        "speechiness": 0.274,
+        "acousticness": 0.316,
+        "instrumentalness": 0,
+        "liveness": 0.274,
+        "valence": 0.84,
+        "tempo": 119.933,
+        "type": "audio_features",
+        "id": "1FRF0NHXBW4ecdulGkTzJY",
+        "uri": "spotify:track:1FRF0NHXBW4ecdulGkTzJY",
+        "track_href": "https://api.spotify.com/v1/tracks/1FRF0NHXBW4ecdulGkTzJY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1FRF0NHXBW4ecdulGkTzJY",
+        "duration_ms": 215792,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4VaL54I6TlzghRTzOhfr7L",
+    "name": "Ab-Souls Outro",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 115.79,
+    "features": [
+      {
+        "danceability": 0.471,
+        "energy": 0.839,
+        "key": 5,
+        "loudness": -6.852,
+        "mode": 0,
+        "speechiness": 0.379,
+        "acousticness": 0.116,
+        "instrumentalness": 0,
+        "liveness": 0.658,
+        "valence": 0.639,
+        "tempo": 115.79,
+        "type": "audio_features",
+        "id": "4VaL54I6TlzghRTzOhfr7L",
+        "uri": "spotify:track:4VaL54I6TlzghRTzOhfr7L",
+        "track_href": "https://api.spotify.com/v1/tracks/4VaL54I6TlzghRTzOhfr7L",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4VaL54I6TlzghRTzOhfr7L",
+        "duration_ms": 350002,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4WEuEfFiczWxblHyuucSBL",
+    "name": "HiiiPower",
+    "artist": "Kendrick Lamar",
+    "album": "Section.80",
+    "bpm": 81.024,
+    "features": [
+      {
+        "danceability": 0.695,
+        "energy": 0.827,
+        "key": 6,
+        "loudness": -5.742,
+        "mode": 0,
+        "speechiness": 0.282,
+        "acousticness": 0.179,
+        "instrumentalness": 0,
+        "liveness": 0.283,
+        "valence": 0.538,
+        "tempo": 81.024,
+        "type": "audio_features",
+        "id": "4WEuEfFiczWxblHyuucSBL",
+        "uri": "spotify:track:4WEuEfFiczWxblHyuucSBL",
+        "track_href": "https://api.spotify.com/v1/tracks/4WEuEfFiczWxblHyuucSBL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4WEuEfFiczWxblHyuucSBL",
+        "duration_ms": 279855,
+        "time_signature": 4
+      }
+    ]
+  }
+]

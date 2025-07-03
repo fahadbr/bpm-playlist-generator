@@ -1,0 +1,350 @@
+[
+  {
+    "id": "5ozqshq2dtU7SYCpCBu0NE",
+    "name": "One More Year",
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "bpm": 114.009,
+    "features": [
+      {
+        "danceability": 0.602,
+        "energy": 0.88,
+        "key": 1,
+        "loudness": -5.414,
+        "mode": 1,
+        "speechiness": 0.0354,
+        "acousticness": 0.057,
+        "instrumentalness": 0.46,
+        "liveness": 0.284,
+        "valence": 0.493,
+        "tempo": 114.009,
+        "type": "audio_features",
+        "id": "5ozqshq2dtU7SYCpCBu0NE",
+        "uri": "spotify:track:5ozqshq2dtU7SYCpCBu0NE",
+        "track_href": "https://api.spotify.com/v1/tracks/5ozqshq2dtU7SYCpCBu0NE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ozqshq2dtU7SYCpCBu0NE",
+        "duration_ms": 324013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6WCXBUFa0z3l9DoOY3k5Xe",
+    "name": "Instant Destiny",
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "bpm": 165.935,
+    "features": [
+      {
+        "danceability": 0.381,
+        "energy": 0.829,
+        "key": 10,
+        "loudness": -4.564,
+        "mode": 1,
+        "speechiness": 0.0598,
+        "acousticness": 0.0226,
+        "instrumentalness": 0.000274,
+        "liveness": 0.402,
+        "valence": 0.509,
+        "tempo": 165.935,
+        "type": "audio_features",
+        "id": "6WCXBUFa0z3l9DoOY3k5Xe",
+        "uri": "spotify:track:6WCXBUFa0z3l9DoOY3k5Xe",
+        "track_href": "https://api.spotify.com/v1/tracks/6WCXBUFa0z3l9DoOY3k5Xe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6WCXBUFa0z3l9DoOY3k5Xe",
+        "duration_ms": 194707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5hM5arv9KDbCHS0k9uqwjr",
+    "name": "Borderline",
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "bpm": 97.96,
+    "features": [
+      {
+        "danceability": 0.621,
+        "energy": 0.873,
+        "key": 5,
+        "loudness": -3.067,
+        "mode": 0,
+        "speechiness": 0.0369,
+        "acousticness": 0.0406,
+        "instrumentalness": 9.1e-06,
+        "liveness": 0.0824,
+        "valence": 0.873,
+        "tempo": 97.96,
+        "type": "audio_features",
+        "id": "5hM5arv9KDbCHS0k9uqwjr",
+        "uri": "spotify:track:5hM5arv9KDbCHS0k9uqwjr",
+        "track_href": "https://api.spotify.com/v1/tracks/5hM5arv9KDbCHS0k9uqwjr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hM5arv9KDbCHS0k9uqwjr",
+        "duration_ms": 237800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1KcOU0q9AMXV9xi4tSzzCc",
+    "name": "Posthumous Forgiveness",
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "bpm": 153.978,
+    "features": [
+      {
+        "danceability": 0.367,
+        "energy": 0.613,
+        "key": 7,
+        "loudness": -5.646,
+        "mode": 1,
+        "speechiness": 0.0297,
+        "acousticness": 0.0508,
+        "instrumentalness": 0.00171,
+        "liveness": 0.282,
+        "valence": 0.0966,
+        "tempo": 153.978,
+        "type": "audio_features",
+        "id": "1KcOU0q9AMXV9xi4tSzzCc",
+        "uri": "spotify:track:1KcOU0q9AMXV9xi4tSzzCc",
+        "track_href": "https://api.spotify.com/v1/tracks/1KcOU0q9AMXV9xi4tSzzCc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1KcOU0q9AMXV9xi4tSzzCc",
+        "duration_ms": 366067,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3LbZIhU0smEU5SUnxod4j4",
+    "name": "Breathe Deeper",
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "bpm": 104.998,
+    "features": [
+      {
+        "danceability": 0.664,
+        "energy": 0.848,
+        "key": 11,
+        "loudness": -4.51,
+        "mode": 0,
+        "speechiness": 0.0322,
+        "acousticness": 0.0245,
+        "instrumentalness": 0.000127,
+        "liveness": 0.172,
+        "valence": 0.502,
+        "tempo": 104.998,
+        "type": "audio_features",
+        "id": "3LbZIhU0smEU5SUnxod4j4",
+        "uri": "spotify:track:3LbZIhU0smEU5SUnxod4j4",
+        "track_href": "https://api.spotify.com/v1/tracks/3LbZIhU0smEU5SUnxod4j4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3LbZIhU0smEU5SUnxod4j4",
+        "duration_ms": 372867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "666PdikRnUzdvjT9p5wWND",
+    "name": "Tomorrow's Dust",
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "bpm": 99.002,
+    "features": [
+      {
+        "danceability": 0.616,
+        "energy": 0.804,
+        "key": 0,
+        "loudness": -5.568,
+        "mode": 1,
+        "speechiness": 0.0427,
+        "acousticness": 0.0124,
+        "instrumentalness": 0.0998,
+        "liveness": 0.553,
+        "valence": 0.627,
+        "tempo": 99.002,
+        "type": "audio_features",
+        "id": "666PdikRnUzdvjT9p5wWND",
+        "uri": "spotify:track:666PdikRnUzdvjT9p5wWND",
+        "track_href": "https://api.spotify.com/v1/tracks/666PdikRnUzdvjT9p5wWND",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/666PdikRnUzdvjT9p5wWND",
+        "duration_ms": 326840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0IuE6FnXPCdZ8NLuuvJRhb",
+    "name": "On Track",
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "bpm": 163.861,
+    "features": [
+      {
+        "danceability": 0.388,
+        "energy": 0.648,
+        "key": 2,
+        "loudness": -5.578,
+        "mode": 1,
+        "speechiness": 0.038,
+        "acousticness": 0.116,
+        "instrumentalness": 4.19e-06,
+        "liveness": 0.082,
+        "valence": 0.112,
+        "tempo": 163.861,
+        "type": "audio_features",
+        "id": "0IuE6FnXPCdZ8NLuuvJRhb",
+        "uri": "spotify:track:0IuE6FnXPCdZ8NLuuvJRhb",
+        "track_href": "https://api.spotify.com/v1/tracks/0IuE6FnXPCdZ8NLuuvJRhb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0IuE6FnXPCdZ8NLuuvJRhb",
+        "duration_ms": 301787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5JWPUEov2wlX7c0jhYZpeB",
+    "name": "Lost In Yesterday",
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "bpm": 183.059,
+    "features": [
+      {
+        "danceability": 0.569,
+        "energy": 0.84,
+        "key": 1,
+        "loudness": -4.123,
+        "mode": 1,
+        "speechiness": 0.118,
+        "acousticness": 0.0295,
+        "instrumentalness": 0.000118,
+        "liveness": 0.0995,
+        "valence": 0.749,
+        "tempo": 183.059,
+        "type": "audio_features",
+        "id": "5JWPUEov2wlX7c0jhYZpeB",
+        "uri": "spotify:track:5JWPUEov2wlX7c0jhYZpeB",
+        "track_href": "https://api.spotify.com/v1/tracks/5JWPUEov2wlX7c0jhYZpeB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5JWPUEov2wlX7c0jhYZpeB",
+        "duration_ms": 249587,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "6RZmhpvukfyeSURhf4kZ0d",
+    "name": "Is It True",
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "bpm": 118.018,
+    "features": [
+      {
+        "danceability": 0.731,
+        "energy": 0.664,
+        "key": 0,
+        "loudness": -5.474,
+        "mode": 1,
+        "speechiness": 0.0302,
+        "acousticness": 0.00307,
+        "instrumentalness": 0.35,
+        "liveness": 0.133,
+        "valence": 0.661,
+        "tempo": 118.018,
+        "type": "audio_features",
+        "id": "6RZmhpvukfyeSURhf4kZ0d",
+        "uri": "spotify:track:6RZmhpvukfyeSURhf4kZ0d",
+        "track_href": "https://api.spotify.com/v1/tracks/6RZmhpvukfyeSURhf4kZ0d",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6RZmhpvukfyeSURhf4kZ0d",
+        "duration_ms": 239267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "558ubozatFQlweufvHa3Ip",
+    "name": "It Might Be Time",
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "bpm": 115.946,
+    "features": [
+      {
+        "danceability": 0.585,
+        "energy": 0.781,
+        "key": 2,
+        "loudness": -3.808,
+        "mode": 1,
+        "speechiness": 0.0457,
+        "acousticness": 0.021,
+        "instrumentalness": 0.000187,
+        "liveness": 0.627,
+        "valence": 0.336,
+        "tempo": 115.946,
+        "type": "audio_features",
+        "id": "558ubozatFQlweufvHa3Ip",
+        "uri": "spotify:track:558ubozatFQlweufvHa3Ip",
+        "track_href": "https://api.spotify.com/v1/tracks/558ubozatFQlweufvHa3Ip",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/558ubozatFQlweufvHa3Ip",
+        "duration_ms": 273027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1unBUyjeQUDiJ8N89XiDrr",
+    "name": "Glimmer",
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "bpm": 117.911,
+    "features": [
+      {
+        "danceability": 0.673,
+        "energy": 0.627,
+        "key": 5,
+        "loudness": -8.469,
+        "mode": 0,
+        "speechiness": 0.0377,
+        "acousticness": 0.136,
+        "instrumentalness": 0.424,
+        "liveness": 0.366,
+        "valence": 0.761,
+        "tempo": 117.911,
+        "type": "audio_features",
+        "id": "1unBUyjeQUDiJ8N89XiDrr",
+        "uri": "spotify:track:1unBUyjeQUDiJ8N89XiDrr",
+        "track_href": "https://api.spotify.com/v1/tracks/1unBUyjeQUDiJ8N89XiDrr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1unBUyjeQUDiJ8N89XiDrr",
+        "duration_ms": 128827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0mO6oS60RST2sWmN2FKknP",
+    "name": "One More Hour",
+    "artist": "Tame Impala",
+    "album": "The Slow Rush",
+    "bpm": 102.029,
+    "features": [
+      {
+        "danceability": 0.647,
+        "energy": 0.398,
+        "key": 4,
+        "loudness": -8.63,
+        "mode": 1,
+        "speechiness": 0.0283,
+        "acousticness": 0.108,
+        "instrumentalness": 0.107,
+        "liveness": 0.148,
+        "valence": 0.32,
+        "tempo": 102.029,
+        "type": "audio_features",
+        "id": "0mO6oS60RST2sWmN2FKknP",
+        "uri": "spotify:track:0mO6oS60RST2sWmN2FKknP",
+        "track_href": "https://api.spotify.com/v1/tracks/0mO6oS60RST2sWmN2FKknP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0mO6oS60RST2sWmN2FKknP",
+        "duration_ms": 432560,
+        "time_signature": 4
+      }
+    ]
+  }
+]

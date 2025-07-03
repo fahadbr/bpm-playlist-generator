@@ -1,0 +1,292 @@
+[
+  {
+    "id": "4Mqs6irS9aCNTjXznGfRbe",
+    "name": "No Stars over Bethlehem",
+    "artist": "Protest The Hero",
+    "album": "Kezia (Remaster)",
+    "bpm": 112.738,
+    "features": [
+      {
+        "danceability": 0.362,
+        "energy": 0.76,
+        "key": 10,
+        "loudness": -10.179,
+        "mode": 0,
+        "speechiness": 0.0787,
+        "acousticness": 2.93e-05,
+        "instrumentalness": 0.0031,
+        "liveness": 0.328,
+        "valence": 0.321,
+        "tempo": 112.738,
+        "type": "audio_features",
+        "id": "4Mqs6irS9aCNTjXznGfRbe",
+        "uri": "spotify:track:4Mqs6irS9aCNTjXznGfRbe",
+        "track_href": "https://api.spotify.com/v1/tracks/4Mqs6irS9aCNTjXznGfRbe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Mqs6irS9aCNTjXznGfRbe",
+        "duration_ms": 265409,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "08KBtRP5c0a68zAT9sv5V6",
+    "name": "Heretics and Killers",
+    "artist": "Protest The Hero",
+    "album": "Kezia (Remaster)",
+    "bpm": 126.261,
+    "features": [
+      {
+        "danceability": 0.339,
+        "energy": 0.888,
+        "key": 6,
+        "loudness": -5.342,
+        "mode": 0,
+        "speechiness": 0.139,
+        "acousticness": 0.000141,
+        "instrumentalness": 0.000153,
+        "liveness": 0.111,
+        "valence": 0.526,
+        "tempo": 126.261,
+        "type": "audio_features",
+        "id": "08KBtRP5c0a68zAT9sv5V6",
+        "uri": "spotify:track:08KBtRP5c0a68zAT9sv5V6",
+        "track_href": "https://api.spotify.com/v1/tracks/08KBtRP5c0a68zAT9sv5V6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/08KBtRP5c0a68zAT9sv5V6",
+        "duration_ms": 189600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1IdNSDinzcWh7KJqWgGsQ2",
+    "name": "Divinity Within",
+    "artist": "Protest The Hero",
+    "album": "Kezia (Remaster)",
+    "bpm": 116.149,
+    "features": [
+      {
+        "danceability": 0.309,
+        "energy": 0.815,
+        "key": 6,
+        "loudness": -6.371,
+        "mode": 0,
+        "speechiness": 0.0611,
+        "acousticness": 0.000115,
+        "instrumentalness": 0.235,
+        "liveness": 0.331,
+        "valence": 0.38,
+        "tempo": 116.149,
+        "type": "audio_features",
+        "id": "1IdNSDinzcWh7KJqWgGsQ2",
+        "uri": "spotify:track:1IdNSDinzcWh7KJqWgGsQ2",
+        "track_href": "https://api.spotify.com/v1/tracks/1IdNSDinzcWh7KJqWgGsQ2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1IdNSDinzcWh7KJqWgGsQ2",
+        "duration_ms": 272493,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "65Gr2n0QkeRCNpLZyjaM5l",
+    "name": "Bury the Hatchet",
+    "artist": "Protest The Hero",
+    "album": "Kezia (Remaster)",
+    "bpm": 117.856,
+    "features": [
+      {
+        "danceability": 0.335,
+        "energy": 0.85,
+        "key": 1,
+        "loudness": -5.376,
+        "mode": 1,
+        "speechiness": 0.0625,
+        "acousticness": 5.9e-06,
+        "instrumentalness": 0.0187,
+        "liveness": 0.118,
+        "valence": 0.402,
+        "tempo": 117.856,
+        "type": "audio_features",
+        "id": "65Gr2n0QkeRCNpLZyjaM5l",
+        "uri": "spotify:track:65Gr2n0QkeRCNpLZyjaM5l",
+        "track_href": "https://api.spotify.com/v1/tracks/65Gr2n0QkeRCNpLZyjaM5l",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/65Gr2n0QkeRCNpLZyjaM5l",
+        "duration_ms": 204040,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "2UJEuvbexnp47SbBHecxUX",
+    "name": "Nautical",
+    "artist": "Protest The Hero",
+    "album": "Kezia (Remaster)",
+    "bpm": 132.503,
+    "features": [
+      {
+        "danceability": 0.344,
+        "energy": 0.918,
+        "key": 8,
+        "loudness": -5.915,
+        "mode": 0,
+        "speechiness": 0.193,
+        "acousticness": 3.65e-05,
+        "instrumentalness": 4.67e-06,
+        "liveness": 0.132,
+        "valence": 0.521,
+        "tempo": 132.503,
+        "type": "audio_features",
+        "id": "2UJEuvbexnp47SbBHecxUX",
+        "uri": "spotify:track:2UJEuvbexnp47SbBHecxUX",
+        "track_href": "https://api.spotify.com/v1/tracks/2UJEuvbexnp47SbBHecxUX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2UJEuvbexnp47SbBHecxUX",
+        "duration_ms": 177747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "51cYqntdUHIwvq2oUYCPat",
+    "name": "Blindfolds Aside",
+    "artist": "Protest The Hero",
+    "album": "Kezia (Remaster)",
+    "bpm": 153.863,
+    "features": [
+      {
+        "danceability": 0.247,
+        "energy": 0.823,
+        "key": 6,
+        "loudness": -6.142,
+        "mode": 1,
+        "speechiness": 0.0583,
+        "acousticness": 0.000589,
+        "instrumentalness": 0.00197,
+        "liveness": 0.267,
+        "valence": 0.193,
+        "tempo": 153.863,
+        "type": "audio_features",
+        "id": "51cYqntdUHIwvq2oUYCPat",
+        "uri": "spotify:track:51cYqntdUHIwvq2oUYCPat",
+        "track_href": "https://api.spotify.com/v1/tracks/51cYqntdUHIwvq2oUYCPat",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/51cYqntdUHIwvq2oUYCPat",
+        "duration_ms": 359227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7ri0HNeYVtEtC89ztnF9gQ",
+    "name": "She Who Mars the Skin of Gods",
+    "artist": "Protest The Hero",
+    "album": "Kezia (Remaster)",
+    "bpm": 117.387,
+    "features": [
+      {
+        "danceability": 0.327,
+        "energy": 0.882,
+        "key": 8,
+        "loudness": -5.719,
+        "mode": 0,
+        "speechiness": 0.111,
+        "acousticness": 2.92e-05,
+        "instrumentalness": 4.72e-05,
+        "liveness": 0.345,
+        "valence": 0.621,
+        "tempo": 117.387,
+        "type": "audio_features",
+        "id": "7ri0HNeYVtEtC89ztnF9gQ",
+        "uri": "spotify:track:7ri0HNeYVtEtC89ztnF9gQ",
+        "track_href": "https://api.spotify.com/v1/tracks/7ri0HNeYVtEtC89ztnF9gQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ri0HNeYVtEtC89ztnF9gQ",
+        "duration_ms": 231947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6baF6tDQX5KOwskJPU2UWq",
+    "name": "Turn Soonest to the Sea",
+    "artist": "Protest The Hero",
+    "album": "Kezia (Remaster)",
+    "bpm": 157.117,
+    "features": [
+      {
+        "danceability": 0.271,
+        "energy": 0.876,
+        "key": 3,
+        "loudness": -6.061,
+        "mode": 1,
+        "speechiness": 0.119,
+        "acousticness": 0.000431,
+        "instrumentalness": 0,
+        "liveness": 0.837,
+        "valence": 0.539,
+        "tempo": 157.117,
+        "type": "audio_features",
+        "id": "6baF6tDQX5KOwskJPU2UWq",
+        "uri": "spotify:track:6baF6tDQX5KOwskJPU2UWq",
+        "track_href": "https://api.spotify.com/v1/tracks/6baF6tDQX5KOwskJPU2UWq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6baF6tDQX5KOwskJPU2UWq",
+        "duration_ms": 381773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3Cq9R4aoqljQBHZYSf8lZD",
+    "name": "The Divine Suicide of K.",
+    "artist": "Protest The Hero",
+    "album": "Kezia (Remaster)",
+    "bpm": 118.144,
+    "features": [
+      {
+        "danceability": 0.311,
+        "energy": 0.9,
+        "key": 6,
+        "loudness": -5.157,
+        "mode": 0,
+        "speechiness": 0.0922,
+        "acousticness": 0.000129,
+        "instrumentalness": 1.49e-05,
+        "liveness": 0.197,
+        "valence": 0.363,
+        "tempo": 118.144,
+        "type": "audio_features",
+        "id": "3Cq9R4aoqljQBHZYSf8lZD",
+        "uri": "spotify:track:3Cq9R4aoqljQBHZYSf8lZD",
+        "track_href": "https://api.spotify.com/v1/tracks/3Cq9R4aoqljQBHZYSf8lZD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Cq9R4aoqljQBHZYSf8lZD",
+        "duration_ms": 310440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2p4vkFRCQ54VhU8n2pR7ny",
+    "name": "A Plateful of Our Dead",
+    "artist": "Protest The Hero",
+    "album": "Kezia (Remaster)",
+    "bpm": 117.177,
+    "features": [
+      {
+        "danceability": 0.349,
+        "energy": 0.782,
+        "key": 6,
+        "loudness": -7.067,
+        "mode": 0,
+        "speechiness": 0.0486,
+        "acousticness": 0.00107,
+        "instrumentalness": 0.000308,
+        "liveness": 0.114,
+        "valence": 0.119,
+        "tempo": 117.177,
+        "type": "audio_features",
+        "id": "2p4vkFRCQ54VhU8n2pR7ny",
+        "uri": "spotify:track:2p4vkFRCQ54VhU8n2pR7ny",
+        "track_href": "https://api.spotify.com/v1/tracks/2p4vkFRCQ54VhU8n2pR7ny",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2p4vkFRCQ54VhU8n2pR7ny",
+        "duration_ms": 269773,
+        "time_signature": 4
+      }
+    ]
+  }
+]

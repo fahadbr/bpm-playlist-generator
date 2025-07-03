@@ -1,0 +1,582 @@
+[
+  {
+    "id": "1eQBEelI2NCy7AUTerX0KS",
+    "name": "Ultralight Beam",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 105.169,
+    "features": [
+      {
+        "danceability": 0.592,
+        "energy": 0.403,
+        "key": 0,
+        "loudness": -8.768,
+        "mode": 0,
+        "speechiness": 0.414,
+        "acousticness": 0.62,
+        "instrumentalness": 0,
+        "liveness": 0.54,
+        "valence": 0.391,
+        "tempo": 105.169,
+        "type": "audio_features",
+        "id": "1eQBEelI2NCy7AUTerX0KS",
+        "uri": "spotify:track:1eQBEelI2NCy7AUTerX0KS",
+        "track_href": "https://api.spotify.com/v1/tracks/1eQBEelI2NCy7AUTerX0KS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1eQBEelI2NCy7AUTerX0KS",
+        "duration_ms": 320680,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4KW1lqgSr8TKrvBII0Brf8",
+    "name": "Father Stretch My Hands Pt. 1",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 113.088,
+    "features": [
+      {
+        "danceability": 0.724,
+        "energy": 0.573,
+        "key": 7,
+        "loudness": -4.113,
+        "mode": 1,
+        "speechiness": 0.0549,
+        "acousticness": 0.118,
+        "instrumentalness": 0,
+        "liveness": 0.538,
+        "valence": 0.438,
+        "tempo": 113.088,
+        "type": "audio_features",
+        "id": "4KW1lqgSr8TKrvBII0Brf8",
+        "uri": "spotify:track:4KW1lqgSr8TKrvBII0Brf8",
+        "track_href": "https://api.spotify.com/v1/tracks/4KW1lqgSr8TKrvBII0Brf8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4KW1lqgSr8TKrvBII0Brf8",
+        "duration_ms": 135920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1Wsbr1d2BouNGk2q92mIj7",
+    "name": "Pt. 2",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 145.076,
+    "features": [
+      {
+        "danceability": 0.674,
+        "energy": 0.752,
+        "key": 11,
+        "loudness": -4.073,
+        "mode": 1,
+        "speechiness": 0.333,
+        "acousticness": 0.552,
+        "instrumentalness": 0,
+        "liveness": 0.787,
+        "valence": 0.236,
+        "tempo": 145.076,
+        "type": "audio_features",
+        "id": "1Wsbr1d2BouNGk2q92mIj7",
+        "uri": "spotify:track:1Wsbr1d2BouNGk2q92mIj7",
+        "track_href": "https://api.spotify.com/v1/tracks/1Wsbr1d2BouNGk2q92mIj7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Wsbr1d2BouNGk2q92mIj7",
+        "duration_ms": 130293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "19a3JfW8BQwqHWUMbcqSx8",
+    "name": "Famous",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 173.935,
+    "features": [
+      {
+        "danceability": 0.465,
+        "energy": 0.735,
+        "key": 6,
+        "loudness": -3.715,
+        "mode": 1,
+        "speechiness": 0.117,
+        "acousticness": 0.0711,
+        "instrumentalness": 0,
+        "liveness": 0.0975,
+        "valence": 0.409,
+        "tempo": 173.935,
+        "type": "audio_features",
+        "id": "19a3JfW8BQwqHWUMbcqSx8",
+        "uri": "spotify:track:19a3JfW8BQwqHWUMbcqSx8",
+        "track_href": "https://api.spotify.com/v1/tracks/19a3JfW8BQwqHWUMbcqSx8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/19a3JfW8BQwqHWUMbcqSx8",
+        "duration_ms": 196040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "49fT6owWuknekShh9utsjv",
+    "name": "Feedback",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 100.224,
+    "features": [
+      {
+        "danceability": 0.811,
+        "energy": 0.566,
+        "key": 8,
+        "loudness": -6.033,
+        "mode": 0,
+        "speechiness": 0.517,
+        "acousticness": 0.563,
+        "instrumentalness": 0,
+        "liveness": 0.104,
+        "valence": 0.169,
+        "tempo": 100.224,
+        "type": "audio_features",
+        "id": "49fT6owWuknekShh9utsjv",
+        "uri": "spotify:track:49fT6owWuknekShh9utsjv",
+        "track_href": "https://api.spotify.com/v1/tracks/49fT6owWuknekShh9utsjv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/49fT6owWuknekShh9utsjv",
+        "duration_ms": 147240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "36o4taPyOdnOMf01ERmn9a",
+    "name": "Low Lights",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 101.956,
+    "features": [
+      {
+        "danceability": 0.603,
+        "energy": 0.593,
+        "key": 7,
+        "loudness": -4.685,
+        "mode": 1,
+        "speechiness": 0.109,
+        "acousticness": 0.706,
+        "instrumentalness": 0,
+        "liveness": 0.121,
+        "valence": 0.523,
+        "tempo": 101.956,
+        "type": "audio_features",
+        "id": "36o4taPyOdnOMf01ERmn9a",
+        "uri": "spotify:track:36o4taPyOdnOMf01ERmn9a",
+        "track_href": "https://api.spotify.com/v1/tracks/36o4taPyOdnOMf01ERmn9a",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/36o4taPyOdnOMf01ERmn9a",
+        "duration_ms": 131773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4qYLPta5HZ36idWiXtqh7B",
+    "name": "Highlights",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 101.971,
+    "features": [
+      {
+        "danceability": 0.547,
+        "energy": 0.626,
+        "key": 2,
+        "loudness": -6.244,
+        "mode": 1,
+        "speechiness": 0.208,
+        "acousticness": 0.00572,
+        "instrumentalness": 0,
+        "liveness": 0.313,
+        "valence": 0.346,
+        "tempo": 101.971,
+        "type": "audio_features",
+        "id": "4qYLPta5HZ36idWiXtqh7B",
+        "uri": "spotify:track:4qYLPta5HZ36idWiXtqh7B",
+        "track_href": "https://api.spotify.com/v1/tracks/4qYLPta5HZ36idWiXtqh7B",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4qYLPta5HZ36idWiXtqh7B",
+        "duration_ms": 199867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6wfzokDylbrJzrJcpnBkcy",
+    "name": "Freestyle 4",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 126.036,
+    "features": [
+      {
+        "danceability": 0.564,
+        "energy": 0.537,
+        "key": 9,
+        "loudness": -8.381,
+        "mode": 0,
+        "speechiness": 0.095,
+        "acousticness": 0.0449,
+        "instrumentalness": 0,
+        "liveness": 0.0907,
+        "valence": 0.459,
+        "tempo": 126.036,
+        "type": "audio_features",
+        "id": "6wfzokDylbrJzrJcpnBkcy",
+        "uri": "spotify:track:6wfzokDylbrJzrJcpnBkcy",
+        "track_href": "https://api.spotify.com/v1/tracks/6wfzokDylbrJzrJcpnBkcy",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6wfzokDylbrJzrJcpnBkcy",
+        "duration_ms": 123387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5CGS4UovzA7ftCJkLVXQju",
+    "name": "I Love Kanye",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 80.326,
+    "features": [
+      {
+        "danceability": 0.756,
+        "energy": 0.374,
+        "key": 5,
+        "loudness": -7.966,
+        "mode": 1,
+        "speechiness": 0.741,
+        "acousticness": 0.594,
+        "instrumentalness": 0,
+        "liveness": 0.217,
+        "valence": 0.966,
+        "tempo": 80.326,
+        "type": "audio_features",
+        "id": "5CGS4UovzA7ftCJkLVXQju",
+        "uri": "spotify:track:5CGS4UovzA7ftCJkLVXQju",
+        "track_href": "https://api.spotify.com/v1/tracks/5CGS4UovzA7ftCJkLVXQju",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5CGS4UovzA7ftCJkLVXQju",
+        "duration_ms": 44827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3nAq2hCr1oWsIU54tS98pL",
+    "name": "Waves",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 96.091,
+    "features": [
+      {
+        "danceability": 0.557,
+        "energy": 0.586,
+        "key": 10,
+        "loudness": -4.57,
+        "mode": 1,
+        "speechiness": 0.0382,
+        "acousticness": 0.0528,
+        "instrumentalness": 7.33e-06,
+        "liveness": 0.339,
+        "valence": 0.0681,
+        "tempo": 96.091,
+        "type": "audio_features",
+        "id": "3nAq2hCr1oWsIU54tS98pL",
+        "uri": "spotify:track:3nAq2hCr1oWsIU54tS98pL",
+        "track_href": "https://api.spotify.com/v1/tracks/3nAq2hCr1oWsIU54tS98pL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3nAq2hCr1oWsIU54tS98pL",
+        "duration_ms": 181573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "30Zcjs7pgEkmJA1lEbGSWT",
+    "name": "FML",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 125.357,
+    "features": [
+      {
+        "danceability": 0.527,
+        "energy": 0.415,
+        "key": 5,
+        "loudness": -7.184,
+        "mode": 1,
+        "speechiness": 0.131,
+        "acousticness": 0.329,
+        "instrumentalness": 0,
+        "liveness": 0.195,
+        "valence": 0.12,
+        "tempo": 125.357,
+        "type": "audio_features",
+        "id": "30Zcjs7pgEkmJA1lEbGSWT",
+        "uri": "spotify:track:30Zcjs7pgEkmJA1lEbGSWT",
+        "track_href": "https://api.spotify.com/v1/tracks/30Zcjs7pgEkmJA1lEbGSWT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/30Zcjs7pgEkmJA1lEbGSWT",
+        "duration_ms": 236120,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "66Q3fAmSX5eHamgbKa9alP",
+    "name": "Real Friends",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 81.396,
+    "features": [
+      {
+        "danceability": 0.441,
+        "energy": 0.744,
+        "key": 6,
+        "loudness": -6.248,
+        "mode": 0,
+        "speechiness": 0.476,
+        "acousticness": 0.262,
+        "instrumentalness": 0.000382,
+        "liveness": 0.138,
+        "valence": 0.124,
+        "tempo": 81.396,
+        "type": "audio_features",
+        "id": "66Q3fAmSX5eHamgbKa9alP",
+        "uri": "spotify:track:66Q3fAmSX5eHamgbKa9alP",
+        "track_href": "https://api.spotify.com/v1/tracks/66Q3fAmSX5eHamgbKa9alP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/66Q3fAmSX5eHamgbKa9alP",
+        "duration_ms": 251573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "432hUIl3ISDeytYW5XBQ5h",
+    "name": "Wolves",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 155.856,
+    "features": [
+      {
+        "danceability": 0.395,
+        "energy": 0.392,
+        "key": 1,
+        "loudness": -8.034,
+        "mode": 1,
+        "speechiness": 0.0925,
+        "acousticness": 0.219,
+        "instrumentalness": 0.00173,
+        "liveness": 0.134,
+        "valence": 0.103,
+        "tempo": 155.856,
+        "type": "audio_features",
+        "id": "432hUIl3ISDeytYW5XBQ5h",
+        "uri": "spotify:track:432hUIl3ISDeytYW5XBQ5h",
+        "track_href": "https://api.spotify.com/v1/tracks/432hUIl3ISDeytYW5XBQ5h",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/432hUIl3ISDeytYW5XBQ5h",
+        "duration_ms": 301587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "20r94xA0bsYNLtYSiOE6r3",
+    "name": "Frank's Track",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 140.687,
+    "features": [
+      {
+        "danceability": 0.655,
+        "energy": 0.179,
+        "key": 11,
+        "loudness": -6.903,
+        "mode": 1,
+        "speechiness": 0.0722,
+        "acousticness": 0.976,
+        "instrumentalness": 0,
+        "liveness": 0.105,
+        "valence": 0.758,
+        "tempo": 140.687,
+        "type": "audio_features",
+        "id": "20r94xA0bsYNLtYSiOE6r3",
+        "uri": "spotify:track:20r94xA0bsYNLtYSiOE6r3",
+        "track_href": "https://api.spotify.com/v1/tracks/20r94xA0bsYNLtYSiOE6r3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/20r94xA0bsYNLtYSiOE6r3",
+        "duration_ms": 38333,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1ZnA4VYOlYIShuGt60LmCs",
+    "name": "Siiiiiiiiilver Surffffeeeeer Intermission",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 72.623,
+    "features": [
+      {
+        "danceability": 0.788,
+        "energy": 0.409,
+        "key": 9,
+        "loudness": -11.917,
+        "mode": 1,
+        "speechiness": 0.881,
+        "acousticness": 0.982,
+        "instrumentalness": 0.000203,
+        "liveness": 0.11,
+        "valence": 0.925,
+        "tempo": 72.623,
+        "type": "audio_features",
+        "id": "1ZnA4VYOlYIShuGt60LmCs",
+        "uri": "spotify:track:1ZnA4VYOlYIShuGt60LmCs",
+        "track_href": "https://api.spotify.com/v1/tracks/1ZnA4VYOlYIShuGt60LmCs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ZnA4VYOlYIShuGt60LmCs",
+        "duration_ms": 56560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2CHmgtK8OCL28WtIK96u4N",
+    "name": "30 Hours",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 95.012,
+    "features": [
+      {
+        "danceability": 0.823,
+        "energy": 0.813,
+        "key": 7,
+        "loudness": -6.71,
+        "mode": 1,
+        "speechiness": 0.288,
+        "acousticness": 0.0359,
+        "instrumentalness": 0,
+        "liveness": 0.0886,
+        "valence": 0.373,
+        "tempo": 95.012,
+        "type": "audio_features",
+        "id": "2CHmgtK8OCL28WtIK96u4N",
+        "uri": "spotify:track:2CHmgtK8OCL28WtIK96u4N",
+        "track_href": "https://api.spotify.com/v1/tracks/2CHmgtK8OCL28WtIK96u4N",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2CHmgtK8OCL28WtIK96u4N",
+        "duration_ms": 323303,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0zLClc0emc6qUeV1p5nc99",
+    "name": "No More Parties In LA",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 93.058,
+    "features": [
+      {
+        "danceability": 0.508,
+        "energy": 0.921,
+        "key": 5,
+        "loudness": -1.644,
+        "mode": 1,
+        "speechiness": 0.303,
+        "acousticness": 0.246,
+        "instrumentalness": 0,
+        "liveness": 0.221,
+        "valence": 0.681,
+        "tempo": 93.058,
+        "type": "audio_features",
+        "id": "0zLClc0emc6qUeV1p5nc99",
+        "uri": "spotify:track:0zLClc0emc6qUeV1p5nc99",
+        "track_href": "https://api.spotify.com/v1/tracks/0zLClc0emc6qUeV1p5nc99",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0zLClc0emc6qUeV1p5nc99",
+        "duration_ms": 374413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3MnbXlC1N7GdS9M8HzA6no",
+    "name": "Facts (Charlie Heat Version)",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 142.059,
+    "features": [
+      {
+        "danceability": 0.777,
+        "energy": 0.662,
+        "key": 1,
+        "loudness": -3.761,
+        "mode": 0,
+        "speechiness": 0.143,
+        "acousticness": 0.0518,
+        "instrumentalness": 0,
+        "liveness": 0.168,
+        "valence": 0.4,
+        "tempo": 142.059,
+        "type": "audio_features",
+        "id": "3MnbXlC1N7GdS9M8HzA6no",
+        "uri": "spotify:track:3MnbXlC1N7GdS9M8HzA6no",
+        "track_href": "https://api.spotify.com/v1/tracks/3MnbXlC1N7GdS9M8HzA6no",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3MnbXlC1N7GdS9M8HzA6no",
+        "duration_ms": 200733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3cCxoOgfi6hgt8MNteuiiD",
+    "name": "Fade",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 105.998,
+    "features": [
+      {
+        "danceability": 0.752,
+        "energy": 0.765,
+        "key": 9,
+        "loudness": -5.805,
+        "mode": 0,
+        "speechiness": 0.0908,
+        "acousticness": 0.118,
+        "instrumentalness": 0,
+        "liveness": 0.31,
+        "valence": 0.309,
+        "tempo": 105.998,
+        "type": "audio_features",
+        "id": "3cCxoOgfi6hgt8MNteuiiD",
+        "uri": "spotify:track:3cCxoOgfi6hgt8MNteuiiD",
+        "track_href": "https://api.spotify.com/v1/tracks/3cCxoOgfi6hgt8MNteuiiD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3cCxoOgfi6hgt8MNteuiiD",
+        "duration_ms": 193748,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1o0kWPueYo94LIjPYOE5Nf",
+    "name": "Saint Pablo",
+    "artist": "Kanye West",
+    "album": "The Life Of Pablo",
+    "bpm": 167.018,
+    "features": [
+      {
+        "danceability": 0.461,
+        "energy": 0.772,
+        "key": 2,
+        "loudness": -3.98,
+        "mode": 0,
+        "speechiness": 0.375,
+        "acousticness": 0.282,
+        "instrumentalness": 0,
+        "liveness": 0.178,
+        "valence": 0.414,
+        "tempo": 167.018,
+        "type": "audio_features",
+        "id": "1o0kWPueYo94LIjPYOE5Nf",
+        "uri": "spotify:track:1o0kWPueYo94LIjPYOE5Nf",
+        "track_href": "https://api.spotify.com/v1/tracks/1o0kWPueYo94LIjPYOE5Nf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1o0kWPueYo94LIjPYOE5Nf",
+        "duration_ms": 372113,
+        "time_signature": 4
+      }
+    ]
+  }
+]

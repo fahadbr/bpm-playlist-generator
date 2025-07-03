@@ -1,0 +1,350 @@
+[
+  {
+    "id": "773hekg7UEdbGvv3lJ3CmV",
+    "name": "Pusher Love Girl",
+    "artist": "Justin Timberlake",
+    "album": "The 20/20 Experience (Deluxe Version)",
+    "bpm": 140.009,
+    "features": [
+      {
+        "danceability": 0.485,
+        "energy": 0.441,
+        "key": 1,
+        "loudness": -8.248,
+        "mode": 0,
+        "speechiness": 0.0775,
+        "acousticness": 0.466,
+        "instrumentalness": 0.000936,
+        "liveness": 0.485,
+        "valence": 0.511,
+        "tempo": 140.009,
+        "type": "audio_features",
+        "id": "773hekg7UEdbGvv3lJ3CmV",
+        "uri": "spotify:track:773hekg7UEdbGvv3lJ3CmV",
+        "track_href": "https://api.spotify.com/v1/tracks/773hekg7UEdbGvv3lJ3CmV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/773hekg7UEdbGvv3lJ3CmV",
+        "duration_ms": 482360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6vt0I1cw1YmAIKDJvHVIM5",
+    "name": "Suit & Tie (feat. JAY-Z)",
+    "artist": "Justin Timberlake",
+    "album": "The 20/20 Experience (Deluxe Version)",
+    "bpm": 101.985,
+    "features": [
+      {
+        "danceability": 0.795,
+        "energy": 0.596,
+        "key": 11,
+        "loudness": -3.799,
+        "mode": 0,
+        "speechiness": 0.219,
+        "acousticness": 0.103,
+        "instrumentalness": 0,
+        "liveness": 0.164,
+        "valence": 0.357,
+        "tempo": 101.985,
+        "type": "audio_features",
+        "id": "6vt0I1cw1YmAIKDJvHVIM5",
+        "uri": "spotify:track:6vt0I1cw1YmAIKDJvHVIM5",
+        "track_href": "https://api.spotify.com/v1/tracks/6vt0I1cw1YmAIKDJvHVIM5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6vt0I1cw1YmAIKDJvHVIM5",
+        "duration_ms": 326280,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7I7EnQnVJH1uSJ0cSQKPuu",
+    "name": "Don't Hold the Wall",
+    "artist": "Justin Timberlake",
+    "album": "The 20/20 Experience (Deluxe Version)",
+    "bpm": 118.352,
+    "features": [
+      {
+        "danceability": 0.702,
+        "energy": 0.621,
+        "key": 1,
+        "loudness": -8.303,
+        "mode": 1,
+        "speechiness": 0.0988,
+        "acousticness": 0.262,
+        "instrumentalness": 0.238,
+        "liveness": 0.53,
+        "valence": 0.332,
+        "tempo": 118.352,
+        "type": "audio_features",
+        "id": "7I7EnQnVJH1uSJ0cSQKPuu",
+        "uri": "spotify:track:7I7EnQnVJH1uSJ0cSQKPuu",
+        "track_href": "https://api.spotify.com/v1/tracks/7I7EnQnVJH1uSJ0cSQKPuu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7I7EnQnVJH1uSJ0cSQKPuu",
+        "duration_ms": 430627,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7z0JDE4w67HXt5lEWsU2Hj",
+    "name": "Strawberry Bubblegum",
+    "artist": "Justin Timberlake",
+    "album": "The 20/20 Experience (Deluxe Version)",
+    "bpm": 104.96,
+    "features": [
+      {
+        "danceability": 0.798,
+        "energy": 0.465,
+        "key": 9,
+        "loudness": -10.412,
+        "mode": 0,
+        "speechiness": 0.0981,
+        "acousticness": 0.411,
+        "instrumentalness": 0.224,
+        "liveness": 0.323,
+        "valence": 0.348,
+        "tempo": 104.96,
+        "type": "audio_features",
+        "id": "7z0JDE4w67HXt5lEWsU2Hj",
+        "uri": "spotify:track:7z0JDE4w67HXt5lEWsU2Hj",
+        "track_href": "https://api.spotify.com/v1/tracks/7z0JDE4w67HXt5lEWsU2Hj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7z0JDE4w67HXt5lEWsU2Hj",
+        "duration_ms": 479747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "79MOydAvZYm8nyyzd6fiVi",
+    "name": "Tunnel Vision",
+    "artist": "Justin Timberlake",
+    "album": "The 20/20 Experience (Deluxe Version)",
+    "bpm": 141.88,
+    "features": [
+      {
+        "danceability": 0.572,
+        "energy": 0.771,
+        "key": 4,
+        "loudness": -5.54,
+        "mode": 0,
+        "speechiness": 0.0611,
+        "acousticness": 0.275,
+        "instrumentalness": 0,
+        "liveness": 0.473,
+        "valence": 0.573,
+        "tempo": 141.88,
+        "type": "audio_features",
+        "id": "79MOydAvZYm8nyyzd6fiVi",
+        "uri": "spotify:track:79MOydAvZYm8nyyzd6fiVi",
+        "track_href": "https://api.spotify.com/v1/tracks/79MOydAvZYm8nyyzd6fiVi",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/79MOydAvZYm8nyyzd6fiVi",
+        "duration_ms": 406640,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7xxEK0MQvkME1LSS2cIW7R",
+    "name": "Spaceship Coupe",
+    "artist": "Justin Timberlake",
+    "album": "The 20/20 Experience (Deluxe Version)",
+    "bpm": 126.053,
+    "features": [
+      {
+        "danceability": 0.627,
+        "energy": 0.488,
+        "key": 11,
+        "loudness": -8.212,
+        "mode": 0,
+        "speechiness": 0.0445,
+        "acousticness": 0.304,
+        "instrumentalness": 0.000408,
+        "liveness": 0.173,
+        "valence": 0.274,
+        "tempo": 126.053,
+        "type": "audio_features",
+        "id": "7xxEK0MQvkME1LSS2cIW7R",
+        "uri": "spotify:track:7xxEK0MQvkME1LSS2cIW7R",
+        "track_href": "https://api.spotify.com/v1/tracks/7xxEK0MQvkME1LSS2cIW7R",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7xxEK0MQvkME1LSS2cIW7R",
+        "duration_ms": 437013,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4CfYxSs4Dr8KWORCmN3hom",
+    "name": "That Girl",
+    "artist": "Justin Timberlake",
+    "album": "The 20/20 Experience (Deluxe Version)",
+    "bpm": 132.762,
+    "features": [
+      {
+        "danceability": 0.728,
+        "energy": 0.354,
+        "key": 1,
+        "loudness": -9.626,
+        "mode": 1,
+        "speechiness": 0.221,
+        "acousticness": 0.76,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "valence": 0.636,
+        "tempo": 132.762,
+        "type": "audio_features",
+        "id": "4CfYxSs4Dr8KWORCmN3hom",
+        "uri": "spotify:track:4CfYxSs4Dr8KWORCmN3hom",
+        "track_href": "https://api.spotify.com/v1/tracks/4CfYxSs4Dr8KWORCmN3hom",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4CfYxSs4Dr8KWORCmN3hom",
+        "duration_ms": 287947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2AobDJxjDp5TbxGdR3JGen",
+    "name": "Let the Groove Get In",
+    "artist": "Justin Timberlake",
+    "album": "The 20/20 Experience (Deluxe Version)",
+    "bpm": 116.921,
+    "features": [
+      {
+        "danceability": 0.785,
+        "energy": 0.841,
+        "key": 4,
+        "loudness": -5.962,
+        "mode": 0,
+        "speechiness": 0.064,
+        "acousticness": 0.204,
+        "instrumentalness": 0.00235,
+        "liveness": 0.29,
+        "valence": 0.437,
+        "tempo": 116.921,
+        "type": "audio_features",
+        "id": "2AobDJxjDp5TbxGdR3JGen",
+        "uri": "spotify:track:2AobDJxjDp5TbxGdR3JGen",
+        "track_href": "https://api.spotify.com/v1/tracks/2AobDJxjDp5TbxGdR3JGen",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2AobDJxjDp5TbxGdR3JGen",
+        "duration_ms": 431613,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4rHZZAmHpZrA3iH5zx8frV",
+    "name": "Mirrors",
+    "artist": "Justin Timberlake",
+    "album": "The 20/20 Experience (Deluxe Version)",
+    "bpm": 76.899,
+    "features": [
+      {
+        "danceability": 0.574,
+        "energy": 0.512,
+        "key": 5,
+        "loudness": -6.664,
+        "mode": 0,
+        "speechiness": 0.0503,
+        "acousticness": 0.234,
+        "instrumentalness": 0,
+        "liveness": 0.0946,
+        "valence": 0.512,
+        "tempo": 76.899,
+        "type": "audio_features",
+        "id": "4rHZZAmHpZrA3iH5zx8frV",
+        "uri": "spotify:track:4rHZZAmHpZrA3iH5zx8frV",
+        "track_href": "https://api.spotify.com/v1/tracks/4rHZZAmHpZrA3iH5zx8frV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4rHZZAmHpZrA3iH5zx8frV",
+        "duration_ms": 484147,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "06aFFobYGQNlyqXcEmYPSm",
+    "name": "Blue Ocean Floor",
+    "artist": "Justin Timberlake",
+    "album": "The 20/20 Experience (Deluxe Version)",
+    "bpm": 180.856,
+    "features": [
+      {
+        "danceability": 0.147,
+        "energy": 0.204,
+        "key": 2,
+        "loudness": -16.244,
+        "mode": 1,
+        "speechiness": 0.0515,
+        "acousticness": 0.786,
+        "instrumentalness": 0.0368,
+        "liveness": 0.138,
+        "valence": 0.0781,
+        "tempo": 180.856,
+        "type": "audio_features",
+        "id": "06aFFobYGQNlyqXcEmYPSm",
+        "uri": "spotify:track:06aFFobYGQNlyqXcEmYPSm",
+        "track_href": "https://api.spotify.com/v1/tracks/06aFFobYGQNlyqXcEmYPSm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/06aFFobYGQNlyqXcEmYPSm",
+        "duration_ms": 439467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3HaW1TqoBUrTwEYmtguKTa",
+    "name": "Dress On",
+    "artist": "Justin Timberlake",
+    "album": "The 20/20 Experience (Deluxe Version)",
+    "bpm": 85.946,
+    "features": [
+      {
+        "danceability": 0.529,
+        "energy": 0.613,
+        "key": 5,
+        "loudness": -8.613,
+        "mode": 0,
+        "speechiness": 0.164,
+        "acousticness": 0.156,
+        "instrumentalness": 6.77e-06,
+        "liveness": 0.477,
+        "valence": 0.352,
+        "tempo": 85.946,
+        "type": "audio_features",
+        "id": "3HaW1TqoBUrTwEYmtguKTa",
+        "uri": "spotify:track:3HaW1TqoBUrTwEYmtguKTa",
+        "track_href": "https://api.spotify.com/v1/tracks/3HaW1TqoBUrTwEYmtguKTa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3HaW1TqoBUrTwEYmtguKTa",
+        "duration_ms": 279133,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3rPDcjQNtOK0gey9Gu1tZ2",
+    "name": "Body Count",
+    "artist": "Justin Timberlake",
+    "album": "The 20/20 Experience (Deluxe Version)",
+    "bpm": 120.016,
+    "features": [
+      {
+        "danceability": 0.847,
+        "energy": 0.799,
+        "key": 11,
+        "loudness": -5.636,
+        "mode": 1,
+        "speechiness": 0.0749,
+        "acousticness": 0.0338,
+        "instrumentalness": 0.206,
+        "liveness": 0.147,
+        "valence": 0.513,
+        "tempo": 120.016,
+        "type": "audio_features",
+        "id": "3rPDcjQNtOK0gey9Gu1tZ2",
+        "uri": "spotify:track:3rPDcjQNtOK0gey9Gu1tZ2",
+        "track_href": "https://api.spotify.com/v1/tracks/3rPDcjQNtOK0gey9Gu1tZ2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3rPDcjQNtOK0gey9Gu1tZ2",
+        "duration_ms": 282493,
+        "time_signature": 4
+      }
+    ]
+  }
+]

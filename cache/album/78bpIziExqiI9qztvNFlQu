@@ -1,0 +1,350 @@
+[
+  {
+    "id": "5FVd6KXrgO9B3JPmC8OPst",
+    "name": "Do I Wanna Know?",
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "bpm": 85.03,
+    "features": [
+      {
+        "danceability": 0.548,
+        "energy": 0.532,
+        "key": 5,
+        "loudness": -7.596,
+        "mode": 1,
+        "speechiness": 0.0323,
+        "acousticness": 0.186,
+        "instrumentalness": 0.000263,
+        "liveness": 0.217,
+        "valence": 0.405,
+        "tempo": 85.03,
+        "type": "audio_features",
+        "id": "5FVd6KXrgO9B3JPmC8OPst",
+        "uri": "spotify:track:5FVd6KXrgO9B3JPmC8OPst",
+        "track_href": "https://api.spotify.com/v1/tracks/5FVd6KXrgO9B3JPmC8OPst",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5FVd6KXrgO9B3JPmC8OPst",
+        "duration_ms": 272394,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2AT8iROs4FQueDv2c8q2KE",
+    "name": "R U Mine?",
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "bpm": 97.094,
+    "features": [
+      {
+        "danceability": 0.288,
+        "energy": 0.758,
+        "key": 6,
+        "loudness": -5.692,
+        "mode": 0,
+        "speechiness": 0.0371,
+        "acousticness": 0.00616,
+        "instrumentalness": 0,
+        "liveness": 0.303,
+        "valence": 0.619,
+        "tempo": 97.094,
+        "type": "audio_features",
+        "id": "2AT8iROs4FQueDv2c8q2KE",
+        "uri": "spotify:track:2AT8iROs4FQueDv2c8q2KE",
+        "track_href": "https://api.spotify.com/v1/tracks/2AT8iROs4FQueDv2c8q2KE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2AT8iROs4FQueDv2c8q2KE",
+        "duration_ms": 201726,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6wNUBZNWFxdUGof6vkaykE",
+    "name": "One For The Road",
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "bpm": 180.048,
+    "features": [
+      {
+        "danceability": 0.415,
+        "energy": 0.668,
+        "key": 0,
+        "loudness": -6.849,
+        "mode": 1,
+        "speechiness": 0.036,
+        "acousticness": 0.212,
+        "instrumentalness": 0.0615,
+        "liveness": 0.27,
+        "valence": 0.842,
+        "tempo": 180.048,
+        "type": "audio_features",
+        "id": "6wNUBZNWFxdUGof6vkaykE",
+        "uri": "spotify:track:6wNUBZNWFxdUGof6vkaykE",
+        "track_href": "https://api.spotify.com/v1/tracks/6wNUBZNWFxdUGof6vkaykE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6wNUBZNWFxdUGof6vkaykE",
+        "duration_ms": 206052,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7nzsY8vlnKdvGOEE0rjAXZ",
+    "name": "Arabella",
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "bpm": 179.949,
+    "features": [
+      {
+        "danceability": 0.579,
+        "energy": 0.558,
+        "key": 2,
+        "loudness": -6.986,
+        "mode": 1,
+        "speechiness": 0.0895,
+        "acousticness": 0.0202,
+        "instrumentalness": 1.26e-06,
+        "liveness": 0.212,
+        "valence": 0.506,
+        "tempo": 179.949,
+        "type": "audio_features",
+        "id": "7nzsY8vlnKdvGOEE0rjAXZ",
+        "uri": "spotify:track:7nzsY8vlnKdvGOEE0rjAXZ",
+        "track_href": "https://api.spotify.com/v1/tracks/7nzsY8vlnKdvGOEE0rjAXZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7nzsY8vlnKdvGOEE0rjAXZ",
+        "duration_ms": 207357,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1j9rezdE3YeC7yktZXC1em",
+    "name": "I Want It All",
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "bpm": 131.052,
+    "features": [
+      {
+        "danceability": 0.499,
+        "energy": 0.81,
+        "key": 5,
+        "loudness": -5.579,
+        "mode": 1,
+        "speechiness": 0.0347,
+        "acousticness": 0.000637,
+        "instrumentalness": 0.0748,
+        "liveness": 0.0625,
+        "valence": 0.288,
+        "tempo": 131.052,
+        "type": "audio_features",
+        "id": "1j9rezdE3YeC7yktZXC1em",
+        "uri": "spotify:track:1j9rezdE3YeC7yktZXC1em",
+        "track_href": "https://api.spotify.com/v1/tracks/1j9rezdE3YeC7yktZXC1em",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1j9rezdE3YeC7yktZXC1em",
+        "duration_ms": 185406,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5TTGoX70AFrTvuEtqHK37S",
+    "name": "No. 1 Party Anthem",
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "bpm": 115.013,
+    "features": [
+      {
+        "danceability": 0.505,
+        "energy": 0.698,
+        "key": 0,
+        "loudness": -5.563,
+        "mode": 1,
+        "speechiness": 0.0297,
+        "acousticness": 0.33,
+        "instrumentalness": 0.0887,
+        "liveness": 0.0966,
+        "valence": 0.599,
+        "tempo": 115.013,
+        "type": "audio_features",
+        "id": "5TTGoX70AFrTvuEtqHK37S",
+        "uri": "spotify:track:5TTGoX70AFrTvuEtqHK37S",
+        "track_href": "https://api.spotify.com/v1/tracks/5TTGoX70AFrTvuEtqHK37S",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5TTGoX70AFrTvuEtqHK37S",
+        "duration_ms": 243132,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "75n7mraeMycQOl2sDGYaTe",
+    "name": "Mad Sounds",
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "bpm": 80.001,
+    "features": [
+      {
+        "danceability": 0.532,
+        "energy": 0.462,
+        "key": 10,
+        "loudness": -10.71,
+        "mode": 1,
+        "speechiness": 0.03,
+        "acousticness": 0.279,
+        "instrumentalness": 0.196,
+        "liveness": 0.101,
+        "valence": 0.485,
+        "tempo": 80.001,
+        "type": "audio_features",
+        "id": "75n7mraeMycQOl2sDGYaTe",
+        "uri": "spotify:track:75n7mraeMycQOl2sDGYaTe",
+        "track_href": "https://api.spotify.com/v1/tracks/75n7mraeMycQOl2sDGYaTe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/75n7mraeMycQOl2sDGYaTe",
+        "duration_ms": 215012,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4atMrAadB7dS8xn9vfk9PQ",
+    "name": "Fireside",
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "bpm": 100.033,
+    "features": [
+      {
+        "danceability": 0.538,
+        "energy": 0.953,
+        "key": 9,
+        "loudness": -5.611,
+        "mode": 0,
+        "speechiness": 0.056,
+        "acousticness": 0.0234,
+        "instrumentalness": 0.00126,
+        "liveness": 0.113,
+        "valence": 0.74,
+        "tempo": 100.033,
+        "type": "audio_features",
+        "id": "4atMrAadB7dS8xn9vfk9PQ",
+        "uri": "spotify:track:4atMrAadB7dS8xn9vfk9PQ",
+        "track_href": "https://api.spotify.com/v1/tracks/4atMrAadB7dS8xn9vfk9PQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4atMrAadB7dS8xn9vfk9PQ",
+        "duration_ms": 181049,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "086myS9r57YsLbJpU0TgK9",
+    "name": "Why'd You Only Call Me When You're High?",
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "bpm": 92.004,
+    "features": [
+      {
+        "danceability": 0.691,
+        "energy": 0.631,
+        "key": 2,
+        "loudness": -6.478,
+        "mode": 1,
+        "speechiness": 0.0368,
+        "acousticness": 0.0483,
+        "instrumentalness": 1.13e-05,
+        "liveness": 0.104,
+        "valence": 0.8,
+        "tempo": 92.004,
+        "type": "audio_features",
+        "id": "086myS9r57YsLbJpU0TgK9",
+        "uri": "spotify:track:086myS9r57YsLbJpU0TgK9",
+        "track_href": "https://api.spotify.com/v1/tracks/086myS9r57YsLbJpU0TgK9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/086myS9r57YsLbJpU0TgK9",
+        "duration_ms": 161124,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0NdTUS4UiNYCNn5FgVqKQY",
+    "name": "Snap Out Of It",
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "bpm": 130.014,
+    "features": [
+      {
+        "danceability": 0.728,
+        "energy": 0.638,
+        "key": 5,
+        "loudness": -6.455,
+        "mode": 0,
+        "speechiness": 0.0336,
+        "acousticness": 0.249,
+        "instrumentalness": 0,
+        "liveness": 0.116,
+        "valence": 0.872,
+        "tempo": 130.014,
+        "type": "audio_features",
+        "id": "0NdTUS4UiNYCNn5FgVqKQY",
+        "uri": "spotify:track:0NdTUS4UiNYCNn5FgVqKQY",
+        "track_href": "https://api.spotify.com/v1/tracks/0NdTUS4UiNYCNn5FgVqKQY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0NdTUS4UiNYCNn5FgVqKQY",
+        "duration_ms": 193030,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2LGdO5MtFdyphi2EihANZG",
+    "name": "Knee Socks",
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "bpm": 97.975,
+    "features": [
+      {
+        "danceability": 0.665,
+        "energy": 0.542,
+        "key": 11,
+        "loudness": -8.323,
+        "mode": 0,
+        "speechiness": 0.033,
+        "acousticness": 0.123,
+        "instrumentalness": 0.00291,
+        "liveness": 0.342,
+        "valence": 0.587,
+        "tempo": 97.975,
+        "type": "audio_features",
+        "id": "2LGdO5MtFdyphi2EihANZG",
+        "uri": "spotify:track:2LGdO5MtFdyphi2EihANZG",
+        "track_href": "https://api.spotify.com/v1/tracks/2LGdO5MtFdyphi2EihANZG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2LGdO5MtFdyphi2EihANZG",
+        "duration_ms": 257563,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5XeFesFbtLpXzIVDNQP22n",
+    "name": "I Wanna Be Yours",
+    "artist": "Arctic Monkeys",
+    "album": "AM",
+    "bpm": 67.528,
+    "features": [
+      {
+        "danceability": 0.464,
+        "energy": 0.417,
+        "key": 0,
+        "loudness": -9.345,
+        "mode": 0,
+        "speechiness": 0.0256,
+        "acousticness": 0.136,
+        "instrumentalness": 0.022,
+        "liveness": 0.0974,
+        "valence": 0.479,
+        "tempo": 67.528,
+        "type": "audio_features",
+        "id": "5XeFesFbtLpXzIVDNQP22n",
+        "uri": "spotify:track:5XeFesFbtLpXzIVDNQP22n",
+        "track_href": "https://api.spotify.com/v1/tracks/5XeFesFbtLpXzIVDNQP22n",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5XeFesFbtLpXzIVDNQP22n",
+        "duration_ms": 183956,
+        "time_signature": 4
+      }
+    ]
+  }
+]

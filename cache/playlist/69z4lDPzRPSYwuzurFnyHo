@@ -1,0 +1,536 @@
+[
+  {
+    "id": "5GxqKrG0zeKA8uYJMjXwj9",
+    "name": "Rock the House",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 171.953,
+    "features": [
+      {
+        "danceability": 0.754,
+        "energy": 0.825,
+        "key": 2,
+        "loudness": -6.498,
+        "mode": 1,
+        "speechiness": 0.237,
+        "acousticness": 0.0748,
+        "instrumentalness": 7.18e-05,
+        "liveness": 0.169,
+        "valence": 0.612,
+        "tempo": 171.953,
+        "type": "audio_features",
+        "id": "5GxqKrG0zeKA8uYJMjXwj9",
+        "uri": "spotify:track:5GxqKrG0zeKA8uYJMjXwj9",
+        "track_href": "https://api.spotify.com/v1/tracks/5GxqKrG0zeKA8uYJMjXwj9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5GxqKrG0zeKA8uYJMjXwj9",
+        "duration_ms": 249200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "66324Jt0mZdXaM7f8uUitE",
+    "name": "Where Did The Party Go",
+    "artist": "Fall Out Boy",
+    "album": "Save Rock And Roll",
+    "bpm": 119.959,
+    "features": [
+      {
+        "danceability": 0.631,
+        "energy": 0.891,
+        "key": 0,
+        "loudness": -4.202,
+        "mode": 1,
+        "speechiness": 0.0999,
+        "acousticness": 0.00368,
+        "instrumentalness": 0.00124,
+        "liveness": 0.157,
+        "valence": 0.677,
+        "tempo": 119.959,
+        "type": "audio_features",
+        "id": "66324Jt0mZdXaM7f8uUitE",
+        "uri": "spotify:track:66324Jt0mZdXaM7f8uUitE",
+        "track_href": "https://api.spotify.com/v1/tracks/66324Jt0mZdXaM7f8uUitE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/66324Jt0mZdXaM7f8uUitE",
+        "duration_ms": 243040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5mHVURjIu3spVJSGjQ3kXS",
+    "name": "Platoon",
+    "artist": "Jungle",
+    "album": "Jungle",
+    "playlist": "chill brunch party",
+    "bpm": 100.038,
+    "features": [
+      {
+        "danceability": 0.638,
+        "energy": 0.834,
+        "key": 5,
+        "loudness": -7.52,
+        "mode": 1,
+        "speechiness": 0.0417,
+        "acousticness": 0.0447,
+        "instrumentalness": 0.411,
+        "liveness": 0.0624,
+        "valence": 0.777,
+        "tempo": 100.038,
+        "type": "audio_features",
+        "id": "5mHVURjIu3spVJSGjQ3kXS",
+        "uri": "spotify:track:5mHVURjIu3spVJSGjQ3kXS",
+        "track_href": "https://api.spotify.com/v1/tracks/5mHVURjIu3spVJSGjQ3kXS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5mHVURjIu3spVJSGjQ3kXS",
+        "duration_ms": 192405,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1YscJ7yVTlFxW3eF6pv5ba",
+    "name": "Allergic",
+    "artist": "Post Malone",
+    "album": "Hollywood's Bleeding",
+    "bpm": 144.968,
+    "features": [
+      {
+        "danceability": 0.664,
+        "energy": 0.741,
+        "key": 0,
+        "loudness": -3.694,
+        "mode": 1,
+        "speechiness": 0.079,
+        "acousticness": 0.154,
+        "instrumentalness": 3.02e-05,
+        "liveness": 0.345,
+        "valence": 0.569,
+        "tempo": 144.968,
+        "type": "audio_features",
+        "id": "1YscJ7yVTlFxW3eF6pv5ba",
+        "uri": "spotify:track:1YscJ7yVTlFxW3eF6pv5ba",
+        "track_href": "https://api.spotify.com/v1/tracks/1YscJ7yVTlFxW3eF6pv5ba",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1YscJ7yVTlFxW3eF6pv5ba",
+        "duration_ms": 156893,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0RiRZpuVRbi7oqRdSMwhQY",
+    "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+    "artist": "Post Malone",
+    "album": "Hollywood's Bleeding",
+    "bpm": 89.96,
+    "features": [
+      {
+        "danceability": 0.755,
+        "energy": 0.522,
+        "key": 2,
+        "loudness": -4.368,
+        "mode": 1,
+        "speechiness": 0.0575,
+        "acousticness": 0.533,
+        "instrumentalness": 0,
+        "liveness": 0.0685,
+        "valence": 0.925,
+        "tempo": 89.96,
+        "type": "audio_features",
+        "id": "0RiRZpuVRbi7oqRdSMwhQY",
+        "uri": "spotify:track:0RiRZpuVRbi7oqRdSMwhQY",
+        "track_href": "https://api.spotify.com/v1/tracks/0RiRZpuVRbi7oqRdSMwhQY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0RiRZpuVRbi7oqRdSMwhQY",
+        "duration_ms": 157560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7fvFn4pfvOxW7xzEFovDvW",
+    "name": "End of World Party",
+    "artist": "H\u00c6LOS",
+    "album": "Any Random Kindness",
+    "playlist": "chill brunch party",
+    "bpm": 125.018,
+    "features": [
+      {
+        "danceability": 0.664,
+        "energy": 0.865,
+        "key": 1,
+        "loudness": -6.482,
+        "mode": 1,
+        "speechiness": 0.0369,
+        "acousticness": 0.0109,
+        "instrumentalness": 0.00173,
+        "liveness": 0.063,
+        "valence": 0.712,
+        "tempo": 125.018,
+        "type": "audio_features",
+        "id": "7fvFn4pfvOxW7xzEFovDvW",
+        "uri": "spotify:track:7fvFn4pfvOxW7xzEFovDvW",
+        "track_href": "https://api.spotify.com/v1/tracks/7fvFn4pfvOxW7xzEFovDvW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7fvFn4pfvOxW7xzEFovDvW",
+        "duration_ms": 242314,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7b9h63I7EafcW2pVS9pcUr",
+    "name": "Retro [ROUGH]",
+    "artist": "Childish Gambino",
+    "album": "Kauai",
+    "playlist": "chill brunch party",
+    "bpm": 109.954,
+    "features": [
+      {
+        "danceability": 0.868,
+        "energy": 0.636,
+        "key": 5,
+        "loudness": -5.691,
+        "mode": 0,
+        "speechiness": 0.0391,
+        "acousticness": 0.233,
+        "instrumentalness": 0.0125,
+        "liveness": 0.112,
+        "valence": 0.304,
+        "tempo": 109.954,
+        "type": "audio_features",
+        "id": "7b9h63I7EafcW2pVS9pcUr",
+        "uri": "spotify:track:7b9h63I7EafcW2pVS9pcUr",
+        "track_href": "https://api.spotify.com/v1/tracks/7b9h63I7EafcW2pVS9pcUr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7b9h63I7EafcW2pVS9pcUr",
+        "duration_ms": 202667,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3Ttx1ky0ZYaVjXZWdcmwh5",
+    "name": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours (Deluxe)",
+    "playlist": "chill brunch party",
+    "bpm": 170.964,
+    "features": [
+      {
+        "danceability": 0.517,
+        "energy": 0.727,
+        "key": 1,
+        "loudness": -5.947,
+        "mode": 1,
+        "speechiness": 0.0564,
+        "acousticness": 0.00154,
+        "instrumentalness": 0.00015,
+        "liveness": 0.0882,
+        "valence": 0.342,
+        "tempo": 170.964,
+        "type": "audio_features",
+        "id": "3Ttx1ky0ZYaVjXZWdcmwh5",
+        "uri": "spotify:track:3Ttx1ky0ZYaVjXZWdcmwh5",
+        "track_href": "https://api.spotify.com/v1/tracks/3Ttx1ky0ZYaVjXZWdcmwh5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Ttx1ky0ZYaVjXZWdcmwh5",
+        "duration_ms": 200046,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7BFI9QZPQKgYuR2HhDgwbG",
+    "name": "Royals",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "playlist": "chill brunch party",
+    "bpm": 84.878,
+    "features": [
+      {
+        "danceability": 0.674,
+        "energy": 0.428,
+        "key": 7,
+        "loudness": -9.504,
+        "mode": 1,
+        "speechiness": 0.122,
+        "acousticness": 0.121,
+        "instrumentalness": 0,
+        "liveness": 0.132,
+        "valence": 0.337,
+        "tempo": 84.878,
+        "type": "audio_features",
+        "id": "7BFI9QZPQKgYuR2HhDgwbG",
+        "uri": "spotify:track:7BFI9QZPQKgYuR2HhDgwbG",
+        "track_href": "https://api.spotify.com/v1/tracks/7BFI9QZPQKgYuR2HhDgwbG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7BFI9QZPQKgYuR2HhDgwbG",
+        "duration_ms": 190185,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2x0WlnmfG39ZuDmstl9xfX",
+    "name": "End Game",
+    "artist": "Taylor Swift",
+    "album": "reputation",
+    "playlist": "chill brunch party",
+    "bpm": 159.073,
+    "features": [
+      {
+        "danceability": 0.649,
+        "energy": 0.589,
+        "key": 2,
+        "loudness": -6.237,
+        "mode": 1,
+        "speechiness": 0.0558,
+        "acousticness": 0.00845,
+        "instrumentalness": 0,
+        "liveness": 0.108,
+        "valence": 0.151,
+        "tempo": 159.073,
+        "type": "audio_features",
+        "id": "2x0WlnmfG39ZuDmstl9xfX",
+        "uri": "spotify:track:2x0WlnmfG39ZuDmstl9xfX",
+        "track_href": "https://api.spotify.com/v1/tracks/2x0WlnmfG39ZuDmstl9xfX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2x0WlnmfG39ZuDmstl9xfX",
+        "duration_ms": 244827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6RRNNciQGZEXnqk8SQ9yv5",
+    "name": "You Need To Calm Down",
+    "artist": "Taylor Swift",
+    "album": "Lover",
+    "playlist": "chill brunch party",
+    "bpm": 85.026,
+    "features": [
+      {
+        "danceability": 0.771,
+        "energy": 0.671,
+        "key": 2,
+        "loudness": -5.617,
+        "mode": 1,
+        "speechiness": 0.0553,
+        "acousticness": 0.00929,
+        "instrumentalness": 0,
+        "liveness": 0.0637,
+        "valence": 0.714,
+        "tempo": 85.026,
+        "type": "audio_features",
+        "id": "6RRNNciQGZEXnqk8SQ9yv5",
+        "uri": "spotify:track:6RRNNciQGZEXnqk8SQ9yv5",
+        "track_href": "https://api.spotify.com/v1/tracks/6RRNNciQGZEXnqk8SQ9yv5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6RRNNciQGZEXnqk8SQ9yv5",
+        "duration_ms": 171360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3LAvCzBpgK56srPYbMljJa",
+    "name": "Star",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 84.452,
+    "features": [
+      {
+        "danceability": 0.639,
+        "energy": 0.749,
+        "key": 1,
+        "loudness": -5.916,
+        "mode": 0,
+        "speechiness": 0.0468,
+        "acousticness": 0.0573,
+        "instrumentalness": 0.0294,
+        "liveness": 0.153,
+        "valence": 0.53,
+        "tempo": 84.452,
+        "type": "audio_features",
+        "id": "3LAvCzBpgK56srPYbMljJa",
+        "uri": "spotify:track:3LAvCzBpgK56srPYbMljJa",
+        "track_href": "https://api.spotify.com/v1/tracks/3LAvCzBpgK56srPYbMljJa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3LAvCzBpgK56srPYbMljJa",
+        "duration_ms": 284080,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0td1GfBHNxlGephozVmL9k",
+    "name": "Starz In Their Eyes",
+    "artist": "Just Jack",
+    "album": "Starz In Their Eyes - Single",
+    "playlist": "chill brunch party",
+    "bpm": 124.315,
+    "features": [
+      {
+        "danceability": 0.622,
+        "energy": 0.867,
+        "key": 3,
+        "loudness": -4.134,
+        "mode": 1,
+        "speechiness": 0.108,
+        "acousticness": 0.000617,
+        "instrumentalness": 9.83e-05,
+        "liveness": 0.548,
+        "valence": 0.689,
+        "tempo": 124.315,
+        "type": "audio_features",
+        "id": "0td1GfBHNxlGephozVmL9k",
+        "uri": "spotify:track:0td1GfBHNxlGephozVmL9k",
+        "track_href": "https://api.spotify.com/v1/tracks/0td1GfBHNxlGephozVmL9k",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0td1GfBHNxlGephozVmL9k",
+        "duration_ms": 191760,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7KumlmusIbdAMvbiZ6dG3t",
+    "name": "Blak and Blu",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 97.986,
+    "features": [
+      {
+        "danceability": 0.713,
+        "energy": 0.668,
+        "key": 6,
+        "loudness": -4.816,
+        "mode": 1,
+        "speechiness": 0.0447,
+        "acousticness": 0.00724,
+        "instrumentalness": 0.0158,
+        "liveness": 0.0898,
+        "valence": 0.639,
+        "tempo": 97.986,
+        "type": "audio_features",
+        "id": "7KumlmusIbdAMvbiZ6dG3t",
+        "uri": "spotify:track:7KumlmusIbdAMvbiZ6dG3t",
+        "track_href": "https://api.spotify.com/v1/tracks/7KumlmusIbdAMvbiZ6dG3t",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7KumlmusIbdAMvbiZ6dG3t",
+        "duration_ms": 246453,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3IXRdLsQib8m0hBbQpe7T8",
+    "name": "Hang Me Up To Dry",
+    "artist": "Cold War Kids",
+    "album": "Robbers & Cowards",
+    "playlist": "chill brunch party",
+    "bpm": 92.5,
+    "features": [
+      {
+        "danceability": 0.509,
+        "energy": 0.922,
+        "key": 9,
+        "loudness": -2.823,
+        "mode": 0,
+        "speechiness": 0.031,
+        "acousticness": 0.0219,
+        "instrumentalness": 0.00117,
+        "liveness": 0.496,
+        "valence": 0.645,
+        "tempo": 92.5,
+        "type": "audio_features",
+        "id": "3IXRdLsQib8m0hBbQpe7T8",
+        "uri": "spotify:track:3IXRdLsQib8m0hBbQpe7T8",
+        "track_href": "https://api.spotify.com/v1/tracks/3IXRdLsQib8m0hBbQpe7T8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3IXRdLsQib8m0hBbQpe7T8",
+        "duration_ms": 218787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6vsBCrM20zIKYkjWQ2qJAo",
+    "name": "In A Spiral",
+    "artist": "Phantogram",
+    "album": "Ceremony",
+    "playlist": "chill brunch party",
+    "bpm": 166.957,
+    "features": [
+      {
+        "danceability": 0.438,
+        "energy": 0.941,
+        "key": 7,
+        "loudness": -5.027,
+        "mode": 1,
+        "speechiness": 0.0881,
+        "acousticness": 0.000285,
+        "instrumentalness": 0.00167,
+        "liveness": 0.504,
+        "valence": 0.55,
+        "tempo": 166.957,
+        "type": "audio_features",
+        "id": "6vsBCrM20zIKYkjWQ2qJAo",
+        "uri": "spotify:track:6vsBCrM20zIKYkjWQ2qJAo",
+        "track_href": "https://api.spotify.com/v1/tracks/6vsBCrM20zIKYkjWQ2qJAo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6vsBCrM20zIKYkjWQ2qJAo",
+        "duration_ms": 203093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5zZWKugaE2ZmnZN77HVfUH",
+    "name": "Momentary Bliss (feat. slowthai and Slaves)",
+    "artist": "Gorillaz",
+    "album": "Momentary Bliss (feat. slowthai and Slaves)",
+    "playlist": "chill brunch party",
+    "bpm": 158.071,
+    "features": [
+      {
+        "danceability": 0.641,
+        "energy": 0.807,
+        "key": 9,
+        "loudness": -6.73,
+        "mode": 1,
+        "speechiness": 0.239,
+        "acousticness": 0.0851,
+        "instrumentalness": 2.38e-05,
+        "liveness": 0.64,
+        "valence": 0.712,
+        "tempo": 158.071,
+        "type": "audio_features",
+        "id": "5zZWKugaE2ZmnZN77HVfUH",
+        "uri": "spotify:track:5zZWKugaE2ZmnZN77HVfUH",
+        "track_href": "https://api.spotify.com/v1/tracks/5zZWKugaE2ZmnZN77HVfUH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zZWKugaE2ZmnZN77HVfUH",
+        "duration_ms": 221386,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "73mlvsfJM2qwlDUJxeaatI",
+    "name": "Daft Punk Is Playing at My House",
+    "artist": "LCD Soundsystem",
+    "album": "LCD Soundsystem",
+    "playlist": "chill brunch party",
+    "bpm": 135.923,
+    "features": [
+      {
+        "danceability": 0.92,
+        "energy": 0.914,
+        "key": 7,
+        "loudness": -4.555,
+        "mode": 1,
+        "speechiness": 0.0444,
+        "acousticness": 0.0222,
+        "instrumentalness": 7.62e-05,
+        "liveness": 0.114,
+        "valence": 0.974,
+        "tempo": 135.923,
+        "type": "audio_features",
+        "id": "73mlvsfJM2qwlDUJxeaatI",
+        "uri": "spotify:track:73mlvsfJM2qwlDUJxeaatI",
+        "track_href": "https://api.spotify.com/v1/tracks/73mlvsfJM2qwlDUJxeaatI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/73mlvsfJM2qwlDUJxeaatI",
+        "duration_ms": 314557,
+        "time_signature": 4
+      }
+    ]
+  }
+]

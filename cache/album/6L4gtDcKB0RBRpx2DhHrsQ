@@ -1,0 +1,147 @@
+[
+  {
+    "id": "5lFbGMt9ZYPvnWvWeimvkW",
+    "name": "Be Alone",
+    "artist": "Childish Gambino",
+    "album": "EP (2011 Re-Release)",
+    "bpm": 155.166,
+    "features": [
+      {
+        "danceability": 0.378,
+        "energy": 0.545,
+        "key": 2,
+        "loudness": -12.575,
+        "mode": 0,
+        "speechiness": 0.112,
+        "acousticness": 0.405,
+        "instrumentalness": 0,
+        "liveness": 0.0922,
+        "valence": 0.329,
+        "tempo": 155.166,
+        "type": "audio_features",
+        "id": "5lFbGMt9ZYPvnWvWeimvkW",
+        "uri": "spotify:track:5lFbGMt9ZYPvnWvWeimvkW",
+        "track_href": "https://api.spotify.com/v1/tracks/5lFbGMt9ZYPvnWvWeimvkW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5lFbGMt9ZYPvnWvWeimvkW",
+        "duration_ms": 280687,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7xTY3rJMgj0nh6OOPHgsLw",
+    "name": "Freaks And Geeks",
+    "artist": "Childish Gambino",
+    "album": "EP (2011 Re-Release)",
+    "bpm": 81.052,
+    "features": [
+      {
+        "danceability": 0.667,
+        "energy": 0.873,
+        "key": 10,
+        "loudness": -5.605,
+        "mode": 1,
+        "speechiness": 0.314,
+        "acousticness": 0.124,
+        "instrumentalness": 0,
+        "liveness": 0.0725,
+        "valence": 0.799,
+        "tempo": 81.052,
+        "type": "audio_features",
+        "id": "7xTY3rJMgj0nh6OOPHgsLw",
+        "uri": "spotify:track:7xTY3rJMgj0nh6OOPHgsLw",
+        "track_href": "https://api.spotify.com/v1/tracks/7xTY3rJMgj0nh6OOPHgsLw",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7xTY3rJMgj0nh6OOPHgsLw",
+        "duration_ms": 217104,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "146EkdID2XSngct4gG8NQl",
+    "name": "My Shine",
+    "artist": "Childish Gambino",
+    "album": "EP (2011 Re-Release)",
+    "bpm": 157.593,
+    "features": [
+      {
+        "danceability": 0.435,
+        "energy": 0.872,
+        "key": 0,
+        "loudness": -6.944,
+        "mode": 1,
+        "speechiness": 0.232,
+        "acousticness": 0.283,
+        "instrumentalness": 0,
+        "liveness": 0.197,
+        "valence": 0.292,
+        "tempo": 157.593,
+        "type": "audio_features",
+        "id": "146EkdID2XSngct4gG8NQl",
+        "uri": "spotify:track:146EkdID2XSngct4gG8NQl",
+        "track_href": "https://api.spotify.com/v1/tracks/146EkdID2XSngct4gG8NQl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/146EkdID2XSngct4gG8NQl",
+        "duration_ms": 212664,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "48otelBlQznqDX6Uuio485",
+    "name": "Lights Turned On",
+    "artist": "Childish Gambino",
+    "album": "EP (2011 Re-Release)",
+    "bpm": 125.001,
+    "features": [
+      {
+        "danceability": 0.699,
+        "energy": 0.914,
+        "key": 3,
+        "loudness": -6.769,
+        "mode": 0,
+        "speechiness": 0.212,
+        "acousticness": 0.0359,
+        "instrumentalness": 0,
+        "liveness": 0.35,
+        "valence": 0.511,
+        "tempo": 125.001,
+        "type": "audio_features",
+        "id": "48otelBlQznqDX6Uuio485",
+        "uri": "spotify:track:48otelBlQznqDX6Uuio485",
+        "track_href": "https://api.spotify.com/v1/tracks/48otelBlQznqDX6Uuio485",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/48otelBlQznqDX6Uuio485",
+        "duration_ms": 233405,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4sy3B9TPNMIze8oFrDJnUN",
+    "name": "Not Going Back",
+    "artist": "Childish Gambino",
+    "album": "EP (2011 Re-Release)",
+    "bpm": 95.142,
+    "features": [
+      {
+        "danceability": 0.654,
+        "energy": 0.668,
+        "key": 5,
+        "loudness": -9.135,
+        "mode": 0,
+        "speechiness": 0.248,
+        "acousticness": 0.196,
+        "instrumentalness": 0,
+        "liveness": 0.0999,
+        "valence": 0.378,
+        "tempo": 95.142,
+        "type": "audio_features",
+        "id": "4sy3B9TPNMIze8oFrDJnUN",
+        "uri": "spotify:track:4sy3B9TPNMIze8oFrDJnUN",
+        "track_href": "https://api.spotify.com/v1/tracks/4sy3B9TPNMIze8oFrDJnUN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4sy3B9TPNMIze8oFrDJnUN",
+        "duration_ms": 280870,
+        "time_signature": 4
+      }
+    ]
+  }
+]

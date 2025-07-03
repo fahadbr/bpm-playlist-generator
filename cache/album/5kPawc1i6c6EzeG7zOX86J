@@ -1,0 +1,350 @@
+[
+  {
+    "id": "14ZgqhdUxMH6eSAnwtghoD",
+    "name": "Image Of The Invisible",
+    "artist": "Thrice",
+    "album": "Vheissu",
+    "bpm": 129.197,
+    "features": [
+      {
+        "danceability": 0.444,
+        "energy": 0.974,
+        "key": 7,
+        "loudness": -3.203,
+        "mode": 0,
+        "speechiness": 0.146,
+        "acousticness": 0.068,
+        "instrumentalness": 0.138,
+        "liveness": 0.388,
+        "valence": 0.14,
+        "tempo": 129.197,
+        "type": "audio_features",
+        "id": "14ZgqhdUxMH6eSAnwtghoD",
+        "uri": "spotify:track:14ZgqhdUxMH6eSAnwtghoD",
+        "track_href": "https://api.spotify.com/v1/tracks/14ZgqhdUxMH6eSAnwtghoD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/14ZgqhdUxMH6eSAnwtghoD",
+        "duration_ms": 254853,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3yESUCuprceFN1HbJz9rRG",
+    "name": "Between The End And Where We Lie",
+    "artist": "Thrice",
+    "album": "Vheissu",
+    "bpm": 180.376,
+    "features": [
+      {
+        "danceability": 0.4,
+        "energy": 0.893,
+        "key": 2,
+        "loudness": -4.262,
+        "mode": 0,
+        "speechiness": 0.163,
+        "acousticness": 0.0557,
+        "instrumentalness": 0.000663,
+        "liveness": 0.198,
+        "valence": 0.156,
+        "tempo": 180.376,
+        "type": "audio_features",
+        "id": "3yESUCuprceFN1HbJz9rRG",
+        "uri": "spotify:track:3yESUCuprceFN1HbJz9rRG",
+        "track_href": "https://api.spotify.com/v1/tracks/3yESUCuprceFN1HbJz9rRG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3yESUCuprceFN1HbJz9rRG",
+        "duration_ms": 235747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7dHs1eJRtIb5XVr8ylDI10",
+    "name": "The Earth Will Shake",
+    "artist": "Thrice",
+    "album": "Vheissu",
+    "bpm": 124.965,
+    "features": [
+      {
+        "danceability": 0.446,
+        "energy": 0.875,
+        "key": 9,
+        "loudness": -4.676,
+        "mode": 0,
+        "speechiness": 0.0669,
+        "acousticness": 0.00857,
+        "instrumentalness": 0.0308,
+        "liveness": 0.126,
+        "valence": 0.133,
+        "tempo": 124.965,
+        "type": "audio_features",
+        "id": "7dHs1eJRtIb5XVr8ylDI10",
+        "uri": "spotify:track:7dHs1eJRtIb5XVr8ylDI10",
+        "track_href": "https://api.spotify.com/v1/tracks/7dHs1eJRtIb5XVr8ylDI10",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7dHs1eJRtIb5XVr8ylDI10",
+        "duration_ms": 268187,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1yhMNipm36Mh8SYh20LP9g",
+    "name": "Atlantic",
+    "artist": "Thrice",
+    "album": "Vheissu",
+    "bpm": 155.616,
+    "features": [
+      {
+        "danceability": 0.496,
+        "energy": 0.868,
+        "key": 4,
+        "loudness": -5.841,
+        "mode": 0,
+        "speechiness": 0.0423,
+        "acousticness": 0.691,
+        "instrumentalness": 0.605,
+        "liveness": 0.112,
+        "valence": 0.292,
+        "tempo": 155.616,
+        "type": "audio_features",
+        "id": "1yhMNipm36Mh8SYh20LP9g",
+        "uri": "spotify:track:1yhMNipm36Mh8SYh20LP9g",
+        "track_href": "https://api.spotify.com/v1/tracks/1yhMNipm36Mh8SYh20LP9g",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1yhMNipm36Mh8SYh20LP9g",
+        "duration_ms": 240427,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0qZTxdSgBeriNI1WMPvqRr",
+    "name": "For Miles",
+    "artist": "Thrice",
+    "album": "Vheissu",
+    "bpm": 157.359,
+    "features": [
+      {
+        "danceability": 0.273,
+        "energy": 0.809,
+        "key": 9,
+        "loudness": -3.664,
+        "mode": 0,
+        "speechiness": 0.0597,
+        "acousticness": 0.182,
+        "instrumentalness": 0.0058,
+        "liveness": 0.0938,
+        "valence": 0.126,
+        "tempo": 157.359,
+        "type": "audio_features",
+        "id": "0qZTxdSgBeriNI1WMPvqRr",
+        "uri": "spotify:track:0qZTxdSgBeriNI1WMPvqRr",
+        "track_href": "https://api.spotify.com/v1/tracks/0qZTxdSgBeriNI1WMPvqRr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0qZTxdSgBeriNI1WMPvqRr",
+        "duration_ms": 266773,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3H2W9mYfQNYG31FOAD9q4W",
+    "name": "Hold Fast Hope",
+    "artist": "Thrice",
+    "album": "Vheissu",
+    "bpm": 97.916,
+    "features": [
+      {
+        "danceability": 0.227,
+        "energy": 0.983,
+        "key": 5,
+        "loudness": -3.129,
+        "mode": 1,
+        "speechiness": 0.343,
+        "acousticness": 0.00292,
+        "instrumentalness": 4.14e-05,
+        "liveness": 0.511,
+        "valence": 0.0501,
+        "tempo": 97.916,
+        "type": "audio_features",
+        "id": "3H2W9mYfQNYG31FOAD9q4W",
+        "uri": "spotify:track:3H2W9mYfQNYG31FOAD9q4W",
+        "track_href": "https://api.spotify.com/v1/tracks/3H2W9mYfQNYG31FOAD9q4W",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3H2W9mYfQNYG31FOAD9q4W",
+        "duration_ms": 240253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2g38FrpAogJwBc1wQ3HVJk",
+    "name": "Music Box",
+    "artist": "Thrice",
+    "album": "Vheissu",
+    "bpm": 147.522,
+    "features": [
+      {
+        "danceability": 0.336,
+        "energy": 0.847,
+        "key": 8,
+        "loudness": -4.511,
+        "mode": 1,
+        "speechiness": 0.0978,
+        "acousticness": 0.00496,
+        "instrumentalness": 0.00117,
+        "liveness": 0.234,
+        "valence": 0.147,
+        "tempo": 147.522,
+        "type": "audio_features",
+        "id": "2g38FrpAogJwBc1wQ3HVJk",
+        "uri": "spotify:track:2g38FrpAogJwBc1wQ3HVJk",
+        "track_href": "https://api.spotify.com/v1/tracks/2g38FrpAogJwBc1wQ3HVJk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2g38FrpAogJwBc1wQ3HVJk",
+        "duration_ms": 286040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5uAg0qytjMZcsmFcV3LN6J",
+    "name": "Like Moths To Flame",
+    "artist": "Thrice",
+    "album": "Vheissu",
+    "bpm": 138.946,
+    "features": [
+      {
+        "danceability": 0.251,
+        "energy": 0.899,
+        "key": 11,
+        "loudness": -5.308,
+        "mode": 0,
+        "speechiness": 0.123,
+        "acousticness": 0.0146,
+        "instrumentalness": 0.0113,
+        "liveness": 0.168,
+        "valence": 0.138,
+        "tempo": 138.946,
+        "type": "audio_features",
+        "id": "5uAg0qytjMZcsmFcV3LN6J",
+        "uri": "spotify:track:5uAg0qytjMZcsmFcV3LN6J",
+        "track_href": "https://api.spotify.com/v1/tracks/5uAg0qytjMZcsmFcV3LN6J",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5uAg0qytjMZcsmFcV3LN6J",
+        "duration_ms": 266867,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1L079XUk8l1nWqEHUMPoVR",
+    "name": "Of Dust And Nations",
+    "artist": "Thrice",
+    "album": "Vheissu",
+    "bpm": 169.93,
+    "features": [
+      {
+        "danceability": 0.128,
+        "energy": 0.847,
+        "key": 9,
+        "loudness": -4.272,
+        "mode": 0,
+        "speechiness": 0.0599,
+        "acousticness": 0.0531,
+        "instrumentalness": 0.0371,
+        "liveness": 0.0946,
+        "valence": 0.163,
+        "tempo": 169.93,
+        "type": "audio_features",
+        "id": "1L079XUk8l1nWqEHUMPoVR",
+        "uri": "spotify:track:1L079XUk8l1nWqEHUMPoVR",
+        "track_href": "https://api.spotify.com/v1/tracks/1L079XUk8l1nWqEHUMPoVR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1L079XUk8l1nWqEHUMPoVR",
+        "duration_ms": 290213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3Q4r49Gp97TWUqN9xJwv0Q",
+    "name": "Stand And Feel Your Worth",
+    "artist": "Thrice",
+    "album": "Vheissu",
+    "bpm": 147.987,
+    "features": [
+      {
+        "danceability": 0.49,
+        "energy": 0.707,
+        "key": 7,
+        "loudness": -5.753,
+        "mode": 1,
+        "speechiness": 0.0664,
+        "acousticness": 0.0257,
+        "instrumentalness": 0.0856,
+        "liveness": 0.087,
+        "valence": 0.152,
+        "tempo": 147.987,
+        "type": "audio_features",
+        "id": "3Q4r49Gp97TWUqN9xJwv0Q",
+        "uri": "spotify:track:3Q4r49Gp97TWUqN9xJwv0Q",
+        "track_href": "https://api.spotify.com/v1/tracks/3Q4r49Gp97TWUqN9xJwv0Q",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Q4r49Gp97TWUqN9xJwv0Q",
+        "duration_ms": 352467,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "6iicvZNMHFkznTOAucfvwR",
+    "name": "Red Sky",
+    "artist": "Thrice",
+    "album": "Vheissu",
+    "bpm": 141.476,
+    "features": [
+      {
+        "danceability": 0.536,
+        "energy": 0.738,
+        "key": 2,
+        "loudness": -4.794,
+        "mode": 1,
+        "speechiness": 0.0444,
+        "acousticness": 0.00596,
+        "instrumentalness": 0.0416,
+        "liveness": 0.107,
+        "valence": 0.117,
+        "tempo": 141.476,
+        "type": "audio_features",
+        "id": "6iicvZNMHFkznTOAucfvwR",
+        "uri": "spotify:track:6iicvZNMHFkznTOAucfvwR",
+        "track_href": "https://api.spotify.com/v1/tracks/6iicvZNMHFkznTOAucfvwR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6iicvZNMHFkznTOAucfvwR",
+        "duration_ms": 257747,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2glk9tS3gh48mewxVq4Tds",
+    "name": "Atlantic - (Live From The Apple Store)",
+    "artist": "Thrice",
+    "album": "Vheissu",
+    "bpm": 151.681,
+    "features": [
+      {
+        "danceability": 0.572,
+        "energy": 0.645,
+        "key": 4,
+        "loudness": -10.529,
+        "mode": 0,
+        "speechiness": 0.037,
+        "acousticness": 0.561,
+        "instrumentalness": 0.0485,
+        "liveness": 0.972,
+        "valence": 0.421,
+        "tempo": 151.681,
+        "type": "audio_features",
+        "id": "2glk9tS3gh48mewxVq4Tds",
+        "uri": "spotify:track:2glk9tS3gh48mewxVq4Tds",
+        "track_href": "https://api.spotify.com/v1/tracks/2glk9tS3gh48mewxVq4Tds",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2glk9tS3gh48mewxVq4Tds",
+        "duration_ms": 254173,
+        "time_signature": 3
+      }
+    ]
+  }
+]

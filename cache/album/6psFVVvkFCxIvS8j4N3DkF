@@ -1,0 +1,292 @@
+[
+  {
+    "id": "6zkQE5boH7LEHZbO6ywcrW",
+    "name": "BLK VINTAGE (INTRO) (feat. Grace Sorensen)",
+    "artist": "BLK ODYSSY",
+    "album": "BLK VINTAGE",
+    "bpm": 71.87,
+    "features": [
+      {
+        "danceability": 0.449,
+        "energy": 0.414,
+        "key": 11,
+        "loudness": -12.699,
+        "mode": 0,
+        "speechiness": 0.0631,
+        "acousticness": 0.865,
+        "instrumentalness": 0.129,
+        "liveness": 0.171,
+        "valence": 0.297,
+        "tempo": 71.87,
+        "type": "audio_features",
+        "id": "6zkQE5boH7LEHZbO6ywcrW",
+        "uri": "spotify:track:6zkQE5boH7LEHZbO6ywcrW",
+        "track_href": "https://api.spotify.com/v1/tracks/6zkQE5boH7LEHZbO6ywcrW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6zkQE5boH7LEHZbO6ywcrW",
+        "duration_ms": 177706,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5KdfaHdg2mYtccCtPQrIhF",
+    "name": "FUNKENTOLOGY",
+    "artist": "BLK ODYSSY",
+    "album": "BLK VINTAGE",
+    "bpm": 148.382,
+    "features": [
+      {
+        "danceability": 0.514,
+        "energy": 0.474,
+        "key": 7,
+        "loudness": -8.545,
+        "mode": 0,
+        "speechiness": 0.345,
+        "acousticness": 0.209,
+        "instrumentalness": 0.02,
+        "liveness": 0.109,
+        "valence": 0.378,
+        "tempo": 148.382,
+        "type": "audio_features",
+        "id": "5KdfaHdg2mYtccCtPQrIhF",
+        "uri": "spotify:track:5KdfaHdg2mYtccCtPQrIhF",
+        "track_href": "https://api.spotify.com/v1/tracks/5KdfaHdg2mYtccCtPQrIhF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5KdfaHdg2mYtccCtPQrIhF",
+        "duration_ms": 172830,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "70hlOBVJ0Zr7iWhXy8OQHf",
+    "name": "NINETEEN EIGHTY",
+    "artist": "BLK ODYSSY",
+    "album": "BLK VINTAGE",
+    "bpm": 84.227,
+    "features": [
+      {
+        "danceability": 0.642,
+        "energy": 0.662,
+        "key": 7,
+        "loudness": -6.985,
+        "mode": 0,
+        "speechiness": 0.346,
+        "acousticness": 0.0361,
+        "instrumentalness": 3.51e-05,
+        "liveness": 0.116,
+        "valence": 0.511,
+        "tempo": 84.227,
+        "type": "audio_features",
+        "id": "70hlOBVJ0Zr7iWhXy8OQHf",
+        "uri": "spotify:track:70hlOBVJ0Zr7iWhXy8OQHf",
+        "track_href": "https://api.spotify.com/v1/tracks/70hlOBVJ0Zr7iWhXy8OQHf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/70hlOBVJ0Zr7iWhXy8OQHf",
+        "duration_ms": 146413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5nR6MBAFCdusf8C3BZGtop",
+    "name": "HANG LOW (feat. James Robinson)",
+    "artist": "BLK ODYSSY",
+    "album": "BLK VINTAGE",
+    "bpm": 169.994,
+    "features": [
+      {
+        "danceability": 0.443,
+        "energy": 0.662,
+        "key": 9,
+        "loudness": -6.544,
+        "mode": 0,
+        "speechiness": 0.502,
+        "acousticness": 0.277,
+        "instrumentalness": 0.0246,
+        "liveness": 0.102,
+        "valence": 0.372,
+        "tempo": 169.994,
+        "type": "audio_features",
+        "id": "5nR6MBAFCdusf8C3BZGtop",
+        "uri": "spotify:track:5nR6MBAFCdusf8C3BZGtop",
+        "track_href": "https://api.spotify.com/v1/tracks/5nR6MBAFCdusf8C3BZGtop",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5nR6MBAFCdusf8C3BZGtop",
+        "duration_ms": 152525,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2psY7bHSyxhoItxG9XHG4E",
+    "name": "BIG BAD WOLF/SOBER (feat. LARA')",
+    "artist": "BLK ODYSSY",
+    "album": "BLK VINTAGE",
+    "bpm": 145.393,
+    "features": [
+      {
+        "danceability": 0.429,
+        "energy": 0.473,
+        "key": 7,
+        "loudness": -10.495,
+        "mode": 0,
+        "speechiness": 0.265,
+        "acousticness": 0.0662,
+        "instrumentalness": 0.0268,
+        "liveness": 0.334,
+        "valence": 0.252,
+        "tempo": 145.393,
+        "type": "audio_features",
+        "id": "2psY7bHSyxhoItxG9XHG4E",
+        "uri": "spotify:track:2psY7bHSyxhoItxG9XHG4E",
+        "track_href": "https://api.spotify.com/v1/tracks/2psY7bHSyxhoItxG9XHG4E",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2psY7bHSyxhoItxG9XHG4E",
+        "duration_ms": 286839,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "5W1KPkyAWqqJR8tAueqIWJ",
+    "name": "YA NO POD\u00cdA SALIR",
+    "artist": "BLK ODYSSY",
+    "album": "BLK VINTAGE",
+    "bpm": 146.754,
+    "features": [
+      {
+        "danceability": 0.527,
+        "energy": 0.391,
+        "key": 3,
+        "loudness": -10.21,
+        "mode": 0,
+        "speechiness": 0.153,
+        "acousticness": 0.687,
+        "instrumentalness": 0.235,
+        "liveness": 0.397,
+        "valence": 0.588,
+        "tempo": 146.754,
+        "type": "audio_features",
+        "id": "5W1KPkyAWqqJR8tAueqIWJ",
+        "uri": "spotify:track:5W1KPkyAWqqJR8tAueqIWJ",
+        "track_href": "https://api.spotify.com/v1/tracks/5W1KPkyAWqqJR8tAueqIWJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5W1KPkyAWqqJR8tAueqIWJ",
+        "duration_ms": 233107,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6qcKeSJNgz7ubh28BfQjcc",
+    "name": "MURDA",
+    "artist": "BLK ODYSSY",
+    "album": "BLK VINTAGE",
+    "bpm": 111.979,
+    "features": [
+      {
+        "danceability": 0.654,
+        "energy": 0.51,
+        "key": 10,
+        "loudness": -12.104,
+        "mode": 0,
+        "speechiness": 0.0739,
+        "acousticness": 0.174,
+        "instrumentalness": 0.0263,
+        "liveness": 0.11,
+        "valence": 0.333,
+        "tempo": 111.979,
+        "type": "audio_features",
+        "id": "6qcKeSJNgz7ubh28BfQjcc",
+        "uri": "spotify:track:6qcKeSJNgz7ubh28BfQjcc",
+        "track_href": "https://api.spotify.com/v1/tracks/6qcKeSJNgz7ubh28BfQjcc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6qcKeSJNgz7ubh28BfQjcc",
+        "duration_ms": 151910,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "15KqIJ5Kc3vC8KRi57cMY7",
+    "name": "GHOST RIDE",
+    "artist": "BLK ODYSSY",
+    "album": "BLK VINTAGE",
+    "bpm": 143.839,
+    "features": [
+      {
+        "danceability": 0.564,
+        "energy": 0.641,
+        "key": 6,
+        "loudness": -7.856,
+        "mode": 0,
+        "speechiness": 0.39,
+        "acousticness": 0.219,
+        "instrumentalness": 0.000564,
+        "liveness": 0.49,
+        "valence": 0.54,
+        "tempo": 143.839,
+        "type": "audio_features",
+        "id": "15KqIJ5Kc3vC8KRi57cMY7",
+        "uri": "spotify:track:15KqIJ5Kc3vC8KRi57cMY7",
+        "track_href": "https://api.spotify.com/v1/tracks/15KqIJ5Kc3vC8KRi57cMY7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/15KqIJ5Kc3vC8KRi57cMY7",
+        "duration_ms": 150908,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2ZMT1uVVxBD1div3oxFXKo",
+    "name": "BLK REVOLUTION",
+    "artist": "BLK ODYSSY",
+    "album": "BLK VINTAGE",
+    "bpm": 125.081,
+    "features": [
+      {
+        "danceability": 0.708,
+        "energy": 0.535,
+        "key": 5,
+        "loudness": -7.607,
+        "mode": 0,
+        "speechiness": 0.265,
+        "acousticness": 0.0822,
+        "instrumentalness": 0.0454,
+        "liveness": 0.106,
+        "valence": 0.764,
+        "tempo": 125.081,
+        "type": "audio_features",
+        "id": "2ZMT1uVVxBD1div3oxFXKo",
+        "uri": "spotify:track:2ZMT1uVVxBD1div3oxFXKo",
+        "track_href": "https://api.spotify.com/v1/tracks/2ZMT1uVVxBD1div3oxFXKo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ZMT1uVVxBD1div3oxFXKo",
+        "duration_ms": 110988,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6rNMU6EHYPNLu984LEe9X8",
+    "name": "DRINKING GOOD (feat. LARA')",
+    "artist": "BLK ODYSSY",
+    "album": "BLK VINTAGE",
+    "bpm": 73.977,
+    "features": [
+      {
+        "danceability": 0.373,
+        "energy": 0.451,
+        "key": 11,
+        "loudness": -12.006,
+        "mode": 0,
+        "speechiness": 0.352,
+        "acousticness": 0.447,
+        "instrumentalness": 2.75e-05,
+        "liveness": 0.0911,
+        "valence": 0.349,
+        "tempo": 73.977,
+        "type": "audio_features",
+        "id": "6rNMU6EHYPNLu984LEe9X8",
+        "uri": "spotify:track:6rNMU6EHYPNLu984LEe9X8",
+        "track_href": "https://api.spotify.com/v1/tracks/6rNMU6EHYPNLu984LEe9X8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6rNMU6EHYPNLu984LEe9X8",
+        "duration_ms": 287373,
+        "time_signature": 4
+      }
+    ]
+  }
+]

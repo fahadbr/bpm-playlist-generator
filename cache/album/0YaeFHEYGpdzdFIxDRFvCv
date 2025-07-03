@@ -1,0 +1,437 @@
+[
+  {
+    "id": "61VeLzYgLf75bluXdXWbaV",
+    "name": "Ain't Messin 'Round",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 140.468,
+    "features": [
+      {
+        "danceability": 0.346,
+        "energy": 0.952,
+        "key": 9,
+        "loudness": -2.52,
+        "mode": 1,
+        "speechiness": 0.0732,
+        "acousticness": 0.000751,
+        "instrumentalness": 0.0198,
+        "liveness": 0.369,
+        "valence": 0.615,
+        "tempo": 140.468,
+        "type": "audio_features",
+        "id": "61VeLzYgLf75bluXdXWbaV",
+        "uri": "spotify:track:61VeLzYgLf75bluXdXWbaV",
+        "track_href": "https://api.spotify.com/v1/tracks/61VeLzYgLf75bluXdXWbaV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/61VeLzYgLf75bluXdXWbaV",
+        "duration_ms": 249413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2mdxGlwrhtkuxgzbH7LOIh",
+    "name": "When My Train Pulls In",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 165.976,
+    "features": [
+      {
+        "danceability": 0.285,
+        "energy": 0.979,
+        "key": 11,
+        "loudness": -2.262,
+        "mode": 0,
+        "speechiness": 0.129,
+        "acousticness": 0.00405,
+        "instrumentalness": 0.061,
+        "liveness": 0.267,
+        "valence": 0.323,
+        "tempo": 165.976,
+        "type": "audio_features",
+        "id": "2mdxGlwrhtkuxgzbH7LOIh",
+        "uri": "spotify:track:2mdxGlwrhtkuxgzbH7LOIh",
+        "track_href": "https://api.spotify.com/v1/tracks/2mdxGlwrhtkuxgzbH7LOIh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2mdxGlwrhtkuxgzbH7LOIh",
+        "duration_ms": 465960,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7KumlmusIbdAMvbiZ6dG3t",
+    "name": "Blak and Blu",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 97.986,
+    "features": [
+      {
+        "danceability": 0.713,
+        "energy": 0.668,
+        "key": 6,
+        "loudness": -4.816,
+        "mode": 1,
+        "speechiness": 0.0447,
+        "acousticness": 0.00724,
+        "instrumentalness": 0.0158,
+        "liveness": 0.0898,
+        "valence": 0.639,
+        "tempo": 97.986,
+        "type": "audio_features",
+        "id": "7KumlmusIbdAMvbiZ6dG3t",
+        "uri": "spotify:track:7KumlmusIbdAMvbiZ6dG3t",
+        "track_href": "https://api.spotify.com/v1/tracks/7KumlmusIbdAMvbiZ6dG3t",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7KumlmusIbdAMvbiZ6dG3t",
+        "duration_ms": 246453,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7aO35V27YDi4hKOL9odSya",
+    "name": "Bright Lights",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 83.541,
+    "features": [
+      {
+        "danceability": 0.515,
+        "energy": 0.752,
+        "key": 9,
+        "loudness": -1.853,
+        "mode": 0,
+        "speechiness": 0.0336,
+        "acousticness": 0.00207,
+        "instrumentalness": 2.5e-06,
+        "liveness": 0.129,
+        "valence": 0.503,
+        "tempo": 83.541,
+        "type": "audio_features",
+        "id": "7aO35V27YDi4hKOL9odSya",
+        "uri": "spotify:track:7aO35V27YDi4hKOL9odSya",
+        "track_href": "https://api.spotify.com/v1/tracks/7aO35V27YDi4hKOL9odSya",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7aO35V27YDi4hKOL9odSya",
+        "duration_ms": 324787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2AknZixHH262yq00xcHXKa",
+    "name": "Travis County",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 153.438,
+    "features": [
+      {
+        "danceability": 0.439,
+        "energy": 0.977,
+        "key": 0,
+        "loudness": -2.509,
+        "mode": 1,
+        "speechiness": 0.0543,
+        "acousticness": 0.00251,
+        "instrumentalness": 0.223,
+        "liveness": 0.414,
+        "valence": 0.69,
+        "tempo": 153.438,
+        "type": "audio_features",
+        "id": "2AknZixHH262yq00xcHXKa",
+        "uri": "spotify:track:2AknZixHH262yq00xcHXKa",
+        "track_href": "https://api.spotify.com/v1/tracks/2AknZixHH262yq00xcHXKa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2AknZixHH262yq00xcHXKa",
+        "duration_ms": 218440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "689PqOWdSatOVBZhAZ180C",
+    "name": "The Life",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 90.009,
+    "features": [
+      {
+        "danceability": 0.682,
+        "energy": 0.796,
+        "key": 2,
+        "loudness": -3.129,
+        "mode": 1,
+        "speechiness": 0.0423,
+        "acousticness": 0.0172,
+        "instrumentalness": 0,
+        "liveness": 0.159,
+        "valence": 0.761,
+        "tempo": 90.009,
+        "type": "audio_features",
+        "id": "689PqOWdSatOVBZhAZ180C",
+        "uri": "spotify:track:689PqOWdSatOVBZhAZ180C",
+        "track_href": "https://api.spotify.com/v1/tracks/689PqOWdSatOVBZhAZ180C",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/689PqOWdSatOVBZhAZ180C",
+        "duration_ms": 305867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4YDGmc8R9FT7xyk4a4y5OB",
+    "name": "Glitter Ain't Gold (Jumpin' for Nothin')",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 174.539,
+    "features": [
+      {
+        "danceability": 0.24,
+        "energy": 0.967,
+        "key": 9,
+        "loudness": -2.008,
+        "mode": 0,
+        "speechiness": 0.113,
+        "acousticness": 0.0022,
+        "instrumentalness": 0.00146,
+        "liveness": 0.146,
+        "valence": 0.19,
+        "tempo": 174.539,
+        "type": "audio_features",
+        "id": "4YDGmc8R9FT7xyk4a4y5OB",
+        "uri": "spotify:track:4YDGmc8R9FT7xyk4a4y5OB",
+        "track_href": "https://api.spotify.com/v1/tracks/4YDGmc8R9FT7xyk4a4y5OB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4YDGmc8R9FT7xyk4a4y5OB",
+        "duration_ms": 258027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3HyiHXZdB5CQTTtxIXYwJs",
+    "name": "Numb",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 138.686,
+    "features": [
+      {
+        "danceability": 0.247,
+        "energy": 0.874,
+        "key": 2,
+        "loudness": -3.398,
+        "mode": 0,
+        "speechiness": 0.0545,
+        "acousticness": 6.2e-06,
+        "instrumentalness": 0.0709,
+        "liveness": 0.411,
+        "valence": 0.305,
+        "tempo": 138.686,
+        "type": "audio_features",
+        "id": "3HyiHXZdB5CQTTtxIXYwJs",
+        "uri": "spotify:track:3HyiHXZdB5CQTTtxIXYwJs",
+        "track_href": "https://api.spotify.com/v1/tracks/3HyiHXZdB5CQTTtxIXYwJs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3HyiHXZdB5CQTTtxIXYwJs",
+        "duration_ms": 326387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5kZryYy6brZyySavzuli6a",
+    "name": "Please Come Home",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 91.38,
+    "features": [
+      {
+        "danceability": 0.232,
+        "energy": 0.707,
+        "key": 5,
+        "loudness": -3.813,
+        "mode": 1,
+        "speechiness": 0.0296,
+        "acousticness": 0.0251,
+        "instrumentalness": 0.104,
+        "liveness": 0.542,
+        "valence": 0.379,
+        "tempo": 91.38,
+        "type": "audio_features",
+        "id": "5kZryYy6brZyySavzuli6a",
+        "uri": "spotify:track:5kZryYy6brZyySavzuli6a",
+        "track_href": "https://api.spotify.com/v1/tracks/5kZryYy6brZyySavzuli6a",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5kZryYy6brZyySavzuli6a",
+        "duration_ms": 256667,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "231ECXHMAbYiZ9R9ZYUlW2",
+    "name": "Things Are Changin'",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 90.982,
+    "features": [
+      {
+        "danceability": 0.762,
+        "energy": 0.573,
+        "key": 2,
+        "loudness": -7.479,
+        "mode": 1,
+        "speechiness": 0.0262,
+        "acousticness": 0.00246,
+        "instrumentalness": 3.65e-05,
+        "liveness": 0.269,
+        "valence": 0.513,
+        "tempo": 90.982,
+        "type": "audio_features",
+        "id": "231ECXHMAbYiZ9R9ZYUlW2",
+        "uri": "spotify:track:231ECXHMAbYiZ9R9ZYUlW2",
+        "track_href": "https://api.spotify.com/v1/tracks/231ECXHMAbYiZ9R9ZYUlW2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/231ECXHMAbYiZ9R9ZYUlW2",
+        "duration_ms": 239720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6B7aI3crr9n5B2bXkrAfVN",
+    "name": "Third Stone from the Sun / If You Love Me Like You Say",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 86.6,
+    "features": [
+      {
+        "danceability": 0.392,
+        "energy": 0.851,
+        "key": 4,
+        "loudness": -3.486,
+        "mode": 1,
+        "speechiness": 0.0841,
+        "acousticness": 0.00519,
+        "instrumentalness": 0.241,
+        "liveness": 0.139,
+        "valence": 0.246,
+        "tempo": 86.6,
+        "type": "audio_features",
+        "id": "6B7aI3crr9n5B2bXkrAfVN",
+        "uri": "spotify:track:6B7aI3crr9n5B2bXkrAfVN",
+        "track_href": "https://api.spotify.com/v1/tracks/6B7aI3crr9n5B2bXkrAfVN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6B7aI3crr9n5B2bXkrAfVN",
+        "duration_ms": 578000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0FU2aPc9u6Ae2klbFsgbkI",
+    "name": "You Saved Me",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 62.022,
+    "features": [
+      {
+        "danceability": 0.478,
+        "energy": 0.611,
+        "key": 7,
+        "loudness": -5.929,
+        "mode": 1,
+        "speechiness": 0.0299,
+        "acousticness": 0.0195,
+        "instrumentalness": 0.0649,
+        "liveness": 0.164,
+        "valence": 0.558,
+        "tempo": 62.022,
+        "type": "audio_features",
+        "id": "0FU2aPc9u6Ae2klbFsgbkI",
+        "uri": "spotify:track:0FU2aPc9u6Ae2klbFsgbkI",
+        "track_href": "https://api.spotify.com/v1/tracks/0FU2aPc9u6Ae2klbFsgbkI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0FU2aPc9u6Ae2klbFsgbkI",
+        "duration_ms": 371320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0cJh6Ghx9Hy5nw9Cvo3ytn",
+    "name": "Next Door Neighbor Blues",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 83.469,
+    "features": [
+      {
+        "danceability": 0.654,
+        "energy": 0.905,
+        "key": 7,
+        "loudness": -5.769,
+        "mode": 1,
+        "speechiness": 0.0898,
+        "acousticness": 0.463,
+        "instrumentalness": 0.613,
+        "liveness": 0.11,
+        "valence": 0.648,
+        "tempo": 83.469,
+        "type": "audio_features",
+        "id": "0cJh6Ghx9Hy5nw9Cvo3ytn",
+        "uri": "spotify:track:0cJh6Ghx9Hy5nw9Cvo3ytn",
+        "track_href": "https://api.spotify.com/v1/tracks/0cJh6Ghx9Hy5nw9Cvo3ytn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0cJh6Ghx9Hy5nw9Cvo3ytn",
+        "duration_ms": 181240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6VHMTSmhBWxKBlMaE5IYmW",
+    "name": "Breakdown",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 124.021,
+    "features": [
+      {
+        "danceability": 0.556,
+        "energy": 0.923,
+        "key": 0,
+        "loudness": -3.197,
+        "mode": 1,
+        "speechiness": 0.0559,
+        "acousticness": 7.5e-05,
+        "instrumentalness": 0,
+        "liveness": 0.0419,
+        "valence": 0.722,
+        "tempo": 124.021,
+        "type": "audio_features",
+        "id": "6VHMTSmhBWxKBlMaE5IYmW",
+        "uri": "spotify:track:6VHMTSmhBWxKBlMaE5IYmW",
+        "track_href": "https://api.spotify.com/v1/tracks/6VHMTSmhBWxKBlMaE5IYmW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6VHMTSmhBWxKBlMaE5IYmW",
+        "duration_ms": 251293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5nDMuBPskb181TOTHrQPXb",
+    "name": "Soul",
+    "artist": "Gary Clark Jr.",
+    "album": "Blak and Blu (Deluxe Edition)",
+    "bpm": 90.487,
+    "features": [
+      {
+        "danceability": 0.449,
+        "energy": 0.548,
+        "key": 11,
+        "loudness": -6.444,
+        "mode": 1,
+        "speechiness": 0.0286,
+        "acousticness": 0.0168,
+        "instrumentalness": 0.129,
+        "liveness": 0.136,
+        "valence": 0.478,
+        "tempo": 90.487,
+        "type": "audio_features",
+        "id": "5nDMuBPskb181TOTHrQPXb",
+        "uri": "spotify:track:5nDMuBPskb181TOTHrQPXb",
+        "track_href": "https://api.spotify.com/v1/tracks/5nDMuBPskb181TOTHrQPXb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5nDMuBPskb181TOTHrQPXb",
+        "duration_ms": 375213,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "15DwFznkBJir7AK9PyMyRR",
+    "name": "17",
+    "artist": "MK",
+    "album": "17",
+    "bpm": 122.029,
+    "features": [
+      {
+        "danceability": 0.703,
+        "energy": 0.832,
+        "key": 0,
+        "loudness": -7.202,
+        "mode": 0,
+        "speechiness": 0.0689,
+        "acousticness": 0.00149,
+        "instrumentalness": 0.127,
+        "liveness": 0.0696,
+        "valence": 0.667,
+        "tempo": 122.029,
+        "type": "audio_features",
+        "id": "15DwFznkBJir7AK9PyMyRR",
+        "uri": "spotify:track:15DwFznkBJir7AK9PyMyRR",
+        "track_href": "https://api.spotify.com/v1/tracks/15DwFznkBJir7AK9PyMyRR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/15DwFznkBJir7AK9PyMyRR",
+        "duration_ms": 196489,
+        "time_signature": 4
+      }
+    ]
+  }
+]

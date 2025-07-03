@@ -1,0 +1,481 @@
+[
+  {
+    "id": "1l4iQsOZ5sOXZPMQLvouaB",
+    "name": "Coast (feat. Anderson .Paak)",
+    "artist": "Hailee Steinfeld",
+    "album": "Coast",
+    "playlist": "to dallas",
+    "bpm": 111.988,
+    "features": [
+      {
+        "danceability": 0.727,
+        "energy": 0.832,
+        "key": 1,
+        "loudness": -5.153,
+        "mode": 0,
+        "speechiness": 0.0495,
+        "acousticness": 0.0125,
+        "instrumentalness": 9.96e-06,
+        "liveness": 0.116,
+        "valence": 0.813,
+        "tempo": 111.988,
+        "type": "audio_features",
+        "id": "1l4iQsOZ5sOXZPMQLvouaB",
+        "uri": "spotify:track:1l4iQsOZ5sOXZPMQLvouaB",
+        "track_href": "https://api.spotify.com/v1/tracks/1l4iQsOZ5sOXZPMQLvouaB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1l4iQsOZ5sOXZPMQLvouaB",
+        "duration_ms": 166720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4QtiVmuA88tPQiCOHZuQ5b",
+    "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+    "artist": "Sof\u00eda Reyes",
+    "album": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+    "playlist": "to dallas",
+    "bpm": 94.968,
+    "features": [
+      {
+        "danceability": 0.792,
+        "energy": 0.895,
+        "key": 1,
+        "loudness": -3.112,
+        "mode": 0,
+        "speechiness": 0.0589,
+        "acousticness": 0.165,
+        "instrumentalness": 0,
+        "liveness": 0.0501,
+        "valence": 0.794,
+        "tempo": 94.968,
+        "type": "audio_features",
+        "id": "4QtiVmuA88tPQiCOHZuQ5b",
+        "uri": "spotify:track:4QtiVmuA88tPQiCOHZuQ5b",
+        "track_href": "https://api.spotify.com/v1/tracks/4QtiVmuA88tPQiCOHZuQ5b",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4QtiVmuA88tPQiCOHZuQ5b",
+        "duration_ms": 201526,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4lIxdJw6W3Fg4vUIYCB0S5",
+    "name": "Style",
+    "artist": "Taylor Swift",
+    "album": "1989",
+    "playlist": "to dallas",
+    "bpm": 95.019,
+    "features": [
+      {
+        "danceability": 0.598,
+        "energy": 0.786,
+        "key": 2,
+        "loudness": -5.572,
+        "mode": 1,
+        "speechiness": 0.0383,
+        "acousticness": 0.00253,
+        "instrumentalness": 0.0016,
+        "liveness": 0.117,
+        "valence": 0.456,
+        "tempo": 95.019,
+        "type": "audio_features",
+        "id": "4lIxdJw6W3Fg4vUIYCB0S5",
+        "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
+        "track_href": "https://api.spotify.com/v1/tracks/4lIxdJw6W3Fg4vUIYCB0S5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4lIxdJw6W3Fg4vUIYCB0S5",
+        "duration_ms": 231000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5Y6nVaayzitvsD5F7nr3DV",
+    "name": "West Coast",
+    "artist": "Lana Del Rey",
+    "album": "Ultraviolence (Deluxe)",
+    "playlist": "to dallas",
+    "bpm": 123.167,
+    "features": [
+      {
+        "danceability": 0.527,
+        "energy": 0.591,
+        "key": 6,
+        "loudness": -7.664,
+        "mode": 0,
+        "speechiness": 0.0396,
+        "acousticness": 0.194,
+        "instrumentalness": 0.0194,
+        "liveness": 0.0907,
+        "valence": 0.461,
+        "tempo": 123.167,
+        "type": "audio_features",
+        "id": "5Y6nVaayzitvsD5F7nr3DV",
+        "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV",
+        "track_href": "https://api.spotify.com/v1/tracks/5Y6nVaayzitvsD5F7nr3DV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Y6nVaayzitvsD5F7nr3DV",
+        "duration_ms": 256760,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "51QEyJI5M7uyd8DOh9tqQY",
+    "name": "Buzzcut Season",
+    "artist": "Lorde",
+    "album": "Pure Heroine (Extended)",
+    "bpm": 111.039,
+    "features": [
+      {
+        "danceability": 0.733,
+        "energy": 0.62,
+        "key": 1,
+        "loudness": -10.525,
+        "mode": 1,
+        "speechiness": 0.0752,
+        "acousticness": 0.612,
+        "instrumentalness": 0.291,
+        "liveness": 0.117,
+        "valence": 0.251,
+        "tempo": 111.039,
+        "type": "audio_features",
+        "id": "51QEyJI5M7uyd8DOh9tqQY",
+        "uri": "spotify:track:51QEyJI5M7uyd8DOh9tqQY",
+        "track_href": "https://api.spotify.com/v1/tracks/51QEyJI5M7uyd8DOh9tqQY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/51QEyJI5M7uyd8DOh9tqQY",
+        "duration_ms": 246755,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2RPInGYh3BMVWm6buPzMdq",
+    "name": "Bang Bang",
+    "artist": "Hippo Campus",
+    "album": "LP3",
+    "playlist": "to dallas",
+    "bpm": 75.006,
+    "features": [
+      {
+        "danceability": 0.605,
+        "energy": 0.769,
+        "key": 6,
+        "loudness": -6.652,
+        "mode": 0,
+        "speechiness": 0.0379,
+        "acousticness": 0.199,
+        "instrumentalness": 6.46e-05,
+        "liveness": 0.293,
+        "valence": 0.692,
+        "tempo": 75.006,
+        "type": "audio_features",
+        "id": "2RPInGYh3BMVWm6buPzMdq",
+        "uri": "spotify:track:2RPInGYh3BMVWm6buPzMdq",
+        "track_href": "https://api.spotify.com/v1/tracks/2RPInGYh3BMVWm6buPzMdq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2RPInGYh3BMVWm6buPzMdq",
+        "duration_ms": 174369,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5D6Gw9OaP1Pl2GJo4vKTBW",
+    "name": "Hungry Like the Wolf",
+    "artist": "Duran Duran",
+    "album": "American Football Anthems",
+    "playlist": "to dallas",
+    "bpm": 127.568,
+    "features": [
+      {
+        "danceability": 0.691,
+        "energy": 0.812,
+        "key": 0,
+        "loudness": -7.772,
+        "mode": 1,
+        "speechiness": 0.0558,
+        "acousticness": 0.0433,
+        "instrumentalness": 1.16e-06,
+        "liveness": 0.299,
+        "valence": 0.685,
+        "tempo": 127.568,
+        "type": "audio_features",
+        "id": "5D6Gw9OaP1Pl2GJo4vKTBW",
+        "uri": "spotify:track:5D6Gw9OaP1Pl2GJo4vKTBW",
+        "track_href": "https://api.spotify.com/v1/tracks/5D6Gw9OaP1Pl2GJo4vKTBW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5D6Gw9OaP1Pl2GJo4vKTBW",
+        "duration_ms": 220627,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4DukzQv7lF6DXe6Un7lghr",
+    "name": "BREAK MY SOUL - THE QUEENS REMIX",
+    "artist": "Beyonc\u00e9",
+    "album": "BREAK MY SOUL (THE QUEENS REMIX)",
+    "playlist": "to dallas",
+    "bpm": 119.988,
+    "features": [
+      {
+        "danceability": 0.765,
+        "energy": 0.768,
+        "key": 1,
+        "loudness": -6.215,
+        "mode": 1,
+        "speechiness": 0.106,
+        "acousticness": 0.037,
+        "instrumentalness": 0.000302,
+        "liveness": 0.0563,
+        "valence": 0.445,
+        "tempo": 119.988,
+        "type": "audio_features",
+        "id": "4DukzQv7lF6DXe6Un7lghr",
+        "uri": "spotify:track:4DukzQv7lF6DXe6Un7lghr",
+        "track_href": "https://api.spotify.com/v1/tracks/4DukzQv7lF6DXe6Un7lghr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4DukzQv7lF6DXe6Un7lghr",
+        "duration_ms": 356000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4kXxEhuatrvwrTQycA7s9B",
+    "name": "BIZCOCHITO",
+    "artist": "ROSAL\u00cdA",
+    "album": "MOTOMAMI",
+    "playlist": "to dallas",
+    "bpm": 116.972,
+    "features": [
+      {
+        "danceability": 0.93,
+        "energy": 0.774,
+        "key": 1,
+        "loudness": -4.203,
+        "mode": 1,
+        "speechiness": 0.0744,
+        "acousticness": 0.605,
+        "instrumentalness": 0.0238,
+        "liveness": 0.12,
+        "valence": 0.781,
+        "tempo": 116.972,
+        "type": "audio_features",
+        "id": "4kXxEhuatrvwrTQycA7s9B",
+        "uri": "spotify:track:4kXxEhuatrvwrTQycA7s9B",
+        "track_href": "https://api.spotify.com/v1/tracks/4kXxEhuatrvwrTQycA7s9B",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4kXxEhuatrvwrTQycA7s9B",
+        "duration_ms": 109120,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3vkQ5DAB1qQMYO4Mr9zJN6",
+    "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "artist": "ABBA",
+    "album": "Voulez-Vous",
+    "playlist": "to dallas",
+    "bpm": 119.528,
+    "features": [
+      {
+        "danceability": 0.749,
+        "energy": 0.491,
+        "key": 10,
+        "loudness": -9.655,
+        "mode": 1,
+        "speechiness": 0.0403,
+        "acousticness": 0.02,
+        "instrumentalness": 0.00899,
+        "liveness": 0.159,
+        "valence": 0.536,
+        "tempo": 119.528,
+        "type": "audio_features",
+        "id": "3vkQ5DAB1qQMYO4Mr9zJN6",
+        "uri": "spotify:track:3vkQ5DAB1qQMYO4Mr9zJN6",
+        "track_href": "https://api.spotify.com/v1/tracks/3vkQ5DAB1qQMYO4Mr9zJN6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3vkQ5DAB1qQMYO4Mr9zJN6",
+        "duration_ms": 292613,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1AWQoqb9bSvzTjaLralEkT",
+    "name": "Rock Your Body",
+    "artist": "Justin Timberlake",
+    "album": "Justified",
+    "playlist": "to dallas",
+    "bpm": 100.972,
+    "features": [
+      {
+        "danceability": 0.892,
+        "energy": 0.714,
+        "key": 4,
+        "loudness": -6.055,
+        "mode": 0,
+        "speechiness": 0.141,
+        "acousticness": 0.201,
+        "instrumentalness": 0.000234,
+        "liveness": 0.0521,
+        "valence": 0.817,
+        "tempo": 100.972,
+        "type": "audio_features",
+        "id": "1AWQoqb9bSvzTjaLralEkT",
+        "uri": "spotify:track:1AWQoqb9bSvzTjaLralEkT",
+        "track_href": "https://api.spotify.com/v1/tracks/1AWQoqb9bSvzTjaLralEkT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1AWQoqb9bSvzTjaLralEkT",
+        "duration_ms": 267267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2PpruBYCo4H7WOBJ7Q2EwM",
+    "name": "Hey Ya!",
+    "artist": "Outkast",
+    "album": "Speakerboxxx/The Love Below",
+    "playlist": "to dallas",
+    "bpm": 79.526,
+    "features": [
+      {
+        "danceability": 0.727,
+        "energy": 0.974,
+        "key": 4,
+        "loudness": -2.261,
+        "mode": 0,
+        "speechiness": 0.0664,
+        "acousticness": 0.103,
+        "instrumentalness": 0.000532,
+        "liveness": 0.174,
+        "valence": 0.965,
+        "tempo": 79.526,
+        "type": "audio_features",
+        "id": "2PpruBYCo4H7WOBJ7Q2EwM",
+        "uri": "spotify:track:2PpruBYCo4H7WOBJ7Q2EwM",
+        "track_href": "https://api.spotify.com/v1/tracks/2PpruBYCo4H7WOBJ7Q2EwM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2PpruBYCo4H7WOBJ7Q2EwM",
+        "duration_ms": 235213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6UelLqGlWMcVH1E5c4H7lY",
+    "name": "Watermelon Sugar",
+    "artist": "Harry Styles",
+    "album": "Fine Line",
+    "playlist": "to dallas",
+    "bpm": 95.39,
+    "features": [
+      {
+        "danceability": 0.548,
+        "energy": 0.816,
+        "key": 0,
+        "loudness": -4.209,
+        "mode": 1,
+        "speechiness": 0.0465,
+        "acousticness": 0.122,
+        "instrumentalness": 0,
+        "liveness": 0.335,
+        "valence": 0.557,
+        "tempo": 95.39,
+        "type": "audio_features",
+        "id": "6UelLqGlWMcVH1E5c4H7lY",
+        "uri": "spotify:track:6UelLqGlWMcVH1E5c4H7lY",
+        "track_href": "https://api.spotify.com/v1/tracks/6UelLqGlWMcVH1E5c4H7lY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6UelLqGlWMcVH1E5c4H7lY",
+        "duration_ms": 174000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "282R6Lvm9nLtpx8AzUwJe0",
+    "name": "Run It (feat. Rick Ross & Rich Brian)",
+    "artist": "DJ Snake",
+    "album": "Run It (feat. Rick Ross & Rich Brian)",
+    "playlist": "to dallas",
+    "bpm": 104.018,
+    "features": [
+      {
+        "danceability": 0.688,
+        "energy": 0.725,
+        "key": 2,
+        "loudness": -7.831,
+        "mode": 1,
+        "speechiness": 0.0456,
+        "acousticness": 0.0206,
+        "instrumentalness": 9.18e-06,
+        "liveness": 0.0859,
+        "valence": 0.224,
+        "tempo": 104.018,
+        "type": "audio_features",
+        "id": "282R6Lvm9nLtpx8AzUwJe0",
+        "uri": "spotify:track:282R6Lvm9nLtpx8AzUwJe0",
+        "track_href": "https://api.spotify.com/v1/tracks/282R6Lvm9nLtpx8AzUwJe0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/282R6Lvm9nLtpx8AzUwJe0",
+        "duration_ms": 163390,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1OxcIUqVmVYxT6427tbhDW",
+    "name": "Fly Away",
+    "artist": "Lenny Kravitz",
+    "album": "5",
+    "playlist": "to dallas",
+    "bpm": 159.925,
+    "features": [
+      {
+        "danceability": 0.587,
+        "energy": 0.872,
+        "key": 7,
+        "loudness": -5.066,
+        "mode": 1,
+        "speechiness": 0.0484,
+        "acousticness": 0.018,
+        "instrumentalness": 0,
+        "liveness": 0.622,
+        "valence": 0.735,
+        "tempo": 159.925,
+        "type": "audio_features",
+        "id": "1OxcIUqVmVYxT6427tbhDW",
+        "uri": "spotify:track:1OxcIUqVmVYxT6427tbhDW",
+        "track_href": "https://api.spotify.com/v1/tracks/1OxcIUqVmVYxT6427tbhDW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1OxcIUqVmVYxT6427tbhDW",
+        "duration_ms": 221333,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4wH4dJgrsxONID6KS2tDQM",
+    "name": "Maneater",
+    "artist": "Nelly Furtado",
+    "album": "Loose",
+    "playlist": "to dallas",
+    "bpm": 132.724,
+    "features": [
+      {
+        "danceability": 0.796,
+        "energy": 0.778,
+        "key": 6,
+        "loudness": -4.81,
+        "mode": 1,
+        "speechiness": 0.0397,
+        "acousticness": 0.0258,
+        "instrumentalness": 0.000386,
+        "liveness": 0.121,
+        "valence": 0.789,
+        "tempo": 132.724,
+        "type": "audio_features",
+        "id": "4wH4dJgrsxONID6KS2tDQM",
+        "uri": "spotify:track:4wH4dJgrsxONID6KS2tDQM",
+        "track_href": "https://api.spotify.com/v1/tracks/4wH4dJgrsxONID6KS2tDQM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4wH4dJgrsxONID6KS2tDQM",
+        "duration_ms": 258893,
+        "time_signature": 4
+      }
+    ]
+  }
+]

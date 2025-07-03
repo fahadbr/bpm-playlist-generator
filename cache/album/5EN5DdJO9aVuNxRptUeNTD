@@ -1,0 +1,350 @@
+[
+  {
+    "id": "1IBrHf9Gx055iQDqtAJ4t4",
+    "name": "Tidal",
+    "artist": "Protest The Hero",
+    "album": "Pacific Myth (Deluxe Edition)",
+    "bpm": 119.905,
+    "features": [
+      {
+        "danceability": 0.449,
+        "energy": 0.971,
+        "key": 5,
+        "loudness": -3.657,
+        "mode": 0,
+        "speechiness": 0.166,
+        "acousticness": 2.54e-05,
+        "instrumentalness": 0,
+        "liveness": 0.173,
+        "valence": 0.254,
+        "tempo": 119.905,
+        "type": "audio_features",
+        "id": "1IBrHf9Gx055iQDqtAJ4t4",
+        "uri": "spotify:track:1IBrHf9Gx055iQDqtAJ4t4",
+        "track_href": "https://api.spotify.com/v1/tracks/1IBrHf9Gx055iQDqtAJ4t4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1IBrHf9Gx055iQDqtAJ4t4",
+        "duration_ms": 365749,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3W8xTjZGYQPsOkRtBKSmia",
+    "name": "Ragged Tooth",
+    "artist": "Protest The Hero",
+    "album": "Pacific Myth (Deluxe Edition)",
+    "bpm": 139.282,
+    "features": [
+      {
+        "danceability": 0.204,
+        "energy": 0.989,
+        "key": 11,
+        "loudness": -3.402,
+        "mode": 1,
+        "speechiness": 0.181,
+        "acousticness": 2.32e-05,
+        "instrumentalness": 0.000237,
+        "liveness": 0.47,
+        "valence": 0.232,
+        "tempo": 139.282,
+        "type": "audio_features",
+        "id": "3W8xTjZGYQPsOkRtBKSmia",
+        "uri": "spotify:track:3W8xTjZGYQPsOkRtBKSmia",
+        "track_href": "https://api.spotify.com/v1/tracks/3W8xTjZGYQPsOkRtBKSmia",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3W8xTjZGYQPsOkRtBKSmia",
+        "duration_ms": 218585,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7uIx1LU4ls1miHLm18z1ov",
+    "name": "Cold Water",
+    "artist": "Protest The Hero",
+    "album": "Pacific Myth (Deluxe Edition)",
+    "bpm": 142.477,
+    "features": [
+      {
+        "danceability": 0.233,
+        "energy": 0.976,
+        "key": 8,
+        "loudness": -3.102,
+        "mode": 0,
+        "speechiness": 0.209,
+        "acousticness": 0.000285,
+        "instrumentalness": 1.25e-05,
+        "liveness": 0.321,
+        "valence": 0.313,
+        "tempo": 142.477,
+        "type": "audio_features",
+        "id": "7uIx1LU4ls1miHLm18z1ov",
+        "uri": "spotify:track:7uIx1LU4ls1miHLm18z1ov",
+        "track_href": "https://api.spotify.com/v1/tracks/7uIx1LU4ls1miHLm18z1ov",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7uIx1LU4ls1miHLm18z1ov",
+        "duration_ms": 344845,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Fx595pA4ciggUaObKOPrJ",
+    "name": "Cataract",
+    "artist": "Protest The Hero",
+    "album": "Pacific Myth (Deluxe Edition)",
+    "bpm": 150.003,
+    "features": [
+      {
+        "danceability": 0.439,
+        "energy": 0.978,
+        "key": 8,
+        "loudness": -3.405,
+        "mode": 0,
+        "speechiness": 0.122,
+        "acousticness": 1.56e-05,
+        "instrumentalness": 1.39e-05,
+        "liveness": 0.371,
+        "valence": 0.184,
+        "tempo": 150.003,
+        "type": "audio_features",
+        "id": "6Fx595pA4ciggUaObKOPrJ",
+        "uri": "spotify:track:6Fx595pA4ciggUaObKOPrJ",
+        "track_href": "https://api.spotify.com/v1/tracks/6Fx595pA4ciggUaObKOPrJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Fx595pA4ciggUaObKOPrJ",
+        "duration_ms": 300451,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "26Xf5d3RJqJ03QKBjyvbnK",
+    "name": "Harbinger",
+    "artist": "Protest The Hero",
+    "album": "Pacific Myth (Deluxe Edition)",
+    "bpm": 110.103,
+    "features": [
+      {
+        "danceability": 0.429,
+        "energy": 0.938,
+        "key": 11,
+        "loudness": -2.601,
+        "mode": 1,
+        "speechiness": 0.0789,
+        "acousticness": 0.00141,
+        "instrumentalness": 0,
+        "liveness": 0.115,
+        "valence": 0.274,
+        "tempo": 110.103,
+        "type": "audio_features",
+        "id": "26Xf5d3RJqJ03QKBjyvbnK",
+        "uri": "spotify:track:26Xf5d3RJqJ03QKBjyvbnK",
+        "track_href": "https://api.spotify.com/v1/tracks/26Xf5d3RJqJ03QKBjyvbnK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/26Xf5d3RJqJ03QKBjyvbnK",
+        "duration_ms": 367914,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3dYRzwL7VMkFakxfABhvY2",
+    "name": "Caravan",
+    "artist": "Protest The Hero",
+    "album": "Pacific Myth (Deluxe Edition)",
+    "bpm": 152.077,
+    "features": [
+      {
+        "danceability": 0.195,
+        "energy": 0.98,
+        "key": 8,
+        "loudness": -3.396,
+        "mode": 0,
+        "speechiness": 0.189,
+        "acousticness": 3.42e-05,
+        "instrumentalness": 0.0015,
+        "liveness": 0.371,
+        "valence": 0.161,
+        "tempo": 152.077,
+        "type": "audio_features",
+        "id": "3dYRzwL7VMkFakxfABhvY2",
+        "uri": "spotify:track:3dYRzwL7VMkFakxfABhvY2",
+        "track_href": "https://api.spotify.com/v1/tracks/3dYRzwL7VMkFakxfABhvY2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3dYRzwL7VMkFakxfABhvY2",
+        "duration_ms": 519969,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Vc0icrfVecM2zcr75731l",
+    "name": "Tidal (Instrumental)",
+    "artist": "Protest The Hero",
+    "album": "Pacific Myth (Deluxe Edition)",
+    "bpm": 119.975,
+    "features": [
+      {
+        "danceability": 0.476,
+        "energy": 0.925,
+        "key": 1,
+        "loudness": -5.712,
+        "mode": 1,
+        "speechiness": 0.0952,
+        "acousticness": 5.38e-06,
+        "instrumentalness": 0.901,
+        "liveness": 0.173,
+        "valence": 0.202,
+        "tempo": 119.975,
+        "type": "audio_features",
+        "id": "0Vc0icrfVecM2zcr75731l",
+        "uri": "spotify:track:0Vc0icrfVecM2zcr75731l",
+        "track_href": "https://api.spotify.com/v1/tracks/0Vc0icrfVecM2zcr75731l",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Vc0icrfVecM2zcr75731l",
+        "duration_ms": 365749,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "65NjtwK63V8NwmudaLE8vD",
+    "name": "Ragged Tooth (Instrumental)",
+    "artist": "Protest The Hero",
+    "album": "Pacific Myth (Deluxe Edition)",
+    "bpm": 140.029,
+    "features": [
+      {
+        "danceability": 0.409,
+        "energy": 0.985,
+        "key": 11,
+        "loudness": -5.272,
+        "mode": 1,
+        "speechiness": 0.125,
+        "acousticness": 9.44e-06,
+        "instrumentalness": 0.694,
+        "liveness": 0.476,
+        "valence": 0.376,
+        "tempo": 140.029,
+        "type": "audio_features",
+        "id": "65NjtwK63V8NwmudaLE8vD",
+        "uri": "spotify:track:65NjtwK63V8NwmudaLE8vD",
+        "track_href": "https://api.spotify.com/v1/tracks/65NjtwK63V8NwmudaLE8vD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/65NjtwK63V8NwmudaLE8vD",
+        "duration_ms": 218585,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5ebXPuFCcm7RyqLJrglePb",
+    "name": "Cold Water (Instrumental)",
+    "artist": "Protest The Hero",
+    "album": "Pacific Myth (Deluxe Edition)",
+    "bpm": 142.244,
+    "features": [
+      {
+        "danceability": 0.29,
+        "energy": 0.942,
+        "key": 8,
+        "loudness": -4.883,
+        "mode": 0,
+        "speechiness": 0.21,
+        "acousticness": 1.31e-05,
+        "instrumentalness": 0.835,
+        "liveness": 0.322,
+        "valence": 0.414,
+        "tempo": 142.244,
+        "type": "audio_features",
+        "id": "5ebXPuFCcm7RyqLJrglePb",
+        "uri": "spotify:track:5ebXPuFCcm7RyqLJrglePb",
+        "track_href": "https://api.spotify.com/v1/tracks/5ebXPuFCcm7RyqLJrglePb",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ebXPuFCcm7RyqLJrglePb",
+        "duration_ms": 344845,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "623mzWZnwBUn4DRMIduuh5",
+    "name": "Cataract (Instrumental)",
+    "artist": "Protest The Hero",
+    "album": "Pacific Myth (Deluxe Edition)",
+    "bpm": 149.979,
+    "features": [
+      {
+        "danceability": 0.435,
+        "energy": 0.97,
+        "key": 8,
+        "loudness": -4.805,
+        "mode": 0,
+        "speechiness": 0.111,
+        "acousticness": 1.82e-06,
+        "instrumentalness": 0.785,
+        "liveness": 0.361,
+        "valence": 0.233,
+        "tempo": 149.979,
+        "type": "audio_features",
+        "id": "623mzWZnwBUn4DRMIduuh5",
+        "uri": "spotify:track:623mzWZnwBUn4DRMIduuh5",
+        "track_href": "https://api.spotify.com/v1/tracks/623mzWZnwBUn4DRMIduuh5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/623mzWZnwBUn4DRMIduuh5",
+        "duration_ms": 300451,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0NTlH2txHaULJEOIZoaYtg",
+    "name": "Harbinger (Instrumental)",
+    "artist": "Protest The Hero",
+    "album": "Pacific Myth (Deluxe Edition)",
+    "bpm": 110.037,
+    "features": [
+      {
+        "danceability": 0.471,
+        "energy": 0.912,
+        "key": 11,
+        "loudness": -4.508,
+        "mode": 1,
+        "speechiness": 0.0688,
+        "acousticness": 4.67e-05,
+        "instrumentalness": 0.659,
+        "liveness": 0.122,
+        "valence": 0.346,
+        "tempo": 110.037,
+        "type": "audio_features",
+        "id": "0NTlH2txHaULJEOIZoaYtg",
+        "uri": "spotify:track:0NTlH2txHaULJEOIZoaYtg",
+        "track_href": "https://api.spotify.com/v1/tracks/0NTlH2txHaULJEOIZoaYtg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0NTlH2txHaULJEOIZoaYtg",
+        "duration_ms": 367914,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "73uDBLIRjD51jZg1Kt3HOI",
+    "name": "Caravan (Instrumental)",
+    "artist": "Protest The Hero",
+    "album": "Pacific Myth (Deluxe Edition)",
+    "bpm": 151.94,
+    "features": [
+      {
+        "danceability": 0.219,
+        "energy": 0.97,
+        "key": 8,
+        "loudness": -4.373,
+        "mode": 0,
+        "speechiness": 0.15,
+        "acousticness": 1.64e-05,
+        "instrumentalness": 0.859,
+        "liveness": 0.372,
+        "valence": 0.191,
+        "tempo": 151.94,
+        "type": "audio_features",
+        "id": "73uDBLIRjD51jZg1Kt3HOI",
+        "uri": "spotify:track:73uDBLIRjD51jZg1Kt3HOI",
+        "track_href": "https://api.spotify.com/v1/tracks/73uDBLIRjD51jZg1Kt3HOI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/73uDBLIRjD51jZg1Kt3HOI",
+        "duration_ms": 519969,
+        "time_signature": 4
+      }
+    ]
+  }
+]

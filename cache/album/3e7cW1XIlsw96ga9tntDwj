@@ -1,0 +1,350 @@
+[
+  {
+    "id": "6x2w7tJogu6rIWT9DomoO9",
+    "name": "Birth",
+    "artist": "Thirty Seconds To Mars",
+    "album": "Love Lust Faith + Dreams",
+    "bpm": 160.003,
+    "features": [
+      {
+        "danceability": 0.484,
+        "energy": 0.462,
+        "key": 8,
+        "loudness": -10.79,
+        "mode": 1,
+        "speechiness": 0.074,
+        "acousticness": 0.00316,
+        "instrumentalness": 0.0835,
+        "liveness": 0.111,
+        "valence": 0.18,
+        "tempo": 160.003,
+        "type": "audio_features",
+        "id": "6x2w7tJogu6rIWT9DomoO9",
+        "uri": "spotify:track:6x2w7tJogu6rIWT9DomoO9",
+        "track_href": "https://api.spotify.com/v1/tracks/6x2w7tJogu6rIWT9DomoO9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6x2w7tJogu6rIWT9DomoO9",
+        "duration_ms": 127387,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2vesdp3VWtThIKeLdxHmFP",
+    "name": "Conquistador",
+    "artist": "Thirty Seconds To Mars",
+    "album": "Love Lust Faith + Dreams",
+    "bpm": 136.05,
+    "features": [
+      {
+        "danceability": 0.553,
+        "energy": 0.959,
+        "key": 6,
+        "loudness": -4.947,
+        "mode": 1,
+        "speechiness": 0.0466,
+        "acousticness": 0.000642,
+        "instrumentalness": 6.19e-05,
+        "liveness": 0.129,
+        "valence": 0.46,
+        "tempo": 136.05,
+        "type": "audio_features",
+        "id": "2vesdp3VWtThIKeLdxHmFP",
+        "uri": "spotify:track:2vesdp3VWtThIKeLdxHmFP",
+        "track_href": "https://api.spotify.com/v1/tracks/2vesdp3VWtThIKeLdxHmFP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2vesdp3VWtThIKeLdxHmFP",
+        "duration_ms": 192240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0zqwz7SNny9fwqSDpIu4qN",
+    "name": "Up In The Air",
+    "artist": "Thirty Seconds To Mars",
+    "album": "Love Lust Faith + Dreams",
+    "bpm": 124.025,
+    "features": [
+      {
+        "danceability": 0.483,
+        "energy": 0.862,
+        "key": 11,
+        "loudness": -3.864,
+        "mode": 0,
+        "speechiness": 0.0857,
+        "acousticness": 0.00577,
+        "instrumentalness": 0,
+        "liveness": 0.227,
+        "valence": 0.449,
+        "tempo": 124.025,
+        "type": "audio_features",
+        "id": "0zqwz7SNny9fwqSDpIu4qN",
+        "uri": "spotify:track:0zqwz7SNny9fwqSDpIu4qN",
+        "track_href": "https://api.spotify.com/v1/tracks/0zqwz7SNny9fwqSDpIu4qN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0zqwz7SNny9fwqSDpIu4qN",
+        "duration_ms": 275787,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1dUU2RYiMZ9HCk6CB9Akup",
+    "name": "City Of Angels",
+    "artist": "Thirty Seconds To Mars",
+    "album": "Love Lust Faith + Dreams",
+    "bpm": 105.015,
+    "features": [
+      {
+        "danceability": 0.575,
+        "energy": 0.795,
+        "key": 2,
+        "loudness": -6.149,
+        "mode": 1,
+        "speechiness": 0.0357,
+        "acousticness": 0.0787,
+        "instrumentalness": 2.62e-05,
+        "liveness": 0.086,
+        "valence": 0.149,
+        "tempo": 105.015,
+        "type": "audio_features",
+        "id": "1dUU2RYiMZ9HCk6CB9Akup",
+        "uri": "spotify:track:1dUU2RYiMZ9HCk6CB9Akup",
+        "track_href": "https://api.spotify.com/v1/tracks/1dUU2RYiMZ9HCk6CB9Akup",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1dUU2RYiMZ9HCk6CB9Akup",
+        "duration_ms": 302040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Xo6taj3pa6TVHWGJqxo8o",
+    "name": "The Race",
+    "artist": "Thirty Seconds To Mars",
+    "album": "Love Lust Faith + Dreams",
+    "bpm": 119.952,
+    "features": [
+      {
+        "danceability": 0.551,
+        "energy": 0.661,
+        "key": 9,
+        "loudness": -6.416,
+        "mode": 0,
+        "speechiness": 0.0421,
+        "acousticness": 0.0272,
+        "instrumentalness": 2.99e-05,
+        "liveness": 0.223,
+        "valence": 0.218,
+        "tempo": 119.952,
+        "type": "audio_features",
+        "id": "6Xo6taj3pa6TVHWGJqxo8o",
+        "uri": "spotify:track:6Xo6taj3pa6TVHWGJqxo8o",
+        "track_href": "https://api.spotify.com/v1/tracks/6Xo6taj3pa6TVHWGJqxo8o",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Xo6taj3pa6TVHWGJqxo8o",
+        "duration_ms": 220293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5aW4kes1vtZFKqfRiWUBbK",
+    "name": "End Of All Days",
+    "artist": "Thirty Seconds To Mars",
+    "album": "Love Lust Faith + Dreams",
+    "bpm": 97.525,
+    "features": [
+      {
+        "danceability": 0.55,
+        "energy": 0.512,
+        "key": 0,
+        "loudness": -10.306,
+        "mode": 0,
+        "speechiness": 0.0431,
+        "acousticness": 0.109,
+        "instrumentalness": 3.28e-05,
+        "liveness": 0.0767,
+        "valence": 0.113,
+        "tempo": 97.525,
+        "type": "audio_features",
+        "id": "5aW4kes1vtZFKqfRiWUBbK",
+        "uri": "spotify:track:5aW4kes1vtZFKqfRiWUBbK",
+        "track_href": "https://api.spotify.com/v1/tracks/5aW4kes1vtZFKqfRiWUBbK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5aW4kes1vtZFKqfRiWUBbK",
+        "duration_ms": 286453,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5paiRbbk5LLoxTDhQAEHrv",
+    "name": "Pyres Of Varanasi",
+    "artist": "Thirty Seconds To Mars",
+    "album": "Love Lust Faith + Dreams",
+    "bpm": 130.04,
+    "features": [
+      {
+        "danceability": 0.506,
+        "energy": 0.754,
+        "key": 10,
+        "loudness": -11.235,
+        "mode": 0,
+        "speechiness": 0.122,
+        "acousticness": 0.424,
+        "instrumentalness": 0.768,
+        "liveness": 0.384,
+        "valence": 0.104,
+        "tempo": 130.04,
+        "type": "audio_features",
+        "id": "5paiRbbk5LLoxTDhQAEHrv",
+        "uri": "spotify:track:5paiRbbk5LLoxTDhQAEHrv",
+        "track_href": "https://api.spotify.com/v1/tracks/5paiRbbk5LLoxTDhQAEHrv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5paiRbbk5LLoxTDhQAEHrv",
+        "duration_ms": 192373,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1AjLNIxJ2lhJOV1NV8AA8t",
+    "name": "Bright Lights",
+    "artist": "Thirty Seconds To Mars",
+    "album": "Love Lust Faith + Dreams",
+    "bpm": 113.998,
+    "features": [
+      {
+        "danceability": 0.566,
+        "energy": 0.508,
+        "key": 0,
+        "loudness": -8.352,
+        "mode": 1,
+        "speechiness": 0.0327,
+        "acousticness": 0.0466,
+        "instrumentalness": 0.0643,
+        "liveness": 0.125,
+        "valence": 0.261,
+        "tempo": 113.998,
+        "type": "audio_features",
+        "id": "1AjLNIxJ2lhJOV1NV8AA8t",
+        "uri": "spotify:track:1AjLNIxJ2lhJOV1NV8AA8t",
+        "track_href": "https://api.spotify.com/v1/tracks/1AjLNIxJ2lhJOV1NV8AA8t",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1AjLNIxJ2lhJOV1NV8AA8t",
+        "duration_ms": 291267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6nF6vVBsbbDVBezCW8y96B",
+    "name": "Do Or Die",
+    "artist": "Thirty Seconds To Mars",
+    "album": "Love Lust Faith + Dreams",
+    "bpm": 135.074,
+    "features": [
+      {
+        "danceability": 0.514,
+        "energy": 0.825,
+        "key": 2,
+        "loudness": -5.512,
+        "mode": 1,
+        "speechiness": 0.0562,
+        "acousticness": 0.00177,
+        "instrumentalness": 1.13e-06,
+        "liveness": 0.153,
+        "valence": 0.432,
+        "tempo": 135.074,
+        "type": "audio_features",
+        "id": "6nF6vVBsbbDVBezCW8y96B",
+        "uri": "spotify:track:6nF6vVBsbbDVBezCW8y96B",
+        "track_href": "https://api.spotify.com/v1/tracks/6nF6vVBsbbDVBezCW8y96B",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6nF6vVBsbbDVBezCW8y96B",
+        "duration_ms": 247813,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0UsT2ZkDO3uLJgprdg6Xh2",
+    "name": "Convergence",
+    "artist": "Thirty Seconds To Mars",
+    "album": "Love Lust Faith + Dreams",
+    "bpm": 216.158,
+    "features": [
+      {
+        "danceability": 0.637,
+        "energy": 0.321,
+        "key": 0,
+        "loudness": -18.213,
+        "mode": 1,
+        "speechiness": 0.055,
+        "acousticness": 0.994,
+        "instrumentalness": 0.958,
+        "liveness": 0.111,
+        "valence": 0.242,
+        "tempo": 216.158,
+        "type": "audio_features",
+        "id": "0UsT2ZkDO3uLJgprdg6Xh2",
+        "uri": "spotify:track:0UsT2ZkDO3uLJgprdg6Xh2",
+        "track_href": "https://api.spotify.com/v1/tracks/0UsT2ZkDO3uLJgprdg6Xh2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0UsT2ZkDO3uLJgprdg6Xh2",
+        "duration_ms": 120773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6U8fmOpFp0blrUEU5cypxl",
+    "name": "Northern Lights",
+    "artist": "Thirty Seconds To Mars",
+    "album": "Love Lust Faith + Dreams",
+    "bpm": 94.991,
+    "features": [
+      {
+        "danceability": 0.535,
+        "energy": 0.896,
+        "key": 1,
+        "loudness": -4.735,
+        "mode": 1,
+        "speechiness": 0.0384,
+        "acousticness": 0.00686,
+        "instrumentalness": 2.42e-05,
+        "liveness": 0.152,
+        "valence": 0.396,
+        "tempo": 94.991,
+        "type": "audio_features",
+        "id": "6U8fmOpFp0blrUEU5cypxl",
+        "uri": "spotify:track:6U8fmOpFp0blrUEU5cypxl",
+        "track_href": "https://api.spotify.com/v1/tracks/6U8fmOpFp0blrUEU5cypxl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6U8fmOpFp0blrUEU5cypxl",
+        "duration_ms": 284173,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1DJTwdNSWDMeMzyB02bsNs",
+    "name": "Depuis Le D\u00e9but",
+    "artist": "Thirty Seconds To Mars",
+    "album": "Love Lust Faith + Dreams",
+    "bpm": 179.109,
+    "features": [
+      {
+        "danceability": 0.298,
+        "energy": 0.322,
+        "key": 11,
+        "loudness": -10.354,
+        "mode": 1,
+        "speechiness": 0.108,
+        "acousticness": 0.678,
+        "instrumentalness": 0.0738,
+        "liveness": 0.106,
+        "valence": 0.0337,
+        "tempo": 179.109,
+        "type": "audio_features",
+        "id": "1DJTwdNSWDMeMzyB02bsNs",
+        "uri": "spotify:track:1DJTwdNSWDMeMzyB02bsNs",
+        "track_href": "https://api.spotify.com/v1/tracks/1DJTwdNSWDMeMzyB02bsNs",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1DJTwdNSWDMeMzyB02bsNs",
+        "duration_ms": 153040,
+        "time_signature": 3
+      }
+    ]
+  }
+]

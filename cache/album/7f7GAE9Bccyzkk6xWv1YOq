@@ -1,0 +1,495 @@
+[
+  {
+    "id": "3HXRx3b7X1Qx3LwJHrpgzB",
+    "name": "Intro",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 0,
+    "features": [
+      {
+        "danceability": 0,
+        "energy": 0.103,
+        "key": 5,
+        "loudness": -21.569,
+        "mode": 0,
+        "speechiness": 0,
+        "acousticness": 0.583,
+        "instrumentalness": 0,
+        "liveness": 0.122,
+        "valence": 0,
+        "tempo": 0,
+        "type": "audio_features",
+        "id": "3HXRx3b7X1Qx3LwJHrpgzB",
+        "uri": "spotify:track:3HXRx3b7X1Qx3LwJHrpgzB",
+        "track_href": "https://api.spotify.com/v1/tracks/3HXRx3b7X1Qx3LwJHrpgzB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3HXRx3b7X1Qx3LwJHrpgzB",
+        "duration_ms": 12667,
+        "time_signature": 0
+      }
+    ]
+  },
+  {
+    "id": "6BAJofeQE4sGoZzC2RKeps",
+    "name": "The 18th Letter (Always And Forever)",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 81.891,
+    "features": [
+      {
+        "danceability": 0.668,
+        "energy": 0.677,
+        "key": 4,
+        "loudness": -8.257,
+        "mode": 0,
+        "speechiness": 0.242,
+        "acousticness": 0.073,
+        "instrumentalness": 1.51e-06,
+        "liveness": 0.202,
+        "valence": 0.741,
+        "tempo": 81.891,
+        "type": "audio_features",
+        "id": "6BAJofeQE4sGoZzC2RKeps",
+        "uri": "spotify:track:6BAJofeQE4sGoZzC2RKeps",
+        "track_href": "https://api.spotify.com/v1/tracks/6BAJofeQE4sGoZzC2RKeps",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6BAJofeQE4sGoZzC2RKeps",
+        "duration_ms": 180933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0PyEovyyFmUiYE9S2R9phH",
+    "name": "Skit 1",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 82.26,
+    "features": [
+      {
+        "danceability": 0.749,
+        "energy": 0.185,
+        "key": 5,
+        "loudness": -18.828,
+        "mode": 1,
+        "speechiness": 0.933,
+        "acousticness": 0.829,
+        "instrumentalness": 0.000122,
+        "liveness": 0.107,
+        "valence": 0.834,
+        "tempo": 82.26,
+        "type": "audio_features",
+        "id": "0PyEovyyFmUiYE9S2R9phH",
+        "uri": "spotify:track:0PyEovyyFmUiYE9S2R9phH",
+        "track_href": "https://api.spotify.com/v1/tracks/0PyEovyyFmUiYE9S2R9phH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0PyEovyyFmUiYE9S2R9phH",
+        "duration_ms": 23573,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "75QmGYJmgX1czkC2Jrfntj",
+    "name": "It's Been A Long Time",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 88.664,
+    "features": [
+      {
+        "danceability": 0.84,
+        "energy": 0.579,
+        "key": 11,
+        "loudness": -7.402,
+        "mode": 0,
+        "speechiness": 0.191,
+        "acousticness": 0.00857,
+        "instrumentalness": 3.89e-05,
+        "liveness": 0.0591,
+        "valence": 0.854,
+        "tempo": 88.664,
+        "type": "audio_features",
+        "id": "75QmGYJmgX1czkC2Jrfntj",
+        "uri": "spotify:track:75QmGYJmgX1czkC2Jrfntj",
+        "track_href": "https://api.spotify.com/v1/tracks/75QmGYJmgX1czkC2Jrfntj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/75QmGYJmgX1czkC2Jrfntj",
+        "duration_ms": 236533,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0ksqgPrEN3doICUs1HgAmk",
+    "name": "Remember That",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 87.868,
+    "features": [
+      {
+        "danceability": 0.758,
+        "energy": 0.682,
+        "key": 10,
+        "loudness": -9.417,
+        "mode": 0,
+        "speechiness": 0.175,
+        "acousticness": 0.0329,
+        "instrumentalness": 0,
+        "liveness": 0.724,
+        "valence": 0.835,
+        "tempo": 87.868,
+        "type": "audio_features",
+        "id": "0ksqgPrEN3doICUs1HgAmk",
+        "uri": "spotify:track:0ksqgPrEN3doICUs1HgAmk",
+        "track_href": "https://api.spotify.com/v1/tracks/0ksqgPrEN3doICUs1HgAmk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ksqgPrEN3doICUs1HgAmk",
+        "duration_ms": 280093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6twONvr0PRaGsdszvMpaSW",
+    "name": "The Saga Begins",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 90.048,
+    "features": [
+      {
+        "danceability": 0.782,
+        "energy": 0.678,
+        "key": 1,
+        "loudness": -8.449,
+        "mode": 1,
+        "speechiness": 0.304,
+        "acousticness": 0.412,
+        "instrumentalness": 0,
+        "liveness": 0.339,
+        "valence": 0.786,
+        "tempo": 90.048,
+        "type": "audio_features",
+        "id": "6twONvr0PRaGsdszvMpaSW",
+        "uri": "spotify:track:6twONvr0PRaGsdszvMpaSW",
+        "track_href": "https://api.spotify.com/v1/tracks/6twONvr0PRaGsdszvMpaSW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6twONvr0PRaGsdszvMpaSW",
+        "duration_ms": 262133,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3uBZ6nXhlHSMgPLmJV1FRM",
+    "name": "Skit 2",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 70.566,
+    "features": [
+      {
+        "danceability": 0.636,
+        "energy": 0.135,
+        "key": 0,
+        "loudness": -18.586,
+        "mode": 0,
+        "speechiness": 0.283,
+        "acousticness": 0.566,
+        "instrumentalness": 0,
+        "liveness": 0.0972,
+        "valence": 0.965,
+        "tempo": 70.566,
+        "type": "audio_features",
+        "id": "3uBZ6nXhlHSMgPLmJV1FRM",
+        "uri": "spotify:track:3uBZ6nXhlHSMgPLmJV1FRM",
+        "track_href": "https://api.spotify.com/v1/tracks/3uBZ6nXhlHSMgPLmJV1FRM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3uBZ6nXhlHSMgPLmJV1FRM",
+        "duration_ms": 19067,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "017GzE58P4jNjqO7uls7M4",
+    "name": "Guess Who's Back",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 93.942,
+    "features": [
+      {
+        "danceability": 0.779,
+        "energy": 0.795,
+        "key": 6,
+        "loudness": -7.51,
+        "mode": 0,
+        "speechiness": 0.266,
+        "acousticness": 0.0171,
+        "instrumentalness": 0,
+        "liveness": 0.0921,
+        "valence": 0.683,
+        "tempo": 93.942,
+        "type": "audio_features",
+        "id": "017GzE58P4jNjqO7uls7M4",
+        "uri": "spotify:track:017GzE58P4jNjqO7uls7M4",
+        "track_href": "https://api.spotify.com/v1/tracks/017GzE58P4jNjqO7uls7M4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/017GzE58P4jNjqO7uls7M4",
+        "duration_ms": 250907,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0hgj0ENdyCkPb2sYxM2aE8",
+    "name": "Stay A While",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 94.74,
+    "features": [
+      {
+        "danceability": 0.754,
+        "energy": 0.636,
+        "key": 11,
+        "loudness": -10.403,
+        "mode": 1,
+        "speechiness": 0.232,
+        "acousticness": 0.0252,
+        "instrumentalness": 1.12e-05,
+        "liveness": 0.0976,
+        "valence": 0.797,
+        "tempo": 94.74,
+        "type": "audio_features",
+        "id": "0hgj0ENdyCkPb2sYxM2aE8",
+        "uri": "spotify:track:0hgj0ENdyCkPb2sYxM2aE8",
+        "track_href": "https://api.spotify.com/v1/tracks/0hgj0ENdyCkPb2sYxM2aE8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0hgj0ENdyCkPb2sYxM2aE8",
+        "duration_ms": 264933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4Qs6I7bG9hydvdOECTZbc1",
+    "name": "New York (Ya Out There)",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 90.079,
+    "features": [
+      {
+        "danceability": 0.786,
+        "energy": 0.661,
+        "key": 4,
+        "loudness": -8.907,
+        "mode": 0,
+        "speechiness": 0.234,
+        "acousticness": 0.019,
+        "instrumentalness": 0,
+        "liveness": 0.121,
+        "valence": 0.852,
+        "tempo": 90.079,
+        "type": "audio_features",
+        "id": "4Qs6I7bG9hydvdOECTZbc1",
+        "uri": "spotify:track:4Qs6I7bG9hydvdOECTZbc1",
+        "track_href": "https://api.spotify.com/v1/tracks/4Qs6I7bG9hydvdOECTZbc1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Qs6I7bG9hydvdOECTZbc1",
+        "duration_ms": 244133,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2FUAtKdVgUzYr4Hs4iSqQQ",
+    "name": "Show Me Love",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 88.832,
+    "features": [
+      {
+        "danceability": 0.77,
+        "energy": 0.564,
+        "key": 8,
+        "loudness": -7.402,
+        "mode": 0,
+        "speechiness": 0.254,
+        "acousticness": 0.597,
+        "instrumentalness": 7.58e-06,
+        "liveness": 0.0885,
+        "valence": 0.84,
+        "tempo": 88.832,
+        "type": "audio_features",
+        "id": "2FUAtKdVgUzYr4Hs4iSqQQ",
+        "uri": "spotify:track:2FUAtKdVgUzYr4Hs4iSqQQ",
+        "track_href": "https://api.spotify.com/v1/tracks/2FUAtKdVgUzYr4Hs4iSqQQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2FUAtKdVgUzYr4Hs4iSqQQ",
+        "duration_ms": 258800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1Su7D0tOU97LAmF1Zq5Bph",
+    "name": "Skit 3",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 63.113,
+    "features": [
+      {
+        "danceability": 0.736,
+        "energy": 0.206,
+        "key": 6,
+        "loudness": -16.81,
+        "mode": 1,
+        "speechiness": 0.948,
+        "acousticness": 0.606,
+        "instrumentalness": 0,
+        "liveness": 0.496,
+        "valence": 0.969,
+        "tempo": 63.113,
+        "type": "audio_features",
+        "id": "1Su7D0tOU97LAmF1Zq5Bph",
+        "uri": "spotify:track:1Su7D0tOU97LAmF1Zq5Bph",
+        "track_href": "https://api.spotify.com/v1/tracks/1Su7D0tOU97LAmF1Zq5Bph",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Su7D0tOU97LAmF1Zq5Bph",
+        "duration_ms": 18933,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "4bm4oKn4s1NX1B5APkD6xB",
+    "name": "The Mystery (Who Is God?)",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 84.163,
+    "features": [
+      {
+        "danceability": 0.716,
+        "energy": 0.514,
+        "key": 11,
+        "loudness": -12.668,
+        "mode": 1,
+        "speechiness": 0.212,
+        "acousticness": 0.327,
+        "instrumentalness": 0.000141,
+        "liveness": 0.238,
+        "valence": 0.914,
+        "tempo": 84.163,
+        "type": "audio_features",
+        "id": "4bm4oKn4s1NX1B5APkD6xB",
+        "uri": "spotify:track:4bm4oKn4s1NX1B5APkD6xB",
+        "track_href": "https://api.spotify.com/v1/tracks/4bm4oKn4s1NX1B5APkD6xB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4bm4oKn4s1NX1B5APkD6xB",
+        "duration_ms": 320560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4EH3IuqcfLMj0eIHZmY4pn",
+    "name": "When I'm Flowin'",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 87.741,
+    "features": [
+      {
+        "danceability": 0.648,
+        "energy": 0.686,
+        "key": 2,
+        "loudness": -6.718,
+        "mode": 1,
+        "speechiness": 0.391,
+        "acousticness": 0.211,
+        "instrumentalness": 0,
+        "liveness": 0.341,
+        "valence": 0.737,
+        "tempo": 87.741,
+        "type": "audio_features",
+        "id": "4EH3IuqcfLMj0eIHZmY4pn",
+        "uri": "spotify:track:4EH3IuqcfLMj0eIHZmY4pn",
+        "track_href": "https://api.spotify.com/v1/tracks/4EH3IuqcfLMj0eIHZmY4pn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4EH3IuqcfLMj0eIHZmY4pn",
+        "duration_ms": 304240,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2Lnm8zUUmP4RLjY9xHr0j4",
+    "name": "It's Been A Long Time - Suave House Mix",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 88.622,
+    "features": [
+      {
+        "danceability": 0.78,
+        "energy": 0.563,
+        "key": 7,
+        "loudness": -7.105,
+        "mode": 1,
+        "speechiness": 0.259,
+        "acousticness": 0.00479,
+        "instrumentalness": 1.98e-05,
+        "liveness": 0.196,
+        "valence": 0.663,
+        "tempo": 88.622,
+        "type": "audio_features",
+        "id": "2Lnm8zUUmP4RLjY9xHr0j4",
+        "uri": "spotify:track:2Lnm8zUUmP4RLjY9xHr0j4",
+        "track_href": "https://api.spotify.com/v1/tracks/2Lnm8zUUmP4RLjY9xHr0j4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Lnm8zUUmP4RLjY9xHr0j4",
+        "duration_ms": 238867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5Po11JyzClJPcGk2QnUASE",
+    "name": "Guess Who's Back - Alternate Mix",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 94.056,
+    "features": [
+      {
+        "danceability": 0.881,
+        "energy": 0.828,
+        "key": 7,
+        "loudness": -4.718,
+        "mode": 1,
+        "speechiness": 0.25,
+        "acousticness": 0.0192,
+        "instrumentalness": 0,
+        "liveness": 0.128,
+        "valence": 0.675,
+        "tempo": 94.056,
+        "type": "audio_features",
+        "id": "5Po11JyzClJPcGk2QnUASE",
+        "uri": "spotify:track:5Po11JyzClJPcGk2QnUASE",
+        "track_href": "https://api.spotify.com/v1/tracks/5Po11JyzClJPcGk2QnUASE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Po11JyzClJPcGk2QnUASE",
+        "duration_ms": 250600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1xiqGaMeZqLFY9TpA07k4F",
+    "name": "Outro",
+    "artist": "Rakim",
+    "album": "The 18th Letter",
+    "bpm": 80.852,
+    "features": [
+      {
+        "danceability": 0.648,
+        "energy": 0.0841,
+        "key": 0,
+        "loudness": -22.554,
+        "mode": 1,
+        "speechiness": 0.808,
+        "acousticness": 0.676,
+        "instrumentalness": 0,
+        "liveness": 0.12,
+        "valence": 0.657,
+        "tempo": 80.852,
+        "type": "audio_features",
+        "id": "1xiqGaMeZqLFY9TpA07k4F",
+        "uri": "spotify:track:1xiqGaMeZqLFY9TpA07k4F",
+        "track_href": "https://api.spotify.com/v1/tracks/1xiqGaMeZqLFY9TpA07k4F",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1xiqGaMeZqLFY9TpA07k4F",
+        "duration_ms": 79867,
+        "time_signature": 5
+      }
+    ]
+  }
+]

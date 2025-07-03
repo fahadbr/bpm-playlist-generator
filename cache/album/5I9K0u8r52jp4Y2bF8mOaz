@@ -1,0 +1,495 @@
+[
+  {
+    "id": "1bvPlrTtIpj7CSXRaJpALg",
+    "name": "Strange Timez (feat. Robert Smith)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 130.978,
+    "features": [
+      {
+        "danceability": 0.562,
+        "energy": 0.919,
+        "key": 9,
+        "loudness": -5.697,
+        "mode": 0,
+        "speechiness": 0.0441,
+        "acousticness": 0.415,
+        "instrumentalness": 0.035,
+        "liveness": 0.111,
+        "valence": 0.645,
+        "tempo": 130.978,
+        "type": "audio_features",
+        "id": "1bvPlrTtIpj7CSXRaJpALg",
+        "uri": "spotify:track:1bvPlrTtIpj7CSXRaJpALg",
+        "track_href": "https://api.spotify.com/v1/tracks/1bvPlrTtIpj7CSXRaJpALg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1bvPlrTtIpj7CSXRaJpALg",
+        "duration_ms": 227500,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3oP3Tfn86FRmxAGsV0TqCp",
+    "name": "The Valley of The Pagans (feat. Beck)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 130.034,
+    "features": [
+      {
+        "danceability": 0.75,
+        "energy": 0.856,
+        "key": 2,
+        "loudness": -5.802,
+        "mode": 1,
+        "speechiness": 0.0457,
+        "acousticness": 0.0778,
+        "instrumentalness": 3.65e-05,
+        "liveness": 0.117,
+        "valence": 0.94,
+        "tempo": 130.034,
+        "type": "audio_features",
+        "id": "3oP3Tfn86FRmxAGsV0TqCp",
+        "uri": "spotify:track:3oP3Tfn86FRmxAGsV0TqCp",
+        "track_href": "https://api.spotify.com/v1/tracks/3oP3Tfn86FRmxAGsV0TqCp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3oP3Tfn86FRmxAGsV0TqCp",
+        "duration_ms": 181029,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5jDIIpm38XbdvvSt4oilcI",
+    "name": "The Lost Chord (feat. Leee John)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 82.971,
+    "features": [
+      {
+        "danceability": 0.241,
+        "energy": 0.76,
+        "key": 6,
+        "loudness": -7.783,
+        "mode": 0,
+        "speechiness": 0.0481,
+        "acousticness": 0.469,
+        "instrumentalness": 0.112,
+        "liveness": 0.667,
+        "valence": 0.424,
+        "tempo": 82.971,
+        "type": "audio_features",
+        "id": "5jDIIpm38XbdvvSt4oilcI",
+        "uri": "spotify:track:5jDIIpm38XbdvvSt4oilcI",
+        "track_href": "https://api.spotify.com/v1/tracks/5jDIIpm38XbdvvSt4oilcI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5jDIIpm38XbdvvSt4oilcI",
+        "duration_ms": 243618,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4hURm1oP1rE1KZ4zd7mRay",
+    "name": "Pac-Man (feat. ScHoolboy Q)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 96.042,
+    "features": [
+      {
+        "danceability": 0.762,
+        "energy": 0.809,
+        "key": 7,
+        "loudness": -5.454,
+        "mode": 0,
+        "speechiness": 0.0961,
+        "acousticness": 0.273,
+        "instrumentalness": 3.99e-05,
+        "liveness": 0.333,
+        "valence": 0.731,
+        "tempo": 96.042,
+        "type": "audio_features",
+        "id": "4hURm1oP1rE1KZ4zd7mRay",
+        "uri": "spotify:track:4hURm1oP1rE1KZ4zd7mRay",
+        "track_href": "https://api.spotify.com/v1/tracks/4hURm1oP1rE1KZ4zd7mRay",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4hURm1oP1rE1KZ4zd7mRay",
+        "duration_ms": 192880,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5zGElc4Fk95ONl7YihpLFN",
+    "name": "Chalk Tablet Towers (feat. St Vincent)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 133.008,
+    "features": [
+      {
+        "danceability": 0.69,
+        "energy": 0.933,
+        "key": 9,
+        "loudness": -5.447,
+        "mode": 0,
+        "speechiness": 0.0432,
+        "acousticness": 0.0259,
+        "instrumentalness": 0.00181,
+        "liveness": 0.0571,
+        "valence": 0.896,
+        "tempo": 133.008,
+        "type": "audio_features",
+        "id": "5zGElc4Fk95ONl7YihpLFN",
+        "uri": "spotify:track:5zGElc4Fk95ONl7YihpLFN",
+        "track_href": "https://api.spotify.com/v1/tracks/5zGElc4Fk95ONl7YihpLFN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zGElc4Fk95ONl7YihpLFN",
+        "duration_ms": 182727,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6XyFC44z3MyVMd5ZrctiWL",
+    "name": "The Pink Phantom (feat. Elton John and 6LACK)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 64.474,
+    "features": [
+      {
+        "danceability": 0.485,
+        "energy": 0.484,
+        "key": 0,
+        "loudness": -8.156,
+        "mode": 1,
+        "speechiness": 0.0348,
+        "acousticness": 0.498,
+        "instrumentalness": 0.000325,
+        "liveness": 0.0607,
+        "valence": 0.493,
+        "tempo": 64.474,
+        "type": "audio_features",
+        "id": "6XyFC44z3MyVMd5ZrctiWL",
+        "uri": "spotify:track:6XyFC44z3MyVMd5ZrctiWL",
+        "track_href": "https://api.spotify.com/v1/tracks/6XyFC44z3MyVMd5ZrctiWL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6XyFC44z3MyVMd5ZrctiWL",
+        "duration_ms": 253127,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "25Gp0MpGdvrs4hL1u4L2TF",
+    "name": "Aries (feat. Peter Hook and Georgia)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 120.006,
+    "features": [
+      {
+        "danceability": 0.615,
+        "energy": 0.667,
+        "key": 2,
+        "loudness": -7.801,
+        "mode": 1,
+        "speechiness": 0.0345,
+        "acousticness": 0.0175,
+        "instrumentalness": 0.0844,
+        "liveness": 0.241,
+        "valence": 0.795,
+        "tempo": 120.006,
+        "type": "audio_features",
+        "id": "25Gp0MpGdvrs4hL1u4L2TF",
+        "uri": "spotify:track:25Gp0MpGdvrs4hL1u4L2TF",
+        "track_href": "https://api.spotify.com/v1/tracks/25Gp0MpGdvrs4hL1u4L2TF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/25Gp0MpGdvrs4hL1u4L2TF",
+        "duration_ms": 253333,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5dB55Te4Ivt5VRpwQsZXMa",
+    "name": "Friday 13th (feat. Octavian)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 100.042,
+    "features": [
+      {
+        "danceability": 0.753,
+        "energy": 0.411,
+        "key": 0,
+        "loudness": -10.684,
+        "mode": 1,
+        "speechiness": 0.0271,
+        "acousticness": 0.547,
+        "instrumentalness": 4.19e-05,
+        "liveness": 0.228,
+        "valence": 0.484,
+        "tempo": 100.042,
+        "type": "audio_features",
+        "id": "5dB55Te4Ivt5VRpwQsZXMa",
+        "uri": "spotify:track:5dB55Te4Ivt5VRpwQsZXMa",
+        "track_href": "https://api.spotify.com/v1/tracks/5dB55Te4Ivt5VRpwQsZXMa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5dB55Te4Ivt5VRpwQsZXMa",
+        "duration_ms": 215007,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0kz637M43RY673RZoJCWBX",
+    "name": "Dead Butterflies (feat. Kano and Roxani Arias)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 173.963,
+    "features": [
+      {
+        "danceability": 0.648,
+        "energy": 0.533,
+        "key": 0,
+        "loudness": -9.163,
+        "mode": 1,
+        "speechiness": 0.164,
+        "acousticness": 0.485,
+        "instrumentalness": 0.0204,
+        "liveness": 0.358,
+        "valence": 0.288,
+        "tempo": 173.963,
+        "type": "audio_features",
+        "id": "0kz637M43RY673RZoJCWBX",
+        "uri": "spotify:track:0kz637M43RY673RZoJCWBX",
+        "track_href": "https://api.spotify.com/v1/tracks/0kz637M43RY673RZoJCWBX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0kz637M43RY673RZoJCWBX",
+        "duration_ms": 273685,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7rhtPZkcGCWgA3kizGwXwO",
+    "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 136.002,
+    "features": [
+      {
+        "danceability": 0.73,
+        "energy": 0.688,
+        "key": 4,
+        "loudness": -7.912,
+        "mode": 0,
+        "speechiness": 0.028,
+        "acousticness": 0.337,
+        "instrumentalness": 0.229,
+        "liveness": 0.0727,
+        "valence": 0.861,
+        "tempo": 136.002,
+        "type": "audio_features",
+        "id": "7rhtPZkcGCWgA3kizGwXwO",
+        "uri": "spotify:track:7rhtPZkcGCWgA3kizGwXwO",
+        "track_href": "https://api.spotify.com/v1/tracks/7rhtPZkcGCWgA3kizGwXwO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7rhtPZkcGCWgA3kizGwXwO",
+        "duration_ms": 333113,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5h5FY6vmtDpgXF91BUexO0",
+    "name": "Momentary Bliss (feat. slowthai and Slaves)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 158.059,
+    "features": [
+      {
+        "danceability": 0.642,
+        "energy": 0.806,
+        "key": 9,
+        "loudness": -6.73,
+        "mode": 1,
+        "speechiness": 0.239,
+        "acousticness": 0.0845,
+        "instrumentalness": 2.24e-05,
+        "liveness": 0.64,
+        "valence": 0.712,
+        "tempo": 158.059,
+        "type": "audio_features",
+        "id": "5h5FY6vmtDpgXF91BUexO0",
+        "uri": "spotify:track:5h5FY6vmtDpgXF91BUexO0",
+        "track_href": "https://api.spotify.com/v1/tracks/5h5FY6vmtDpgXF91BUexO0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5h5FY6vmtDpgXF91BUexO0",
+        "duration_ms": 221386,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4jNs9cJBsFTiahZAe3iuwV",
+    "name": "Opium (feat. EARTHGANG)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 120.002,
+    "features": [
+      {
+        "danceability": 0.682,
+        "energy": 0.847,
+        "key": 11,
+        "loudness": -8.58,
+        "mode": 1,
+        "speechiness": 0.0612,
+        "acousticness": 0.216,
+        "instrumentalness": 0.168,
+        "liveness": 0.0849,
+        "valence": 0.813,
+        "tempo": 120.002,
+        "type": "audio_features",
+        "id": "4jNs9cJBsFTiahZAe3iuwV",
+        "uri": "spotify:track:4jNs9cJBsFTiahZAe3iuwV",
+        "track_href": "https://api.spotify.com/v1/tracks/4jNs9cJBsFTiahZAe3iuwV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4jNs9cJBsFTiahZAe3iuwV",
+        "duration_ms": 410802,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5vUmlY6P9ZA3WoosABRUpp",
+    "name": "Simplicity (feat. Joan As Police Woman)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 121.635,
+    "features": [
+      {
+        "danceability": 0.74,
+        "energy": 0.655,
+        "key": 11,
+        "loudness": -11.302,
+        "mode": 0,
+        "speechiness": 0.052,
+        "acousticness": 0.569,
+        "instrumentalness": 0.492,
+        "liveness": 0.0961,
+        "valence": 0.753,
+        "tempo": 121.635,
+        "type": "audio_features",
+        "id": "5vUmlY6P9ZA3WoosABRUpp",
+        "uri": "spotify:track:5vUmlY6P9ZA3WoosABRUpp",
+        "track_href": "https://api.spotify.com/v1/tracks/5vUmlY6P9ZA3WoosABRUpp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5vUmlY6P9ZA3WoosABRUpp",
+        "duration_ms": 164467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Zn0jtLj2ehkIPxlCoO65O",
+    "name": "Severed Head (feat. Goldlink and Unknown Mortal Orchestra)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 120.008,
+    "features": [
+      {
+        "danceability": 0.74,
+        "energy": 0.674,
+        "key": 9,
+        "loudness": -10.068,
+        "mode": 0,
+        "speechiness": 0.0445,
+        "acousticness": 0.298,
+        "instrumentalness": 0.342,
+        "liveness": 0.0698,
+        "valence": 0.472,
+        "tempo": 120.008,
+        "type": "audio_features",
+        "id": "0Zn0jtLj2ehkIPxlCoO65O",
+        "uri": "spotify:track:0Zn0jtLj2ehkIPxlCoO65O",
+        "track_href": "https://api.spotify.com/v1/tracks/0Zn0jtLj2ehkIPxlCoO65O",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Zn0jtLj2ehkIPxlCoO65O",
+        "duration_ms": 214256,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4KAIfa7oABPJbKT4cUz4Tx",
+    "name": "With Love To An Ex (feat. Moonchild Sanelly)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 76.416,
+    "features": [
+      {
+        "danceability": 0.514,
+        "energy": 0.493,
+        "key": 9,
+        "loudness": -9.797,
+        "mode": 1,
+        "speechiness": 0.136,
+        "acousticness": 0.201,
+        "instrumentalness": 0.0198,
+        "liveness": 0.15,
+        "valence": 0.519,
+        "tempo": 76.416,
+        "type": "audio_features",
+        "id": "4KAIfa7oABPJbKT4cUz4Tx",
+        "uri": "spotify:track:4KAIfa7oABPJbKT4cUz4Tx",
+        "track_href": "https://api.spotify.com/v1/tracks/4KAIfa7oABPJbKT4cUz4Tx",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4KAIfa7oABPJbKT4cUz4Tx",
+        "duration_ms": 181081,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1mDbaq398rKyA2g4vv5obQ",
+    "name": "MLS (feat. JPEGMAFIA and CHAI)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 90.006,
+    "features": [
+      {
+        "danceability": 0.745,
+        "energy": 0.653,
+        "key": 6,
+        "loudness": -7.511,
+        "mode": 0,
+        "speechiness": 0.074,
+        "acousticness": 0.0889,
+        "instrumentalness": 0,
+        "liveness": 0.104,
+        "valence": 0.68,
+        "tempo": 90.006,
+        "type": "audio_features",
+        "id": "1mDbaq398rKyA2g4vv5obQ",
+        "uri": "spotify:track:1mDbaq398rKyA2g4vv5obQ",
+        "track_href": "https://api.spotify.com/v1/tracks/1mDbaq398rKyA2g4vv5obQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1mDbaq398rKyA2g4vv5obQ",
+        "duration_ms": 193280,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7oPUdVHd88LJG7A9mVGbuF",
+    "name": "How Far? (feat. Tony Allen and Skepta)",
+    "artist": "Gorillaz",
+    "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "bpm": 110.172,
+    "features": [
+      {
+        "danceability": 0.7,
+        "energy": 0.794,
+        "key": 2,
+        "loudness": -7.215,
+        "mode": 1,
+        "speechiness": 0.211,
+        "acousticness": 0.503,
+        "instrumentalness": 1.36e-06,
+        "liveness": 0.377,
+        "valence": 0.848,
+        "tempo": 110.172,
+        "type": "audio_features",
+        "id": "7oPUdVHd88LJG7A9mVGbuF",
+        "uri": "spotify:track:7oPUdVHd88LJG7A9mVGbuF",
+        "track_href": "https://api.spotify.com/v1/tracks/7oPUdVHd88LJG7A9mVGbuF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7oPUdVHd88LJG7A9mVGbuF",
+        "duration_ms": 166489,
+        "time_signature": 4
+      }
+    ]
+  }
+]

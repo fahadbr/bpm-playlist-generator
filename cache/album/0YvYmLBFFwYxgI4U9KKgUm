@@ -1,0 +1,524 @@
+[
+  {
+    "id": "4TyL53zUFb1nJDVyU2sBHc",
+    "name": "Re-Hash",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 100.297,
+    "features": [
+      {
+        "danceability": 0.837,
+        "energy": 0.79,
+        "key": 7,
+        "loudness": -6.717,
+        "mode": 1,
+        "speechiness": 0.0933,
+        "acousticness": 0.0274,
+        "instrumentalness": 0.728,
+        "liveness": 0.0569,
+        "valence": 0.782,
+        "tempo": 100.297,
+        "type": "audio_features",
+        "id": "4TyL53zUFb1nJDVyU2sBHc",
+        "uri": "spotify:track:4TyL53zUFb1nJDVyU2sBHc",
+        "track_href": "https://api.spotify.com/v1/tracks/4TyL53zUFb1nJDVyU2sBHc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4TyL53zUFb1nJDVyU2sBHc",
+        "duration_ms": 220840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5zbkoIgrBO5VjrQIEChlre",
+    "name": "5/4",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 96.4,
+    "features": [
+      {
+        "danceability": 0.798,
+        "energy": 0.922,
+        "key": 0,
+        "loudness": -3.382,
+        "mode": 1,
+        "speechiness": 0.0364,
+        "acousticness": 0.0948,
+        "instrumentalness": 0.000274,
+        "liveness": 0.0698,
+        "valence": 0.805,
+        "tempo": 96.4,
+        "type": "audio_features",
+        "id": "5zbkoIgrBO5VjrQIEChlre",
+        "uri": "spotify:track:5zbkoIgrBO5VjrQIEChlre",
+        "track_href": "https://api.spotify.com/v1/tracks/5zbkoIgrBO5VjrQIEChlre",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zbkoIgrBO5VjrQIEChlre",
+        "duration_ms": 162080,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "3qdDjz9kOvquEFbvXBYOMQ",
+    "name": "Tomorrow Comes Today",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 93.213,
+    "features": [
+      {
+        "danceability": 0.751,
+        "energy": 0.596,
+        "key": 6,
+        "loudness": -4.594,
+        "mode": 1,
+        "speechiness": 0.0301,
+        "acousticness": 0.0071,
+        "instrumentalness": 0.589,
+        "liveness": 0.103,
+        "valence": 0.57,
+        "tempo": 93.213,
+        "type": "audio_features",
+        "id": "3qdDjz9kOvquEFbvXBYOMQ",
+        "uri": "spotify:track:3qdDjz9kOvquEFbvXBYOMQ",
+        "track_href": "https://api.spotify.com/v1/tracks/3qdDjz9kOvquEFbvXBYOMQ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3qdDjz9kOvquEFbvXBYOMQ",
+        "duration_ms": 193600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7cKs1U32CF8kKPkT2R4WQD",
+    "name": "New Genius (Brother)",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 169.209,
+    "features": [
+      {
+        "danceability": 0.556,
+        "energy": 0.786,
+        "key": 7,
+        "loudness": -7.37,
+        "mode": 1,
+        "speechiness": 0.04,
+        "acousticness": 0.121,
+        "instrumentalness": 0.00521,
+        "liveness": 0.181,
+        "valence": 0.497,
+        "tempo": 169.209,
+        "type": "audio_features",
+        "id": "7cKs1U32CF8kKPkT2R4WQD",
+        "uri": "spotify:track:7cKs1U32CF8kKPkT2R4WQD",
+        "track_href": "https://api.spotify.com/v1/tracks/7cKs1U32CF8kKPkT2R4WQD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7cKs1U32CF8kKPkT2R4WQD",
+        "duration_ms": 239987,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7yMiX7n9SBvadzox8T5jzT",
+    "name": "Clint Eastwood",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 167.953,
+    "features": [
+      {
+        "danceability": 0.663,
+        "energy": 0.694,
+        "key": 10,
+        "loudness": -8.627,
+        "mode": 0,
+        "speechiness": 0.171,
+        "acousticness": 0.0253,
+        "instrumentalness": 0,
+        "liveness": 0.0698,
+        "valence": 0.525,
+        "tempo": 167.953,
+        "type": "audio_features",
+        "id": "7yMiX7n9SBvadzox8T5jzT",
+        "uri": "spotify:track:7yMiX7n9SBvadzox8T5jzT",
+        "track_href": "https://api.spotify.com/v1/tracks/7yMiX7n9SBvadzox8T5jzT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7yMiX7n9SBvadzox8T5jzT",
+        "duration_ms": 340920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3kKzopL09gU1FLnV3OKQq2",
+    "name": "Man Research (Clapper)",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 95.738,
+    "features": [
+      {
+        "danceability": 0.625,
+        "energy": 0.717,
+        "key": 8,
+        "loudness": -11.376,
+        "mode": 0,
+        "speechiness": 0.0593,
+        "acousticness": 0.13,
+        "instrumentalness": 0.472,
+        "liveness": 0.0842,
+        "valence": 0.831,
+        "tempo": 95.738,
+        "type": "audio_features",
+        "id": "3kKzopL09gU1FLnV3OKQq2",
+        "uri": "spotify:track:3kKzopL09gU1FLnV3OKQq2",
+        "track_href": "https://api.spotify.com/v1/tracks/3kKzopL09gU1FLnV3OKQq2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3kKzopL09gU1FLnV3OKQq2",
+        "duration_ms": 272947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "19bvTzzRjbpxgYdz5gViIU",
+    "name": "Punk",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 153.532,
+    "features": [
+      {
+        "danceability": 0.495,
+        "energy": 0.67,
+        "key": 8,
+        "loudness": -7.581,
+        "mode": 1,
+        "speechiness": 0.36,
+        "acousticness": 0.00485,
+        "instrumentalness": 0.588,
+        "liveness": 0.085,
+        "valence": 0.519,
+        "tempo": 153.532,
+        "type": "audio_features",
+        "id": "19bvTzzRjbpxgYdz5gViIU",
+        "uri": "spotify:track:19bvTzzRjbpxgYdz5gViIU",
+        "track_href": "https://api.spotify.com/v1/tracks/19bvTzzRjbpxgYdz5gViIU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/19bvTzzRjbpxgYdz5gViIU",
+        "duration_ms": 98533,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7JyVUB9LUVZgrJDFLOKdp8",
+    "name": "Sound Check (Gravity)",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 81.75,
+    "features": [
+      {
+        "danceability": 0.579,
+        "energy": 0.586,
+        "key": 7,
+        "loudness": -9.318,
+        "mode": 1,
+        "speechiness": 0.174,
+        "acousticness": 0.247,
+        "instrumentalness": 0.134,
+        "liveness": 0.0968,
+        "valence": 0.42,
+        "tempo": 81.75,
+        "type": "audio_features",
+        "id": "7JyVUB9LUVZgrJDFLOKdp8",
+        "uri": "spotify:track:7JyVUB9LUVZgrJDFLOKdp8",
+        "track_href": "https://api.spotify.com/v1/tracks/7JyVUB9LUVZgrJDFLOKdp8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7JyVUB9LUVZgrJDFLOKdp8",
+        "duration_ms": 282973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2SesWUNxh3idu7A2y2iY0H",
+    "name": "Double Bass",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 164.847,
+    "features": [
+      {
+        "danceability": 0.699,
+        "energy": 0.554,
+        "key": 8,
+        "loudness": -10.546,
+        "mode": 1,
+        "speechiness": 0.108,
+        "acousticness": 0.0607,
+        "instrumentalness": 0.818,
+        "liveness": 0.13,
+        "valence": 0.573,
+        "tempo": 164.847,
+        "type": "audio_features",
+        "id": "2SesWUNxh3idu7A2y2iY0H",
+        "uri": "spotify:track:2SesWUNxh3idu7A2y2iY0H",
+        "track_href": "https://api.spotify.com/v1/tracks/2SesWUNxh3idu7A2y2iY0H",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2SesWUNxh3idu7A2y2iY0H",
+        "duration_ms": 286933,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5GxqKrG0zeKA8uYJMjXwj9",
+    "name": "Rock the House",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 171.953,
+    "features": [
+      {
+        "danceability": 0.754,
+        "energy": 0.825,
+        "key": 2,
+        "loudness": -6.498,
+        "mode": 1,
+        "speechiness": 0.237,
+        "acousticness": 0.0748,
+        "instrumentalness": 7.18e-05,
+        "liveness": 0.169,
+        "valence": 0.612,
+        "tempo": 171.953,
+        "type": "audio_features",
+        "id": "5GxqKrG0zeKA8uYJMjXwj9",
+        "uri": "spotify:track:5GxqKrG0zeKA8uYJMjXwj9",
+        "track_href": "https://api.spotify.com/v1/tracks/5GxqKrG0zeKA8uYJMjXwj9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5GxqKrG0zeKA8uYJMjXwj9",
+        "duration_ms": 249200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1kSWrMDt439cT64WpjJigW",
+    "name": "19-2000",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 89.914,
+    "features": [
+      {
+        "danceability": 0.815,
+        "energy": 0.72,
+        "key": 7,
+        "loudness": -7.311,
+        "mode": 1,
+        "speechiness": 0.0536,
+        "acousticness": 0.177,
+        "instrumentalness": 7.31e-06,
+        "liveness": 0.16,
+        "valence": 0.946,
+        "tempo": 89.914,
+        "type": "audio_features",
+        "id": "1kSWrMDt439cT64WpjJigW",
+        "uri": "spotify:track:1kSWrMDt439cT64WpjJigW",
+        "track_href": "https://api.spotify.com/v1/tracks/1kSWrMDt439cT64WpjJigW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1kSWrMDt439cT64WpjJigW",
+        "duration_ms": 210880,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4iXOdnIBM90SxELqJry6AX",
+    "name": "Latin Simone (Que Pasa Contigo)",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 173.052,
+    "features": [
+      {
+        "danceability": 0.51,
+        "energy": 0.763,
+        "key": 6,
+        "loudness": -4.506,
+        "mode": 1,
+        "speechiness": 0.0706,
+        "acousticness": 0.0516,
+        "instrumentalness": 0.0151,
+        "liveness": 0.101,
+        "valence": 0.344,
+        "tempo": 173.052,
+        "type": "audio_features",
+        "id": "4iXOdnIBM90SxELqJry6AX",
+        "uri": "spotify:track:4iXOdnIBM90SxELqJry6AX",
+        "track_href": "https://api.spotify.com/v1/tracks/4iXOdnIBM90SxELqJry6AX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4iXOdnIBM90SxELqJry6AX",
+        "duration_ms": 218867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3YZenaGVHjx6kXJJTEK9qj",
+    "name": "Starshine",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 107.77,
+    "features": [
+      {
+        "danceability": 0.813,
+        "energy": 0.341,
+        "key": 11,
+        "loudness": -14.411,
+        "mode": 0,
+        "speechiness": 0.0409,
+        "acousticness": 0.0654,
+        "instrumentalness": 0.69,
+        "liveness": 0.0897,
+        "valence": 0.76,
+        "tempo": 107.77,
+        "type": "audio_features",
+        "id": "3YZenaGVHjx6kXJJTEK9qj",
+        "uri": "spotify:track:3YZenaGVHjx6kXJJTEK9qj",
+        "track_href": "https://api.spotify.com/v1/tracks/3YZenaGVHjx6kXJJTEK9qj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3YZenaGVHjx6kXJJTEK9qj",
+        "duration_ms": 213547,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3oFdBAMTChekvADT8IgMNa",
+    "name": "Slow Country",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 143.714,
+    "features": [
+      {
+        "danceability": 0.638,
+        "energy": 0.62,
+        "key": 9,
+        "loudness": -6.681,
+        "mode": 1,
+        "speechiness": 0.0366,
+        "acousticness": 0.191,
+        "instrumentalness": 0.411,
+        "liveness": 0.0945,
+        "valence": 0.353,
+        "tempo": 143.714,
+        "type": "audio_features",
+        "id": "3oFdBAMTChekvADT8IgMNa",
+        "uri": "spotify:track:3oFdBAMTChekvADT8IgMNa",
+        "track_href": "https://api.spotify.com/v1/tracks/3oFdBAMTChekvADT8IgMNa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3oFdBAMTChekvADT8IgMNa",
+        "duration_ms": 217493,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2qToAcex0ruZfbEbAy9OhW",
+    "name": "M1 A1",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 131.227,
+    "features": [
+      {
+        "danceability": 0.607,
+        "energy": 0.877,
+        "key": 7,
+        "loudness": -6.213,
+        "mode": 0,
+        "speechiness": 0.0629,
+        "acousticness": 0.051,
+        "instrumentalness": 0.278,
+        "liveness": 0.346,
+        "valence": 0.228,
+        "tempo": 131.227,
+        "type": "audio_features",
+        "id": "2qToAcex0ruZfbEbAy9OhW",
+        "uri": "spotify:track:2qToAcex0ruZfbEbAy9OhW",
+        "track_href": "https://api.spotify.com/v1/tracks/2qToAcex0ruZfbEbAy9OhW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2qToAcex0ruZfbEbAy9OhW",
+        "duration_ms": 241533,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2acy7zzNEjWMpY6mg91h5N",
+    "name": "Dracula",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 121.607,
+    "features": [
+      {
+        "danceability": 0.764,
+        "energy": 0.5,
+        "key": 9,
+        "loudness": -12.734,
+        "mode": 1,
+        "speechiness": 0.0356,
+        "acousticness": 0.00377,
+        "instrumentalness": 0.832,
+        "liveness": 0.15,
+        "valence": 0.282,
+        "tempo": 121.607,
+        "type": "audio_features",
+        "id": "2acy7zzNEjWMpY6mg91h5N",
+        "uri": "spotify:track:2acy7zzNEjWMpY6mg91h5N",
+        "track_href": "https://api.spotify.com/v1/tracks/2acy7zzNEjWMpY6mg91h5N",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2acy7zzNEjWMpY6mg91h5N",
+        "duration_ms": 281467,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "64ARxf9iGgx2mV7Hunp7b6",
+    "name": "Left Hand Suzuki Method",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 94.495,
+    "features": [
+      {
+        "danceability": 0.719,
+        "energy": 0.916,
+        "key": 1,
+        "loudness": -4.312,
+        "mode": 1,
+        "speechiness": 0.209,
+        "acousticness": 0.321,
+        "instrumentalness": 0.246,
+        "liveness": 0.198,
+        "valence": 0.587,
+        "tempo": 94.495,
+        "type": "audio_features",
+        "id": "64ARxf9iGgx2mV7Hunp7b6",
+        "uri": "spotify:track:64ARxf9iGgx2mV7Hunp7b6",
+        "track_href": "https://api.spotify.com/v1/tracks/64ARxf9iGgx2mV7Hunp7b6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/64ARxf9iGgx2mV7Hunp7b6",
+        "duration_ms": 192507,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4YGOaSgYTpAkXT6NGQWGoN",
+    "name": "Clint Eastwood",
+    "artist": "Gorillaz",
+    "album": "Gorillaz",
+    "bpm": 130.002,
+    "features": [
+      {
+        "danceability": 0.81,
+        "energy": 0.671,
+        "key": 11,
+        "loudness": -4.959,
+        "mode": 1,
+        "speechiness": 0.0503,
+        "acousticness": 0.0058,
+        "instrumentalness": 0.00131,
+        "liveness": 0.0692,
+        "valence": 0.909,
+        "tempo": 130.002,
+        "type": "audio_features",
+        "id": "4YGOaSgYTpAkXT6NGQWGoN",
+        "uri": "spotify:track:4YGOaSgYTpAkXT6NGQWGoN",
+        "track_href": "https://api.spotify.com/v1/tracks/4YGOaSgYTpAkXT6NGQWGoN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4YGOaSgYTpAkXT6NGQWGoN",
+        "duration_ms": 269867,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "id": "2Ma12h5UbOSZ5j7eApuDZO",
+    "name": "Wildblood",
+    "artist": "Caspian",
+    "album": "On Circles",
+    "bpm": 104.264,
+    "features": [
+      {
+        "danceability": 0.347,
+        "energy": 0.737,
+        "key": 6,
+        "loudness": -6.135,
+        "mode": 0,
+        "speechiness": 0.0379,
+        "acousticness": 0.000969,
+        "instrumentalness": 0.767,
+        "liveness": 0.112,
+        "valence": 0.0581,
+        "tempo": 104.264,
+        "type": "audio_features",
+        "id": "2Ma12h5UbOSZ5j7eApuDZO",
+        "uri": "spotify:track:2Ma12h5UbOSZ5j7eApuDZO",
+        "track_href": "https://api.spotify.com/v1/tracks/2Ma12h5UbOSZ5j7eApuDZO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Ma12h5UbOSZ5j7eApuDZO",
+        "duration_ms": 413401,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7zm3jtYSVYtVlJecYLf7gS",
+    "name": "Flowers of Light",
+    "artist": "Caspian",
+    "album": "On Circles",
+    "bpm": 144.012,
+    "features": [
+      {
+        "danceability": 0.472,
+        "energy": 0.947,
+        "key": 11,
+        "loudness": -4.764,
+        "mode": 0,
+        "speechiness": 0.0345,
+        "acousticness": 0.00188,
+        "instrumentalness": 0.908,
+        "liveness": 0.252,
+        "valence": 0.275,
+        "tempo": 144.012,
+        "type": "audio_features",
+        "id": "7zm3jtYSVYtVlJecYLf7gS",
+        "uri": "spotify:track:7zm3jtYSVYtVlJecYLf7gS",
+        "track_href": "https://api.spotify.com/v1/tracks/7zm3jtYSVYtVlJecYLf7gS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7zm3jtYSVYtVlJecYLf7gS",
+        "duration_ms": 301933,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "7xZPglcBiHUEVWUdqPHUTA",
+    "name": "Nostalgist",
+    "artist": "Caspian",
+    "album": "On Circles",
+    "bpm": 120.005,
+    "features": [
+      {
+        "danceability": 0.504,
+        "energy": 0.723,
+        "key": 5,
+        "loudness": -5.633,
+        "mode": 1,
+        "speechiness": 0.0305,
+        "acousticness": 0.0245,
+        "instrumentalness": 0.823,
+        "liveness": 0.424,
+        "valence": 0.126,
+        "tempo": 120.005,
+        "type": "audio_features",
+        "id": "7xZPglcBiHUEVWUdqPHUTA",
+        "uri": "spotify:track:7xZPglcBiHUEVWUdqPHUTA",
+        "track_href": "https://api.spotify.com/v1/tracks/7xZPglcBiHUEVWUdqPHUTA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7xZPglcBiHUEVWUdqPHUTA",
+        "duration_ms": 356337,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "085jDEvdc1UJZwTodBeEtH",
+    "name": "Division Blues",
+    "artist": "Caspian",
+    "album": "On Circles",
+    "bpm": 117.839,
+    "features": [
+      {
+        "danceability": 0.475,
+        "energy": 0.641,
+        "key": 11,
+        "loudness": -6.936,
+        "mode": 1,
+        "speechiness": 0.0332,
+        "acousticness": 0.00807,
+        "instrumentalness": 0.836,
+        "liveness": 0.13,
+        "valence": 0.0737,
+        "tempo": 117.839,
+        "type": "audio_features",
+        "id": "085jDEvdc1UJZwTodBeEtH",
+        "uri": "spotify:track:085jDEvdc1UJZwTodBeEtH",
+        "track_href": "https://api.spotify.com/v1/tracks/085jDEvdc1UJZwTodBeEtH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/085jDEvdc1UJZwTodBeEtH",
+        "duration_ms": 421925,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "2SSNLASWS22gajVPVL2QvY",
+    "name": "Onsra",
+    "artist": "Caspian",
+    "album": "On Circles",
+    "bpm": 119.976,
+    "features": [
+      {
+        "danceability": 0.501,
+        "energy": 0.458,
+        "key": 0,
+        "loudness": -9.258,
+        "mode": 1,
+        "speechiness": 0.0321,
+        "acousticness": 0.518,
+        "instrumentalness": 0.846,
+        "liveness": 0.226,
+        "valence": 0.0391,
+        "tempo": 119.976,
+        "type": "audio_features",
+        "id": "2SSNLASWS22gajVPVL2QvY",
+        "uri": "spotify:track:2SSNLASWS22gajVPVL2QvY",
+        "track_href": "https://api.spotify.com/v1/tracks/2SSNLASWS22gajVPVL2QvY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2SSNLASWS22gajVPVL2QvY",
+        "duration_ms": 286772,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4RxnHUWDTLbxFRJjCrCzuF",
+    "name": "Collapser",
+    "artist": "Caspian",
+    "album": "On Circles",
+    "bpm": 124.909,
+    "features": [
+      {
+        "danceability": 0.47,
+        "energy": 0.948,
+        "key": 0,
+        "loudness": -4.805,
+        "mode": 0,
+        "speechiness": 0.0788,
+        "acousticness": 0.000127,
+        "instrumentalness": 0.751,
+        "liveness": 0.214,
+        "valence": 0.16,
+        "tempo": 124.909,
+        "type": "audio_features",
+        "id": "4RxnHUWDTLbxFRJjCrCzuF",
+        "uri": "spotify:track:4RxnHUWDTLbxFRJjCrCzuF",
+        "track_href": "https://api.spotify.com/v1/tracks/4RxnHUWDTLbxFRJjCrCzuF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4RxnHUWDTLbxFRJjCrCzuF",
+        "duration_ms": 265390,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1da1f9RuqlTD1OS1oiCgu0",
+    "name": "Ishmael",
+    "artist": "Caspian",
+    "album": "On Circles",
+    "bpm": 129.856,
+    "features": [
+      {
+        "danceability": 0.184,
+        "energy": 0.468,
+        "key": 7,
+        "loudness": -6.163,
+        "mode": 1,
+        "speechiness": 0.0342,
+        "acousticness": 0.0118,
+        "instrumentalness": 0.838,
+        "liveness": 0.239,
+        "valence": 0.0511,
+        "tempo": 129.856,
+        "type": "audio_features",
+        "id": "1da1f9RuqlTD1OS1oiCgu0",
+        "uri": "spotify:track:1da1f9RuqlTD1OS1oiCgu0",
+        "track_href": "https://api.spotify.com/v1/tracks/1da1f9RuqlTD1OS1oiCgu0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1da1f9RuqlTD1OS1oiCgu0",
+        "duration_ms": 479483,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "5hlOOpWL0Q8Vy5ufQLJ4Vk",
+    "name": "Circles on Circles",
+    "artist": "Caspian",
+    "album": "On Circles",
+    "bpm": 154.652,
+    "features": [
+      {
+        "danceability": 0.237,
+        "energy": 0.509,
+        "key": 7,
+        "loudness": -7.768,
+        "mode": 1,
+        "speechiness": 0.0277,
+        "acousticness": 0.0737,
+        "instrumentalness": 0.478,
+        "liveness": 0.239,
+        "valence": 0.242,
+        "tempo": 154.652,
+        "type": "audio_features",
+        "id": "5hlOOpWL0Q8Vy5ufQLJ4Vk",
+        "uri": "spotify:track:5hlOOpWL0Q8Vy5ufQLJ4Vk",
+        "track_href": "https://api.spotify.com/v1/tracks/5hlOOpWL0Q8Vy5ufQLJ4Vk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hlOOpWL0Q8Vy5ufQLJ4Vk",
+        "duration_ms": 255893,
+        "time_signature": 5
+      }
+    ]
+  }
+]

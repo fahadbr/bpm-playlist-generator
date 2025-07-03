@@ -1,0 +1,350 @@
+[
+  {
+    "id": "4GJ7tc2tSyiOgWPI2LFJvq",
+    "name": "Cold Cash And Colder Hearts",
+    "artist": "Thrice",
+    "album": "The Artist in the Ambulance - Revisited",
+    "bpm": 94.748,
+    "features": [
+      {
+        "danceability": 0.348,
+        "energy": 0.896,
+        "key": 0,
+        "loudness": -4.527,
+        "mode": 0,
+        "speechiness": 0.0669,
+        "acousticness": 0.00509,
+        "instrumentalness": 8.39e-06,
+        "liveness": 0.359,
+        "valence": 0.131,
+        "tempo": 94.748,
+        "type": "audio_features",
+        "id": "4GJ7tc2tSyiOgWPI2LFJvq",
+        "uri": "spotify:track:4GJ7tc2tSyiOgWPI2LFJvq",
+        "track_href": "https://api.spotify.com/v1/tracks/4GJ7tc2tSyiOgWPI2LFJvq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4GJ7tc2tSyiOgWPI2LFJvq",
+        "duration_ms": 189440,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "6WRGLeRjbURbYiXVfFcNgM",
+    "name": "Under A Killing Moon",
+    "artist": "Thrice",
+    "album": "The Artist in the Ambulance - Revisited",
+    "bpm": 183.724,
+    "features": [
+      {
+        "danceability": 0.32,
+        "energy": 0.988,
+        "key": 10,
+        "loudness": -3.049,
+        "mode": 0,
+        "speechiness": 0.104,
+        "acousticness": 4.98e-05,
+        "instrumentalness": 0.000271,
+        "liveness": 0.118,
+        "valence": 0.18,
+        "tempo": 183.724,
+        "type": "audio_features",
+        "id": "6WRGLeRjbURbYiXVfFcNgM",
+        "uri": "spotify:track:6WRGLeRjbURbYiXVfFcNgM",
+        "track_href": "https://api.spotify.com/v1/tracks/6WRGLeRjbURbYiXVfFcNgM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6WRGLeRjbURbYiXVfFcNgM",
+        "duration_ms": 163093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2xM2rXTDf6TvtZZnFWt66y",
+    "name": "All That's Left",
+    "artist": "Thrice",
+    "album": "The Artist in the Ambulance - Revisited",
+    "bpm": 91.51,
+    "features": [
+      {
+        "danceability": 0.488,
+        "energy": 0.978,
+        "key": 7,
+        "loudness": -3.253,
+        "mode": 0,
+        "speechiness": 0.101,
+        "acousticness": 0.000361,
+        "instrumentalness": 2.38e-05,
+        "liveness": 0.432,
+        "valence": 0.402,
+        "tempo": 91.51,
+        "type": "audio_features",
+        "id": "2xM2rXTDf6TvtZZnFWt66y",
+        "uri": "spotify:track:2xM2rXTDf6TvtZZnFWt66y",
+        "track_href": "https://api.spotify.com/v1/tracks/2xM2rXTDf6TvtZZnFWt66y",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2xM2rXTDf6TvtZZnFWt66y",
+        "duration_ms": 199187,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0JpYd4MaxySP37qdQ8Zoeu",
+    "name": "Silhouette",
+    "artist": "Thrice",
+    "album": "The Artist in the Ambulance - Revisited",
+    "bpm": 134.087,
+    "features": [
+      {
+        "danceability": 0.463,
+        "energy": 0.958,
+        "key": 8,
+        "loudness": -3.958,
+        "mode": 1,
+        "speechiness": 0.114,
+        "acousticness": 0.000316,
+        "instrumentalness": 0,
+        "liveness": 0.297,
+        "valence": 0.373,
+        "tempo": 134.087,
+        "type": "audio_features",
+        "id": "0JpYd4MaxySP37qdQ8Zoeu",
+        "uri": "spotify:track:0JpYd4MaxySP37qdQ8Zoeu",
+        "track_href": "https://api.spotify.com/v1/tracks/0JpYd4MaxySP37qdQ8Zoeu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0JpYd4MaxySP37qdQ8Zoeu",
+        "duration_ms": 196840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1Yek4fd1qCsw3lgU8ZPqvS",
+    "name": "Stare At The Sun",
+    "artist": "Thrice",
+    "album": "The Artist in the Ambulance - Revisited",
+    "bpm": 93.002,
+    "features": [
+      {
+        "danceability": 0.508,
+        "energy": 0.947,
+        "key": 0,
+        "loudness": -4.005,
+        "mode": 0,
+        "speechiness": 0.0607,
+        "acousticness": 0.00205,
+        "instrumentalness": 6.48e-05,
+        "liveness": 0.115,
+        "valence": 0.344,
+        "tempo": 93.002,
+        "type": "audio_features",
+        "id": "1Yek4fd1qCsw3lgU8ZPqvS",
+        "uri": "spotify:track:1Yek4fd1qCsw3lgU8ZPqvS",
+        "track_href": "https://api.spotify.com/v1/tracks/1Yek4fd1qCsw3lgU8ZPqvS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Yek4fd1qCsw3lgU8ZPqvS",
+        "duration_ms": 204573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2MSa9a4xuLMHDxWXmgBK9C",
+    "name": "Paper Tigers",
+    "artist": "Thrice",
+    "album": "The Artist in the Ambulance - Revisited",
+    "bpm": 171.597,
+    "features": [
+      {
+        "danceability": 0.153,
+        "energy": 0.954,
+        "key": 8,
+        "loudness": -4.308,
+        "mode": 1,
+        "speechiness": 0.12,
+        "acousticness": 0.00061,
+        "instrumentalness": 3.14e-05,
+        "liveness": 0.211,
+        "valence": 0.0699,
+        "tempo": 171.597,
+        "type": "audio_features",
+        "id": "2MSa9a4xuLMHDxWXmgBK9C",
+        "uri": "spotify:track:2MSa9a4xuLMHDxWXmgBK9C",
+        "track_href": "https://api.spotify.com/v1/tracks/2MSa9a4xuLMHDxWXmgBK9C",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2MSa9a4xuLMHDxWXmgBK9C",
+        "duration_ms": 258960,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "1P94JlPdPtrPqg15dWIkSa",
+    "name": "Hoods On Peregrine",
+    "artist": "Thrice",
+    "album": "The Artist in the Ambulance - Revisited",
+    "bpm": 99.908,
+    "features": [
+      {
+        "danceability": 0.273,
+        "energy": 0.982,
+        "key": 8,
+        "loudness": -3.332,
+        "mode": 1,
+        "speechiness": 0.0656,
+        "acousticness": 5.43e-05,
+        "instrumentalness": 0.00858,
+        "liveness": 0.096,
+        "valence": 0.256,
+        "tempo": 99.908,
+        "type": "audio_features",
+        "id": "1P94JlPdPtrPqg15dWIkSa",
+        "uri": "spotify:track:1P94JlPdPtrPqg15dWIkSa",
+        "track_href": "https://api.spotify.com/v1/tracks/1P94JlPdPtrPqg15dWIkSa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1P94JlPdPtrPqg15dWIkSa",
+        "duration_ms": 221240,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "6hjGkmI9bpRv8t9n9c0fkO",
+    "name": "The Melting Point Of Wax",
+    "artist": "Thrice",
+    "album": "The Artist in the Ambulance - Revisited",
+    "bpm": 196.924,
+    "features": [
+      {
+        "danceability": 0.259,
+        "energy": 0.932,
+        "key": 4,
+        "loudness": -3.947,
+        "mode": 0,
+        "speechiness": 0.113,
+        "acousticness": 0.000358,
+        "instrumentalness": 0.000102,
+        "liveness": 0.0776,
+        "valence": 0.191,
+        "tempo": 196.924,
+        "type": "audio_features",
+        "id": "6hjGkmI9bpRv8t9n9c0fkO",
+        "uri": "spotify:track:6hjGkmI9bpRv8t9n9c0fkO",
+        "track_href": "https://api.spotify.com/v1/tracks/6hjGkmI9bpRv8t9n9c0fkO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6hjGkmI9bpRv8t9n9c0fkO",
+        "duration_ms": 227973,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "5VFFwCGNczLAZcmeZrvblY",
+    "name": "Blood Clots And Black Holes",
+    "artist": "Thrice",
+    "album": "The Artist in the Ambulance - Revisited",
+    "bpm": 98.04,
+    "features": [
+      {
+        "danceability": 0.505,
+        "energy": 0.98,
+        "key": 8,
+        "loudness": -3.589,
+        "mode": 1,
+        "speechiness": 0.104,
+        "acousticness": 0.00014,
+        "instrumentalness": 0.00414,
+        "liveness": 0.346,
+        "valence": 0.217,
+        "tempo": 98.04,
+        "type": "audio_features",
+        "id": "5VFFwCGNczLAZcmeZrvblY",
+        "uri": "spotify:track:5VFFwCGNczLAZcmeZrvblY",
+        "track_href": "https://api.spotify.com/v1/tracks/5VFFwCGNczLAZcmeZrvblY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5VFFwCGNczLAZcmeZrvblY",
+        "duration_ms": 172093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6dVZ4uXSmqm2Hsw9Yzd2Gm",
+    "name": "The Artist In The Ambulance",
+    "artist": "Thrice",
+    "album": "The Artist in the Ambulance - Revisited",
+    "bpm": 173.031,
+    "features": [
+      {
+        "danceability": 0.412,
+        "energy": 0.946,
+        "key": 8,
+        "loudness": -3.906,
+        "mode": 1,
+        "speechiness": 0.159,
+        "acousticness": 0.00104,
+        "instrumentalness": 1.38e-06,
+        "liveness": 0.275,
+        "valence": 0.333,
+        "tempo": 173.031,
+        "type": "audio_features",
+        "id": "6dVZ4uXSmqm2Hsw9Yzd2Gm",
+        "uri": "spotify:track:6dVZ4uXSmqm2Hsw9Yzd2Gm",
+        "track_href": "https://api.spotify.com/v1/tracks/6dVZ4uXSmqm2Hsw9Yzd2Gm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6dVZ4uXSmqm2Hsw9Yzd2Gm",
+        "duration_ms": 220973,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0eUEPyRTvPuT87HbDA2LhY",
+    "name": "The Abolition Of Man",
+    "artist": "Thrice",
+    "album": "The Artist in the Ambulance - Revisited",
+    "bpm": 95.019,
+    "features": [
+      {
+        "danceability": 0.409,
+        "energy": 0.962,
+        "key": 1,
+        "loudness": -3.19,
+        "mode": 1,
+        "speechiness": 0.0814,
+        "acousticness": 0.00087,
+        "instrumentalness": 0,
+        "liveness": 0.111,
+        "valence": 0.198,
+        "tempo": 95.019,
+        "type": "audio_features",
+        "id": "0eUEPyRTvPuT87HbDA2LhY",
+        "uri": "spotify:track:0eUEPyRTvPuT87HbDA2LhY",
+        "track_href": "https://api.spotify.com/v1/tracks/0eUEPyRTvPuT87HbDA2LhY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0eUEPyRTvPuT87HbDA2LhY",
+        "duration_ms": 173507,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "1gMW58R0Qn9dTqqdgX6wP0",
+    "name": "Don't Tell And We Won't Ask",
+    "artist": "Thrice",
+    "album": "The Artist in the Ambulance - Revisited",
+    "bpm": 145.022,
+    "features": [
+      {
+        "danceability": 0.259,
+        "energy": 0.923,
+        "key": 0,
+        "loudness": -4.307,
+        "mode": 0,
+        "speechiness": 0.0868,
+        "acousticness": 0.00529,
+        "instrumentalness": 0.00559,
+        "liveness": 0.165,
+        "valence": 0.28,
+        "tempo": 145.022,
+        "type": "audio_features",
+        "id": "1gMW58R0Qn9dTqqdgX6wP0",
+        "uri": "spotify:track:1gMW58R0Qn9dTqqdgX6wP0",
+        "track_href": "https://api.spotify.com/v1/tracks/1gMW58R0Qn9dTqqdgX6wP0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1gMW58R0Qn9dTqqdgX6wP0",
+        "duration_ms": 250880,
+        "time_signature": 5
+      }
+    ]
+  }
+]

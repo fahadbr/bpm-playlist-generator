@@ -1,0 +1,205 @@
+[
+  {
+    "id": "7CQ2IUALMZScQUbpdiSxdk",
+    "name": "Sober",
+    "artist": "Childish Gambino",
+    "album": "Kauai",
+    "bpm": 98.095,
+    "features": [
+      {
+        "danceability": 0.707,
+        "energy": 0.563,
+        "key": 0,
+        "loudness": -7.621,
+        "mode": 1,
+        "speechiness": 0.0305,
+        "acousticness": 0.124,
+        "instrumentalness": 1.55e-05,
+        "liveness": 0.561,
+        "valence": 0.416,
+        "tempo": 98.095,
+        "type": "audio_features",
+        "id": "7CQ2IUALMZScQUbpdiSxdk",
+        "uri": "spotify:track:7CQ2IUALMZScQUbpdiSxdk",
+        "track_href": "https://api.spotify.com/v1/tracks/7CQ2IUALMZScQUbpdiSxdk",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7CQ2IUALMZScQUbpdiSxdk",
+        "duration_ms": 252026,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4BaZDllfIcJM62yjQyHcOE",
+    "name": "Pop Thieves (Make It Feel Good)",
+    "artist": "Childish Gambino",
+    "album": "Kauai",
+    "bpm": 104.777,
+    "features": [
+      {
+        "danceability": 0.483,
+        "energy": 0.83,
+        "key": 5,
+        "loudness": -8.546,
+        "mode": 0,
+        "speechiness": 0.0695,
+        "acousticness": 0.0755,
+        "instrumentalness": 1.15e-05,
+        "liveness": 0.105,
+        "valence": 0.0744,
+        "tempo": 104.777,
+        "type": "audio_features",
+        "id": "4BaZDllfIcJM62yjQyHcOE",
+        "uri": "spotify:track:4BaZDllfIcJM62yjQyHcOE",
+        "track_href": "https://api.spotify.com/v1/tracks/4BaZDllfIcJM62yjQyHcOE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4BaZDllfIcJM62yjQyHcOE",
+        "duration_ms": 309480,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "40DNN6CjgNEouHH0RsygcZ",
+    "name": "Retro [ROUGH]",
+    "artist": "Childish Gambino",
+    "album": "Kauai",
+    "bpm": 110.058,
+    "features": [
+      {
+        "danceability": 0.862,
+        "energy": 0.614,
+        "key": 5,
+        "loudness": -5.875,
+        "mode": 0,
+        "speechiness": 0.0393,
+        "acousticness": 0.246,
+        "instrumentalness": 0.00757,
+        "liveness": 0.113,
+        "valence": 0.324,
+        "tempo": 110.058,
+        "type": "audio_features",
+        "id": "40DNN6CjgNEouHH0RsygcZ",
+        "uri": "spotify:track:40DNN6CjgNEouHH0RsygcZ",
+        "track_href": "https://api.spotify.com/v1/tracks/40DNN6CjgNEouHH0RsygcZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/40DNN6CjgNEouHH0RsygcZ",
+        "duration_ms": 202667,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "17LwoPsrxQwzjlk9wiYhYL",
+    "name": "The Palisades",
+    "artist": "Childish Gambino",
+    "album": "Kauai",
+    "bpm": 100.047,
+    "features": [
+      {
+        "danceability": 0.736,
+        "energy": 0.711,
+        "key": 8,
+        "loudness": -6.092,
+        "mode": 1,
+        "speechiness": 0.0611,
+        "acousticness": 0.00927,
+        "instrumentalness": 0,
+        "liveness": 0.128,
+        "valence": 0.514,
+        "tempo": 100.047,
+        "type": "audio_features",
+        "id": "17LwoPsrxQwzjlk9wiYhYL",
+        "uri": "spotify:track:17LwoPsrxQwzjlk9wiYhYL",
+        "track_href": "https://api.spotify.com/v1/tracks/17LwoPsrxQwzjlk9wiYhYL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/17LwoPsrxQwzjlk9wiYhYL",
+        "duration_ms": 190907,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4cdLxUB6dSRNuNulB5qO8S",
+    "name": "Poke",
+    "artist": "Childish Gambino",
+    "album": "Kauai",
+    "bpm": 150.101,
+    "features": [
+      {
+        "danceability": 0.447,
+        "energy": 0.757,
+        "key": 11,
+        "loudness": -6.045,
+        "mode": 0,
+        "speechiness": 0.192,
+        "acousticness": 0.0149,
+        "instrumentalness": 0,
+        "liveness": 0.0666,
+        "valence": 0.567,
+        "tempo": 150.101,
+        "type": "audio_features",
+        "id": "4cdLxUB6dSRNuNulB5qO8S",
+        "uri": "spotify:track:4cdLxUB6dSRNuNulB5qO8S",
+        "track_href": "https://api.spotify.com/v1/tracks/4cdLxUB6dSRNuNulB5qO8S",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4cdLxUB6dSRNuNulB5qO8S",
+        "duration_ms": 216093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7w3aNXae9u0JnpqFXfdm3k",
+    "name": "Late Night In Kauai",
+    "artist": "Childish Gambino",
+    "album": "Kauai",
+    "bpm": 91.868,
+    "features": [
+      {
+        "danceability": 0.785,
+        "energy": 0.407,
+        "key": 7,
+        "loudness": -14.379,
+        "mode": 1,
+        "speechiness": 0.294,
+        "acousticness": 0.757,
+        "instrumentalness": 0.249,
+        "liveness": 0.109,
+        "valence": 0.319,
+        "tempo": 91.868,
+        "type": "audio_features",
+        "id": "7w3aNXae9u0JnpqFXfdm3k",
+        "uri": "spotify:track:7w3aNXae9u0JnpqFXfdm3k",
+        "track_href": "https://api.spotify.com/v1/tracks/7w3aNXae9u0JnpqFXfdm3k",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7w3aNXae9u0JnpqFXfdm3k",
+        "duration_ms": 289987,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6AalgYpkET99cWnGH3ATPq",
+    "name": "V. 3005 - Beach Picnic Version",
+    "artist": "Childish Gambino",
+    "album": "Kauai",
+    "bpm": 165.86,
+    "features": [
+      {
+        "danceability": 0.561,
+        "energy": 0.431,
+        "key": 8,
+        "loudness": -9.53,
+        "mode": 1,
+        "speechiness": 0.0444,
+        "acousticness": 0.0108,
+        "instrumentalness": 0.202,
+        "liveness": 0.117,
+        "valence": 0.132,
+        "tempo": 165.86,
+        "type": "audio_features",
+        "id": "6AalgYpkET99cWnGH3ATPq",
+        "uri": "spotify:track:6AalgYpkET99cWnGH3ATPq",
+        "track_href": "https://api.spotify.com/v1/tracks/6AalgYpkET99cWnGH3ATPq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6AalgYpkET99cWnGH3ATPq",
+        "duration_ms": 225867,
+        "time_signature": 4
+      }
+    ]
+  }
+]

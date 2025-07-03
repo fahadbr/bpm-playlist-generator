@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1FxiTHS50tXOtTO1W9UZrv",
+    "name": "Bust No Moves (feat. Cuz)",
+    "artist": "Run The Jewels",
+    "album": "Bust No Moves (feat. Cuz)",
+    "bpm": 90.88,
+    "features": [
+      {
+        "danceability": 0.649,
+        "energy": 0.567,
+        "key": 11,
+        "loudness": -8.332,
+        "mode": 0,
+        "speechiness": 0.422,
+        "acousticness": 0.505,
+        "instrumentalness": 0,
+        "liveness": 0.153,
+        "valence": 0.458,
+        "tempo": 90.88,
+        "type": "audio_features",
+        "id": "1FxiTHS50tXOtTO1W9UZrv",
+        "uri": "spotify:track:1FxiTHS50tXOtTO1W9UZrv",
+        "track_href": "https://api.spotify.com/v1/tracks/1FxiTHS50tXOtTO1W9UZrv",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1FxiTHS50tXOtTO1W9UZrv",
+        "duration_ms": 193227,
+        "time_signature": 4
+      }
+    ]
+  }
+]

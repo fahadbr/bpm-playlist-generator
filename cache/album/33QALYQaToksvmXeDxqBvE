@@ -1,0 +1,292 @@
+[
+  {
+    "id": "6tIlpznHyaqCPiVfolKxrV",
+    "name": "Only Us",
+    "artist": "Thrice",
+    "album": "Palms",
+    "bpm": 184.011,
+    "features": [
+      {
+        "danceability": 0.421,
+        "energy": 0.913,
+        "key": 2,
+        "loudness": -5.702,
+        "mode": 0,
+        "speechiness": 0.114,
+        "acousticness": 0.00088,
+        "instrumentalness": 0.000108,
+        "liveness": 0.108,
+        "valence": 0.135,
+        "tempo": 184.011,
+        "type": "audio_features",
+        "id": "6tIlpznHyaqCPiVfolKxrV",
+        "uri": "spotify:track:6tIlpznHyaqCPiVfolKxrV",
+        "track_href": "https://api.spotify.com/v1/tracks/6tIlpznHyaqCPiVfolKxrV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6tIlpznHyaqCPiVfolKxrV",
+        "duration_ms": 224280,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "5sKHRsDybtkw6lxufkyk08",
+    "name": "The Grey",
+    "artist": "Thrice",
+    "album": "Palms",
+    "bpm": 76.668,
+    "features": [
+      {
+        "danceability": 0.358,
+        "energy": 0.968,
+        "key": 0,
+        "loudness": -2.438,
+        "mode": 1,
+        "speechiness": 0.105,
+        "acousticness": 2.04e-05,
+        "instrumentalness": 1.19e-06,
+        "liveness": 0.288,
+        "valence": 0.367,
+        "tempo": 76.668,
+        "type": "audio_features",
+        "id": "5sKHRsDybtkw6lxufkyk08",
+        "uri": "spotify:track:5sKHRsDybtkw6lxufkyk08",
+        "track_href": "https://api.spotify.com/v1/tracks/5sKHRsDybtkw6lxufkyk08",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5sKHRsDybtkw6lxufkyk08",
+        "duration_ms": 245880,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0ZWBuv544C0STkXfYb9Sd5",
+    "name": "The Dark",
+    "artist": "Thrice",
+    "album": "Palms",
+    "bpm": 140.137,
+    "features": [
+      {
+        "danceability": 0.518,
+        "energy": 0.713,
+        "key": 10,
+        "loudness": -6.031,
+        "mode": 0,
+        "speechiness": 0.0815,
+        "acousticness": 0.00417,
+        "instrumentalness": 0.00768,
+        "liveness": 0.103,
+        "valence": 0.302,
+        "tempo": 140.137,
+        "type": "audio_features",
+        "id": "0ZWBuv544C0STkXfYb9Sd5",
+        "uri": "spotify:track:0ZWBuv544C0STkXfYb9Sd5",
+        "track_href": "https://api.spotify.com/v1/tracks/0ZWBuv544C0STkXfYb9Sd5",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ZWBuv544C0STkXfYb9Sd5",
+        "duration_ms": 229893,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "51o6rpuSm82oDaP6EJPTw0",
+    "name": "Just Breathe",
+    "artist": "Thrice",
+    "album": "Palms",
+    "bpm": 160.044,
+    "features": [
+      {
+        "danceability": 0.438,
+        "energy": 0.809,
+        "key": 10,
+        "loudness": -6.054,
+        "mode": 1,
+        "speechiness": 0.0631,
+        "acousticness": 8.79e-05,
+        "instrumentalness": 0.0038,
+        "liveness": 0.094,
+        "valence": 0.251,
+        "tempo": 160.044,
+        "type": "audio_features",
+        "id": "51o6rpuSm82oDaP6EJPTw0",
+        "uri": "spotify:track:51o6rpuSm82oDaP6EJPTw0",
+        "track_href": "https://api.spotify.com/v1/tracks/51o6rpuSm82oDaP6EJPTw0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/51o6rpuSm82oDaP6EJPTw0",
+        "duration_ms": 236840,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "7G0kv5TSvjbDPerkMrGFAZ",
+    "name": "Everything Belongs",
+    "artist": "Thrice",
+    "album": "Palms",
+    "bpm": 121.613,
+    "features": [
+      {
+        "danceability": 0.493,
+        "energy": 0.535,
+        "key": 2,
+        "loudness": -9.799,
+        "mode": 1,
+        "speechiness": 0.0484,
+        "acousticness": 0.0292,
+        "instrumentalness": 0.000447,
+        "liveness": 0.104,
+        "valence": 0.0835,
+        "tempo": 121.613,
+        "type": "audio_features",
+        "id": "7G0kv5TSvjbDPerkMrGFAZ",
+        "uri": "spotify:track:7G0kv5TSvjbDPerkMrGFAZ",
+        "track_href": "https://api.spotify.com/v1/tracks/7G0kv5TSvjbDPerkMrGFAZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7G0kv5TSvjbDPerkMrGFAZ",
+        "duration_ms": 233147,
+        "time_signature": 1
+      }
+    ]
+  },
+  {
+    "id": "3ilLbGFYml8Fe5pkRvhcxW",
+    "name": "My Soul",
+    "artist": "Thrice",
+    "album": "Palms",
+    "bpm": 136.122,
+    "features": [
+      {
+        "danceability": 0.539,
+        "energy": 0.566,
+        "key": 7,
+        "loudness": -7.159,
+        "mode": 0,
+        "speechiness": 0.0252,
+        "acousticness": 0.0092,
+        "instrumentalness": 0.0278,
+        "liveness": 0.1,
+        "valence": 0.297,
+        "tempo": 136.122,
+        "type": "audio_features",
+        "id": "3ilLbGFYml8Fe5pkRvhcxW",
+        "uri": "spotify:track:3ilLbGFYml8Fe5pkRvhcxW",
+        "track_href": "https://api.spotify.com/v1/tracks/3ilLbGFYml8Fe5pkRvhcxW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ilLbGFYml8Fe5pkRvhcxW",
+        "duration_ms": 204040,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "21zDedqO5xBOAwpjxSPyi6",
+    "name": "A Branch In The River",
+    "artist": "Thrice",
+    "album": "Palms",
+    "bpm": 140.032,
+    "features": [
+      {
+        "danceability": 0.477,
+        "energy": 0.904,
+        "key": 8,
+        "loudness": -4.948,
+        "mode": 1,
+        "speechiness": 0.0715,
+        "acousticness": 0.000176,
+        "instrumentalness": 0.00373,
+        "liveness": 0.817,
+        "valence": 0.261,
+        "tempo": 140.032,
+        "type": "audio_features",
+        "id": "21zDedqO5xBOAwpjxSPyi6",
+        "uri": "spotify:track:21zDedqO5xBOAwpjxSPyi6",
+        "track_href": "https://api.spotify.com/v1/tracks/21zDedqO5xBOAwpjxSPyi6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/21zDedqO5xBOAwpjxSPyi6",
+        "duration_ms": 228987,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0tYrId0jJ4cuBr6nyK4eOR",
+    "name": "Hold Up A Light",
+    "artist": "Thrice",
+    "album": "Palms",
+    "bpm": 120.712,
+    "features": [
+      {
+        "danceability": 0.462,
+        "energy": 0.932,
+        "key": 10,
+        "loudness": -3.98,
+        "mode": 1,
+        "speechiness": 0.0738,
+        "acousticness": 0.00127,
+        "instrumentalness": 0.00161,
+        "liveness": 0.171,
+        "valence": 0.33,
+        "tempo": 120.712,
+        "type": "audio_features",
+        "id": "0tYrId0jJ4cuBr6nyK4eOR",
+        "uri": "spotify:track:0tYrId0jJ4cuBr6nyK4eOR",
+        "track_href": "https://api.spotify.com/v1/tracks/0tYrId0jJ4cuBr6nyK4eOR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0tYrId0jJ4cuBr6nyK4eOR",
+        "duration_ms": 208947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1kdObeB2NVMZpxRG4u0C5v",
+    "name": "Blood On Blood",
+    "artist": "Thrice",
+    "album": "Palms",
+    "bpm": 147.953,
+    "features": [
+      {
+        "danceability": 0.603,
+        "energy": 0.636,
+        "key": 0,
+        "loudness": -8.668,
+        "mode": 0,
+        "speechiness": 0.0447,
+        "acousticness": 0.105,
+        "instrumentalness": 0.00101,
+        "liveness": 0.0997,
+        "valence": 0.311,
+        "tempo": 147.953,
+        "type": "audio_features",
+        "id": "1kdObeB2NVMZpxRG4u0C5v",
+        "uri": "spotify:track:1kdObeB2NVMZpxRG4u0C5v",
+        "track_href": "https://api.spotify.com/v1/tracks/1kdObeB2NVMZpxRG4u0C5v",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1kdObeB2NVMZpxRG4u0C5v",
+        "duration_ms": 275707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6QbWwa7R89HU9enfSadkw8",
+    "name": "Beyond The Pines",
+    "artist": "Thrice",
+    "album": "Palms",
+    "bpm": 140.039,
+    "features": [
+      {
+        "danceability": 0.345,
+        "energy": 0.295,
+        "key": 11,
+        "loudness": -11.457,
+        "mode": 0,
+        "speechiness": 0.0367,
+        "acousticness": 0.0724,
+        "instrumentalness": 9.54e-06,
+        "liveness": 0.0911,
+        "valence": 0.126,
+        "tempo": 140.039,
+        "type": "audio_features",
+        "id": "6QbWwa7R89HU9enfSadkw8",
+        "uri": "spotify:track:6QbWwa7R89HU9enfSadkw8",
+        "track_href": "https://api.spotify.com/v1/tracks/6QbWwa7R89HU9enfSadkw8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6QbWwa7R89HU9enfSadkw8",
+        "duration_ms": 336427,
+        "time_signature": 5
+      }
+    ]
+  }
+]

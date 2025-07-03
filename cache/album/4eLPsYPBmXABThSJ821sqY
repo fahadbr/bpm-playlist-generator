@@ -1,0 +1,408 @@
+[
+  {
+    "id": "1n4jwRVXdkK2U34nBDUKKT",
+    "name": "BLOOD.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 156.907,
+    "features": [
+      {
+        "danceability": 0.357,
+        "energy": 0.238,
+        "key": 8,
+        "loudness": -16.78,
+        "mode": 0,
+        "speechiness": 0.265,
+        "acousticness": 0.142,
+        "instrumentalness": 0.0859,
+        "liveness": 0.55,
+        "valence": 0.494,
+        "tempo": 156.907,
+        "type": "audio_features",
+        "id": "1n4jwRVXdkK2U34nBDUKKT",
+        "uri": "spotify:track:1n4jwRVXdkK2U34nBDUKKT",
+        "track_href": "https://api.spotify.com/v1/tracks/1n4jwRVXdkK2U34nBDUKKT",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1n4jwRVXdkK2U34nBDUKKT",
+        "duration_ms": 118067,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6HZILIRieu8S0iqY8kIKhj",
+    "name": "DNA.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 139.913,
+    "features": [
+      {
+        "danceability": 0.638,
+        "energy": 0.523,
+        "key": 1,
+        "loudness": -6.664,
+        "mode": 1,
+        "speechiness": 0.357,
+        "acousticness": 0.00454,
+        "instrumentalness": 0,
+        "liveness": 0.0842,
+        "valence": 0.422,
+        "tempo": 139.913,
+        "type": "audio_features",
+        "id": "6HZILIRieu8S0iqY8kIKhj",
+        "uri": "spotify:track:6HZILIRieu8S0iqY8kIKhj",
+        "track_href": "https://api.spotify.com/v1/tracks/6HZILIRieu8S0iqY8kIKhj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6HZILIRieu8S0iqY8kIKhj",
+        "duration_ms": 185947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4BHSjbYylfOH5WAGusDyni",
+    "name": "YAH.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 69.986,
+    "features": [
+      {
+        "danceability": 0.67,
+        "energy": 0.7,
+        "key": 1,
+        "loudness": -7.893,
+        "mode": 1,
+        "speechiness": 0.196,
+        "acousticness": 0.576,
+        "instrumentalness": 5.34e-06,
+        "liveness": 0.226,
+        "valence": 0.648,
+        "tempo": 69.986,
+        "type": "audio_features",
+        "id": "4BHSjbYylfOH5WAGusDyni",
+        "uri": "spotify:track:4BHSjbYylfOH5WAGusDyni",
+        "track_href": "https://api.spotify.com/v1/tracks/4BHSjbYylfOH5WAGusDyni",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4BHSjbYylfOH5WAGusDyni",
+        "duration_ms": 160293,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1EaKU4dMbesXXd3BrLCtYG",
+    "name": "ELEMENT.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 189.891,
+    "features": [
+      {
+        "danceability": 0.748,
+        "energy": 0.705,
+        "key": 4,
+        "loudness": -4.547,
+        "mode": 0,
+        "speechiness": 0.485,
+        "acousticness": 0.204,
+        "instrumentalness": 0,
+        "liveness": 0.246,
+        "valence": 0.483,
+        "tempo": 189.891,
+        "type": "audio_features",
+        "id": "1EaKU4dMbesXXd3BrLCtYG",
+        "uri": "spotify:track:1EaKU4dMbesXXd3BrLCtYG",
+        "track_href": "https://api.spotify.com/v1/tracks/1EaKU4dMbesXXd3BrLCtYG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1EaKU4dMbesXXd3BrLCtYG",
+        "duration_ms": 208733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2LTlO3NuNVN70lp2ZbVswF",
+    "name": "FEEL.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 109.968,
+    "features": [
+      {
+        "danceability": 0.746,
+        "energy": 0.798,
+        "key": 0,
+        "loudness": -8.382,
+        "mode": 1,
+        "speechiness": 0.349,
+        "acousticness": 0.137,
+        "instrumentalness": 0,
+        "liveness": 0.139,
+        "valence": 0.553,
+        "tempo": 109.968,
+        "type": "audio_features",
+        "id": "2LTlO3NuNVN70lp2ZbVswF",
+        "uri": "spotify:track:2LTlO3NuNVN70lp2ZbVswF",
+        "track_href": "https://api.spotify.com/v1/tracks/2LTlO3NuNVN70lp2ZbVswF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2LTlO3NuNVN70lp2ZbVswF",
+        "duration_ms": 214827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6SwRhMLwNqEi6alNPVG00n",
+    "name": "LOYALTY. FEAT. RIHANNA.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 110.684,
+    "features": [
+      {
+        "danceability": 0.658,
+        "energy": 0.535,
+        "key": 9,
+        "loudness": -8.983,
+        "mode": 0,
+        "speechiness": 0.0573,
+        "acousticness": 0.0265,
+        "instrumentalness": 0,
+        "liveness": 0.2,
+        "valence": 0.419,
+        "tempo": 110.684,
+        "type": "audio_features",
+        "id": "6SwRhMLwNqEi6alNPVG00n",
+        "uri": "spotify:track:6SwRhMLwNqEi6alNPVG00n",
+        "track_href": "https://api.spotify.com/v1/tracks/6SwRhMLwNqEi6alNPVG00n",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6SwRhMLwNqEi6alNPVG00n",
+        "duration_ms": 227360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6IZvVAP7VPPnsGX6bvgkqg",
+    "name": "PRIDE.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 138.842,
+    "features": [
+      {
+        "danceability": 0.665,
+        "energy": 0.535,
+        "key": 4,
+        "loudness": -7.056,
+        "mode": 0,
+        "speechiness": 0.0572,
+        "acousticness": 0.0786,
+        "instrumentalness": 1.68e-05,
+        "liveness": 0.154,
+        "valence": 0.37,
+        "tempo": 138.842,
+        "type": "audio_features",
+        "id": "6IZvVAP7VPPnsGX6bvgkqg",
+        "uri": "spotify:track:6IZvVAP7VPPnsGX6bvgkqg",
+        "track_href": "https://api.spotify.com/v1/tracks/6IZvVAP7VPPnsGX6bvgkqg",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6IZvVAP7VPPnsGX6bvgkqg",
+        "duration_ms": 275253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7KXjTSCq5nL1LoYtL7XAwS",
+    "name": "HUMBLE.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 150.011,
+    "features": [
+      {
+        "danceability": 0.908,
+        "energy": 0.621,
+        "key": 1,
+        "loudness": -6.638,
+        "mode": 0,
+        "speechiness": 0.102,
+        "acousticness": 0.000282,
+        "instrumentalness": 5.39e-05,
+        "liveness": 0.0958,
+        "valence": 0.421,
+        "tempo": 150.011,
+        "type": "audio_features",
+        "id": "7KXjTSCq5nL1LoYtL7XAwS",
+        "uri": "spotify:track:7KXjTSCq5nL1LoYtL7XAwS",
+        "track_href": "https://api.spotify.com/v1/tracks/7KXjTSCq5nL1LoYtL7XAwS",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7KXjTSCq5nL1LoYtL7XAwS",
+        "duration_ms": 177000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "06FCvd7rrRcF3DdvWH5Isp",
+    "name": "LUST.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 94.241,
+    "features": [
+      {
+        "danceability": 0.678,
+        "energy": 0.562,
+        "key": 3,
+        "loudness": -9.197,
+        "mode": 0,
+        "speechiness": 0.508,
+        "acousticness": 0.193,
+        "instrumentalness": 0,
+        "liveness": 0.104,
+        "valence": 0.566,
+        "tempo": 94.241,
+        "type": "audio_features",
+        "id": "06FCvd7rrRcF3DdvWH5Isp",
+        "uri": "spotify:track:06FCvd7rrRcF3DdvWH5Isp",
+        "track_href": "https://api.spotify.com/v1/tracks/06FCvd7rrRcF3DdvWH5Isp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/06FCvd7rrRcF3DdvWH5Isp",
+        "duration_ms": 307880,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6PGoSes0D9eUDeeAafB2As",
+    "name": "LOVE. FEAT. ZACARI.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 126.058,
+    "features": [
+      {
+        "danceability": 0.8,
+        "energy": 0.585,
+        "key": 10,
+        "loudness": -7.343,
+        "mode": 1,
+        "speechiness": 0.0924,
+        "acousticness": 0.264,
+        "instrumentalness": 0,
+        "liveness": 0.153,
+        "valence": 0.779,
+        "tempo": 126.058,
+        "type": "audio_features",
+        "id": "6PGoSes0D9eUDeeAafB2As",
+        "uri": "spotify:track:6PGoSes0D9eUDeeAafB2As",
+        "track_href": "https://api.spotify.com/v1/tracks/6PGoSes0D9eUDeeAafB2As",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6PGoSes0D9eUDeeAafB2As",
+        "duration_ms": 213400,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4iYRa2btalAzPZoSYfROqF",
+    "name": "XXX. FEAT. U2.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 170.115,
+    "features": [
+      {
+        "danceability": 0.568,
+        "energy": 0.619,
+        "key": 1,
+        "loudness": -6.899,
+        "mode": 1,
+        "speechiness": 0.414,
+        "acousticness": 0.138,
+        "instrumentalness": 1.67e-06,
+        "liveness": 0.11,
+        "valence": 0.293,
+        "tempo": 170.115,
+        "type": "audio_features",
+        "id": "4iYRa2btalAzPZoSYfROqF",
+        "uri": "spotify:track:4iYRa2btalAzPZoSYfROqF",
+        "track_href": "https://api.spotify.com/v1/tracks/4iYRa2btalAzPZoSYfROqF",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4iYRa2btalAzPZoSYfROqF",
+        "duration_ms": 254200,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "23luOrEVHMfoX0AhfbQuS6",
+    "name": "FEAR.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 150.414,
+    "features": [
+      {
+        "danceability": 0.588,
+        "energy": 0.479,
+        "key": 1,
+        "loudness": -7.039,
+        "mode": 1,
+        "speechiness": 0.281,
+        "acousticness": 0.604,
+        "instrumentalness": 7.2e-06,
+        "liveness": 0.527,
+        "valence": 0.434,
+        "tempo": 150.414,
+        "type": "audio_features",
+        "id": "23luOrEVHMfoX0AhfbQuS6",
+        "uri": "spotify:track:23luOrEVHMfoX0AhfbQuS6",
+        "track_href": "https://api.spotify.com/v1/tracks/23luOrEVHMfoX0AhfbQuS6",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/23luOrEVHMfoX0AhfbQuS6",
+        "duration_ms": 460573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5p3NP9mQblDsVJLdfNZJ3I",
+    "name": "GOD.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 132.98,
+    "features": [
+      {
+        "danceability": 0.706,
+        "energy": 0.557,
+        "key": 0,
+        "loudness": -5.8,
+        "mode": 1,
+        "speechiness": 0.0813,
+        "acousticness": 0.0347,
+        "instrumentalness": 0,
+        "liveness": 0.276,
+        "valence": 0.205,
+        "tempo": 132.98,
+        "type": "audio_features",
+        "id": "5p3NP9mQblDsVJLdfNZJ3I",
+        "uri": "spotify:track:5p3NP9mQblDsVJLdfNZJ3I",
+        "track_href": "https://api.spotify.com/v1/tracks/5p3NP9mQblDsVJLdfNZJ3I",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5p3NP9mQblDsVJLdfNZJ3I",
+        "duration_ms": 248827,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0y9uTzK9cNKSAEHnpeRG8C",
+    "name": "DUCKWORTH.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "bpm": 174.516,
+    "features": [
+      {
+        "danceability": 0.552,
+        "energy": 0.731,
+        "key": 7,
+        "loudness": -6.873,
+        "mode": 1,
+        "speechiness": 0.615,
+        "acousticness": 0.0536,
+        "instrumentalness": 0,
+        "liveness": 0.258,
+        "valence": 0.632,
+        "tempo": 174.516,
+        "type": "audio_features",
+        "id": "0y9uTzK9cNKSAEHnpeRG8C",
+        "uri": "spotify:track:0y9uTzK9cNKSAEHnpeRG8C",
+        "track_href": "https://api.spotify.com/v1/tracks/0y9uTzK9cNKSAEHnpeRG8C",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0y9uTzK9cNKSAEHnpeRG8C",
+        "duration_ms": 248613,
+        "time_signature": 4
+      }
+    ]
+  }
+]

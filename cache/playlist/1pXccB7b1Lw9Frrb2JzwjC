@@ -1,0 +1,299 @@
+[
+  {
+    "id": "2MuMD298IpYqKF367wegUd",
+    "name": "Homicide (feat. Eminem)",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "playlist": "workout 10/12/19",
+    "bpm": 140.055,
+    "features": [
+      {
+        "danceability": 0.694,
+        "energy": 0.759,
+        "key": 10,
+        "loudness": -5.667,
+        "mode": 0,
+        "speechiness": 0.398,
+        "acousticness": 0.137,
+        "instrumentalness": 0,
+        "liveness": 0.167,
+        "valence": 0.77,
+        "tempo": 140.055,
+        "type": "audio_features",
+        "id": "2MuMD298IpYqKF367wegUd",
+        "uri": "spotify:track:2MuMD298IpYqKF367wegUd",
+        "track_href": "https://api.spotify.com/v1/tracks/2MuMD298IpYqKF367wegUd",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2MuMD298IpYqKF367wegUd",
+        "duration_ms": 245387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0ZN72tCEgbwPXEtj6TPMxK",
+    "name": "Still Ballin (feat. Wiz Khalifa)",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "playlist": "workout 10/12/19",
+    "bpm": 160.001,
+    "features": [
+      {
+        "danceability": 0.79,
+        "energy": 0.677,
+        "key": 7,
+        "loudness": -5.27,
+        "mode": 1,
+        "speechiness": 0.104,
+        "acousticness": 0.0151,
+        "instrumentalness": 1.06e-05,
+        "liveness": 0.169,
+        "valence": 0.75,
+        "tempo": 160.001,
+        "type": "audio_features",
+        "id": "0ZN72tCEgbwPXEtj6TPMxK",
+        "uri": "spotify:track:0ZN72tCEgbwPXEtj6TPMxK",
+        "track_href": "https://api.spotify.com/v1/tracks/0ZN72tCEgbwPXEtj6TPMxK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ZN72tCEgbwPXEtj6TPMxK",
+        "duration_ms": 239987,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6R59nB9CEaOqrRVxu7JAoR",
+    "name": "Cocaine",
+    "artist": "Logic",
+    "album": "Confessions of a Dangerous Mind",
+    "playlist": "workout 10/12/19",
+    "bpm": 176.022,
+    "features": [
+      {
+        "danceability": 0.816,
+        "energy": 0.808,
+        "key": 4,
+        "loudness": -4.836,
+        "mode": 0,
+        "speechiness": 0.268,
+        "acousticness": 0.124,
+        "instrumentalness": 0,
+        "liveness": 0.142,
+        "valence": 0.711,
+        "tempo": 176.022,
+        "type": "audio_features",
+        "id": "6R59nB9CEaOqrRVxu7JAoR",
+        "uri": "spotify:track:6R59nB9CEaOqrRVxu7JAoR",
+        "track_href": "https://api.spotify.com/v1/tracks/6R59nB9CEaOqrRVxu7JAoR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6R59nB9CEaOqrRVxu7JAoR",
+        "duration_ms": 174560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "60SdxE8apGAxMiRrpbmLY0",
+    "name": "Lucky You (feat. Joyner Lucas)",
+    "artist": "Eminem",
+    "album": "Kamikaze",
+    "bpm": 153.068,
+    "features": [
+      {
+        "danceability": 0.876,
+        "energy": 0.786,
+        "key": 10,
+        "loudness": -4.884,
+        "mode": 0,
+        "speechiness": 0.306,
+        "acousticness": 0.0627,
+        "instrumentalness": 0,
+        "liveness": 0.127,
+        "valence": 0.575,
+        "tempo": 153.068,
+        "type": "audio_features",
+        "id": "60SdxE8apGAxMiRrpbmLY0",
+        "uri": "spotify:track:60SdxE8apGAxMiRrpbmLY0",
+        "track_href": "https://api.spotify.com/v1/tracks/60SdxE8apGAxMiRrpbmLY0",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/60SdxE8apGAxMiRrpbmLY0",
+        "duration_ms": 244679,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "31qgVdvSqTQ7unwQQngycB",
+    "name": "Can't Hold Us (feat. Ray Dalton)",
+    "artist": "Macklemore & Ryan Lewis",
+    "album": "The Heist (Deluxe Edition)",
+    "playlist": "workout 10/12/19",
+    "bpm": 146.094,
+    "features": [
+      {
+        "danceability": 0.634,
+        "energy": 0.927,
+        "key": 2,
+        "loudness": -4.468,
+        "mode": 1,
+        "speechiness": 0.0838,
+        "acousticness": 0.027,
+        "instrumentalness": 0,
+        "liveness": 0.0986,
+        "valence": 0.88,
+        "tempo": 146.094,
+        "type": "audio_features",
+        "id": "31qgVdvSqTQ7unwQQngycB",
+        "uri": "spotify:track:31qgVdvSqTQ7unwQQngycB",
+        "track_href": "https://api.spotify.com/v1/tracks/31qgVdvSqTQ7unwQQngycB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/31qgVdvSqTQ7unwQQngycB",
+        "duration_ms": 258432,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2gZUPNdnz5Y45eiGxpHGSc",
+    "name": "POWER",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 153.993,
+    "features": [
+      {
+        "danceability": 0.542,
+        "energy": 0.914,
+        "key": 0,
+        "loudness": -4.747,
+        "mode": 0,
+        "speechiness": 0.113,
+        "acousticness": 0.0161,
+        "instrumentalness": 0,
+        "liveness": 0.744,
+        "valence": 0.576,
+        "tempo": 153.993,
+        "type": "audio_features",
+        "id": "2gZUPNdnz5Y45eiGxpHGSc",
+        "uri": "spotify:track:2gZUPNdnz5Y45eiGxpHGSc",
+        "track_href": "https://api.spotify.com/v1/tracks/2gZUPNdnz5Y45eiGxpHGSc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gZUPNdnz5Y45eiGxpHGSc",
+        "duration_ms": 292093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1ZHYJ2Wwgxes4m8Ba88PeK",
+    "name": "Monster",
+    "artist": "Kanye West",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "bpm": 124.887,
+    "features": [
+      {
+        "danceability": 0.628,
+        "energy": 0.692,
+        "key": 2,
+        "loudness": -5.64,
+        "mode": 1,
+        "speechiness": 0.202,
+        "acousticness": 0.00244,
+        "instrumentalness": 0.0129,
+        "liveness": 0.668,
+        "valence": 0.0963,
+        "tempo": 124.887,
+        "type": "audio_features",
+        "id": "1ZHYJ2Wwgxes4m8Ba88PeK",
+        "uri": "spotify:track:1ZHYJ2Wwgxes4m8Ba88PeK",
+        "track_href": "https://api.spotify.com/v1/tracks/1ZHYJ2Wwgxes4m8Ba88PeK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ZHYJ2Wwgxes4m8Ba88PeK",
+        "duration_ms": 378893,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "0XiivUyimrmkUyJkKiILPW",
+    "name": "Under A Killing Moon",
+    "artist": "Thrice",
+    "album": "The Artist In The Ambulance",
+    "playlist": "workout 10/12/19",
+    "bpm": 184.995,
+    "features": [
+      {
+        "danceability": 0.414,
+        "energy": 0.988,
+        "key": 8,
+        "loudness": -3.703,
+        "mode": 1,
+        "speechiness": 0.0786,
+        "acousticness": 7.12e-06,
+        "instrumentalness": 0.44,
+        "liveness": 0.0709,
+        "valence": 0.489,
+        "tempo": 184.995,
+        "type": "audio_features",
+        "id": "0XiivUyimrmkUyJkKiILPW",
+        "uri": "spotify:track:0XiivUyimrmkUyJkKiILPW",
+        "track_href": "https://api.spotify.com/v1/tracks/0XiivUyimrmkUyJkKiILPW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0XiivUyimrmkUyJkKiILPW",
+        "duration_ms": 161733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6VKP3Aru2I3OXMQX2yaMWX",
+    "name": "All That's Left",
+    "artist": "Thrice",
+    "album": "The Artist In The Ambulance",
+    "playlist": "workout 10/12/19",
+    "bpm": 182.941,
+    "features": [
+      {
+        "danceability": 0.48,
+        "energy": 0.985,
+        "key": 7,
+        "loudness": -2.329,
+        "mode": 0,
+        "speechiness": 0.0814,
+        "acousticness": 8.68e-05,
+        "instrumentalness": 0.605,
+        "liveness": 0.328,
+        "valence": 0.544,
+        "tempo": 182.941,
+        "type": "audio_features",
+        "id": "6VKP3Aru2I3OXMQX2yaMWX",
+        "uri": "spotify:track:6VKP3Aru2I3OXMQX2yaMWX",
+        "track_href": "https://api.spotify.com/v1/tracks/6VKP3Aru2I3OXMQX2yaMWX",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6VKP3Aru2I3OXMQX2yaMWX",
+        "duration_ms": 199880,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "29Jd4IOri1huZ2ivDw03xh",
+    "name": "Blood Clots And Black Holes",
+    "artist": "Thrice",
+    "album": "The Artist In The Ambulance",
+    "playlist": "workout 10/12/19",
+    "bpm": 198.464,
+    "features": [
+      {
+        "danceability": 0.388,
+        "energy": 0.99,
+        "key": 0,
+        "loudness": -3.338,
+        "mode": 0,
+        "speechiness": 0.0939,
+        "acousticness": 1.87e-05,
+        "instrumentalness": 0.137,
+        "liveness": 0.0784,
+        "valence": 0.369,
+        "tempo": 198.464,
+        "type": "audio_features",
+        "id": "29Jd4IOri1huZ2ivDw03xh",
+        "uri": "spotify:track:29Jd4IOri1huZ2ivDw03xh",
+        "track_href": "https://api.spotify.com/v1/tracks/29Jd4IOri1huZ2ivDw03xh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/29Jd4IOri1huZ2ivDw03xh",
+        "duration_ms": 170000,
+        "time_signature": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,727 @@
+[
+  {
+    "id": "42Vc45AEr6JK29BbMTcMHh",
+    "name": "Intro",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 159.825,
+    "features": [
+      {
+        "danceability": 0.483,
+        "energy": 0.506,
+        "key": 6,
+        "loudness": -14.899,
+        "mode": 0,
+        "speechiness": 0.36,
+        "acousticness": 0.787,
+        "instrumentalness": 4.54e-05,
+        "liveness": 0.15,
+        "valence": 0.466,
+        "tempo": 159.825,
+        "type": "audio_features",
+        "id": "42Vc45AEr6JK29BbMTcMHh",
+        "uri": "spotify:track:42Vc45AEr6JK29BbMTcMHh",
+        "track_href": "https://api.spotify.com/v1/tracks/42Vc45AEr6JK29BbMTcMHh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/42Vc45AEr6JK29BbMTcMHh",
+        "duration_ms": 132027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "25EtWmcUALs9Gtfiv7Bcab",
+    "name": "Mighty \"O\"",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 83.373,
+    "features": [
+      {
+        "danceability": 0.449,
+        "energy": 0.698,
+        "key": 5,
+        "loudness": -5.733,
+        "mode": 1,
+        "speechiness": 0.276,
+        "acousticness": 0.00615,
+        "instrumentalness": 0,
+        "liveness": 0.325,
+        "valence": 0.516,
+        "tempo": 83.373,
+        "type": "audio_features",
+        "id": "25EtWmcUALs9Gtfiv7Bcab",
+        "uri": "spotify:track:25EtWmcUALs9Gtfiv7Bcab",
+        "track_href": "https://api.spotify.com/v1/tracks/25EtWmcUALs9Gtfiv7Bcab",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/25EtWmcUALs9Gtfiv7Bcab",
+        "duration_ms": 256227,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1h6qG2hBGxL9yUNjeUb4SU",
+    "name": "Peaches (feat. Sleepy Brown & Scar)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 107.033,
+    "features": [
+      {
+        "danceability": 0.853,
+        "energy": 0.71,
+        "key": 1,
+        "loudness": -7.313,
+        "mode": 0,
+        "speechiness": 0.191,
+        "acousticness": 0.319,
+        "instrumentalness": 0,
+        "liveness": 0.064,
+        "valence": 0.583,
+        "tempo": 107.033,
+        "type": "audio_features",
+        "id": "1h6qG2hBGxL9yUNjeUb4SU",
+        "uri": "spotify:track:1h6qG2hBGxL9yUNjeUb4SU",
+        "track_href": "https://api.spotify.com/v1/tracks/1h6qG2hBGxL9yUNjeUb4SU",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1h6qG2hBGxL9yUNjeUb4SU",
+        "duration_ms": 190813,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3tkbjyAmQnGsD52Rn8TCX8",
+    "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 133.918,
+    "features": [
+      {
+        "danceability": 0.772,
+        "energy": 0.861,
+        "key": 7,
+        "loudness": -2.389,
+        "mode": 1,
+        "speechiness": 0.0898,
+        "acousticness": 0.135,
+        "instrumentalness": 0.000742,
+        "liveness": 0.064,
+        "valence": 0.424,
+        "tempo": 133.918,
+        "type": "audio_features",
+        "id": "3tkbjyAmQnGsD52Rn8TCX8",
+        "uri": "spotify:track:3tkbjyAmQnGsD52Rn8TCX8",
+        "track_href": "https://api.spotify.com/v1/tracks/3tkbjyAmQnGsD52Rn8TCX8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3tkbjyAmQnGsD52Rn8TCX8",
+        "duration_ms": 204160,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1dJW3gCxhkrfRwbgqN8c82",
+    "name": "Infatuation (Interlude)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 65.858,
+    "features": [
+      {
+        "danceability": 0.649,
+        "energy": 0.22,
+        "key": 11,
+        "loudness": -20.227,
+        "mode": 0,
+        "speechiness": 0.896,
+        "acousticness": 0.8,
+        "instrumentalness": 0,
+        "liveness": 0.337,
+        "valence": 0.545,
+        "tempo": 65.858,
+        "type": "audio_features",
+        "id": "1dJW3gCxhkrfRwbgqN8c82",
+        "uri": "spotify:track:1dJW3gCxhkrfRwbgqN8c82",
+        "track_href": "https://api.spotify.com/v1/tracks/1dJW3gCxhkrfRwbgqN8c82",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1dJW3gCxhkrfRwbgqN8c82",
+        "duration_ms": 48387,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "2DtlsG1WkjGo4TWd2W2GEu",
+    "name": "N2U (feat. Khujo Goodie)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 178.967,
+    "features": [
+      {
+        "danceability": 0.808,
+        "energy": 0.463,
+        "key": 11,
+        "loudness": -6.26,
+        "mode": 0,
+        "speechiness": 0.373,
+        "acousticness": 0.0863,
+        "instrumentalness": 0,
+        "liveness": 0.408,
+        "valence": 0.486,
+        "tempo": 178.967,
+        "type": "audio_features",
+        "id": "2DtlsG1WkjGo4TWd2W2GEu",
+        "uri": "spotify:track:2DtlsG1WkjGo4TWd2W2GEu",
+        "track_href": "https://api.spotify.com/v1/tracks/2DtlsG1WkjGo4TWd2W2GEu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2DtlsG1WkjGo4TWd2W2GEu",
+        "duration_ms": 220840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "18uAu5gCnoGGNYQu8LeAr1",
+    "name": "Morris Brown (feat. Scar & Sleepy Brown)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 94.216,
+    "features": [
+      {
+        "danceability": 0.723,
+        "energy": 0.784,
+        "key": 6,
+        "loudness": -4.74,
+        "mode": 0,
+        "speechiness": 0.297,
+        "acousticness": 0.172,
+        "instrumentalness": 2.77e-06,
+        "liveness": 0.685,
+        "valence": 0.556,
+        "tempo": 94.216,
+        "type": "audio_features",
+        "id": "18uAu5gCnoGGNYQu8LeAr1",
+        "uri": "spotify:track:18uAu5gCnoGGNYQu8LeAr1",
+        "track_href": "https://api.spotify.com/v1/tracks/18uAu5gCnoGGNYQu8LeAr1",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/18uAu5gCnoGGNYQu8LeAr1",
+        "duration_ms": 264400,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0rZTj6vFpLrQ4z9PKQIqM4",
+    "name": "Chronomentrophobia",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 95.012,
+    "features": [
+      {
+        "danceability": 0.9,
+        "energy": 0.484,
+        "key": 8,
+        "loudness": -9.544,
+        "mode": 1,
+        "speechiness": 0.295,
+        "acousticness": 0.0448,
+        "instrumentalness": 0,
+        "liveness": 0.043,
+        "valence": 0.382,
+        "tempo": 95.012,
+        "type": "audio_features",
+        "id": "0rZTj6vFpLrQ4z9PKQIqM4",
+        "uri": "spotify:track:0rZTj6vFpLrQ4z9PKQIqM4",
+        "track_href": "https://api.spotify.com/v1/tracks/0rZTj6vFpLrQ4z9PKQIqM4",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0rZTj6vFpLrQ4z9PKQIqM4",
+        "duration_ms": 132440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "07pR6i9nh9twbSYzNOftnq",
+    "name": "The Train (feat. Scar & Sleepy Brown)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 104.675,
+    "features": [
+      {
+        "danceability": 0.722,
+        "energy": 0.858,
+        "key": 1,
+        "loudness": -5.195,
+        "mode": 1,
+        "speechiness": 0.236,
+        "acousticness": 0.0656,
+        "instrumentalness": 0,
+        "liveness": 0.302,
+        "valence": 0.777,
+        "tempo": 104.675,
+        "type": "audio_features",
+        "id": "07pR6i9nh9twbSYzNOftnq",
+        "uri": "spotify:track:07pR6i9nh9twbSYzNOftnq",
+        "track_href": "https://api.spotify.com/v1/tracks/07pR6i9nh9twbSYzNOftnq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/07pR6i9nh9twbSYzNOftnq",
+        "duration_ms": 249853,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2R1SRDwGigeyMDxW4ItWNh",
+    "name": "Life Is Like A Musical",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 114.01,
+    "features": [
+      {
+        "danceability": 0.864,
+        "energy": 0.713,
+        "key": 2,
+        "loudness": -6.609,
+        "mode": 0,
+        "speechiness": 0.0372,
+        "acousticness": 0.106,
+        "instrumentalness": 0,
+        "liveness": 0.0211,
+        "valence": 0.788,
+        "tempo": 114.01,
+        "type": "audio_features",
+        "id": "2R1SRDwGigeyMDxW4ItWNh",
+        "uri": "spotify:track:2R1SRDwGigeyMDxW4ItWNh",
+        "track_href": "https://api.spotify.com/v1/tracks/2R1SRDwGigeyMDxW4ItWNh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2R1SRDwGigeyMDxW4ItWNh",
+        "duration_ms": 134307,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6hyCMKk7d2TTUHuDpytD1X",
+    "name": "No Bootleg DVDs (Interlude)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 119.505,
+    "features": [
+      {
+        "danceability": 0.609,
+        "energy": 0.666,
+        "key": 2,
+        "loudness": -14.867,
+        "mode": 1,
+        "speechiness": 0.875,
+        "acousticness": 0.868,
+        "instrumentalness": 0,
+        "liveness": 0.176,
+        "valence": 0.497,
+        "tempo": 119.505,
+        "type": "audio_features",
+        "id": "6hyCMKk7d2TTUHuDpytD1X",
+        "uri": "spotify:track:6hyCMKk7d2TTUHuDpytD1X",
+        "track_href": "https://api.spotify.com/v1/tracks/6hyCMKk7d2TTUHuDpytD1X",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6hyCMKk7d2TTUHuDpytD1X",
+        "duration_ms": 50280,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1gZZyC3EEw8hwqoYRZqypC",
+    "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 88.368,
+    "features": [
+      {
+        "danceability": 0.644,
+        "energy": 0.743,
+        "key": 4,
+        "loudness": -8.921,
+        "mode": 0,
+        "speechiness": 0.281,
+        "acousticness": 0.0172,
+        "instrumentalness": 0,
+        "liveness": 0.0416,
+        "valence": 0.667,
+        "tempo": 88.368,
+        "type": "audio_features",
+        "id": "1gZZyC3EEw8hwqoYRZqypC",
+        "uri": "spotify:track:1gZZyC3EEw8hwqoYRZqypC",
+        "track_href": "https://api.spotify.com/v1/tracks/1gZZyC3EEw8hwqoYRZqypC",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1gZZyC3EEw8hwqoYRZqypC",
+        "duration_ms": 323000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2wrFXWGAn8BIJDH4ScjJj3",
+    "name": "Zora (Interlude)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 40.097,
+    "features": [
+      {
+        "danceability": 0.706,
+        "energy": 0.41,
+        "key": 10,
+        "loudness": -19.02,
+        "mode": 0,
+        "speechiness": 0.874,
+        "acousticness": 0.777,
+        "instrumentalness": 0,
+        "liveness": 0.752,
+        "valence": 0.859,
+        "tempo": 40.097,
+        "type": "audio_features",
+        "id": "2wrFXWGAn8BIJDH4ScjJj3",
+        "uri": "spotify:track:2wrFXWGAn8BIJDH4ScjJj3",
+        "track_href": "https://api.spotify.com/v1/tracks/2wrFXWGAn8BIJDH4ScjJj3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2wrFXWGAn8BIJDH4ScjJj3",
+        "duration_ms": 16587,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0S9xsXyJUk0MlUjWdFyKDm",
+    "name": "Call The Law (feat. Janelle Mon\u00e1e)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 199.985,
+    "features": [
+      {
+        "danceability": 0.684,
+        "energy": 0.701,
+        "key": 1,
+        "loudness": -6.849,
+        "mode": 1,
+        "speechiness": 0.328,
+        "acousticness": 0.044,
+        "instrumentalness": 0.00641,
+        "liveness": 0.0628,
+        "valence": 0.709,
+        "tempo": 199.985,
+        "type": "audio_features",
+        "id": "0S9xsXyJUk0MlUjWdFyKDm",
+        "uri": "spotify:track:0S9xsXyJUk0MlUjWdFyKDm",
+        "track_href": "https://api.spotify.com/v1/tracks/0S9xsXyJUk0MlUjWdFyKDm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0S9xsXyJUk0MlUjWdFyKDm",
+        "duration_ms": 291573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Px0GJDOAAmeFl2xMxoRlE",
+    "name": "Bamboo & Cross (Interlude)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 67.436,
+    "features": [
+      {
+        "danceability": 0.667,
+        "energy": 0.21,
+        "key": 0,
+        "loudness": -13.645,
+        "mode": 1,
+        "speechiness": 0.378,
+        "acousticness": 0.436,
+        "instrumentalness": 0,
+        "liveness": 0.228,
+        "valence": 0.648,
+        "tempo": 67.436,
+        "type": "audio_features",
+        "id": "0Px0GJDOAAmeFl2xMxoRlE",
+        "uri": "spotify:track:0Px0GJDOAAmeFl2xMxoRlE",
+        "track_href": "https://api.spotify.com/v1/tracks/0Px0GJDOAAmeFl2xMxoRlE",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Px0GJDOAAmeFl2xMxoRlE",
+        "duration_ms": 54627,
+        "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "0QeiAR5awSroueLZrcWTaO",
+    "name": "BuggFace",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 104.793,
+    "features": [
+      {
+        "danceability": 0.791,
+        "energy": 0.765,
+        "key": 7,
+        "loudness": -7.956,
+        "mode": 1,
+        "speechiness": 0.248,
+        "acousticness": 0.23,
+        "instrumentalness": 0,
+        "liveness": 0.346,
+        "valence": 0.609,
+        "tempo": 104.793,
+        "type": "audio_features",
+        "id": "0QeiAR5awSroueLZrcWTaO",
+        "uri": "spotify:track:0QeiAR5awSroueLZrcWTaO",
+        "track_href": "https://api.spotify.com/v1/tracks/0QeiAR5awSroueLZrcWTaO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0QeiAR5awSroueLZrcWTaO",
+        "duration_ms": 165707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3Sk9NCDuE1FSE9xvdE7kcB",
+    "name": "Makes No Sense At All",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 139.784,
+    "features": [
+      {
+        "danceability": 0.853,
+        "energy": 0.581,
+        "key": 2,
+        "loudness": -8.602,
+        "mode": 1,
+        "speechiness": 0.296,
+        "acousticness": 0.055,
+        "instrumentalness": 4.36e-05,
+        "liveness": 0.0941,
+        "valence": 0.879,
+        "tempo": 139.784,
+        "type": "audio_features",
+        "id": "3Sk9NCDuE1FSE9xvdE7kcB",
+        "uri": "spotify:track:3Sk9NCDuE1FSE9xvdE7kcB",
+        "track_href": "https://api.spotify.com/v1/tracks/3Sk9NCDuE1FSE9xvdE7kcB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Sk9NCDuE1FSE9xvdE7kcB",
+        "duration_ms": 173560,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1f8qvpRcmCIDavCcgi2wFI",
+    "name": "In Your Dreams (feat. Killer Mike & Janelle Mon\u00e1e)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 103.07,
+    "features": [
+      {
+        "danceability": 0.818,
+        "energy": 0.799,
+        "key": 6,
+        "loudness": -6.19,
+        "mode": 1,
+        "speechiness": 0.224,
+        "acousticness": 0.016,
+        "instrumentalness": 2.5e-06,
+        "liveness": 0.105,
+        "valence": 0.325,
+        "tempo": 103.07,
+        "type": "audio_features",
+        "id": "1f8qvpRcmCIDavCcgi2wFI",
+        "uri": "spotify:track:1f8qvpRcmCIDavCcgi2wFI",
+        "track_href": "https://api.spotify.com/v1/tracks/1f8qvpRcmCIDavCcgi2wFI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1f8qvpRcmCIDavCcgi2wFI",
+        "duration_ms": 214600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0lzddKNsDl95mALLIlwoqO",
+    "name": "PJ & Rooster",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 186.374,
+    "features": [
+      {
+        "danceability": 0.812,
+        "energy": 0.785,
+        "key": 4,
+        "loudness": -5.658,
+        "mode": 1,
+        "speechiness": 0.299,
+        "acousticness": 0.252,
+        "instrumentalness": 0.00633,
+        "liveness": 0.167,
+        "valence": 0.802,
+        "tempo": 186.374,
+        "type": "audio_features",
+        "id": "0lzddKNsDl95mALLIlwoqO",
+        "uri": "spotify:track:0lzddKNsDl95mALLIlwoqO",
+        "track_href": "https://api.spotify.com/v1/tracks/0lzddKNsDl95mALLIlwoqO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0lzddKNsDl95mALLIlwoqO",
+        "duration_ms": 267800,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3kygxxgYUR3GwLoW8CUJaY",
+    "name": "Mutron Angel (feat. Whild Peach)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 72.964,
+    "features": [
+      {
+        "danceability": 0.521,
+        "energy": 0.456,
+        "key": 1,
+        "loudness": -9.174,
+        "mode": 1,
+        "speechiness": 0.0539,
+        "acousticness": 0.455,
+        "instrumentalness": 4.93e-05,
+        "liveness": 0.172,
+        "valence": 0.0739,
+        "tempo": 72.964,
+        "type": "audio_features",
+        "id": "3kygxxgYUR3GwLoW8CUJaY",
+        "uri": "spotify:track:3kygxxgYUR3GwLoW8CUJaY",
+        "track_href": "https://api.spotify.com/v1/tracks/3kygxxgYUR3GwLoW8CUJaY",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3kygxxgYUR3GwLoW8CUJaY",
+        "duration_ms": 258213,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2zb4qBdkvCBDGGwFrHOz47",
+    "name": "Greatest Show On Earth (feat. Macy Gray)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 115.955,
+    "features": [
+      {
+        "danceability": 0.759,
+        "energy": 0.874,
+        "key": 0,
+        "loudness": -4.886,
+        "mode": 1,
+        "speechiness": 0.182,
+        "acousticness": 0.105,
+        "instrumentalness": 6.5e-05,
+        "liveness": 0.472,
+        "valence": 0.468,
+        "tempo": 115.955,
+        "type": "audio_features",
+        "id": "2zb4qBdkvCBDGGwFrHOz47",
+        "uri": "spotify:track:2zb4qBdkvCBDGGwFrHOz47",
+        "track_href": "https://api.spotify.com/v1/tracks/2zb4qBdkvCBDGGwFrHOz47",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2zb4qBdkvCBDGGwFrHOz47",
+        "duration_ms": 186827,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "0V7gBWE1PzUKHfndqEx8yo",
+    "name": "You're Beautiful (Interlude)",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 75.649,
+    "features": [
+      {
+        "danceability": 0.496,
+        "energy": 0.434,
+        "key": 8,
+        "loudness": -15.924,
+        "mode": 1,
+        "speechiness": 0.386,
+        "acousticness": 0.661,
+        "instrumentalness": 0,
+        "liveness": 0.341,
+        "valence": 0.477,
+        "tempo": 75.649,
+        "type": "audio_features",
+        "id": "0V7gBWE1PzUKHfndqEx8yo",
+        "uri": "spotify:track:0V7gBWE1PzUKHfndqEx8yo",
+        "track_href": "https://api.spotify.com/v1/tracks/0V7gBWE1PzUKHfndqEx8yo",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0V7gBWE1PzUKHfndqEx8yo",
+        "duration_ms": 29773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3mriMBfcWiaEOcEq3nczBP",
+    "name": "When I Look In Your Eyes",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 89.733,
+    "features": [
+      {
+        "danceability": 0.695,
+        "energy": 0.528,
+        "key": 5,
+        "loudness": -6.812,
+        "mode": 0,
+        "speechiness": 0.0311,
+        "acousticness": 0.366,
+        "instrumentalness": 0.000121,
+        "liveness": 0.0967,
+        "valence": 0.778,
+        "tempo": 89.733,
+        "type": "audio_features",
+        "id": "3mriMBfcWiaEOcEq3nczBP",
+        "uri": "spotify:track:3mriMBfcWiaEOcEq3nczBP",
+        "track_href": "https://api.spotify.com/v1/tracks/3mriMBfcWiaEOcEq3nczBP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3mriMBfcWiaEOcEq3nczBP",
+        "duration_ms": 163413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "325JG1noGUYwgXocoVSBZW",
+    "name": "Dyin' To Live",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 100.233,
+    "features": [
+      {
+        "danceability": 0.389,
+        "energy": 0.369,
+        "key": 1,
+        "loudness": -10.049,
+        "mode": 1,
+        "speechiness": 0.0341,
+        "acousticness": 0.934,
+        "instrumentalness": 0.00068,
+        "liveness": 0.123,
+        "valence": 0.16,
+        "tempo": 100.233,
+        "type": "audio_features",
+        "id": "325JG1noGUYwgXocoVSBZW",
+        "uri": "spotify:track:325JG1noGUYwgXocoVSBZW",
+        "track_href": "https://api.spotify.com/v1/tracks/325JG1noGUYwgXocoVSBZW",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/325JG1noGUYwgXocoVSBZW",
+        "duration_ms": 127600,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "33mPnYecWQpmUkuo35mcmt",
+    "name": "A Bad Note",
+    "artist": "Outkast",
+    "album": "Idlewild",
+    "bpm": 103.93,
+    "features": [
+      {
+        "danceability": 0.292,
+        "energy": 0.453,
+        "key": 1,
+        "loudness": -11.05,
+        "mode": 1,
+        "speechiness": 0.0324,
+        "acousticness": 0.00174,
+        "instrumentalness": 0.0527,
+        "liveness": 0.496,
+        "valence": 0.131,
+        "tempo": 103.93,
+        "type": "audio_features",
+        "id": "33mPnYecWQpmUkuo35mcmt",
+        "uri": "spotify:track:33mPnYecWQpmUkuo35mcmt",
+        "track_href": "https://api.spotify.com/v1/tracks/33mPnYecWQpmUkuo35mcmt",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/33mPnYecWQpmUkuo35mcmt",
+        "duration_ms": 527200,
+        "time_signature": 4
+      }
+    ]
+  }
+]

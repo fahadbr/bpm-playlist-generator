@@ -1,0 +1,321 @@
+[
+  {
+    "id": "3znPiywA0q1VK2jgAZFDoI",
+    "name": "Irresistible",
+    "artist": "Fall Out Boy",
+    "album": "American Beauty/American Psycho",
+    "bpm": 165.049,
+    "features": [
+      {
+        "danceability": 0.485,
+        "energy": 0.938,
+        "key": 2,
+        "loudness": -3.123,
+        "mode": 1,
+        "speechiness": 0.112,
+        "acousticness": 0.0706,
+        "instrumentalness": 0,
+        "liveness": 0.236,
+        "valence": 0.444,
+        "tempo": 165.049,
+        "type": "audio_features",
+        "id": "3znPiywA0q1VK2jgAZFDoI",
+        "uri": "spotify:track:3znPiywA0q1VK2jgAZFDoI",
+        "track_href": "https://api.spotify.com/v1/tracks/3znPiywA0q1VK2jgAZFDoI",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3znPiywA0q1VK2jgAZFDoI",
+        "duration_ms": 206507,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3D4Xkcir5YEhk8Xidkd1dL",
+    "name": "American Beauty/American Psycho",
+    "artist": "Fall Out Boy",
+    "album": "American Beauty/American Psycho",
+    "bpm": 151.166,
+    "features": [
+      {
+        "danceability": 0.492,
+        "energy": 0.932,
+        "key": 2,
+        "loudness": -2.401,
+        "mode": 1,
+        "speechiness": 0.203,
+        "acousticness": 0.00711,
+        "instrumentalness": 0,
+        "liveness": 0.177,
+        "valence": 0.635,
+        "tempo": 151.166,
+        "type": "audio_features",
+        "id": "3D4Xkcir5YEhk8Xidkd1dL",
+        "uri": "spotify:track:3D4Xkcir5YEhk8Xidkd1dL",
+        "track_href": "https://api.spotify.com/v1/tracks/3D4Xkcir5YEhk8Xidkd1dL",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3D4Xkcir5YEhk8Xidkd1dL",
+        "duration_ms": 195947,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "04aAxqtGp5pv12UXAg4pkq",
+    "name": "Centuries",
+    "artist": "Fall Out Boy",
+    "album": "American Beauty/American Psycho",
+    "bpm": 176.042,
+    "features": [
+      {
+        "danceability": 0.393,
+        "energy": 0.858,
+        "key": 4,
+        "loudness": -2.868,
+        "mode": 0,
+        "speechiness": 0.0729,
+        "acousticness": 0.00359,
+        "instrumentalness": 0,
+        "liveness": 0.102,
+        "valence": 0.56,
+        "tempo": 176.042,
+        "type": "audio_features",
+        "id": "04aAxqtGp5pv12UXAg4pkq",
+        "uri": "spotify:track:04aAxqtGp5pv12UXAg4pkq",
+        "track_href": "https://api.spotify.com/v1/tracks/04aAxqtGp5pv12UXAg4pkq",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/04aAxqtGp5pv12UXAg4pkq",
+        "duration_ms": 228360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3x7NGlfDKQYN2wnwEnL7r9",
+    "name": "The Kids Aren't Alright",
+    "artist": "Fall Out Boy",
+    "album": "American Beauty/American Psycho",
+    "bpm": 115.991,
+    "features": [
+      {
+        "danceability": 0.615,
+        "energy": 0.763,
+        "key": 6,
+        "loudness": -4.189,
+        "mode": 1,
+        "speechiness": 0.0322,
+        "acousticness": 0.000246,
+        "instrumentalness": 0.141,
+        "liveness": 0.298,
+        "valence": 0.333,
+        "tempo": 115.991,
+        "type": "audio_features",
+        "id": "3x7NGlfDKQYN2wnwEnL7r9",
+        "uri": "spotify:track:3x7NGlfDKQYN2wnwEnL7r9",
+        "track_href": "https://api.spotify.com/v1/tracks/3x7NGlfDKQYN2wnwEnL7r9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3x7NGlfDKQYN2wnwEnL7r9",
+        "duration_ms": 260920,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5PUawWFG1oIS2NwEcyHaCr",
+    "name": "Uma Thurman",
+    "artist": "Fall Out Boy",
+    "album": "American Beauty/American Psycho",
+    "bpm": 149.963,
+    "features": [
+      {
+        "danceability": 0.623,
+        "energy": 0.961,
+        "key": 4,
+        "loudness": -2.616,
+        "mode": 0,
+        "speechiness": 0.0869,
+        "acousticness": 0.102,
+        "instrumentalness": 0.000171,
+        "liveness": 0.264,
+        "valence": 0.668,
+        "tempo": 149.963,
+        "type": "audio_features",
+        "id": "5PUawWFG1oIS2NwEcyHaCr",
+        "uri": "spotify:track:5PUawWFG1oIS2NwEcyHaCr",
+        "track_href": "https://api.spotify.com/v1/tracks/5PUawWFG1oIS2NwEcyHaCr",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5PUawWFG1oIS2NwEcyHaCr",
+        "duration_ms": 211573,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7d0R90VzB45UWf3Aey0X22",
+    "name": "Jet Pack Blues",
+    "artist": "Fall Out Boy",
+    "album": "American Beauty/American Psycho",
+    "bpm": 156.041,
+    "features": [
+      {
+        "danceability": 0.548,
+        "energy": 0.889,
+        "key": 4,
+        "loudness": -4.52,
+        "mode": 0,
+        "speechiness": 0.128,
+        "acousticness": 0.00784,
+        "instrumentalness": 0.00866,
+        "liveness": 0.341,
+        "valence": 0.365,
+        "tempo": 156.041,
+        "type": "audio_features",
+        "id": "7d0R90VzB45UWf3Aey0X22",
+        "uri": "spotify:track:7d0R90VzB45UWf3Aey0X22",
+        "track_href": "https://api.spotify.com/v1/tracks/7d0R90VzB45UWf3Aey0X22",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7d0R90VzB45UWf3Aey0X22",
+        "duration_ms": 179267,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5F0bmCjKUufNz1bHXfgRwe",
+    "name": "Novocaine",
+    "artist": "Fall Out Boy",
+    "album": "American Beauty/American Psycho",
+    "bpm": 135.997,
+    "features": [
+      {
+        "danceability": 0.536,
+        "energy": 0.974,
+        "key": 2,
+        "loudness": -2.833,
+        "mode": 1,
+        "speechiness": 0.0969,
+        "acousticness": 0.0065,
+        "instrumentalness": 0.00102,
+        "liveness": 0.357,
+        "valence": 0.481,
+        "tempo": 135.997,
+        "type": "audio_features",
+        "id": "5F0bmCjKUufNz1bHXfgRwe",
+        "uri": "spotify:track:5F0bmCjKUufNz1bHXfgRwe",
+        "track_href": "https://api.spotify.com/v1/tracks/5F0bmCjKUufNz1bHXfgRwe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5F0bmCjKUufNz1bHXfgRwe",
+        "duration_ms": 226867,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1vrjcPplEuenckUzGGp2UR",
+    "name": "Fourth Of July",
+    "artist": "Fall Out Boy",
+    "album": "American Beauty/American Psycho",
+    "bpm": 79.964,
+    "features": [
+      {
+        "danceability": 0.481,
+        "energy": 0.974,
+        "key": 4,
+        "loudness": -3.388,
+        "mode": 0,
+        "speechiness": 0.136,
+        "acousticness": 0.139,
+        "instrumentalness": 0.00998,
+        "liveness": 0.406,
+        "valence": 0.516,
+        "tempo": 79.964,
+        "type": "audio_features",
+        "id": "1vrjcPplEuenckUzGGp2UR",
+        "uri": "spotify:track:1vrjcPplEuenckUzGGp2UR",
+        "track_href": "https://api.spotify.com/v1/tracks/1vrjcPplEuenckUzGGp2UR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1vrjcPplEuenckUzGGp2UR",
+        "duration_ms": 224360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4vC4nKK6bk9pYEVOU4EIbA",
+    "name": "Favorite Record",
+    "artist": "Fall Out Boy",
+    "album": "American Beauty/American Psycho",
+    "bpm": 127.02,
+    "features": [
+      {
+        "danceability": 0.66,
+        "energy": 0.944,
+        "key": 2,
+        "loudness": -3.692,
+        "mode": 1,
+        "speechiness": 0.0538,
+        "acousticness": 0.00607,
+        "instrumentalness": 0.27,
+        "liveness": 0.823,
+        "valence": 0.682,
+        "tempo": 127.02,
+        "type": "audio_features",
+        "id": "4vC4nKK6bk9pYEVOU4EIbA",
+        "uri": "spotify:track:4vC4nKK6bk9pYEVOU4EIbA",
+        "track_href": "https://api.spotify.com/v1/tracks/4vC4nKK6bk9pYEVOU4EIbA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4vC4nKK6bk9pYEVOU4EIbA",
+        "duration_ms": 203413,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3Te8uLyit6X3ncNW8Fp3K2",
+    "name": "Immortals",
+    "artist": "Fall Out Boy",
+    "album": "American Beauty/American Psycho",
+    "bpm": 108.016,
+    "features": [
+      {
+        "danceability": 0.616,
+        "energy": 0.868,
+        "key": 2,
+        "loudness": -3.606,
+        "mode": 1,
+        "speechiness": 0.0699,
+        "acousticness": 0.00131,
+        "instrumentalness": 1.54e-06,
+        "liveness": 0.671,
+        "valence": 0.475,
+        "tempo": 108.016,
+        "type": "audio_features",
+        "id": "3Te8uLyit6X3ncNW8Fp3K2",
+        "uri": "spotify:track:3Te8uLyit6X3ncNW8Fp3K2",
+        "track_href": "https://api.spotify.com/v1/tracks/3Te8uLyit6X3ncNW8Fp3K2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Te8uLyit6X3ncNW8Fp3K2",
+        "duration_ms": 189387,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2WWP0IPX9xFjAMraNHX390",
+    "name": "Twin Skeleton's (Hotel In NYC)",
+    "artist": "Fall Out Boy",
+    "album": "American Beauty/American Psycho",
+    "bpm": 80.098,
+    "features": [
+      {
+        "danceability": 0.451,
+        "energy": 0.939,
+        "key": 2,
+        "loudness": -2.546,
+        "mode": 0,
+        "speechiness": 0.116,
+        "acousticness": 0.00219,
+        "instrumentalness": 0.00223,
+        "liveness": 0.366,
+        "valence": 0.192,
+        "tempo": 80.098,
+        "type": "audio_features",
+        "id": "2WWP0IPX9xFjAMraNHX390",
+        "uri": "spotify:track:2WWP0IPX9xFjAMraNHX390",
+        "track_href": "https://api.spotify.com/v1/tracks/2WWP0IPX9xFjAMraNHX390",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2WWP0IPX9xFjAMraNHX390",
+        "duration_ms": 220413,
+        "time_signature": 4
+      }
+    ]
+  }
+]

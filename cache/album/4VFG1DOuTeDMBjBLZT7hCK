@@ -1,0 +1,466 @@
+[
+  {
+    "id": "7pamxApUs3CE8t7tKmUJ6Z",
+    "name": "The Bird",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 148.733,
+    "features": [
+      {
+        "danceability": 0.488,
+        "energy": 0.645,
+        "key": 11,
+        "loudness": -7.226,
+        "mode": 1,
+        "speechiness": 0.421,
+        "acousticness": 0.0838,
+        "instrumentalness": 0.000355,
+        "liveness": 0.154,
+        "valence": 0.595,
+        "tempo": 148.733,
+        "type": "audio_features",
+        "id": "7pamxApUs3CE8t7tKmUJ6Z",
+        "uri": "spotify:track:7pamxApUs3CE8t7tKmUJ6Z",
+        "track_href": "https://api.spotify.com/v1/tracks/7pamxApUs3CE8t7tKmUJ6Z",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7pamxApUs3CE8t7tKmUJ6Z",
+        "duration_ms": 217773,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "25GlFJq5QNAXyVgJvCZ4Mf",
+    "name": "Heart Don't Stand a Chance",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 94.061,
+    "features": [
+      {
+        "danceability": 0.685,
+        "energy": 0.545,
+        "key": 7,
+        "loudness": -6.189,
+        "mode": 1,
+        "speechiness": 0.061,
+        "acousticness": 0.173,
+        "instrumentalness": 1.44e-05,
+        "liveness": 0.237,
+        "valence": 0.506,
+        "tempo": 94.061,
+        "type": "audio_features",
+        "id": "25GlFJq5QNAXyVgJvCZ4Mf",
+        "uri": "spotify:track:25GlFJq5QNAXyVgJvCZ4Mf",
+        "track_href": "https://api.spotify.com/v1/tracks/25GlFJq5QNAXyVgJvCZ4Mf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/25GlFJq5QNAXyVgJvCZ4Mf",
+        "duration_ms": 312360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "23T4gelZgImtFxbHjXnYbm",
+    "name": "The Waters (feat. BJ the Chicago Kid)",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 91.456,
+    "features": [
+      {
+        "danceability": 0.671,
+        "energy": 0.678,
+        "key": 10,
+        "loudness": -6.171,
+        "mode": 0,
+        "speechiness": 0.362,
+        "acousticness": 0.128,
+        "instrumentalness": 0,
+        "liveness": 0.298,
+        "valence": 0.718,
+        "tempo": 91.456,
+        "type": "audio_features",
+        "id": "23T4gelZgImtFxbHjXnYbm",
+        "uri": "spotify:track:23T4gelZgImtFxbHjXnYbm",
+        "track_href": "https://api.spotify.com/v1/tracks/23T4gelZgImtFxbHjXnYbm",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/23T4gelZgImtFxbHjXnYbm",
+        "duration_ms": 174253,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5G0nSEIT0fGUZY0caM9AnH",
+    "name": "The Season | Carry Me",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 78.846,
+    "features": [
+      {
+        "danceability": 0.387,
+        "energy": 0.726,
+        "key": 1,
+        "loudness": -7.681,
+        "mode": 1,
+        "speechiness": 0.412,
+        "acousticness": 0.0998,
+        "instrumentalness": 0,
+        "liveness": 0.653,
+        "valence": 0.632,
+        "tempo": 78.846,
+        "type": "audio_features",
+        "id": "5G0nSEIT0fGUZY0caM9AnH",
+        "uri": "spotify:track:5G0nSEIT0fGUZY0caM9AnH",
+        "track_href": "https://api.spotify.com/v1/tracks/5G0nSEIT0fGUZY0caM9AnH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5G0nSEIT0fGUZY0caM9AnH",
+        "duration_ms": 328813,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "70SjyVMzhmMeJQD8hOmIBp",
+    "name": "Put Me Thru",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 107.978,
+    "features": [
+      {
+        "danceability": 0.732,
+        "energy": 0.789,
+        "key": 5,
+        "loudness": -3.717,
+        "mode": 0,
+        "speechiness": 0.0476,
+        "acousticness": 0.0459,
+        "instrumentalness": 3.11e-05,
+        "liveness": 0.123,
+        "valence": 0.607,
+        "tempo": 107.978,
+        "type": "audio_features",
+        "id": "70SjyVMzhmMeJQD8hOmIBp",
+        "uri": "spotify:track:70SjyVMzhmMeJQD8hOmIBp",
+        "track_href": "https://api.spotify.com/v1/tracks/70SjyVMzhmMeJQD8hOmIBp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/70SjyVMzhmMeJQD8hOmIBp",
+        "duration_ms": 160760,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1UjyF6okUHhnVxaLV8ojsA",
+    "name": "Am I Wrong (feat. ScHoolboy Q)",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 115.04,
+    "features": [
+      {
+        "danceability": 0.729,
+        "energy": 0.799,
+        "key": 11,
+        "loudness": -7.378,
+        "mode": 0,
+        "speechiness": 0.0779,
+        "acousticness": 0.0588,
+        "instrumentalness": 0.00218,
+        "liveness": 0.0948,
+        "valence": 0.532,
+        "tempo": 115.04,
+        "type": "audio_features",
+        "id": "1UjyF6okUHhnVxaLV8ojsA",
+        "uri": "spotify:track:1UjyF6okUHhnVxaLV8ojsA",
+        "track_href": "https://api.spotify.com/v1/tracks/1UjyF6okUHhnVxaLV8ojsA",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1UjyF6okUHhnVxaLV8ojsA",
+        "duration_ms": 253520,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2UYPFtrIIaIQdxLCaFwjFu",
+    "name": "Without You (feat. Rapsody)",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 83.322,
+    "features": [
+      {
+        "danceability": 0.626,
+        "energy": 0.916,
+        "key": 7,
+        "loudness": -8.39,
+        "mode": 0,
+        "speechiness": 0.44,
+        "acousticness": 0.019,
+        "instrumentalness": 0,
+        "liveness": 0.386,
+        "valence": 0.804,
+        "tempo": 83.322,
+        "type": "audio_features",
+        "id": "2UYPFtrIIaIQdxLCaFwjFu",
+        "uri": "spotify:track:2UYPFtrIIaIQdxLCaFwjFu",
+        "track_href": "https://api.spotify.com/v1/tracks/2UYPFtrIIaIQdxLCaFwjFu",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2UYPFtrIIaIQdxLCaFwjFu",
+        "duration_ms": 199347,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5zyySSTcBpXQ8gSbuONRH7",
+    "name": "Parking Lot",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 97.019,
+    "features": [
+      {
+        "danceability": 0.639,
+        "energy": 0.907,
+        "key": 9,
+        "loudness": -7.85,
+        "mode": 1,
+        "speechiness": 0.0409,
+        "acousticness": 0.0128,
+        "instrumentalness": 0.328,
+        "liveness": 0.704,
+        "valence": 0.696,
+        "tempo": 97.019,
+        "type": "audio_features",
+        "id": "5zyySSTcBpXQ8gSbuONRH7",
+        "uri": "spotify:track:5zyySSTcBpXQ8gSbuONRH7",
+        "track_href": "https://api.spotify.com/v1/tracks/5zyySSTcBpXQ8gSbuONRH7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zyySSTcBpXQ8gSbuONRH7",
+        "duration_ms": 234333,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2vJIsdYIthbnWgLaLD9yrj",
+    "name": "Lite Weight (feat. The Free Nationals United Fellowship Choir)",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 120.014,
+    "features": [
+      {
+        "danceability": 0.655,
+        "energy": 0.855,
+        "key": 8,
+        "loudness": -9.347,
+        "mode": 0,
+        "speechiness": 0.257,
+        "acousticness": 0.0114,
+        "instrumentalness": 0.000199,
+        "liveness": 0.476,
+        "valence": 0.508,
+        "tempo": 120.014,
+        "type": "audio_features",
+        "id": "2vJIsdYIthbnWgLaLD9yrj",
+        "uri": "spotify:track:2vJIsdYIthbnWgLaLD9yrj",
+        "track_href": "https://api.spotify.com/v1/tracks/2vJIsdYIthbnWgLaLD9yrj",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2vJIsdYIthbnWgLaLD9yrj",
+        "duration_ms": 206360,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6Lr9sGM6kARYVDL2dj0lqV",
+    "name": "Room in Here (feat. The Game & Sonyae Elise)",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 86.985,
+    "features": [
+      {
+        "danceability": 0.643,
+        "energy": 0.894,
+        "key": 6,
+        "loudness": -4.765,
+        "mode": 0,
+        "speechiness": 0.374,
+        "acousticness": 0.269,
+        "instrumentalness": 4.73e-06,
+        "liveness": 0.257,
+        "valence": 0.459,
+        "tempo": 86.985,
+        "type": "audio_features",
+        "id": "6Lr9sGM6kARYVDL2dj0lqV",
+        "uri": "spotify:track:6Lr9sGM6kARYVDL2dj0lqV",
+        "track_href": "https://api.spotify.com/v1/tracks/6Lr9sGM6kARYVDL2dj0lqV",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Lr9sGM6kARYVDL2dj0lqV",
+        "duration_ms": 239173,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3qUNcMXZBO5vvhSHLhBpJ9",
+    "name": "Water Fall (Interluuube)",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 118.242,
+    "features": [
+      {
+        "danceability": 0.491,
+        "energy": 0.494,
+        "key": 5,
+        "loudness": -9.585,
+        "mode": 0,
+        "speechiness": 0.129,
+        "acousticness": 0.458,
+        "instrumentalness": 0.0314,
+        "liveness": 0.114,
+        "valence": 0.374,
+        "tempo": 118.242,
+        "type": "audio_features",
+        "id": "3qUNcMXZBO5vvhSHLhBpJ9",
+        "uri": "spotify:track:3qUNcMXZBO5vvhSHLhBpJ9",
+        "track_href": "https://api.spotify.com/v1/tracks/3qUNcMXZBO5vvhSHLhBpJ9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3qUNcMXZBO5vvhSHLhBpJ9",
+        "duration_ms": 118053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1GJr5BQIOvzFEoQlrufunl",
+    "name": "Your Prime",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 160.926,
+    "features": [
+      {
+        "danceability": 0.601,
+        "energy": 0.641,
+        "key": 8,
+        "loudness": -5.202,
+        "mode": 1,
+        "speechiness": 0.157,
+        "acousticness": 0.215,
+        "instrumentalness": 0.013,
+        "liveness": 0.172,
+        "valence": 0.556,
+        "tempo": 160.926,
+        "type": "audio_features",
+        "id": "1GJr5BQIOvzFEoQlrufunl",
+        "uri": "spotify:track:1GJr5BQIOvzFEoQlrufunl",
+        "track_href": "https://api.spotify.com/v1/tracks/1GJr5BQIOvzFEoQlrufunl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1GJr5BQIOvzFEoQlrufunl",
+        "duration_ms": 237107,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "276zciJ7Fg7Jk6Ta6QuLkp",
+    "name": "Come Down",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 98.401,
+    "features": [
+      {
+        "danceability": 0.841,
+        "energy": 0.898,
+        "key": 8,
+        "loudness": -7.135,
+        "mode": 1,
+        "speechiness": 0.104,
+        "acousticness": 0.271,
+        "instrumentalness": 0.0151,
+        "liveness": 0.304,
+        "valence": 0.931,
+        "tempo": 98.401,
+        "type": "audio_features",
+        "id": "276zciJ7Fg7Jk6Ta6QuLkp",
+        "uri": "spotify:track:276zciJ7Fg7Jk6Ta6QuLkp",
+        "track_href": "https://api.spotify.com/v1/tracks/276zciJ7Fg7Jk6Ta6QuLkp",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/276zciJ7Fg7Jk6Ta6QuLkp",
+        "duration_ms": 169727,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6zyXhzPJg7dCGuC5ToIxqN",
+    "name": "Silicon Valley",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 115.21,
+    "features": [
+      {
+        "danceability": 0.545,
+        "energy": 0.451,
+        "key": 3,
+        "loudness": -9.166,
+        "mode": 0,
+        "speechiness": 0.194,
+        "acousticness": 0.302,
+        "instrumentalness": 0,
+        "liveness": 0.382,
+        "valence": 0.502,
+        "tempo": 115.21,
+        "type": "audio_features",
+        "id": "6zyXhzPJg7dCGuC5ToIxqN",
+        "uri": "spotify:track:6zyXhzPJg7dCGuC5ToIxqN",
+        "track_href": "https://api.spotify.com/v1/tracks/6zyXhzPJg7dCGuC5ToIxqN",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6zyXhzPJg7dCGuC5ToIxqN",
+        "duration_ms": 244840,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1zlclNkERGFrCxznXOgkD3",
+    "name": "Celebrate",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 94.009,
+    "features": [
+      {
+        "danceability": 0.703,
+        "energy": 0.759,
+        "key": 0,
+        "loudness": -6.554,
+        "mode": 1,
+        "speechiness": 0.149,
+        "acousticness": 0.0484,
+        "instrumentalness": 0.0031,
+        "liveness": 0.664,
+        "valence": 0.863,
+        "tempo": 94.009,
+        "type": "audio_features",
+        "id": "1zlclNkERGFrCxznXOgkD3",
+        "uri": "spotify:track:1zlclNkERGFrCxznXOgkD3",
+        "track_href": "https://api.spotify.com/v1/tracks/1zlclNkERGFrCxznXOgkD3",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1zlclNkERGFrCxznXOgkD3",
+        "duration_ms": 226187,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2sNhYJ2ggd9BadlTXU3Mah",
+    "name": "The Dreamer (feat. Talib Kweli & Timan Family Choir)",
+    "artist": "Anderson .Paak",
+    "album": "Malibu",
+    "bpm": 164.677,
+    "features": [
+      {
+        "danceability": 0.52,
+        "energy": 0.778,
+        "key": 9,
+        "loudness": -4.161,
+        "mode": 1,
+        "speechiness": 0.26,
+        "acousticness": 0.324,
+        "instrumentalness": 0,
+        "liveness": 0.896,
+        "valence": 0.388,
+        "tempo": 164.677,
+        "type": "audio_features",
+        "id": "2sNhYJ2ggd9BadlTXU3Mah",
+        "uri": "spotify:track:2sNhYJ2ggd9BadlTXU3Mah",
+        "track_href": "https://api.spotify.com/v1/tracks/2sNhYJ2ggd9BadlTXU3Mah",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2sNhYJ2ggd9BadlTXU3Mah",
+        "duration_ms": 339973,
+        "time_signature": 4
+      }
+    ]
+  }
+]

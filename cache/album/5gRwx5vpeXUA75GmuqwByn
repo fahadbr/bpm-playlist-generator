@@ -1,0 +1,379 @@
+[
+  {
+    "id": "07s4gunupLyKvqFQY5KfHP",
+    "name": "The Healing",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 87.99,
+    "features": [
+      {
+        "danceability": 0.562,
+        "energy": 0.691,
+        "key": 7,
+        "loudness": -7.507,
+        "mode": 0,
+        "speechiness": 0.0399,
+        "acousticness": 0.0248,
+        "instrumentalness": 0.000214,
+        "liveness": 0.276,
+        "valence": 0.306,
+        "tempo": 87.99,
+        "type": "audio_features",
+        "id": "07s4gunupLyKvqFQY5KfHP",
+        "uri": "spotify:track:07s4gunupLyKvqFQY5KfHP",
+        "track_href": "https://api.spotify.com/v1/tracks/07s4gunupLyKvqFQY5KfHP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/07s4gunupLyKvqFQY5KfHP",
+        "duration_ms": 288707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4CHDLQA19PRKRCtpBIzASe",
+    "name": "Grinder",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 161.933,
+    "features": [
+      {
+        "danceability": 0.293,
+        "energy": 0.792,
+        "key": 7,
+        "loudness": -3.747,
+        "mode": 1,
+        "speechiness": 0.0363,
+        "acousticness": 0.00855,
+        "instrumentalness": 0.0111,
+        "liveness": 0.133,
+        "valence": 0.697,
+        "tempo": 161.933,
+        "type": "audio_features",
+        "id": "4CHDLQA19PRKRCtpBIzASe",
+        "uri": "spotify:track:4CHDLQA19PRKRCtpBIzASe",
+        "track_href": "https://api.spotify.com/v1/tracks/4CHDLQA19PRKRCtpBIzASe",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4CHDLQA19PRKRCtpBIzASe",
+        "duration_ms": 202160,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3LAvCzBpgK56srPYbMljJa",
+    "name": "Star",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 84.452,
+    "features": [
+      {
+        "danceability": 0.639,
+        "energy": 0.749,
+        "key": 1,
+        "loudness": -5.916,
+        "mode": 0,
+        "speechiness": 0.0468,
+        "acousticness": 0.0573,
+        "instrumentalness": 0.0294,
+        "liveness": 0.153,
+        "valence": 0.53,
+        "tempo": 84.452,
+        "type": "audio_features",
+        "id": "3LAvCzBpgK56srPYbMljJa",
+        "uri": "spotify:track:3LAvCzBpgK56srPYbMljJa",
+        "track_href": "https://api.spotify.com/v1/tracks/3LAvCzBpgK56srPYbMljJa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3LAvCzBpgK56srPYbMljJa",
+        "duration_ms": 284080,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5cfGJHxNcS1S2qyZj9xH6z",
+    "name": "Our Love",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 83.98,
+    "features": [
+      {
+        "danceability": 0.615,
+        "energy": 0.416,
+        "key": 0,
+        "loudness": -7.606,
+        "mode": 0,
+        "speechiness": 0.024,
+        "acousticness": 0.334,
+        "instrumentalness": 0.011,
+        "liveness": 0.0913,
+        "valence": 0.284,
+        "tempo": 83.98,
+        "type": "audio_features",
+        "id": "5cfGJHxNcS1S2qyZj9xH6z",
+        "uri": "spotify:track:5cfGJHxNcS1S2qyZj9xH6z",
+        "track_href": "https://api.spotify.com/v1/tracks/5cfGJHxNcS1S2qyZj9xH6z",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5cfGJHxNcS1S2qyZj9xH6z",
+        "duration_ms": 251520,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "50KjvVYMfD3dik1Rkegkjz",
+    "name": "Church",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 155.259,
+    "features": [
+      {
+        "danceability": 0.397,
+        "energy": 0.597,
+        "key": 7,
+        "loudness": -7.312,
+        "mode": 1,
+        "speechiness": 0.0295,
+        "acousticness": 0.299,
+        "instrumentalness": 0.000708,
+        "liveness": 0.143,
+        "valence": 0.296,
+        "tempo": 155.259,
+        "type": "audio_features",
+        "id": "50KjvVYMfD3dik1Rkegkjz",
+        "uri": "spotify:track:50KjvVYMfD3dik1Rkegkjz",
+        "track_href": "https://api.spotify.com/v1/tracks/50KjvVYMfD3dik1Rkegkjz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/50KjvVYMfD3dik1Rkegkjz",
+        "duration_ms": 310080,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "4xRWaLJAjDQ4yS0TJwzT1B",
+    "name": "Hold On",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 173.375,
+    "features": [
+      {
+        "danceability": 0.492,
+        "energy": 0.685,
+        "key": 10,
+        "loudness": -5.554,
+        "mode": 0,
+        "speechiness": 0.118,
+        "acousticness": 0.333,
+        "instrumentalness": 1.9e-05,
+        "liveness": 0.12,
+        "valence": 0.705,
+        "tempo": 173.375,
+        "type": "audio_features",
+        "id": "4xRWaLJAjDQ4yS0TJwzT1B",
+        "uri": "spotify:track:4xRWaLJAjDQ4yS0TJwzT1B",
+        "track_href": "https://api.spotify.com/v1/tracks/4xRWaLJAjDQ4yS0TJwzT1B",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4xRWaLJAjDQ4yS0TJwzT1B",
+        "duration_ms": 226720,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "04h8ffz907S09MTRMccI6d",
+    "name": "Cold Blooded",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 90.683,
+    "features": [
+      {
+        "danceability": 0.653,
+        "energy": 0.566,
+        "key": 4,
+        "loudness": -8.547,
+        "mode": 0,
+        "speechiness": 0.0352,
+        "acousticness": 0.0667,
+        "instrumentalness": 0.0218,
+        "liveness": 0.125,
+        "valence": 0.429,
+        "tempo": 90.683,
+        "type": "audio_features",
+        "id": "04h8ffz907S09MTRMccI6d",
+        "uri": "spotify:track:04h8ffz907S09MTRMccI6d",
+        "track_href": "https://api.spotify.com/v1/tracks/04h8ffz907S09MTRMccI6d",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/04h8ffz907S09MTRMccI6d",
+        "duration_ms": 223093,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0ec1wfr02U1XhVorFOYsbP",
+    "name": "Wings",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 85.957,
+    "features": [
+      {
+        "danceability": 0.643,
+        "energy": 0.702,
+        "key": 1,
+        "loudness": -7.794,
+        "mode": 1,
+        "speechiness": 0.0433,
+        "acousticness": 0.0118,
+        "instrumentalness": 0.00382,
+        "liveness": 0.301,
+        "valence": 0.483,
+        "tempo": 85.957,
+        "type": "audio_features",
+        "id": "0ec1wfr02U1XhVorFOYsbP",
+        "uri": "spotify:track:0ec1wfr02U1XhVorFOYsbP",
+        "track_href": "https://api.spotify.com/v1/tracks/0ec1wfr02U1XhVorFOYsbP",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ec1wfr02U1XhVorFOYsbP",
+        "duration_ms": 252320,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5DDUcpsmDzDUdFLeOaPW3l",
+    "name": "BYOB",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 83.488,
+    "features": [
+      {
+        "danceability": 0.605,
+        "energy": 0.475,
+        "key": 1,
+        "loudness": -8.091,
+        "mode": 1,
+        "speechiness": 0.0302,
+        "acousticness": 0.633,
+        "instrumentalness": 0.000385,
+        "liveness": 0.104,
+        "valence": 0.647,
+        "tempo": 83.488,
+        "type": "audio_features",
+        "id": "5DDUcpsmDzDUdFLeOaPW3l",
+        "uri": "spotify:track:5DDUcpsmDzDUdFLeOaPW3l",
+        "track_href": "https://api.spotify.com/v1/tracks/5DDUcpsmDzDUdFLeOaPW3l",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5DDUcpsmDzDUdFLeOaPW3l",
+        "duration_ms": 60053,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0y4R9IyVgB48urdcKCKpaa",
+    "name": "Can't Sleep",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 121.967,
+    "features": [
+      {
+        "danceability": 0.73,
+        "energy": 0.61,
+        "key": 4,
+        "loudness": -4.736,
+        "mode": 0,
+        "speechiness": 0.0434,
+        "acousticness": 0.0181,
+        "instrumentalness": 0,
+        "liveness": 0.465,
+        "valence": 0.801,
+        "tempo": 121.967,
+        "type": "audio_features",
+        "id": "0y4R9IyVgB48urdcKCKpaa",
+        "uri": "spotify:track:0y4R9IyVgB48urdcKCKpaa",
+        "track_href": "https://api.spotify.com/v1/tracks/0y4R9IyVgB48urdcKCKpaa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0y4R9IyVgB48urdcKCKpaa",
+        "duration_ms": 227640,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0z6kwqZiVdhfkwIuWwG8pM",
+    "name": "Stay",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 85.732,
+    "features": [
+      {
+        "danceability": 0.496,
+        "energy": 0.813,
+        "key": 8,
+        "loudness": -4.553,
+        "mode": 0,
+        "speechiness": 0.0289,
+        "acousticness": 0.0833,
+        "instrumentalness": 0.00915,
+        "liveness": 0.145,
+        "valence": 0.318,
+        "tempo": 85.732,
+        "type": "audio_features",
+        "id": "0z6kwqZiVdhfkwIuWwG8pM",
+        "uri": "spotify:track:0z6kwqZiVdhfkwIuWwG8pM",
+        "track_href": "https://api.spotify.com/v1/tracks/0z6kwqZiVdhfkwIuWwG8pM",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0z6kwqZiVdhfkwIuWwG8pM",
+        "duration_ms": 225000,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4hB2r4trPkpdHTVinASchh",
+    "name": "Shake",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 192.907,
+    "features": [
+      {
+        "danceability": 0.326,
+        "energy": 0.922,
+        "key": 11,
+        "loudness": -3.04,
+        "mode": 1,
+        "speechiness": 0.0433,
+        "acousticness": 0.0091,
+        "instrumentalness": 0.0554,
+        "liveness": 0.164,
+        "valence": 0.753,
+        "tempo": 192.907,
+        "type": "audio_features",
+        "id": "4hB2r4trPkpdHTVinASchh",
+        "uri": "spotify:track:4hB2r4trPkpdHTVinASchh",
+        "track_href": "https://api.spotify.com/v1/tracks/4hB2r4trPkpdHTVinASchh",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4hB2r4trPkpdHTVinASchh",
+        "duration_ms": 197813,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1PyUXZzBk6eJiRZFLdCEh2",
+    "name": "Down to Ride",
+    "artist": "Gary Clark Jr.",
+    "album": "The Story of Sonny Boy Slim",
+    "bpm": 126.001,
+    "features": [
+      {
+        "danceability": 0.726,
+        "energy": 0.632,
+        "key": 4,
+        "loudness": -6.254,
+        "mode": 1,
+        "speechiness": 0.0304,
+        "acousticness": 0.025,
+        "instrumentalness": 0.183,
+        "liveness": 0.155,
+        "valence": 0.528,
+        "tempo": 126.001,
+        "type": "audio_features",
+        "id": "1PyUXZzBk6eJiRZFLdCEh2",
+        "uri": "spotify:track:1PyUXZzBk6eJiRZFLdCEh2",
+        "track_href": "https://api.spotify.com/v1/tracks/1PyUXZzBk6eJiRZFLdCEh2",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1PyUXZzBk6eJiRZFLdCEh2",
+        "duration_ms": 472120,
+        "time_signature": 4
+      }
+    ]
+  }
+]

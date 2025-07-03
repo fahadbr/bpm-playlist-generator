@@ -1,0 +1,408 @@
+[
+  {
+    "id": "23m5rUpKrW85DNikaGm7j8",
+    "name": "From Zero (Intro)",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 82.621,
+    "features": [
+      {
+        "danceability": 0.337,
+        "energy": 0.139,
+        "key": 7,
+        "loudness": -18.884,
+        "mode": 1,
+        "speechiness": 0.165,
+        "acousticness": 0.621,
+        "instrumentalness": 5.2e-06,
+        "liveness": 0.251,
+        "valence": 0,
+        "tempo": 82.621,
+        "type": "audio_features",
+        "id": "23m5rUpKrW85DNikaGm7j8",
+        "uri": "spotify:track:23m5rUpKrW85DNikaGm7j8",
+        "track_href": "https://api.spotify.com/v1/tracks/23m5rUpKrW85DNikaGm7j8",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/23m5rUpKrW85DNikaGm7j8",
+        "duration_ms": 22174,
+        "time_signature": 3
+      }
+    ]
+  },
+  {
+    "id": "3AA50LilsWIK5HstsdUa0I",
+    "name": "The Emptiness Machine",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 184.115,
+    "features": [
+      {
+        "danceability": 0.466,
+        "energy": 0.872,
+        "key": 7,
+        "loudness": -3.344,
+        "mode": 1,
+        "speechiness": 0.0336,
+        "acousticness": 0.0156,
+        "instrumentalness": 0,
+        "liveness": 0.121,
+        "valence": 0.806,
+        "tempo": 184.115,
+        "type": "audio_features",
+        "id": "3AA50LilsWIK5HstsdUa0I",
+        "uri": "spotify:track:3AA50LilsWIK5HstsdUa0I",
+        "track_href": "https://api.spotify.com/v1/tracks/3AA50LilsWIK5HstsdUa0I",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3AA50LilsWIK5HstsdUa0I",
+        "duration_ms": 190428,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0UoGxTum73Mmvk9UuCqakG",
+    "name": "Cut the Bridge",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 75.024,
+    "features": [
+      {
+        "danceability": 0.622,
+        "energy": 0.936,
+        "key": 7,
+        "loudness": -2.72,
+        "mode": 0,
+        "speechiness": 0.067,
+        "acousticness": 0.0212,
+        "instrumentalness": 3.09e-06,
+        "liveness": 0.242,
+        "valence": 0.743,
+        "tempo": 75.024,
+        "type": "audio_features",
+        "id": "0UoGxTum73Mmvk9UuCqakG",
+        "uri": "spotify:track:0UoGxTum73Mmvk9UuCqakG",
+        "track_href": "https://api.spotify.com/v1/tracks/0UoGxTum73Mmvk9UuCqakG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0UoGxTum73Mmvk9UuCqakG",
+        "duration_ms": 228607,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0Fd4oSOZ2nHtdHOkgyI4qz",
+    "name": "Heavy Is the Crown",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 127.939,
+    "features": [
+      {
+        "danceability": 0.571,
+        "energy": 0.928,
+        "key": 4,
+        "loudness": -3.725,
+        "mode": 0,
+        "speechiness": 0.0453,
+        "acousticness": 0.00932,
+        "instrumentalness": 0,
+        "liveness": 0.297,
+        "valence": 0.489,
+        "tempo": 127.939,
+        "type": "audio_features",
+        "id": "0Fd4oSOZ2nHtdHOkgyI4qz",
+        "uri": "spotify:track:0Fd4oSOZ2nHtdHOkgyI4qz",
+        "track_href": "https://api.spotify.com/v1/tracks/0Fd4oSOZ2nHtdHOkgyI4qz",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Fd4oSOZ2nHtdHOkgyI4qz",
+        "duration_ms": 167012,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4EPLnVE718rJDzSYlEU85R",
+    "name": "Over Each Other",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 147.947,
+    "features": [
+      {
+        "danceability": 0.55,
+        "energy": 0.789,
+        "key": 10,
+        "loudness": -4.634,
+        "mode": 1,
+        "speechiness": 0.0382,
+        "acousticness": 0.00241,
+        "instrumentalness": 0,
+        "liveness": 0.428,
+        "valence": 0.317,
+        "tempo": 147.947,
+        "type": "audio_features",
+        "id": "4EPLnVE718rJDzSYlEU85R",
+        "uri": "spotify:track:4EPLnVE718rJDzSYlEU85R",
+        "track_href": "https://api.spotify.com/v1/tracks/4EPLnVE718rJDzSYlEU85R",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4EPLnVE718rJDzSYlEU85R",
+        "duration_ms": 170445,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7iMsm86etNshj6IUgMnpuO",
+    "name": "Casualty",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 159.928,
+    "features": [
+      {
+        "danceability": 0.576,
+        "energy": 0.948,
+        "key": 2,
+        "loudness": -4.082,
+        "mode": 1,
+        "speechiness": 0.173,
+        "acousticness": 0.00467,
+        "instrumentalness": 0.00838,
+        "liveness": 0.322,
+        "valence": 0.5,
+        "tempo": 159.928,
+        "type": "audio_features",
+        "id": "7iMsm86etNshj6IUgMnpuO",
+        "uri": "spotify:track:7iMsm86etNshj6IUgMnpuO",
+        "track_href": "https://api.spotify.com/v1/tracks/7iMsm86etNshj6IUgMnpuO",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7iMsm86etNshj6IUgMnpuO",
+        "duration_ms": 140916,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2Yh356WJoVcWleiWRFoLUa",
+    "name": "Overflow",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 133.916,
+    "features": [
+      {
+        "danceability": 0.515,
+        "energy": 0.654,
+        "key": 8,
+        "loudness": -6.349,
+        "mode": 1,
+        "speechiness": 0.0492,
+        "acousticness": 0.116,
+        "instrumentalness": 0.000103,
+        "liveness": 0.0966,
+        "valence": 0.305,
+        "tempo": 133.916,
+        "type": "audio_features",
+        "id": "2Yh356WJoVcWleiWRFoLUa",
+        "uri": "spotify:track:2Yh356WJoVcWleiWRFoLUa",
+        "track_href": "https://api.spotify.com/v1/tracks/2Yh356WJoVcWleiWRFoLUa",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Yh356WJoVcWleiWRFoLUa",
+        "duration_ms": 211027,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2fiabxMbdC8AX3iY6zbYRZ",
+    "name": "Two Faced",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 91.906,
+    "features": [
+      {
+        "danceability": 0.51,
+        "energy": 0.945,
+        "key": 1,
+        "loudness": -5.405,
+        "mode": 1,
+        "speechiness": 0.0807,
+        "acousticness": 0.000658,
+        "instrumentalness": 4.8e-06,
+        "liveness": 0.0413,
+        "valence": 0.323,
+        "tempo": 91.906,
+        "type": "audio_features",
+        "id": "2fiabxMbdC8AX3iY6zbYRZ",
+        "uri": "spotify:track:2fiabxMbdC8AX3iY6zbYRZ",
+        "track_href": "https://api.spotify.com/v1/tracks/2fiabxMbdC8AX3iY6zbYRZ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2fiabxMbdC8AX3iY6zbYRZ",
+        "duration_ms": 183584,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5z3vP51vxtwwCaAwym4z3z",
+    "name": "Stained",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 91.97,
+    "features": [
+      {
+        "danceability": 0.516,
+        "energy": 0.868,
+        "key": 6,
+        "loudness": -5.148,
+        "mode": 1,
+        "speechiness": 0.0968,
+        "acousticness": 0.0134,
+        "instrumentalness": 0,
+        "liveness": 0.509,
+        "valence": 0.375,
+        "tempo": 91.97,
+        "type": "audio_features",
+        "id": "5z3vP51vxtwwCaAwym4z3z",
+        "uri": "spotify:track:5z3vP51vxtwwCaAwym4z3z",
+        "track_href": "https://api.spotify.com/v1/tracks/5z3vP51vxtwwCaAwym4z3z",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5z3vP51vxtwwCaAwym4z3z",
+        "duration_ms": 185415,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1Qb2KRdSyk4UtRsbUAW6IG",
+    "name": "IGYEIH",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 159.974,
+    "features": [
+      {
+        "danceability": 0.442,
+        "energy": 0.968,
+        "key": 2,
+        "loudness": -3.417,
+        "mode": 1,
+        "speechiness": 0.126,
+        "acousticness": 0.00227,
+        "instrumentalness": 1.53e-05,
+        "liveness": 0.296,
+        "valence": 0.308,
+        "tempo": 159.974,
+        "type": "audio_features",
+        "id": "1Qb2KRdSyk4UtRsbUAW6IG",
+        "uri": "spotify:track:1Qb2KRdSyk4UtRsbUAW6IG",
+        "track_href": "https://api.spotify.com/v1/tracks/1Qb2KRdSyk4UtRsbUAW6IG",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Qb2KRdSyk4UtRsbUAW6IG",
+        "duration_ms": 209084,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7smscq05iWstwxPxZgN0rl",
+    "name": "Good Things Go",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 127.005,
+    "features": [
+      {
+        "danceability": 0.541,
+        "energy": 0.757,
+        "key": 2,
+        "loudness": -5.37,
+        "mode": 0,
+        "speechiness": 0.0421,
+        "acousticness": 0.00867,
+        "instrumentalness": 0,
+        "liveness": 0.136,
+        "valence": 0.307,
+        "tempo": 127.005,
+        "type": "audio_features",
+        "id": "7smscq05iWstwxPxZgN0rl",
+        "uri": "spotify:track:7smscq05iWstwxPxZgN0rl",
+        "track_href": "https://api.spotify.com/v1/tracks/7smscq05iWstwxPxZgN0rl",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7smscq05iWstwxPxZgN0rl",
+        "duration_ms": 209845,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2SwdMXPvGdciXamSjfoNH9",
+    "name": "Up From the Bottom",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 107.018,
+    "features": [
+      {
+        "danceability": 0.615,
+        "energy": 0.937,
+        "key": 5,
+        "loudness": -3.362,
+        "mode": 0,
+        "speechiness": 0.044,
+        "acousticness": 0.00698,
+        "instrumentalness": 0,
+        "liveness": 0.242,
+        "valence": 0.601,
+        "tempo": 107.018,
+        "type": "audio_features",
+        "id": "2SwdMXPvGdciXamSjfoNH9",
+        "uri": "spotify:track:2SwdMXPvGdciXamSjfoNH9",
+        "track_href": "https://api.spotify.com/v1/tracks/2SwdMXPvGdciXamSjfoNH9",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2SwdMXPvGdciXamSjfoNH9",
+        "duration_ms": 183223,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "6r2JE3s7XVnGfwiWCymyWf",
+    "name": "Unshatter",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 145.023,
+    "features": [
+      {
+        "danceability": 0.491,
+        "energy": 0.969,
+        "key": 6,
+        "loudness": -3.421,
+        "mode": 0,
+        "speechiness": 0.193,
+        "acousticness": 0.000568,
+        "instrumentalness": 0,
+        "liveness": 0.925,
+        "valence": 0.329,
+        "tempo": 145.023,
+        "type": "audio_features",
+        "id": "6r2JE3s7XVnGfwiWCymyWf",
+        "uri": "spotify:track:6r2JE3s7XVnGfwiWCymyWf",
+        "track_href": "https://api.spotify.com/v1/tracks/6r2JE3s7XVnGfwiWCymyWf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/6r2JE3s7XVnGfwiWCymyWf",
+        "duration_ms": 196112,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3GZt2N9dSfNCL6ArCFDpOc",
+    "name": "Let You Fade",
+    "artist": "Linkin Park",
+    "album": "From Zero (Deluxe Edition)",
+    "bpm": 163.676,
+    "features": [
+      {
+        "danceability": 0.358,
+        "energy": 0.952,
+        "key": 0,
+        "loudness": -3.712,
+        "mode": 1,
+        "speechiness": 0.33,
+        "acousticness": 0.0079,
+        "instrumentalness": 0,
+        "liveness": 0.0619,
+        "valence": 0.123,
+        "tempo": 163.676,
+        "type": "audio_features",
+        "id": "3GZt2N9dSfNCL6ArCFDpOc",
+        "uri": "spotify:track:3GZt2N9dSfNCL6ArCFDpOc",
+        "track_href": "https://api.spotify.com/v1/tracks/3GZt2N9dSfNCL6ArCFDpOc",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3GZt2N9dSfNCL6ArCFDpOc",
+        "duration_ms": 208739,
+        "time_signature": 4
+      }
+    ]
+  }
+]
