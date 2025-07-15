@@ -2,6 +2,9 @@
   {
     "id": "4MTuL20LF3pWebeJbcNh7p",
     "name": "Don't Understand",
+    "duration_ms": 183379,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 91.903,
@@ -31,6 +34,9 @@
   {
     "id": "444vevlQjTnKioLLncteGv",
     "name": "Something Real",
+    "duration_ms": 205287,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 135.335,
@@ -60,6 +66,9 @@
   {
     "id": "7jvtmQ3onpWeUm7dyFSSSc",
     "name": "Chemical",
+    "duration_ms": 183410,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 169.948,
@@ -89,6 +98,9 @@
   {
     "id": "6V1TqJxtw3P0ouCKICvl9l",
     "name": "Novacandy",
+    "duration_ms": 197287,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 155.053,
@@ -118,6 +130,9 @@
   {
     "id": "3pI3nzi2Y0Iyj1nATDOeQV",
     "name": "Mourning",
+    "duration_ms": 147819,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 74.013,
@@ -147,6 +162,9 @@
   {
     "id": "3FtQes77xlbS9QTVts7p2u",
     "name": "Too Cool To Die",
+    "duration_ms": 204952,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 106.999,
@@ -176,6 +194,9 @@
   {
     "id": "4mahloUW5K6KeGijwnMGDr",
     "name": "Sign Me Up",
+    "duration_ms": 198937,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 145.834,
@@ -205,6 +226,9 @@
   {
     "id": "3ZcJaN63FKEMxDWWPefsiW",
     "name": "Socialite",
+    "duration_ms": 199021,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 90.902,
@@ -234,6 +258,9 @@
   {
     "id": "3uMO7jmdXxwSijvxNXDgE4",
     "name": "Overdrive",
+    "duration_ms": 147679,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 139.864,
@@ -263,6 +290,9 @@
   {
     "id": "5oJw81e2Tzr2rC0lHXnDPb",
     "name": "Speedometer",
+    "duration_ms": 162103,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 113.922,
@@ -292,6 +322,9 @@
   {
     "id": "4qtxILwBcAHEHbG7R0xF4r",
     "name": "Hold My Breath",
+    "duration_ms": 208904,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 120.076,
@@ -321,6 +354,9 @@
   {
     "id": "3BHFResGQiUvbYToUdaDQz",
     "name": "Enough Is Enough",
+    "duration_ms": 165175,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 165.996,
@@ -350,6 +386,9 @@
   {
     "id": "0cuNKdwaFrDJ4G1hYxI6aI",
     "name": "Texas Tea",
+    "duration_ms": 139360,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 79.941,
@@ -379,6 +418,9 @@
   {
     "id": "6wOmmoM5nyS6mOyzo9wDjC",
     "name": "Buyer Beware",
+    "duration_ms": 173481,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 119.943,
@@ -408,6 +450,9 @@
   {
     "id": "6Sjg6cp8yXtKX5DrcEl7HV",
     "name": "Landmine",
+    "duration_ms": 184607,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 171.872,
@@ -437,6 +482,9 @@
   {
     "id": "04J9hE3RhAsecsgVWl70jW",
     "name": "Green Thumb",
+    "duration_ms": 159406,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 86.728,
@@ -466,6 +514,9 @@
   {
     "id": "26EjM7ZMAnWOKPAuKNOX24",
     "name": "Laugh It Off",
+    "duration_ms": 246503,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Post Malone",
     "album": "AUSTIN",
     "bpm": 152.115,

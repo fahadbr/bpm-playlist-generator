@@ -2,6 +2,9 @@
   {
     "id": "4Ksj9mKfsYC5b8v8Ey3c8I",
     "name": "0.00",
+    "duration_ms": 179386,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Childish Gambino",
     "album": "3.15.20",
     "bpm": 116.713,
@@ -31,6 +34,9 @@
   {
     "id": "07FOCFJhMmCVQDyWX1d3gR",
     "name": "Algorhythm",
+    "duration_ms": 212106,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Childish Gambino",
     "album": "3.15.20",
     "bpm": 100.077,
@@ -60,6 +66,9 @@
   {
     "id": "2Aq78kKI9yuloJQkcbhQbU",
     "name": "Time (feat. Ariana Grande)",
+    "duration_ms": 367293,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Childish Gambino",
     "album": "3.15.20",
     "bpm": 85.977,
@@ -89,6 +98,9 @@
   {
     "id": "011ZwIM48eD8ee2UBpG8nK",
     "name": "12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",
+    "duration_ms": 392186,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Childish Gambino",
     "album": "3.15.20",
     "bpm": 164.047,
@@ -118,6 +130,9 @@
   {
     "id": "5X4R93Qcw54yp9Utwy7Mlr",
     "name": "19.10",
+    "duration_ms": 308546,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Childish Gambino",
     "album": "3.15.20",
     "bpm": 114.98,
@@ -147,6 +162,9 @@
   {
     "id": "3IB89bAf5k60jLUFoWAmn1",
     "name": "24.19",
+    "duration_ms": 479186,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Childish Gambino",
     "album": "3.15.20",
     "bpm": 149.927,
@@ -176,6 +194,9 @@
   {
     "id": "5UxxCtrLtSqOVRBQQn4ZJ3",
     "name": "32.22",
+    "duration_ms": 192733,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Childish Gambino",
     "album": "3.15.20",
     "bpm": 108.035,
@@ -205,6 +226,9 @@
   {
     "id": "4vS4FB3HXgOSmICeqEY0Gh",
     "name": "35.31",
+    "duration_ms": 236506,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Childish Gambino",
     "album": "3.15.20",
     "bpm": 102.018,
@@ -234,6 +258,9 @@
   {
     "id": "2VMzIZtoTgnKydwx6cRPq7",
     "name": "39.28",
+    "duration_ms": 179360,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Childish Gambino",
     "album": "3.15.20",
     "bpm": 93.921,
@@ -263,6 +290,9 @@
   {
     "id": "5CTzapBNGovLrqPas4cy7J",
     "name": "42.26",
+    "duration_ms": 321386,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Childish Gambino",
     "album": "3.15.20",
     "bpm": 165.816,
@@ -292,6 +322,9 @@
   {
     "id": "7l8qR2ndOxgE9hbfQf6gxA",
     "name": "47.48",
+    "duration_ms": 360933,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Childish Gambino",
     "album": "3.15.20",
     "bpm": 148.018,
@@ -321,6 +354,9 @@
   {
     "id": "2alJKJoqOOEPVU1Do3eIjJ",
     "name": "53.49",
+    "duration_ms": 235280,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Childish Gambino",
     "album": "3.15.20",
     "bpm": 171.905,

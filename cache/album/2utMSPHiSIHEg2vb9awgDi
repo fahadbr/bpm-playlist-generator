@@ -2,6 +2,9 @@
   {
     "id": "1q1ds5yuwDOZIdoRLy1yHd",
     "name": "Dopamine Lit (Intro)",
+    "duration_ms": 169185,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 114.965,
@@ -31,6 +34,9 @@
   {
     "id": "3jba00RrUxZASfXl1fVuG0",
     "name": "NGL (feat. Ty Dolla $Ign)",
+    "duration_ms": 243050,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 126.897,
@@ -60,6 +66,9 @@
   {
     "id": "4MzkYx6KAEKNb0V1eftx8H",
     "name": "Promise",
+    "duration_ms": 272221,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 120.002,
@@ -89,6 +98,9 @@
   {
     "id": "41Erh93gsSvqdE9H1DciEr",
     "name": "Made in the USA (feat. Bianca Sings)",
+    "duration_ms": 210714,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 144.034,
@@ -118,6 +130,9 @@
   {
     "id": "51gbF0SxTmxgAguiWWUXPu",
     "name": "Jump (feat. Gizzle)",
+    "duration_ms": 274909,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 75.549,
@@ -147,6 +162,9 @@
   {
     "id": "1isldSSGzLALmJiqzLWYZj",
     "name": "City of the Year (feat. Rondo)",
+    "duration_ms": 232355,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 121.992,
@@ -176,6 +194,9 @@
   {
     "id": "1MLWvJWnr9tgeWpIrNnvkw",
     "name": "High (Interlude) [feat. Simon Sayz]",
+    "duration_ms": 238731,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 150.082,
@@ -205,6 +226,9 @@
   {
     "id": "2bvP7LFDn1jXQtA1uTfNOm",
     "name": "Tranquillo (feat. Rick Ross and Big K.R.I.T.)",
+    "duration_ms": 310259,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 129.998,
@@ -234,6 +258,9 @@
   {
     "id": "5LUkItW2c9cK2HotM1pEAC",
     "name": "Kill (feat. Ty Dolla $ign and Victoria Monet)",
+    "duration_ms": 430327,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 74.964,
@@ -263,6 +290,9 @@
   {
     "id": "6mUsxnaDalurpbekaaYerh",
     "name": "Law (feat. Simon Sayz)",
+    "duration_ms": 326422,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 135.612,
@@ -292,6 +322,9 @@
   {
     "id": "6om8S0igH5jbMpPY8ja8Jj",
     "name": "Pick up the Phone",
+    "duration_ms": 279645,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 91.016,
@@ -321,6 +354,9 @@
   {
     "id": "4WPHou32vGQZdWOYlGeaGC",
     "name": "It's Not Design (feat. Salim)",
+    "duration_ms": 230429,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 121.996,
@@ -350,6 +386,9 @@
   {
     "id": "7ID6XJvhkORUD8usrZeY3M",
     "name": "Wild Child (feat. Jake Torrey)",
+    "duration_ms": 208378,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 121.036,
@@ -379,6 +418,9 @@
   {
     "id": "6B1rVuqtChrUee14fKVK3A",
     "name": "More Than My Heart (feat. Rxmn and Salim)",
+    "duration_ms": 235970,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Lupe Fiasco",
     "album": "DROGAS Light",
     "bpm": 121.985,

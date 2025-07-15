@@ -2,6 +2,9 @@
   {
     "id": "1m7bh6lfL25dMlIxd9L4c8",
     "name": "lowest common denominator",
+    "duration_ms": 234000,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Abdullah Siddiqui",
     "album": "dead Beat poets",
     "bpm": 91.795,
@@ -31,6 +34,9 @@
   {
     "id": "3DdHfhkE64CMdMreghZAZJ",
     "name": "centrifuge",
+    "duration_ms": 202000,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Abdullah Siddiqui",
     "album": "dead Beat poets",
     "bpm": 146.721,
@@ -60,6 +66,9 @@
   {
     "id": "4MBg8O22e4R5HKxI1my9dZ",
     "name": "gloves",
+    "duration_ms": 197500,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Abdullah Siddiqui",
     "album": "dead Beat poets",
     "bpm": 112.761,
@@ -89,6 +98,9 @@
   {
     "id": "4WMg7hiesc2QaBOzGDab9l",
     "name": "lament",
+    "duration_ms": 256000,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Abdullah Siddiqui",
     "album": "dead Beat poets",
     "bpm": 178.263,
@@ -118,6 +130,9 @@
   {
     "id": "4yYdKBP5Ff2hDUEuVZX6CD",
     "name": "maestro",
+    "duration_ms": 216500,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Abdullah Siddiqui",
     "album": "dead Beat poets",
     "bpm": 75.629,
@@ -147,6 +162,9 @@
   {
     "id": "3zGFxS6Zgc8QTxefQM9brL",
     "name": "scars",
+    "duration_ms": 174000,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Abdullah Siddiqui",
     "album": "dead Beat poets",
     "bpm": 121.054,
@@ -176,6 +194,9 @@
   {
     "id": "5TlhuPFryVS5moHwdRjZt3",
     "name": "intermission",
+    "duration_ms": 123000,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Abdullah Siddiqui",
     "album": "dead Beat poets",
     "bpm": 86.476,
@@ -205,6 +226,9 @@
   {
     "id": "0mT21wbfqUZuICupj99G9K",
     "name": "moths",
+    "duration_ms": 242000,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Abdullah Siddiqui",
     "album": "dead Beat poets",
     "bpm": 111.016,
@@ -234,6 +258,9 @@
   {
     "id": "3dxKlZoYEwHUqb21b4d0wL",
     "name": "black hole",
+    "duration_ms": 267000,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Abdullah Siddiqui",
     "album": "dead Beat poets",
     "bpm": 152.102,
@@ -263,6 +290,9 @@
   {
     "id": "6PEfsgZ6A7MKEIlNUmROVd",
     "name": "video game",
+    "duration_ms": 291500,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Abdullah Siddiqui",
     "album": "dead Beat poets",
     "bpm": 90.007,
@@ -292,6 +322,9 @@
   {
     "id": "6H5zxXW7Hnj7hjMgghBW0K",
     "name": "flick",
+    "duration_ms": 162500,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Abdullah Siddiqui",
     "album": "dead Beat poets",
     "bpm": 126.19,

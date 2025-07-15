@@ -2,6 +2,9 @@
   {
     "id": "6x2w7tJogu6rIWT9DomoO9",
     "name": "Birth",
+    "duration_ms": 127386,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Thirty Seconds To Mars",
     "album": "Love Lust Faith + Dreams",
     "bpm": 160.003,
@@ -31,6 +34,9 @@
   {
     "id": "2vesdp3VWtThIKeLdxHmFP",
     "name": "Conquistador",
+    "duration_ms": 192240,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Thirty Seconds To Mars",
     "album": "Love Lust Faith + Dreams",
     "bpm": 136.05,
@@ -60,6 +66,9 @@
   {
     "id": "0zqwz7SNny9fwqSDpIu4qN",
     "name": "Up In The Air",
+    "duration_ms": 275786,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Thirty Seconds To Mars",
     "album": "Love Lust Faith + Dreams",
     "bpm": 124.025,
@@ -89,6 +98,9 @@
   {
     "id": "1dUU2RYiMZ9HCk6CB9Akup",
     "name": "City Of Angels",
+    "duration_ms": 302040,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Thirty Seconds To Mars",
     "album": "Love Lust Faith + Dreams",
     "bpm": 105.015,
@@ -118,6 +130,9 @@
   {
     "id": "6Xo6taj3pa6TVHWGJqxo8o",
     "name": "The Race",
+    "duration_ms": 220293,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Thirty Seconds To Mars",
     "album": "Love Lust Faith + Dreams",
     "bpm": 119.952,
@@ -147,6 +162,9 @@
   {
     "id": "5aW4kes1vtZFKqfRiWUBbK",
     "name": "End Of All Days",
+    "duration_ms": 286453,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Thirty Seconds To Mars",
     "album": "Love Lust Faith + Dreams",
     "bpm": 97.525,
@@ -176,6 +194,9 @@
   {
     "id": "5paiRbbk5LLoxTDhQAEHrv",
     "name": "Pyres Of Varanasi",
+    "duration_ms": 192354,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Thirty Seconds To Mars",
     "album": "Love Lust Faith + Dreams",
     "bpm": 130.04,
@@ -205,6 +226,9 @@
   {
     "id": "1AjLNIxJ2lhJOV1NV8AA8t",
     "name": "Bright Lights",
+    "duration_ms": 291266,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Thirty Seconds To Mars",
     "album": "Love Lust Faith + Dreams",
     "bpm": 113.998,
@@ -234,6 +258,9 @@
   {
     "id": "6nF6vVBsbbDVBezCW8y96B",
     "name": "Do Or Die",
+    "duration_ms": 247813,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Thirty Seconds To Mars",
     "album": "Love Lust Faith + Dreams",
     "bpm": 135.074,
@@ -263,6 +290,9 @@
   {
     "id": "0UsT2ZkDO3uLJgprdg6Xh2",
     "name": "Convergence",
+    "duration_ms": 120773,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Thirty Seconds To Mars",
     "album": "Love Lust Faith + Dreams",
     "bpm": 216.158,
@@ -292,6 +322,9 @@
   {
     "id": "6U8fmOpFp0blrUEU5cypxl",
     "name": "Northern Lights",
+    "duration_ms": 284173,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Thirty Seconds To Mars",
     "album": "Love Lust Faith + Dreams",
     "bpm": 94.991,
@@ -321,6 +354,9 @@
   {
     "id": "1DJTwdNSWDMeMzyB02bsNs",
     "name": "Depuis Le D\u00e9but",
+    "duration_ms": 153040,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Thirty Seconds To Mars",
     "album": "Love Lust Faith + Dreams",
     "bpm": 179.109,

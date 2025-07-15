@@ -2,6 +2,9 @@
   {
     "id": "4TyL53zUFb1nJDVyU2sBHc",
     "name": "Re-Hash",
+    "duration_ms": 220840,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 100.297,
@@ -31,6 +34,9 @@
   {
     "id": "5zbkoIgrBO5VjrQIEChlre",
     "name": "5/4",
+    "duration_ms": 162080,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 96.4,
@@ -60,6 +66,9 @@
   {
     "id": "3qdDjz9kOvquEFbvXBYOMQ",
     "name": "Tomorrow Comes Today",
+    "duration_ms": 193600,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 93.213,
@@ -89,6 +98,9 @@
   {
     "id": "7cKs1U32CF8kKPkT2R4WQD",
     "name": "New Genius (Brother)",
+    "duration_ms": 239986,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 169.209,
@@ -118,6 +130,9 @@
   {
     "id": "7yMiX7n9SBvadzox8T5jzT",
     "name": "Clint Eastwood",
+    "duration_ms": 340920,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 167.953,
@@ -147,6 +162,9 @@
   {
     "id": "3kKzopL09gU1FLnV3OKQq2",
     "name": "Man Research (Clapper)",
+    "duration_ms": 272946,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 95.738,
@@ -176,6 +194,9 @@
   {
     "id": "19bvTzzRjbpxgYdz5gViIU",
     "name": "Punk",
+    "duration_ms": 98533,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 153.532,
@@ -205,6 +226,9 @@
   {
     "id": "7JyVUB9LUVZgrJDFLOKdp8",
     "name": "Sound Check (Gravity)",
+    "duration_ms": 282973,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 81.75,
@@ -234,6 +258,9 @@
   {
     "id": "2SesWUNxh3idu7A2y2iY0H",
     "name": "Double Bass",
+    "duration_ms": 286933,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 164.847,
@@ -263,6 +290,9 @@
   {
     "id": "5GxqKrG0zeKA8uYJMjXwj9",
     "name": "Rock the House",
+    "duration_ms": 249200,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 171.953,
@@ -292,6 +322,9 @@
   {
     "id": "1kSWrMDt439cT64WpjJigW",
     "name": "19-2000",
+    "duration_ms": 210880,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 89.914,
@@ -321,6 +354,9 @@
   {
     "id": "4iXOdnIBM90SxELqJry6AX",
     "name": "Latin Simone (Que Pasa Contigo)",
+    "duration_ms": 218866,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 173.052,
@@ -350,6 +386,9 @@
   {
     "id": "3YZenaGVHjx6kXJJTEK9qj",
     "name": "Starshine",
+    "duration_ms": 213546,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 107.77,
@@ -379,6 +418,9 @@
   {
     "id": "3oFdBAMTChekvADT8IgMNa",
     "name": "Slow Country",
+    "duration_ms": 217493,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 143.714,
@@ -408,6 +450,9 @@
   {
     "id": "2qToAcex0ruZfbEbAy9OhW",
     "name": "M1 A1",
+    "duration_ms": 241533,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 131.227,
@@ -437,6 +482,9 @@
   {
     "id": "2acy7zzNEjWMpY6mg91h5N",
     "name": "Dracula",
+    "duration_ms": 281466,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 121.607,
@@ -466,6 +514,9 @@
   {
     "id": "64ARxf9iGgx2mV7Hunp7b6",
     "name": "Left Hand Suzuki Method",
+    "duration_ms": 192506,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 94.495,
@@ -495,6 +546,9 @@
   {
     "id": "4YGOaSgYTpAkXT6NGQWGoN",
     "name": "Clint Eastwood",
+    "duration_ms": 269866,
+    "explicit": false,
+    "track_number": 18,
     "artist": "Gorillaz",
     "album": "Gorillaz",
     "bpm": 130.002,

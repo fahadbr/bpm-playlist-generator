@@ -2,6 +2,9 @@
   {
     "id": "3dJj6o9o1fRgrojWjailuz",
     "name": "Nobody Can Save Me",
+    "duration_ms": 225546,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Linkin Park",
     "album": "One More Light",
     "bpm": 139.957,
@@ -31,6 +34,9 @@
   {
     "id": "650OeHTLxZAQmb4aEbGmaA",
     "name": "Good Goodbye (feat. Pusha T and Stormzy)",
+    "duration_ms": 211413,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Linkin Park",
     "album": "One More Light",
     "bpm": 128.034,
@@ -60,6 +66,9 @@
   {
     "id": "7nAfXgeHfDO50upcOjJOaq",
     "name": "Talking to Myself",
+    "duration_ms": 231306,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Linkin Park",
     "album": "One More Light",
     "bpm": 124.013,
@@ -89,6 +98,9 @@
   {
     "id": "3FQCJI2t5LTbsRPfYVBSVB",
     "name": "Battle Symphony",
+    "duration_ms": 216281,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Linkin Park",
     "album": "One More Light",
     "bpm": 149.034,
@@ -118,6 +130,9 @@
   {
     "id": "6OocN63GLU7NF0wHdewhID",
     "name": "Invisible",
+    "duration_ms": 214346,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Linkin Park",
     "album": "One More Light",
     "bpm": 84.841,
@@ -147,6 +162,9 @@
   {
     "id": "104buTcnP2AsxqB7U1FIZ4",
     "name": "Heavy (feat. Kiiara)",
+    "duration_ms": 169800,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Linkin Park",
     "album": "One More Light",
     "bpm": 149.982,
@@ -176,6 +194,9 @@
   {
     "id": "34isqXjbTstbYwl2MfdzDq",
     "name": "Sorry for Now",
+    "duration_ms": 203653,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Linkin Park",
     "album": "One More Light",
     "bpm": 94.956,
@@ -205,6 +226,9 @@
   {
     "id": "1KvyBpAxgllKW7bQb0GYCR",
     "name": "Halfway Right",
+    "duration_ms": 217066,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Linkin Park",
     "album": "One More Light",
     "bpm": 134.028,
@@ -234,6 +258,9 @@
   {
     "id": "3xXBsjrbG1xQIm1xv1cKOt",
     "name": "One More Light",
+    "duration_ms": 255066,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Linkin Park",
     "album": "One More Light",
     "bpm": 83.966,
@@ -263,6 +290,9 @@
   {
     "id": "6c0I7CfL9ziGZN8yYkLppP",
     "name": "Sharp Edges",
+    "duration_ms": 178200,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Linkin Park",
     "album": "One More Light",
     "bpm": 112.029,

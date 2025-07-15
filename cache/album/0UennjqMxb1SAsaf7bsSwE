@@ -2,6 +2,9 @@
   {
     "id": "5tpfvp5m0XLMn3UHznHihI",
     "name": "THE LION'S DEEN",
+    "duration_ms": 155124,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Lupe Fiasco",
     "album": "DRILL MUSIC IN ZION",
     "bpm": 63.16,
@@ -31,6 +34,9 @@
   {
     "id": "6ZLp4KlQEtm7WxfyVQfp9U",
     "name": "GHOTI",
+    "duration_ms": 111021,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Lupe Fiasco",
     "album": "DRILL MUSIC IN ZION",
     "bpm": 83.131,
@@ -60,6 +66,9 @@
   {
     "id": "3G9CA8tztFAwHCwE004dI3",
     "name": "AUTOBOTO",
+    "duration_ms": 270040,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Lupe Fiasco",
     "album": "DRILL MUSIC IN ZION",
     "bpm": 124.045,
@@ -89,6 +98,9 @@
   {
     "id": "7tcJBOwxqt3DxhCNuZq3gU",
     "name": "PRECIOUS THINGS",
+    "duration_ms": 260519,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Lupe Fiasco",
     "album": "DRILL MUSIC IN ZION",
     "bpm": 128.233,
@@ -118,6 +130,9 @@
   {
     "id": "1VSnAypC094ySYAVR8DdzJ",
     "name": "KIOSK",
+    "duration_ms": 222466,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Lupe Fiasco",
     "album": "DRILL MUSIC IN ZION",
     "bpm": 86.247,
@@ -147,6 +162,9 @@
   {
     "id": "7mTBIRS3sgMHakyp1UFxZz",
     "name": "MS. MURAL",
+    "duration_ms": 332922,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Lupe Fiasco",
     "album": "DRILL MUSIC IN ZION",
     "bpm": 153.987,
@@ -176,6 +194,9 @@
   {
     "id": "2q4Vq5gPgWIHeAXEWKZELu",
     "name": "NAOMI",
+    "duration_ms": 177949,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Lupe Fiasco",
     "album": "DRILL MUSIC IN ZION",
     "bpm": 92.968,
@@ -205,6 +226,9 @@
   {
     "id": "3GrHP2CwUNecBc1SdVMTJ8",
     "name": "DRILL MUSIC IN ZION",
+    "duration_ms": 271883,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Lupe Fiasco",
     "album": "DRILL MUSIC IN ZION",
     "bpm": 78.856,
@@ -234,6 +258,9 @@
   {
     "id": "5It0Qpe4pVBbCs113i8AKq",
     "name": "SEATTLE",
+    "duration_ms": 316364,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Lupe Fiasco",
     "album": "DRILL MUSIC IN ZION",
     "bpm": 139.857,
@@ -263,6 +290,9 @@
   {
     "id": "0sCtBy5i9pZUwMq3Il1O4U",
     "name": "ON FAUX NEM",
+    "duration_ms": 338931,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Lupe Fiasco",
     "album": "DRILL MUSIC IN ZION",
     "bpm": 166.042,

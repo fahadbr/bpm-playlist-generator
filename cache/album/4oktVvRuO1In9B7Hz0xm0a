@@ -2,6 +2,9 @@
   {
     "id": "5hMR6jMlewdi9glfFc3L7q",
     "name": "Intro",
+    "duration_ms": 278028,
+    "explicit": false,
+    "track_number": 1,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 134.975,
@@ -31,6 +34,9 @@
   {
     "id": "4BVm9zEoX4Z73LeFAab0PC",
     "name": "Arrival in Nara",
+    "duration_ms": 253417,
+    "explicit": false,
+    "track_number": 2,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 119.523,
@@ -60,6 +66,9 @@
   {
     "id": "57tzAvfPHXHzCHUNp9AUBm",
     "name": "Nara",
+    "duration_ms": 296057,
+    "explicit": false,
+    "track_number": 3,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 146.968,
@@ -89,6 +98,9 @@
   {
     "id": "6BVBkKpZK09NmifUMZqj1z",
     "name": "Every Other Freckle",
+    "duration_ms": 216004,
+    "explicit": false,
+    "track_number": 4,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 143.915,
@@ -118,6 +130,9 @@
   {
     "id": "4iEOVEULZRvmzYSZY2ViKN",
     "name": "Left Hand Free",
+    "duration_ms": 173630,
+    "explicit": false,
+    "track_number": 5,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 101.99,
@@ -147,6 +162,9 @@
   {
     "id": "6onmdzTxsisLDtItnIS5WV",
     "name": "Garden of England - Interlude",
+    "duration_ms": 67684,
+    "explicit": false,
+    "track_number": 6,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 113.455,
@@ -176,6 +194,9 @@
   {
     "id": "2N7jeqGCdaPeXHuudTBO73",
     "name": "Choice Kingdom",
+    "duration_ms": 257497,
+    "explicit": false,
+    "track_number": 7,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 124.026,
@@ -205,6 +226,9 @@
   {
     "id": "2mkv1b3dRFyiJ4Ybq31owf",
     "name": "Hunger of the Pine",
+    "duration_ms": 299710,
+    "explicit": false,
+    "track_number": 8,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 93.618,
@@ -234,6 +258,9 @@
   {
     "id": "1YUcTZ0ehoHY6G6Prhcbj0",
     "name": "Warm Foothills",
+    "duration_ms": 225017,
+    "explicit": false,
+    "track_number": 9,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 92.997,
@@ -263,6 +290,9 @@
   {
     "id": "5QZJAcP4nu3xL2NQV4AVHO",
     "name": "The Gospel of John Hurt",
+    "duration_ms": 315524,
+    "explicit": false,
+    "track_number": 10,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 134.923,
@@ -292,6 +322,9 @@
   {
     "id": "2H6NbSsccvcT1j4jwAjDmf",
     "name": "Pusher",
+    "duration_ms": 209270,
+    "explicit": false,
+    "track_number": 11,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 114.685,
@@ -321,6 +354,9 @@
   {
     "id": "3TY8GltNNtMpDS3YY6tJqo",
     "name": "Bloodflood, Pt. II",
+    "duration_ms": 319497,
+    "explicit": false,
+    "track_number": 12,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 120.016,
@@ -350,6 +386,9 @@
   {
     "id": "1ngGQNvLajpyVVzFdx47Pa",
     "name": "Leaving Nara",
+    "duration_ms": 180830,
+    "explicit": false,
+    "track_number": 13,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 120.158,
@@ -379,6 +418,9 @@
   {
     "id": "4OxtqhSBnOsgGc1yfYAfOn",
     "name": "Lovely Day",
+    "duration_ms": 241545,
+    "explicit": false,
+    "track_number": 14,
     "artist": "alt-J",
     "album": "This Is All Yours",
     "bpm": 97.847,

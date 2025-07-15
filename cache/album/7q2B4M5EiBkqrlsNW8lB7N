@@ -2,6 +2,9 @@
   {
     "id": "0GQQzmMNA7JE4tOdcSFh1C",
     "name": "Lolo - Intro",
+    "duration_ms": 41053,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 72.949,
@@ -31,6 +34,9 @@
   {
     "id": "1iQ5E4z6CJ38dIzvMI9Wdo",
     "name": "The Watcher",
+    "duration_ms": 206546,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 97.582,
@@ -60,6 +66,9 @@
   {
     "id": "4FI0rdztOAYJZMupujL5Gp",
     "name": "Fuck You",
+    "duration_ms": 205453,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 92.236,
@@ -89,6 +98,9 @@
   {
     "id": "503OTo2dSqe7qk76rgsbep",
     "name": "Still D.R.E.",
+    "duration_ms": 270586,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 93.431,
@@ -118,6 +130,9 @@
   {
     "id": "2BMRUAA1oTc7e9JPlr6xbZ",
     "name": "Big Ego's",
+    "duration_ms": 238306,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 88.69,
@@ -147,6 +162,9 @@
   {
     "id": "0Ed7MeXx64f6OcIuoTRCg1",
     "name": "Xxplosive",
+    "duration_ms": 215200,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 168.96,
@@ -176,6 +194,9 @@
   {
     "id": "1SWVDBtw6h3tm9OehOkDhv",
     "name": "What's The Difference",
+    "duration_ms": 244200,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 91.921,
@@ -205,6 +226,9 @@
   {
     "id": "0WWem437MQdylQuXxzE80H",
     "name": "Bar One",
+    "duration_ms": 50653,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 81.328,
@@ -234,6 +258,9 @@
   {
     "id": "1WvuZsXHaH2qNAtvrQY6SX",
     "name": "Light Speed",
+    "duration_ms": 160973,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 86.375,
@@ -263,6 +290,9 @@
   {
     "id": "7iXF2W9vKmDoGAhlHdpyIa",
     "name": "Forgot About Dre",
+    "duration_ms": 222293,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 133.974,
@@ -292,6 +322,9 @@
   {
     "id": "4LwU4Vp6od3Sb08CsP99GC",
     "name": "The Next Episode",
+    "duration_ms": 161506,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 95.295,
@@ -321,6 +354,9 @@
   {
     "id": "0EZMXJMWf0tLKRWwCiA6Sx",
     "name": "Let's Get High",
+    "duration_ms": 147426,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 99.375,
@@ -350,6 +386,9 @@
   {
     "id": "5XkeTGKcCkGF8l6fA9YpsS",
     "name": "Bitch Niggaz",
+    "duration_ms": 253560,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 75.888,
@@ -379,6 +418,9 @@
   {
     "id": "4PX9Ga99IMqlbgKucTxupc",
     "name": "The Car Bomb",
+    "duration_ms": 60893,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 87.816,
@@ -408,6 +450,9 @@
   {
     "id": "0zkE78jc1kjLXrTYd9ZxpO",
     "name": "Murder Ink",
+    "duration_ms": 148293,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 88.152,
@@ -437,6 +482,9 @@
   {
     "id": "0J2u6TAolef5gZEVy1HErU",
     "name": "Ed-Ucation",
+    "duration_ms": 92146,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 168.791,
@@ -466,6 +514,9 @@
   {
     "id": "4VZPYvMTByQytb6F3MKP4w",
     "name": "Some L.A. Niggaz",
+    "duration_ms": 265213,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 88.824,
@@ -495,6 +546,9 @@
   {
     "id": "6ALtdfVnklY8xp9bUBKVEP",
     "name": "Pause 4 Porno",
+    "duration_ms": 92680,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 79.72,
@@ -524,6 +578,9 @@
   {
     "id": "0Wik64zBKFTNoNjTpG70OH",
     "name": "Housewife",
+    "duration_ms": 242680,
+    "explicit": true,
+    "track_number": 19,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 92.892,
@@ -553,6 +610,9 @@
   {
     "id": "4NGS3j6JmOx6VUaXt6VQbj",
     "name": "Ackrite",
+    "duration_ms": 219933,
+    "explicit": true,
+    "track_number": 20,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 94.229,
@@ -582,6 +642,9 @@
   {
     "id": "2sXaZphe2LlqAyZVKvHbU1",
     "name": "Bang Bang",
+    "duration_ms": 222320,
+    "explicit": true,
+    "track_number": 21,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 95.323,
@@ -611,6 +674,9 @@
   {
     "id": "6WgxXdBZrtdQFGBcxQxpiv",
     "name": "The Message",
+    "duration_ms": 304026,
+    "explicit": false,
+    "track_number": 22,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 82.448,
@@ -640,6 +706,9 @@
   {
     "id": "4rmK0BSBLMiwNJ6iwWXJm1",
     "name": "Outro",
+    "duration_ms": 25746,
+    "explicit": false,
+    "track_number": 23,
     "artist": "Dr. Dre",
     "album": "2001",
     "bpm": 80.966,

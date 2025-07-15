@@ -2,6 +2,9 @@
   {
     "id": "5EHhkMTHKGpURNo32lDXFQ",
     "name": "Baba Says Cool for Thought",
+    "duration_ms": 46920,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 77.146,
@@ -31,6 +34,9 @@
   {
     "id": "3VkAjkB2HYkXyrCqj3ZG3m",
     "name": "Free Chilly (feat. Sarah Green & GemStones) - Interlude",
+    "duration_ms": 62026,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 135.774,
@@ -60,6 +66,9 @@
   {
     "id": "2aLVUQS8wipdinBxqm5YBE",
     "name": "Go Go Gadget Flow",
+    "duration_ms": 250386,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 148.014,
@@ -89,6 +98,9 @@
   {
     "id": "1R6nmC4HUGOGSKU02Wqa0v",
     "name": "The Coolest",
+    "duration_ms": 312933,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 88.535,
@@ -118,6 +130,9 @@
   {
     "id": "7dltD9eEX7X1zk8JJ9BS0e",
     "name": "Superstar (feat. Matthew Santos)",
+    "duration_ms": 289000,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 94.812,
@@ -147,6 +162,9 @@
   {
     "id": "2dXME00xUY1CRcMZsM3Y4q",
     "name": "Paris, Tokyo",
+    "duration_ms": 270653,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 90.011,
@@ -176,6 +194,9 @@
   {
     "id": "5TwtHTqjpEqHmePcCX9XZr",
     "name": "Hi-Definition (feat. Snoop Dogg & Pooh Bear)",
+    "duration_ms": 231786,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 102.7,
@@ -205,6 +226,9 @@
   {
     "id": "2DGMORz6TjhKgCYM7quaZh",
     "name": "Gold Watch",
+    "duration_ms": 252600,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 84.036,
@@ -234,6 +258,9 @@
   {
     "id": "6N3oYlfZ2RPdjMYdHCRmFS",
     "name": "Hip-Hop Saved My Life (feat. Nikki Jean)",
+    "duration_ms": 242506,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 100.006,
@@ -263,6 +290,9 @@
   {
     "id": "2fjOaSt26CeQCCCgn8brsH",
     "name": "Intruder Alert (feat. Sarah Green)",
+    "duration_ms": 240280,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 139.387,
@@ -292,6 +322,9 @@
   {
     "id": "1fNpOEgu770UrRTzeVsKZT",
     "name": "Streets on Fire",
+    "duration_ms": 279973,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 110.091,
@@ -321,6 +354,9 @@
   {
     "id": "7sb2qiE0af4NggQPa5FkYY",
     "name": "Little Weapon (feat. Bishop G & Nikki Jean)",
+    "duration_ms": 245853,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 109.958,
@@ -350,6 +386,9 @@
   {
     "id": "3UZH1lr5vx7S19ilecUtwj",
     "name": "Gotta Eat",
+    "duration_ms": 204173,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 97.45,
@@ -379,6 +418,9 @@
   {
     "id": "0SPUNC31ZXVbadaj4M5TfD",
     "name": "Dumb It Down (feat. GemStones & Graham Burris)",
+    "duration_ms": 243746,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 95.114,
@@ -408,6 +450,9 @@
   {
     "id": "5ki2p4PK1nQgTmf3TRSREu",
     "name": "Hello/Goodbye (Uncool) [feat. Unkle]",
+    "duration_ms": 266626,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 114.289,
@@ -437,6 +482,9 @@
   {
     "id": "15Y3wFvRKbbnxrsCALs8AH",
     "name": "The Die (feat. GemStones)",
+    "duration_ms": 203106,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 133.874,
@@ -466,6 +514,9 @@
   {
     "id": "5PlYCPa9eV21gJcK5cQiZi",
     "name": "Put You on Game",
+    "duration_ms": 182693,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 83.326,
@@ -495,6 +546,9 @@
   {
     "id": "2Kh1dZBgQAJQ2ZQ6AjMQdp",
     "name": "Fighters (feat. Matthew Santos)",
+    "duration_ms": 213333,
+    "explicit": false,
+    "track_number": 18,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 140.061,
@@ -524,6 +578,9 @@
   {
     "id": "0QtbNh8K4XVc7SPahj3uVK",
     "name": "Go Baby (feat. GemStones)",
+    "duration_ms": 216613,
+    "explicit": false,
+    "track_number": 19,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
     "bpm": 199.975,

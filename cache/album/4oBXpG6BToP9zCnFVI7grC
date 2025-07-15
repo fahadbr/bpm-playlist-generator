@@ -2,6 +2,9 @@
   {
     "id": "1iWlsw0aBRcA3QC2EUL5fa",
     "name": "Signal",
+    "duration_ms": 80586,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 78.446,
@@ -31,6 +34,9 @@
   {
     "id": "4FsWoZeIT9gSUwyKJ7Spm7",
     "name": "Dim",
+    "duration_ms": 298733,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 124.889,
@@ -60,6 +66,9 @@
   {
     "id": "3r6MviU8n8uT1BgUgIM6hG",
     "name": "Out Of Time",
+    "duration_ms": 297093,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 105.038,
@@ -89,6 +98,9 @@
   {
     "id": "5sS2oFoXnmzPTR8JME0C0k",
     "name": "Synthetic Hands",
+    "duration_ms": 341706,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 129.23,
@@ -118,6 +130,9 @@
   {
     "id": "5UO3LeB1sz4UX2lg5kiIxi",
     "name": "Blind Side",
+    "duration_ms": 397853,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 162.074,
@@ -147,6 +162,9 @@
   {
     "id": "09NLaoYyUMXsVoG7h4i5bg",
     "name": "Disengage/Evacuate",
+    "duration_ms": 372826,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 134.947,
@@ -176,6 +194,9 @@
   {
     "id": "6yOR097vhG2T36dVfOZbaW",
     "name": "Ethos",
+    "duration_ms": 249280,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 174.949,
@@ -205,6 +226,9 @@
   {
     "id": "4NLEnWTP9qZlLTnsqqEEtv",
     "name": "Ugly Heart",
+    "duration_ms": 268853,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 99.899,
@@ -234,6 +258,9 @@
   {
     "id": "0ybyHATXsFVfjS1PVeP4Qr",
     "name": "The Reckoning",
+    "duration_ms": 384880,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 123.982,
@@ -263,6 +290,9 @@
   {
     "id": "5IJ1s6SgH6ocG1fm3bU0nf",
     "name": "Dissent",
+    "duration_ms": 214546,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 105.022,
@@ -292,6 +322,9 @@
   {
     "id": "24g68keL0lCNBjXWjOx0bY",
     "name": "Menace",
+    "duration_ms": 289453,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 199.691,
@@ -321,6 +354,9 @@
   {
     "id": "6DEDxfQxCwMU6TB0BGTnaH",
     "name": "Temptress",
+    "duration_ms": 135773,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 100.01,
@@ -350,6 +386,9 @@
   {
     "id": "4XEHbWMQGBzDLdlplZCwqZ",
     "name": "Sunshine Dust",
+    "duration_ms": 379013,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
     "bpm": 119.925,

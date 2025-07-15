@@ -2,6 +2,9 @@
   {
     "id": "41hwbZ1yF705MxJ7H9bwEu",
     "name": "No Pressure Intro",
+    "duration_ms": 174900,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 93.939,
@@ -31,6 +34,9 @@
   {
     "id": "24FR8mXTaiGZPrxnkf1kcP",
     "name": "Hit My Line",
+    "duration_ms": 265190,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 164.057,
@@ -60,6 +66,9 @@
   {
     "id": "1OmmCrliFMIWzNke437KHE",
     "name": "GP4",
+    "duration_ms": 274060,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 85.009,
@@ -89,6 +98,9 @@
   {
     "id": "1zjSuvvLpPoJwnywiFIX7E",
     "name": "Celebration",
+    "duration_ms": 230435,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 179.827,
@@ -118,6 +130,9 @@
   {
     "id": "4L6QpiLxCLok9wZfFIdiqF",
     "name": "Open Mic\\\\Aquarius III",
+    "duration_ms": 303930,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 89.876,
@@ -147,6 +162,9 @@
   {
     "id": "7e0nXDIIa6hFqI4HmuanLP",
     "name": "Soul Food II",
+    "duration_ms": 333777,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 87.412,
@@ -176,6 +194,9 @@
   {
     "id": "5jbDih9bLGmI8ycUKkN5XA",
     "name": "Perfect",
+    "duration_ms": 100291,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 159.943,
@@ -205,6 +226,9 @@
   {
     "id": "0ERnYArznxdTBEIj1VSta8",
     "name": "man i is",
+    "duration_ms": 269231,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 74.999,
@@ -234,6 +258,9 @@
   {
     "id": "2Wf2u3sZ8rR1sdiBuSbeR0",
     "name": "DadBod",
+    "duration_ms": 294748,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 92.272,
@@ -263,6 +290,9 @@
   {
     "id": "7ikkUWdCqtyEGgSPyVxePq",
     "name": "5 Hooks",
+    "duration_ms": 232921,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 81.491,
@@ -292,6 +322,9 @@
   {
     "id": "6RIe8KbX9YMO9hFSuowqII",
     "name": "Dark Place",
+    "duration_ms": 195322,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 86.001,
@@ -321,6 +354,9 @@
   {
     "id": "7oFnyYm3SIqDJCAYAA1oZI",
     "name": "A2Z",
+    "duration_ms": 188640,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 88.833,
@@ -350,6 +386,9 @@
   {
     "id": "6KASl3S3bdyrn8GxjlVimb",
     "name": "Heard Em Say",
+    "duration_ms": 216000,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 86.828,
@@ -379,6 +418,9 @@
   {
     "id": "7JcQlgYb0bewNr7autv7gm",
     "name": "Amen",
+    "duration_ms": 146771,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 170.339,
@@ -408,6 +450,9 @@
   {
     "id": "6K2WirQZkriGBTliRuL7Y7",
     "name": "Obediently Yours",
+    "duration_ms": 369362,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Logic",
     "album": "No Pressure",
     "bpm": 85.258,

@@ -2,6 +2,9 @@
   {
     "id": "2QeQNF182V61Im0QpjdVta",
     "name": "Pornography",
+    "duration_ms": 231826,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 129.065,
@@ -31,6 +34,9 @@
   {
     "id": "2rMFawCg4BW65jzbwztXAV",
     "name": "Oh My Dis Side (feat. Quavo)",
+    "duration_ms": 351253,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 126.014,
@@ -60,6 +66,9 @@
   {
     "id": "1SGt65i9AnXYdDQt1AtDRH",
     "name": "3500 (feat. Future & 2 Chainz)",
+    "duration_ms": 461840,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 123.973,
@@ -89,6 +98,9 @@
   {
     "id": "3dtBVBClM5ms0qCBBrqpUb",
     "name": "Wasted (feat. Juicy J)",
+    "duration_ms": 235680,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 134.931,
@@ -118,6 +130,9 @@
   {
     "id": "51EC3I1nQXpec4gDk0mQyP",
     "name": "90210 (feat. Kacy Hill)",
+    "duration_ms": 339066,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 81.42,
@@ -147,6 +162,9 @@
   {
     "id": "2dJ4rGtsOHOgvTQawsCRtg",
     "name": "Pray 4 Love (feat. The Weeknd)",
+    "duration_ms": 307000,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 79.94,
@@ -176,6 +194,9 @@
   {
     "id": "3xby7fOyqmeON8jsnom0AT",
     "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
+    "duration_ms": 321560,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 124.055,
@@ -205,6 +226,9 @@
   {
     "id": "5H25xsIuRWUI8GwcoAoeSG",
     "name": "Piss On Your Grave (feat. Kanye West)",
+    "duration_ms": 166320,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 116.876,
@@ -234,6 +258,9 @@
   {
     "id": "1wHZx0LgzFHyeIZkUydNXq",
     "name": "Antidote",
+    "duration_ms": 262693,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 131.046,
@@ -263,6 +290,9 @@
   {
     "id": "0IabpxMpUV7waD7U4uDIMJ",
     "name": "Impossible",
+    "duration_ms": 242506,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 147.949,
@@ -292,6 +322,9 @@
   {
     "id": "6Yqmv7XJLCrQEauMbPGZSw",
     "name": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
+    "duration_ms": 349933,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 105.989,
@@ -321,6 +354,9 @@
   {
     "id": "6HszFW6X5wM8DKX1SO0LaK",
     "name": "Flying High (feat. Toro y Moi)",
+    "duration_ms": 208626,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 130.015,
@@ -350,6 +386,9 @@
   {
     "id": "2hiuiI3ac0I5kJWtkeGHEL",
     "name": "I Can Tell",
+    "duration_ms": 235533,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 110.009,
@@ -379,6 +418,9 @@
   {
     "id": "6scpNkWEmUxmKY7nYjVLsX",
     "name": "Apple Pie",
+    "duration_ms": 219360,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 137.932,
@@ -408,6 +450,9 @@
   {
     "id": "0MRZ9nMoLc7qQ8Nhovv8C8",
     "name": "Ok Alright (feat. ScHoolboy Q)",
+    "duration_ms": 417693,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 122.482,
@@ -437,6 +482,9 @@
   {
     "id": "3jg8bevUzKYONDLBBQquif",
     "name": "Never Catch Me",
+    "duration_ms": 176160,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Travis Scott",
     "album": "Rodeo",
     "bpm": 99.058,

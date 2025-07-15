@@ -2,6 +2,9 @@
   {
     "id": "7egu63DOhNpivWOpGtzqGS",
     "name": "Lamb's Wool",
+    "duration_ms": 276360,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Foster The People",
     "album": "Lamb's Wool",
     "bpm": 178.751,

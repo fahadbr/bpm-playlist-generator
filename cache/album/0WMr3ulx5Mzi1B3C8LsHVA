@@ -2,6 +2,9 @@
   {
     "id": "0cdXG7PwSUOv19gF6dMv5n",
     "name": "illuminatro",
+    "duration_ms": 48133,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Logic",
     "album": "Bobby Tarantino",
     "bpm": 82.099,
@@ -31,6 +34,9 @@
   {
     "id": "2c8sgbZoEanC3QyFNZxUcA",
     "name": "Flexicution",
+    "duration_ms": 218946,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Logic",
     "album": "Bobby Tarantino",
     "bpm": 159.839,
@@ -60,6 +66,9 @@
   {
     "id": "4dVJyyeCPEONr44NIrXvie",
     "name": "The Jam",
+    "duration_ms": 238400,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Logic",
     "album": "Bobby Tarantino",
     "bpm": 149.08,
@@ -89,6 +98,9 @@
   {
     "id": "4Mr73gFwZUeFnrfRov23we",
     "name": "Slave II",
+    "duration_ms": 196893,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Logic",
     "album": "Bobby Tarantino",
     "bpm": 90.507,
@@ -118,6 +130,9 @@
   {
     "id": "1AdD7pFBsQICMHiQTz9uwV",
     "name": "A Word From Our Sponsor",
+    "duration_ms": 182440,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Logic",
     "album": "Bobby Tarantino",
     "bpm": 127.971,
@@ -147,6 +162,9 @@
   {
     "id": "7qT7NUDywO7vNJNTNxqWiN",
     "name": "Wrist",
+    "duration_ms": 205733,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Logic",
     "album": "Bobby Tarantino",
     "bpm": 139.988,
@@ -176,6 +194,9 @@
   {
     "id": "1py4qzrEEkOvU8uTHYLuOW",
     "name": "Super Mario World",
+    "duration_ms": 177680,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Logic",
     "album": "Bobby Tarantino",
     "bpm": 131.964,
@@ -205,6 +226,9 @@
   {
     "id": "7mfLCMIvu0cZVNpvdXEVT5",
     "name": "Studio Ambience At Night: Malibu",
+    "duration_ms": 56360,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Logic",
     "album": "Bobby Tarantino",
     "bpm": 79.807,
@@ -234,6 +258,9 @@
   {
     "id": "4s2BWgnSQ9NZiOQM4PP4HB",
     "name": "44 Bars",
+    "duration_ms": 182266,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Logic",
     "album": "Bobby Tarantino",
     "bpm": 94.128,
@@ -263,6 +290,9 @@
   {
     "id": "3SrUV8pxnW1QhMbbwegpwG",
     "name": "Slave",
+    "duration_ms": 179640,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Logic",
     "album": "Bobby Tarantino",
     "bpm": 122.986,
@@ -292,6 +322,9 @@
   {
     "id": "6pK86Tx0QqX0E64mKuDB5Q",
     "name": "Deeper Than Money",
+    "duration_ms": 257640,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Logic",
     "album": "Bobby Tarantino",
     "bpm": 90.109,

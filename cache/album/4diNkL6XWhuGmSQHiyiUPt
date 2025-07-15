@@ -2,6 +2,9 @@
   {
     "id": "0Do558uLLjB7D3aSP5Ho9u",
     "name": "Save the Children",
+    "duration_ms": 215167,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 171.794,
@@ -31,6 +34,9 @@
   {
     "id": "7hcw6rldYNF8Uqvbz8WhI3",
     "name": "Greenbax (Introlude)",
+    "duration_ms": 48492,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 85.939,
@@ -60,6 +66,9 @@
   {
     "id": "23bOfmnZiN42pB1frXNyak",
     "name": "Paper Trail$",
+    "duration_ms": 194738,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 93.62,
@@ -89,6 +98,9 @@
   {
     "id": "0pVxLnmqEphwVMRspv5N7Y",
     "name": "Piece of Mind",
+    "duration_ms": 218634,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 88.733,
@@ -118,6 +130,9 @@
   {
     "id": "3wnAMgb3pkn4O3gYYLP5db",
     "name": "Big Dusty",
+    "duration_ms": 293360,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 81.05,
@@ -147,6 +162,9 @@
   {
     "id": "637UDCAD6UE0Ik3s039Ppi",
     "name": "Hazeus View",
+    "duration_ms": 219504,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 89.807,
@@ -176,6 +194,9 @@
   {
     "id": "7BeoNED8yeNC7pCuA30fGs",
     "name": "Like Me",
+    "duration_ms": 266382,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 90.892,
@@ -205,6 +226,9 @@
   {
     "id": "6Wy4rMZYocgmnaCYTpZc4n",
     "name": "Belly of the Beast",
+    "duration_ms": 236518,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 89.228,
@@ -234,6 +258,9 @@
   {
     "id": "1gy1Uhh6UP8AYeCFQSENm1",
     "name": "No. 99",
+    "duration_ms": 171125,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 101.448,
@@ -263,6 +290,9 @@
   {
     "id": "6v4s7JosY38tu0hTZGpgrx",
     "name": "Christ Conscious",
+    "duration_ms": 173793,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 86.798,
@@ -292,6 +322,9 @@
   {
     "id": "6hYCHgEJMiTtVTKhfZTOrH",
     "name": "On & On",
+    "duration_ms": 280828,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 91.946,
@@ -321,6 +354,9 @@
   {
     "id": "2x9Mt52XXFU3i654kjaZ7x",
     "name": "Escape 120",
+    "duration_ms": 227786,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 76.515,
@@ -350,6 +386,9 @@
   {
     "id": "0Dp8tLOg4I1jNaB40H8atR",
     "name": "Black Beetles",
+    "duration_ms": 230765,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 63.464,
@@ -379,6 +418,9 @@
   {
     "id": "3cTjrgUbe9WzdEvkLJQE5d",
     "name": "O.C.B.",
+    "duration_ms": 223050,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 148.747,
@@ -408,6 +450,9 @@
   {
     "id": "0xRQcaFxNETdmB0mIpAkuU",
     "name": "Curry Chicken",
+    "duration_ms": 213330,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 140.04,
@@ -437,6 +482,9 @@
   {
     "id": "3rJILRCvM7tfTXwHdNaMVl",
     "name": "Run up on Ya - Bonus",
+    "duration_ms": 248319,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 81.934,
@@ -466,6 +514,9 @@
   {
     "id": "0RZx763PZaGsBI66gSnW44",
     "name": "Teach Me",
+    "duration_ms": 258919,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Joey Bada$$",
     "album": "B4.Da.$$",
     "bpm": 76.991,

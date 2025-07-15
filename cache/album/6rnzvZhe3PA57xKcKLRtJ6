@@ -2,6 +2,9 @@
   {
     "id": "74fpNVAJrKGQuqHETi4WSt",
     "name": "Tennis Court",
+    "duration_ms": 198907,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 89.991,
@@ -31,6 +34,9 @@
   {
     "id": "6rjtB7KSIiJ6v9vrACMlqF",
     "name": "400 Lux",
+    "duration_ms": 234286,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 183.95,
@@ -60,6 +66,9 @@
   {
     "id": "2dLLR6qlu5UJ5gk0dKz0h3",
     "name": "Royals",
+    "duration_ms": 190185,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 84.876,
@@ -89,6 +98,9 @@
   {
     "id": "2MvvoeRt8NcOXWESkxWn3g",
     "name": "Ribs",
+    "duration_ms": 258969,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 127.945,
@@ -118,6 +130,9 @@
   {
     "id": "51QEyJI5M7uyd8DOh9tqQY",
     "name": "Buzzcut Season",
+    "duration_ms": 246755,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 111.039,
@@ -147,6 +162,9 @@
   {
     "id": "3G6hD9B2ZHOsgf4WfNu7X1",
     "name": "Team",
+    "duration_ms": 193058,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 99.984,
@@ -176,6 +194,9 @@
   {
     "id": "60jI0JgMLLj1VggHJVhtRs",
     "name": "Glory And Gore",
+    "duration_ms": 210737,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 143.947,
@@ -205,6 +226,9 @@
   {
     "id": "5TRZnGsX49uCZkXxIbD7Ru",
     "name": "Still Sane",
+    "duration_ms": 188133,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 130.255,
@@ -234,6 +258,9 @@
   {
     "id": "35kahykNu00FPysz3C2euR",
     "name": "White Teeth Teens",
+    "duration_ms": 216600,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 113.992,
@@ -263,6 +290,9 @@
   {
     "id": "55N0YHhO55Q1lWsc4dDPcI",
     "name": "A World Alone",
+    "duration_ms": 294222,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 118.01,
@@ -292,6 +322,9 @@
   {
     "id": "1vbnYODenOFCFWxYNRYw1N",
     "name": "Bravado",
+    "duration_ms": 221408,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 87.967,
@@ -321,6 +354,9 @@
   {
     "id": "2rRyDXEaZwUkr4DHZpAdRS",
     "name": "Million Dollar Bills",
+    "duration_ms": 138210,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 82.044,
@@ -350,6 +386,9 @@
   {
     "id": "2HotTAoFiOYTeMZkNs1Ces",
     "name": "The Love Club",
+    "duration_ms": 201433,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 92.032,
@@ -379,6 +418,9 @@
   {
     "id": "2bQorkqtGzEJatTcD8I1F0",
     "name": "Biting Down",
+    "duration_ms": 213665,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 116.03,
@@ -408,6 +450,9 @@
   {
     "id": "3YYwrOdeMEvmHBWHJ0TmB6",
     "name": "Swingin Party",
+    "duration_ms": 222362,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "bpm": 107.472,

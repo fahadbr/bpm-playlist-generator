@@ -2,6 +2,9 @@
   {
     "id": "1gXH8hT9dxsBqbRy7h2iC8",
     "name": "F*ck Your Ethnicity",
+    "duration_ms": 224671,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 150.967,
@@ -31,6 +34,9 @@
   {
     "id": "6cfVDaIdvDtYH91RqC6Wox",
     "name": "Hol' Up",
+    "duration_ms": 173158,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 155.983,
@@ -60,6 +66,9 @@
   {
     "id": "2Fw5S2gaOSZzdN5dFoC2dj",
     "name": "A.D.H.D",
+    "duration_ms": 215509,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 157.74,
@@ -89,6 +98,9 @@
   {
     "id": "3L2YOO6dDiB91M1AbQ0CCR",
     "name": "No Make-Up (Her Vice)",
+    "duration_ms": 235921,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 91.002,
@@ -118,6 +130,9 @@
   {
     "id": "22gXA7HlEd0z13zdc3hju7",
     "name": "Tammy's Song (Her Evils)",
+    "duration_ms": 161670,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 97.317,
@@ -147,6 +162,9 @@
   {
     "id": "3DBFOXJKitLKUjlyOCX7ow",
     "name": "Chapter Six",
+    "duration_ms": 161137,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 67.9,
@@ -176,6 +194,9 @@
   {
     "id": "71d1KcqByBe8cl0NhFUKVU",
     "name": "Ronald Reagan Era",
+    "duration_ms": 216899,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 167.469,
@@ -205,6 +226,9 @@
   {
     "id": "5eOmhymcp3AisKPVAytrs6",
     "name": "Poe Mans Dreams (His Vice)",
+    "duration_ms": 261874,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 88.124,
@@ -234,6 +258,9 @@
   {
     "id": "12bCgkFnyyTI8B1OmmRhbx",
     "name": "The Spiteful Chant",
+    "duration_ms": 320957,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 127.018,
@@ -263,6 +290,9 @@
   {
     "id": "63OYaVrz3LIarx3l2DxCKD",
     "name": "Chapter Ten",
+    "duration_ms": 75535,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 135.772,
@@ -292,6 +322,9 @@
   {
     "id": "7AaET28qSzlkFBcySHh4ES",
     "name": "Keisha's Song (Her Pain)",
+    "duration_ms": 227291,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 85.126,
@@ -321,6 +354,9 @@
   {
     "id": "2lD6AoA8qf2t4Dkf2TcmNK",
     "name": "Rigamortus",
+    "duration_ms": 168591,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 178.012,
@@ -350,6 +386,9 @@
   {
     "id": "2QVYTN3Z0IGLVF7YEQN5EJ",
     "name": "Kush & Corinthians",
+    "duration_ms": 304668,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 176.781,
@@ -379,6 +418,9 @@
   {
     "id": "1FRF0NHXBW4ecdulGkTzJY",
     "name": "Blow My High (Members Only)",
+    "duration_ms": 215791,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 119.933,
@@ -408,6 +450,9 @@
   {
     "id": "4VaL54I6TlzghRTzOhfr7L",
     "name": "Ab-Souls Outro",
+    "duration_ms": 350001,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 115.79,
@@ -437,6 +482,9 @@
   {
     "id": "4WEuEfFiczWxblHyuucSBL",
     "name": "HiiiPower",
+    "duration_ms": 279854,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "bpm": 81.024,

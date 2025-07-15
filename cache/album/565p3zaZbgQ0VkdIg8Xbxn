@@ -2,6 +2,9 @@
   {
     "id": "0I356NtjAiRMgJKmm4a6N5",
     "name": "Node",
+    "duration_ms": 211773,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Between The Buried And Me",
     "album": "Coma Ecliptic",
     "bpm": 119.975,
@@ -31,6 +34,9 @@
   {
     "id": "5EM6ySpK1SYeof4jm72psM",
     "name": "The Coma Machine",
+    "duration_ms": 455920,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Between The Buried And Me",
     "album": "Coma Ecliptic",
     "bpm": 145.088,
@@ -60,6 +66,9 @@
   {
     "id": "2AiZaE2Yo39nxDfJWiSW18",
     "name": "Dim Ignition",
+    "duration_ms": 136066,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Between The Buried And Me",
     "album": "Coma Ecliptic",
     "bpm": 120.028,
@@ -89,6 +98,9 @@
   {
     "id": "6IeXWJ2CKX8Dnir6pRk6U0",
     "name": "Famine Wolf",
+    "duration_ms": 410826,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Between The Buried And Me",
     "album": "Coma Ecliptic",
     "bpm": 125.152,
@@ -118,6 +130,9 @@
   {
     "id": "6gynm3KKVG9YniU1Kh5aAw",
     "name": "King Redeem / Queen Serene",
+    "duration_ms": 418813,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Between The Buried And Me",
     "album": "Coma Ecliptic",
     "bpm": 147.835,
@@ -147,6 +162,9 @@
   {
     "id": "4FBNrDv4VRSIzAaWflx7p2",
     "name": "Turn on the Darkness",
+    "duration_ms": 506733,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Between The Buried And Me",
     "album": "Coma Ecliptic",
     "bpm": 170.279,
@@ -176,6 +194,9 @@
   {
     "id": "7HttAGuRTcBF7Yz40kzlWh",
     "name": "The Ectopic Stroll",
+    "duration_ms": 422973,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Between The Buried And Me",
     "album": "Coma Ecliptic",
     "bpm": 110.002,
@@ -205,6 +226,9 @@
   {
     "id": "3XWE46KG9q1F8RwU4P2fMQ",
     "name": "Rapid Calm",
+    "duration_ms": 479600,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Between The Buried And Me",
     "album": "Coma Ecliptic",
     "bpm": 149.608,
@@ -234,6 +258,9 @@
   {
     "id": "3ffqeRAPY7QKEDHdtv5O3s",
     "name": "Memory Palace",
+    "duration_ms": 594453,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Between The Buried And Me",
     "album": "Coma Ecliptic",
     "bpm": 92.516,
@@ -263,6 +290,9 @@
   {
     "id": "3nZahP20mwGWzIsuOL34lW",
     "name": "Option Oblivion",
+    "duration_ms": 262320,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Between The Buried And Me",
     "album": "Coma Ecliptic",
     "bpm": 89.976,
@@ -292,6 +322,9 @@
   {
     "id": "462J9jOoMZfAjzxWiSSq2E",
     "name": "Life in Velvet",
+    "duration_ms": 218520,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Between The Buried And Me",
     "album": "Coma Ecliptic",
     "bpm": 115.02,

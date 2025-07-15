@@ -2,6 +2,9 @@
   {
     "id": "55u5QIlEuzCipJBtZPdJio",
     "name": "Renaissance",
+    "duration_ms": 98152,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 199.226,
@@ -31,6 +34,9 @@
   {
     "id": "7I3RalBqE7ZE0RSxgGlGlm",
     "name": "Habits",
+    "duration_ms": 298384,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 100.005,
@@ -60,6 +66,9 @@
   {
     "id": "59151GHN7yr5g9B3bqlGdR",
     "name": "Trouble",
+    "duration_ms": 41487,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 82.652,
@@ -89,6 +98,9 @@
   {
     "id": "77pfjsq0gSZwO8bYVTVROo",
     "name": "Brand New Dance",
+    "duration_ms": 206649,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 119.977,
@@ -118,6 +130,9 @@
   {
     "id": "21LCotDEwR7R8qOnqPVzi9",
     "name": "Evil",
+    "duration_ms": 230358,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 80.538,
@@ -147,6 +162,9 @@
   {
     "id": "7y8n4wbMzsLMzTI6Qan02f",
     "name": "All You Got - skit",
+    "duration_ms": 24359,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 44.694,
@@ -176,6 +194,9 @@
   {
     "id": "50No7LiVffAJCWIChZodmU",
     "name": "Lucifer",
+    "duration_ms": 261758,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 79.144,
@@ -205,6 +226,9 @@
   {
     "id": "0DIcssPpatAMqFXLZCxZMN",
     "name": "Antichrist",
+    "duration_ms": 314226,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 98.558,
@@ -234,6 +258,9 @@
   {
     "id": "5In8B6Om5OKrhwBMB4tXSi",
     "name": "Fuel",
+    "duration_ms": 213646,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 137.981,
@@ -263,6 +290,9 @@
   {
     "id": "0bBnrokPXtfwXQarqCu1Gz",
     "name": "Road Rage",
+    "duration_ms": 217736,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 94.984,
@@ -292,6 +322,9 @@
   {
     "id": "1CDQzbCz4KSQxHe7LMEgRM",
     "name": "Houdini",
+    "duration_ms": 227032,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 126.992,
@@ -321,6 +354,9 @@
   {
     "id": "0TDXeyH0hdiz0SZQo5w1nm",
     "name": "Breaking News - skit",
+    "duration_ms": 37314,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 121.822,
@@ -350,6 +386,9 @@
   {
     "id": "3LkXOTWDwskwciQoARFDzu",
     "name": "Guilty Conscience 2",
+    "duration_ms": 325531,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 164.421,
@@ -379,6 +418,9 @@
   {
     "id": "7GXOXYdU950eRvk5rUAE8F",
     "name": "Head Honcho",
+    "duration_ms": 234836,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 172.683,
@@ -408,6 +450,9 @@
   {
     "id": "6uMGHQvhZq8YyT4kdnG1L3",
     "name": "Temporary",
+    "duration_ms": 297667,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 78.302,
@@ -437,6 +482,9 @@
   {
     "id": "15qnOSRK5HMWOgL5HURhrc",
     "name": "Bad One",
+    "duration_ms": 270006,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 145.775,
@@ -466,6 +514,9 @@
   {
     "id": "1ymWIr4E5x6xORlDO0bXlP",
     "name": "Tobey (feat. Big Sean and BabyTron)",
+    "duration_ms": 284903,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 139.117,
@@ -495,6 +546,9 @@
   {
     "id": "0cyN7uQYxTlqwgyh6rm1IH",
     "name": "Guess Who\u2019s Back - skit",
+    "duration_ms": 62868,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 79.664,
@@ -524,6 +578,9 @@
   {
     "id": "4HMUrFl8y6rQCzEbaGEkcj",
     "name": "Somebody Save Me",
+    "duration_ms": 230199,
+    "explicit": true,
+    "track_number": 19,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
     "bpm": 180.727,

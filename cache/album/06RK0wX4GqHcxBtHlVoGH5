@@ -2,6 +2,9 @@
   {
     "id": "6sCvvleqKbeyOkQDieBYgp",
     "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+    "duration_ms": 196520,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 177.115,
@@ -31,6 +34,9 @@
   {
     "id": "6KsDoI8iySmXQ6UaSPuAx4",
     "name": "Love & Loyalty (Believe)",
+    "duration_ms": 380053,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 111.99,
@@ -60,6 +66,9 @@
   {
     "id": "0AoBY2Y3qs6dtGgOD6c91N",
     "name": "Alone",
+    "duration_ms": 221746,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 89.955,
@@ -89,6 +98,9 @@
   {
     "id": "2yrtWT6W4KUMbfNtBcH8iN",
     "name": "No Woman No Cry",
+    "duration_ms": 213266,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 147.268,
@@ -118,6 +130,9 @@
   {
     "id": "5UaiWpx39E60GAsoAtICoV",
     "name": "\u00c1rboles Bajo El Mar",
+    "duration_ms": 261786,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 92.161,
@@ -147,6 +162,9 @@
   {
     "id": "2LSsSV7V33wM9EKQA2xjGS",
     "name": "Con La Brisa",
+    "duration_ms": 167386,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 113.818,
@@ -176,6 +194,9 @@
   {
     "id": "7rIMBY4ANvxLDJS1m1TzmH",
     "name": "La Vida",
+    "duration_ms": 157813,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 94.972,
@@ -205,6 +226,9 @@
   {
     "id": "2IWpTwTSmuVB6WjeuKN8Cl",
     "name": "Interlude",
+    "duration_ms": 138520,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 92.642,
@@ -234,6 +258,9 @@
   {
     "id": "5o77o7nTrQL1mWAyrvVMNI",
     "name": "Coming Back For You",
+    "duration_ms": 176293,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 100.274,
@@ -263,6 +290,9 @@
   {
     "id": "1rHGit66Qhs5JL3FjaNYsW",
     "name": "They Want It, But No",
+    "duration_ms": 157440,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 134.868,
@@ -292,6 +322,9 @@
   {
     "id": "02dF3qjpgTpmPCBKo72C06",
     "name": "Laayli' kuxa'ano'one",
+    "duration_ms": 224746,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 150.027,
@@ -321,6 +354,9 @@
   {
     "id": "1yIJZPDmD1HwxR6SJYYQWA",
     "name": "Limoncello",
+    "duration_ms": 154880,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 99.991,
@@ -350,6 +386,9 @@
   {
     "id": "4m8YqoUZLToSUjpNmb7m5X",
     "name": "Anya Mmiri",
+    "duration_ms": 188920,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 126.088,
@@ -379,6 +418,9 @@
   {
     "id": "11eM29CRUKqdlb6zHe13pP",
     "name": "Wake Up",
+    "duration_ms": 162826,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 100.063,
@@ -408,6 +450,9 @@
   {
     "id": "0JAxf6vf8Lppihm55k13zv",
     "name": "Pantera",
+    "duration_ms": 169906,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 179.934,
@@ -437,6 +482,9 @@
   {
     "id": "2CFGMjBuqypSwkDaYnrsk8",
     "name": "Jele",
+    "duration_ms": 229506,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 113.012,
@@ -466,6 +514,9 @@
   {
     "id": "7u2cPWo0974RudXZKDmdmT",
     "name": "Inframundo",
+    "duration_ms": 191773,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 157.08,
@@ -495,6 +546,9 @@
   {
     "id": "1p9R4HF2WGtZDISBxMwF3R",
     "name": "No Digas Mi Nombre",
+    "duration_ms": 222000,
+    "explicit": false,
+    "track_number": 18,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 96.746,
@@ -524,6 +578,9 @@
   {
     "id": "3c1YCQvr720s61gHPgtkv8",
     "name": "Mi Pueblo",
+    "duration_ms": 160480,
+    "explicit": false,
+    "track_number": 19,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 173.323,
@@ -553,6 +610,9 @@
   {
     "id": "18zQTt3ifDv6iLni2YuXMg",
     "name": "Born Again",
+    "duration_ms": 213333,
+    "explicit": false,
+    "track_number": 20,
     "artist": "Rihanna",
     "album": "Black Panther: Wakanda Forever - Music From and Inspired By",
     "bpm": 116.642,

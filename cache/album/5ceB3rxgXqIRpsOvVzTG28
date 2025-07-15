@@ -2,6 +2,9 @@
   {
     "id": "7g8S0N45Tkp7yE1WEWRwyu",
     "name": "Hold On, Be Strong",
+    "duration_ms": 72586,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 140.875,
@@ -31,6 +34,9 @@
   {
     "id": "1wYp8ISMvX8qrflPrBU9Yo",
     "name": "Return of the \"G\"",
+    "duration_ms": 289160,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 73.427,
@@ -60,6 +66,9 @@
   {
     "id": "0shK5iZQppbHPQYiy60xs9",
     "name": "Rosa Parks",
+    "duration_ms": 324373,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 103.89,
@@ -89,6 +98,9 @@
   {
     "id": "6EQ4orawx8eo0aXH0pOKLE",
     "name": "Skew It on the Bar-B (feat. Raekwon)",
+    "duration_ms": 195106,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 107.647,
@@ -118,6 +130,9 @@
   {
     "id": "4V3N5LvUOh3yDPP16cwAhE",
     "name": "Aquemini",
+    "duration_ms": 319240,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 89.197,
@@ -147,6 +162,9 @@
   {
     "id": "3sQDstyMhCcDJ3mY6onZez",
     "name": "Synthesizer (feat. George Clinton)",
+    "duration_ms": 311653,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 189.649,
@@ -176,6 +194,9 @@
   {
     "id": "4ufZSKCI84Pd2ZlWTJcu4i",
     "name": "Slump",
+    "duration_ms": 308733,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 92.904,
@@ -205,6 +226,9 @@
   {
     "id": "5yTQ7Vy6EwKwB64Vho90LI",
     "name": "West Savannah",
+    "duration_ms": 246280,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 84.942,
@@ -234,6 +258,9 @@
   {
     "id": "1KQymTxNJfWk6vCD5ywKW2",
     "name": "Da Art of Storytellin' (Pt. 1)",
+    "duration_ms": 222653,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 103.773,
@@ -263,6 +290,9 @@
   {
     "id": "2vjgepbkQg5jH8ujrKEOin",
     "name": "Da Art of Storytellin' (Pt. 2)",
+    "duration_ms": 172026,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 92.843,
@@ -292,6 +322,9 @@
   {
     "id": "32PWtlzKyvr3HcvJp1JFF5",
     "name": "Mamacita",
+    "duration_ms": 352506,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 167.863,
@@ -321,6 +354,9 @@
   {
     "id": "4GdB5M7GbwLZLouktYocFC",
     "name": "SpottieOttieDopaliscious",
+    "duration_ms": 426853,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 124.751,
@@ -350,6 +386,9 @@
   {
     "id": "5LAgMMJQ42fF8yKLKF3Wiw",
     "name": "Y'All Scared (feat. T-Mo, Big Gipp & Khujo)",
+    "duration_ms": 290173,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 87.275,
@@ -379,6 +418,9 @@
   {
     "id": "6NqUceA124QO9v5jYv0QCg",
     "name": "Nathaniel",
+    "duration_ms": 70280,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 101.221,
@@ -408,6 +450,9 @@
   {
     "id": "1H6S9OkozTNvcASUX4Bfgb",
     "name": "Liberation (with Cee-Lo)",
+    "duration_ms": 526373,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 157.596,
@@ -437,6 +482,9 @@
   {
     "id": "4mrR64jwacrmiZluhBelDB",
     "name": "Chonkyfire",
+    "duration_ms": 371253,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Outkast",
     "album": "Aquemini",
     "bpm": 90.966,

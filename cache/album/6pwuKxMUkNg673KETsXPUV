@@ -2,6 +2,9 @@
   {
     "id": "3aUFrxO1B8EW63QchEl3wX",
     "name": "Feel The Love",
+    "duration_ms": 165053,
+    "explicit": true,
+    "track_number": 1,
     "artist": "KIDS SEE GHOSTS",
     "album": "KIDS SEE GHOSTS",
     "bpm": 110.573,
@@ -31,6 +34,9 @@
   {
     "id": "7oHkit3F3vimtsBbnZkU0G",
     "name": "Fire",
+    "duration_ms": 140526,
+    "explicit": true,
+    "track_number": 2,
     "artist": "KIDS SEE GHOSTS",
     "album": "KIDS SEE GHOSTS",
     "bpm": 104.999,
@@ -60,6 +66,9 @@
   {
     "id": "6JyEh4kl9DLwmSAoNDRn5b",
     "name": "4th Dimension",
+    "duration_ms": 153351,
+    "explicit": true,
+    "track_number": 3,
     "artist": "KIDS SEE GHOSTS",
     "album": "KIDS SEE GHOSTS",
     "bpm": 171.945,
@@ -89,6 +98,9 @@
   {
     "id": "7GRTrWsP3yo2Fx8umJfA1X",
     "name": "Freeee (Ghost Town Pt. 2)",
+    "duration_ms": 206605,
+    "explicit": true,
+    "track_number": 4,
     "artist": "KIDS SEE GHOSTS",
     "album": "KIDS SEE GHOSTS",
     "bpm": 151.643,
@@ -118,6 +130,9 @@
   {
     "id": "4RVbK6cV0VqWdpCDcx3hiT",
     "name": "Reborn",
+    "duration_ms": 324674,
+    "explicit": true,
+    "track_number": 5,
     "artist": "KIDS SEE GHOSTS",
     "album": "KIDS SEE GHOSTS",
     "bpm": 100.051,
@@ -147,6 +162,9 @@
   {
     "id": "2I3dW2dCBZAJGj5X21E53k",
     "name": "Kids See Ghosts",
+    "duration_ms": 245098,
+    "explicit": true,
+    "track_number": 6,
     "artist": "KIDS SEE GHOSTS",
     "album": "KIDS SEE GHOSTS",
     "bpm": 94.985,
@@ -176,6 +194,9 @@
   {
     "id": "4kUZvXB3LC3an3HX6h0s17",
     "name": "Cudi Montage",
+    "duration_ms": 197000,
+    "explicit": true,
+    "track_number": 7,
     "artist": "KIDS SEE GHOSTS",
     "album": "KIDS SEE GHOSTS",
     "bpm": 110.011,

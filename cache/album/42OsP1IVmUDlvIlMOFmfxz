@@ -2,6 +2,9 @@
   {
     "id": "3QLxvooYNnQF4JrsksKyW1",
     "name": "Allure",
+    "duration_ms": 406240,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Skyharbor",
     "album": "Guiding Lights",
     "bpm": 96.129,
@@ -31,6 +34,9 @@
   {
     "id": "02rnsF5okjvxYqzeIBmKqn",
     "name": "Evolution",
+    "duration_ms": 339253,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Skyharbor",
     "album": "Guiding Lights",
     "bpm": 70.437,
@@ -60,6 +66,9 @@
   {
     "id": "4Xft6336V19L76X2Oub80E",
     "name": "Idle Minds",
+    "duration_ms": 466026,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Skyharbor",
     "album": "Guiding Lights",
     "bpm": 160.009,
@@ -89,6 +98,9 @@
   {
     "id": "07oKOs6qR44vy6olmUkyCh",
     "name": "Miracle",
+    "duration_ms": 359306,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Skyharbor",
     "album": "Guiding Lights",
     "bpm": 176.007,
@@ -118,6 +130,9 @@
   {
     "id": "71vEyNOYbYBjnjeOZl3sso",
     "name": "Halogen",
+    "duration_ms": 422293,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Skyharbor",
     "album": "Guiding Lights",
     "bpm": 144.977,
@@ -147,6 +162,9 @@
   {
     "id": "2xgM9H52SdJWqArdn4i4H4",
     "name": "New Devil",
+    "duration_ms": 415173,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Skyharbor",
     "album": "Guiding Lights",
     "bpm": 86.27,
@@ -176,6 +194,9 @@
   {
     "id": "3XPcXwMAJSbHs2Tpl0BZZs",
     "name": "Patience",
+    "duration_ms": 282520,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Skyharbor",
     "album": "Guiding Lights",
     "bpm": 132.024,
@@ -205,6 +226,9 @@
   {
     "id": "7pIINQMtmmVyKjKVwITDiM",
     "name": "Guiding Lights",
+    "duration_ms": 562786,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Skyharbor",
     "album": "Guiding Lights",
     "bpm": 122.984,
@@ -234,6 +258,9 @@
   {
     "id": "1x6WVxYr4JrJ1tU6iIqDLe",
     "name": "Kaikoma",
+    "duration_ms": 277240,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Skyharbor",
     "album": "Guiding Lights",
     "bpm": 108.0,
@@ -263,6 +290,9 @@
   {
     "id": "4IQOnf7HxJP1pWXuFbCSJU",
     "name": "The Constant",
+    "duration_ms": 573200,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Skyharbor",
     "album": "Guiding Lights",
     "bpm": 192.955,

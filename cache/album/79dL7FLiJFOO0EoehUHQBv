@@ -2,6 +2,9 @@
   {
     "id": "2X485T9Z5Ly0xyaghN73ed",
     "name": "Let It Happen",
+    "duration_ms": 467586,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 125.012,
@@ -31,6 +34,9 @@
   {
     "id": "1cCbsojaA6GIT7Y3zuMJ1q",
     "name": "Nangs",
+    "duration_ms": 107533,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 167.608,
@@ -60,6 +66,9 @@
   {
     "id": "1UYj8qTWjneZJDVjUMwMub",
     "name": "The Moment",
+    "duration_ms": 255413,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 119.089,
@@ -89,6 +98,9 @@
   {
     "id": "0xtIp0lgccN85GfGOekS5L",
     "name": "Yes I'm Changing",
+    "duration_ms": 270680,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 179.955,
@@ -118,6 +130,9 @@
   {
     "id": "5M4yti0QxgqJieUYaEXcpw",
     "name": "Eventually",
+    "duration_ms": 318591,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 77.935,
@@ -147,6 +162,9 @@
   {
     "id": "79chzfFIIq7cHkqcYYORk0",
     "name": "Gossip",
+    "duration_ms": 55413,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 119.474,
@@ -176,6 +194,9 @@
   {
     "id": "6K4t31amVTZDgR3sKmwUJJ",
     "name": "The Less I Know The Better",
+    "duration_ms": 216320,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 116.879,
@@ -205,6 +226,9 @@
   {
     "id": "4a9fW33mYR8LhXBOLUhbfF",
     "name": "Past Life",
+    "duration_ms": 228040,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 145.734,
@@ -234,6 +258,9 @@
   {
     "id": "2gNfxysfBRfl9Lvi9T3v6R",
     "name": "Disciples",
+    "duration_ms": 108546,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 126.971,
@@ -263,6 +290,9 @@
   {
     "id": "2O99aywAVBhaPrsiJ6zbSS",
     "name": "'Cause I'm A Man",
+    "duration_ms": 241986,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 144.684,
@@ -292,6 +322,9 @@
   {
     "id": "3I7OmVsk4Hm5LBbs2GmhlD",
     "name": "Reality In Motion",
+    "duration_ms": 252026,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 115.037,
@@ -321,6 +354,9 @@
   {
     "id": "5h9hkYIBWTZYFRmF6Iz1gt",
     "name": "Love/Paranoia",
+    "duration_ms": 185773,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 111.024,
@@ -350,6 +386,9 @@
   {
     "id": "52ojopYMUzeNcudsoz7O9D",
     "name": "New Person, Same Old Mistakes",
+    "duration_ms": 363240,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Tame Impala",
     "album": "Currents",
     "bpm": 151.836,

@@ -2,6 +2,9 @@
   {
     "id": "0UULVQXjgFPOttIW5qF7Ak",
     "name": "where u at?",
+    "duration_ms": 44094,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 100.564,
@@ -31,6 +34,9 @@
   {
     "id": "71lyUtIPCMAYjTwwwxy2jW",
     "name": "4r Da Squaw",
+    "duration_ms": 232571,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 143.934,
@@ -60,6 +66,9 @@
   {
     "id": "5FX89IUKm9QJT9ymrmyK4k",
     "name": "Free Lunch",
+    "duration_ms": 192029,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 130.011,
@@ -89,6 +98,9 @@
   {
     "id": "2TsBRXZQSGp1aaYeNPcT9o",
     "name": "Rope (feat. SiR) // rosegold",
+    "duration_ms": 283527,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 91.937,
@@ -118,6 +130,9 @@
   {
     "id": "2RPbEp0DyBVlkRvvYKopO7",
     "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
+    "duration_ms": 330783,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 125.966,
@@ -147,6 +162,9 @@
   {
     "id": "5hqh0JUxRShhqdaxu7wlz5",
     "name": "Park",
+    "duration_ms": 173290,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 100.034,
@@ -176,6 +194,9 @@
   {
     "id": "2uRqJEudnHdYINvwmeaG9h",
     "name": "Bday (feat. Deacon Blues & Kari Faux)",
+    "duration_ms": 232978,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 89.029,
@@ -205,6 +226,9 @@
   {
     "id": "5f6esnDQcBiFAm8iMfkw12",
     "name": "Silkk da Shocka (feat. Syd)",
+    "duration_ms": 166086,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 121.986,
@@ -234,6 +258,9 @@
   {
     "id": "2NoKRHt8LVpnQMVl3TPwvu",
     "name": "Tity and Dolla (feat. Hugh Augustine & Jay Rock)",
+    "duration_ms": 298035,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 124.003,
@@ -263,6 +290,9 @@
   {
     "id": "2eYY43d0V17SxOX0g7sBAD",
     "name": "Stuck in the Mud (feat. SZA)",
+    "duration_ms": 423170,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 150.024,
@@ -292,6 +322,9 @@
   {
     "id": "0CsMyYqXKbdznGEXSjSroo",
     "name": "A lot",
+    "duration_ms": 205539,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 148.032,
@@ -321,6 +354,9 @@
   {
     "id": "66UI237YMw6AL6S72FGKND",
     "name": "AA",
+    "duration_ms": 210061,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 96.002,
@@ -350,6 +386,9 @@
   {
     "id": "5oO0BgiNJzi3Q13uIvizqN",
     "name": "Dressed Like Rappers",
+    "duration_ms": 206320,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 78.794,
@@ -379,6 +418,9 @@
   {
     "id": "5v1QJxlh7mkNsq7fsUf5wV",
     "name": "Don't Matter",
+    "duration_ms": 176982,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 148.081,
@@ -408,6 +450,9 @@
   {
     "id": "1YnhmaHKpNEroXiGqc3BLT",
     "name": "Brenda",
+    "duration_ms": 250357,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 85.988,
@@ -437,6 +482,9 @@
   {
     "id": "24LTP6ZVZZ5epkbnTXM21c",
     "name": "by george (outro)",
+    "duration_ms": 198112,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 126.011,
@@ -466,6 +514,9 @@
   {
     "id": "17JA4HlieSH7TY3pQk21MJ",
     "name": "Find a Topic (homies begged)",
+    "duration_ms": 166688,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Isaiah Rashad",
     "album": "The Sun's Tirade",
     "bpm": 130.999,

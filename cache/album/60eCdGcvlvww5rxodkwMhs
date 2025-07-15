@@ -2,6 +2,9 @@
   {
     "id": "7jRVGR6xzoiBkY51gEla0L",
     "name": "Leave",
+    "duration_ms": 174635,
+    "explicit": true,
+    "track_number": 1,
     "artist": "The Szns",
     "album": "Leave",
     "bpm": 110.051,

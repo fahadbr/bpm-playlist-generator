@@ -2,6 +2,9 @@
   {
     "id": "6mMXHtmyjORXfbZk87csDk",
     "name": "Gimme What I Don't Know (I Want)",
+    "duration_ms": 315306,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 102.01,
@@ -31,6 +34,9 @@
   {
     "id": "2zgixZ9dKXRTYaDlbKWcqO",
     "name": "True Blood",
+    "duration_ms": 571266,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 125.035,
@@ -60,6 +66,9 @@
   {
     "id": "4FcvYEVtmB0UuIPbdzwqsH",
     "name": "Cabaret (feat. Drake)",
+    "duration_ms": 272746,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 120.154,
@@ -89,6 +98,9 @@
   {
     "id": "5mIqtDBiw3rqMxsJc4UVM6",
     "name": "TKO",
+    "duration_ms": 424146,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 137.864,
@@ -118,6 +130,9 @@
   {
     "id": "0a4ZGSRZOgspQy2HYzU82l",
     "name": "Take Back the Night",
+    "duration_ms": 353160,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 106.502,
@@ -147,6 +162,9 @@
   {
     "id": "0tsiZxE0FnaganbRLQx5Ru",
     "name": "Murder (feat. JAY-Z)",
+    "duration_ms": 307560,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 107.034,
@@ -176,6 +194,9 @@
   {
     "id": "4pEaGoTSSU7YKu4hqor9Na",
     "name": "Drink You Away",
+    "duration_ms": 331133,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 105.348,
@@ -205,6 +226,9 @@
   {
     "id": "7sFV6eCWpWPjazh5nyLwka",
     "name": "You Got It On",
+    "duration_ms": 355600,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 86.43,
@@ -234,6 +258,9 @@
   {
     "id": "13KLgTgYlAw8uABDLJsOsQ",
     "name": "Amnesia",
+    "duration_ms": 424813,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 87.946,
@@ -263,6 +290,9 @@
   {
     "id": "3jthkYuDqzNeybhSlJ6a91",
     "name": "Only When I Walk Away",
+    "duration_ms": 425786,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 144.195,
@@ -292,6 +322,9 @@
   {
     "id": "3nB82yGjtbQFSU0JLAwLRH",
     "name": "Not a Bad Thing",
+    "duration_ms": 688453,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 85.901,
@@ -321,6 +354,9 @@
   {
     "id": "38lNQQzolUE5hjDI73ndCX",
     "name": "Blindness",
+    "duration_ms": 288786,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 78.519,
@@ -350,6 +386,9 @@
   {
     "id": "13HiWKJ4hcGhzPsyuhNWgq",
     "name": "Electric Lady",
+    "duration_ms": 260426,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience - 2 of 2 (Deluxe)",
     "bpm": 89.83,

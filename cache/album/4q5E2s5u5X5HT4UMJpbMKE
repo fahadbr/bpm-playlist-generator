@@ -2,6 +2,9 @@
   {
     "id": "7gEdleVWw2RrImYlvXImch",
     "name": "Outside",
+    "duration_ms": 270053,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 175.497,
@@ -31,6 +34,9 @@
   {
     "id": "2O0rIAtaJj77UMZUGtlg3T",
     "name": "Fire Fly",
+    "duration_ms": 203053,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 87.502,
@@ -60,6 +66,9 @@
   {
     "id": "0wps7rop5iHwBo0rQZ2g9A",
     "name": "Bonfire",
+    "duration_ms": 192946,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 161.808,
@@ -89,6 +98,9 @@
   {
     "id": "1j9lI5MkLFayW9ojc7S5Zt",
     "name": "All The Shine",
+    "duration_ms": 346013,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 80.204,
@@ -118,6 +130,9 @@
   {
     "id": "1bv9wrUiUgjWfahxVwtGSr",
     "name": "Letter Home",
+    "duration_ms": 104386,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 81.604,
@@ -147,6 +162,9 @@
   {
     "id": "5AGQSF0ytihJyt96K5vW9d",
     "name": "Heartbeat",
+    "duration_ms": 269840,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 119.959,
@@ -176,6 +194,9 @@
   {
     "id": "5BsM0OrFsQThIXKTnYmuW0",
     "name": "Backpackers",
+    "duration_ms": 195640,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 170.419,
@@ -205,6 +226,9 @@
   {
     "id": "7ghKr0pCYyPPyp7t1FH8k4",
     "name": "LES",
+    "duration_ms": 317293,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 102.891,
@@ -234,6 +258,9 @@
   {
     "id": "4uDkagullY9IiBg6rIQsKR",
     "name": "Hold You Down",
+    "duration_ms": 292453,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 85.053,
@@ -263,6 +290,9 @@
   {
     "id": "2jrP54CkSMNnnRPu4sTJFD",
     "name": "Kids",
+    "duration_ms": 297933,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 84.981,
@@ -292,6 +322,9 @@
   {
     "id": "6sg6kWL8RjUcl7Kq7lxwEc",
     "name": "You See Me",
+    "duration_ms": 195373,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 69.753,
@@ -321,6 +354,9 @@
   {
     "id": "5EiLjOB57pHdNnkcrWh1m4",
     "name": "Sunrise",
+    "duration_ms": 219840,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 79.938,
@@ -350,6 +386,9 @@
   {
     "id": "7g4kv8dGaR8mHjxL2WP9ej",
     "name": "That Power",
+    "duration_ms": 462253,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Childish Gambino",
     "album": "Camp",
     "bpm": 82.169,

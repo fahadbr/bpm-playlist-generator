@@ -2,6 +2,9 @@
   {
     "id": "6Zt6bLRkojgNhmtvODS8Ee",
     "name": "San Solomon",
+    "duration_ms": 223253,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 133.442,
@@ -31,6 +34,9 @@
   {
     "id": "126Qo4ymcoUeVoP3j9BVMw",
     "name": "Lament",
+    "duration_ms": 215813,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 132.722,
@@ -60,6 +66,9 @@
   {
     "id": "1IpTQ7qsIpjjdWAfcZ0PLg",
     "name": "The Summer",
+    "duration_ms": 236893,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 138.947,
@@ -89,6 +98,9 @@
   {
     "id": "1LlEw7wp9AOX0ZkgoOEMxd",
     "name": "The Winter",
+    "duration_ms": 351186,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 201.608,
@@ -118,6 +130,9 @@
   {
     "id": "2a4r8IepxalgMv1aou0cVL",
     "name": "Greyish Tapering Ash",
+    "duration_ms": 221626,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 94.795,
@@ -147,6 +162,9 @@
   {
     "id": "5XgSGrg13SzG30Aic4R8v3",
     "name": "Baleen Morning",
+    "duration_ms": 224733,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 82.115,
@@ -176,6 +194,9 @@
   {
     "id": "1YlIztAYB4O9oGOPw2TXip",
     "name": "Barefoot Pilgrims",
+    "duration_ms": 293400,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 124.615,
@@ -205,6 +226,9 @@
   {
     "id": "5K1fAMXe8TjyOysPqVCkjw",
     "name": "Context",
+    "duration_ms": 242253,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 59.376,
@@ -234,6 +258,9 @@
   {
     "id": "0WHjKA0I1A2cIl9oC49c48",
     "name": "Process",
+    "duration_ms": 380866,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 147.778,
@@ -263,6 +290,9 @@
   {
     "id": "3clLvM5nntg6onyPfxvbkj",
     "name": "Divisadero",
+    "duration_ms": 189560,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 114.259,
@@ -292,6 +322,9 @@
   {
     "id": "3gQy34CjueJzId8xLM12Vk",
     "name": "Limmat",
+    "duration_ms": 202186,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 91.783,
@@ -321,6 +354,9 @@
   {
     "id": "7KfLzYLFQGv0VDJTP2o3Mz",
     "name": "Theme No. 1",
+    "duration_ms": 311760,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 118.319,
@@ -350,6 +386,9 @@
   {
     "id": "0CJF2FmgWkf61tQAPt1RxD",
     "name": "Windansea",
+    "duration_ms": 236573,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 133.281,
@@ -379,6 +418,9 @@
   {
     "id": "2uJaKJr4qMCzFbcT4YspfM",
     "name": "San Solomon (reprise)",
+    "duration_ms": 210573,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 88.721,
@@ -408,6 +450,9 @@
   {
     "id": "06i4erTXN6mHwEeUyc2fc2",
     "name": "A Circumnavigation (Live at San Solomon Springs in Balmorhea, TX)",
+    "duration_ms": 228613,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 121.742,
@@ -437,6 +482,9 @@
   {
     "id": "1ahnGyUF171GEveDS5Tvw2",
     "name": "We Will Rebuild With Smooth Stones (Live at San Solomon Springs in Balmorhea, TX)",
+    "duration_ms": 264546,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 128.571,
@@ -466,6 +514,9 @@
   {
     "id": "3NJgYuIv0RZpfHK11NoFEJ",
     "name": "Theme (Live in Vienna, Austria)",
+    "duration_ms": 407333,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 130.03,
@@ -495,6 +546,9 @@
   {
     "id": "5IElGMN1Kws1Lgc1LZOfFf",
     "name": "San Solomon (full band version)",
+    "duration_ms": 203362,
+    "explicit": false,
+    "track_number": 18,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
     "bpm": 132.585,

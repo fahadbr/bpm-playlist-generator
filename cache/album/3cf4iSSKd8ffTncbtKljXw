@@ -2,6 +2,9 @@
   {
     "id": "1kNdtonJXHorsVpWerK8C2",
     "name": "Intro",
+    "duration_ms": 36935,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 125.501,
@@ -31,6 +34,9 @@
   {
     "id": "1vbn9fEyw1IYhqgZJdu9ZB",
     "name": "Falling Back",
+    "duration_ms": 266178,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 118.989,
@@ -60,6 +66,9 @@
   {
     "id": "4FIgHqXd4KkOwxrGeLDYM2",
     "name": "Texts Go Green",
+    "duration_ms": 308820,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 118.997,
@@ -89,6 +98,9 @@
   {
     "id": "1eCFz60zd7mAXgWLapPd9B",
     "name": "Currents",
+    "duration_ms": 157390,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 122.013,
@@ -118,6 +130,9 @@
   {
     "id": "0nAZGkBGKQCXyaoSJfRhC1",
     "name": "A Keeper",
+    "duration_ms": 173097,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 121.909,
@@ -147,6 +162,9 @@
   {
     "id": "7sT7kZEYd1MrmzLLIRVZas",
     "name": "Calling My Name",
+    "duration_ms": 129964,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 123.985,
@@ -176,6 +194,9 @@
   {
     "id": "4rmVZajAF7PkrCagGPHbqa",
     "name": "Sticky",
+    "duration_ms": 243227,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 137.027,
@@ -205,6 +226,9 @@
   {
     "id": "28JBD8p18xNuOfyV7Cotdn",
     "name": "Massive",
+    "duration_ms": 336924,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 124.994,
@@ -234,6 +258,9 @@
   {
     "id": "6Yj7Zhxt73uvwFFvzQXdxO",
     "name": "Flight's Booked",
+    "duration_ms": 254407,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 122.584,
@@ -263,6 +290,9 @@
   {
     "id": "7hRlTK3mgFTBEjX7DjqBsI",
     "name": "Overdrive",
+    "duration_ms": 202451,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 109.739,
@@ -292,6 +322,9 @@
   {
     "id": "3N3d4OWbPVxTQVBFqNyykk",
     "name": "Down Hill",
+    "duration_ms": 250864,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 109.994,
@@ -321,6 +354,9 @@
   {
     "id": "1XsRwo2it6QHdV2OiT6IzF",
     "name": "Tie That Binds",
+    "duration_ms": 336005,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 120.017,
@@ -350,6 +386,9 @@
   {
     "id": "2vy9Ry1TNjCD85TiCbTz0r",
     "name": "Liability",
+    "duration_ms": 237932,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 105.013,
@@ -379,6 +418,9 @@
   {
     "id": "3F5CgOj3wFlRv51JsHbxhe",
     "name": "Jimmy Cooks (feat. 21 Savage)",
+    "duration_ms": 218364,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "bpm": 165.921,

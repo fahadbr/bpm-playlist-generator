@@ -2,6 +2,9 @@
   {
     "id": "0hfByzDRgR10HDLqm89lA9",
     "name": "Stay Frosty Royal Milk Tea",
+    "duration_ms": 171053,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Fall Out Boy",
     "album": "MANIA",
     "bpm": 145.886,
@@ -31,6 +34,9 @@
   {
     "id": "1f6xYh2HSx8ttCjl4Pckep",
     "name": "The Last Of The Real Ones",
+    "duration_ms": 230400,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Fall Out Boy",
     "album": "MANIA",
     "bpm": 115.034,
@@ -60,6 +66,9 @@
   {
     "id": "0Q9vbV7G2Q6lts13nY9YGP",
     "name": "HOLD ME TIGHT OR DON\u2019T",
+    "duration_ms": 210360,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Fall Out Boy",
     "album": "MANIA",
     "bpm": 95.988,
@@ -89,6 +98,9 @@
   {
     "id": "2W6kVW3UZ3hwr4qbfCDp6B",
     "name": "Wilson (Expensive Mistakes)",
+    "duration_ms": 216933,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Fall Out Boy",
     "album": "MANIA",
     "bpm": 152.032,
@@ -118,6 +130,9 @@
   {
     "id": "0OUQhRKgGSb0PPrLUuEQka",
     "name": "Church",
+    "duration_ms": 211826,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Fall Out Boy",
     "album": "MANIA",
     "bpm": 168.003,
@@ -147,6 +162,9 @@
   {
     "id": "4lN5YgMQNBANIKWSl6G54k",
     "name": "Heaven\u2019s Gate",
+    "duration_ms": 225706,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Fall Out Boy",
     "album": "MANIA",
     "bpm": 176.065,
@@ -176,6 +194,9 @@
   {
     "id": "1DRUwJSt2YOUUEz965OJ66",
     "name": "Champion",
+    "duration_ms": 192533,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Fall Out Boy",
     "album": "MANIA",
     "bpm": 187.784,
@@ -205,6 +226,9 @@
   {
     "id": "0ZqqrBHeSeyZahfcyw9N8O",
     "name": "Sunshine Riptide",
+    "duration_ms": 204813,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Fall Out Boy",
     "album": "MANIA",
     "bpm": 133.98,
@@ -234,6 +258,9 @@
   {
     "id": "2wQA22CbUkSD38g5Doqd9a",
     "name": "Young And Menace",
+    "duration_ms": 223946,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Fall Out Boy",
     "album": "MANIA",
     "bpm": 107.998,
@@ -263,6 +290,9 @@
   {
     "id": "5lKI9qLSJkWWJ6USwMu6jF",
     "name": "Bishops Knife Trick",
+    "duration_ms": 263226,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Fall Out Boy",
     "album": "MANIA",
     "bpm": 139.854,

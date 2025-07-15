@@ -2,6 +2,9 @@
   {
     "id": "04IgJXw7Wq1lDLefyMAUAC",
     "name": "Vices",
+    "duration_ms": 203626,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Brand New",
     "album": "Daisy",
     "bpm": 87.436,
@@ -31,6 +34,9 @@
   {
     "id": "4NnPTMfNcQXcFJHmxQOFtz",
     "name": "Bed",
+    "duration_ms": 189533,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Brand New",
     "album": "Daisy",
     "bpm": 191.998,
@@ -60,6 +66,9 @@
   {
     "id": "2YVWOvYEZBNkzeklG44v92",
     "name": "At The Bottom",
+    "duration_ms": 244400,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Brand New",
     "album": "Daisy",
     "bpm": 78.81,
@@ -89,6 +98,9 @@
   {
     "id": "3f3lTGxLGsntJKtzczIVmH",
     "name": "Gasoline",
+    "duration_ms": 212106,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Brand New",
     "album": "Daisy",
     "bpm": 169.202,
@@ -118,6 +130,9 @@
   {
     "id": "3E9It65dQyz5YfwhUndjoz",
     "name": "You Stole",
+    "duration_ms": 359973,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Brand New",
     "album": "Daisy",
     "bpm": 100.004,
@@ -147,6 +162,9 @@
   {
     "id": "6Ss76aBg59l3enYvTsOAXe",
     "name": "Be Gone",
+    "duration_ms": 90093,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Brand New",
     "album": "Daisy",
     "bpm": 88.558,
@@ -176,6 +194,9 @@
   {
     "id": "79aBwWS3BX4BZLQGjbqB8W",
     "name": "Sink",
+    "duration_ms": 199800,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Brand New",
     "album": "Daisy",
     "bpm": 93.03,
@@ -205,6 +226,9 @@
   {
     "id": "2Z54pMn4p3s9yYJ1d2nb16",
     "name": "Bought A Bride",
+    "duration_ms": 185933,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Brand New",
     "album": "Daisy",
     "bpm": 106.992,
@@ -234,6 +258,9 @@
   {
     "id": "38JojmlSYWpjzCsjS3MJcf",
     "name": "Daisy",
+    "duration_ms": 186200,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Brand New",
     "album": "Daisy",
     "bpm": 111.957,
@@ -263,6 +290,9 @@
   {
     "id": "4iEDMDLH5HeRq2c8mxu6r0",
     "name": "In A Jar",
+    "duration_ms": 185960,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Brand New",
     "album": "Daisy",
     "bpm": 123.966,
@@ -292,6 +322,9 @@
   {
     "id": "0gnghYueLlFClfojwYuBas",
     "name": "Noro",
+    "duration_ms": 386773,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Brand New",
     "album": "Daisy",
     "bpm": 115.34,

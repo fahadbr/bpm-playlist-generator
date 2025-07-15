@@ -2,6 +2,9 @@
   {
     "id": "58ZU9ScAsfI1gk9xyEtMj8",
     "name": "Writer's Block",
+    "duration_ms": 223533,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 121.972,
@@ -31,6 +34,9 @@
   {
     "id": "71iZHChXGYnJmRNIDJhivf",
     "name": "Glory Days",
+    "duration_ms": 221733,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 81.193,
@@ -60,6 +66,9 @@
   {
     "id": "2caMp830iwDTX8AZJECGN3",
     "name": "Disco Friends",
+    "duration_ms": 182693,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 95.736,
@@ -89,6 +98,9 @@
   {
     "id": "3XClLzrEPTpHHKOhzhifzz",
     "name": "Starz In Their Eyes",
+    "duration_ms": 297973,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 123.773,
@@ -118,6 +130,9 @@
   {
     "id": "04iomyLynCC6r0G6yaEZ9x",
     "name": "Lost",
+    "duration_ms": 350560,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 145.899,
@@ -147,6 +162,9 @@
   {
     "id": "4Tyrkic3qEGzC97sJLVJFy",
     "name": "I Talk Too Much",
+    "duration_ms": 232026,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 110.033,
@@ -176,6 +194,9 @@
   {
     "id": "3wzEd738dNCyyTGDIgHt3k",
     "name": "Hold On",
+    "duration_ms": 146880,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 159.836,
@@ -205,6 +226,9 @@
   {
     "id": "6Q63kjLk5hsrrNTSyoLFLM",
     "name": "Symphony Of Sirens",
+    "duration_ms": 262946,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 96.007,
@@ -234,6 +258,9 @@
   {
     "id": "2Qq6JQEGJGLw4s2e6xiegV",
     "name": "Life Stories",
+    "duration_ms": 234453,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 98.01,
@@ -263,6 +290,9 @@
   {
     "id": "2rn7og566ffViIvjw4Eyvm",
     "name": "No Time",
+    "duration_ms": 209560,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 121.014,
@@ -292,6 +322,9 @@
   {
     "id": "1TJ8rqTNmYoxXEHYIUapUw",
     "name": "Mourning Morning",
+    "duration_ms": 248640,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 140.087,
@@ -321,6 +354,9 @@
   {
     "id": "6Yxw2kT95HY2dvqjJkCuzK",
     "name": "Spectacular Failures",
+    "duration_ms": 297213,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 130.029,
@@ -350,6 +386,9 @@
   {
     "id": "0IeGa7ip5KOEALFQv7lA2P",
     "name": "Electrickery",
+    "duration_ms": 447346,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Just Jack",
     "album": "Overtones",
     "bpm": 140.033,

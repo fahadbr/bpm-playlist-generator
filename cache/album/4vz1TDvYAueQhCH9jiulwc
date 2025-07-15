@@ -2,6 +2,9 @@
   {
     "id": "4Mqs6irS9aCNTjXznGfRbe",
     "name": "No Stars over Bethlehem",
+    "duration_ms": 265409,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Protest The Hero",
     "album": "Kezia (Remaster)",
     "bpm": 112.738,
@@ -31,6 +34,9 @@
   {
     "id": "08KBtRP5c0a68zAT9sv5V6",
     "name": "Heretics and Killers",
+    "duration_ms": 189186,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Protest The Hero",
     "album": "Kezia (Remaster)",
     "bpm": 126.261,
@@ -60,6 +66,9 @@
   {
     "id": "1IdNSDinzcWh7KJqWgGsQ2",
     "name": "Divinity Within",
+    "duration_ms": 272080,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Protest The Hero",
     "album": "Kezia (Remaster)",
     "bpm": 116.149,
@@ -89,6 +98,9 @@
   {
     "id": "65Gr2n0QkeRCNpLZyjaM5l",
     "name": "Bury the Hatchet",
+    "duration_ms": 203626,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Protest The Hero",
     "album": "Kezia (Remaster)",
     "bpm": 117.856,
@@ -118,6 +130,9 @@
   {
     "id": "2UJEuvbexnp47SbBHecxUX",
     "name": "Nautical",
+    "duration_ms": 177333,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Protest The Hero",
     "album": "Kezia (Remaster)",
     "bpm": 132.503,
@@ -147,6 +162,9 @@
   {
     "id": "51cYqntdUHIwvq2oUYCPat",
     "name": "Blindfolds Aside",
+    "duration_ms": 358813,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Protest The Hero",
     "album": "Kezia (Remaster)",
     "bpm": 153.863,
@@ -176,6 +194,9 @@
   {
     "id": "7ri0HNeYVtEtC89ztnF9gQ",
     "name": "She Who Mars the Skin of Gods",
+    "duration_ms": 231533,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Protest The Hero",
     "album": "Kezia (Remaster)",
     "bpm": 117.387,
@@ -205,6 +226,9 @@
   {
     "id": "6baF6tDQX5KOwskJPU2UWq",
     "name": "Turn Soonest to the Sea",
+    "duration_ms": 381360,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Protest The Hero",
     "album": "Kezia (Remaster)",
     "bpm": 157.117,
@@ -234,6 +258,9 @@
   {
     "id": "3Cq9R4aoqljQBHZYSf8lZD",
     "name": "The Divine Suicide of K.",
+    "duration_ms": 310026,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Protest The Hero",
     "album": "Kezia (Remaster)",
     "bpm": 118.144,
@@ -263,6 +290,9 @@
   {
     "id": "2p4vkFRCQ54VhU8n2pR7ny",
     "name": "A Plateful of Our Dead",
+    "duration_ms": 269375,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Protest The Hero",
     "album": "Kezia (Remaster)",
     "bpm": 117.177,

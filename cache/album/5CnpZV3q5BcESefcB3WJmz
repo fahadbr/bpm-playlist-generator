@@ -2,6 +2,9 @@
   {
     "id": "7eSSmgq26BXr7xay3WKjfi",
     "name": "Donda Chant",
+    "duration_ms": 52061,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 102.983,
@@ -31,6 +34,9 @@
   {
     "id": "6d8HN8MqqbqrEUI2bvx0aG",
     "name": "Jail",
+    "duration_ms": 297000,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 110.013,
@@ -60,6 +66,9 @@
   {
     "id": "5JaSg0AYyAMMLjyGGDrrCm",
     "name": "God Breathed",
+    "duration_ms": 333461,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 92.744,
@@ -89,6 +98,9 @@
   {
     "id": "6LNoArVBBVZzUTUiAX2aKO",
     "name": "Off The Grid",
+    "duration_ms": 339249,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 137.728,
@@ -118,6 +130,9 @@
   {
     "id": "6Hfu9sc7jvv6coyy2LlzBF",
     "name": "Hurricane",
+    "duration_ms": 243187,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 80.009,
@@ -147,6 +162,9 @@
   {
     "id": "0WSEq9Ko4kFPt8yo3ICd6T",
     "name": "Praise God",
+    "duration_ms": 226652,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 118.029,
@@ -176,6 +194,9 @@
   {
     "id": "35acXjupfWHgtchiS6yAjC",
     "name": "Jonah",
+    "duration_ms": 195170,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 177.3,
@@ -205,6 +226,9 @@
   {
     "id": "5LuXsO34x6KVlL8OWsxRqk",
     "name": "Ok Ok",
+    "duration_ms": 204629,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 107.98,
@@ -234,6 +258,9 @@
   {
     "id": "1jgcODbfAL3tV7tikF6n1j",
     "name": "Junya",
+    "duration_ms": 147668,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 148.07,
@@ -263,6 +290,9 @@
   {
     "id": "0JuSGEldfovcc8IS9va1wa",
     "name": "Believe What I Say",
+    "duration_ms": 242400,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 99.811,
@@ -292,6 +322,9 @@
   {
     "id": "68RhNM8ehkarnEKnCkqlsp",
     "name": "24",
+    "duration_ms": 197898,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 110.057,
@@ -321,6 +354,9 @@
   {
     "id": "45N9i9QraLWD6GW7xBqxnx",
     "name": "Remote Control",
+    "duration_ms": 198613,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 110.105,
@@ -350,6 +386,9 @@
   {
     "id": "7CC6UbCs4iGsePSzFxYxNn",
     "name": "Moon",
+    "duration_ms": 156091,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 162.351,
@@ -379,6 +418,9 @@
   {
     "id": "2Y40huo5ewaKYxsFintYtF",
     "name": "Heaven and Hell",
+    "duration_ms": 145301,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 82.986,
@@ -408,6 +450,9 @@
   {
     "id": "4jkwu5KQbXXrbAZzVmt5fE",
     "name": "Donda",
+    "duration_ms": 128313,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 105.989,
@@ -437,6 +482,9 @@
   {
     "id": "7EagormFign5ag6f16ua3I",
     "name": "Keep My Spirit Alive",
+    "duration_ms": 221250,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 166.35,
@@ -466,6 +514,9 @@
   {
     "id": "1LwdWIbfuqlOo8vlHxkyna",
     "name": "Jesus Lord",
+    "duration_ms": 538536,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 106.137,
@@ -495,6 +546,9 @@
   {
     "id": "75QktuEju5vz9lyXiLaUao",
     "name": "New Again",
+    "duration_ms": 183296,
+    "explicit": false,
+    "track_number": 18,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 90.948,
@@ -524,6 +578,9 @@
   {
     "id": "4OfnDoi5VOPsXtwnofq6aL",
     "name": "Tell The Vision",
+    "duration_ms": 104218,
+    "explicit": false,
+    "track_number": 19,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 144.064,
@@ -553,6 +610,9 @@
   {
     "id": "5Iq6pIudd4KfuxZqf8872b",
     "name": "Lord I Need You",
+    "duration_ms": 162108,
+    "explicit": false,
+    "track_number": 20,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 83.036,
@@ -582,6 +642,9 @@
   {
     "id": "5aqUqSq0SqGBAqEn27PEzc",
     "name": "Pure Souls",
+    "duration_ms": 358621,
+    "explicit": false,
+    "track_number": 21,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 97.207,
@@ -611,6 +674,9 @@
   {
     "id": "5xvXeuxISyXJDRbZZf4uzd",
     "name": "Come to Life",
+    "duration_ms": 310393,
+    "explicit": false,
+    "track_number": 22,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 126.937,
@@ -640,6 +706,9 @@
   {
     "id": "3hd6zLhnTlbJ8PupYt3cAI",
     "name": "No Child Left Behind",
+    "duration_ms": 178061,
+    "explicit": false,
+    "track_number": 23,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 135.382,
@@ -669,6 +738,9 @@
   {
     "id": "2H8jWuNmluerTEsuh8Gu6y",
     "name": "Jail pt 2",
+    "duration_ms": 297000,
+    "explicit": false,
+    "track_number": 24,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 109.985,
@@ -698,6 +770,9 @@
   {
     "id": "5ad5uryyzVWs95bK3myGkw",
     "name": "Ok Ok pt 2",
+    "duration_ms": 204629,
+    "explicit": false,
+    "track_number": 25,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 82.295,
@@ -727,6 +802,9 @@
   {
     "id": "2auYgZ1GcTkWj2bOaE2Wwm",
     "name": "Junya pt 2",
+    "duration_ms": 182635,
+    "explicit": false,
+    "track_number": 26,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 148.13,
@@ -756,6 +834,9 @@
   {
     "id": "360VkSTITvF55weIKoaNTw",
     "name": "Jesus Lord pt 2",
+    "duration_ms": 690731,
+    "explicit": false,
+    "track_number": 27,
     "artist": "Kanye West",
     "album": "Donda",
     "bpm": 107.4,

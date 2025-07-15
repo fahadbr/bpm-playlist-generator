@@ -2,6 +2,9 @@
   {
     "id": "5NPNg1glR6Mo2zprm832qW",
     "name": "Heatwave",
+    "duration_ms": 256000,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Raury",
     "album": "Strawberry Moon",
     "bpm": 119.459,
@@ -31,6 +34,9 @@
   {
     "id": "6phZ7jiHumKDhXJmYiWcUi",
     "name": "2020 Vision",
+    "duration_ms": 278918,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Raury",
     "album": "Strawberry Moon",
     "bpm": 111.015,
@@ -60,6 +66,9 @@
   {
     "id": "3JeZ3qlEKKuOccXYcm0ZDo",
     "name": "Feel Good",
+    "duration_ms": 256370,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Raury",
     "album": "Strawberry Moon",
     "bpm": 132.039,
@@ -89,6 +98,9 @@
   {
     "id": "5Bf6PE17FU6EDpde81mGbG",
     "name": "Cloak",
+    "duration_ms": 324694,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Raury",
     "album": "Strawberry Moon",
     "bpm": 129.886,
@@ -118,6 +130,9 @@
   {
     "id": "4c2UNPqgz6BAygGCc6Z1tM",
     "name": "August",
+    "duration_ms": 237049,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Raury",
     "album": "Strawberry Moon",
     "bpm": 131.683,
@@ -147,6 +162,9 @@
   {
     "id": "3Uq9wXwoKAS4YqzV15cCdf",
     "name": "Channel Zero",
+    "duration_ms": 230170,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Raury",
     "album": "Strawberry Moon",
     "bpm": 119.733,
@@ -176,6 +194,9 @@
   {
     "id": "1IYFmu4dkckk2AgjCyRiQe",
     "name": "Her Smile",
+    "duration_ms": 261131,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Raury",
     "album": "Strawberry Moon",
     "bpm": 106.903,
@@ -205,6 +226,9 @@
   {
     "id": "0zhvNApNgGqF7JXA08ayW1",
     "name": "Room For Error",
+    "duration_ms": 191444,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Raury",
     "album": "Strawberry Moon",
     "bpm": 118.989,
@@ -234,6 +258,9 @@
   {
     "id": "4JWpE7H29r78xNNw9CxiuR",
     "name": "Phases",
+    "duration_ms": 194391,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Raury",
     "album": "Strawberry Moon",
     "bpm": 95.001,
@@ -263,6 +290,9 @@
   {
     "id": "6MNhfsexgLj3ienvjdSDmY",
     "name": "That's Life",
+    "duration_ms": 209966,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Raury",
     "album": "Strawberry Moon",
     "bpm": 129.558,

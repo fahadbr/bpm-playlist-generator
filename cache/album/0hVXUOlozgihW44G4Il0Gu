@@ -2,6 +2,9 @@
   {
     "id": "0C0OKMDnOvUyccUmwZO8AW",
     "name": "Run the Jewels",
+    "duration_ms": 210626,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "bpm": 76.002,
@@ -31,6 +34,9 @@
   {
     "id": "4L0jcL1W6bK1H51S5BBFLf",
     "name": "Banana Clipper (feat. Big Boi)",
+    "duration_ms": 171493,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "bpm": 166.283,
@@ -60,6 +66,9 @@
   {
     "id": "5h8JaUYE3HiYILQ0uqcJRO",
     "name": "36\" Chain",
+    "duration_ms": 172320,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "bpm": 120.011,
@@ -89,6 +98,9 @@
   {
     "id": "2NfIZCEXbDbt6JVYcNerCg",
     "name": "Ddfh",
+    "duration_ms": 185079,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "bpm": 91.048,
@@ -118,6 +130,9 @@
   {
     "id": "0ATVlCuG5QA2Y0WJg45Awc",
     "name": "Sea Legs",
+    "duration_ms": 220040,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "bpm": 130.075,
@@ -147,6 +162,9 @@
   {
     "id": "3NlF6NbqEMlW3kTG0lmikW",
     "name": "Job Well Done (feat. Until The Ribbon Breaks)",
+    "duration_ms": 179746,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "bpm": 153.913,
@@ -176,6 +194,9 @@
   {
     "id": "32nvSTBSgpgXn5dddp4k6p",
     "name": "No Come Down",
+    "duration_ms": 208333,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "bpm": 120.007,
@@ -205,6 +226,9 @@
   {
     "id": "0r83fnVz35a5ajGqQydqi2",
     "name": "Get It",
+    "duration_ms": 179999,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "bpm": 160.017,
@@ -234,6 +258,9 @@
   {
     "id": "2KHoC1lYz5a5zemtS1Orj9",
     "name": "Twin Hype Back (feat. Prince Paul as Chest Rockwell)",
+    "duration_ms": 192413,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "bpm": 147.785,
@@ -263,6 +290,9 @@
   {
     "id": "2iKfoNi5TOOOvwit3Qte95",
     "name": "A Christmas Fucking Miracle",
+    "duration_ms": 261440,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "bpm": 106.051,

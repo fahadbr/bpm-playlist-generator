@@ -1,0 +1,167 @@
+[
+  {
+    "id": "5AebNkVaY2zcdNFCqPBIV7",
+    "name": "OCD (with Dwn2earth)",
+    "duration_ms": 291706,
+    "explicit": true,
+    "track_number": 1,
+    "artist": "Logic",
+    "album": "OCD (with Dwn2earth)",
+    "playlist": "Liked from Radio",
+    "bpm": 82.08,
+    "features": [
+      {
+        "danceability": 0.679,
+        "energy": 0.758,
+        "key": 1,
+        "loudness": -3.012,
+        "mode": 1,
+        "speechiness": 0.14,
+        "acousticness": 0.291,
+        "instrumentalness": 0.0177,
+        "liveness": 0.209,
+        "valence": 0.237,
+        "tempo": 82.08,
+        "type": "audio_features",
+        "id": "5AebNkVaY2zcdNFCqPBIV7",
+        "uri": "spotify:track:5AebNkVaY2zcdNFCqPBIV7",
+        "track_href": "https://api.spotify.com/v1/tracks/5AebNkVaY2zcdNFCqPBIV7",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5AebNkVaY2zcdNFCqPBIV7",
+        "duration_ms": 291707,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "7rRa8HfW8MO43i56jApcmR",
+    "name": "Lights Go Out",
+    "duration_ms": 294336,
+    "explicit": false,
+    "track_number": 2,
+    "artist": "I Am Waiting for You Last Summer",
+    "album": "In Eternal Lines",
+    "playlist": "Liked from Radio",
+    "bpm": 127.805,
+    "features": [
+      {
+        "danceability": 0.289,
+        "energy": 0.64,
+        "key": 9,
+        "loudness": -7.622,
+        "mode": 1,
+        "speechiness": 0.0469,
+        "acousticness": 0.000855,
+        "instrumentalness": 0.882,
+        "liveness": 0.111,
+        "valence": 0.114,
+        "tempo": 127.805,
+        "type": "audio_features",
+        "id": "7rRa8HfW8MO43i56jApcmR",
+        "uri": "spotify:track:7rRa8HfW8MO43i56jApcmR",
+        "track_href": "https://api.spotify.com/v1/tracks/7rRa8HfW8MO43i56jApcmR",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/7rRa8HfW8MO43i56jApcmR",
+        "duration_ms": 294336,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "5xCKDXzh2JPFFcyHr39ROH",
+    "name": "Piece Of Me",
+    "duration_ms": 187510,
+    "explicit": false,
+    "track_number": 1,
+    "artist": "MK",
+    "album": "Piece Of Me",
+    "playlist": "Liked from Radio",
+    "bpm": 121.962,
+    "features": [
+      {
+        "danceability": 0.678,
+        "energy": 0.917,
+        "key": 5,
+        "loudness": -2.318,
+        "mode": 0,
+        "speechiness": 0.0796,
+        "acousticness": 0.00721,
+        "instrumentalness": 0,
+        "liveness": 0.269,
+        "valence": 0.7,
+        "tempo": 121.962,
+        "type": "audio_features",
+        "id": "5xCKDXzh2JPFFcyHr39ROH",
+        "uri": "spotify:track:5xCKDXzh2JPFFcyHr39ROH",
+        "track_href": "https://api.spotify.com/v1/tracks/5xCKDXzh2JPFFcyHr39ROH",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/5xCKDXzh2JPFFcyHr39ROH",
+        "duration_ms": 187510,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "21AbakVGnrNSdineegyZnB",
+    "name": "More Than A Miracle",
+    "duration_ms": 245701,
+    "explicit": false,
+    "track_number": 2,
+    "artist": "MNEK",
+    "album": "Small Talk - EP",
+    "playlist": "Liked from Radio",
+    "bpm": 120.962,
+    "features": [
+      {
+        "danceability": 0.746,
+        "energy": 0.851,
+        "key": 0,
+        "loudness": -4.072,
+        "mode": 0,
+        "speechiness": 0.0463,
+        "acousticness": 0.00872,
+        "instrumentalness": 0,
+        "liveness": 0.227,
+        "valence": 0.413,
+        "tempo": 120.962,
+        "type": "audio_features",
+        "id": "21AbakVGnrNSdineegyZnB",
+        "uri": "spotify:track:21AbakVGnrNSdineegyZnB",
+        "track_href": "https://api.spotify.com/v1/tracks/21AbakVGnrNSdineegyZnB",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/21AbakVGnrNSdineegyZnB",
+        "duration_ms": 245701,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "0dKYukgkmv37SebbuUE6YJ",
+    "name": "Born to Raise Hell",
+    "duration_ms": 212306,
+    "explicit": true,
+    "track_number": 3,
+    "artist": "Crazy Town",
+    "album": "The Brimstone Sluggers",
+    "playlist": "Liked from Radio",
+    "bpm": 80.03,
+    "features": [
+      {
+        "danceability": 0.57,
+        "energy": 0.848,
+        "key": 10,
+        "loudness": -3.0,
+        "mode": 0,
+        "speechiness": 0.066,
+        "acousticness": 0.0573,
+        "instrumentalness": 0,
+        "liveness": 0.124,
+        "valence": 0.654,
+        "tempo": 80.03,
+        "type": "audio_features",
+        "id": "0dKYukgkmv37SebbuUE6YJ",
+        "uri": "spotify:track:0dKYukgkmv37SebbuUE6YJ",
+        "track_href": "https://api.spotify.com/v1/tracks/0dKYukgkmv37SebbuUE6YJ",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/0dKYukgkmv37SebbuUE6YJ",
+        "duration_ms": 212307,
+        "time_signature": 4
+      }
+    ]
+  }
+]

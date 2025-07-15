@@ -2,6 +2,9 @@
   {
     "id": "7xENAAODeE2hKzdWFI6YaB",
     "name": "Entergalactic Theme",
+    "duration_ms": 90480,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 87.07,
@@ -31,6 +34,9 @@
   {
     "id": "42pKWuJst0oAuUbTvkNqr6",
     "name": "New Mode",
+    "duration_ms": 236320,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 152.064,
@@ -60,6 +66,9 @@
   {
     "id": "5OIz27S6SQOJtweneBd6QP",
     "name": "Do What I Want",
+    "duration_ms": 172053,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 154.998,
@@ -89,6 +98,9 @@
   {
     "id": "1T8YUlqrG15Tjetxhos6eJ",
     "name": "Angel",
+    "duration_ms": 146666,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 115.458,
@@ -118,6 +130,9 @@
   {
     "id": "7CY88rDZ8oKYAlmYoSyxwR",
     "name": "Ignite The Love",
+    "duration_ms": 162066,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 90.069,
@@ -147,6 +162,9 @@
   {
     "id": "2aerPJ594vJMo0lK0hHGRO",
     "name": "In Love",
+    "duration_ms": 218160,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 121.462,
@@ -176,6 +194,9 @@
   {
     "id": "1OFQT3lHGbnn3x9jPtagXk",
     "name": "Willing To Trust (with Ty Dolla $ign)",
+    "duration_ms": 282053,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 78.013,
@@ -205,6 +226,9 @@
   {
     "id": "1r3qUIDhMvoTct7cxPnbdN",
     "name": "Can't Believe It (feat. 2 Chainz)",
+    "duration_ms": 172106,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 169.878,
@@ -234,6 +258,9 @@
   {
     "id": "37Qn9foJ2E2S24guZSyvyg",
     "name": "Livin' My Truth",
+    "duration_ms": 133506,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 80.99,
@@ -263,6 +290,9 @@
   {
     "id": "2K5cJfIJ5nak7BPfnM6VHP",
     "name": "Maybe So",
+    "duration_ms": 220186,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 142.105,
@@ -292,6 +322,9 @@
   {
     "id": "4AmISPiQJMPLN4KootjCUu",
     "name": "Can't Shake Her (with Ty Dolla $ign)",
+    "duration_ms": 176600,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 121.004,
@@ -321,6 +354,9 @@
   {
     "id": "1WWCpeMyByhHYM2K9atukB",
     "name": "She's Lookin' For Me",
+    "duration_ms": 215466,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 76.003,
@@ -350,6 +386,9 @@
   {
     "id": "6MQuFi8gzoJAYwxkYvnbb1",
     "name": "My Drug",
+    "duration_ms": 131373,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 150.372,
@@ -379,6 +418,9 @@
   {
     "id": "1irXetrpIyLUtvkNw2F2tu",
     "name": "Somewhere to Fly (with Don Toliver)",
+    "duration_ms": 176680,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 171.003,
@@ -408,6 +450,9 @@
   {
     "id": "79QdtrBWO8lCVaZCYMIxvn",
     "name": "Burrow (with Don Toliver, Steve Aoki & Dot Da Genius) - Bonus Track",
+    "duration_ms": 211280,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
     "bpm": 135.012,

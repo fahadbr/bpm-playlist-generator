@@ -2,6 +2,9 @@
   {
     "id": "5ijRo57xB9POuPL5UZATq8",
     "name": "Clarity",
+    "duration_ms": 332800,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Protest The Hero",
     "album": "Volition",
     "bpm": 131.437,
@@ -31,6 +34,9 @@
   {
     "id": "4yaZSWjsZPX47grNDQkbGs",
     "name": "Drumhead Trial",
+    "duration_ms": 268533,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Protest The Hero",
     "album": "Volition",
     "bpm": 204.051,
@@ -60,6 +66,9 @@
   {
     "id": "5wEUo40Cwcr7Ci5GZv51nF",
     "name": "Tilting Against Windmills",
+    "duration_ms": 254040,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Protest The Hero",
     "album": "Volition",
     "bpm": 150.08,
@@ -89,6 +98,9 @@
   {
     "id": "0KMxmPmZxfWBOX79Ww4giL",
     "name": "Without Prejudice",
+    "duration_ms": 255226,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Protest The Hero",
     "album": "Volition",
     "bpm": 170.059,
@@ -118,6 +130,9 @@
   {
     "id": "5CATOfdnCMzFIuKGjmaNk7",
     "name": "Yellow Teeth",
+    "duration_ms": 249053,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Protest The Hero",
     "album": "Volition",
     "bpm": 92.862,
@@ -147,6 +162,9 @@
   {
     "id": "658koUwoynKNZpHKZvpj0y",
     "name": "Plato's Tripartite",
+    "duration_ms": 322720,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Protest The Hero",
     "album": "Volition",
     "bpm": 193.944,
@@ -176,6 +194,9 @@
   {
     "id": "347MGAZ6Fd1BCPfvaO8JYq",
     "name": "A Life Embossed",
+    "duration_ms": 333000,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Protest The Hero",
     "album": "Volition",
     "bpm": 144.094,
@@ -205,6 +226,9 @@
   {
     "id": "5N2EQBTcMyqnYmyF7kl1yI",
     "name": "Mist",
+    "duration_ms": 352453,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Protest The Hero",
     "album": "Volition",
     "bpm": 146.3,
@@ -234,6 +258,9 @@
   {
     "id": "4BPjLkiKvn1POvdt82Vtog",
     "name": "Underbite",
+    "duration_ms": 225066,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Protest The Hero",
     "album": "Volition",
     "bpm": 178.076,
@@ -263,6 +290,9 @@
   {
     "id": "5RmJ3OhT3h3JyUf9a0JbcK",
     "name": "Animal Bones",
+    "duration_ms": 277173,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Protest The Hero",
     "album": "Volition",
     "bpm": 136.13,
@@ -292,6 +322,9 @@
   {
     "id": "4wnK4GZjANgErjVHKkAQYx",
     "name": "Skies",
+    "duration_ms": 383346,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Protest The Hero",
     "album": "Volition",
     "bpm": 87.689,

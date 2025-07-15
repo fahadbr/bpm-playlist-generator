@@ -2,6 +2,9 @@
   {
     "id": "5zfvGTlCAxY6GwZ9TkCZ4M",
     "name": "Ten Thousand Hours",
+    "duration_ms": 249534,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 80.488,
@@ -31,6 +34,9 @@
   {
     "id": "22skzmqfdWrjJylampe0kt",
     "name": "Can't Hold Us (feat. Ray Dalton)",
+    "duration_ms": 258431,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 146.097,
@@ -60,6 +66,9 @@
   {
     "id": "6CjtS2JZH9RkDz5UVInsa9",
     "name": "Thrift Shop (feat. Wanz)",
+    "duration_ms": 235613,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 94.993,
@@ -89,6 +98,9 @@
   {
     "id": "2fydEzbtN7EkzbEC4iMYhn",
     "name": "Thin Line (feat. Buffalo Madonna)",
+    "duration_ms": 256179,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 104.717,
@@ -118,6 +130,9 @@
   {
     "id": "2SUbEGOWS0cUV19uFjQQxR",
     "name": "Same Love (feat. Mary Lambert)",
+    "duration_ms": 320034,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 84.964,
@@ -147,6 +162,9 @@
   {
     "id": "0YnkUO5Pb02TyNtS9DpOd4",
     "name": "Make The Money",
+    "duration_ms": 224834,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 88.763,
@@ -176,6 +194,9 @@
   {
     "id": "3VAXbgI4hKU3Dk7VWpFMMf",
     "name": "Neon Cathedral (feat. Allen Stone)",
+    "duration_ms": 274285,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 164.488,
@@ -205,6 +226,9 @@
   {
     "id": "0lqbeYBf3b3DQEageCXThv",
     "name": "BomBom (feat. The Teaching)",
+    "duration_ms": 295679,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 126.478,
@@ -234,6 +258,9 @@
   {
     "id": "1o1Pny4JcE3LdUBeBedbm6",
     "name": "White Walls (feat. ScHoolboy Q & Hollis)",
+    "duration_ms": 220319,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 116.492,
@@ -263,6 +290,9 @@
   {
     "id": "0s4NbQ0wejCPZu6aMrpVQM",
     "name": "Jimmy Iovine (feat. Ab-Soul)",
+    "duration_ms": 233195,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 77.448,
@@ -292,6 +322,9 @@
   {
     "id": "2NywFcoD8G4U5SyIh8CWQ3",
     "name": "Wing$",
+    "duration_ms": 299599,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 73.052,
@@ -321,6 +354,9 @@
   {
     "id": "0f5leEKNHInbvCX5D09aZg",
     "name": "A Wake (feat. Evan Roman)",
+    "duration_ms": 226049,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 101.15,
@@ -350,6 +386,9 @@
   {
     "id": "0a4CAmtWcIjhoAHASaA4pt",
     "name": "Gold (feat. Eighty4 Fly)",
+    "duration_ms": 251509,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 172.023,
@@ -379,6 +418,9 @@
   {
     "id": "7gSyfcCtcnlHDbA8O3Lnls",
     "name": "Starting Over (feat. Ben Bridwell)",
+    "duration_ms": 251196,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 164.084,
@@ -408,6 +450,9 @@
   {
     "id": "3EXsZpJ5081LaCrjuiDVkc",
     "name": "Cowboy Boots",
+    "duration_ms": 257855,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 145.98,
@@ -437,6 +482,9 @@
   {
     "id": "5Zr7Kzw91ragcuFOn7JECm",
     "name": "Castle",
+    "duration_ms": 257961,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 120.057,
@@ -466,6 +514,9 @@
   {
     "id": "6Pi7FM06HeixUs0TChN1yh",
     "name": "My Oh My",
+    "duration_ms": 257053,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 177.725,
@@ -495,6 +546,9 @@
   {
     "id": "4KMj9aLrNc45H9ETYz7IcE",
     "name": "Victory Lap",
+    "duration_ms": 213717,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "bpm": 91.022,

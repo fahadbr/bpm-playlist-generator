@@ -2,6 +2,9 @@
   {
     "id": "1IBrHf9Gx055iQDqtAJ4t4",
     "name": "Tidal",
+    "duration_ms": 365748,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Protest The Hero",
     "album": "Pacific Myth (Deluxe Edition)",
     "bpm": 119.905,
@@ -31,6 +34,9 @@
   {
     "id": "3W8xTjZGYQPsOkRtBKSmia",
     "name": "Ragged Tooth",
+    "duration_ms": 218584,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Protest The Hero",
     "album": "Pacific Myth (Deluxe Edition)",
     "bpm": 139.282,
@@ -60,6 +66,9 @@
   {
     "id": "7uIx1LU4ls1miHLm18z1ov",
     "name": "Cold Water",
+    "duration_ms": 344844,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Protest The Hero",
     "album": "Pacific Myth (Deluxe Edition)",
     "bpm": 142.477,
@@ -89,6 +98,9 @@
   {
     "id": "6Fx595pA4ciggUaObKOPrJ",
     "name": "Cataract",
+    "duration_ms": 300451,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Protest The Hero",
     "album": "Pacific Myth (Deluxe Edition)",
     "bpm": 150.003,
@@ -118,6 +130,9 @@
   {
     "id": "26Xf5d3RJqJ03QKBjyvbnK",
     "name": "Harbinger",
+    "duration_ms": 367914,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Protest The Hero",
     "album": "Pacific Myth (Deluxe Edition)",
     "bpm": 110.103,
@@ -147,6 +162,9 @@
   {
     "id": "3dYRzwL7VMkFakxfABhvY2",
     "name": "Caravan",
+    "duration_ms": 519968,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Protest The Hero",
     "album": "Pacific Myth (Deluxe Edition)",
     "bpm": 152.077,
@@ -176,6 +194,9 @@
   {
     "id": "0Vc0icrfVecM2zcr75731l",
     "name": "Tidal (Instrumental)",
+    "duration_ms": 365748,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Protest The Hero",
     "album": "Pacific Myth (Deluxe Edition)",
     "bpm": 119.975,
@@ -205,6 +226,9 @@
   {
     "id": "65NjtwK63V8NwmudaLE8vD",
     "name": "Ragged Tooth (Instrumental)",
+    "duration_ms": 218584,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Protest The Hero",
     "album": "Pacific Myth (Deluxe Edition)",
     "bpm": 140.029,
@@ -234,6 +258,9 @@
   {
     "id": "5ebXPuFCcm7RyqLJrglePb",
     "name": "Cold Water (Instrumental)",
+    "duration_ms": 344844,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Protest The Hero",
     "album": "Pacific Myth (Deluxe Edition)",
     "bpm": 142.244,
@@ -263,6 +290,9 @@
   {
     "id": "623mzWZnwBUn4DRMIduuh5",
     "name": "Cataract (Instrumental)",
+    "duration_ms": 300451,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Protest The Hero",
     "album": "Pacific Myth (Deluxe Edition)",
     "bpm": 149.979,
@@ -292,6 +322,9 @@
   {
     "id": "0NTlH2txHaULJEOIZoaYtg",
     "name": "Harbinger (Instrumental)",
+    "duration_ms": 367914,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Protest The Hero",
     "album": "Pacific Myth (Deluxe Edition)",
     "bpm": 110.037,
@@ -321,6 +354,9 @@
   {
     "id": "73uDBLIRjD51jZg1Kt3HOI",
     "name": "Caravan (Instrumental)",
+    "duration_ms": 519968,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Protest The Hero",
     "album": "Pacific Myth (Deluxe Edition)",
     "bpm": 151.94,

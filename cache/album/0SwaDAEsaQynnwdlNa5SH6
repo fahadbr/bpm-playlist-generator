@@ -2,6 +2,9 @@
   {
     "id": "5wLpRSdYys13AeH8o0V8aE",
     "name": "Luminary",
+    "duration_ms": 192948,
+    "explicit": false,
+    "track_number": 1,
     "artist": "TesseracT",
     "album": "Sonder",
     "bpm": 156.035,
@@ -31,6 +34,9 @@
   {
     "id": "3hs3Xcbk1p2YHxmfcieLiU",
     "name": "King",
+    "duration_ms": 416000,
+    "explicit": false,
+    "track_number": 2,
     "artist": "TesseracT",
     "album": "Sonder",
     "bpm": 120.043,
@@ -60,6 +66,9 @@
   {
     "id": "0h5OaST7FKfGsWFMD8fcsk",
     "name": "Orbital",
+    "duration_ms": 139052,
+    "explicit": false,
+    "track_number": 3,
     "artist": "TesseracT",
     "album": "Sonder",
     "bpm": 119.545,
@@ -89,6 +98,9 @@
   {
     "id": "1xj9Mdr9jtBpRA6WqqMYbn",
     "name": "Juno",
+    "duration_ms": 312788,
+    "explicit": false,
+    "track_number": 4,
     "artist": "TesseracT",
     "album": "Sonder",
     "bpm": 108.006,
@@ -118,6 +130,9 @@
   {
     "id": "0pfuQHU0YfhmaHJ99W9lDb",
     "name": "Beneath My Skin / Mirror Image",
+    "duration_ms": 681000,
+    "explicit": false,
+    "track_number": 5,
     "artist": "TesseracT",
     "album": "Sonder",
     "bpm": 93.217,
@@ -147,6 +162,9 @@
   {
     "id": "6conLq3FI2EHqUuFc7LH6J",
     "name": "Smile",
+    "duration_ms": 287370,
+    "explicit": false,
+    "track_number": 6,
     "artist": "TesseracT",
     "album": "Sonder",
     "bpm": 94.996,
@@ -176,6 +194,9 @@
   {
     "id": "1dMabx7tqxUpeDYQAu8c7S",
     "name": "The Arrow",
+    "duration_ms": 157018,
+    "explicit": false,
+    "track_number": 7,
     "artist": "TesseracT",
     "album": "Sonder",
     "bpm": 93.954,

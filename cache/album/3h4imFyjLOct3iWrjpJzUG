@@ -2,6 +2,9 @@
   {
     "id": "7ccec2Fai8wSRf6BI9MYlC",
     "name": "We Are Destroyer",
+    "duration_ms": 209426,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Anberlin",
     "album": "Lowborn",
     "bpm": 159.965,
@@ -31,6 +34,9 @@
   {
     "id": "4iXOIvb9TStMyjeOq8Zurl",
     "name": "Armageddon",
+    "duration_ms": 245600,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Anberlin",
     "album": "Lowborn",
     "bpm": 93.001,
@@ -60,6 +66,9 @@
   {
     "id": "4hKexemujj48I1hFLCWjwm",
     "name": "Stranger Ways",
+    "duration_ms": 282373,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Anberlin",
     "album": "Lowborn",
     "bpm": 134.906,
@@ -89,6 +98,9 @@
   {
     "id": "5CZkZiFIDkmxds8jFFrqH0",
     "name": "Velvet Covered Brick",
+    "duration_ms": 236320,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Anberlin",
     "album": "Lowborn",
     "bpm": 156.959,
@@ -118,6 +130,9 @@
   {
     "id": "7N2uDrFW4OtxfWLuP96XQV",
     "name": "Atonement",
+    "duration_ms": 257293,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Anberlin",
     "album": "Lowborn",
     "bpm": 81.978,
@@ -147,6 +162,9 @@
   {
     "id": "0gq8C518MTZuTf8VxoU670",
     "name": "Birds of Prey",
+    "duration_ms": 235773,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Anberlin",
     "album": "Lowborn",
     "bpm": 136.984,
@@ -176,6 +194,9 @@
   {
     "id": "3g6OfZHk92WJUv7ODFKuO4",
     "name": "Dissenter",
+    "duration_ms": 195840,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Anberlin",
     "album": "Lowborn",
     "bpm": 149.915,
@@ -205,6 +226,9 @@
   {
     "id": "7wYZyREpCnV0KM2MgX82Rz",
     "name": "Losing It All",
+    "duration_ms": 254786,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Anberlin",
     "album": "Lowborn",
     "bpm": 177.965,
@@ -234,6 +258,9 @@
   {
     "id": "5RibjOFyMKUskdc0U8URmJ",
     "name": "Hearing Voices",
+    "duration_ms": 214920,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Anberlin",
     "album": "Lowborn",
     "bpm": 142.003,
@@ -263,6 +290,9 @@
   {
     "id": "3fHFeW9vwiZkBSHNWyTUi2",
     "name": "Harbinger",
+    "duration_ms": 277146,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Anberlin",
     "album": "Lowborn",
     "bpm": 133.176,

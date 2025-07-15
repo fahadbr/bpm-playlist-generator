@@ -2,6 +2,9 @@
   {
     "id": "2MuMD298IpYqKF367wegUd",
     "name": "Homicide (feat. Eminem)",
+    "duration_ms": 245386,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "playlist": "workout 10/12/19",
@@ -32,6 +35,9 @@
   {
     "id": "0ZN72tCEgbwPXEtj6TPMxK",
     "name": "Still Ballin (feat. Wiz Khalifa)",
+    "duration_ms": 239986,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "playlist": "workout 10/12/19",
@@ -62,6 +68,9 @@
   {
     "id": "6R59nB9CEaOqrRVxu7JAoR",
     "name": "Cocaine",
+    "duration_ms": 174560,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "playlist": "workout 10/12/19",
@@ -92,8 +101,12 @@
   {
     "id": "60SdxE8apGAxMiRrpbmLY0",
     "name": "Lucky You (feat. Joyner Lucas)",
+    "duration_ms": 244679,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Eminem",
     "album": "Kamikaze",
+    "playlist": "workout 10/12/19",
     "bpm": 153.068,
     "features": [
       {
@@ -121,6 +134,9 @@
   {
     "id": "31qgVdvSqTQ7unwQQngycB",
     "name": "Can't Hold Us (feat. Ray Dalton)",
+    "duration_ms": 258431,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "playlist": "workout 10/12/19",
@@ -151,8 +167,12 @@
   {
     "id": "2gZUPNdnz5Y45eiGxpHGSc",
     "name": "POWER",
+    "duration_ms": 292093,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
+    "playlist": "workout 10/12/19",
     "bpm": 153.993,
     "features": [
       {
@@ -180,8 +200,12 @@
   {
     "id": "1ZHYJ2Wwgxes4m8Ba88PeK",
     "name": "Monster",
+    "duration_ms": 378893,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
+    "playlist": "workout 10/12/19",
     "bpm": 124.887,
     "features": [
       {
@@ -209,6 +233,9 @@
   {
     "id": "0XiivUyimrmkUyJkKiILPW",
     "name": "Under A Killing Moon",
+    "duration_ms": 161733,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Thrice",
     "album": "The Artist In The Ambulance",
     "playlist": "workout 10/12/19",
@@ -239,6 +266,9 @@
   {
     "id": "6VKP3Aru2I3OXMQX2yaMWX",
     "name": "All That's Left",
+    "duration_ms": 199880,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Thrice",
     "album": "The Artist In The Ambulance",
     "playlist": "workout 10/12/19",
@@ -269,6 +299,9 @@
   {
     "id": "29Jd4IOri1huZ2ivDw03xh",
     "name": "Blood Clots And Black Holes",
+    "duration_ms": 170000,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Thrice",
     "album": "The Artist In The Ambulance",
     "playlist": "workout 10/12/19",

@@ -2,6 +2,9 @@
   {
     "id": "5aR7IIJ5F5POGve7RelwU6",
     "name": "Of Matter \u2013 Proxy",
+    "duration_ms": 304786,
+    "explicit": false,
+    "track_number": 1,
     "artist": "TesseracT",
     "album": "Altered State",
     "bpm": 117.964,
@@ -31,6 +34,9 @@
   {
     "id": "3MhRRB9pNHFvUSdz1C6jLv",
     "name": "Of Matter \u2013 Retrospect",
+    "duration_ms": 332520,
+    "explicit": false,
+    "track_number": 2,
     "artist": "TesseracT",
     "album": "Altered State",
     "bpm": 119.907,
@@ -60,6 +66,9 @@
   {
     "id": "2ZOViFIfFknbJRuDx2941s",
     "name": "Of Matter \u2013 Resist",
+    "duration_ms": 220080,
+    "explicit": false,
+    "track_number": 3,
     "artist": "TesseracT",
     "album": "Altered State",
     "bpm": 80.67,
@@ -89,6 +98,9 @@
   {
     "id": "0T9nGr2vBMrFJ6BbYobcKs",
     "name": "Of Mind \u2013 Nocturne",
+    "duration_ms": 350306,
+    "explicit": false,
+    "track_number": 4,
     "artist": "TesseracT",
     "album": "Altered State",
     "bpm": 130.007,
@@ -118,6 +130,9 @@
   {
     "id": "1FGtL9rBJJ0XyR85BhL48d",
     "name": "Of Mind \u2013 Exile",
+    "duration_ms": 530093,
+    "explicit": false,
+    "track_number": 5,
     "artist": "TesseracT",
     "album": "Altered State",
     "bpm": 89.978,
@@ -147,6 +162,9 @@
   {
     "id": "7g5kx5v36p5kJGCUYyMg1Z",
     "name": "Of Reality \u2013 Eclipse",
+    "duration_ms": 303146,
+    "explicit": false,
+    "track_number": 6,
     "artist": "TesseracT",
     "album": "Altered State",
     "bpm": 120.094,
@@ -176,6 +194,9 @@
   {
     "id": "7qOusTCoE6VKVfbfWFqJ4H",
     "name": "Of Reality \u2013 Palingenesis",
+    "duration_ms": 166346,
+    "explicit": false,
+    "track_number": 7,
     "artist": "TesseracT",
     "album": "Altered State",
     "bpm": 194.965,
@@ -205,6 +226,9 @@
   {
     "id": "0nlVTyVKWkUKPDUrNbQIAk",
     "name": "Of Reality \u2013 Calabi-Yau",
+    "duration_ms": 120533,
+    "explicit": false,
+    "track_number": 8,
     "artist": "TesseracT",
     "album": "Altered State",
     "bpm": 125.075,
@@ -234,6 +258,9 @@
   {
     "id": "2Ham4aFTK2KXseO7x0Vu6u",
     "name": "Of Energy \u2013 Singularity",
+    "duration_ms": 500600,
+    "explicit": false,
+    "track_number": 9,
     "artist": "TesseracT",
     "album": "Altered State",
     "bpm": 145.043,
@@ -263,6 +290,9 @@
   {
     "id": "6SMYo0Yk85Tm9oFCfwFUSY",
     "name": "Of Energy \u2013 Embers",
+    "duration_ms": 216120,
+    "explicit": false,
+    "track_number": 10,
     "artist": "TesseracT",
     "album": "Altered State",
     "bpm": 108.695,

@@ -2,6 +2,9 @@
   {
     "id": "2cpgROIq904ByjJH6fI7ux",
     "name": "Lit Me Up",
+    "duration_ms": 376960,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Brand New",
     "album": "Science Fiction",
     "bpm": 110.0,
@@ -31,6 +34,9 @@
   {
     "id": "03gwBLH630cKYF1gr6hMGF",
     "name": "Can't Get It Out",
+    "duration_ms": 222960,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Brand New",
     "album": "Science Fiction",
     "bpm": 97.977,
@@ -60,6 +66,9 @@
   {
     "id": "2cqHt0tRW410Kh3CvmMA7a",
     "name": "Waste",
+    "duration_ms": 276080,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Brand New",
     "album": "Science Fiction",
     "bpm": 122.039,
@@ -89,6 +98,9 @@
   {
     "id": "7l2u8BDDY5z0zRIuuzDWa7",
     "name": "Could Never Be Heaven",
+    "duration_ms": 196400,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Brand New",
     "album": "Science Fiction",
     "bpm": 138.17,
@@ -118,6 +130,9 @@
   {
     "id": "48uJhKG2MEAmuuHVbYlQeI",
     "name": "Same Logic/Teeth",
+    "duration_ms": 334080,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Brand New",
     "album": "Science Fiction",
     "bpm": 147.783,
@@ -147,6 +162,9 @@
   {
     "id": "5UJRokNXkOSFSenBdTQ4VY",
     "name": "137",
+    "duration_ms": 301640,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Brand New",
     "album": "Science Fiction",
     "bpm": 120.888,
@@ -176,6 +194,9 @@
   {
     "id": "0GqODyYPTXMZ1pmLpli3o5",
     "name": "Out of Mana",
+    "duration_ms": 314880,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Brand New",
     "album": "Science Fiction",
     "bpm": 164.034,
@@ -205,6 +226,9 @@
   {
     "id": "4tuH1A02qxLUitucDKxwFN",
     "name": "In the Water",
+    "duration_ms": 412200,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Brand New",
     "album": "Science Fiction",
     "bpm": 131.923,
@@ -234,6 +258,9 @@
   {
     "id": "7hOk4uDmKCbn2HZtH5dpk0",
     "name": "Desert",
+    "duration_ms": 216520,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Brand New",
     "album": "Science Fiction",
     "bpm": 109.087,
@@ -263,6 +290,9 @@
   {
     "id": "08ODqttEOulXuWCEdFqHAP",
     "name": "No Control",
+    "duration_ms": 235400,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Brand New",
     "album": "Science Fiction",
     "bpm": 86.772,
@@ -292,6 +322,9 @@
   {
     "id": "2R8Pbt66589OeJJlJ2acML",
     "name": "451",
+    "duration_ms": 292880,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Brand New",
     "album": "Science Fiction",
     "bpm": 131.993,
@@ -321,6 +354,9 @@
   {
     "id": "5laqMkMsPIhTkngMrOI0Sw",
     "name": "Batter Up",
+    "duration_ms": 507765,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Brand New",
     "album": "Science Fiction",
     "bpm": 80.001,

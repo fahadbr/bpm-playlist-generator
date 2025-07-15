@@ -2,6 +2,9 @@
   {
     "id": "3J7DDL3rGkwlIm4UkIyZcQ",
     "name": "introll",
+    "duration_ms": 59579,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
     "bpm": 162.055,
@@ -31,6 +34,9 @@
   {
     "id": "4lHBn99hzTKCqmEGoZaZcL",
     "name": "Vaccine",
+    "duration_ms": 121558,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
     "bpm": 149.922,
@@ -60,6 +66,9 @@
   {
     "id": "6XOY1Y6mZmkzoa9NDfozt3",
     "name": "Get Up",
+    "duration_ms": 213334,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
     "bpm": 153.085,
@@ -89,6 +98,9 @@
   {
     "id": "26xfrX9phl1NNsz1H5TJJn",
     "name": "My Way",
+    "duration_ms": 156530,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
     "bpm": 184.021,
@@ -118,6 +130,9 @@
   {
     "id": "3GnKQbsTncWdliHNgqg0Av",
     "name": "Call Me",
+    "duration_ms": 210177,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
     "bpm": 154.178,
@@ -147,6 +162,9 @@
   {
     "id": "4FC0MkDV5elZUcHDXZm1nj",
     "name": "Inside (feat. Cynthia Erivo)",
+    "duration_ms": 140370,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
     "bpm": 88.365,
@@ -176,6 +194,9 @@
   {
     "id": "0OUZoXhXP1XbJnaez0jSJ4",
     "name": "Flawless",
+    "duration_ms": 224150,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
     "bpm": 137.054,
@@ -205,6 +226,9 @@
   {
     "id": "0aROixALIghwvjNG4iD8pI",
     "name": "Stupid Skit",
+    "duration_ms": 49535,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
     "bpm": 77.037,
@@ -234,6 +258,9 @@
   {
     "id": "08dXaiP8qdpvQqGKv5rUqE",
     "name": "Theme For The People",
+    "duration_ms": 116829,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
     "bpm": 138.055,
@@ -263,6 +290,9 @@
   {
     "id": "0p0b3Sq6hHoWLjQwND3etN",
     "name": "God Might Judge",
+    "duration_ms": 330074,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
     "bpm": 93.032,
@@ -292,6 +322,9 @@
   {
     "id": "2wRHD4n81GyhlVMxYJ0nks",
     "name": "See You Space Cowboy...",
+    "duration_ms": 240228,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
     "bpm": 93.994,
@@ -321,6 +354,9 @@
   {
     "id": "4ADNavlMOA9rx9hKw51PCW",
     "name": "untitled",
+    "duration_ms": 129197,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
     "bpm": 93.14,

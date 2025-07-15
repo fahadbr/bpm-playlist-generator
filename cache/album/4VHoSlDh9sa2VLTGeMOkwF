@@ -2,6 +2,9 @@
   {
     "id": "6dP7XttBXZl7OdmBzNt9sN",
     "name": "Condemned to the Gallows",
+    "duration_ms": 394880,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Between The Buried And Me",
     "album": "Automata I",
     "bpm": 126.08,
@@ -31,6 +34,9 @@
   {
     "id": "1O0HrrheKJoM3yuR3wDF3N",
     "name": "House Organ",
+    "duration_ms": 221069,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Between The Buried And Me",
     "album": "Automata I",
     "bpm": 125.075,
@@ -60,6 +66,9 @@
   {
     "id": "6mdDLmuUd89Oyi8qEfB4YS",
     "name": "Yellow Eyes",
+    "duration_ms": 524663,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Between The Buried And Me",
     "album": "Automata I",
     "bpm": 95.224,
@@ -89,6 +98,9 @@
   {
     "id": "3fGiexNH3CR9mzfdcuz23G",
     "name": "Millions",
+    "duration_ms": 283466,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Between The Buried And Me",
     "album": "Automata I",
     "bpm": 120.001,
@@ -118,6 +130,9 @@
   {
     "id": "5qLsFqHVJsVp205YiUQrNz",
     "name": "Gold Distance",
+    "duration_ms": 61863,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Between The Buried And Me",
     "album": "Automata I",
     "bpm": 142.126,
@@ -147,6 +162,9 @@
   {
     "id": "0ytiYf9F2Bdnhlvu5AdzyH",
     "name": "Blot",
+    "duration_ms": 627330,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Between The Buried And Me",
     "album": "Automata I",
     "bpm": 148.017,

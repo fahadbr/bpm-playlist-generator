@@ -2,6 +2,9 @@
   {
     "id": "5pu7aEkjSMFVxFiboIDixE",
     "name": "Under The Sun (with J. Cole & Lute feat. DaBaby)",
+    "duration_ms": 201773,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 138.836,
@@ -31,6 +34,9 @@
   {
     "id": "1SYZeqExX1250udNlaEAze",
     "name": "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
+    "duration_ms": 169146,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 149.814,
@@ -60,6 +66,9 @@
   {
     "id": "7KNE7h5dcOP8HgfrlAkHuE",
     "name": "LamboTruck (with Cozz feat. REASON & Childish Major)",
+    "duration_ms": 229386,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 135.001,
@@ -89,6 +98,9 @@
   {
     "id": "4ucPhGibPjInOykvVNViRU",
     "name": "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
+    "duration_ms": 194613,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 109.839,
@@ -118,6 +130,9 @@
   {
     "id": "5bnMRsrpblLaINuPh6b6QA",
     "name": "Oh Wow...Swerve (with J. Cole feat. Zoink Gang, KEY! & Maxo Kream)",
+    "duration_ms": 275986,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 165.265,
@@ -147,6 +162,9 @@
   {
     "id": "5NiJFLsaw1cUP80CPyMjdN",
     "name": "Don't Hit Me Right Now (with Bas & Cozz feat. Yung Baby Tate, Guapdad 4000 & Buddy)",
+    "duration_ms": 174360,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 123.98,
@@ -176,6 +194,9 @@
   {
     "id": "1tJfLhetVOhr9QtvMVTDrg",
     "name": "Wells Fargo (with JID & EARTHGANG feat. Buddy & Guapdad 4000) - Interlude",
+    "duration_ms": 123413,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 148.022,
@@ -205,6 +226,9 @@
   {
     "id": "0qkiLDGEMIvrpSRIyAU6Xy",
     "name": "Sleep Deprived (with Lute & Omen feat. Mez & DaVionne)",
+    "duration_ms": 238453,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 88.174,
@@ -234,6 +258,9 @@
   {
     "id": "6icmAHgt5ZcKijVxGme5ug",
     "name": "Self Love (with Ari Lennox & Bas feat. Baby Rose)",
+    "duration_ms": 223013,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 106.05,
@@ -263,6 +290,9 @@
   {
     "id": "001tGjS4WX77wtQGCP8Sfm",
     "name": "Ladies, Ladies, Ladies (with JID feat. T.I.)",
+    "duration_ms": 167786,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 80.436,
@@ -292,6 +322,9 @@
   {
     "id": "6stSUCyAY8mfBX00Nc5UuI",
     "name": "Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)",
+    "duration_ms": 217866,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 120.933,
@@ -321,6 +354,9 @@
   {
     "id": "5lnkEsVe0nThSA7YcvzTLA",
     "name": "1993 (with J. Cole, JID, Cozz & EARTHGANG feat. Smino & Buddy)",
+    "duration_ms": 210466,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 177.677,
@@ -350,6 +386,9 @@
   {
     "id": "1zJ7ymdM0xajHw4ZYLICBo",
     "name": "Rembrandt...Run It Back (with JID & J. Cole feat. Vince Staples)",
+    "duration_ms": 151826,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 140.425,
@@ -379,6 +418,9 @@
   {
     "id": "1RSjLwX6inbcfF23cuqgrM",
     "name": "Sunset (with J. Cole feat. Young Nudy)",
+    "duration_ms": 178373,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 129.927,
@@ -408,6 +450,9 @@
   {
     "id": "19Yum3jpUU8gey1Ue0dP4m",
     "name": "Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)",
+    "duration_ms": 284040,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 76.276,
@@ -437,6 +482,9 @@
   {
     "id": "7CX1m1nI25iiNoOgRKNoIT",
     "name": "MIDDLE CHILD",
+    "duration_ms": 213000,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 126.021,
@@ -466,6 +514,9 @@
   {
     "id": "5wYslsQvKIIWDt7PN6Y0zd",
     "name": "PTSD (with Omen feat. Mereba, Deante' Hitchcock & St. Beauty)",
+    "duration_ms": 237853,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 95.306,
@@ -495,6 +546,9 @@
   {
     "id": "33mhcaisagS8xc7ZTckRU9",
     "name": "Sacrifices (with EARTHGANG & J. Cole feat. Smino & Saba)",
+    "duration_ms": 382306,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 146.995,
@@ -524,6 +578,9 @@
   {
     "id": "2pQUmVMJiuGx3Dh0daDcJz",
     "name": "Big Black Truck (with JID)",
+    "duration_ms": 152973,
+    "explicit": true,
+    "track_number": 19,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 171.332,
@@ -553,6 +610,9 @@
   {
     "id": "7pTnbqbltYggOYbXrIE3V9",
     "name": "Still Up (with EARTHGANG feat. REASON)",
+    "duration_ms": 205200,
+    "explicit": true,
+    "track_number": 20,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 150.003,
@@ -582,6 +642,9 @@
   {
     "id": "1MobF57nbROs1ml9IYEzwN",
     "name": "Outta Pocket (with Bas & Cozz feat. Girl Talk)",
+    "duration_ms": 157213,
+    "explicit": true,
+    "track_number": 21,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 129.989,
@@ -611,6 +674,9 @@
   {
     "id": "5hrDDQTYaIH6iD2zX7uuoj",
     "name": "Late Night (with Cozz & Omen feat. Buddy & Landstrip Chip)",
+    "duration_ms": 196920,
+    "explicit": true,
+    "track_number": 22,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 125.451,
@@ -640,6 +706,9 @@
   {
     "id": "1tJq10vQnqYI0eiZd9FkEB",
     "name": "Spin Move (with Bas feat. Saba, Smino & The Hics)",
+    "duration_ms": 223533,
+    "explicit": true,
+    "track_number": 23,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 75.098,
@@ -669,6 +738,9 @@
   {
     "id": "39KiTKARPALXdEYaG5tqFM",
     "name": "BUSSIT (with Ari Lennox)",
+    "duration_ms": 150720,
+    "explicit": true,
+    "track_number": 24,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 144.96,
@@ -698,6 +770,9 @@
   {
     "id": "18AFdCGyTiy6WtTDlx1HnN",
     "name": "Passcode (with Ari Lennox feat. Buddy, Smino, Mez & Guapdad 4000)",
+    "duration_ms": 206000,
+    "explicit": true,
+    "track_number": 25,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 140.929,
@@ -727,6 +802,9 @@
   {
     "id": "6k6QKZTfsSkLcARPA3VY4D",
     "name": "Up Up Away (with JID & EARTHGANG feat. Vince Staples)",
+    "duration_ms": 199706,
+    "explicit": true,
+    "track_number": 26,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 77.977,
@@ -756,6 +834,9 @@
   {
     "id": "7oL60LH1UJgqauinmCYiGr",
     "name": "No Chorus (with Bas feat. Buddy, Guapdad 4000 & Dreezy)",
+    "duration_ms": 202213,
+    "explicit": true,
+    "track_number": 27,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 148.297,
@@ -785,6 +866,9 @@
   {
     "id": "6Kwblq3Rf6KWDPK3kUpNBg",
     "name": "Disgusted (with Cozz feat. Childish Major)",
+    "duration_ms": 163053,
+    "explicit": true,
+    "track_number": 28,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 86.836,
@@ -814,6 +898,9 @@
   {
     "id": "54DECsrTA7p2WdAllfCupL",
     "name": "Revenge (with Lute & Omen feat. Ari Lennox, EARTHGANG, Childish Major & REASON)",
+    "duration_ms": 333226,
+    "explicit": true,
+    "track_number": 29,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 151.091,
@@ -843,6 +930,9 @@
   {
     "id": "1hp7uTRi0jYcN6wgFP077U",
     "name": "Still Dreamin (with JID & Lute feat. 6LACK)",
+    "duration_ms": 261053,
+    "explicit": true,
+    "track_number": 30,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
     "bpm": 82.411,

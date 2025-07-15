@@ -2,6 +2,9 @@
   {
     "id": "72nxQrIi70DmIfuzFoRh7B",
     "name": "Spotlight",
+    "duration_ms": 303600,
+    "explicit": true,
+    "track_number": 1,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 90.804,
@@ -31,6 +34,9 @@
   {
     "id": "0Yvwo9fENGoa60k3ClwzQf",
     "name": "Alpha Omega",
+    "duration_ms": 212560,
+    "explicit": true,
+    "track_number": 2,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 124.103,
@@ -60,6 +66,9 @@
   {
     "id": "7rq7HvZrCie7MmiGm8pUVC",
     "name": "Till I Die",
+    "duration_ms": 212213,
+    "explicit": true,
+    "track_number": 3,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 110.05,
@@ -89,6 +98,9 @@
   {
     "id": "5qbhBDzV7r3RjT4ASzc49L",
     "name": "Eddie Cane",
+    "duration_ms": 186013,
+    "explicit": true,
+    "track_number": 4,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 169.96,
@@ -118,6 +130,9 @@
   {
     "id": "2kjPvFgVIGki2BRlOHvQQr",
     "name": "Bad Mother F*cker",
+    "duration_ms": 213960,
+    "explicit": true,
+    "track_number": 5,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 181.868,
@@ -147,6 +162,9 @@
   {
     "id": "5qkAxtjTFSXDbfB37LWQNH",
     "name": "World Series",
+    "duration_ms": 215106,
+    "explicit": true,
+    "track_number": 6,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 111.013,
@@ -176,6 +194,9 @@
   {
     "id": "6xVq1aDD9zn13GW1JOsZMv",
     "name": "Oz.",
+    "duration_ms": 178186,
+    "explicit": true,
+    "track_number": 7,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 141.045,
@@ -205,6 +226,9 @@
   {
     "id": "26NP9TlHzftGbMQORpuLe4",
     "name": "Everyday",
+    "duration_ms": 241960,
+    "explicit": true,
+    "track_number": 8,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 86.576,
@@ -234,6 +258,9 @@
   {
     "id": "0oWLsEchzMxbZuwKLfCkXN",
     "name": "Gone",
+    "duration_ms": 241360,
+    "explicit": true,
+    "track_number": 9,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 81.166,
@@ -263,6 +290,9 @@
   {
     "id": "29pgZPq4PhC5OxTuU2eDRh",
     "name": "Story Of The Stairs",
+    "duration_ms": 190146,
+    "explicit": true,
+    "track_number": 10,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 102.067,
@@ -292,6 +322,9 @@
   {
     "id": "7k9rcsOLrZBzxIL4cyAipZ",
     "name": "Merry Go Round",
+    "duration_ms": 245600,
+    "explicit": true,
+    "track_number": 11,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 160.154,
@@ -321,6 +354,9 @@
   {
     "id": "4VHhltj6aUxZJWnImrXDhC",
     "name": "A Little More",
+    "duration_ms": 237453,
+    "explicit": true,
+    "track_number": 12,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 90.053,
@@ -350,6 +386,9 @@
   {
     "id": "4gKCKczP2zGcRn5okrxLU7",
     "name": "All Night Long",
+    "duration_ms": 422720,
+    "explicit": true,
+    "track_number": 13,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 78.045,
@@ -379,6 +418,9 @@
   {
     "id": "2mCRr2EjObwLYpYyL4tiyt",
     "name": "Make It Happen",
+    "duration_ms": 282400,
+    "explicit": true,
+    "track_number": 14,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 101.02,
@@ -408,6 +450,9 @@
   {
     "id": "29vxkoDeEXaW7cFcNn0Ikh",
     "name": "Round Here",
+    "duration_ms": 260466,
+    "explicit": true,
+    "track_number": 15,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 114.2,
@@ -437,6 +482,9 @@
   {
     "id": "0u4zaXqDSnfkzWRDdSJfaj",
     "name": "Therapy",
+    "duration_ms": 213293,
+    "explicit": true,
+    "track_number": 16,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
     "bpm": 186.327,

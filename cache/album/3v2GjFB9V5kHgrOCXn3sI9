@@ -2,6 +2,9 @@
   {
     "id": "49gEUZk40WaBiw3dWycbqQ",
     "name": "Down (feat. Joi)",
+    "duration_ms": 209666,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 146.994,
@@ -31,6 +34,9 @@
   {
     "id": "101KS2AYeWa98ltX4ewE7h",
     "name": "Talk to Me",
+    "duration_ms": 151226,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 127.112,
@@ -60,6 +66,9 @@
   {
     "id": "7satW8tFLasyZbftvrWFBP",
     "name": "Legend Has It",
+    "duration_ms": 205866,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 120.97,
@@ -89,6 +98,9 @@
   {
     "id": "0y1mw940RjaXJ55VXFoAbM",
     "name": "Call Ticketron",
+    "duration_ms": 198640,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 120.018,
@@ -118,6 +130,9 @@
   {
     "id": "3nFvk4ImJMCgdpSlRSblHn",
     "name": "Hey Kids (Bumaye) (feat. Danny Brown)",
+    "duration_ms": 191840,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 136.075,
@@ -147,6 +162,9 @@
   {
     "id": "6e82jU1mqJlfPz8OX52kyy",
     "name": "Stay Gold",
+    "duration_ms": 207573,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 143.728,
@@ -176,6 +194,9 @@
   {
     "id": "4geKqZSxZdEsCUnMVhSThr",
     "name": "Don't Get Captured",
+    "duration_ms": 192226,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 131.042,
@@ -205,6 +226,9 @@
   {
     "id": "6ERKmHlROzY2gaZTDOjAuI",
     "name": "Thieves! (Screamed the Ghost) (feat. Tunde Adebimpe)",
+    "duration_ms": 242493,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 120.191,
@@ -234,6 +258,9 @@
   {
     "id": "3Fp7Qr0m39P7t8loxyZoog",
     "name": "2100 (feat. Boots)",
+    "duration_ms": 241440,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 97.504,
@@ -263,6 +290,9 @@
   {
     "id": "2c9ZkNtBxIbyetjR3ctuBn",
     "name": "Panther Like a Panther (Miracle Mix) (feat. Trina)",
+    "duration_ms": 221173,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 163.839,
@@ -292,6 +322,9 @@
   {
     "id": "5hh71622yE3zAgItucuLIE",
     "name": "Everybody Stay Calm",
+    "duration_ms": 178626,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 108.999,
@@ -321,6 +354,9 @@
   {
     "id": "6zPMDkXlw0BSKSdY0Ci1Uk",
     "name": "Oh Mama",
+    "duration_ms": 216586,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 75.991,
@@ -350,6 +386,9 @@
   {
     "id": "5rH44jGz4N5csNuMPwgMoF",
     "name": "Thursday in the Danger Room (feat. Kamasi Washington)",
+    "duration_ms": 262520,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 62.999,
@@ -379,6 +418,9 @@
   {
     "id": "7cXFQxnCKlTWdn1vow1v55",
     "name": "A Report to the Shareholders / Kill Your Masters",
+    "duration_ms": 374960,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Run The Jewels",
     "album": "Run the Jewels 3",
     "bpm": 155.967,

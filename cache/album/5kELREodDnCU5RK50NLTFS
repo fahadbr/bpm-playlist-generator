@@ -2,6 +2,9 @@
   {
     "id": "1nG6nK5ICPEjmiuiUJzC9f",
     "name": "ULTRA",
+    "duration_ms": 260783,
+    "explicit": false,
+    "track_number": 1,
     "artist": "NAVVI",
     "album": "ULTRA",
     "bpm": 149.728,
@@ -31,6 +34,9 @@
   {
     "id": "6l6N8ebMkKsD89gCePnSR2",
     "name": "101",
+    "duration_ms": 210028,
+    "explicit": false,
+    "track_number": 2,
     "artist": "NAVVI",
     "album": "ULTRA",
     "bpm": 104.998,
@@ -60,6 +66,9 @@
   {
     "id": "4mwStyKxeeni0Pymh7dIgD",
     "name": "Sampaguita",
+    "duration_ms": 173132,
+    "explicit": false,
+    "track_number": 3,
     "artist": "NAVVI",
     "album": "ULTRA",
     "bpm": 170.149,
@@ -89,6 +98,9 @@
   {
     "id": "2K7FkZIl4W841EIBs1rxKn",
     "name": "Possibilities",
+    "duration_ms": 295394,
+    "explicit": false,
+    "track_number": 4,
     "artist": "NAVVI",
     "album": "ULTRA",
     "bpm": 78.03,
@@ -118,6 +130,9 @@
   {
     "id": "3nVDyGMUwkEPeJacAT8IAe",
     "name": "Young Hearts",
+    "duration_ms": 252464,
+    "explicit": false,
+    "track_number": 5,
     "artist": "NAVVI",
     "album": "ULTRA",
     "bpm": 109.994,
@@ -147,6 +162,9 @@
   {
     "id": "13tfK31bbppYbLFaEQKR8K",
     "name": "Us",
+    "duration_ms": 266460,
+    "explicit": false,
+    "track_number": 6,
     "artist": "NAVVI",
     "album": "ULTRA",
     "bpm": 170.016,
@@ -176,6 +194,9 @@
   {
     "id": "4zu52jZ3GTyPPPYWpb3ynx",
     "name": "Devotion",
+    "duration_ms": 194621,
+    "explicit": false,
+    "track_number": 7,
     "artist": "NAVVI",
     "album": "ULTRA",
     "bpm": 119.989,
@@ -205,6 +226,9 @@
   {
     "id": "7KjQdrmGyicfDKW6SoTFQN",
     "name": "Ritual",
+    "duration_ms": 234165,
+    "explicit": false,
+    "track_number": 8,
     "artist": "NAVVI",
     "album": "ULTRA",
     "bpm": 170.058,
@@ -234,6 +258,9 @@
   {
     "id": "7jMETvrubtFZAevVGUUzpx",
     "name": "Unparalleled",
+    "duration_ms": 73358,
+    "explicit": false,
+    "track_number": 9,
     "artist": "NAVVI",
     "album": "ULTRA",
     "bpm": 170.091,
@@ -263,6 +290,9 @@
   {
     "id": "1sOJNyvSejWSByYdrQ1L59",
     "name": "Dreem",
+    "duration_ms": 248192,
+    "explicit": false,
+    "track_number": 10,
     "artist": "NAVVI",
     "album": "ULTRA",
     "bpm": 102.975,
@@ -292,6 +322,9 @@
   {
     "id": "2CTG6uRemTULzmNwpoKe04",
     "name": "Human Highlight Reel",
+    "duration_ms": 216834,
+    "explicit": false,
+    "track_number": 11,
     "artist": "NAVVI",
     "album": "ULTRA",
     "bpm": 132.05,

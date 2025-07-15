@@ -2,6 +2,9 @@
   {
     "id": "7MXVkk9YMctZqd1Srtv4MB",
     "name": "Starboy",
+    "duration_ms": 230453,
+    "explicit": true,
+    "track_number": 1,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 186.003,
@@ -31,6 +34,9 @@
   {
     "id": "4F7A0DXBrmUAkp32uenhZt",
     "name": "Party Monster",
+    "duration_ms": 249213,
+    "explicit": true,
+    "track_number": 2,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 77.525,
@@ -60,6 +66,9 @@
   {
     "id": "4oeaIftdpT3JuZLcCkKmVE",
     "name": "False Alarm",
+    "duration_ms": 220306,
+    "explicit": false,
+    "track_number": 3,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 173.978,
@@ -89,6 +98,9 @@
   {
     "id": "37F0uwRSrdzkBiuj0D5UHI",
     "name": "Reminder",
+    "duration_ms": 218880,
+    "explicit": true,
+    "track_number": 4,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 160.053,
@@ -118,6 +130,9 @@
   {
     "id": "36YCdzT57us0LhDmCYtrNE",
     "name": "Rockin\u2019",
+    "duration_ms": 232880,
+    "explicit": true,
+    "track_number": 5,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 112.878,
@@ -147,6 +162,9 @@
   {
     "id": "00NAQYOP4AmWR549nnYJZu",
     "name": "Secrets",
+    "duration_ms": 265600,
+    "explicit": false,
+    "track_number": 6,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 109.949,
@@ -176,6 +194,9 @@
   {
     "id": "1oGdVdYjeQvojGKDddxLQQ",
     "name": "True Colors",
+    "duration_ms": 206013,
+    "explicit": false,
+    "track_number": 7,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 76.671,
@@ -205,6 +226,9 @@
   {
     "id": "4EDijkJdHBZZ0GwJ12iTAj",
     "name": "Stargirl Interlude",
+    "duration_ms": 111640,
+    "explicit": false,
+    "track_number": 8,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 179.771,
@@ -234,6 +258,9 @@
   {
     "id": "4h90qkbnW1Qq6pBhoPvwko",
     "name": "Sidewalks",
+    "duration_ms": 231360,
+    "explicit": true,
+    "track_number": 9,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 149.828,
@@ -263,6 +290,9 @@
   {
     "id": "4mU5iXHeLgbR94siF7p1sY",
     "name": "Six Feet Under",
+    "duration_ms": 237573,
+    "explicit": true,
+    "track_number": 10,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 140.035,
@@ -292,6 +322,9 @@
   {
     "id": "27BgDmciSjoxTG0almHTpZ",
     "name": "Love To Lay",
+    "duration_ms": 223293,
+    "explicit": false,
+    "track_number": 11,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 116.971,
@@ -321,6 +354,9 @@
   {
     "id": "0ifooM33X1iBxVYyOkSbXW",
     "name": "A Lonely Night",
+    "duration_ms": 220173,
+    "explicit": false,
+    "track_number": 12,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 113.998,
@@ -350,6 +386,9 @@
   {
     "id": "6pDVjCUA3B1vg9waKutAsv",
     "name": "Attention",
+    "duration_ms": 197653,
+    "explicit": true,
+    "track_number": 13,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 148.04,
@@ -379,6 +418,9 @@
   {
     "id": "15k2nBQJ0teDmPZHrOXL2N",
     "name": "Ordinary Life",
+    "duration_ms": 221920,
+    "explicit": false,
+    "track_number": 14,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 149.748,
@@ -408,6 +450,9 @@
   {
     "id": "57qiTKh8bVX0VtfUNTQqhw",
     "name": "Nothing Without You",
+    "duration_ms": 198653,
+    "explicit": false,
+    "track_number": 15,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 109.833,
@@ -437,6 +482,9 @@
   {
     "id": "0NWqNXBJTpXbkI5rPWNy3p",
     "name": "All I Know",
+    "duration_ms": 321026,
+    "explicit": true,
+    "track_number": 16,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 120.049,
@@ -466,6 +514,9 @@
   {
     "id": "2Ch7LmS7r2Gy2kc64wv3Bz",
     "name": "Die For You",
+    "duration_ms": 260252,
+    "explicit": false,
+    "track_number": 17,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 133.63,
@@ -495,6 +546,9 @@
   {
     "id": "3dhjNA0jGA8vHBQ1VdD6vV",
     "name": "I Feel It Coming",
+    "duration_ms": 269186,
+    "explicit": false,
+    "track_number": 18,
     "artist": "The Weeknd",
     "album": "Starboy",
     "bpm": 92.987,

@@ -2,6 +2,9 @@
   {
     "id": "1l4iQsOZ5sOXZPMQLvouaB",
     "name": "Coast (feat. Anderson .Paak)",
+    "duration_ms": 166720,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Hailee Steinfeld",
     "album": "Coast",
     "playlist": "to dallas",
@@ -32,6 +35,9 @@
   {
     "id": "4QtiVmuA88tPQiCOHZuQ5b",
     "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+    "duration_ms": 201526,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Sof\u00eda Reyes",
     "album": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
     "playlist": "to dallas",
@@ -62,6 +68,9 @@
   {
     "id": "4lIxdJw6W3Fg4vUIYCB0S5",
     "name": "Style",
+    "duration_ms": 231000,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Taylor Swift",
     "album": "1989",
     "playlist": "to dallas",
@@ -92,6 +101,9 @@
   {
     "id": "5Y6nVaayzitvsD5F7nr3DV",
     "name": "West Coast",
+    "duration_ms": 256760,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Lana Del Rey",
     "album": "Ultraviolence (Deluxe)",
     "playlist": "to dallas",
@@ -122,8 +134,12 @@
   {
     "id": "51QEyJI5M7uyd8DOh9tqQY",
     "name": "Buzzcut Season",
+    "duration_ms": 246755,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Lorde",
-    "album": "Pure Heroine (Extended)",
+    "album": "Pure Heroine",
+    "playlist": "to dallas",
     "bpm": 111.039,
     "features": [
       {
@@ -151,6 +167,9 @@
   {
     "id": "2RPInGYh3BMVWm6buPzMdq",
     "name": "Bang Bang",
+    "duration_ms": 174368,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Hippo Campus",
     "album": "LP3",
     "playlist": "to dallas",
@@ -181,6 +200,9 @@
   {
     "id": "5D6Gw9OaP1Pl2GJo4vKTBW",
     "name": "Hungry Like the Wolf",
+    "duration_ms": 220626,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Duran Duran",
     "album": "American Football Anthems",
     "playlist": "to dallas",
@@ -211,6 +233,9 @@
   {
     "id": "4DukzQv7lF6DXe6Un7lghr",
     "name": "BREAK MY SOUL - THE QUEENS REMIX",
+    "duration_ms": 356000,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Beyonc\u00e9",
     "album": "BREAK MY SOUL (THE QUEENS REMIX)",
     "playlist": "to dallas",
@@ -241,6 +266,9 @@
   {
     "id": "4kXxEhuatrvwrTQycA7s9B",
     "name": "BIZCOCHITO",
+    "duration_ms": 109120,
+    "explicit": true,
+    "track_number": 7,
     "artist": "ROSAL\u00cdA",
     "album": "MOTOMAMI",
     "playlist": "to dallas",
@@ -271,6 +299,9 @@
   {
     "id": "3vkQ5DAB1qQMYO4Mr9zJN6",
     "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "duration_ms": 292613,
+    "explicit": false,
+    "track_number": 13,
     "artist": "ABBA",
     "album": "Voulez-Vous",
     "playlist": "to dallas",
@@ -301,6 +332,9 @@
   {
     "id": "1AWQoqb9bSvzTjaLralEkT",
     "name": "Rock Your Body",
+    "duration_ms": 267266,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Justin Timberlake",
     "album": "Justified",
     "playlist": "to dallas",
@@ -331,6 +365,9 @@
   {
     "id": "2PpruBYCo4H7WOBJ7Q2EwM",
     "name": "Hey Ya!",
+    "duration_ms": 235213,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Outkast",
     "album": "Speakerboxxx/The Love Below",
     "playlist": "to dallas",
@@ -361,6 +398,9 @@
   {
     "id": "6UelLqGlWMcVH1E5c4H7lY",
     "name": "Watermelon Sugar",
+    "duration_ms": 174000,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Harry Styles",
     "album": "Fine Line",
     "playlist": "to dallas",
@@ -391,6 +431,9 @@
   {
     "id": "282R6Lvm9nLtpx8AzUwJe0",
     "name": "Run It (feat. Rick Ross & Rich Brian)",
+    "duration_ms": 163389,
+    "explicit": false,
+    "track_number": 1,
     "artist": "DJ Snake",
     "album": "Run It (feat. Rick Ross & Rich Brian)",
     "playlist": "to dallas",
@@ -421,6 +464,9 @@
   {
     "id": "1OxcIUqVmVYxT6427tbhDW",
     "name": "Fly Away",
+    "duration_ms": 221332,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Lenny Kravitz",
     "album": "5",
     "playlist": "to dallas",
@@ -451,6 +497,9 @@
   {
     "id": "4wH4dJgrsxONID6KS2tDQM",
     "name": "Maneater",
+    "duration_ms": 258893,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Nelly Furtado",
     "album": "Loose",
     "playlist": "to dallas",

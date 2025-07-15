@@ -2,6 +2,9 @@
   {
     "id": "1SBl9gxNgTymUoPUjWMTs4",
     "name": "Intro",
+    "duration_ms": 186813,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 75.823,
@@ -31,6 +34,9 @@
   {
     "id": "2FZ4Ac2OfaZWdv1BKibjVR",
     "name": "Real (feat. Sarah Green)",
+    "duration_ms": 241466,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 140.698,
@@ -60,6 +66,9 @@
   {
     "id": "49mu0ewiqzCYPGY3IEtNad",
     "name": "Just Might Be OK (feat. Gemini)",
+    "duration_ms": 264346,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 87.317,
@@ -89,6 +98,9 @@
   {
     "id": "6nz35DNIzbtj5ztpDEcW1j",
     "name": "Kick, Push",
+    "duration_ms": 254466,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 94.786,
@@ -118,6 +130,9 @@
   {
     "id": "3j1UrSXCeWYa5ltei4ZAxt",
     "name": "I Gotcha",
+    "duration_ms": 238680,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 89.483,
@@ -147,6 +162,9 @@
   {
     "id": "1gsnHGopfdevZt7gbmygOq",
     "name": "The Instrumental (feat. Jonah Matranga)",
+    "duration_ms": 206413,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 107.031,
@@ -176,6 +194,9 @@
   {
     "id": "4ytRdqHgKAVxtVsjaC2ZZN",
     "name": "He Say She Say (feat. Gemini & Sarah Green)",
+    "duration_ms": 252253,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 94.307,
@@ -205,6 +226,9 @@
   {
     "id": "7JjIWXd0RopJ8wSMTIsfZr",
     "name": "Sunshine",
+    "duration_ms": 235520,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 89.387,
@@ -234,6 +258,9 @@
   {
     "id": "50M2QjfSM82wkJ1d0iV4mh",
     "name": "Daydreamin' (feat. Jill Scott)",
+    "duration_ms": 234306,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 81.37,
@@ -263,6 +290,9 @@
   {
     "id": "4vheUbZGsFWPpbJrir4Ocw",
     "name": "The Cool",
+    "duration_ms": 226653,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 94.186,
@@ -292,6 +322,9 @@
   {
     "id": "2YBDTmzBMAYsvFYFgjSy83",
     "name": "Hurt Me Soul",
+    "duration_ms": 262893,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 167.295,
@@ -321,6 +354,9 @@
   {
     "id": "2grmagJB45Dhvc4R9Hxh65",
     "name": "Pressure (feat. Jay-Z)",
+    "duration_ms": 287040,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 166.863,
@@ -350,6 +386,9 @@
   {
     "id": "17dRP50Rx5DdSH9Qy4xR9A",
     "name": "American Terrorist (feat. Matthew Santos)",
+    "duration_ms": 280520,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 83.264,
@@ -379,6 +418,9 @@
   {
     "id": "0AFI1ey6NJ6HmUnskmUABD",
     "name": "The Emperor's Soundtrack",
+    "duration_ms": 176560,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 78.81,
@@ -408,6 +450,9 @@
   {
     "id": "4CkgIRRsKnVXscMtw5XGi1",
     "name": "Kick, Push II",
+    "duration_ms": 251693,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 85.048,
@@ -437,6 +482,9 @@
   {
     "id": "7pJj4kU8TWB2roGIVtvn83",
     "name": "Outro",
+    "duration_ms": 733240,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
     "bpm": 99.7,

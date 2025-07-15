@@ -2,6 +2,9 @@
   {
     "id": "3auiXY5WqEZSNY1h7h7rxA",
     "name": "Fragile",
+    "duration_ms": 273960,
+    "explicit": false,
+    "track_number": 1,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
     "bpm": 138.846,
@@ -31,6 +34,9 @@
   {
     "id": "568nXF19QXYPZnQ6XSkuSH",
     "name": "All Is Violent, All Is Bright",
+    "duration_ms": 251066,
+    "explicit": false,
+    "track_number": 2,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
     "bpm": 169.833,
@@ -60,6 +66,9 @@
   {
     "id": "3p1XieTGbODd1PCYUrcH1Q",
     "name": "Forever Lost",
+    "duration_ms": 380266,
+    "explicit": false,
+    "track_number": 3,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
     "bpm": 94.013,
@@ -89,6 +98,9 @@
   {
     "id": "0SGB0nFDl61RLJWwlZusla",
     "name": "Fireflies and Empty Skies",
+    "duration_ms": 241853,
+    "explicit": false,
+    "track_number": 4,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
     "bpm": 165.077,
@@ -118,6 +130,9 @@
   {
     "id": "0OHL5devRdkUBalovN5kKr",
     "name": "A Deafening Distance",
+    "duration_ms": 228453,
+    "explicit": false,
+    "track_number": 5,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
     "bpm": 118.015,
@@ -147,6 +162,9 @@
   {
     "id": "3yk6FNooYqGuaked4Tm5MB",
     "name": "Infinite Horizons",
+    "duration_ms": 145453,
+    "explicit": false,
+    "track_number": 6,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
     "bpm": 126.759,
@@ -176,6 +194,9 @@
   {
     "id": "1rpjw2ZXeQGoWMviHSCR64",
     "name": "Suicide by Star",
+    "duration_ms": 272453,
+    "explicit": false,
+    "track_number": 7,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
     "bpm": 151.935,
@@ -205,6 +226,9 @@
   {
     "id": "57kOZjn0j2epxfKmSKF2SA",
     "name": "Remembrance Day",
+    "duration_ms": 253720,
+    "explicit": false,
+    "track_number": 8,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
     "bpm": 84.966,
@@ -234,6 +258,9 @@
   {
     "id": "2fm78pmnHe4I7B9OHRqPFn",
     "name": "Dust and Echoes",
+    "duration_ms": 253360,
+    "explicit": false,
+    "track_number": 9,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
     "bpm": 104.02,
@@ -263,6 +290,9 @@
   {
     "id": "2GL3AROcBppXgWCv0uxWfx",
     "name": "When Everything Dies",
+    "duration_ms": 366773,
+    "explicit": false,
+    "track_number": 10,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
     "bpm": 177.914,

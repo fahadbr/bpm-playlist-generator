@@ -2,6 +2,9 @@
   {
     "id": "4ut9fdC5ncgcvCo0KaphNY",
     "name": "Thank You (ft. Lucy Rose & The RattPack)",
+    "duration_ms": 430426,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 159.39,
@@ -31,6 +34,9 @@
   {
     "id": "2Egoo3acImq7hV6TfYV90E",
     "name": "Everybody Dies",
+    "duration_ms": 250213,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 94.082,
@@ -60,6 +66,9 @@
   {
     "id": "5ZcMWSpUeUPvO87FkSZbJB",
     "name": "The Return",
+    "duration_ms": 252053,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 90.011,
@@ -89,6 +98,9 @@
   {
     "id": "066QkK1heGoXBUPBbcOhEG",
     "name": "The Glorious Five",
+    "duration_ms": 216520,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 91.995,
@@ -118,6 +130,9 @@
   {
     "id": "7rKKh8AGVXuNXgLBpTBTFH",
     "name": "One Day (ft. Ryan Tedder)",
+    "duration_ms": 198106,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 189.723,
@@ -147,6 +162,9 @@
   {
     "id": "6VDz4m1vEGHDDqQojf1mpc",
     "name": "Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA)",
+    "duration_ms": 487960,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 91.012,
@@ -176,6 +194,9 @@
   {
     "id": "4CstQ0SUkl0YkoeZkIZlIx",
     "name": "100 Miles and Running (ft. Wale & John Lindahl)",
+    "duration_ms": 353453,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 118.986,
@@ -205,6 +226,9 @@
   {
     "id": "2zIAPysksDdMAiG33qH6kW",
     "name": "Ordinary Day (ft. Hailee Steinfeld)",
+    "duration_ms": 188400,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 157.966,
@@ -234,6 +258,9 @@
   {
     "id": "3irKogkH8P1B1nONmEcHgY",
     "name": "YSIV",
+    "duration_ms": 369240,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 91.022,
@@ -263,6 +290,9 @@
   {
     "id": "0Me3TlqFkaIzoZzAGU1EDh",
     "name": "Street Dreams II",
+    "duration_ms": 266440,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 176.088,
@@ -292,6 +322,9 @@
   {
     "id": "5xE8cBcKRjKEDdJwmh1ixN",
     "name": "The Adventures Of Stoney Bob (ft. Kajo, Slaydro, Big Lenbo)",
+    "duration_ms": 260213,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 95.062,
@@ -321,6 +354,9 @@
   {
     "id": "5mJAediEZEv8KKpWxrNIqf",
     "name": "Legacy",
+    "duration_ms": 351840,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 87.999,
@@ -350,6 +386,9 @@
   {
     "id": "1FmdAhS8FqRoEJ4jcSfuKZ",
     "name": "ICONIC (ft. Jaden Smith)",
+    "duration_ms": 298133,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 175.933,
@@ -379,6 +418,9 @@
   {
     "id": "202RUoPIUYZLyg6VtosWci",
     "name": "Last Call",
+    "duration_ms": 645666,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Logic",
     "album": "YSIV",
     "bpm": 86.947,

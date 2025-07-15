@@ -2,6 +2,9 @@
   {
     "id": "06k4xnNG7NZEMPm1bE1YPI",
     "name": "Dystopia",
+    "duration_ms": 411304,
+    "explicit": false,
+    "track_number": 1,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 119.148,
@@ -31,6 +34,9 @@
   {
     "id": "2eMHUxMoNUW7sNX54ghLVo",
     "name": "Hexes",
+    "duration_ms": 317978,
+    "explicit": false,
+    "track_number": 2,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 104.316,
@@ -60,6 +66,9 @@
   {
     "id": "45fan4fM25Y5lj8ogS9vDQ",
     "name": "Survival",
+    "duration_ms": 265038,
+    "explicit": false,
+    "track_number": 3,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 134.941,
@@ -89,6 +98,9 @@
   {
     "id": "4estc9tYBBwaV2YGdz1fav",
     "name": "Tourniquet",
+    "duration_ms": 359304,
+    "explicit": false,
+    "track_number": 4,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 163.024,
@@ -118,6 +130,9 @@
   {
     "id": "3gtWK9ZOrwb0oSEUgv66HX",
     "name": "Utopia",
+    "duration_ms": 333844,
+    "explicit": false,
+    "track_number": 5,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 92.563,
@@ -147,6 +162,9 @@
   {
     "id": "0nPuEmt09RYqaob7MOVR3P",
     "name": "Phoenix",
+    "duration_ms": 233960,
+    "explicit": false,
+    "track_number": 6,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 138.992,
@@ -176,6 +194,9 @@
   {
     "id": "6v9juA5CpZk7KIPRYk9N9L",
     "name": "Messenger",
+    "duration_ms": 214669,
+    "explicit": false,
+    "track_number": 7,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 89.997,
@@ -205,6 +226,9 @@
   {
     "id": "0fQFbT70jGyttQ3HZC3cNM",
     "name": "Cages",
+    "duration_ms": 328767,
+    "explicit": false,
+    "track_number": 8,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 160.083,
@@ -234,6 +258,9 @@
   {
     "id": "1L8T3pOmw8TVjxpgqRwYJn",
     "name": "Seven Names",
+    "duration_ms": 340000,
+    "explicit": false,
+    "track_number": 9,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 137.945,
@@ -263,6 +290,9 @@
   {
     "id": "17pFXZt1WOSjNpriXOQuZc",
     "name": "Survival (Errai)",
+    "duration_ms": 242666,
+    "explicit": false,
+    "track_number": 10,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 134.997,
@@ -292,6 +322,9 @@
   {
     "id": "07BfeAk6ENDgc5VgzLd3as",
     "name": "Cages (Errai)",
+    "duration_ms": 251625,
+    "explicit": false,
+    "track_number": 11,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 160.06,
@@ -321,6 +354,9 @@
   {
     "id": "43TSPKwj0o1kJuU3Pe4q26",
     "name": "Tourniquet (Errai)",
+    "duration_ms": 383481,
+    "explicit": false,
+    "track_number": 12,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 160.017,
@@ -350,6 +386,9 @@
   {
     "id": "4fV5vLDsWZX3K7g8pTVJJS",
     "name": "Seven Names (Errai)",
+    "duration_ms": 261304,
+    "explicit": false,
+    "track_number": 13,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
     "bpm": 137.977,

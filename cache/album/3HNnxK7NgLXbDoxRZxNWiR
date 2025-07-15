@@ -2,6 +2,9 @@
   {
     "id": "2jt2WxXMCD4zjACthkJQVE",
     "name": "The Ringer",
+    "duration_ms": 337941,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 118.552,
@@ -31,6 +34,9 @@
   {
     "id": "2XTquzYQAdT1Hk78bOUwsv",
     "name": "Greatest",
+    "duration_ms": 226937,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 80.025,
@@ -60,6 +66,9 @@
   {
     "id": "60SdxE8apGAxMiRrpbmLY0",
     "name": "Lucky You (feat. Joyner Lucas)",
+    "duration_ms": 244679,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 153.068,
@@ -89,6 +98,9 @@
   {
     "id": "0Uv5Kp8sEnriJjkX4oLfNI",
     "name": "Paul - Skit",
+    "duration_ms": 35240,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 161.68,
@@ -118,6 +130,9 @@
   {
     "id": "0evt4UZbdhnHtcAnxkm6A1",
     "name": "Normal",
+    "duration_ms": 222477,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 120.995,
@@ -147,6 +162,9 @@
   {
     "id": "6B3zy3LOKHndqsviCr2z15",
     "name": "Em Calls Paul - Skit",
+    "duration_ms": 49023,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 104.014,
@@ -176,6 +194,9 @@
   {
     "id": "60Z57Wdrn0pEVpHI7d7GAX",
     "name": "Stepping Stone",
+    "duration_ms": 309637,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 179.503,
@@ -205,6 +226,9 @@
   {
     "id": "28FGV3ORH14MYORd7s5dlU",
     "name": "Not Alike (feat. Royce Da 5'9)",
+    "duration_ms": 288086,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 140.005,
@@ -234,6 +258,9 @@
   {
     "id": "2gsNpSn7VvvJuSrIDfRoYy",
     "name": "Kamikaze",
+    "duration_ms": 216029,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 79.982,
@@ -263,6 +290,9 @@
   {
     "id": "58QhkbaAkLFnn7JwAnAato",
     "name": "Fall",
+    "duration_ms": 262493,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 182.973,
@@ -292,6 +322,9 @@
   {
     "id": "09FfQO3PqHO4HIJL511Ksi",
     "name": "Nice Guy (with Jessie Reyez)",
+    "duration_ms": 150801,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 139.226,
@@ -321,6 +354,9 @@
   {
     "id": "4g32MdRoqwGKQd3NXIRhpU",
     "name": "Good Guy (feat. Jessie Reyez)",
+    "duration_ms": 142192,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 89.973,
@@ -350,6 +386,9 @@
   {
     "id": "2SL6oP2YAEQbqsrkOzRGO4",
     "name": "Venom - Music From The Motion Picture",
+    "duration_ms": 269554,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Eminem",
     "album": "Kamikaze",
     "bpm": 135.959,

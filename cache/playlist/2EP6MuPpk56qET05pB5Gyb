@@ -2,8 +2,12 @@
   {
     "id": "4wuCQX7JvAZLlrcmH4AeZF",
     "name": "Cross Me (feat. Chance the Rapper & PnB Rock)",
+    "duration_ms": 206186,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
+    "playlist": "spring music",
     "bpm": 95.005,
     "features": [
       {
@@ -31,8 +35,12 @@
   {
     "id": "5KE9b4x7Zj2A8XtbkqhqTe",
     "name": "Staring At The Sun (feat. SZA)",
+    "duration_ms": 168280,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
+    "playlist": "spring music",
     "bpm": 95.073,
     "features": [
       {
@@ -60,8 +68,12 @@
   {
     "id": "7rhtPZkcGCWgA3kizGwXwO",
     "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
+    "duration_ms": 333113,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "playlist": "spring music",
     "bpm": 136.002,
     "features": [
       {
@@ -89,6 +101,9 @@
   {
     "id": "1V4Bq9kYHMk9yILUp5z3o3",
     "name": "Waiting for the End",
+    "duration_ms": 231680,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Linkin Park",
     "album": "A Thousand Suns",
     "playlist": "spring music",
@@ -119,6 +134,9 @@
   {
     "id": "69uxyAqqPIsUyTO8txoP2M",
     "name": "Adventure of a Lifetime",
+    "duration_ms": 263786,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Coldplay",
     "album": "A Head Full of Dreams",
     "playlist": "spring music",
@@ -149,6 +167,9 @@
   {
     "id": "06WD650Zt5MQ55kFMP2f3r",
     "name": "Fire Fly",
+    "duration_ms": 203053,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Childish Gambino",
     "album": "Camp",
     "playlist": "spring music",
@@ -179,6 +200,9 @@
   {
     "id": "2MYl0er3UZ1RlKwRb5LODh",
     "name": "A.D.H.D",
+    "duration_ms": 215509,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
     "playlist": "spring music",
@@ -209,8 +233,12 @@
   {
     "id": "1py4qzrEEkOvU8uTHYLuOW",
     "name": "Super Mario World",
+    "duration_ms": 177680,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Logic",
     "album": "Bobby Tarantino",
+    "playlist": "spring music",
     "bpm": 131.964,
     "features": [
       {
@@ -238,6 +266,9 @@
   {
     "id": "05f8Hg3RSfiPSCBQOtxl3i",
     "name": "When the Levee Breaks - Remaster",
+    "duration_ms": 428851,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Led Zeppelin",
     "album": "Led Zeppelin IV (Deluxe Edition)",
     "playlist": "spring music",

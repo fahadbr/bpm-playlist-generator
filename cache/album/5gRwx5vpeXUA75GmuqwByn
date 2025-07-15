@@ -2,6 +2,9 @@
   {
     "id": "07s4gunupLyKvqFQY5KfHP",
     "name": "The Healing",
+    "duration_ms": 288706,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 87.99,
@@ -31,6 +34,9 @@
   {
     "id": "4CHDLQA19PRKRCtpBIzASe",
     "name": "Grinder",
+    "duration_ms": 202160,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 161.933,
@@ -60,6 +66,9 @@
   {
     "id": "3LAvCzBpgK56srPYbMljJa",
     "name": "Star",
+    "duration_ms": 284080,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 84.452,
@@ -89,6 +98,9 @@
   {
     "id": "5cfGJHxNcS1S2qyZj9xH6z",
     "name": "Our Love",
+    "duration_ms": 251520,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 83.98,
@@ -118,6 +130,9 @@
   {
     "id": "50KjvVYMfD3dik1Rkegkjz",
     "name": "Church",
+    "duration_ms": 310080,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 155.259,
@@ -147,6 +162,9 @@
   {
     "id": "4xRWaLJAjDQ4yS0TJwzT1B",
     "name": "Hold On",
+    "duration_ms": 226720,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 173.375,
@@ -176,6 +194,9 @@
   {
     "id": "04h8ffz907S09MTRMccI6d",
     "name": "Cold Blooded",
+    "duration_ms": 223093,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 90.683,
@@ -205,6 +226,9 @@
   {
     "id": "0ec1wfr02U1XhVorFOYsbP",
     "name": "Wings",
+    "duration_ms": 252320,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 85.957,
@@ -234,6 +258,9 @@
   {
     "id": "5DDUcpsmDzDUdFLeOaPW3l",
     "name": "BYOB",
+    "duration_ms": 60053,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 83.488,
@@ -263,6 +290,9 @@
   {
     "id": "0y4R9IyVgB48urdcKCKpaa",
     "name": "Can't Sleep",
+    "duration_ms": 227640,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 121.967,
@@ -292,6 +322,9 @@
   {
     "id": "0z6kwqZiVdhfkwIuWwG8pM",
     "name": "Stay",
+    "duration_ms": 225000,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 85.732,
@@ -321,6 +354,9 @@
   {
     "id": "4hB2r4trPkpdHTVinASchh",
     "name": "Shake",
+    "duration_ms": 197813,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 192.907,
@@ -350,6 +386,9 @@
   {
     "id": "1PyUXZzBk6eJiRZFLdCEh2",
     "name": "Down to Ride",
+    "duration_ms": 472120,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
     "bpm": 126.001,

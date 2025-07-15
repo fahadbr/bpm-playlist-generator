@@ -2,6 +2,9 @@
   {
     "id": "1n4jwRVXdkK2U34nBDUKKT",
     "name": "BLOOD.",
+    "duration_ms": 118066,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 156.907,
@@ -31,6 +34,9 @@
   {
     "id": "6HZILIRieu8S0iqY8kIKhj",
     "name": "DNA.",
+    "duration_ms": 185946,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 139.913,
@@ -60,6 +66,9 @@
   {
     "id": "4BHSjbYylfOH5WAGusDyni",
     "name": "YAH.",
+    "duration_ms": 160293,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 69.986,
@@ -89,6 +98,9 @@
   {
     "id": "1EaKU4dMbesXXd3BrLCtYG",
     "name": "ELEMENT.",
+    "duration_ms": 208733,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 189.891,
@@ -118,6 +130,9 @@
   {
     "id": "2LTlO3NuNVN70lp2ZbVswF",
     "name": "FEEL.",
+    "duration_ms": 214826,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 109.968,
@@ -147,6 +162,9 @@
   {
     "id": "6SwRhMLwNqEi6alNPVG00n",
     "name": "LOYALTY. FEAT. RIHANNA.",
+    "duration_ms": 227360,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 110.684,
@@ -176,6 +194,9 @@
   {
     "id": "6IZvVAP7VPPnsGX6bvgkqg",
     "name": "PRIDE.",
+    "duration_ms": 275253,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 138.842,
@@ -205,6 +226,9 @@
   {
     "id": "7KXjTSCq5nL1LoYtL7XAwS",
     "name": "HUMBLE.",
+    "duration_ms": 177000,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 150.011,
@@ -234,6 +258,9 @@
   {
     "id": "06FCvd7rrRcF3DdvWH5Isp",
     "name": "LUST.",
+    "duration_ms": 307880,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 94.241,
@@ -263,6 +290,9 @@
   {
     "id": "6PGoSes0D9eUDeeAafB2As",
     "name": "LOVE. FEAT. ZACARI.",
+    "duration_ms": 213400,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 126.058,
@@ -292,6 +322,9 @@
   {
     "id": "4iYRa2btalAzPZoSYfROqF",
     "name": "XXX. FEAT. U2.",
+    "duration_ms": 254200,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 170.115,
@@ -321,6 +354,9 @@
   {
     "id": "23luOrEVHMfoX0AhfbQuS6",
     "name": "FEAR.",
+    "duration_ms": 460573,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 150.414,
@@ -350,6 +386,9 @@
   {
     "id": "5p3NP9mQblDsVJLdfNZJ3I",
     "name": "GOD.",
+    "duration_ms": 248826,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 132.98,
@@ -379,6 +418,9 @@
   {
     "id": "0y9uTzK9cNKSAEHnpeRG8C",
     "name": "DUCKWORTH.",
+    "duration_ms": 248613,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Kendrick Lamar",
     "album": "DAMN.",
     "bpm": 174.516,

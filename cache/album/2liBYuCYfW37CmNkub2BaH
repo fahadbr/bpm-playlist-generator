@@ -2,6 +2,9 @@
   {
     "id": "0112jx7vfezsktgMjNaWsd",
     "name": "In the Event of Typhoon",
+    "duration_ms": 18646,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 110.008,
@@ -31,6 +34,9 @@
   {
     "id": "6gA0o2RO8BrFOjuaPYuthl",
     "name": "Drogas",
+    "duration_ms": 136526,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 146.074,
@@ -60,6 +66,9 @@
   {
     "id": "4qWFWexB8E8Bx0SMogNO9A",
     "name": "Manilla",
+    "duration_ms": 327496,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 139.92,
@@ -89,6 +98,9 @@
   {
     "id": "20aaarkNR4pjbHAc1Bglnz",
     "name": "Gold vs the Right Things to Do",
+    "duration_ms": 222883,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 129.829,
@@ -118,6 +130,9 @@
   {
     "id": "05SjOaFAshcKjp6DIhWt5m",
     "name": "Slave Ship - Interlude",
+    "duration_ms": 211088,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 69.993,
@@ -147,6 +162,9 @@
   {
     "id": "0BWve9OJvo7ONwfR36Ty6Z",
     "name": "WAV Files",
+    "duration_ms": 398202,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 207.852,
@@ -176,6 +194,9 @@
   {
     "id": "6VgYcgaeVz0kehOM1qQqd7",
     "name": "Down (feat. Nikki Jean)",
+    "duration_ms": 377308,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 168.095,
@@ -205,6 +226,9 @@
   {
     "id": "0gdZeLCK5OBY9yQY6tiZB9",
     "name": "Haile Selassie (feat. Nikki Jean)",
+    "duration_ms": 289488,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 111.988,
@@ -234,6 +258,9 @@
   {
     "id": "1mJscqFPHlIfjLumYhYMrj",
     "name": "Alan Forever (feat. Crystal Torres)",
+    "duration_ms": 284830,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 126.048,
@@ -263,6 +290,9 @@
   {
     "id": "0OEUZW33luqsTRKaX52J39",
     "name": "Helter Skelter - Interlude",
+    "duration_ms": 16664,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 137.125,
@@ -292,6 +322,9 @@
   {
     "id": "4ulCe5A1fWhNDfepa3G8NS",
     "name": "Stronger (feat. Nikki Jean)",
+    "duration_ms": 245420,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 88.699,
@@ -321,6 +354,9 @@
   {
     "id": "2maaXK8vK3gzOxsChNKiW6",
     "name": "Sun God Sam & The California Drug Deals (feat. Nikki Jean)",
+    "duration_ms": 284238,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 111.922,
@@ -350,6 +386,9 @@
   {
     "id": "1YoMveQNDS1h2kJrv2OMSc",
     "name": "XO (feat. Troi Irons)",
+    "duration_ms": 271871,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 128.137,
@@ -379,6 +418,9 @@
   {
     "id": "2nYonPFoA9ts1Re7U7ozDQ",
     "name": "Don't Mess up the Children - Interlude",
+    "duration_ms": 45119,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 136.152,
@@ -408,6 +450,9 @@
   {
     "id": "5Mvw0vUS4KYVhSRyY6rQ6e",
     "name": "Jonylah Forever",
+    "duration_ms": 225691,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 94.129,
@@ -437,6 +482,9 @@
   {
     "id": "70PwLgyLykSloR0tKbo8Nw",
     "name": "Kingdom (feat. Damian Marley)",
+    "duration_ms": 285720,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 136.034,
@@ -466,6 +514,9 @@
   {
     "id": "7DTE1efZT7XwX25523c78s",
     "name": "Baba Kwesi - Interlude",
+    "duration_ms": 35617,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 131.344,
@@ -495,6 +546,9 @@
   {
     "id": "1sCFW0LrXGgn21cHUvgenL",
     "name": "Imagine (feat. Simon Sayz & Crystal Torres)",
+    "duration_ms": 247864,
+    "explicit": false,
+    "track_number": 18,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 170.105,
@@ -524,6 +578,9 @@
   {
     "id": "5hgjD9wh3CebT76HAeQKHR",
     "name": "Stack That Cheese (feat. Nikki Jean)",
+    "duration_ms": 253495,
+    "explicit": false,
+    "track_number": 19,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 111.824,
@@ -553,6 +610,9 @@
   {
     "id": "7aZqkLRsigNznFJa2sCuT1",
     "name": "Cripple (feat. Elena Pinderhughes)",
+    "duration_ms": 291299,
+    "explicit": false,
+    "track_number": 20,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 87.465,
@@ -582,6 +642,9 @@
   {
     "id": "2YihspRI9MHYbVkZRoECkv",
     "name": "King Nas",
+    "duration_ms": 357649,
+    "explicit": false,
+    "track_number": 21,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 174.445,
@@ -611,6 +674,9 @@
   {
     "id": "0fUvBWVKkzzx9tpRsR3KPM",
     "name": "Quotations from Chairman Fred (feat. Nikki Jean & Bishop Edgar Jackson)",
+    "duration_ms": 429004,
+    "explicit": false,
+    "track_number": 22,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 79.215,
@@ -640,6 +706,9 @@
   {
     "id": "7r03EEYJvkxkIIRwGGoq4x",
     "name": "Happy Timbuck2 Day",
+    "duration_ms": 348313,
+    "explicit": false,
+    "track_number": 23,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 78.435,
@@ -669,6 +738,9 @@
   {
     "id": "2IrSemsc1jSOCPnbXGrU5u",
     "name": "Mural Jr.",
+    "duration_ms": 312685,
+    "explicit": false,
+    "track_number": 24,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
     "bpm": 87.289,

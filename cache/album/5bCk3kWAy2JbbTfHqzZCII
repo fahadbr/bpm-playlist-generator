@@ -2,6 +2,9 @@
   {
     "id": "0O6jl8Zamz6TGF0nUwMQsF",
     "name": "Frequency",
+    "duration_ms": 298240,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 115.067,
@@ -31,6 +34,9 @@
   {
     "id": "5cjsgbZ8tZYD4f0LNpApnf",
     "name": "Swim In The Light",
+    "duration_ms": 269226,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 165.273,
@@ -60,6 +66,9 @@
   {
     "id": "5Tm9At0xeFb0MtlV8uI3eY",
     "name": "Releaser",
+    "duration_ms": 327973,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 81.993,
@@ -89,6 +98,9 @@
   {
     "id": "5FxVTEpoBress37MmlMhbZ",
     "name": "By Design",
+    "duration_ms": 257053,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 100.003,
@@ -118,6 +130,9 @@
   {
     "id": "4HMhDkyOObFngSAz2xeQhK",
     "name": "All In",
+    "duration_ms": 250586,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 154.018,
@@ -147,6 +162,9 @@
   {
     "id": "36ltVroxdokt4IVqNh4EEO",
     "name": "ILLusions",
+    "duration_ms": 256226,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 95.999,
@@ -176,6 +194,9 @@
   {
     "id": "40jxatV29fk82SAziDsPqN",
     "name": "Rose Golden",
+    "duration_ms": 277813,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 139.934,
@@ -205,6 +226,9 @@
   {
     "id": "6WSBZroxQaO3FYEpT2ACFH",
     "name": "Baptized In Fire",
+    "duration_ms": 285520,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 152.059,
@@ -234,6 +258,9 @@
   {
     "id": "0gnYo3z19PzAVikI7doinv",
     "name": "Flight At First Sight/Advanced",
+    "duration_ms": 236760,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 113.982,
@@ -263,6 +290,9 @@
   {
     "id": "1Bta6k7sXqUJfebYppG7Mq",
     "name": "Does It",
+    "duration_ms": 262546,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 120.097,
@@ -292,6 +322,9 @@
   {
     "id": "4VOUXdkDN3USHfEtBjCUPS",
     "name": "Dance 4 Eternity",
+    "duration_ms": 283426,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 121.012,
@@ -321,6 +354,9 @@
   {
     "id": "0dBXCFV75G0mdi5fo7eO9v",
     "name": "Distant Fantasies",
+    "duration_ms": 287600,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 97.979,
@@ -350,6 +386,9 @@
   {
     "id": "5ND2pMuoFVtT0Ocug5A4KT",
     "name": "Wounds",
+    "duration_ms": 243560,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 84.798,
@@ -379,6 +418,9 @@
   {
     "id": "6fXMuxRTO9vdrsAcbO3X5x",
     "name": "Mature Nature",
+    "duration_ms": 235080,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 106.007,
@@ -408,6 +450,9 @@
   {
     "id": "0Jcij1eWd5bDMU5iPbxe2i",
     "name": "Kitchen",
+    "duration_ms": 268746,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 129.983,
@@ -437,6 +482,9 @@
   {
     "id": "3uEBYVUzx2aft489ui6Nmi",
     "name": "Cosmic Warrior",
+    "duration_ms": 240973,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 129.989,
@@ -466,6 +514,9 @@
   {
     "id": "62Mre4mWZkOGjau4UQtFUV",
     "name": "The Guide",
+    "duration_ms": 306440,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 119.992,
@@ -495,6 +546,9 @@
   {
     "id": "7iqsSrwZqc8vpdvbyK74pQ",
     "name": "The Commander",
+    "duration_ms": 256440,
+    "explicit": false,
+    "track_number": 18,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 155.982,
@@ -524,6 +578,9 @@
   {
     "id": "1uHb5qa69lHLcFT38fIfUG",
     "name": "Surfin'",
+    "duration_ms": 375013,
+    "explicit": true,
+    "track_number": 19,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
     "bpm": 130.016,

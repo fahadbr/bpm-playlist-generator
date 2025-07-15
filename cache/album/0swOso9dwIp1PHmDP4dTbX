@@ -2,6 +2,9 @@
   {
     "id": "7AbFT4A4QfazZN7VIPLB4h",
     "name": "There's No Secrets This Year",
+    "duration_ms": 333293,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Silversun Pickups",
     "album": "Swoon",
     "bpm": 118.632,
@@ -31,6 +34,9 @@
   {
     "id": "2cqQQB5Ft23FFrpKTnXeZv",
     "name": "The Royal We",
+    "duration_ms": 287240,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Silversun Pickups",
     "album": "Swoon",
     "bpm": 144.046,
@@ -60,6 +66,9 @@
   {
     "id": "5aPqWtUnPvHYlvdjhyiHTh",
     "name": "Growing Old Is Getting Old",
+    "duration_ms": 353626,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Silversun Pickups",
     "album": "Swoon",
     "bpm": 122.134,
@@ -89,6 +98,9 @@
   {
     "id": "5f7WxJ3k8XTAL8EbWrbQAZ",
     "name": "It's Nice to Know You Work Alone",
+    "duration_ms": 286200,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Silversun Pickups",
     "album": "Swoon",
     "bpm": 141.994,
@@ -118,6 +130,9 @@
   {
     "id": "597i9UhHbW8hHgBUp8Tm54",
     "name": "Panic Switch",
+    "duration_ms": 343906,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Silversun Pickups",
     "album": "Swoon",
     "bpm": 198.556,
@@ -147,6 +162,9 @@
   {
     "id": "1mNzP4jX6DD2lwme9DcFDh",
     "name": "Draining",
+    "duration_ms": 295400,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Silversun Pickups",
     "album": "Swoon",
     "bpm": 129.51,
@@ -176,6 +194,9 @@
   {
     "id": "6n1QJ1UpZbHSVF6nF5LkCc",
     "name": "Sort Of",
+    "duration_ms": 327960,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Silversun Pickups",
     "album": "Swoon",
     "bpm": 128.005,
@@ -205,6 +226,9 @@
   {
     "id": "1ZqLkiXJqLekCP1oIMOQP7",
     "name": "Substitution",
+    "duration_ms": 281333,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Silversun Pickups",
     "album": "Swoon",
     "bpm": 139.967,
@@ -234,6 +258,9 @@
   {
     "id": "3zo5wxTKJwHvRi48gsYGaJ",
     "name": "Catch & Release",
+    "duration_ms": 279533,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Silversun Pickups",
     "album": "Swoon",
     "bpm": 115.195,
@@ -263,6 +290,9 @@
   {
     "id": "3mXEHtXJ1SZdAIwP2sJ5xn",
     "name": "Surrounded",
+    "duration_ms": 285400,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Silversun Pickups",
     "album": "Swoon",
     "bpm": 126.525,

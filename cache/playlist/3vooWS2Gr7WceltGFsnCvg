@@ -2,6 +2,9 @@
   {
     "id": "2Kl1E3NdbzT7vVi93TffoX",
     "name": "Pompeii - Audien Remix",
+    "duration_ms": 352968,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Bastille",
     "album": "Pompeii (Audien Remix)",
     "playlist": "Running 2",
@@ -32,6 +35,9 @@
   {
     "id": "1rU7n8ZVGbIprbunBky72s",
     "name": "Get It",
+    "duration_ms": 179999,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "playlist": "Running 2",
@@ -62,6 +68,9 @@
   {
     "id": "3lhVpxpMfgXfUNVBIOwdBG",
     "name": "Sea Legs",
+    "duration_ms": 220040,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "playlist": "Running 2",
@@ -92,6 +101,9 @@
   {
     "id": "4qxUFzBKlmP98kIRKFszju",
     "name": "Lights - Bassnectar Remix - Bonus Track",
+    "duration_ms": 276626,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Ellie Goulding",
     "album": "Lights",
     "playlist": "Running 2",
@@ -122,6 +134,9 @@
   {
     "id": "0oiv4E896TUTTeQU0cmIui",
     "name": "Massive",
+    "duration_ms": 336924,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "playlist": "Running 2",
@@ -152,6 +167,9 @@
   {
     "id": "31qeh8X1DYgaou9J10UI9m",
     "name": "Tear It Down (From Hotel Transylvania 3)",
+    "duration_ms": 160000,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Ti\u00ebsto",
     "album": "Hotel Transylvania 3",
     "playlist": "Running 2",
@@ -182,6 +200,9 @@
   {
     "id": "59NraMJsLaMCVtwXTSia8i",
     "name": "Prada",
+    "duration_ms": 132359,
+    "explicit": true,
+    "track_number": 1,
     "artist": "cass\u00f6",
     "album": "Prada",
     "playlist": "Running 2",
@@ -212,6 +233,9 @@
   {
     "id": "6aiHF2IbJr6lG4Vu9em8KF",
     "name": "Believer - Kaskade Remix",
+    "duration_ms": 190893,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Imagine Dragons",
     "album": "Believer (Kaskade Remix)",
     "playlist": "Running 2",
@@ -242,6 +266,9 @@
   {
     "id": "7me5d5XmtCCfbDk3SsyXqM",
     "name": "Every Step",
+    "duration_ms": 159857,
+    "explicit": false,
+    "track_number": 1,
     "artist": "D.O.D",
     "album": "Every Step",
     "playlist": "Running 2",
@@ -272,6 +299,9 @@
   {
     "id": "3IhM5Mber8KA0NaRNpK2px",
     "name": "Lay Low",
+    "duration_ms": 153442,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Ti\u00ebsto",
     "album": "DRIVE",
     "playlist": "Running 2",
@@ -302,6 +332,9 @@
   {
     "id": "6HZ9VeI5IRFCNQLXhpF4bq",
     "name": "I Love It (feat. Charli XCX)",
+    "duration_ms": 157152,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Icona Pop",
     "album": "THIS IS... ICONA POP",
     "playlist": "Running 2",
@@ -332,6 +365,9 @@
   {
     "id": "1CcLA0eaauck34YEIrvAAq",
     "name": "When We Were Young (The Logical Song)",
+    "duration_ms": 147432,
+    "explicit": false,
+    "track_number": 1,
     "artist": "David Guetta",
     "album": "When We Were Young (The Logical Song)",
     "playlist": "Running 2",
@@ -362,6 +398,9 @@
   {
     "id": "4UvmncfPbjdbX5xN64eS3H",
     "name": "Electronaut",
+    "duration_ms": 395040,
+    "explicit": false,
+    "track_number": 3,
     "artist": "VNV Nation",
     "album": "Futureperfect",
     "playlist": "Running 2",
@@ -392,8 +431,12 @@
   {
     "id": "0RszjqOiIwaZGnXUDuAq1C",
     "name": "Baba Says",
-    "artist": "88rising",
+    "duration_ms": 263186,
+    "explicit": false,
+    "track_number": 13,
+    "artist": "\u963f\u8fbe\u5a03",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
+    "playlist": "Running 2",
     "bpm": 138.026,
     "features": [
       {
@@ -421,8 +464,12 @@
   {
     "id": "5x4vgABKiGp4Vg7ZyFRxhn",
     "name": "Run It (feat. Rick Ross & Rich Brian)",
-    "artist": "88rising",
+    "duration_ms": 163373,
+    "explicit": false,
+    "track_number": 14,
+    "artist": "DJ Snake",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
+    "playlist": "Running 2",
     "bpm": 104.006,
     "features": [
       {
@@ -450,8 +497,12 @@
   {
     "id": "5vPLVZeMGWcnmFWH4imeND",
     "name": "Frontline",
+    "duration_ms": 199500,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
+    "playlist": "Running 2",
     "bpm": 134.926,
     "features": [
       {
@@ -479,8 +530,12 @@
   {
     "id": "6amCeNhEjgxBlWkwgmdboa",
     "name": "Living Proof",
+    "duration_ms": 235400,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
+    "playlist": "Running 2",
     "bpm": 124.821,
     "features": [
       {
@@ -508,8 +563,12 @@
   {
     "id": "34jHDKV7cNwRLl2NU1zPJq",
     "name": "One Shot One Kill",
-    "artist": "Dr. Dre",
+    "duration_ms": 205893,
+    "explicit": true,
+    "track_number": 10,
+    "artist": "Jon Connor",
     "album": "Compton",
+    "playlist": "Running 2",
     "bpm": 85.076,
     "features": [
       {
@@ -537,8 +596,12 @@
   {
     "id": "1Wsbr1d2BouNGk2q92mIj7",
     "name": "Pt. 2",
+    "duration_ms": 130293,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kanye West",
     "album": "The Life Of Pablo",
+    "playlist": "Running 2",
     "bpm": 145.076,
     "features": [
       {
@@ -566,8 +629,12 @@
   {
     "id": "3iuI6EUfAii8fX9RKaVhuC",
     "name": "X-Ecutioner Style (feat. Black Thought)",
+    "duration_ms": 109493,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Linkin Park",
     "album": "Reanimation",
+    "playlist": "Running 2",
     "bpm": 93.646,
     "features": [
       {
@@ -595,8 +662,12 @@
   {
     "id": "3irKogkH8P1B1nONmEcHgY",
     "name": "YSIV",
+    "duration_ms": 369240,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Logic",
     "album": "YSIV",
+    "playlist": "Running 2",
     "bpm": 91.022,
     "features": [
       {
@@ -624,6 +695,9 @@
   {
     "id": "2MuMD298IpYqKF367wegUd",
     "name": "Homicide (feat. Eminem)",
+    "duration_ms": 245386,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "playlist": "Running 2",
@@ -654,8 +728,12 @@
   {
     "id": "15DwFznkBJir7AK9PyMyRR",
     "name": "17",
+    "duration_ms": 196489,
+    "explicit": false,
+    "track_number": 1,
     "artist": "MK",
     "album": "17",
+    "playlist": "Running 2",
     "bpm": 122.029,
     "features": [
       {
@@ -683,8 +761,12 @@
   {
     "id": "2qsQ8eVDPmobZpvDxQCVQu",
     "name": "Barbie Tingz",
+    "duration_ms": 191699,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Nicki Minaj",
     "album": "Barbie Tingz",
+    "playlist": "Running 2",
     "bpm": 102.449,
     "features": [
       {
@@ -712,6 +794,9 @@
   {
     "id": "4cxvludVmQxryrnx1m9FqL",
     "name": "My Shot",
+    "duration_ms": 333154,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Lin-Manuel Miranda",
     "album": "Hamilton (Original Broadway Cast Recording)",
     "playlist": "Running 2",
@@ -742,6 +827,9 @@
   {
     "id": "4pnFRnCOfaETea25g0YSvG",
     "name": "Jigga What / Faint",
+    "duration_ms": 211173,
+    "explicit": true,
+    "track_number": 3,
     "artist": "JAY-Z",
     "album": "Collision Course",
     "playlist": "Running 2",
@@ -772,8 +860,12 @@
   {
     "id": "22skzmqfdWrjJylampe0kt",
     "name": "Can't Hold Us (feat. Ray Dalton)",
-    "artist": "Macklemore & Ryan Lewis",
-    "album": "The Heist (Deluxe Edition)",
+    "duration_ms": 258431,
+    "explicit": false,
+    "track_number": 2,
+    "artist": "Macklemore",
+    "album": "The Heist",
+    "playlist": "Running 2",
     "bpm": 146.097,
     "features": [
       {
@@ -801,6 +893,9 @@
   {
     "id": "5072hCBK3Z15qRnTEzd8fy",
     "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+    "duration_ms": 211428,
+    "explicit": false,
+    "track_number": 1,
     "artist": "David Guetta",
     "album": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
     "playlist": "Running 2",
@@ -831,8 +926,12 @@
   {
     "id": "4CstQ0SUkl0YkoeZkIZlIx",
     "name": "100 Miles and Running (ft. Wale & John Lindahl)",
+    "duration_ms": 353453,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Logic",
     "album": "YSIV",
+    "playlist": "Running 2",
     "bpm": 118.986,
     "features": [
       {
@@ -860,6 +959,9 @@
   {
     "id": "5MMLS3xm12D7N26xlfFApr",
     "name": "Runaway Baby",
+    "duration_ms": 148448,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Bruno Mars",
     "album": "Doo-Wops & Hooligans",
     "playlist": "Running 2",
@@ -890,6 +992,9 @@
   {
     "id": "6K7LggCeow2jSoRmdZ7XoX",
     "name": "Heartless",
+    "duration_ms": 198267,
+    "explicit": true,
+    "track_number": 7,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "playlist": "Running 2",
@@ -920,8 +1025,12 @@
   {
     "id": "3j9t0h7eJBxvH9yVUt3BdM",
     "name": "B.O.B. (Bombs Over Baghdad) - Zack de la Rocha Remix",
+    "duration_ms": 276585,
+    "explicit": true,
+    "track_number": 27,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
+    "playlist": "Running 2",
     "bpm": 154.185,
     "features": [
       {
@@ -949,8 +1058,12 @@
   {
     "id": "69ZRVsGoLXjHrQWHMX5iCN",
     "name": "Sons of Plunder",
+    "duration_ms": 228026,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
+    "playlist": "Running 2",
     "bpm": 99.93,
     "features": [
       {
@@ -978,6 +1091,9 @@
   {
     "id": "1vcxF91pWs9uNwDROuiCPB",
     "name": "Savior",
+    "duration_ms": 242280,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Rise Against",
     "album": "Appeal To Reason",
     "playlist": "Running 2",
@@ -1008,8 +1124,12 @@
   {
     "id": "6L5QMBrydoaapTDMQ0Anui",
     "name": "Guilty All the Same (feat. Rakim)",
+    "duration_ms": 355120,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
+    "playlist": "Running 2",
     "bpm": 100.012,
     "features": [
       {
@@ -1037,6 +1157,9 @@
   {
     "id": "0vZCG0H9KhtU7K8MEUVAoV",
     "name": "Tsunami",
+    "duration_ms": 236706,
+    "explicit": false,
+    "track_number": 1,
     "artist": "DVBBS",
     "album": "Tsunami",
     "playlist": "Running 2",
@@ -1067,8 +1190,12 @@
   {
     "id": "0Yvwo9fENGoa60k3ClwzQf",
     "name": "Alpha Omega",
+    "duration_ms": 212560,
+    "explicit": true,
+    "track_number": 2,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
+    "playlist": "Running 2",
     "bpm": 124.103,
     "features": [
       {
@@ -1096,6 +1223,9 @@
   {
     "id": "3IV4swNduIRunHREK80owz",
     "name": "Rollin' (Air Raid Vehicle)",
+    "duration_ms": 213760,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Limp Bizkit",
     "album": "Chocolate Starfish And The Hot Dog Flavored Water",
     "playlist": "Running 2",
@@ -1126,8 +1256,12 @@
   {
     "id": "0nj9Bq5sHDiTxSHunhgkFb",
     "name": "squabble up",
+    "duration_ms": 157992,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kendrick Lamar",
     "album": "GNX",
+    "playlist": "Running 2",
     "bpm": 103.921,
     "features": [
       {

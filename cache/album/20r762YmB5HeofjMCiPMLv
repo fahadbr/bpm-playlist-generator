@@ -2,6 +2,9 @@
   {
     "id": "7yNK27ZTpHew0c55VvIJgm",
     "name": "Dark Fantasy",
+    "duration_ms": 280786,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 87.998,
@@ -31,6 +34,9 @@
   {
     "id": "23SZWX2IaDnxmhFsSLvkG2",
     "name": "Gorgeous",
+    "duration_ms": 357653,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 91.964,
@@ -60,6 +66,9 @@
   {
     "id": "2gZUPNdnz5Y45eiGxpHGSc",
     "name": "POWER",
+    "duration_ms": 292093,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 153.993,
@@ -89,6 +98,9 @@
   {
     "id": "4D6TpthzUVNTjWQqfBW5Kb",
     "name": "All Of The Lights (Interlude)",
+    "duration_ms": 62253,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 110.95,
@@ -118,6 +130,9 @@
   {
     "id": "22L7bfCiAkJo5xGSQgmiIO",
     "name": "All Of The Lights",
+    "duration_ms": 299613,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 142.113,
@@ -147,6 +162,9 @@
   {
     "id": "1ZHYJ2Wwgxes4m8Ba88PeK",
     "name": "Monster",
+    "duration_ms": 378893,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 124.887,
@@ -176,6 +194,9 @@
   {
     "id": "6K07Ahf6V7CAQn0ikrOztl",
     "name": "So Appalled",
+    "duration_ms": 397666,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 87.15,
@@ -205,6 +226,9 @@
   {
     "id": "1UGD3lW3tDmgZfAVDh6w7r",
     "name": "Devil In A New Dress",
+    "duration_ms": 351946,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 80.082,
@@ -234,6 +258,9 @@
   {
     "id": "3DK6m7It6Pw857FcQftMds",
     "name": "Runaway",
+    "duration_ms": 547733,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 84.733,
@@ -263,6 +290,9 @@
   {
     "id": "3rCNmRonlHN1TXQLcG3dSk",
     "name": "Hell Of A Life",
+    "duration_ms": 327786,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 177.962,
@@ -292,6 +322,9 @@
   {
     "id": "4EndPA8b6FDWYp1RgsnLEB",
     "name": "Blame Game",
+    "duration_ms": 469866,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 80.305,
@@ -321,6 +354,9 @@
   {
     "id": "2Im64pIz6m0EJKdUe6eZ8r",
     "name": "Lost In The World",
+    "duration_ms": 256586,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 117.072,
@@ -350,6 +386,9 @@
   {
     "id": "4e5IPJxSGVWPsaxQzdRseN",
     "name": "Who Will Survive In America",
+    "duration_ms": 98200,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
     "bpm": 116.166,

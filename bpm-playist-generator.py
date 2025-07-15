@@ -14,29 +14,35 @@ playlist_cache = {}
 track_cache = {}
 
 
-def get_all_user_tracks_from_albums(force_update_album_tracks=False, force_update_audio_features=False):
+def get_all_user_tracks_from_albums(
+    force_update_album_tracks=False, force_update_audio_features=False
+):
     current_offset = 0
     result_items = None
     limit = 50
-    tracks = []
 
     while result_items is None or len(result_items) == limit:
         results = sp.current_user_saved_albums(limit=limit, offset=current_offset)
         result_items = results["items"]
         print(f"got {len(result_items)} albums. offset={current_offset}")
-        tracks.extend(
-            [get_enriched_album_tracks(item["album"], force_update_album_tracks, force_update_audio_features) for item in result_items]
-        )
+        for item in result_items:
+            tracks = get_enriched_album_tracks(
+                item["album"],
+                force_update_album_tracks,
+                force_update_audio_features,
+            )
+            for track in tracks:
+                track_cache[track["id"]] = track
+
         current_offset += limit
 
-    return tracks
 
-
-def get_all_user_tracks_from_playlists():
+def get_all_user_tracks_from_playlists(
+    force_update_playlist_tracks=False, force_update_audio_features=False
+):
     current_offset = 0
     result_items = None
     limit = 50
-    tracks = []
 
     while result_items is None or len(result_items) == limit:
         results = sp.current_user_playlists(limit=limit, offset=current_offset)
@@ -44,19 +50,24 @@ def get_all_user_tracks_from_playlists():
         print(f"got {len(result_items)} playlists. offset={current_offset}")
         for playlist in result_items:
             if current_user["id"] == playlist["owner"]["id"]:
-                tracks.extend(get_enriched_playlist_tracks(playlist))
+                tracks = get_enriched_playlist_tracks(
+                    playlist,
+                    force_update_playlist_tracks,
+                    force_update_audio_features,
+                )
+                for track in tracks:
+                    track_cache[track["id"]] = track
         current_offset += limit
-        break
-
-    return tracks
 
 
-def get_enriched_playlist_tracks(playlist):
+def get_enriched_playlist_tracks(
+    playlist, force_update_playlist_tracks=False, force_update_audio_features=False
+):
     tracks = []
     playlist_id = playlist["id"]
     filename = f"cache/playlist/{playlist_id}"
     # check if file exists in cache directory
-    if playlist_id in playlist_cache:
+    if not force_update_playlist_tracks and playlist_id in playlist_cache:
         print(f"found cached tracks for playlist {playlist['name']} in memory cache")
         return playlist_cache[filename]
 
@@ -73,67 +84,21 @@ def get_enriched_playlist_tracks(playlist):
         playlist_tracks.extend(playlist_tracks_result["items"])
         offset += limit
 
-    for full_track in playlist_tracks:
-        track_id = full_track["track"]["id"]
-        if track_id in track_cache:
+    for track_wrapper in playlist_tracks:
+        full_track = track_wrapper["track"]
+        track_id = full_track["id"]
+        if track_id is None:
+            print(f"track {full_track['name']} has no id, skipping...")
+            continue  # skip tracks without an ID
+
+        if not force_update_playlist_tracks and track_id in track_cache:
             tracks.append(track_cache[track_id])
             continue
 
-        print(f"getting features for track {track_id}...")
-        features_result = sp.audio_features(track_id)
-
-        bpm = float("nan")
-        if len(features_result) > 0 and features_result[0] is not None:
-            bpm = features_result[0]["tempo"]
-        else:
-            print(f"no features found for track {track_id}. result: {features_result}")
-
-        tracks.append(
-            {
-                "id": full_track["track"]["id"],
-                "name": full_track["track"]["name"],
-                "artist": full_track["track"]["artists"][0]["name"],
-                "album": full_track["track"]["album"]["name"],
-                "playlist": playlist["name"],
-                "bpm": bpm,
-                "features": features_result,
-            }
-        )
-    # save tracks to a json file
-    with open(filename, "w") as f:
-        json.dump(tracks, f, indent=2)
-    return tracks
-
-
-def get_enriched_album_tracks(album, force_update_album_tracks=False, force_update_audio_features=False):
-    tracks = []
-    album_id = album["id"]
-    filename = f"cache/album/{album_id}"
-    # check if file exists in cache directory
-    if not force_update_album_tracks and album_id in album_cache:
-        print(f"found cached tracks for album {album['name']} in memory cache")
-        return album_cache[album_id]
-
-    full_tracks = album["tracks"]["items"]
-    if len(full_tracks) != album["total_tracks"]:
-        print(
-            f"album {album['name']} has {len(full_tracks)} tracks, but total tracks is {album['total_tracks']}. "
-        )
-        while full_tracks != album['total_tracks']:
-            print(f"getting tracks for album {album['name']}...")
-            album_tracks_result = sp.album_tracks(album_id, limit=50, offset=len(full_tracks))
-            if len(album_tracks_result["items"]) == 0:
-                break
-            full_tracks.extend(album_tracks_result["items"])
-
-    for full_track in full_tracks:
-        if track_cache.get(full_track["id"]) is not None:
-            tracks.append(track_cache[full_track["id"]])
-            continue
-
-        track_id = full_track["id"]
         if force_update_audio_features or track_id not in track_cache:
-            print(f"getting features for track {track_id}...")
+            print(
+                f"getting features for track {track_id} - {full_track['name']} on {playlist['name']}..."
+            )
             features_result = sp.audio_features(track_id)
         else:
             features_result = track_cache[track_id]["features"]
@@ -148,9 +113,71 @@ def get_enriched_album_tracks(album, force_update_album_tracks=False, force_upda
             {
                 "id": full_track["id"],
                 "name": full_track["name"],
-                'duration_ms': full_track["duration_ms"],
-                'type': full_track["type"],
+                "duration_ms": full_track["duration_ms"],
+                "explicit": full_track["explicit"],
+                "track_number": full_track["track_number"],
+                "artist": full_track["artists"][0]["name"],
+                "album": full_track["album"]["name"],
+                "playlist": playlist["name"],
+                "bpm": bpm,
+                "features": features_result,
+            }
+        )
+    # save tracks to a json file
+    with open(filename, "w") as f:
+        json.dump(tracks, f, indent=2)
+    playlist_cache[playlist_id] = tracks
+    return tracks
 
+
+def get_enriched_album_tracks(
+    album, force_update_album_tracks=False, force_update_audio_features=False
+):
+    tracks = []
+    album_id = album["id"]
+    filename = f"cache/album/{album_id}"
+    # check if file exists in cache directory
+    if not force_update_album_tracks and album_id in album_cache:
+        print(f"found cached tracks for album {album['name']} in memory cache")
+        return album_cache[album_id]
+
+    full_tracks = album["tracks"]["items"]
+    if len(full_tracks) != album["total_tracks"]:
+        print(
+            f"album {album['name']} has {len(full_tracks)} tracks, but total tracks is {album['total_tracks']}. "
+        )
+        while full_tracks != album["total_tracks"]:
+            print(f"getting tracks for album {album['name']}...")
+            album_tracks_result = sp.album_tracks(
+                album_id, limit=50, offset=len(full_tracks)
+            )
+            if len(album_tracks_result["items"]) == 0:
+                break
+            full_tracks.extend(album_tracks_result["items"])
+
+    for full_track in full_tracks:
+        track_id = full_track["id"]
+        if force_update_audio_features or track_id not in track_cache:
+            print(
+                f"getting features for track {track_id} - {full_track['name']} on {album['name']}..."
+            )
+            features_result = sp.audio_features(track_id)
+        else:
+            features_result = track_cache[track_id]["features"]
+
+        bpm = float("nan")
+        if len(features_result) > 0 and features_result[0] is not None:
+            bpm = features_result[0]["tempo"]
+        else:
+            print(f"no features found for track {track_id}. result: {features_result}")
+
+        tracks.append(
+            {
+                "id": full_track["id"],
+                "name": full_track["name"],
+                "duration_ms": full_track["duration_ms"],
+                "explicit": full_track["explicit"],
+                "track_number": full_track["track_number"],
                 "artist": album["artists"][0]["name"],
                 "album": album["name"],
                 "bpm": bpm,
@@ -160,6 +187,7 @@ def get_enriched_album_tracks(album, force_update_album_tracks=False, force_upda
     # save tracks to a json file
     with open(filename, "w") as f:
         json.dump(tracks, f, indent=2)
+    album_cache[album_id] = tracks
     return tracks
 
 
@@ -190,21 +218,26 @@ def load_caches():
     if len(album_cache) == 0:
         print("No album cache found, loading from Spotify...")
         get_all_user_tracks_from_albums()
-        load_album_cache()
     if len(playlist_cache) == 0:
         print("No playlist cache found, loading from Spotify...")
         get_all_user_tracks_from_playlists()
-        load_playlist_cache()
+
 
 # Update the saved data in the disk cache
 # with potentially new attributes like 'duration_ms' or 'popularity'
-def update_saved_data(update_audio_features=False):
-    get_all_user_tracks_from_albums(update_audio_features)
+def update_saved_data(args):
+    if args.force_update_audio_features:
+        print("Forcing update of audio features for all tracks...")
+        return
+    get_all_user_tracks_from_albums(True, args.force_update_audio_features)
+    get_all_user_tracks_from_playlists(True, args.force_update_audio_features)
 
 
 def is_track_within_bpm_range(track, bpm_min, bpm_max):
     # also consider if double the bpm is within the range
     # if bpm is NaN, return False
+    if track.get("duration_ms", 0) < 1000 * 60 * 1.5:
+        return False
     bpm = track["bpm"]
     if bpm is None or bpm < 0:
         return False
@@ -224,13 +257,19 @@ def is_track_within_bpm_range(track, bpm_min, bpm_max):
 
 
 def print_tracks(args):
-    print(f"Name|Artist|Album|BPM|Energy|Danceability|Loudness")
+    print("Name|Artist|Album|BPM|Energy|Danceability|Loudness")
     for track in track_cache.values():
         if is_track_within_bpm_range(track, args.bpm_min, args.bpm_max):
             energy = track["features"][0]["energy"] if track["features"] else "N/A"
-            danceability = track["features"][0]["danceability"] if track["features"] else "N/A"
+            danceability = (
+                track["features"][0]["danceability"] if track["features"] else "N/A"
+            )
             loudness = track["features"][0]["loudness"] if track["features"] else "N/A"
-            print(f"{track['name']}|{track['artist']}|{track['album']}|{track['bpm']}|{energy}|{danceability}|{loudness}")
+            if "|" in track["name"]:
+                track["name"] = track["name"].replace("|", "")
+            print(
+                f"{track['name']}|{track['artist']}|{track['album']}|{track['bpm']}|{energy}|{danceability}|{loudness}"
+            )
             # print(
             #         f"{track['name']} - artist: {track['artist']} - album: {track['album']} - {track['bpm']} BPM - energy: {energy} - danceability: {danceability} - loudness: {loudness}"
             # )
@@ -256,7 +295,11 @@ def create_playlist(args):
         print(f"Adding {len(batch)} tracks to playlist {args.name}")
         sp.playlist_add_items(
             playlist["id"],
-            [f'spotify:track:{track["id"]}' for track in batch if track["id"] is not None],
+            [
+                f"spotify:track:{track['id']}"
+                for track in batch
+                if track["id"] is not None
+            ],
         )
 
 
@@ -280,6 +323,17 @@ def main():
     # print command
     print_parser = subparsers.add_parser("print", help="Print album cache")
     print_parser.set_defaults(func=print_tracks)
+
+    # update command
+    update_parser = subparsers.add_parser(
+        "update-cache", help="Update the saved data in the disk cache"
+    )
+    update_parser.add_argument(
+        "--force-update-audio-features",
+        action="store_true",
+        help="Force update audio features for all tracks",
+    )
+    update_parser.set_defaults(func=update_saved_data)
 
     load_caches()
     args = parser.parse_args()

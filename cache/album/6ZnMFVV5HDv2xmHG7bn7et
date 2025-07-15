@@ -2,6 +2,9 @@
   {
     "id": "1uftnTuei3ckZpNZxHKgRJ",
     "name": "Intro",
+    "duration_ms": 75226,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 81.152,
@@ -31,6 +34,9 @@
   {
     "id": "44uZZ2tn0ucKwFrqJdhLTE",
     "name": "Talk About It",
+    "duration_ms": 195013,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 103.889,
@@ -60,6 +66,9 @@
   {
     "id": "7GW98M7bhqIqLGpxxStZWP",
     "name": "Genocide",
+    "duration_ms": 266506,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 86.629,
@@ -89,6 +98,9 @@
   {
     "id": "57KXAlfzVwxhBtHkvMatrd",
     "name": "It's All On Me",
+    "duration_ms": 227653,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 89.702,
@@ -118,6 +130,9 @@
   {
     "id": "53RG6rDqEvGDsZ0Ijr3ur1",
     "name": "All In A Day's Work",
+    "duration_ms": 313760,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 79.977,
@@ -147,6 +162,9 @@
   {
     "id": "5ZEdSY99Mj5U4MIF97EKER",
     "name": "Darkside/Gone",
+    "duration_ms": 233906,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 80.487,
@@ -176,6 +194,9 @@
   {
     "id": "5Pkik37ckb0NKfsxkVH5Ky",
     "name": "Loose Cannons",
+    "duration_ms": 253053,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 129.385,
@@ -205,6 +226,9 @@
   {
     "id": "1658HFZEblbVdqU1VBPqDO",
     "name": "Issues",
+    "duration_ms": 221933,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 90.753,
@@ -234,6 +258,9 @@
   {
     "id": "7LUOpegdxmYkaHjJXdHuZ3",
     "name": "Deep Water",
+    "duration_ms": 311360,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 101.995,
@@ -263,6 +290,9 @@
   {
     "id": "34jHDKV7cNwRLl2NU1zPJq",
     "name": "One Shot One Kill",
+    "duration_ms": 205893,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 85.076,
@@ -292,6 +322,9 @@
   {
     "id": "2LQTHb4rEtKpxQgeqdesmc",
     "name": "Just Another Day",
+    "duration_ms": 141866,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 172.093,
@@ -321,6 +354,9 @@
   {
     "id": "1pk4C9uzUEiraK51CS2xyz",
     "name": "For The Love Of Money",
+    "duration_ms": 248440,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 134.037,
@@ -350,6 +386,9 @@
   {
     "id": "4EhfGgpcTjxRaRVCsEP9lO",
     "name": "Satisfiction",
+    "duration_ms": 264453,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 87.874,
@@ -379,6 +418,9 @@
   {
     "id": "6EOu0P4RPxZZB8QNeYrvs2",
     "name": "Animals",
+    "duration_ms": 227253,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 90.015,
@@ -408,6 +450,9 @@
   {
     "id": "3hZnp7n8WI3UnnURw1i1DF",
     "name": "Medicine Man",
+    "duration_ms": 254306,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 96.126,
@@ -437,6 +482,9 @@
   {
     "id": "7KZs2C1UGjrIfVXXuvtb20",
     "name": "Talking To My Diary",
+    "duration_ms": 263226,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Dr. Dre",
     "album": "Compton",
     "bpm": 83.684,

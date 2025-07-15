@@ -2,6 +2,9 @@
   {
     "id": "52Hq1nvCDDZ17dhgGWLnCI",
     "name": "Intro",
+    "duration_ms": 107160,
+    "explicit": false,
+    "track_number": 1,
     "artist": "J. Cole",
     "album": "KOD",
     "bpm": 111.456,
@@ -31,6 +34,9 @@
   {
     "id": "7yotKA30dwTKNEGomV9ZsI",
     "name": "KOD",
+    "duration_ms": 191436,
+    "explicit": true,
+    "track_number": 2,
     "artist": "J. Cole",
     "album": "KOD",
     "bpm": 141.882,
@@ -60,6 +66,9 @@
   {
     "id": "0bhnUFDQFCEHCBlsQfHnj5",
     "name": "Photograph",
+    "duration_ms": 218953,
+    "explicit": true,
+    "track_number": 3,
     "artist": "J. Cole",
     "album": "KOD",
     "bpm": 104.98,
@@ -89,6 +98,9 @@
   {
     "id": "3rFF7kSm5qBOOPs6ljFgPp",
     "name": "The Cut Off (feat. kiLL edward)",
+    "duration_ms": 237295,
+    "explicit": true,
+    "track_number": 4,
     "artist": "J. Cole",
     "album": "KOD",
     "bpm": 78.168,
@@ -118,6 +130,9 @@
   {
     "id": "2UciqgwVDwro0fev3MFbxJ",
     "name": "ATM",
+    "duration_ms": 216726,
+    "explicit": true,
+    "track_number": 5,
     "artist": "J. Cole",
     "album": "KOD",
     "bpm": 81.817,
@@ -147,6 +162,9 @@
   {
     "id": "1AT4xjNarTswd0UZ5FlmKF",
     "name": "Motiv8",
+    "duration_ms": 133921,
+    "explicit": true,
+    "track_number": 6,
     "artist": "J. Cole",
     "album": "KOD",
     "bpm": 149.897,
@@ -176,6 +194,9 @@
   {
     "id": "6tZ3b7ik1QDXFAZlXib0YZ",
     "name": "Kevin\u2019s Heart",
+    "duration_ms": 200309,
+    "explicit": true,
+    "track_number": 7,
     "artist": "J. Cole",
     "album": "KOD",
     "bpm": 116.079,
@@ -205,6 +226,9 @@
   {
     "id": "5sWbwccBcyHsg5LEKWGZo9",
     "name": "BRACKETS",
+    "duration_ms": 315771,
+    "explicit": true,
+    "track_number": 8,
     "artist": "J. Cole",
     "album": "KOD",
     "bpm": 84.039,
@@ -234,6 +258,9 @@
   {
     "id": "0Px86mRlxdB3YqpK6KXWlr",
     "name": "Once an Addict - Interlude",
+    "duration_ms": 197821,
+    "explicit": true,
+    "track_number": 9,
     "artist": "J. Cole",
     "album": "KOD",
     "bpm": 84.066,
@@ -263,6 +290,9 @@
   {
     "id": "6onwlDmIVKE8bBgyBRSuS0",
     "name": "FRIENDS (feat. kiLL edward)",
+    "duration_ms": 257646,
+    "explicit": true,
+    "track_number": 10,
     "artist": "J. Cole",
     "album": "KOD",
     "bpm": 109.28,
@@ -292,6 +322,9 @@
   {
     "id": "5Lgqu1th1KqlG97OF2gWGe",
     "name": "Window Pain - Outro",
+    "duration_ms": 286729,
+    "explicit": true,
+    "track_number": 11,
     "artist": "J. Cole",
     "album": "KOD",
     "bpm": 75.032,
@@ -321,6 +354,9 @@
   {
     "id": "7EulRO07ZgchxqKUHb8Pvc",
     "name": "1985 - Intro to \u201cThe Fall Off\u201d",
+    "duration_ms": 190176,
+    "explicit": true,
+    "track_number": 12,
     "artist": "J. Cole",
     "album": "KOD",
     "bpm": 94.378,

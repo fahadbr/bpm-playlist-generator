@@ -1,0 +1,134 @@
+[
+  {
+    "id": "10HlI5OL8VIdMh2CaymhbD",
+    "name": "One (Remastered)",
+    "duration_ms": 447440,
+    "explicit": false,
+    "track_number": 4,
+    "artist": "Metallica",
+    "album": "...And Justice For All",
+    "playlist": "My Shazam Tracks",
+    "bpm": 106.228,
+    "features": [
+      {
+        "danceability": 0.444,
+        "energy": 0.703,
+        "key": 7,
+        "loudness": -9.443,
+        "mode": 1,
+        "speechiness": 0.0641,
+        "acousticness": 0.00112,
+        "instrumentalness": 0.0761,
+        "liveness": 0.127,
+        "valence": 0.419,
+        "tempo": 106.228,
+        "type": "audio_features",
+        "id": "10HlI5OL8VIdMh2CaymhbD",
+        "uri": "spotify:track:10HlI5OL8VIdMh2CaymhbD",
+        "track_href": "https://api.spotify.com/v1/tracks/10HlI5OL8VIdMh2CaymhbD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/10HlI5OL8VIdMh2CaymhbD",
+        "duration_ms": 447440,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "1R6VwZ8TuHRzxZUxe88n4I",
+    "name": "Rule The World (feat. Ariana Grande)",
+    "duration_ms": 245893,
+    "explicit": true,
+    "track_number": 9,
+    "artist": "2 Chainz",
+    "album": "Rap Or Go To The League",
+    "playlist": "My Shazam Tracks",
+    "bpm": 88.061,
+    "features": [
+      {
+        "danceability": 0.593,
+        "energy": 0.584,
+        "key": 8,
+        "loudness": -6.232,
+        "mode": 0,
+        "speechiness": 0.089,
+        "acousticness": 0.158,
+        "instrumentalness": 2.79e-06,
+        "liveness": 0.132,
+        "valence": 0.448,
+        "tempo": 88.061,
+        "type": "audio_features",
+        "id": "1R6VwZ8TuHRzxZUxe88n4I",
+        "uri": "spotify:track:1R6VwZ8TuHRzxZUxe88n4I",
+        "track_href": "https://api.spotify.com/v1/tracks/1R6VwZ8TuHRzxZUxe88n4I",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/1R6VwZ8TuHRzxZUxe88n4I",
+        "duration_ms": 245893,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "2Fxmhks0bxGSBdJ92vM42m",
+    "name": "bad guy",
+    "duration_ms": 194087,
+    "explicit": false,
+    "track_number": 2,
+    "artist": "Billie Eilish",
+    "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+    "playlist": "My Shazam Tracks",
+    "bpm": 135.128,
+    "features": [
+      {
+        "danceability": 0.701,
+        "energy": 0.425,
+        "key": 7,
+        "loudness": -10.965,
+        "mode": 1,
+        "speechiness": 0.375,
+        "acousticness": 0.328,
+        "instrumentalness": 0.13,
+        "liveness": 0.1,
+        "valence": 0.562,
+        "tempo": 135.128,
+        "type": "audio_features",
+        "id": "2Fxmhks0bxGSBdJ92vM42m",
+        "uri": "spotify:track:2Fxmhks0bxGSBdJ92vM42m",
+        "track_href": "https://api.spotify.com/v1/tracks/2Fxmhks0bxGSBdJ92vM42m",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Fxmhks0bxGSBdJ92vM42m",
+        "duration_ms": 194088,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "10HlI5OL8VIdMh2CaymhbD",
+    "name": "One (Remastered)",
+    "duration_ms": 447440,
+    "explicit": false,
+    "track_number": 4,
+    "artist": "Metallica",
+    "album": "...And Justice For All",
+    "playlist": "My Shazam Tracks",
+    "bpm": 106.228,
+    "features": [
+      {
+        "danceability": 0.444,
+        "energy": 0.703,
+        "key": 7,
+        "loudness": -9.443,
+        "mode": 1,
+        "speechiness": 0.0641,
+        "acousticness": 0.00112,
+        "instrumentalness": 0.0761,
+        "liveness": 0.127,
+        "valence": 0.419,
+        "tempo": 106.228,
+        "type": "audio_features",
+        "id": "10HlI5OL8VIdMh2CaymhbD",
+        "uri": "spotify:track:10HlI5OL8VIdMh2CaymhbD",
+        "track_href": "https://api.spotify.com/v1/tracks/10HlI5OL8VIdMh2CaymhbD",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/10HlI5OL8VIdMh2CaymhbD",
+        "duration_ms": 447440,
+        "time_signature": 4
+      }
+    ]
+  }
+]

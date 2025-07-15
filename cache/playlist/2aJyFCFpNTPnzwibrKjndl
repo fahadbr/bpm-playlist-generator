@@ -2,6 +2,9 @@
   {
     "id": "4vQmIPjndEvsTcru39kxy8",
     "name": "Deep Brown Noise | Sleep Sound (12 Hours)",
+    "duration_ms": 43125396,
+    "explicit": false,
+    "track_number": 0,
     "artist": null,
     "album": "White Noise and Sleep Sounds (12 Hours)",
     "playlist": "brown noise playlist",
@@ -13,6 +16,9 @@
   {
     "id": "04boE4u1AupbrGlI62WvoO",
     "name": "White Noise 3 Hour Long",
+    "duration_ms": 10828190,
+    "explicit": false,
+    "track_number": 1,
     "artist": "White Noise Therapy",
     "album": "White Noise 3 Hour Long",
     "playlist": "brown noise playlist",
@@ -24,6 +30,9 @@
   {
     "id": "5sSoBock1ZOkM6srpxQaLG",
     "name": "Dreamy Brown Noise",
+    "duration_ms": 183500,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Focus Noise",
     "album": "Dreamy Brown Noise",
     "playlist": "brown noise playlist",
@@ -54,6 +63,9 @@
   {
     "id": "1wvBsgAAOSOsGvedOeoAPP",
     "name": "Brown Noise Sleep",
+    "duration_ms": 218000,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Everywhere Brown Noise",
     "album": "Relax with Brown Noise",
     "playlist": "brown noise playlist",

@@ -2,6 +2,9 @@
   {
     "id": "0C6TGlpffTuUdJfjB0U9mI",
     "name": "Welcome 2 Hell",
+    "duration_ms": 177720,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
     "bpm": 141.966,
@@ -31,6 +34,9 @@
   {
     "id": "2c5Isyd07hWsl7AQia2Dig",
     "name": "Fast Lane",
+    "duration_ms": 249560,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
     "bpm": 119.149,
@@ -60,6 +66,9 @@
   {
     "id": "4TsDmh8jtTMdaa7UP3gxAR",
     "name": "The Reunion",
+    "duration_ms": 290413,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
     "bpm": 76.516,
@@ -89,6 +98,9 @@
   {
     "id": "5oEgPvhTZ4CFjeuuLfmMsI",
     "name": "Above The Law",
+    "duration_ms": 209613,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
     "bpm": 183.602,
@@ -118,6 +130,9 @@
   {
     "id": "3qBxoudRLiLbFl7Ansz1Uh",
     "name": "I\u2019m On Everything",
+    "duration_ms": 271173,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
     "bpm": 109.425,
@@ -147,6 +162,9 @@
   {
     "id": "4eing5jncX5PU3Wtf8ssBc",
     "name": "A Kiss",
+    "duration_ms": 274466,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
     "bpm": 75.543,
@@ -176,6 +194,9 @@
   {
     "id": "5zpDHEU12zATwLGvozxPw2",
     "name": "Lighters",
+    "duration_ms": 303813,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
     "bpm": 90.268,
@@ -205,6 +226,9 @@
   {
     "id": "7n4PRAJjYzGFr1DR3KHYMU",
     "name": "Take From Me",
+    "duration_ms": 205600,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
     "bpm": 146.843,
@@ -234,6 +258,9 @@
   {
     "id": "1TZD3DRaMxhh7AGaZqqP5u",
     "name": "Loud Noises",
+    "duration_ms": 260440,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
     "bpm": 171.405,
@@ -263,6 +290,9 @@
   {
     "id": "6amCeNhEjgxBlWkwgmdboa",
     "name": "Living Proof",
+    "duration_ms": 235400,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
     "bpm": 124.821,
@@ -292,6 +322,9 @@
   {
     "id": "3ko0QVFzy4DdhuqTbMIeJZ",
     "name": "Echo",
+    "duration_ms": 295066,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
     "bpm": 147.016,

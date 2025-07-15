@@ -2,6 +2,9 @@
   {
     "id": "2zMBvrfHVIbcl8iEaoy2VA",
     "name": "LONG TIME COMING",
+    "duration_ms": 62626,
+    "explicit": true,
+    "track_number": 1,
     "artist": "mgk",
     "album": "BINGE",
     "bpm": 68.935,
@@ -31,6 +34,9 @@
   {
     "id": "4jaH6whRB6Zgy5EzvKN5ZL",
     "name": "LOCO",
+    "duration_ms": 157093,
+    "explicit": true,
+    "track_number": 2,
     "artist": "mgk",
     "album": "BINGE",
     "bpm": 141.044,
@@ -60,6 +66,9 @@
   {
     "id": "3jwgpIHWvV8jfvF21s0SHD",
     "name": "GTS",
+    "duration_ms": 142213,
+    "explicit": true,
+    "track_number": 3,
     "artist": "mgk",
     "album": "BINGE",
     "bpm": 134.992,
@@ -89,6 +98,9 @@
   {
     "id": "43TP6JCWXgkc2D7Xjz5hBr",
     "name": "RAP DEVIL",
+    "duration_ms": 281586,
+    "explicit": true,
+    "track_number": 4,
     "artist": "mgk",
     "album": "BINGE",
     "bpm": 149.968,
@@ -118,6 +130,9 @@
   {
     "id": "150a7VlsKvbQjfR10T3Bab",
     "name": "NYLON",
+    "duration_ms": 108413,
+    "explicit": true,
+    "track_number": 5,
     "artist": "mgk",
     "album": "BINGE",
     "bpm": 134.927,
@@ -147,6 +162,9 @@
   {
     "id": "5GsDw8rD0LJ9XF4dEzUPDK",
     "name": "LATELY",
+    "duration_ms": 193906,
+    "explicit": true,
+    "track_number": 6,
     "artist": "mgk",
     "album": "BINGE",
     "bpm": 149.976,
@@ -176,6 +194,9 @@
   {
     "id": "1JDOIxrGzvGRrDCzmxnTVo",
     "name": "SIGNS (Feat. 24hrs)",
+    "duration_ms": 166053,
+    "explicit": true,
+    "track_number": 7,
     "artist": "mgk",
     "album": "BINGE",
     "bpm": 104.974,
@@ -205,6 +226,9 @@
   {
     "id": "6KlVxwMX2pepWM9RkIYQvu",
     "name": "GET THE BROOM",
+    "duration_ms": 152613,
+    "explicit": true,
+    "track_number": 8,
     "artist": "mgk",
     "album": "BINGE",
     "bpm": 129.037,
@@ -234,6 +258,9 @@
   {
     "id": "1WEDk9ZjxoLEpToYe0ap7t",
     "name": "LIVEFASTDIEYOUNG",
+    "duration_ms": 194426,
+    "explicit": true,
+    "track_number": 9,
     "artist": "mgk",
     "album": "BINGE",
     "bpm": 134.98,

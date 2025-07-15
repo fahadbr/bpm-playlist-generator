@@ -2,6 +2,9 @@
   {
     "id": "2dUkCUXXoknwsLwuGaL4bA",
     "name": "Gangsta",
+    "duration_ms": 231773,
+    "explicit": true,
+    "track_number": 1,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 128.959,
@@ -31,6 +34,9 @@
   {
     "id": "7sycKW6BGv7eTXVdtWkqom",
     "name": "Los Awesome",
+    "duration_ms": 252840,
+    "explicit": true,
+    "track_number": 2,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 81.972,
@@ -60,6 +66,9 @@
   {
     "id": "0zO8ctW0UiuOefR87OeJOZ",
     "name": "Collard Greens",
+    "duration_ms": 299960,
+    "explicit": true,
+    "track_number": 3,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 153.956,
@@ -89,6 +98,9 @@
   {
     "id": "3p2x3UD9wz9yt3gtftKwT0",
     "name": "What They Want",
+    "duration_ms": 267200,
+    "explicit": true,
+    "track_number": 4,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 114.994,
@@ -118,6 +130,9 @@
   {
     "id": "4fUeGY1jGkgtx11tuqbDlq",
     "name": "Hoover Street",
+    "duration_ms": 396373,
+    "explicit": true,
+    "track_number": 5,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 79.045,
@@ -147,6 +162,9 @@
   {
     "id": "29gsi1zZrZxdStACmTQB0Z",
     "name": "Studio",
+    "duration_ms": 278066,
+    "explicit": true,
+    "track_number": 6,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 133.921,
@@ -176,6 +194,9 @@
   {
     "id": "3ljBzccXOpkHcGejRzHVjK",
     "name": "Prescription/Oxymoron",
+    "duration_ms": 429666,
+    "explicit": true,
+    "track_number": 7,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 120.006,
@@ -205,6 +226,9 @@
   {
     "id": "1oQJ26nHHgHh45WqyA59GF",
     "name": "The Purge",
+    "duration_ms": 294053,
+    "explicit": true,
+    "track_number": 8,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 168.327,
@@ -234,6 +258,9 @@
   {
     "id": "3BKLZpsKsymeFquQWUjhGx",
     "name": "Blind Threats",
+    "duration_ms": 269653,
+    "explicit": true,
+    "track_number": 9,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 94.026,
@@ -263,6 +290,9 @@
   {
     "id": "5DOR49R0fehoBmyNL8m4sN",
     "name": "Hell Of A Night",
+    "duration_ms": 272453,
+    "explicit": true,
+    "track_number": 10,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 123.942,
@@ -292,6 +322,9 @@
   {
     "id": "5rk3EqsP1iHuQn5tkC1Qw0",
     "name": "Break The Bank",
+    "duration_ms": 354853,
+    "explicit": true,
+    "track_number": 11,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 80.335,
@@ -321,6 +354,9 @@
   {
     "id": "5SsR3wtCOafDmZgvIdRhSm",
     "name": "Man Of The Year",
+    "duration_ms": 216013,
+    "explicit": true,
+    "track_number": 12,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 111.911,
@@ -350,6 +386,9 @@
   {
     "id": "6RhRGitp1UtVOvboboXq2A",
     "name": "His & Her Fiend",
+    "duration_ms": 175333,
+    "explicit": true,
+    "track_number": 13,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 125.665,
@@ -379,6 +418,9 @@
   {
     "id": "1eQ6ky8AGbsKIZe2wXKauq",
     "name": "Grooveline Pt. 2",
+    "duration_ms": 258372,
+    "explicit": true,
+    "track_number": 14,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 140.146,
@@ -408,6 +450,9 @@
   {
     "id": "68Sxbmub4GZAF48w49CZDA",
     "name": "Fuck LA",
+    "duration_ms": 200613,
+    "explicit": true,
+    "track_number": 15,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
     "bpm": 135.006,

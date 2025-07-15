@@ -2,6 +2,9 @@
   {
     "id": "7LkwNlnMYYGOCqW1igUgqR",
     "name": "Intro",
+    "duration_ms": 69720,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 86.82,
@@ -31,6 +34,9 @@
   {
     "id": "1Jo3u8eXp8xobbrvq0FIi9",
     "name": "Gasoline Dreams (with Khujo Goodie)",
+    "duration_ms": 214706,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 95.082,
@@ -60,6 +66,9 @@
   {
     "id": "3R4IgnYTITZGpGfCZ3ptkM",
     "name": "I'm Cool (Interlude)",
+    "duration_ms": 42040,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 88.817,
@@ -89,6 +98,9 @@
   {
     "id": "6glsMWIMIxQ4BedzLqGVi4",
     "name": "So Fresh, So Clean",
+    "duration_ms": 240026,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 166.028,
@@ -118,6 +130,9 @@
   {
     "id": "0I3q5fE6wg7LIfHGngUTnV",
     "name": "Ms. Jackson",
+    "duration_ms": 270506,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 94.948,
@@ -147,6 +162,9 @@
   {
     "id": "6C872iuQnICFQy5Z5hIIJX",
     "name": "Snappin' & Trappin' (feat. Killer Mike & J-Sweet)",
+    "duration_ms": 259693,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 194.082,
@@ -176,6 +194,9 @@
   {
     "id": "1Y1ZV5NJWTkp7M0r4lwdnM",
     "name": "D.F. (Interlude)",
+    "duration_ms": 27240,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 93.289,
@@ -205,6 +226,9 @@
   {
     "id": "1ZosUXeZM3qlTWdL1uTrhm",
     "name": "Spaghetti Junction",
+    "duration_ms": 237160,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 96.716,
@@ -234,6 +258,9 @@
   {
     "id": "51QLvM437Xstp0bLdq0aFj",
     "name": "Kim & Cookie (Interlude)",
+    "duration_ms": 72533,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 50.606,
@@ -263,6 +290,9 @@
   {
     "id": "6F1nkRSfNUh3FcoSmuO4fu",
     "name": "I'll Call B4 I Cum (feat. Gangsta Boo & Eco)",
+    "duration_ms": 258440,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 90.989,
@@ -292,6 +322,9 @@
   {
     "id": "3WibbMr6canxRJXhNtAvLU",
     "name": "B.O.B. - Bombs Over Baghdad",
+    "duration_ms": 304226,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 153.809,
@@ -321,6 +354,9 @@
   {
     "id": "54MqZEYfS0aRgNWW19hNW4",
     "name": "Xplosion (feat. B-Real)",
+    "duration_ms": 248840,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 202.37,
@@ -350,6 +386,9 @@
   {
     "id": "0a7EuQ73Wc6bPQApzjWPwz",
     "name": "Good Hair (Interlude)",
+    "duration_ms": 14960,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 0,
@@ -379,6 +418,9 @@
   {
     "id": "4XaY6ZNB5BrmVVLtQxjWpm",
     "name": "We Luv Deez Hoez (feat. Backbone & Big Gipp)",
+    "duration_ms": 250466,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 89.97,
@@ -408,6 +450,9 @@
   {
     "id": "5cN4KyXGUdNOve1TEPWmhL",
     "name": "Humble Mumble (feat. Erykah Badu)",
+    "duration_ms": 290666,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 109.959,
@@ -437,6 +482,9 @@
   {
     "id": "1ZoK9LKJppVYpc5b1QtpD8",
     "name": "Drinkin' Again (Interlude)",
+    "duration_ms": 24506,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 77.845,
@@ -466,6 +514,9 @@
   {
     "id": "67tv8s6iNlSwz2RxVPcoY5",
     "name": "?",
+    "duration_ms": 88626,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 146.826,
@@ -495,6 +546,9 @@
   {
     "id": "5AnpPlwvf01F9D1gcAbCRa",
     "name": "Red Velvet",
+    "duration_ms": 232640,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 106.994,
@@ -524,6 +578,9 @@
   {
     "id": "4zTqkKfNC3rDQ0uuAGOvie",
     "name": "Cruisin' In The ATL (Interlude)",
+    "duration_ms": 19293,
+    "explicit": false,
+    "track_number": 19,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 104.403,
@@ -553,6 +610,9 @@
   {
     "id": "2fk55YQGYhilLmXFaKWESM",
     "name": "Gangsta Sh*t (feat. Slimm Calhoun, C-Bone & T-Mo)",
+    "duration_ms": 281266,
+    "explicit": true,
+    "track_number": 20,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 123.72,
@@ -582,6 +642,9 @@
   {
     "id": "4Dlz76O4yMvFdYsKRfBEdK",
     "name": "Toilet Tisha",
+    "duration_ms": 264706,
+    "explicit": false,
+    "track_number": 21,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 54.66,
@@ -611,6 +674,9 @@
   {
     "id": "4hH99pmXR4tTUtVAdMf0kZ",
     "name": "Slum Beautiful (feat. Cee-Lo)",
+    "duration_ms": 247560,
+    "explicit": true,
+    "track_number": 22,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 159.839,
@@ -640,6 +706,9 @@
   {
     "id": "6emmntELhK3aLuMzGk9Bpa",
     "name": "Pre-Nump (Interlude)",
+    "duration_ms": 27066,
+    "explicit": false,
+    "track_number": 23,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 109.34,
@@ -669,6 +738,9 @@
   {
     "id": "3hZnqmixPzXNrxjsaPlwHZ",
     "name": "Stankonia (Stanklove) (feat. Big Rube & Sleepy Brown)",
+    "duration_ms": 411026,
+    "explicit": false,
+    "track_number": 24,
     "artist": "Outkast",
     "album": "Stankonia",
     "bpm": 135.981,

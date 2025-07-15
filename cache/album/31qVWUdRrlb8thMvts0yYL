@@ -2,6 +2,9 @@
   {
     "id": "5ozqshq2dtU7SYCpCBu0NE",
     "name": "One More Year",
+    "duration_ms": 324013,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
     "bpm": 114.009,
@@ -31,6 +34,9 @@
   {
     "id": "6WCXBUFa0z3l9DoOY3k5Xe",
     "name": "Instant Destiny",
+    "duration_ms": 194706,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
     "bpm": 165.935,
@@ -60,6 +66,9 @@
   {
     "id": "5hM5arv9KDbCHS0k9uqwjr",
     "name": "Borderline",
+    "duration_ms": 237800,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
     "bpm": 97.96,
@@ -89,6 +98,9 @@
   {
     "id": "1KcOU0q9AMXV9xi4tSzzCc",
     "name": "Posthumous Forgiveness",
+    "duration_ms": 366066,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
     "bpm": 153.978,
@@ -118,6 +130,9 @@
   {
     "id": "3LbZIhU0smEU5SUnxod4j4",
     "name": "Breathe Deeper",
+    "duration_ms": 372866,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
     "bpm": 104.998,
@@ -147,6 +162,9 @@
   {
     "id": "666PdikRnUzdvjT9p5wWND",
     "name": "Tomorrow's Dust",
+    "duration_ms": 326840,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
     "bpm": 99.002,
@@ -176,6 +194,9 @@
   {
     "id": "0IuE6FnXPCdZ8NLuuvJRhb",
     "name": "On Track",
+    "duration_ms": 301786,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
     "bpm": 163.861,
@@ -205,6 +226,9 @@
   {
     "id": "5JWPUEov2wlX7c0jhYZpeB",
     "name": "Lost In Yesterday",
+    "duration_ms": 249586,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
     "bpm": 183.059,
@@ -234,6 +258,9 @@
   {
     "id": "6RZmhpvukfyeSURhf4kZ0d",
     "name": "Is It True",
+    "duration_ms": 239266,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
     "bpm": 118.018,
@@ -263,6 +290,9 @@
   {
     "id": "558ubozatFQlweufvHa3Ip",
     "name": "It Might Be Time",
+    "duration_ms": 273026,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
     "bpm": 115.946,
@@ -292,6 +322,9 @@
   {
     "id": "1unBUyjeQUDiJ8N89XiDrr",
     "name": "Glimmer",
+    "duration_ms": 128826,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
     "bpm": 117.911,
@@ -321,6 +354,9 @@
   {
     "id": "0mO6oS60RST2sWmN2FKknP",
     "name": "One More Hour",
+    "duration_ms": 432560,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
     "bpm": 102.029,

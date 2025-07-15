@@ -2,6 +2,9 @@
   {
     "id": "0louqsQmgN4yz4h51x9fUM",
     "name": "C'est la Vie",
+    "duration_ms": 211720,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Protest The Hero",
     "album": "Scurrilous",
     "bpm": 150.49,
@@ -31,6 +34,9 @@
   {
     "id": "3FkJ2nLBgNabKwdDaTwDoL",
     "name": "Hair-Trigger",
+    "duration_ms": 288666,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Protest The Hero",
     "album": "Scurrilous",
     "bpm": 149.706,
@@ -60,6 +66,9 @@
   {
     "id": "7AsR2pU4tNeSlW8LeyfS0k",
     "name": "Tandem",
+    "duration_ms": 314720,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Protest The Hero",
     "album": "Scurrilous",
     "bpm": 145.948,
@@ -89,6 +98,9 @@
   {
     "id": "0DoS8GQ2scDmfzZjDihIym",
     "name": "Moonlight",
+    "duration_ms": 288746,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Protest The Hero",
     "album": "Scurrilous",
     "bpm": 160.378,
@@ -118,6 +130,9 @@
   {
     "id": "2ZKBuySAoVfnzvt6x4NSPq",
     "name": "Tapestry",
+    "duration_ms": 273906,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Protest The Hero",
     "album": "Scurrilous",
     "bpm": 136.517,
@@ -147,6 +162,9 @@
   {
     "id": "7vYiiFQim72POkOHB8va3c",
     "name": "Dunsel",
+    "duration_ms": 292626,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Protest The Hero",
     "album": "Scurrilous",
     "bpm": 153.933,
@@ -176,6 +194,9 @@
   {
     "id": "4schkUgCqgU8gTEjDFI54K",
     "name": "The Reign of Unending Terror",
+    "duration_ms": 203293,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Protest The Hero",
     "album": "Scurrilous",
     "bpm": 137.247,
@@ -205,6 +226,9 @@
   {
     "id": "31deI3OqaBfdt0RScUn0AL",
     "name": "Termites",
+    "duration_ms": 236880,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Protest The Hero",
     "album": "Scurrilous",
     "bpm": 149.893,
@@ -234,6 +258,9 @@
   {
     "id": "1butxK3ZUaLch1WV3Clj8t",
     "name": "Tongue-Splitter",
+    "duration_ms": 273240,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Protest The Hero",
     "album": "Scurrilous",
     "bpm": 149.907,
@@ -263,6 +290,9 @@
   {
     "id": "14ohsmsu8uoHTqMK0SJdqb",
     "name": "Sex Tapes",
+    "duration_ms": 279253,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Protest The Hero",
     "album": "Scurrilous",
     "bpm": 151.416,

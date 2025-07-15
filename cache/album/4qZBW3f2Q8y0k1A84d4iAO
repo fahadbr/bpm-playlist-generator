@@ -2,6 +2,9 @@
   {
     "id": "09mEdoA6zrmBPgTEN5qXmN",
     "name": "Call Out My Name",
+    "duration_ms": 228373,
+    "explicit": false,
+    "track_number": 1,
     "artist": "The Weeknd",
     "album": "My Dear Melancholy,",
     "bpm": 134.165,
@@ -31,6 +34,9 @@
   {
     "id": "4ppTAJUbNXELZcoUaL90wo",
     "name": "Try Me",
+    "duration_ms": 221106,
+    "explicit": false,
+    "track_number": 2,
     "artist": "The Weeknd",
     "album": "My Dear Melancholy,",
     "bpm": 92.023,
@@ -60,6 +66,9 @@
   {
     "id": "7DKS0rX27cCEPsK0R6tFWS",
     "name": "Wasted Times",
+    "duration_ms": 220293,
+    "explicit": true,
+    "track_number": 3,
     "artist": "The Weeknd",
     "album": "My Dear Melancholy,",
     "bpm": 122.696,
@@ -89,6 +98,9 @@
   {
     "id": "1cKHdTo9u0ZymJdPGSh6nq",
     "name": "I Was Never There",
+    "duration_ms": 241066,
+    "explicit": false,
+    "track_number": 4,
     "artist": "The Weeknd",
     "album": "My Dear Melancholy,",
     "bpm": 112.923,
@@ -118,6 +130,9 @@
   {
     "id": "6QdnKD1zwEgyOWtkrdzlOF",
     "name": "Hurt You",
+    "duration_ms": 230026,
+    "explicit": true,
+    "track_number": 5,
     "artist": "The Weeknd",
     "album": "My Dear Melancholy,",
     "bpm": 183.934,
@@ -147,6 +162,9 @@
   {
     "id": "0Nwar8rweBUyfyuoyjjUvk",
     "name": "Privilege",
+    "duration_ms": 170573,
+    "explicit": true,
+    "track_number": 6,
     "artist": "The Weeknd",
     "album": "My Dear Melancholy,",
     "bpm": 93.946,
@@ -176,6 +194,9 @@
   {
     "id": "5PTfZsGlsDDPH8i3PdQnXJ",
     "name": "Call Out My Name - A Cappella",
+    "duration_ms": 224746,
+    "explicit": false,
+    "track_number": 7,
     "artist": "The Weeknd",
     "album": "My Dear Melancholy,",
     "bpm": 135.376,

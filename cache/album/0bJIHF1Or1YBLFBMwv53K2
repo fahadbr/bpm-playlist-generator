@@ -2,6 +2,9 @@
   {
     "id": "0s8vpu2GVH8MNX2Er3xNYt",
     "name": "Sex Drive",
+    "duration_ms": 123167,
+    "explicit": true,
+    "track_number": 1,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 95.014,
@@ -31,6 +34,9 @@
   {
     "id": "2jRmKc69qzGKzGU9SdH5u7",
     "name": "el Diablo",
+    "duration_ms": 146264,
+    "explicit": true,
+    "track_number": 2,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 75.003,
@@ -60,6 +66,9 @@
   {
     "id": "0uFNdjWpogmaJYp2zlNJj5",
     "name": "Hollywood Whore",
+    "duration_ms": 203174,
+    "explicit": true,
+    "track_number": 3,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 100.022,
@@ -89,6 +98,9 @@
   {
     "id": "0YP8kt3sAYTj6eEyesreQH",
     "name": "Glass House (feat. Naomi Wild)",
+    "duration_ms": 201740,
+    "explicit": true,
+    "track_number": 4,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 149.968,
@@ -118,6 +130,9 @@
   {
     "id": "1xGxSCtX96DB7inpF2wKIS",
     "name": "Burning Memories (feat. Lil Skies)",
+    "duration_ms": 216295,
+    "explicit": true,
+    "track_number": 5,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 80.788,
@@ -147,6 +162,9 @@
   {
     "id": "1SGXy6nRTOJmY22vC6JwHE",
     "name": "A Message From The Count",
+    "duration_ms": 37279,
+    "explicit": true,
+    "track_number": 6,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 73.024,
@@ -176,6 +194,9 @@
   {
     "id": "5WZ4qFbz1x2vELPg8S7vza",
     "name": "FLOOR 13",
+    "duration_ms": 194873,
+    "explicit": true,
+    "track_number": 7,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 120.048,
@@ -205,6 +226,9 @@
   {
     "id": "5Uym8nZf9WyDsxPuum3ntT",
     "name": "Roulette",
+    "duration_ms": 182622,
+    "explicit": true,
+    "track_number": 8,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 95.975,
@@ -234,6 +258,9 @@
   {
     "id": "4WZpl5GUvuzXr54h1Dr7vz",
     "name": "Truck Norris Interlude",
+    "duration_ms": 52652,
+    "explicit": true,
+    "track_number": 9,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 125.33,
@@ -263,6 +290,9 @@
   {
     "id": "6CVrnuMvknlW7OXmY1zgX4",
     "name": "Death In My Pocket",
+    "duration_ms": 179761,
+    "explicit": true,
+    "track_number": 10,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 92.279,
@@ -292,6 +322,9 @@
   {
     "id": "37AGgp9VP8TVJBfEat74Bj",
     "name": "Candy (feat. Trippie Redd)",
+    "duration_ms": 156719,
+    "explicit": true,
+    "track_number": 11,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 98.019,
@@ -321,6 +354,9 @@
   {
     "id": "581geNTL8gGJE3MEPY5tcE",
     "name": "Waste Love (feat. Madison Love)",
+    "duration_ms": 196140,
+    "explicit": true,
+    "track_number": 12,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 150.002,
@@ -350,6 +386,9 @@
   {
     "id": "2ipqXnu9eUA11VerUdiqjg",
     "name": "5:3666",
+    "duration_ms": 194889,
+    "explicit": true,
+    "track_number": 13,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 79.979,
@@ -379,6 +418,9 @@
   {
     "id": "2gTdDMpNxIRFSiu7HutMCg",
     "name": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
+    "duration_ms": 169397,
+    "explicit": true,
+    "track_number": 14,
     "artist": "mgk",
     "album": "Hotel Diablo",
     "bpm": 119.921,

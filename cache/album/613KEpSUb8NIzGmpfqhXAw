@@ -2,6 +2,9 @@
   {
     "id": "3hMTsuLSxgOTMyEEkvfad1",
     "name": "Breathing In A New Mentality",
+    "duration_ms": 157440,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
     "bpm": 105.04,
@@ -31,6 +34,9 @@
   {
     "id": "1YNmI8U6y6DTw56oOITpiS",
     "name": "Anyone Can Dig A Hole But It Takes A Real Man To Call It Home",
+    "duration_ms": 196426,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
     "bpm": 173.827,
@@ -60,6 +66,9 @@
   {
     "id": "1XI4mmQ96K6uRHTxYpQmF1",
     "name": "A Fault Line, A Fault Of Mine",
+    "duration_ms": 201546,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
     "bpm": 177.285,
@@ -89,6 +98,9 @@
   {
     "id": "00SHcXnP8UDPh6H1E7PRJc",
     "name": "Emergency Broadcast: The End Is Near",
+    "duration_ms": 344173,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
     "bpm": 132.042,
@@ -118,6 +130,9 @@
   {
     "id": "39YY2f25NUloPuDQpe5VZx",
     "name": "The Only Survivor Was Miraculously Unharmed",
+    "duration_ms": 188946,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
     "bpm": 140.075,
@@ -147,6 +162,9 @@
   {
     "id": "1Ytx45UI851QyUZK33RNDp",
     "name": "We Are The Involuntary",
+    "duration_ms": 249813,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
     "bpm": 127.878,
@@ -176,6 +194,9 @@
   {
     "id": "0XM6SBa7xYMWv3ng5QNvWq",
     "name": "The Created Void",
+    "duration_ms": 242146,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
     "bpm": 165.273,
@@ -205,6 +226,9 @@
   {
     "id": "2wCKGd4ODvXDmI4Rl6gaz4",
     "name": "Coming Down Is Calming Down",
+    "duration_ms": 195240,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
     "bpm": 95.03,
@@ -234,6 +258,9 @@
   {
     "id": "4TLK7Umh2d9UO3ZajvE6AV",
     "name": "Desperate Times, Desperate Measures",
+    "duration_ms": 207573,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
     "bpm": 179.853,
@@ -263,6 +290,9 @@
   {
     "id": "22LwhIWG9emahUJCGPWLT0",
     "name": "Too Bright To See, Too Loud To Hear",
+    "duration_ms": 270853,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
     "bpm": 120.136,
@@ -292,6 +322,9 @@
   {
     "id": "0XInxkp4Jlv9VnaKsZn9Qq",
     "name": "Desolate Earth: The End Is Here",
+    "duration_ms": 247226,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
     "bpm": 149.955,

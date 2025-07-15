@@ -2,6 +2,9 @@
   {
     "id": "61VeLzYgLf75bluXdXWbaV",
     "name": "Ain't Messin 'Round",
+    "duration_ms": 249413,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 140.468,
@@ -31,6 +34,9 @@
   {
     "id": "2mdxGlwrhtkuxgzbH7LOIh",
     "name": "When My Train Pulls In",
+    "duration_ms": 465960,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 165.976,
@@ -60,6 +66,9 @@
   {
     "id": "7KumlmusIbdAMvbiZ6dG3t",
     "name": "Blak and Blu",
+    "duration_ms": 246453,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 97.986,
@@ -89,6 +98,9 @@
   {
     "id": "7aO35V27YDi4hKOL9odSya",
     "name": "Bright Lights",
+    "duration_ms": 324786,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 83.541,
@@ -118,6 +130,9 @@
   {
     "id": "2AknZixHH262yq00xcHXKa",
     "name": "Travis County",
+    "duration_ms": 218440,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 153.438,
@@ -147,6 +162,9 @@
   {
     "id": "689PqOWdSatOVBZhAZ180C",
     "name": "The Life",
+    "duration_ms": 305866,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 90.009,
@@ -176,6 +194,9 @@
   {
     "id": "4YDGmc8R9FT7xyk4a4y5OB",
     "name": "Glitter Ain't Gold (Jumpin' for Nothin')",
+    "duration_ms": 258026,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 174.539,
@@ -205,6 +226,9 @@
   {
     "id": "3HyiHXZdB5CQTTtxIXYwJs",
     "name": "Numb",
+    "duration_ms": 326386,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 138.686,
@@ -234,6 +258,9 @@
   {
     "id": "5kZryYy6brZyySavzuli6a",
     "name": "Please Come Home",
+    "duration_ms": 256666,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 91.38,
@@ -263,6 +290,9 @@
   {
     "id": "231ECXHMAbYiZ9R9ZYUlW2",
     "name": "Things Are Changin'",
+    "duration_ms": 239720,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 90.982,
@@ -292,6 +322,9 @@
   {
     "id": "6B7aI3crr9n5B2bXkrAfVN",
     "name": "Third Stone from the Sun / If You Love Me Like You Say",
+    "duration_ms": 578000,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 86.6,
@@ -321,6 +354,9 @@
   {
     "id": "0FU2aPc9u6Ae2klbFsgbkI",
     "name": "You Saved Me",
+    "duration_ms": 371320,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 62.022,
@@ -350,6 +386,9 @@
   {
     "id": "0cJh6Ghx9Hy5nw9Cvo3ytn",
     "name": "Next Door Neighbor Blues",
+    "duration_ms": 181240,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 83.469,
@@ -379,6 +418,9 @@
   {
     "id": "6VHMTSmhBWxKBlMaE5IYmW",
     "name": "Breakdown",
+    "duration_ms": 251293,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 124.021,
@@ -408,6 +450,9 @@
   {
     "id": "5nDMuBPskb181TOTHrQPXb",
     "name": "Soul",
+    "duration_ms": 375213,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
     "bpm": 90.487,

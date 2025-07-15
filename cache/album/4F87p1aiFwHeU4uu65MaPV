@@ -2,6 +2,9 @@
   {
     "id": "3atCD3dVosUsd3KM2yzfeC",
     "name": "Grandpa's Space Ship",
+    "duration_ms": 122093,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 119.082,
@@ -31,6 +34,9 @@
   {
     "id": "3s3VVLE1kB7Xk2AoJKlGmr",
     "name": "Overnight",
+    "duration_ms": 217560,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 150.003,
@@ -60,6 +66,9 @@
   {
     "id": "7u90MSvVyEjL0c8icaE7jl",
     "name": "Contra",
+    "duration_ms": 217146,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 126.007,
@@ -89,6 +98,9 @@
   {
     "id": "4fZxGiES1FKbNqJPrI4L3s",
     "name": "BoomTrap Protocol",
+    "duration_ms": 221360,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 77.032,
@@ -118,6 +130,9 @@
   {
     "id": "0D5CXSUx8GOCHSY8KWgi9h",
     "name": "Yuck",
+    "duration_ms": 173693,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 156.158,
@@ -147,6 +162,9 @@
   {
     "id": "0jqBo5RYn008f4ZY8kPewW",
     "name": "Indica Badu",
+    "duration_ms": 260320,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 77.012,
@@ -176,6 +194,9 @@
   {
     "id": "1GtVGc1UYin3zpMUdNSSpM",
     "name": "Midnight",
+    "duration_ms": 241426,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 95.056,
@@ -205,6 +226,9 @@
   {
     "id": "3W4JFzOQdo5J2Wgt9DFg24",
     "name": "Warm It Up",
+    "duration_ms": 240093,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 95.965,
@@ -234,6 +258,9 @@
   {
     "id": "2ycWek3FNNVHBhz2TcnOzZ",
     "name": "Wizard Of Oz",
+    "duration_ms": 144626,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 146.002,
@@ -263,6 +290,9 @@
   {
     "id": "58cvckETahSOG74RP5WE99",
     "name": "State Of Emergency",
+    "duration_ms": 154373,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 173.915,
@@ -292,6 +322,9 @@
   {
     "id": "5KVciTEfXvpcFHR3RFbtJy",
     "name": "Wassup",
+    "duration_ms": 219480,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 140.001,
@@ -321,6 +354,9 @@
   {
     "id": "4EAV2cKiqKP5UPZmY6dejk",
     "name": "Everyday",
+    "duration_ms": 204746,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 149.908,
@@ -350,6 +386,9 @@
   {
     "id": "3e7Y6sfFlIdBMJhX7wpqVO",
     "name": "44 More",
+    "duration_ms": 188600,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Logic",
     "album": "Bobby Tarantino II",
     "bpm": 139.966,

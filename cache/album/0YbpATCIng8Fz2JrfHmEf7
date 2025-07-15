@@ -2,6 +2,9 @@
   {
     "id": "03S5vMBN07OOnPj1SCMsxV",
     "name": "TorcH",
+    "duration_ms": 334906,
+    "explicit": true,
+    "track_number": 1,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 139.482,
@@ -31,6 +34,9 @@
   {
     "id": "3uu93VCGbNfkXqUuDQNqaT",
     "name": "Lord Have Mercy",
+    "duration_ms": 104253,
+    "explicit": true,
+    "track_number": 2,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 78.269,
@@ -60,6 +66,9 @@
   {
     "id": "2yJ9GVCLMmzBBfQAnfzlwr",
     "name": "THat Part",
+    "duration_ms": 313573,
+    "explicit": true,
+    "track_number": 3,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 112.961,
@@ -89,6 +98,9 @@
   {
     "id": "1MY4HVXfBkUg1mUjmCjznI",
     "name": "Groovy Tony / Eddie Kane",
+    "duration_ms": 379946,
+    "explicit": true,
+    "track_number": 4,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 164.659,
@@ -118,6 +130,9 @@
   {
     "id": "3yg7fx2DVjbQRLoROq3wA8",
     "name": "Kno Ya Wrong",
+    "duration_ms": 325600,
+    "explicit": true,
+    "track_number": 5,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 79.144,
@@ -147,6 +162,9 @@
   {
     "id": "2glfyBSK3wqoumtEVN1F07",
     "name": "Ride Out",
+    "duration_ms": 287360,
+    "explicit": true,
+    "track_number": 6,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 72.017,
@@ -176,6 +194,9 @@
   {
     "id": "44ZWfYPt3AQJAfg4Ned0ue",
     "name": "WHateva U Want",
+    "duration_ms": 230906,
+    "explicit": true,
+    "track_number": 7,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 108.952,
@@ -205,6 +226,9 @@
   {
     "id": "1iY2DB9Bpn1r8mBgoFLBOG",
     "name": "By Any Means",
+    "duration_ms": 214333,
+    "explicit": true,
+    "track_number": 8,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 129.967,
@@ -234,6 +258,9 @@
   {
     "id": "7pda6TLAbVGxUjIUtbiNt0",
     "name": "Dope Dealer",
+    "duration_ms": 222146,
+    "explicit": true,
+    "track_number": 9,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 82.027,
@@ -263,6 +290,9 @@
   {
     "id": "7sr74Bz3GBTNMQe1m4F5Ut",
     "name": "JoHn Muir",
+    "duration_ms": 219026,
+    "explicit": true,
+    "track_number": 10,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 160.02,
@@ -292,6 +322,9 @@
   {
     "id": "7fQzRNL3k0YUkhTTSuZgcg",
     "name": "Big Body",
+    "duration_ms": 223360,
+    "explicit": true,
+    "track_number": 11,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 116.012,
@@ -321,6 +354,9 @@
   {
     "id": "6tPDalwocS7zgeFpYi3xtr",
     "name": "Neva CHange",
+    "duration_ms": 270226,
+    "explicit": true,
+    "track_number": 12,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 79.999,
@@ -350,6 +386,9 @@
   {
     "id": "3FzmWEUMpn2j2M5NCQK0WP",
     "name": "Str8 Ballin",
+    "duration_ms": 249306,
+    "explicit": true,
+    "track_number": 13,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 93.975,
@@ -379,6 +418,9 @@
   {
     "id": "7M9m87NlRxY5YJYgcWrVhR",
     "name": "Black THougHts",
+    "duration_ms": 222320,
+    "explicit": true,
+    "track_number": 14,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 153.998,
@@ -408,6 +450,9 @@
   {
     "id": "3S1Q4qmbzVZWwMOtZ0RNcs",
     "name": "Blank Face",
+    "duration_ms": 194120,
+    "explicit": true,
+    "track_number": 15,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 145.906,
@@ -437,6 +482,9 @@
   {
     "id": "5lsrKf4mzIO4gA9U9eBYms",
     "name": "Overtime",
+    "duration_ms": 278493,
+    "explicit": true,
+    "track_number": 16,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 118.018,
@@ -466,6 +514,9 @@
   {
     "id": "3mViCAKDSnEoGijjbmcQYA",
     "name": "Tookie Knows II",
+    "duration_ms": 285346,
+    "explicit": true,
+    "track_number": 17,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
     "bpm": 115.013,

@@ -2,6 +2,9 @@
   {
     "id": "2uCR5vRJOjzh4MWNkWSAxr",
     "name": "Epitaph",
+    "duration_ms": 473600,
+    "explicit": false,
+    "track_number": 1,
     "artist": "God Is An Astronaut",
     "album": "Epitaph",
     "bpm": 170.196,
@@ -31,6 +34,9 @@
   {
     "id": "6zFzRIVwQ5VJgOuyRQXNA5",
     "name": "Mortal Coil",
+    "duration_ms": 332680,
+    "explicit": false,
+    "track_number": 2,
     "artist": "God Is An Astronaut",
     "album": "Epitaph",
     "bpm": 106.025,
@@ -60,6 +66,9 @@
   {
     "id": "5BRN9l6QmQPNvHmugO2rwW",
     "name": "Winter Dusk/Awakening",
+    "duration_ms": 402400,
+    "explicit": false,
+    "track_number": 3,
     "artist": "God Is An Astronaut",
     "album": "Epitaph",
     "bpm": 77.016,
@@ -89,6 +98,9 @@
   {
     "id": "6XMRoGMiXQxFlBGhFNK0ct",
     "name": "Seance Room",
+    "duration_ms": 460693,
+    "explicit": false,
+    "track_number": 4,
     "artist": "God Is An Astronaut",
     "album": "Epitaph",
     "bpm": 94.45,
@@ -118,6 +130,9 @@
   {
     "id": "4XkXMrQFXXhZ37rpnzdL46",
     "name": "Komorebi",
+    "duration_ms": 331413,
+    "explicit": false,
+    "track_number": 5,
     "artist": "God Is An Astronaut",
     "album": "Epitaph",
     "bpm": 81.859,
@@ -147,6 +162,9 @@
   {
     "id": "0cU7vFj2s07D5WlNwnzeRT",
     "name": "Medea",
+    "duration_ms": 418333,
+    "explicit": false,
+    "track_number": 6,
     "artist": "God Is An Astronaut",
     "album": "Epitaph",
     "bpm": 60.493,
@@ -176,6 +194,9 @@
   {
     "id": "54vprmETTVO7xGyYu6nBfG",
     "name": "Ois\u00edn",
+    "duration_ms": 258986,
+    "explicit": false,
+    "track_number": 7,
     "artist": "God Is An Astronaut",
     "album": "Epitaph",
     "bpm": 127.944,

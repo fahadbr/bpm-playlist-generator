@@ -2,8 +2,12 @@
   {
     "id": "1ZUyDJTMVPxajdnyFhM4DF",
     "name": "Deep State",
+    "duration_ms": 343141,
+    "explicit": false,
+    "track_number": 7,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
+    "playlist": "running 160-170 test",
     "bpm": 167.941,
     "features": [
       {
@@ -31,8 +35,12 @@
   {
     "id": "14gmLQPNYokqB8OKxAp69f",
     "name": "War With Heaven",
-    "artist": "88rising",
+    "duration_ms": 193373,
+    "explicit": false,
+    "track_number": 16,
+    "artist": "keshi",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
+    "playlist": "running 160-170 test",
     "bpm": 84.996,
     "features": [
       {
@@ -60,8 +68,12 @@
   {
     "id": "6tyS9WO74s7Q1fvyNaiQxN",
     "name": "Zombies",
+    "duration_ms": 281813,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
+    "playlist": "running 160-170 test",
     "bpm": 80.045,
     "features": [
       {
@@ -89,8 +101,12 @@
   {
     "id": "3vQ4T78TTMOjQXGfXVKQJo",
     "name": "Redbone",
+    "duration_ms": 326933,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
+    "playlist": "running 160-170 test",
     "bpm": 160.037,
     "features": [
       {
@@ -118,8 +134,12 @@
   {
     "id": "0Ed7MeXx64f6OcIuoTRCg1",
     "name": "Xxplosive",
+    "duration_ms": 215200,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Dr. Dre",
     "album": "2001",
+    "playlist": "running 160-170 test",
     "bpm": 168.96,
     "features": [
       {
@@ -147,8 +167,12 @@
   {
     "id": "0WWem437MQdylQuXxzE80H",
     "name": "Bar One",
+    "duration_ms": 50653,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Dr. Dre",
     "album": "2001",
+    "playlist": "running 160-170 test",
     "bpm": 81.328,
     "features": [
       {
@@ -176,8 +200,12 @@
   {
     "id": "0J2u6TAolef5gZEVy1HErU",
     "name": "Ed-Ucation",
+    "duration_ms": 92146,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Dr. Dre",
     "album": "2001",
+    "playlist": "running 160-170 test",
     "bpm": 168.791,
     "features": [
       {
@@ -205,8 +233,12 @@
   {
     "id": "6WgxXdBZrtdQFGBcxQxpiv",
     "name": "The Message",
+    "duration_ms": 304026,
+    "explicit": false,
+    "track_number": 22,
     "artist": "Dr. Dre",
     "album": "2001",
+    "playlist": "running 160-170 test",
     "bpm": 82.448,
     "features": [
       {
@@ -234,8 +266,12 @@
   {
     "id": "4rmK0BSBLMiwNJ6iwWXJm1",
     "name": "Outro",
-    "artist": "Dr. Dre",
+    "duration_ms": 25746,
+    "explicit": false,
+    "track_number": 23,
+    "artist": "Thomas Chong",
     "album": "2001",
+    "playlist": "running 160-170 test",
     "bpm": 80.966,
     "features": [
       {
@@ -263,8 +299,12 @@
   {
     "id": "5bnMRsrpblLaINuPh6b6QA",
     "name": "Oh Wow...Swerve (with J. Cole feat. Zoink Gang, KEY! & Maxo Kream)",
+    "duration_ms": 275986,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
+    "playlist": "running 160-170 test",
     "bpm": 165.265,
     "features": [
       {
@@ -292,8 +332,12 @@
   {
     "id": "001tGjS4WX77wtQGCP8Sfm",
     "name": "Ladies, Ladies, Ladies (with JID feat. T.I.)",
+    "duration_ms": 167786,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
+    "playlist": "running 160-170 test",
     "bpm": 80.436,
     "features": [
       {
@@ -321,8 +365,12 @@
   {
     "id": "1hp7uTRi0jYcN6wgFP077U",
     "name": "Still Dreamin (with JID & Lute feat. 6LACK)",
+    "duration_ms": 261053,
+    "explicit": true,
+    "track_number": 30,
     "artist": "Dreamville",
     "album": "Revenge Of The Dreamers III: Director's Cut",
+    "playlist": "running 160-170 test",
     "bpm": 82.411,
     "features": [
       {
@@ -350,8 +398,12 @@
   {
     "id": "0OUQhRKgGSb0PPrLUuEQka",
     "name": "Church",
+    "duration_ms": 211826,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Fall Out Boy",
     "album": "MANIA",
+    "playlist": "running 160-170 test",
     "bpm": 168.003,
     "features": [
       {
@@ -379,8 +431,12 @@
   {
     "id": "6BAJofeQE4sGoZzC2RKeps",
     "name": "The 18th Letter (Always And Forever)",
+    "duration_ms": 180933,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Rakim",
     "album": "The 18th Letter",
+    "playlist": "running 160-170 test",
     "bpm": 81.891,
     "features": [
       {
@@ -408,8 +464,12 @@
   {
     "id": "0PyEovyyFmUiYE9S2R9phH",
     "name": "Skit 1",
+    "duration_ms": 23573,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Rakim",
     "album": "The 18th Letter",
+    "playlist": "running 160-170 test",
     "bpm": 82.26,
     "features": [
       {
@@ -437,8 +497,12 @@
   {
     "id": "4bm4oKn4s1NX1B5APkD6xB",
     "name": "The Mystery (Who Is God?)",
+    "duration_ms": 320560,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Rakim",
     "album": "The 18th Letter",
+    "playlist": "running 160-170 test",
     "bpm": 84.163,
     "features": [
       {
@@ -466,8 +530,12 @@
   {
     "id": "1xiqGaMeZqLFY9TpA07k4F",
     "name": "Outro",
+    "duration_ms": 79866,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Rakim",
     "album": "The 18th Letter",
+    "playlist": "running 160-170 test",
     "bpm": 80.852,
     "features": [
       {
@@ -495,8 +563,12 @@
   {
     "id": "25EtWmcUALs9Gtfiv7Bcab",
     "name": "Mighty \"O\"",
+    "duration_ms": 256226,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Outkast",
     "album": "Idlewild",
+    "playlist": "running 160-170 test",
     "bpm": 83.373,
     "features": [
       {
@@ -524,8 +596,12 @@
   {
     "id": "13ewjoOlq7DhymHVATGxUo",
     "name": "The Birthing",
+    "duration_ms": 303266,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Baroness",
     "album": "The Red Album",
+    "playlist": "running 160-170 test",
     "bpm": 161.934,
     "features": [
       {
@@ -553,8 +629,12 @@
   {
     "id": "69zzYC1Ybwu1vtXgWd6Vx2",
     "name": "Wailing Wintry Wind",
+    "duration_ms": 354813,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Baroness",
     "album": "The Red Album",
+    "playlist": "running 160-170 test",
     "bpm": 160.512,
     "features": [
       {
@@ -582,8 +662,12 @@
   {
     "id": "4hWiGcVpTP41LvxGXOTrty",
     "name": "Wanderlust",
+    "duration_ms": 269706,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Baroness",
     "album": "The Red Album",
+    "playlist": "running 160-170 test",
     "bpm": 163.002,
     "features": [
       {
@@ -611,8 +695,12 @@
   {
     "id": "5VuxWXbt7XENQCtE9TzpTv",
     "name": "Spoil My Night (feat. Swae Lee)",
+    "duration_ms": 194560,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Post Malone",
     "album": "beerbongs & bentleys",
+    "playlist": "running 160-170 test",
     "bpm": 160.986,
     "features": [
       {
@@ -640,8 +728,12 @@
   {
     "id": "09IOPhEh1OMe0HD9b36FJk",
     "name": "Over Now",
+    "duration_ms": 246986,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Post Malone",
     "album": "beerbongs & bentleys",
+    "playlist": "running 160-170 test",
     "bpm": 164.029,
     "features": [
       {
@@ -669,8 +761,12 @@
   {
     "id": "0MrRAUcB8AZiB9ue2VOBYe",
     "name": "Sugar Wraith",
+    "duration_ms": 228146,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Post Malone",
     "album": "beerbongs & bentleys",
+    "playlist": "running 160-170 test",
     "bpm": 164.026,
     "features": [
       {
@@ -697,9 +793,13 @@
   },
   {
     "id": "2ZOViFIfFknbJRuDx2941s",
-    "name": "Of Matter \u2013 Resist",
+    "name": "Of Matter - Resist",
+    "duration_ms": 220080,
+    "explicit": false,
+    "track_number": 3,
     "artist": "TesseracT",
-    "album": "Altered State",
+    "album": "Altered State (Deluxe Edition)",
+    "playlist": "running 160-170 test",
     "bpm": 80.67,
     "features": [
       {
@@ -727,8 +827,12 @@
   {
     "id": "5zfvGTlCAxY6GwZ9TkCZ4M",
     "name": "Ten Thousand Hours",
+    "duration_ms": 249534,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Macklemore & Ryan Lewis",
-    "album": "The Heist (Deluxe Edition)",
+    "album": "The Heist",
+    "playlist": "running 160-170 test",
     "bpm": 80.488,
     "features": [
       {
@@ -756,8 +860,12 @@
   {
     "id": "2SUbEGOWS0cUV19uFjQQxR",
     "name": "Same Love (feat. Mary Lambert)",
+    "duration_ms": 320034,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Macklemore & Ryan Lewis",
-    "album": "The Heist (Deluxe Edition)",
+    "album": "The Heist",
+    "playlist": "running 160-170 test",
     "bpm": 84.964,
     "features": [
       {
@@ -785,8 +893,12 @@
   {
     "id": "3VAXbgI4hKU3Dk7VWpFMMf",
     "name": "Neon Cathedral (feat. Allen Stone)",
+    "duration_ms": 274285,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Macklemore & Ryan Lewis",
-    "album": "The Heist (Deluxe Edition)",
+    "album": "The Heist",
+    "playlist": "running 160-170 test",
     "bpm": 164.488,
     "features": [
       {
@@ -814,8 +926,12 @@
   {
     "id": "7gSyfcCtcnlHDbA8O3Lnls",
     "name": "Starting Over (feat. Ben Bridwell)",
+    "duration_ms": 251196,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Macklemore & Ryan Lewis",
-    "album": "The Heist (Deluxe Edition)",
+    "album": "The Heist",
+    "playlist": "running 160-170 test",
     "bpm": 164.084,
     "features": [
       {
@@ -843,8 +959,12 @@
   {
     "id": "2paPlKZIIZ2Qk76aZOXR2w",
     "name": "Lotta Years",
+    "duration_ms": 118946,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
+    "playlist": "running 160-170 test",
     "bpm": 81.912,
     "features": [
       {
@@ -872,8 +992,12 @@
   {
     "id": "4GW7OMwSpog9vGws5WQfXF",
     "name": "Dorks",
+    "duration_ms": 212906,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
+    "playlist": "running 160-170 test",
     "bpm": 168.117,
     "features": [
       {
@@ -901,8 +1025,12 @@
   {
     "id": "1CXfq8G5lBVyJQ82UIFWH1",
     "name": "Shrunk",
+    "duration_ms": 188613,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
+    "playlist": "running 160-170 test",
     "bpm": 81.882,
     "features": [
       {
@@ -930,8 +1058,12 @@
   {
     "id": "6glsMWIMIxQ4BedzLqGVi4",
     "name": "So Fresh, So Clean",
+    "duration_ms": 240026,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Outkast",
     "album": "Stankonia",
+    "playlist": "running 160-170 test",
     "bpm": 166.028,
     "features": [
       {
@@ -959,8 +1091,12 @@
   {
     "id": "6x2w7tJogu6rIWT9DomoO9",
     "name": "Birth",
+    "duration_ms": 127386,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Thirty Seconds To Mars",
-    "album": "Love Lust Faith + Dreams",
+    "album": "LOVE LUST FAITH + DREAMS",
+    "playlist": "running 160-170 test",
     "bpm": 160.003,
     "features": [
       {
@@ -988,8 +1124,12 @@
   {
     "id": "24FR8mXTaiGZPrxnkf1kcP",
     "name": "Hit My Line",
+    "duration_ms": 265190,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Logic",
     "album": "No Pressure",
+    "playlist": "running 160-170 test",
     "bpm": 164.057,
     "features": [
       {
@@ -1017,8 +1157,12 @@
   {
     "id": "7ikkUWdCqtyEGgSPyVxePq",
     "name": "5 Hooks",
+    "duration_ms": 232921,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Logic",
     "album": "No Pressure",
+    "playlist": "running 160-170 test",
     "bpm": 81.491,
     "features": [
       {
@@ -1046,8 +1190,12 @@
   {
     "id": "6Ljp2oy8zR8EhutqBdLYnt",
     "name": "yankee and the brave (ep. 4)",
+    "duration_ms": 146573,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Run The Jewels",
     "album": "RTJ4",
+    "playlist": "running 160-170 test",
     "bpm": 82.007,
     "features": [
       {
@@ -1075,8 +1223,12 @@
   {
     "id": "59151GHN7yr5g9B3bqlGdR",
     "name": "Trouble",
+    "duration_ms": 41487,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+    "playlist": "running 160-170 test",
     "bpm": 82.652,
     "features": [
       {
@@ -1104,8 +1256,12 @@
   {
     "id": "21LCotDEwR7R8qOnqPVzi9",
     "name": "Evil",
+    "duration_ms": 230358,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+    "playlist": "running 160-170 test",
     "bpm": 80.538,
     "features": [
       {
@@ -1133,8 +1289,12 @@
   {
     "id": "3LkXOTWDwskwciQoARFDzu",
     "name": "Guilty Conscience 2",
+    "duration_ms": 325531,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+    "playlist": "running 160-170 test",
     "bpm": 164.421,
     "features": [
       {
@@ -1162,8 +1322,12 @@
   {
     "id": "1L079XUk8l1nWqEHUMPoVR",
     "name": "Of Dust And Nations",
+    "duration_ms": 290213,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Thrice",
     "album": "Vheissu",
+    "playlist": "running 160-170 test",
     "bpm": 169.93,
     "features": [
       {
@@ -1191,8 +1355,12 @@
   {
     "id": "3XnmHCsBIO4cDW73UUrtkA",
     "name": "Shankill Butchers",
+    "duration_ms": 279600,
+    "explicit": false,
+    "track_number": 7,
     "artist": "The Decemberists",
     "album": "The Crane Wife",
+    "playlist": "running 160-170 test",
     "bpm": 80.531,
     "features": [
       {
@@ -1220,8 +1388,12 @@
   {
     "id": "71d1KcqByBe8cl0NhFUKVU",
     "name": "Ronald Reagan Era",
+    "duration_ms": 216899,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
+    "playlist": "running 160-170 test",
     "bpm": 167.469,
     "features": [
       {
@@ -1249,8 +1421,12 @@
   {
     "id": "4WEuEfFiczWxblHyuucSBL",
     "name": "HiiiPower",
+    "duration_ms": 279854,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Kendrick Lamar",
     "album": "Section.80",
+    "playlist": "running 160-170 test",
     "bpm": 81.024,
     "features": [
       {
@@ -1278,8 +1454,12 @@
   {
     "id": "23m5rUpKrW85DNikaGm7j8",
     "name": "From Zero (Intro)",
+    "duration_ms": 22174,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Linkin Park",
     "album": "From Zero (Deluxe Edition)",
+    "playlist": "running 160-170 test",
     "bpm": 82.621,
     "features": [
       {
@@ -1307,8 +1487,12 @@
   {
     "id": "3GZt2N9dSfNCL6ArCFDpOc",
     "name": "Let You Fade",
+    "duration_ms": 208739,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Linkin Park",
     "album": "From Zero (Deluxe Edition)",
+    "playlist": "running 160-170 test",
     "bpm": 163.676,
     "features": [
       {
@@ -1336,8 +1520,12 @@
   {
     "id": "3HgA5R5alihocnOYE9ihpS",
     "name": "Hard Piano",
+    "duration_ms": 195733,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Pusha T",
     "album": "DAYTONA",
+    "playlist": "running 160-170 test",
     "bpm": 82.2,
     "features": [
       {
@@ -1365,8 +1553,12 @@
   {
     "id": "5vnuJ8EopkP5dHukpOmT3L",
     "name": "What Would Meek Do?",
+    "duration_ms": 153266,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Pusha T",
     "album": "DAYTONA",
+    "playlist": "running 160-170 test",
     "bpm": 83.071,
     "features": [
       {
@@ -1394,8 +1586,12 @@
   {
     "id": "73OIUNKRi2y24Cu9cOLrzM",
     "name": "On the Run",
+    "duration_ms": 225384,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
+    "playlist": "running 160-170 test",
     "bpm": 165.393,
     "features": [
       {
@@ -1423,8 +1619,12 @@
   {
     "id": "5gOfC9UzZQzTyShqPMrpjT",
     "name": "wacced out murals",
+    "duration_ms": 317092,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kendrick Lamar",
     "album": "GNX",
+    "playlist": "running 160-170 test",
     "bpm": 81.998,
     "features": [
       {
@@ -1452,8 +1652,12 @@
   {
     "id": "4K1Pg0FLno1ltzX3jeqT83",
     "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
+    "duration_ms": 131240,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kendrick Lamar",
     "album": "GNX",
+    "playlist": "running 160-170 test",
     "bpm": 83.492,
     "features": [
       {
@@ -1481,8 +1685,12 @@
   {
     "id": "1SGvjfc85yzqKXsfKcCxn2",
     "name": "heart pt. 6",
+    "duration_ms": 292461,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Kendrick Lamar",
     "album": "GNX",
+    "playlist": "running 160-170 test",
     "bpm": 80.998,
     "features": [
       {
@@ -1510,8 +1718,12 @@
   {
     "id": "6M0IsaUX4GNyto4niSegfI",
     "name": "No Option",
+    "duration_ms": 179826,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 83.983,
     "features": [
       {
@@ -1539,8 +1751,12 @@
   {
     "id": "5yuShbu70mtHXY0yLzCQLQ",
     "name": "Go Flex",
+    "duration_ms": 179613,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 81.958,
     "features": [
       {
@@ -1568,8 +1784,12 @@
   {
     "id": "1ysAvOdJgUjc6CqOQxepaz",
     "name": "Money Made Me Do It",
+    "duration_ms": 224960,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 83.025,
     "features": [
       {
@@ -1597,8 +1817,12 @@
   {
     "id": "35r28RDot7nPE7y9K9H7l0",
     "name": "Feeling Whitney",
+    "duration_ms": 257265,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 80.111,
     "features": [
       {
@@ -1626,8 +1850,12 @@
   {
     "id": "4QFFhLBBvMyb6USdMYV6eN",
     "name": "Preacher",
+    "duration_ms": 197500,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
+    "playlist": "running 160-170 test",
     "bpm": 169.995,
     "features": [
       {
@@ -1655,8 +1883,12 @@
   {
     "id": "1r3qUIDhMvoTct7cxPnbdN",
     "name": "Can't Believe It (feat. 2 Chainz)",
+    "duration_ms": 172106,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
+    "playlist": "running 160-170 test",
     "bpm": 169.878,
     "features": [
       {
@@ -1684,8 +1916,12 @@
   {
     "id": "37Qn9foJ2E2S24guZSyvyg",
     "name": "Livin' My Truth",
+    "duration_ms": 133506,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kid Cudi",
     "album": "Entergalactic",
+    "playlist": "running 160-170 test",
     "bpm": 80.99,
     "features": [
       {
@@ -1713,8 +1949,12 @@
   {
     "id": "6WCXBUFa0z3l9DoOY3k5Xe",
     "name": "Instant Destiny",
+    "duration_ms": 194706,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
+    "playlist": "running 160-170 test",
     "bpm": 165.935,
     "features": [
       {
@@ -1742,8 +1982,12 @@
   {
     "id": "0IuE6FnXPCdZ8NLuuvJRhb",
     "name": "On Track",
+    "duration_ms": 301786,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Tame Impala",
     "album": "The Slow Rush",
+    "playlist": "running 160-170 test",
     "bpm": 163.861,
     "features": [
       {
@@ -1771,8 +2015,12 @@
   {
     "id": "2UciqgwVDwro0fev3MFbxJ",
     "name": "ATM",
+    "duration_ms": 216726,
+    "explicit": true,
+    "track_number": 5,
     "artist": "J. Cole",
     "album": "KOD",
+    "playlist": "running 160-170 test",
     "bpm": 81.817,
     "features": [
       {
@@ -1800,8 +2048,12 @@
   {
     "id": "5sWbwccBcyHsg5LEKWGZo9",
     "name": "BRACKETS",
+    "duration_ms": 315771,
+    "explicit": true,
+    "track_number": 8,
     "artist": "J. Cole",
     "album": "KOD",
+    "playlist": "running 160-170 test",
     "bpm": 84.039,
     "features": [
       {
@@ -1829,8 +2081,12 @@
   {
     "id": "0Px86mRlxdB3YqpK6KXWlr",
     "name": "Once an Addict - Interlude",
+    "duration_ms": 197821,
+    "explicit": true,
+    "track_number": 9,
     "artist": "J. Cole",
     "album": "KOD",
+    "playlist": "running 160-170 test",
     "bpm": 84.066,
     "features": [
       {
@@ -1858,8 +2114,12 @@
   {
     "id": "40l0GQsdCqMpBSMTN6amqc",
     "name": "Palms Read",
+    "duration_ms": 306560,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Protest The Hero",
     "album": "Fortress",
+    "playlist": "running 160-170 test",
     "bpm": 162.209,
     "features": [
       {
@@ -1887,8 +2147,12 @@
   {
     "id": "1FI2ZbZgvlJHEzAziB7V3L",
     "name": "Goddess Gagged",
+    "duration_ms": 194733,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Protest The Hero",
     "album": "Fortress",
+    "playlist": "running 160-170 test",
     "bpm": 168.002,
     "features": [
       {
@@ -1915,9 +2179,13 @@
   },
   {
     "id": "2L2dGJZqsHHXGeLJ9d5Jj8",
-    "name": "Goddess Gagged - Instrumental",
+    "name": "Goddess Gagged (Instrumental)",
+    "duration_ms": 194666,
+    "explicit": false,
+    "track_number": 20,
     "artist": "Protest The Hero",
     "album": "Fortress",
+    "playlist": "running 160-170 test",
     "bpm": 167.932,
     "features": [
       {
@@ -1945,8 +2213,12 @@
   {
     "id": "6KdwBL0OFecxLc1cSV9WVp",
     "name": "The Morning",
-    "artist": "Various Artists",
+    "duration_ms": 275080,
+    "explicit": true,
+    "track_number": 5,
+    "artist": "Raekwon",
     "album": "Kanye West Presents Good Music Cruel Summer",
+    "playlist": "running 160-170 test",
     "bpm": 82.06,
     "features": [
       {
@@ -1974,8 +2246,12 @@
   {
     "id": "3BkPFyejx6Qf4otNHMvxap",
     "name": "Sin City",
-    "artist": "Various Artists",
+    "duration_ms": 268386,
+    "explicit": true,
+    "track_number": 8,
+    "artist": "John Legend",
     "album": "Kanye West Presents Good Music Cruel Summer",
+    "playlist": "running 160-170 test",
     "bpm": 82.924,
     "features": [
       {
@@ -2003,8 +2279,12 @@
   {
     "id": "2dLLR6qlu5UJ5gk0dKz0h3",
     "name": "Royals",
+    "duration_ms": 190185,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Lorde",
-    "album": "Pure Heroine (Extended)",
+    "album": "Pure Heroine",
+    "playlist": "running 160-170 test",
     "bpm": 84.876,
     "features": [
       {
@@ -2032,8 +2312,12 @@
   {
     "id": "2rRyDXEaZwUkr4DHZpAdRS",
     "name": "Million Dollar Bills",
+    "duration_ms": 138210,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Lorde",
-    "album": "Pure Heroine (Extended)",
+    "album": "The Love Club EP",
+    "playlist": "running 160-170 test",
     "bpm": 82.044,
     "features": [
       {
@@ -2060,9 +2344,13 @@
   },
   {
     "id": "2YvvK0XLM6kFbmyciOEKWC",
-    "name": "ROCKABYE BABY (feat. ScHoolboy Q)",
+    "name": "ROCKABYE BABY",
+    "duration_ms": 223553,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Joey Bada$$",
     "album": "ALL-AMERIKKKAN BADA$$",
+    "playlist": "running 160-170 test",
     "bpm": 166.242,
     "features": [
       {
@@ -2089,9 +2377,13 @@
   },
   {
     "id": "3bDPWYC4dqW8Rj7le1ECvA",
-    "name": "LEGENDARY (feat. J. Cole)",
+    "name": "LEGENDARY",
+    "duration_ms": 278111,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Joey Bada$$",
     "album": "ALL-AMERIKKKAN BADA$$",
+    "playlist": "running 160-170 test",
     "bpm": 81.984,
     "features": [
       {
@@ -2119,8 +2411,12 @@
   {
     "id": "58TaFP5j5i9swOf584yon2",
     "name": "HOUSTONFORNICATION",
+    "duration_ms": 217828,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
+    "playlist": "running 160-170 test",
     "bpm": 160.042,
     "features": [
       {
@@ -2148,8 +2444,12 @@
   {
     "id": "51EC3I1nQXpec4gDk0mQyP",
     "name": "90210 (feat. Kacy Hill)",
+    "duration_ms": 339066,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Travis Scott",
     "album": "Rodeo",
+    "playlist": "running 160-170 test",
     "bpm": 81.42,
     "features": [
       {
@@ -2177,8 +2477,12 @@
   {
     "id": "6nlwNXpU0wh9CzGrVVr8i6",
     "name": "Lie, Cheat, Steal",
+    "duration_ms": 208466,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
+    "playlist": "running 160-170 test",
     "bpm": 166.102,
     "features": [
       {
@@ -2205,9 +2509,13 @@
   },
   {
     "id": "4jvWdrWu68yFTEH8OFI8da",
-    "name": "Crown",
+    "name": "Crown (feat. Diane Coffee)",
+    "duration_ms": 225720,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
+    "playlist": "running 160-170 test",
     "bpm": 164.986,
     "features": [
       {
@@ -2235,8 +2543,12 @@
   {
     "id": "6kWxIqQDsKFYCJGbU4AjCX",
     "name": "Hardest To Love",
+    "duration_ms": 211400,
+    "explicit": true,
+    "track_number": 3,
     "artist": "The Weeknd",
-    "album": "After Hours (Deluxe)",
+    "album": "After Hours",
+    "playlist": "running 160-170 test",
     "bpm": 81.898,
     "features": [
       {
@@ -2264,8 +2576,12 @@
   {
     "id": "2wOXxtHZgRkkrkEbKLzzqs",
     "name": "1.5",
+    "duration_ms": 148655,
+    "explicit": true,
+    "track_number": 6,
     "artist": "21 Savage",
     "album": "i am > i was",
+    "playlist": "running 160-170 test",
     "bpm": 84.022,
     "features": [
       {
@@ -2293,8 +2609,12 @@
   {
     "id": "55xNjVrGJxgqcEFqCyejTM",
     "name": "letter 2 my momma",
+    "duration_ms": 194809,
+    "explicit": true,
+    "track_number": 14,
     "artist": "21 Savage",
     "album": "i am > i was",
+    "playlist": "running 160-170 test",
     "bpm": 80.225,
     "features": [
       {
@@ -2322,8 +2642,12 @@
   {
     "id": "1uULQtJ8rbsX5TwjPpPc9Q",
     "name": "4L",
+    "duration_ms": 288364,
+    "explicit": true,
+    "track_number": 15,
     "artist": "21 Savage",
     "album": "i am > i was",
+    "playlist": "running 160-170 test",
     "bpm": 80.011,
     "features": [
       {
@@ -2351,8 +2675,12 @@
   {
     "id": "4CHDLQA19PRKRCtpBIzASe",
     "name": "Grinder",
+    "duration_ms": 202160,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
+    "playlist": "running 160-170 test",
     "bpm": 161.933,
     "features": [
       {
@@ -2380,8 +2708,12 @@
   {
     "id": "3LAvCzBpgK56srPYbMljJa",
     "name": "Star",
+    "duration_ms": 284080,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
+    "playlist": "running 160-170 test",
     "bpm": 84.452,
     "features": [
       {
@@ -2409,8 +2741,12 @@
   {
     "id": "5cfGJHxNcS1S2qyZj9xH6z",
     "name": "Our Love",
+    "duration_ms": 251520,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
+    "playlist": "running 160-170 test",
     "bpm": 83.98,
     "features": [
       {
@@ -2438,8 +2774,12 @@
   {
     "id": "5DDUcpsmDzDUdFLeOaPW3l",
     "name": "BYOB",
+    "duration_ms": 60053,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
+    "playlist": "running 160-170 test",
     "bpm": 83.488,
     "features": [
       {
@@ -2467,8 +2807,12 @@
   {
     "id": "4b9ruyWFMtREf1oatvwa5N",
     "name": "Darkseid",
+    "duration_ms": 126618,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
+    "playlist": "running 160-170 test",
     "bpm": 81.55,
     "features": [
       {
@@ -2496,8 +2840,12 @@
   {
     "id": "4JsTX2WkPcdDTWbchQJuko",
     "name": "All Herb (feat. Amindi)",
+    "duration_ms": 224447,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
+    "playlist": "running 160-170 test",
     "bpm": 83.332,
     "features": [
       {
@@ -2525,8 +2873,12 @@
   {
     "id": "5YZpdsmpazPtBHFbGN8mon",
     "name": "True Story (feat. Jay Rock & Jay Worthy)",
+    "duration_ms": 226666,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
+    "playlist": "running 160-170 test",
     "bpm": 84.964,
     "features": [
       {
@@ -2554,8 +2906,12 @@
   {
     "id": "0VYchQkqpeEyh95D1pWqy2",
     "name": "Wat U Sed (feat. Doechii & Kal Banx)",
+    "duration_ms": 176682,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
+    "playlist": "running 160-170 test",
     "bpm": 163.0,
     "features": [
       {
@@ -2583,8 +2939,12 @@
   {
     "id": "16Elz7HJPLZPMylp13ewxv",
     "name": "Inertiatic Esp",
+    "duration_ms": 263773,
+    "explicit": false,
+    "track_number": 2,
     "artist": "The Mars Volta",
     "album": "Deloused in the Comatorium",
+    "playlist": "running 160-170 test",
     "bpm": 169.806,
     "features": [
       {
@@ -2612,8 +2972,12 @@
   {
     "id": "32Uk6r7BFqNfpUVOFuQZFk",
     "name": "Roulette Dares (The Haunt Of)",
+    "duration_ms": 450626,
+    "explicit": false,
+    "track_number": 3,
     "artist": "The Mars Volta",
     "album": "Deloused in the Comatorium",
+    "playlist": "running 160-170 test",
     "bpm": 161.601,
     "features": [
       {
@@ -2641,8 +3005,12 @@
   {
     "id": "1IBPFXqn6qLeeiGMSyfBcA",
     "name": "Best One",
+    "duration_ms": 194786,
+    "explicit": true,
+    "track_number": 4,
     "artist": "NxWorries",
     "album": "Yes Lawd!",
+    "playlist": "running 160-170 test",
     "bpm": 83.326,
     "features": [
       {
@@ -2670,8 +3038,12 @@
   {
     "id": "5qscyVciyDKH7PbKH6Vs1U",
     "name": "Can\u2019t Stop",
+    "duration_ms": 121133,
+    "explicit": true,
+    "track_number": 8,
     "artist": "NxWorries",
     "album": "Yes Lawd!",
+    "playlist": "running 160-170 test",
     "bpm": 83.243,
     "features": [
       {
@@ -2699,8 +3071,12 @@
   {
     "id": "66YXnXYGfXFA6KAYeySWpL",
     "name": "Khadijah",
+    "duration_ms": 122373,
+    "explicit": true,
+    "track_number": 10,
     "artist": "NxWorries",
     "album": "Yes Lawd!",
+    "playlist": "running 160-170 test",
     "bpm": 81.5,
     "features": [
       {
@@ -2728,8 +3104,12 @@
   {
     "id": "0rCXIMEUi1oHFCIg01hvUZ",
     "name": "H.A.N.",
+    "duration_ms": 169560,
+    "explicit": true,
+    "track_number": 11,
     "artist": "NxWorries",
     "album": "Yes Lawd!",
+    "playlist": "running 160-170 test",
     "bpm": 81.303,
     "features": [
       {
@@ -2757,8 +3137,12 @@
   {
     "id": "3n4YPZ9c0SmLqADvMH7Se7",
     "name": "Jodi",
+    "duration_ms": 69066,
+    "explicit": true,
+    "track_number": 16,
     "artist": "NxWorries",
     "album": "Yes Lawd!",
+    "playlist": "running 160-170 test",
     "bpm": 84.41,
     "features": [
       {
@@ -2786,8 +3170,12 @@
   {
     "id": "1MY4HVXfBkUg1mUjmCjznI",
     "name": "Groovy Tony / Eddie Kane",
+    "duration_ms": 379946,
+    "explicit": true,
+    "track_number": 4,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
+    "playlist": "running 160-170 test",
     "bpm": 164.659,
     "features": [
       {
@@ -2815,8 +3203,12 @@
   {
     "id": "7pda6TLAbVGxUjIUtbiNt0",
     "name": "Dope Dealer",
+    "duration_ms": 222146,
+    "explicit": true,
+    "track_number": 9,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
+    "playlist": "running 160-170 test",
     "bpm": 82.027,
     "features": [
       {
@@ -2844,8 +3236,12 @@
   {
     "id": "7sr74Bz3GBTNMQe1m4F5Ut",
     "name": "JoHn Muir",
+    "duration_ms": 219026,
+    "explicit": true,
+    "track_number": 10,
     "artist": "ScHoolboy Q",
     "album": "Blank Face LP",
+    "playlist": "running 160-170 test",
     "bpm": 160.02,
     "features": [
       {
@@ -2873,8 +3269,12 @@
   {
     "id": "7cKs1U32CF8kKPkT2R4WQD",
     "name": "New Genius (Brother)",
+    "duration_ms": 239986,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Gorillaz",
     "album": "Gorillaz",
+    "playlist": "running 160-170 test",
     "bpm": 169.209,
     "features": [
       {
@@ -2902,8 +3302,12 @@
   {
     "id": "7yMiX7n9SBvadzox8T5jzT",
     "name": "Clint Eastwood",
+    "duration_ms": 340920,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Gorillaz",
     "album": "Gorillaz",
+    "playlist": "running 160-170 test",
     "bpm": 167.953,
     "features": [
       {
@@ -2931,8 +3335,12 @@
   {
     "id": "7JyVUB9LUVZgrJDFLOKdp8",
     "name": "Sound Check (Gravity)",
+    "duration_ms": 282973,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Gorillaz",
     "album": "Gorillaz",
+    "playlist": "running 160-170 test",
     "bpm": 81.75,
     "features": [
       {
@@ -2960,8 +3368,12 @@
   {
     "id": "2SesWUNxh3idu7A2y2iY0H",
     "name": "Double Bass",
+    "duration_ms": 286933,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Gorillaz",
     "album": "Gorillaz",
+    "playlist": "running 160-170 test",
     "bpm": 164.847,
     "features": [
       {
@@ -2989,8 +3401,12 @@
   {
     "id": "75n7mraeMycQOl2sDGYaTe",
     "name": "Mad Sounds",
+    "duration_ms": 215011,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Arctic Monkeys",
     "album": "AM",
+    "playlist": "running 160-170 test",
     "bpm": 80.001,
     "features": [
       {
@@ -3018,8 +3434,12 @@
   {
     "id": "6ZLp4KlQEtm7WxfyVQfp9U",
     "name": "GHOTI",
+    "duration_ms": 111021,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Lupe Fiasco",
     "album": "DRILL MUSIC IN ZION",
+    "playlist": "running 160-170 test",
     "bpm": 83.131,
     "features": [
       {
@@ -3047,8 +3467,12 @@
   {
     "id": "0sCtBy5i9pZUwMq3Il1O4U",
     "name": "ON FAUX NEM",
+    "duration_ms": 338931,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Lupe Fiasco",
     "album": "DRILL MUSIC IN ZION",
+    "playlist": "running 160-170 test",
     "bpm": 166.042,
     "features": [
       {
@@ -3076,8 +3500,12 @@
   {
     "id": "6Hfu9sc7jvv6coyy2LlzBF",
     "name": "Hurricane",
+    "duration_ms": 243187,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Kanye West",
     "album": "Donda",
+    "playlist": "running 160-170 test",
     "bpm": 80.009,
     "features": [
       {
@@ -3105,8 +3533,12 @@
   {
     "id": "7CC6UbCs4iGsePSzFxYxNn",
     "name": "Moon",
+    "duration_ms": 156091,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Kanye West",
     "album": "Donda",
+    "playlist": "running 160-170 test",
     "bpm": 162.351,
     "features": [
       {
@@ -3134,8 +3566,12 @@
   {
     "id": "2Y40huo5ewaKYxsFintYtF",
     "name": "Heaven and Hell",
+    "duration_ms": 145301,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Kanye West",
     "album": "Donda",
+    "playlist": "running 160-170 test",
     "bpm": 82.986,
     "features": [
       {
@@ -3163,8 +3599,12 @@
   {
     "id": "7EagormFign5ag6f16ua3I",
     "name": "Keep My Spirit Alive",
+    "duration_ms": 221250,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Kanye West",
     "album": "Donda",
+    "playlist": "running 160-170 test",
     "bpm": 166.35,
     "features": [
       {
@@ -3192,8 +3632,12 @@
   {
     "id": "5Iq6pIudd4KfuxZqf8872b",
     "name": "Lord I Need You",
+    "duration_ms": 162108,
+    "explicit": false,
+    "track_number": 20,
     "artist": "Kanye West",
     "album": "Donda",
+    "playlist": "running 160-170 test",
     "bpm": 83.036,
     "features": [
       {
@@ -3221,8 +3665,12 @@
   {
     "id": "5ad5uryyzVWs95bK3myGkw",
     "name": "Ok Ok pt 2",
+    "duration_ms": 204629,
+    "explicit": false,
+    "track_number": 25,
     "artist": "Kanye West",
     "album": "Donda",
+    "playlist": "running 160-170 test",
     "bpm": 82.295,
     "features": [
       {
@@ -3250,8 +3698,12 @@
   {
     "id": "50M2QjfSM82wkJ1d0iV4mh",
     "name": "Daydreamin' (feat. Jill Scott)",
+    "duration_ms": 234306,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
+    "playlist": "running 160-170 test",
     "bpm": 81.37,
     "features": [
       {
@@ -3279,8 +3731,12 @@
   {
     "id": "2YBDTmzBMAYsvFYFgjSy83",
     "name": "Hurt Me Soul",
+    "duration_ms": 262893,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
+    "playlist": "running 160-170 test",
     "bpm": 167.295,
     "features": [
       {
@@ -3308,8 +3764,12 @@
   {
     "id": "2grmagJB45Dhvc4R9Hxh65",
     "name": "Pressure (feat. Jay-Z)",
+    "duration_ms": 287040,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
+    "playlist": "running 160-170 test",
     "bpm": 166.863,
     "features": [
       {
@@ -3337,8 +3797,12 @@
   {
     "id": "17dRP50Rx5DdSH9Qy4xR9A",
     "name": "American Terrorist (feat. Matthew Santos)",
+    "duration_ms": 280520,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's Food & Liquor",
+    "playlist": "running 160-170 test",
     "bpm": 83.264,
     "features": [
       {
@@ -3366,8 +3830,12 @@
   {
     "id": "51X8SlNSoOcI373rAHWmzC",
     "name": "Natural Disaster",
+    "duration_ms": 366428,
+    "explicit": false,
+    "track_number": 1,
     "artist": "TesseracT",
     "album": "War Of Being",
+    "playlist": "running 160-170 test",
     "bpm": 165.114,
     "features": [
       {
@@ -3395,8 +3863,12 @@
   {
     "id": "5jisYS4TgUjONunTTYhIiP",
     "name": "Sirens",
+    "duration_ms": 297242,
+    "explicit": false,
+    "track_number": 7,
     "artist": "TesseracT",
     "album": "War Of Being",
+    "playlist": "running 160-170 test",
     "bpm": 168.043,
     "features": [
       {
@@ -3424,8 +3896,12 @@
   {
     "id": "5BB0Jzw60KyfSTyjJqtely",
     "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+    "duration_ms": 205960,
+    "explicit": true,
+    "track_number": 2,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "playlist": "running 160-170 test",
     "bpm": 165.981,
     "features": [
       {
@@ -3453,8 +3929,12 @@
   {
     "id": "1RT6zSjs59gJdFfUshT465",
     "name": "Party Poison",
+    "duration_ms": 215960,
+    "explicit": false,
+    "track_number": 8,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "playlist": "running 160-170 test",
     "bpm": 162.954,
     "features": [
       {
@@ -3482,8 +3962,12 @@
   {
     "id": "68oU2YXg4kwPpertTUFrC6",
     "name": "Why We Build the Wall",
-    "artist": "Original Broadway Cast of Hadestown",
+    "duration_ms": 240193,
+    "explicit": false,
+    "track_number": 19,
+    "artist": "Patrick Page",
     "album": "Hadestown (Original Broadway Cast Recording)",
+    "playlist": "running 160-170 test",
     "bpm": 80.318,
     "features": [
       {
@@ -3511,8 +3995,12 @@
   {
     "id": "1vmanLxFqqfhUs0oBGydmo",
     "name": "Doubt Comes In",
-    "artist": "Original Broadway Cast of Hadestown",
+    "duration_ms": 291958,
+    "explicit": false,
+    "track_number": 38,
+    "artist": "Reeve Carney",
     "album": "Hadestown (Original Broadway Cast Recording)",
+    "playlist": "running 160-170 test",
     "bpm": 83.785,
     "features": [
       {
@@ -3540,8 +4028,12 @@
   {
     "id": "2mdxGlwrhtkuxgzbH7LOIh",
     "name": "When My Train Pulls In",
+    "duration_ms": 465960,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
+    "playlist": "running 160-170 test",
     "bpm": 165.976,
     "features": [
       {
@@ -3569,8 +4061,12 @@
   {
     "id": "7aO35V27YDi4hKOL9odSya",
     "name": "Bright Lights",
+    "duration_ms": 324786,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
+    "playlist": "running 160-170 test",
     "bpm": 83.541,
     "features": [
       {
@@ -3598,8 +4094,12 @@
   {
     "id": "0cJh6Ghx9Hy5nw9Cvo3ytn",
     "name": "Next Door Neighbor Blues",
+    "duration_ms": 181240,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
+    "playlist": "running 160-170 test",
     "bpm": 83.469,
     "features": [
       {
@@ -3627,8 +4127,12 @@
   {
     "id": "6OocN63GLU7NF0wHdewhID",
     "name": "Invisible",
+    "duration_ms": 214346,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Linkin Park",
     "album": "One More Light",
+    "playlist": "running 160-170 test",
     "bpm": 84.841,
     "features": [
       {
@@ -3656,8 +4160,12 @@
   {
     "id": "3xXBsjrbG1xQIm1xv1cKOt",
     "name": "One More Light",
+    "duration_ms": 255066,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Linkin Park",
     "album": "One More Light",
+    "playlist": "running 160-170 test",
     "bpm": 83.966,
     "features": [
       {
@@ -3685,8 +4193,12 @@
   {
     "id": "4L0jcL1W6bK1H51S5BBFLf",
     "name": "Banana Clipper (feat. Big Boi)",
+    "duration_ms": 171493,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Run The Jewels",
-    "album": "Run the Jewels",
+    "album": "Run The Jewels",
+    "playlist": "running 160-170 test",
     "bpm": 166.283,
     "features": [
       {
@@ -3714,8 +4226,12 @@
   {
     "id": "0r83fnVz35a5ajGqQydqi2",
     "name": "Get It",
+    "duration_ms": 179999,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Run The Jewels",
-    "album": "Run the Jewels",
+    "album": "Run The Jewels",
+    "playlist": "running 160-170 test",
     "bpm": 160.017,
     "features": [
       {
@@ -3743,8 +4259,12 @@
   {
     "id": "6OGj5QOCrp99SrtPk2uSDf",
     "name": "La Cerva",
+    "duration_ms": 299200,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Caspian",
     "album": "Tertia",
+    "playlist": "running 160-170 test",
     "bpm": 82.986,
     "features": [
       {
@@ -3772,8 +4292,12 @@
   {
     "id": "7lCt83sq0ZV6zCbTt9wA5Q",
     "name": "Of Foam and Wave",
+    "duration_ms": 376320,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Caspian",
     "album": "Tertia",
+    "playlist": "running 160-170 test",
     "bpm": 160.677,
     "features": [
       {
@@ -3801,8 +4325,12 @@
   {
     "id": "2XTquzYQAdT1Hk78bOUwsv",
     "name": "Greatest",
+    "duration_ms": 226937,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Eminem",
     "album": "Kamikaze",
+    "playlist": "running 160-170 test",
     "bpm": 80.025,
     "features": [
       {
@@ -3830,8 +4358,12 @@
   {
     "id": "0Uv5Kp8sEnriJjkX4oLfNI",
     "name": "Paul - Skit",
-    "artist": "Eminem",
+    "duration_ms": 35240,
+    "explicit": false,
+    "track_number": 4,
+    "artist": "Paul Rosenberg",
     "album": "Kamikaze",
+    "playlist": "running 160-170 test",
     "bpm": 161.68,
     "features": [
       {
@@ -3859,8 +4391,12 @@
   {
     "id": "1UGD3lW3tDmgZfAVDh6w7r",
     "name": "Devil In A New Dress",
+    "duration_ms": 351946,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
+    "playlist": "running 160-170 test",
     "bpm": 80.082,
     "features": [
       {
@@ -3888,8 +4424,12 @@
   {
     "id": "3DK6m7It6Pw857FcQftMds",
     "name": "Runaway",
+    "duration_ms": 547733,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
+    "playlist": "running 160-170 test",
     "bpm": 84.733,
     "features": [
       {
@@ -3917,8 +4457,12 @@
   {
     "id": "4EndPA8b6FDWYp1RgsnLEB",
     "name": "Blame Game",
+    "duration_ms": 469866,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Kanye West",
     "album": "My Beautiful Dark Twisted Fantasy",
+    "playlist": "running 160-170 test",
     "bpm": 80.305,
     "features": [
       {
@@ -3946,8 +4490,12 @@
   {
     "id": "37F0uwRSrdzkBiuj0D5UHI",
     "name": "Reminder",
+    "duration_ms": 218880,
+    "explicit": true,
+    "track_number": 4,
     "artist": "The Weeknd",
     "album": "Starboy",
+    "playlist": "running 160-170 test",
     "bpm": 160.053,
     "features": [
       {
@@ -3975,8 +4523,12 @@
   {
     "id": "5UO3LeB1sz4UX2lg5kiIxi",
     "name": "Blind Side",
+    "duration_ms": 397853,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Skyharbor",
     "album": "Sunshine Dust",
+    "playlist": "running 160-170 test",
     "bpm": 162.074,
     "features": [
       {
@@ -4004,8 +4556,12 @@
   {
     "id": "63BcfK6YAzJYeISaTPr6IO",
     "name": "Big Poppa - 2007 Remaster",
+    "duration_ms": 249866,
+    "explicit": true,
+    "track_number": 2,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
+    "playlist": "running 160-170 test",
     "bpm": 84.5,
     "features": [
       {
@@ -4033,8 +4589,12 @@
   {
     "id": "6SMrWEWukd0DWh5iHGWgks",
     "name": "Dead Wrong (feat. Eminem) - 2007 Remaster",
+    "duration_ms": 297226,
+    "explicit": true,
+    "track_number": 7,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
+    "playlist": "running 160-170 test",
     "bpm": 82.122,
     "features": [
       {
@@ -4062,8 +4622,12 @@
   {
     "id": "1eYMV8fZO3R7ZlOgVQ57GF",
     "name": "Niggas Bleed - 2007 Remaster",
+    "duration_ms": 291706,
+    "explicit": true,
+    "track_number": 14,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
+    "playlist": "running 160-170 test",
     "bpm": 84.366,
     "features": [
       {
@@ -4091,8 +4655,12 @@
   {
     "id": "757PJjXAgywxrYkdhMkEV9",
     "name": "Holding on for Life",
+    "duration_ms": 236866,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Broken Bells",
     "album": "After the Disco",
+    "playlist": "running 160-170 test",
     "bpm": 168.847,
     "features": [
       {
@@ -4120,8 +4688,12 @@
   {
     "id": "2OSsmzINPSwQ1hLoMH70Rj",
     "name": "Starting 5 (with Lute, Cozz & Omen)",
+    "duration_ms": 270044,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
+    "playlist": "running 160-170 test",
     "bpm": 82.776,
     "features": [
       {
@@ -4149,8 +4721,12 @@
   {
     "id": "1KsHmftDAysEtLpDK1o6Y9",
     "name": "Ballin in Newport (with Omen)",
+    "duration_ms": 212800,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
+    "playlist": "running 160-170 test",
     "bpm": 80.668,
     "features": [
       {
@@ -4178,8 +4754,12 @@
   {
     "id": "1xzUQMiCoY5pdego0pHMeV",
     "name": "She Knows This",
+    "duration_ms": 216560,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
+    "playlist": "running 160-170 test",
     "bpm": 165.945,
     "features": [
       {
@@ -4207,8 +4787,12 @@
   {
     "id": "4EjbAh7YHU3VARkfkamZ8R",
     "name": "The Pale Moonlight",
+    "duration_ms": 176293,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
+    "playlist": "running 160-170 test",
     "bpm": 160.009,
     "features": [
       {
@@ -4236,8 +4820,12 @@
   {
     "id": "0V4l4GQhgnWQGtCWpvA7va",
     "name": "Crew Love",
+    "duration_ms": 208813,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 160.152,
     "features": [
       {
@@ -4265,8 +4853,12 @@
   {
     "id": "1QBwk6GTCxVdC2hoSw9tlM",
     "name": "Lord Knows",
+    "duration_ms": 307640,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 167.579,
     "features": [
       {
@@ -4294,8 +4886,12 @@
   {
     "id": "011ZwIM48eD8ee2UBpG8nK",
     "name": "12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",
+    "duration_ms": 392186,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Childish Gambino",
     "album": "3.15.20",
+    "playlist": "running 160-170 test",
     "bpm": 164.047,
     "features": [
       {
@@ -4323,8 +4919,12 @@
   {
     "id": "5CTzapBNGovLrqPas4cy7J",
     "name": "42.26",
+    "duration_ms": 321386,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Childish Gambino",
     "album": "3.15.20",
+    "playlist": "running 160-170 test",
     "bpm": 165.816,
     "features": [
       {
@@ -4352,8 +4952,12 @@
   {
     "id": "6LBpGdlukUARutol7VgWIS",
     "name": "January 28th",
+    "duration_ms": 242697,
+    "explicit": true,
+    "track_number": 2,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
+    "playlist": "running 160-170 test",
     "bpm": 84.052,
     "features": [
       {
@@ -4381,8 +4985,12 @@
   {
     "id": "5dp2DNJtGuNjwgEtAN6BZd",
     "name": "St. Tropez",
+    "duration_ms": 257872,
+    "explicit": true,
+    "track_number": 7,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
+    "playlist": "running 160-170 test",
     "bpm": 84.524,
     "features": [
       {
@@ -4410,8 +5018,12 @@
   {
     "id": "2e3Ea0o24lReQFR4FA7yXH",
     "name": "Love Yourz",
+    "duration_ms": 211496,
+    "explicit": true,
+    "track_number": 12,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
+    "playlist": "running 160-170 test",
     "bpm": 82.81,
     "features": [
       {
@@ -4438,9 +5050,13 @@
   },
   {
     "id": "3U1mFf6W429eMYDwmgkbaZ",
-    "name": "Note to Self",
+    "name": "Note To Self",
+    "duration_ms": 875306,
+    "explicit": true,
+    "track_number": 13,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
+    "playlist": "running 160-170 test",
     "bpm": 82.31,
     "features": [
       {
@@ -4468,8 +5084,12 @@
   {
     "id": "1uftnTuei3ckZpNZxHKgRJ",
     "name": "Intro",
+    "duration_ms": 75226,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Dr. Dre",
     "album": "Compton",
+    "playlist": "running 160-170 test",
     "bpm": 81.152,
     "features": [
       {
@@ -4497,8 +5117,12 @@
   {
     "id": "5ZEdSY99Mj5U4MIF97EKER",
     "name": "Darkside/Gone",
+    "duration_ms": 233906,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Dr. Dre",
     "album": "Compton",
+    "playlist": "running 160-170 test",
     "bpm": 80.487,
     "features": [
       {
@@ -4526,8 +5150,12 @@
   {
     "id": "7KZs2C1UGjrIfVXXuvtb20",
     "name": "Talking To My Diary",
+    "duration_ms": 263226,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Dr. Dre",
     "album": "Compton",
+    "playlist": "running 160-170 test",
     "bpm": 83.684,
     "features": [
       {
@@ -4555,8 +5183,12 @@
   {
     "id": "6O10oTtZIZ4DkkUqyfCbrR",
     "name": "Higher (feat. Nipsey Hussle & John Legend)",
+    "duration_ms": 176874,
+    "explicit": true,
+    "track_number": 7,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
+    "playlist": "running 160-170 test",
     "bpm": 83.655,
     "features": [
       {
@@ -4584,8 +5216,12 @@
   {
     "id": "7N2uDrFW4OtxfWLuP96XQV",
     "name": "Atonement",
+    "duration_ms": 257293,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Anberlin",
     "album": "Lowborn",
+    "playlist": "running 160-170 test",
     "bpm": 81.978,
     "features": [
       {
@@ -4613,8 +5249,12 @@
   {
     "id": "5XgSGrg13SzG30Aic4R8v3",
     "name": "Baleen Morning",
+    "duration_ms": 224733,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Balmorhea",
     "album": "Rivers Arms",
+    "playlist": "running 160-170 test",
     "bpm": 82.115,
     "features": [
       {
@@ -4642,8 +5282,12 @@
   {
     "id": "4oFtLSgHyZPNYDCcANhTnO",
     "name": "Institutionalized",
+    "duration_ms": 271773,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
+    "playlist": "running 160-170 test",
     "bpm": 81.114,
     "features": [
       {
@@ -4671,8 +5315,12 @@
   {
     "id": "3QbsrWxq3JyNov94VzbNdB",
     "name": "Hardknock",
+    "duration_ms": 318375,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Joey Bada$$",
     "album": "1999",
+    "playlist": "running 160-170 test",
     "bpm": 81.97,
     "features": [
       {
@@ -4700,8 +5348,12 @@
   {
     "id": "7fMG4HNSKzBFKthjmeW8LU",
     "name": "Daily Routine",
+    "duration_ms": 177959,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Joey Bada$$",
     "album": "1999",
+    "playlist": "running 160-170 test",
     "bpm": 81.343,
     "features": [
       {
@@ -4729,8 +5381,12 @@
   {
     "id": "3dkLUA4zs07CnhchRuRV6J",
     "name": "Snakes",
+    "duration_ms": 259439,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Joey Bada$$",
     "album": "1999",
+    "playlist": "running 160-170 test",
     "bpm": 82.147,
     "features": [
       {
@@ -4758,8 +5414,12 @@
   {
     "id": "4rkfCWtPe63QU1HXsVTcpc",
     "name": "Where It'$ At?",
+    "duration_ms": 248837,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Joey Bada$$",
     "album": "1999",
+    "playlist": "running 160-170 test",
     "bpm": 80.351,
     "features": [
       {
@@ -4787,8 +5447,12 @@
   {
     "id": "7jvtmQ3onpWeUm7dyFSSSc",
     "name": "Chemical",
+    "duration_ms": 183410,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Post Malone",
     "album": "AUSTIN",
+    "playlist": "running 160-170 test",
     "bpm": 169.948,
     "features": [
       {
@@ -4816,8 +5480,12 @@
   {
     "id": "3BHFResGQiUvbYToUdaDQz",
     "name": "Enough Is Enough",
+    "duration_ms": 165175,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Post Malone",
     "album": "AUSTIN",
+    "playlist": "running 160-170 test",
     "bpm": 165.996,
     "features": [
       {
@@ -4845,8 +5513,12 @@
   {
     "id": "0cdXG7PwSUOv19gF6dMv5n",
     "name": "illuminatro",
+    "duration_ms": 48133,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Logic",
     "album": "Bobby Tarantino",
+    "playlist": "running 160-170 test",
     "bpm": 82.099,
     "features": [
       {
@@ -4874,8 +5546,12 @@
   {
     "id": "5jDIIpm38XbdvvSt4oilcI",
     "name": "The Lost Chord (feat. Leee John)",
+    "duration_ms": 243617,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 82.971,
     "features": [
       {
@@ -4903,8 +5579,12 @@
   {
     "id": "2DGMORz6TjhKgCYM7quaZh",
     "name": "Gold Watch",
+    "duration_ms": 252600,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
+    "playlist": "running 160-170 test",
     "bpm": 84.036,
     "features": [
       {
@@ -4932,8 +5612,12 @@
   {
     "id": "5PlYCPa9eV21gJcK5cQiZi",
     "name": "Put You on Game",
+    "duration_ms": 182693,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
+    "playlist": "running 160-170 test",
     "bpm": 83.326,
     "features": [
       {
@@ -4961,8 +5645,12 @@
   {
     "id": "5goxvcDgMMjh2OGpugWeZM",
     "name": "Saturdays",
+    "duration_ms": 187413,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Broken Bells",
     "album": "INTO THE BLUE",
+    "playlist": "running 160-170 test",
     "bpm": 83.986,
     "features": [
       {
@@ -4990,8 +5678,12 @@
   {
     "id": "71iZHChXGYnJmRNIDJhivf",
     "name": "Glory Days",
+    "duration_ms": 221733,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Just Jack",
     "album": "Overtones",
+    "playlist": "running 160-170 test",
     "bpm": 81.193,
     "features": [
       {
@@ -5019,8 +5711,12 @@
   {
     "id": "6VgYcgaeVz0kehOM1qQqd7",
     "name": "Down (feat. Nikki Jean)",
+    "duration_ms": 377308,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Lupe Fiasco",
     "album": "DROGAS WAVE",
+    "playlist": "running 160-170 test",
     "bpm": 168.095,
     "features": [
       {
@@ -5048,8 +5744,12 @@
   {
     "id": "4NvXTrOSsVlCw0bFe3lKY9",
     "name": "IV. Sweatpants",
+    "duration_ms": 180675,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Childish Gambino",
-    "album": "Because The Internet",
+    "album": "Because the Internet",
+    "playlist": "running 160-170 test",
     "bpm": 80.027,
     "features": [
       {
@@ -5077,8 +5777,12 @@
   {
     "id": "2X6b7zLdIxCejd6GqVcQ9M",
     "name": "3005",
+    "duration_ms": 234215,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Childish Gambino",
-    "album": "Because The Internet",
+    "album": "Because the Internet",
+    "playlist": "running 160-170 test",
     "bpm": 166.065,
     "features": [
       {
@@ -5105,9 +5809,13 @@
   },
   {
     "id": "2PvNMb5Tp3f4Zh0tOvB7fp",
-    "name": "Playing Around Before The Party Starts",
+    "name": "Playing Around Before the Party Starts",
+    "duration_ms": 54454,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Childish Gambino",
-    "album": "Because The Internet",
+    "album": "Because the Internet",
+    "playlist": "running 160-170 test",
     "bpm": 167.262,
     "features": [
       {
@@ -5135,8 +5843,12 @@
   {
     "id": "0cXHPADqI7N0BEQByrkmwd",
     "name": "III. Life: The Biggest Troll [Andrew Auernheimer]",
+    "duration_ms": 342048,
+    "explicit": true,
+    "track_number": 19,
     "artist": "Childish Gambino",
-    "album": "Because The Internet",
+    "album": "Because the Internet",
+    "playlist": "running 160-170 test",
     "bpm": 80.086,
     "features": [
       {
@@ -5164,8 +5876,12 @@
   {
     "id": "7xTY3rJMgj0nh6OOPHgsLw",
     "name": "Freaks And Geeks",
+    "duration_ms": 217103,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Childish Gambino",
     "album": "EP (2011 Re-Release)",
+    "playlist": "running 160-170 test",
     "bpm": 81.052,
     "features": [
       {
@@ -5193,8 +5909,12 @@
   {
     "id": "0xjp9Li9jmlykJNrIlAnqe",
     "name": "Danger",
+    "duration_ms": 44333,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Logic",
     "album": "Vinyl Days",
+    "playlist": "running 160-170 test",
     "bpm": 164.73,
     "features": [
       {
@@ -5222,8 +5942,12 @@
   {
     "id": "4hewRzV173RcB3wBWAB8wE",
     "name": "NeedleDrop",
+    "duration_ms": 86198,
+    "explicit": false,
+    "track_number": 23,
     "artist": "Logic",
     "album": "Vinyl Days",
+    "playlist": "running 160-170 test",
     "bpm": 84.067,
     "features": [
       {
@@ -5250,9 +5974,13 @@
   },
   {
     "id": "2c9ZkNtBxIbyetjR3ctuBn",
-    "name": "Panther Like a Panther (Miracle Mix) (feat. Trina)",
+    "name": "Panther Like a Panther (Miracle Mix) [feat. Trina]",
+    "duration_ms": 221173,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Run The Jewels",
-    "album": "Run the Jewels 3",
+    "album": "Run The Jewels 3",
+    "playlist": "running 160-170 test",
     "bpm": 163.839,
     "features": [
       {
@@ -5280,8 +6008,12 @@
   {
     "id": "1cCbsojaA6GIT7Y3zuMJ1q",
     "name": "Nangs",
+    "duration_ms": 107533,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Tame Impala",
     "album": "Currents",
+    "playlist": "running 160-170 test",
     "bpm": 167.608,
     "features": [
       {
@@ -5309,8 +6041,12 @@
   {
     "id": "3wynWk9f1EopMj2Y9P7ZOe",
     "name": "Tourniquet",
+    "duration_ms": 359304,
+    "explicit": false,
+    "track_number": 4,
     "artist": "TesseracT",
     "album": "Polaris",
+    "playlist": "running 160-170 test",
     "bpm": 163.024,
     "features": [
       {
@@ -5338,8 +6074,12 @@
   {
     "id": "2OqrpVoHNCTVxQWCo9r5NJ",
     "name": "Cages",
+    "duration_ms": 328767,
+    "explicit": false,
+    "track_number": 8,
     "artist": "TesseracT",
     "album": "Polaris",
+    "playlist": "running 160-170 test",
     "bpm": 160.083,
     "features": [
       {
@@ -5367,8 +6107,12 @@
   {
     "id": "3J7DDL3rGkwlIm4UkIyZcQ",
     "name": "introll",
+    "duration_ms": 59579,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Logic",
     "album": "Bobby Tarantino III",
+    "playlist": "running 160-170 test",
     "bpm": 162.055,
     "features": [
       {
@@ -5396,8 +6140,12 @@
   {
     "id": "5cjsgbZ8tZYD4f0LNpApnf",
     "name": "Swim In The Light",
+    "duration_ms": 269226,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
+    "playlist": "running 160-170 test",
     "bpm": 165.273,
     "features": [
       {
@@ -5425,8 +6173,12 @@
   {
     "id": "5Tm9At0xeFb0MtlV8uI3eY",
     "name": "Releaser",
+    "duration_ms": 327973,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
+    "playlist": "running 160-170 test",
     "bpm": 81.993,
     "features": [
       {
@@ -5454,8 +6206,12 @@
   {
     "id": "5ND2pMuoFVtT0Ocug5A4KT",
     "name": "Wounds",
+    "duration_ms": 243560,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Kid Cudi",
     "album": "Passion, Pain & Demon Slayin'",
+    "playlist": "running 160-170 test",
     "bpm": 84.798,
     "features": [
       {
@@ -5483,8 +6239,12 @@
   {
     "id": "3XaNHbNa9Chz9plhRpcaof",
     "name": "everything",
+    "duration_ms": 452504,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Nas",
     "album": "NASIR",
+    "playlist": "running 160-170 test",
     "bpm": 82.507,
     "features": [
       {
@@ -5512,8 +6272,12 @@
   {
     "id": "5yTQ7Vy6EwKwB64Vho90LI",
     "name": "West Savannah",
+    "duration_ms": 246280,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Outkast",
     "album": "Aquemini",
+    "playlist": "running 160-170 test",
     "bpm": 84.942,
     "features": [
       {
@@ -5541,8 +6305,12 @@
   {
     "id": "32PWtlzKyvr3HcvJp1JFF5",
     "name": "Mamacita",
+    "duration_ms": 352506,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Outkast",
     "album": "Aquemini",
+    "playlist": "running 160-170 test",
     "bpm": 167.863,
     "features": [
       {
@@ -5570,8 +6338,12 @@
   {
     "id": "70hlOBVJ0Zr7iWhXy8OQHf",
     "name": "NINETEEN EIGHTY",
+    "duration_ms": 146413,
+    "explicit": true,
+    "track_number": 3,
     "artist": "BLK ODYSSY",
     "album": "BLK VINTAGE",
+    "playlist": "running 160-170 test",
     "bpm": 84.227,
     "features": [
       {
@@ -5599,8 +6371,12 @@
   {
     "id": "5nR6MBAFCdusf8C3BZGtop",
     "name": "HANG LOW (feat. James Robinson)",
+    "duration_ms": 152524,
+    "explicit": true,
+    "track_number": 4,
     "artist": "BLK ODYSSY",
     "album": "BLK VINTAGE",
+    "playlist": "running 160-170 test",
     "bpm": 169.994,
     "features": [
       {
@@ -5627,9 +6403,13 @@
   },
   {
     "id": "6AalgYpkET99cWnGH3ATPq",
-    "name": "V. 3005 - Beach Picnic Version",
+    "name": "V. 3005 (Beach Picnic Version)",
+    "duration_ms": 225866,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Childish Gambino",
     "album": "Kauai",
+    "playlist": "running 160-170 test",
     "bpm": 165.86,
     "features": [
       {
@@ -5657,8 +6437,12 @@
   {
     "id": "5CGS4UovzA7ftCJkLVXQju",
     "name": "I Love Kanye",
+    "duration_ms": 44826,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kanye West",
     "album": "The Life Of Pablo",
+    "playlist": "running 160-170 test",
     "bpm": 80.326,
     "features": [
       {
@@ -5686,8 +6470,12 @@
   {
     "id": "66Q3fAmSX5eHamgbKa9alP",
     "name": "Real Friends",
+    "duration_ms": 251573,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Kanye West",
     "album": "The Life Of Pablo",
+    "playlist": "running 160-170 test",
     "bpm": 81.396,
     "features": [
       {
@@ -5715,8 +6503,12 @@
   {
     "id": "1o0kWPueYo94LIjPYOE5Nf",
     "name": "Saint Pablo",
+    "duration_ms": 372113,
+    "explicit": true,
+    "track_number": 20,
     "artist": "Kanye West",
     "album": "The Life Of Pablo",
+    "playlist": "running 160-170 test",
     "bpm": 167.018,
     "features": [
       {
@@ -5744,8 +6536,12 @@
   {
     "id": "69549dazlw8DxfHD6YyZR8",
     "name": "Outro",
+    "duration_ms": 172941,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Maanu",
     "album": "Yain City",
+    "playlist": "running 160-170 test",
     "bpm": 84.654,
     "features": [
       {
@@ -5773,8 +6569,12 @@
   {
     "id": "4XkXMrQFXXhZ37rpnzdL46",
     "name": "Komorebi",
+    "duration_ms": 331413,
+    "explicit": false,
+    "track_number": 5,
     "artist": "God Is An Astronaut",
     "album": "Epitaph",
+    "playlist": "running 160-170 test",
     "bpm": 81.859,
     "features": [
       {
@@ -5802,8 +6602,12 @@
   {
     "id": "1nGoy0cEj0extAwXYNYTWd",
     "name": "Wouldn't Leave",
+    "duration_ms": 205546,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kanye West",
     "album": "ye",
+    "playlist": "running 160-170 test",
     "bpm": 164.235,
     "features": [
       {
@@ -5831,8 +6635,12 @@
   {
     "id": "35KV2Nuib6jPMVN00O8iba",
     "name": "No Mistakes",
+    "duration_ms": 123040,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kanye West",
     "album": "ye",
+    "playlist": "running 160-170 test",
     "bpm": 80.174,
     "features": [
       {
@@ -5860,8 +6668,12 @@
   {
     "id": "7vgTNTaEz3CsBZ1N4YQalM",
     "name": "Ghost Town",
+    "duration_ms": 271386,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kanye West",
     "album": "ye",
+    "playlist": "running 160-170 test",
     "bpm": 83.378,
     "features": [
       {
@@ -5889,8 +6701,12 @@
   {
     "id": "0VsGaRXR5WAzpu51unJTis",
     "name": "Best Part of Me (feat. YEBBA)",
+    "duration_ms": 243266,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
+    "playlist": "running 160-170 test",
     "bpm": 81.655,
     "features": [
       {
@@ -5918,8 +6734,12 @@
   {
     "id": "2UYPFtrIIaIQdxLCaFwjFu",
     "name": "Without You (feat. Rapsody)",
+    "duration_ms": 199346,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Anderson .Paak",
     "album": "Malibu",
+    "playlist": "running 160-170 test",
     "bpm": 83.322,
     "features": [
       {
@@ -5947,8 +6767,12 @@
   {
     "id": "1GJr5BQIOvzFEoQlrufunl",
     "name": "Your Prime",
+    "duration_ms": 237106,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Anderson .Paak",
     "album": "Malibu",
+    "playlist": "running 160-170 test",
     "bpm": 160.926,
     "features": [
       {
@@ -5976,8 +6800,12 @@
   {
     "id": "2sNhYJ2ggd9BadlTXU3Mah",
     "name": "The Dreamer (feat. Talib Kweli & Timan Family Choir)",
+    "duration_ms": 339973,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Anderson .Paak",
     "album": "Malibu",
+    "playlist": "running 160-170 test",
     "bpm": 164.677,
     "features": [
       {
@@ -6005,8 +6833,12 @@
   {
     "id": "6OEJf2FP31D5LQHtTVRNJp",
     "name": "I'm There",
+    "duration_ms": 279604,
+    "explicit": false,
+    "track_number": 1,
     "artist": "H\u00c6LOS",
     "album": "I'm There",
+    "playlist": "running 160-170 test",
     "bpm": 81.007,
     "features": [
       {
@@ -6034,8 +6866,12 @@
   {
     "id": "7sycKW6BGv7eTXVdtWkqom",
     "name": "Los Awesome",
+    "duration_ms": 252840,
+    "explicit": true,
+    "track_number": 2,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 81.972,
     "features": [
       {
@@ -6063,8 +6899,12 @@
   {
     "id": "1oQJ26nHHgHh45WqyA59GF",
     "name": "The Purge",
+    "duration_ms": 294053,
+    "explicit": true,
+    "track_number": 8,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 168.327,
     "features": [
       {
@@ -6092,8 +6932,12 @@
   {
     "id": "5rk3EqsP1iHuQn5tkC1Qw0",
     "name": "Break The Bank",
+    "duration_ms": 354853,
+    "explicit": true,
+    "track_number": 11,
     "artist": "ScHoolboy Q",
     "album": "Oxymoron (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 80.335,
     "features": [
       {
@@ -6121,8 +6965,12 @@
   {
     "id": "51o6rpuSm82oDaP6EJPTw0",
     "name": "Just Breathe",
+    "duration_ms": 236840,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Thrice",
     "album": "Palms",
+    "playlist": "running 160-170 test",
     "bpm": 160.044,
     "features": [
       {
@@ -6150,8 +6998,12 @@
   {
     "id": "5zghyMPvgXDEHtAjfUE6jK",
     "name": "Future 86",
+    "duration_ms": 230840,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Turkuaz",
     "album": "Future 86",
+    "playlist": "running 160-170 test",
     "bpm": 163.233,
     "features": [
       {
@@ -6179,8 +7031,12 @@
   {
     "id": "568nXF19QXYPZnQ6XSkuSH",
     "name": "All Is Violent, All Is Bright",
+    "duration_ms": 251066,
+    "explicit": false,
+    "track_number": 2,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
+    "playlist": "running 160-170 test",
     "bpm": 169.833,
     "features": [
       {
@@ -6208,8 +7064,12 @@
   {
     "id": "0SGB0nFDl61RLJWwlZusla",
     "name": "Fireflies and Empty Skies",
+    "duration_ms": 241853,
+    "explicit": false,
+    "track_number": 4,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
+    "playlist": "running 160-170 test",
     "bpm": 165.077,
     "features": [
       {
@@ -6237,8 +7097,12 @@
   {
     "id": "57kOZjn0j2epxfKmSKF2SA",
     "name": "Remembrance Day",
+    "duration_ms": 253720,
+    "explicit": false,
+    "track_number": 8,
     "artist": "God Is An Astronaut",
     "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
+    "playlist": "running 160-170 test",
     "bpm": 84.966,
     "features": [
       {
@@ -6266,8 +7130,12 @@
   {
     "id": "6zc1W5CuZER3AbTvRCfLoa",
     "name": "Insane",
+    "duration_ms": 169660,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 82.546,
     "features": [
       {
@@ -6295,8 +7163,12 @@
   {
     "id": "2mecYcpCQOoFtkRbtDiGg0",
     "name": "Wasting Angels (with The Kid LAROI)",
+    "duration_ms": 243158,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 84.967,
     "features": [
       {
@@ -6324,8 +7196,12 @@
   {
     "id": "1FMzjkHzv4m13rVwhowHyZ",
     "name": "Opening",
+    "duration_ms": 67560,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Linkin Park",
     "album": "Reanimation",
+    "playlist": "running 160-170 test",
     "bpm": 80.726,
     "features": [
       {
@@ -6353,8 +7229,12 @@
   {
     "id": "0NfoHdgb5Xhd32qWx2RsBI",
     "name": "Last Letter",
+    "duration_ms": 237573,
+    "explicit": false,
+    "track_number": 3,
     "artist": "One Day As A Lion",
     "album": "One Day As A Lion EP",
+    "playlist": "running 160-170 test",
     "bpm": 81.738,
     "features": [
       {
@@ -6382,8 +7262,12 @@
   {
     "id": "35DnztbVFFcstcqKl2gsC5",
     "name": "If You Fear Dying",
+    "duration_ms": 236173,
+    "explicit": false,
+    "track_number": 4,
     "artist": "One Day As A Lion",
     "album": "One Day As A Lion EP",
+    "playlist": "running 160-170 test",
     "bpm": 83.383,
     "features": [
       {
@@ -6411,8 +7295,12 @@
   {
     "id": "7ccTcabbJlCJiIqtrSSwBk",
     "name": "Premonition - Intro",
+    "duration_ms": 173893,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
+    "playlist": "running 160-170 test",
     "bpm": 165.979,
     "features": [
       {
@@ -6440,8 +7328,12 @@
   {
     "id": "7FIWs0pqAYbP91WWM0vlTQ",
     "name": "Godzilla (feat. Juice WRLD)",
+    "duration_ms": 210800,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
+    "playlist": "running 160-170 test",
     "bpm": 165.995,
     "features": [
       {
@@ -6469,8 +7361,12 @@
   {
     "id": "72qPAcGzgLm1lL9cpz9Jwp",
     "name": "Is There Anyone out There",
+    "duration_ms": 290226,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
+    "playlist": "running 160-170 test",
     "bpm": 160.988,
     "features": [
       {
@@ -6498,8 +7394,12 @@
   {
     "id": "5qbhBDzV7r3RjT4ASzc49L",
     "name": "Eddie Cane",
+    "duration_ms": 186013,
+    "explicit": true,
+    "track_number": 4,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 169.96,
     "features": [
       {
@@ -6527,8 +7427,12 @@
   {
     "id": "0oWLsEchzMxbZuwKLfCkXN",
     "name": "Gone",
+    "duration_ms": 241360,
+    "explicit": true,
+    "track_number": 9,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 81.166,
     "features": [
       {
@@ -6556,8 +7460,12 @@
   {
     "id": "7k9rcsOLrZBzxIL4cyAipZ",
     "name": "Merry Go Round",
+    "duration_ms": 245600,
+    "explicit": true,
+    "track_number": 11,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 160.154,
     "features": [
       {
@@ -6585,8 +7493,12 @@
   {
     "id": "3opQwVHIpSMHubh9n9hn27",
     "name": "Sour Flower",
+    "duration_ms": 407813,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
+    "playlist": "running 160-170 test",
     "bpm": 166.061,
     "features": [
       {
@@ -6614,8 +7526,12 @@
   {
     "id": "3wnAMgb3pkn4O3gYYLP5db",
     "name": "Big Dusty",
+    "duration_ms": 293360,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Joey Bada$$",
-    "album": "B4.Da.$$",
+    "album": "B4.DA.$$",
+    "playlist": "running 160-170 test",
     "bpm": 81.05,
     "features": [
       {
@@ -6642,9 +7558,13 @@
   },
   {
     "id": "3rJILRCvM7tfTXwHdNaMVl",
-    "name": "Run up on Ya - Bonus",
+    "name": "Run Up On Ya - Bonus",
+    "duration_ms": 248319,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Joey Bada$$",
-    "album": "B4.Da.$$",
+    "album": "B4.DA.$$",
+    "playlist": "running 160-170 test",
     "bpm": 81.934,
     "features": [
       {
@@ -6672,8 +7592,12 @@
   {
     "id": "199Dz9IgqKekyiRy3LBnHn",
     "name": "Still Ballin (feat. Wiz Khalifa)",
+    "duration_ms": 239986,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
+    "playlist": "running 160-170 test",
     "bpm": 160.001,
     "features": [
       {
@@ -6701,8 +7625,12 @@
   {
     "id": "0wps7rop5iHwBo0rQZ2g9A",
     "name": "Bonfire",
+    "duration_ms": 192946,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Childish Gambino",
     "album": "Camp",
+    "playlist": "running 160-170 test",
     "bpm": 161.808,
     "features": [
       {
@@ -6730,8 +7658,12 @@
   {
     "id": "1j9lI5MkLFayW9ojc7S5Zt",
     "name": "All The Shine",
+    "duration_ms": 346013,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Childish Gambino",
     "album": "Camp",
+    "playlist": "running 160-170 test",
     "bpm": 80.204,
     "features": [
       {
@@ -6759,8 +7691,12 @@
   {
     "id": "1bv9wrUiUgjWfahxVwtGSr",
     "name": "Letter Home",
+    "duration_ms": 104386,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Childish Gambino",
     "album": "Camp",
+    "playlist": "running 160-170 test",
     "bpm": 81.604,
     "features": [
       {
@@ -6788,8 +7724,12 @@
   {
     "id": "2jrP54CkSMNnnRPu4sTJFD",
     "name": "Kids",
+    "duration_ms": 297933,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Childish Gambino",
     "album": "Camp",
+    "playlist": "running 160-170 test",
     "bpm": 84.981,
     "features": [
       {
@@ -6817,8 +7757,12 @@
   {
     "id": "7g4kv8dGaR8mHjxL2WP9ej",
     "name": "That Power",
+    "duration_ms": 462253,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Childish Gambino",
     "album": "Camp",
+    "playlist": "running 160-170 test",
     "bpm": 82.169,
     "features": [
       {
@@ -6846,8 +7790,12 @@
   {
     "id": "0qGFnxDIqGBIq2D3zNbjk9",
     "name": "Sherane a.k.a Master Splinter\u2019s Daughter",
+    "duration_ms": 273640,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 82.069,
     "features": [
       {
@@ -6875,8 +7823,12 @@
   {
     "id": "1H7yy9jlDYS2EBF41J6Yf5",
     "name": "Black Boy Fly - Bonus Track",
+    "duration_ms": 279146,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 160.085,
     "features": [
       {
@@ -6904,8 +7856,12 @@
   {
     "id": "3S8MFB68isPbRVgaU0MaIW",
     "name": "Wastelands",
+    "duration_ms": 195893,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
+    "playlist": "running 160-170 test",
     "bpm": 169.77,
     "features": [
       {
@@ -6933,8 +7889,12 @@
   {
     "id": "3aYBjxTMvrEOP0A0UXg9ER",
     "name": "Final Masquerade",
+    "duration_ms": 217613,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
+    "playlist": "running 160-170 test",
     "bpm": 164.032,
     "features": [
       {
@@ -6962,8 +7922,12 @@
   {
     "id": "2cvOfKHOHgwQlLiuLKP2xR",
     "name": "Myself",
+    "duration_ms": 158120,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
+    "playlist": "running 160-170 test",
     "bpm": 82.023,
     "features": [
       {
@@ -6991,8 +7955,12 @@
   {
     "id": "2zWZV7b1xu1qZPaMjavvpS",
     "name": "Mural",
+    "duration_ms": 528880,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
+    "playlist": "running 160-170 test",
     "bpm": 81.637,
     "features": [
       {
@@ -7020,8 +7988,12 @@
   {
     "id": "3FN3vKGrXWHr8vx6vXHyuv",
     "name": "No Scratches (feat. Nikki Jean)",
+    "duration_ms": 262026,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
+    "playlist": "running 160-170 test",
     "bpm": 160.028,
     "features": [
       {
@@ -7049,8 +8021,12 @@
   {
     "id": "1xGxSCtX96DB7inpF2wKIS",
     "name": "Burning Memories (feat. Lil Skies)",
+    "duration_ms": 216295,
+    "explicit": true,
+    "track_number": 5,
     "artist": "mgk",
     "album": "Hotel Diablo",
+    "playlist": "running 160-170 test",
     "bpm": 80.788,
     "features": [
       {
@@ -7078,8 +8054,12 @@
   {
     "id": "4Xft6336V19L76X2Oub80E",
     "name": "Idle Minds",
+    "duration_ms": 466026,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Skyharbor",
     "album": "Guiding Lights",
+    "playlist": "running 160-170 test",
     "bpm": 160.009,
     "features": [
       {
@@ -7107,8 +8087,12 @@
   {
     "id": "3znPiywA0q1VK2jgAZFDoI",
     "name": "Irresistible",
+    "duration_ms": 206506,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
+    "playlist": "running 160-170 test",
     "bpm": 165.049,
     "features": [
       {
@@ -7136,8 +8120,12 @@
   {
     "id": "2WWP0IPX9xFjAMraNHX390",
     "name": "Twin Skeleton's (Hotel In NYC)",
+    "duration_ms": 220413,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
+    "playlist": "running 160-170 test",
     "bpm": 80.098,
     "features": [
       {
@@ -7165,8 +8153,12 @@
   {
     "id": "3TFyKMf0yTDjMUlpUNI1Ky",
     "name": "Aetenum Vale",
+    "duration_ms": 128093,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Caspian",
     "album": "Dust and Disquiet",
+    "playlist": "running 160-170 test",
     "bpm": 80.143,
     "features": [
       {
@@ -7194,8 +8186,12 @@
   {
     "id": "0DoS8GQ2scDmfzZjDihIym",
     "name": "Moonlight",
+    "duration_ms": 288746,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Protest The Hero",
     "album": "Scurrilous",
+    "playlist": "running 160-170 test",
     "bpm": 160.378,
     "features": [
       {
@@ -7223,8 +8219,12 @@
   {
     "id": "02v81HQA1yS0DSZ4dw3YzF",
     "name": "Atlas Novus",
+    "duration_ms": 307106,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Scale The Summit",
     "album": "The Migration",
+    "playlist": "running 160-170 test",
     "bpm": 160.037,
     "features": [
       {
@@ -7252,8 +8252,12 @@
   {
     "id": "4estc9tYBBwaV2YGdz1fav",
     "name": "Tourniquet",
+    "duration_ms": 359304,
+    "explicit": false,
+    "track_number": 4,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
+    "playlist": "running 160-170 test",
     "bpm": 163.024,
     "features": [
       {
@@ -7281,8 +8285,12 @@
   {
     "id": "0fQFbT70jGyttQ3HZC3cNM",
     "name": "Cages",
+    "duration_ms": 328767,
+    "explicit": false,
+    "track_number": 8,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
+    "playlist": "running 160-170 test",
     "bpm": 160.083,
     "features": [
       {
@@ -7310,8 +8318,12 @@
   {
     "id": "07BfeAk6ENDgc5VgzLd3as",
     "name": "Cages (Errai)",
+    "duration_ms": 251625,
+    "explicit": false,
+    "track_number": 11,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
+    "playlist": "running 160-170 test",
     "bpm": 160.06,
     "features": [
       {
@@ -7339,8 +8351,12 @@
   {
     "id": "43TSPKwj0o1kJuU3Pe4q26",
     "name": "Tourniquet (Errai)",
+    "duration_ms": 383481,
+    "explicit": false,
+    "track_number": 12,
     "artist": "TesseracT",
     "album": "Polaris / Errai",
+    "playlist": "running 160-170 test",
     "bpm": 160.017,
     "features": [
       {
@@ -7368,8 +8384,12 @@
   {
     "id": "4nkRk3BRQaW941xxtZVBew",
     "name": "Intro",
+    "duration_ms": 182800,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Logic",
     "album": "Under Pressure (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 80.589,
     "features": [
       {
@@ -7397,8 +8417,12 @@
   {
     "id": "3lWCa9e0KhDghboM5L9C6d",
     "name": "Soul Food",
+    "duration_ms": 292933,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Logic",
     "album": "Under Pressure (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 167.822,
     "features": [
       {
@@ -7426,8 +8450,12 @@
   {
     "id": "4OMKQBq51PnjZz042AghkR",
     "name": "Growing Pains III",
+    "duration_ms": 246773,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Logic",
     "album": "Under Pressure (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 164.95,
     "features": [
       {
@@ -7455,8 +8483,12 @@
   {
     "id": "5INhgLY5BQfXAr61XPAoSq",
     "name": "Metropolis",
+    "duration_ms": 295360,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Logic",
     "album": "Under Pressure (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 167.732,
     "features": [
       {
@@ -7484,8 +8516,12 @@
   {
     "id": "5LME7YULt0enp6UAB8VoDn",
     "name": "Under Pressure",
+    "duration_ms": 559533,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Logic",
     "album": "Under Pressure (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 83.982,
     "features": [
       {
@@ -7513,8 +8549,12 @@
   {
     "id": "6IlQTriFgUeEbVx3Y10sia",
     "name": "Driving Ms Daisy",
+    "duration_ms": 240586,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Logic",
     "album": "Under Pressure (Deluxe)",
+    "playlist": "running 160-170 test",
     "bpm": 160.046,
     "features": [
       {
@@ -7542,8 +8582,12 @@
   {
     "id": "3f3lTGxLGsntJKtzczIVmH",
     "name": "Gasoline",
+    "duration_ms": 212106,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Brand New",
     "album": "Daisy",
+    "playlist": "running 160-170 test",
     "bpm": 169.202,
     "features": [
       {
@@ -7571,8 +8615,12 @@
   {
     "id": "1HNKuSdaQE69ul4U58LetZ",
     "name": "So Fresh, So Clean",
+    "duration_ms": 240026,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
+    "playlist": "running 160-170 test",
     "bpm": 166.05,
     "features": [
       {
@@ -7600,8 +8648,12 @@
   {
     "id": "2yvWkrlNApnKycQUT2s3ct",
     "name": "Kim & Cookie (Interlude)",
+    "duration_ms": 72533,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
+    "playlist": "running 160-170 test",
     "bpm": 80.469,
     "features": [
       {
@@ -7629,8 +8681,12 @@
   {
     "id": "555cLPsOeaQW1WWlB9QzGM",
     "name": "Drinkin' Again (Interlude)",
+    "duration_ms": 24506,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
+    "playlist": "running 160-170 test",
     "bpm": 81.001,
     "features": [
       {
@@ -7658,8 +8714,12 @@
   {
     "id": "2QRinscDd0tVJJILfnCrJN",
     "name": "Toilet Tisha",
+    "duration_ms": 264706,
+    "explicit": false,
+    "track_number": 21,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
+    "playlist": "running 160-170 test",
     "bpm": 80.909,
     "features": [
       {
@@ -7687,8 +8747,12 @@
   {
     "id": "6djebaYul7FKGYRdMUYBvY",
     "name": "So Fresh, So Clean - Acappella",
+    "duration_ms": 233600,
+    "explicit": true,
+    "track_number": 29,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
+    "playlist": "running 160-170 test",
     "bpm": 165.977,
     "features": [
       {
@@ -7716,8 +8780,12 @@
   {
     "id": "0XM6SBa7xYMWv3ng5QNvWq",
     "name": "The Created Void",
+    "duration_ms": 242146,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
+    "playlist": "running 160-170 test",
     "bpm": 165.273,
     "features": [
       {
@@ -7745,8 +8813,12 @@
   {
     "id": "0GqODyYPTXMZ1pmLpli3o5",
     "name": "Out of Mana",
+    "duration_ms": 314880,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Brand New",
     "album": "Science Fiction",
+    "playlist": "running 160-170 test",
     "bpm": 164.034,
     "features": [
       {
@@ -7774,8 +8846,12 @@
   {
     "id": "5laqMkMsPIhTkngMrOI0Sw",
     "name": "Batter Up",
+    "duration_ms": 507765,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Brand New",
     "album": "Science Fiction",
+    "playlist": "running 160-170 test",
     "bpm": 80.001,
     "features": [
       {
@@ -7803,8 +8879,12 @@
   {
     "id": "3F5CgOj3wFlRv51JsHbxhe",
     "name": "Jimmy Cooks (feat. 21 Savage)",
+    "duration_ms": 218364,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
+    "playlist": "running 160-170 test",
     "bpm": 165.921,
     "features": [
       {
@@ -7832,8 +8912,12 @@
   {
     "id": "7mlJpcVvVRzgGwkL3GUgY3",
     "name": "Harden the Paint",
+    "duration_ms": 234546,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
+    "playlist": "running 160-170 test",
     "bpm": 165.917,
     "features": [
       {
@@ -7861,8 +8945,12 @@
   {
     "id": "1eLSF6HfrRA0AsNmTkUlKx",
     "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
-    "artist": "Kendrick Lamar",
+    "duration_ms": 225266,
+    "explicit": true,
+    "track_number": 9,
+    "artist": "Jay Rock",
     "album": "Black Panther The Album Music From And Inspired By",
+    "playlist": "running 160-170 test",
     "bpm": 81.772,
     "features": [
       {
@@ -7890,6 +8978,9 @@
   {
     "id": "63zwG1gDxuUbd8DRcVv8lO",
     "name": "Dil Tarpe",
+    "duration_ms": 393392,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Rahat Fateh Ali Khan",
     "album": "Dil Tarpe",
     "playlist": "running 160-170 test",
@@ -7920,6 +9011,9 @@
   {
     "id": "1rU7n8ZVGbIprbunBky72s",
     "name": "Get It",
+    "duration_ms": 179999,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "playlist": "running 160-170 test",
@@ -7950,6 +9044,9 @@
   {
     "id": "5MMLS3xm12D7N26xlfFApr",
     "name": "Runaway Baby",
+    "duration_ms": 148448,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Bruno Mars",
     "album": "Doo-Wops & Hooligans",
     "playlist": "running 160-170 test",
@@ -7980,6 +9077,9 @@
   {
     "id": "6K7LggCeow2jSoRmdZ7XoX",
     "name": "Heartless",
+    "duration_ms": 198267,
+    "explicit": true,
+    "track_number": 7,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "playlist": "running 160-170 test",
@@ -8010,6 +9110,9 @@
   {
     "id": "0ZN72tCEgbwPXEtj6TPMxK",
     "name": "Still Ballin (feat. Wiz Khalifa)",
+    "duration_ms": 239986,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "playlist": "running 160-170 test",
@@ -8040,6 +9143,9 @@
   {
     "id": "7BFI9QZPQKgYuR2HhDgwbG",
     "name": "Royals",
+    "duration_ms": 190185,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "playlist": "running 160-170 test",
@@ -8070,6 +9176,9 @@
   {
     "id": "6vsBCrM20zIKYkjWQ2qJAo",
     "name": "In A Spiral",
+    "duration_ms": 203093,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Phantogram",
     "album": "Ceremony",
     "playlist": "running 160-170 test",
@@ -8100,6 +9209,9 @@
   {
     "id": "4sjLcE0GQ6urc4iUXsUPe9",
     "name": "Kings And Queens",
+    "duration_ms": 347666,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Thirty Seconds To Mars",
     "album": "This Is War",
     "playlist": "running 160-170 test",
@@ -8130,6 +9242,9 @@
   {
     "id": "4zgRNTk5ljnSBQV2zeCqMn",
     "name": "Killafornia",
+    "duration_ms": 227030,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Transplants",
     "album": "Haunted Cities",
     "playlist": "running 160-170 test",
@@ -8160,6 +9275,9 @@
   {
     "id": "54flyrjcdnQdco7300avMJ",
     "name": "We Will Rock You - Remastered 2011",
+    "duration_ms": 122066,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Queen",
     "album": "News Of The World (Deluxe Remastered Version)",
     "playlist": "running 160-170 test",
@@ -8190,6 +9308,9 @@
   {
     "id": "74QLfg69aVm4Afw3VGhDTY",
     "name": "Port Antonio",
+    "duration_ms": 316235,
+    "explicit": true,
+    "track_number": 1,
     "artist": "J. Cole",
     "album": "Port Antonio",
     "playlist": "running 160-170 test",
@@ -8220,6 +9341,9 @@
   {
     "id": "55CHeLEfn5iJ0IIkgaa4si",
     "name": "Savage",
+    "duration_ms": 155497,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Megan Thee Stallion",
     "album": "Suga",
     "playlist": "running 160-170 test",
@@ -8250,6 +9374,9 @@
   {
     "id": "1NL4Hw9b0ytvmEI6yp4T1T",
     "name": "This Afternoon",
+    "duration_ms": 274933,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Nickelback",
     "album": "Dark Horse",
     "playlist": "running 160-170 test",
@@ -8280,6 +9407,9 @@
   {
     "id": "39IoZIC8eEirT1v70rqSPq",
     "name": "Honey, I'm Home",
+    "duration_ms": 215200,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Shania Twain",
     "album": "Come On Over",
     "playlist": "running 160-170 test",
@@ -8310,6 +9440,9 @@
   {
     "id": "5HbCnVLXRyZVxnreOPgJCK",
     "name": "Girlfriend",
+    "duration_ms": 216600,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Avril Lavigne",
     "album": "The Best Damn Thing",
     "playlist": "running 160-170 test",
@@ -8340,6 +9473,9 @@
   {
     "id": "2WfaOiMkCvy7F5fcp2zZ8L",
     "name": "Take on Me",
+    "duration_ms": 225280,
+    "explicit": false,
+    "track_number": 1,
     "artist": "a-ha",
     "album": "Hunting High and Low",
     "playlist": "running 160-170 test",
@@ -8370,6 +9506,9 @@
   {
     "id": "3fthfkkvy9av3q3uAGVf7U",
     "name": "Shake It Off",
+    "duration_ms": 219200,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Taylor Swift",
     "album": "1989 (Deluxe Edition)",
     "playlist": "running 160-170 test",
@@ -8400,6 +9539,9 @@
   {
     "id": "73tzjHHSFwWEvUx7NwHmss",
     "name": "90's & 2000's Mashup",
+    "duration_ms": 221500,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Michael Constantino",
     "album": "Cover Up",
     "playlist": "running 160-170 test",
@@ -8430,6 +9572,9 @@
   {
     "id": "57uX2vR9j9DNiANDYfXw1i",
     "name": "Never Say Never",
+    "duration_ms": 256613,
+    "explicit": false,
+    "track_number": 5,
     "artist": "The Fray",
     "album": "The Fray",
     "playlist": "running 160-170 test",
@@ -8460,6 +9605,9 @@
   {
     "id": "2ZIzyHDYsXIHUojfr6bAbO",
     "name": "Don't Lose My Number - 2016 Remaster",
+    "duration_ms": 288546,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Phil Collins",
     "album": "No Jacket Required (2016 Remaster)",
     "playlist": "running 160-170 test",
@@ -8490,6 +9638,9 @@
   {
     "id": "1U3V9nnehWUjHFZVYNZ34s",
     "name": "We Belong To The Music (Featuring Miley Cyrus)",
+    "duration_ms": 267400,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Timbaland",
     "album": "Shock Value II",
     "playlist": "running 160-170 test",
@@ -8520,6 +9671,9 @@
   {
     "id": "7K5dzhGda2vRTaAWYI3hrb",
     "name": "Just Like Fire (From the Original Motion Picture \"Alice Through The Looking Glass\")",
+    "duration_ms": 215413,
+    "explicit": false,
+    "track_number": 1,
     "artist": "P!nk",
     "album": "Just Like Fire (From the Original Motion Picture \"Alice Through The Looking Glass\")",
     "playlist": "running 160-170 test",
@@ -8550,6 +9704,9 @@
   {
     "id": "0vg4WnUWvze6pBOJDTq99k",
     "name": "You're Beautiful",
+    "duration_ms": 209493,
+    "explicit": true,
+    "track_number": 2,
     "artist": "James Blunt",
     "album": "Back to Bedlam",
     "playlist": "running 160-170 test",
@@ -8580,6 +9737,9 @@
   {
     "id": "4jFxD1ap00GeFesop82Nfs",
     "name": "Truly Madly Deeply",
+    "duration_ms": 277333,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Savage Garden",
     "album": "Savage Garden (Remix album - The Future Of Earthly Delites)",
     "playlist": "running 160-170 test",
@@ -8610,6 +9770,9 @@
   {
     "id": "3wMUvT6eIw2L5cZFG1yH9j",
     "name": "Country Grammar (Hot Shit)",
+    "duration_ms": 287000,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Nelly",
     "album": "Country Grammar",
     "playlist": "running 160-170 test",
@@ -8640,6 +9803,9 @@
   {
     "id": "1fLdeDTrJWNkwOeFyAVLvF",
     "name": "Good Life",
+    "duration_ms": 207000,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kanye West",
     "album": "Graduation",
     "playlist": "running 160-170 test",
@@ -8670,6 +9836,9 @@
   {
     "id": "7dvd3b2oz7AFgXrPBIIYxR",
     "name": "Dirt Off Your Shoulder / Lying From You",
+    "duration_ms": 244693,
+    "explicit": true,
+    "track_number": 1,
     "artist": "JAY-Z",
     "album": "Collision Course",
     "playlist": "running 160-170 test",
@@ -8700,6 +9869,9 @@
   {
     "id": "5A6OHHy73AR5tLxgTc98zz",
     "name": "Black and Yellow",
+    "duration_ms": 217666,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Wiz Khalifa",
     "album": "Rolling Papers",
     "playlist": "running 160-170 test",
@@ -8730,6 +9902,9 @@
   {
     "id": "3pv7Q5v2dpdefwdWIvE7yH",
     "name": "Shake It Off (Taylor's Version)",
+    "duration_ms": 219209,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Taylor Swift",
     "album": "1989 (Taylor's Version)",
     "playlist": "running 160-170 test",
@@ -8760,6 +9935,9 @@
   {
     "id": "4pbJqGIASGPr0ZpGpnWkDn",
     "name": "We Will Rock You - Remastered 2011",
+    "duration_ms": 122066,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Queen",
     "album": "News Of The World (2011 Remaster)",
     "playlist": "running 160-170 test",
@@ -8790,6 +9968,9 @@
   {
     "id": "3lWwsRSWeSTXUBTJeuRPPg",
     "name": "Plastic Hamburgers",
+    "duration_ms": 217451,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Fantastic Negrito",
     "album": "Please Don't Be Dead",
     "playlist": "running 160-170 test",
@@ -8820,6 +10001,9 @@
   {
     "id": "233SIbxjiUmEjVcGUiRUiL",
     "name": "Still Doing Fine?",
+    "duration_ms": 194302,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Early Pedestrian",
     "album": "Still Doing Fine?",
     "playlist": "running 160-170 test",
@@ -8850,6 +10034,9 @@
   {
     "id": "2D35sVzODlq0sbxkeieNTm",
     "name": "Lie, Cheat, Steal",
+    "duration_ms": 208466,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "playlist": "running 160-170 test",

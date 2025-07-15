@@ -2,6 +2,9 @@
   {
     "id": "773hekg7UEdbGvv3lJ3CmV",
     "name": "Pusher Love Girl",
+    "duration_ms": 482360,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience (Deluxe Version)",
     "bpm": 140.009,
@@ -31,6 +34,9 @@
   {
     "id": "6vt0I1cw1YmAIKDJvHVIM5",
     "name": "Suit & Tie (feat. JAY-Z)",
+    "duration_ms": 326280,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience (Deluxe Version)",
     "bpm": 101.985,
@@ -60,6 +66,9 @@
   {
     "id": "7I7EnQnVJH1uSJ0cSQKPuu",
     "name": "Don't Hold the Wall",
+    "duration_ms": 430626,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience (Deluxe Version)",
     "bpm": 118.352,
@@ -89,6 +98,9 @@
   {
     "id": "7z0JDE4w67HXt5lEWsU2Hj",
     "name": "Strawberry Bubblegum",
+    "duration_ms": 479746,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience (Deluxe Version)",
     "bpm": 104.96,
@@ -118,6 +130,9 @@
   {
     "id": "79MOydAvZYm8nyyzd6fiVi",
     "name": "Tunnel Vision",
+    "duration_ms": 406640,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience (Deluxe Version)",
     "bpm": 141.88,
@@ -147,6 +162,9 @@
   {
     "id": "7xxEK0MQvkME1LSS2cIW7R",
     "name": "Spaceship Coupe",
+    "duration_ms": 437013,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience (Deluxe Version)",
     "bpm": 126.053,
@@ -176,6 +194,9 @@
   {
     "id": "4CfYxSs4Dr8KWORCmN3hom",
     "name": "That Girl",
+    "duration_ms": 287946,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience (Deluxe Version)",
     "bpm": 132.762,
@@ -205,6 +226,9 @@
   {
     "id": "2AobDJxjDp5TbxGdR3JGen",
     "name": "Let the Groove Get In",
+    "duration_ms": 431613,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience (Deluxe Version)",
     "bpm": 116.921,
@@ -234,6 +258,9 @@
   {
     "id": "4rHZZAmHpZrA3iH5zx8frV",
     "name": "Mirrors",
+    "duration_ms": 484146,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience (Deluxe Version)",
     "bpm": 76.899,
@@ -263,6 +290,9 @@
   {
     "id": "06aFFobYGQNlyqXcEmYPSm",
     "name": "Blue Ocean Floor",
+    "duration_ms": 439466,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience (Deluxe Version)",
     "bpm": 180.856,
@@ -292,6 +322,9 @@
   {
     "id": "3HaW1TqoBUrTwEYmtguKTa",
     "name": "Dress On",
+    "duration_ms": 279133,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience (Deluxe Version)",
     "bpm": 85.946,
@@ -321,6 +354,9 @@
   {
     "id": "3rPDcjQNtOK0gey9Gu1tZ2",
     "name": "Body Count",
+    "duration_ms": 282493,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Justin Timberlake",
     "album": "The 20/20 Experience (Deluxe Version)",
     "bpm": 120.016,

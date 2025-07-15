@@ -2,6 +2,9 @@
   {
     "id": "0qIwJu4BQPKOb8aLrdS1M6",
     "name": "Simpatico",
+    "duration_ms": 209333,
+    "explicit": false,
+    "track_number": 1,
     "artist": "NAVVI",
     "album": "Omni",
     "bpm": 107.988,
@@ -31,6 +34,9 @@
   {
     "id": "744gPxS7ZzKFvrsGdrurH2",
     "name": "Close",
+    "duration_ms": 230666,
+    "explicit": false,
+    "track_number": 2,
     "artist": "NAVVI",
     "album": "Omni",
     "bpm": 114.974,
@@ -60,6 +66,9 @@
   {
     "id": "5AVYGcOwD45W6TUOfyGOCJ",
     "name": "Polychrome",
+    "duration_ms": 262667,
+    "explicit": false,
+    "track_number": 3,
     "artist": "NAVVI",
     "album": "Omni",
     "bpm": 171.952,
@@ -89,6 +98,9 @@
   {
     "id": "3DIRI7vcHIQ1Kry7ipiECH",
     "name": "Interstate",
+    "duration_ms": 42425,
+    "explicit": false,
+    "track_number": 4,
     "artist": "NAVVI",
     "album": "Omni",
     "bpm": 121.599,
@@ -118,6 +130,9 @@
   {
     "id": "4iyyXDS4lDMxn50WWDVqUR",
     "name": "What Reason Do We Need?",
+    "duration_ms": 223000,
+    "explicit": false,
+    "track_number": 5,
     "artist": "NAVVI",
     "album": "Omni",
     "bpm": 119.979,
@@ -147,6 +162,9 @@
   {
     "id": "3jjZqtXTYSHf4Bk9QOBzBR",
     "name": "In Gold",
+    "duration_ms": 258666,
+    "explicit": false,
+    "track_number": 6,
     "artist": "NAVVI",
     "album": "Omni",
     "bpm": 89.995,
@@ -176,6 +194,9 @@
   {
     "id": "4yMaYH8hnH7hwUpgrZA55Z",
     "name": "Follow You",
+    "duration_ms": 250666,
+    "explicit": false,
+    "track_number": 7,
     "artist": "NAVVI",
     "album": "Omni",
     "bpm": 95.004,
@@ -205,6 +226,9 @@
   {
     "id": "3dX9DBL7tftouPTsjQCHrB",
     "name": "Another Phase",
+    "duration_ms": 196000,
+    "explicit": false,
+    "track_number": 8,
     "artist": "NAVVI",
     "album": "Omni",
     "bpm": 91.979,
@@ -234,6 +258,9 @@
   {
     "id": "1GqnXtVfI7DPbk2JLjbXV5",
     "name": "Sol",
+    "duration_ms": 209666,
+    "explicit": false,
+    "track_number": 9,
     "artist": "NAVVI",
     "album": "Omni",
     "bpm": 106.0,
@@ -263,6 +290,9 @@
   {
     "id": "1XpIBDnWR7AvGEpXkPc9eT",
     "name": "Time",
+    "duration_ms": 46358,
+    "explicit": false,
+    "track_number": 10,
     "artist": "NAVVI",
     "album": "Omni",
     "bpm": 67.507,
@@ -292,6 +322,9 @@
   {
     "id": "4In0EawTl71Y0Lktrg9F3q",
     "name": "From The End And Start",
+    "duration_ms": 215000,
+    "explicit": false,
+    "track_number": 11,
     "artist": "NAVVI",
     "album": "Omni",
     "bpm": 127.93,

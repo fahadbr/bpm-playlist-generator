@@ -2,6 +2,9 @@
   {
     "id": "3AszgPDZd9q0DpDFt4HFBy",
     "name": "Hey Ya!",
+    "duration_ms": 239240,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Outkast",
     "album": "The Way You Move / Hey Ya!",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -32,6 +35,9 @@
   {
     "id": "1NL4Hw9b0ytvmEI6yp4T1T",
     "name": "This Afternoon",
+    "duration_ms": 274933,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Nickelback",
     "album": "Dark Horse",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -62,6 +68,9 @@
   {
     "id": "39IoZIC8eEirT1v70rqSPq",
     "name": "Honey, I'm Home",
+    "duration_ms": 215200,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Shania Twain",
     "album": "Come On Over",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -92,6 +101,9 @@
   {
     "id": "5HbCnVLXRyZVxnreOPgJCK",
     "name": "Girlfriend",
+    "duration_ms": 216600,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Avril Lavigne",
     "album": "The Best Damn Thing",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -122,6 +134,9 @@
   {
     "id": "2WfaOiMkCvy7F5fcp2zZ8L",
     "name": "Take on Me",
+    "duration_ms": 225280,
+    "explicit": false,
+    "track_number": 1,
     "artist": "a-ha",
     "album": "Hunting High and Low",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -152,6 +167,9 @@
   {
     "id": "3fthfkkvy9av3q3uAGVf7U",
     "name": "Shake It Off",
+    "duration_ms": 219200,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Taylor Swift",
     "album": "1989 (Deluxe Edition)",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -182,6 +200,9 @@
   {
     "id": "73tzjHHSFwWEvUx7NwHmss",
     "name": "90's & 2000's Mashup",
+    "duration_ms": 221500,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Michael Constantino",
     "album": "Cover Up",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -212,6 +233,9 @@
   {
     "id": "57uX2vR9j9DNiANDYfXw1i",
     "name": "Never Say Never",
+    "duration_ms": 256613,
+    "explicit": false,
+    "track_number": 5,
     "artist": "The Fray",
     "album": "The Fray",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -242,6 +266,9 @@
   {
     "id": "2ZIzyHDYsXIHUojfr6bAbO",
     "name": "Don't Lose My Number - 2016 Remaster",
+    "duration_ms": 288546,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Phil Collins",
     "album": "No Jacket Required (2016 Remaster)",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -272,6 +299,9 @@
   {
     "id": "1U3V9nnehWUjHFZVYNZ34s",
     "name": "We Belong To The Music (Featuring Miley Cyrus)",
+    "duration_ms": 267400,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Timbaland",
     "album": "Shock Value II",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -302,6 +332,9 @@
   {
     "id": "7K5dzhGda2vRTaAWYI3hrb",
     "name": "Just Like Fire (From the Original Motion Picture \"Alice Through The Looking Glass\")",
+    "duration_ms": 215413,
+    "explicit": false,
+    "track_number": 1,
     "artist": "P!nk",
     "album": "Just Like Fire (From the Original Motion Picture \"Alice Through The Looking Glass\")",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -332,6 +365,9 @@
   {
     "id": "0vg4WnUWvze6pBOJDTq99k",
     "name": "You're Beautiful",
+    "duration_ms": 209493,
+    "explicit": true,
+    "track_number": 2,
     "artist": "James Blunt",
     "album": "Back to Bedlam",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -362,6 +398,9 @@
   {
     "id": "4jFxD1ap00GeFesop82Nfs",
     "name": "Truly Madly Deeply",
+    "duration_ms": 277333,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Savage Garden",
     "album": "Savage Garden (Remix album - The Future Of Earthly Delites)",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -392,6 +431,9 @@
   {
     "id": "3wMUvT6eIw2L5cZFG1yH9j",
     "name": "Country Grammar (Hot Shit)",
+    "duration_ms": 287000,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Nelly",
     "album": "Country Grammar",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -422,6 +464,9 @@
   {
     "id": "1fLdeDTrJWNkwOeFyAVLvF",
     "name": "Good Life",
+    "duration_ms": 207000,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kanye West",
     "album": "Graduation",
     "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
@@ -452,8 +497,12 @@
   {
     "id": "7FIWs0pqAYbP91WWM0vlTQ",
     "name": "Godzilla (feat. Juice WRLD)",
+    "duration_ms": 210800,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
+    "playlist": "160-165 cadence running \ud83d\udcaa ordered by increasing order",
     "bpm": 165.995,
     "features": [
       {

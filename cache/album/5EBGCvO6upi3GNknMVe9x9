@@ -2,6 +2,9 @@
   {
     "id": "0yhxBvedRdGxsPZHJNI4VA",
     "name": "I Thought About Killing You",
+    "duration_ms": 274186,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kanye West",
     "album": "ye",
     "bpm": 116.016,
@@ -31,6 +34,9 @@
   {
     "id": "1qsHYUd2c1wFGcn7e63QmG",
     "name": "Yikes",
+    "duration_ms": 188773,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kanye West",
     "album": "ye",
     "bpm": 173.996,
@@ -60,6 +66,9 @@
   {
     "id": "3U21A07gAloCc4P7J8rxcn",
     "name": "All Mine",
+    "duration_ms": 145506,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kanye West",
     "album": "ye",
     "bpm": 121.927,
@@ -89,6 +98,9 @@
   {
     "id": "1nGoy0cEj0extAwXYNYTWd",
     "name": "Wouldn't Leave",
+    "duration_ms": 205546,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kanye West",
     "album": "ye",
     "bpm": 164.235,
@@ -118,6 +130,9 @@
   {
     "id": "35KV2Nuib6jPMVN00O8iba",
     "name": "No Mistakes",
+    "duration_ms": 123040,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kanye West",
     "album": "ye",
     "bpm": 80.174,
@@ -147,6 +162,9 @@
   {
     "id": "7vgTNTaEz3CsBZ1N4YQalM",
     "name": "Ghost Town",
+    "duration_ms": 271386,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kanye West",
     "album": "ye",
     "bpm": 83.378,
@@ -176,6 +194,9 @@
   {
     "id": "3s7MCdXyWmwjdcWh7GWXas",
     "name": "Violent Crimes",
+    "duration_ms": 215320,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kanye West",
     "album": "ye",
     "bpm": 109.813,

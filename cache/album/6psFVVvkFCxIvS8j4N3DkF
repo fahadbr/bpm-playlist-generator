@@ -2,6 +2,9 @@
   {
     "id": "6zkQE5boH7LEHZbO6ywcrW",
     "name": "BLK VINTAGE (INTRO) (feat. Grace Sorensen)",
+    "duration_ms": 177706,
+    "explicit": true,
+    "track_number": 1,
     "artist": "BLK ODYSSY",
     "album": "BLK VINTAGE",
     "bpm": 71.87,
@@ -31,6 +34,9 @@
   {
     "id": "5KdfaHdg2mYtccCtPQrIhF",
     "name": "FUNKENTOLOGY",
+    "duration_ms": 172829,
+    "explicit": true,
+    "track_number": 2,
     "artist": "BLK ODYSSY",
     "album": "BLK VINTAGE",
     "bpm": 148.382,
@@ -60,6 +66,9 @@
   {
     "id": "70hlOBVJ0Zr7iWhXy8OQHf",
     "name": "NINETEEN EIGHTY",
+    "duration_ms": 146413,
+    "explicit": true,
+    "track_number": 3,
     "artist": "BLK ODYSSY",
     "album": "BLK VINTAGE",
     "bpm": 84.227,
@@ -89,6 +98,9 @@
   {
     "id": "5nR6MBAFCdusf8C3BZGtop",
     "name": "HANG LOW (feat. James Robinson)",
+    "duration_ms": 152524,
+    "explicit": true,
+    "track_number": 4,
     "artist": "BLK ODYSSY",
     "album": "BLK VINTAGE",
     "bpm": 169.994,
@@ -118,6 +130,9 @@
   {
     "id": "2psY7bHSyxhoItxG9XHG4E",
     "name": "BIG BAD WOLF/SOBER (feat. LARA')",
+    "duration_ms": 286838,
+    "explicit": true,
+    "track_number": 5,
     "artist": "BLK ODYSSY",
     "album": "BLK VINTAGE",
     "bpm": 145.393,
@@ -147,6 +162,9 @@
   {
     "id": "5W1KPkyAWqqJR8tAueqIWJ",
     "name": "YA NO POD\u00cdA SALIR",
+    "duration_ms": 233107,
+    "explicit": true,
+    "track_number": 6,
     "artist": "BLK ODYSSY",
     "album": "BLK VINTAGE",
     "bpm": 146.754,
@@ -176,6 +194,9 @@
   {
     "id": "6qcKeSJNgz7ubh28BfQjcc",
     "name": "MURDA",
+    "duration_ms": 151910,
+    "explicit": true,
+    "track_number": 7,
     "artist": "BLK ODYSSY",
     "album": "BLK VINTAGE",
     "bpm": 111.979,
@@ -205,6 +226,9 @@
   {
     "id": "15KqIJ5Kc3vC8KRi57cMY7",
     "name": "GHOST RIDE",
+    "duration_ms": 150907,
+    "explicit": true,
+    "track_number": 8,
     "artist": "BLK ODYSSY",
     "album": "BLK VINTAGE",
     "bpm": 143.839,
@@ -234,6 +258,9 @@
   {
     "id": "2ZMT1uVVxBD1div3oxFXKo",
     "name": "BLK REVOLUTION",
+    "duration_ms": 110987,
+    "explicit": true,
+    "track_number": 9,
     "artist": "BLK ODYSSY",
     "album": "BLK VINTAGE",
     "bpm": 125.081,
@@ -263,6 +290,9 @@
   {
     "id": "6rNMU6EHYPNLu984LEe9X8",
     "name": "DRINKING GOOD (feat. LARA')",
+    "duration_ms": 287373,
+    "explicit": true,
+    "track_number": 10,
     "artist": "BLK ODYSSY",
     "album": "BLK VINTAGE",
     "bpm": 73.977,

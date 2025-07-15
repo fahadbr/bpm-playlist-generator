@@ -2,6 +2,9 @@
   {
     "id": "6Rfc5vnh8qine5VneEpy7a",
     "name": "Intro",
+    "duration_ms": 71613,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 92.202,
@@ -31,6 +34,9 @@
   {
     "id": "1mIpDPCehnf3EPk6J4ZCUF",
     "name": "Astronomy (8th Light)",
+    "duration_ms": 203680,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 94.092,
@@ -60,6 +66,9 @@
   {
     "id": "4C7Ss9bTPOWJMh3rarF1mN",
     "name": "Definition",
+    "duration_ms": 206493,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 89.788,
@@ -89,6 +98,9 @@
   {
     "id": "5ED4wu4LKC0iNR28iMtAyv",
     "name": "Re:Definition",
+    "duration_ms": 182973,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 180.24,
@@ -118,6 +130,9 @@
   {
     "id": "2gR8M4j8V1n0ScoE6pB3Wv",
     "name": "Children's Story",
+    "duration_ms": 212600,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 90.481,
@@ -147,6 +162,9 @@
   {
     "id": "3Mz4AoWIedMfzCib1LYwMZ",
     "name": "Brown Skin Lady",
+    "duration_ms": 346666,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 175.559,
@@ -176,6 +194,9 @@
   {
     "id": "42Ukmio4yQyjiZrqpys8XY",
     "name": "B Boys Will B Boys",
+    "duration_ms": 156026,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 107.004,
@@ -205,6 +226,9 @@
   {
     "id": "3DC6AWwtPhlhsBOm4pFkt1",
     "name": "K.O.S. (Determination)",
+    "duration_ms": 289200,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 91.222,
@@ -234,6 +258,9 @@
   {
     "id": "0aoHxg1dcxHSgMJFE4umoQ",
     "name": "Hater Players",
+    "duration_ms": 247800,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 95.922,
@@ -263,6 +290,9 @@
   {
     "id": "6W8xPUq3muUFRnxVcVjdIK",
     "name": "Yo Yeah",
+    "duration_ms": 70000,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 96.927,
@@ -292,6 +322,9 @@
   {
     "id": "5mxVKAuunOKqcBfR5ivbRf",
     "name": "Respiration",
+    "duration_ms": 365333,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 178.727,
@@ -321,6 +354,9 @@
   {
     "id": "7tx1TUJrT6qxXFXAELqbev",
     "name": "Thieves In The Night",
+    "duration_ms": 311960,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 92.04,
@@ -350,6 +386,9 @@
   {
     "id": "3zlvo38o7gFkrjKi1mtaoV",
     "name": "Twice Inna Lifetime",
+    "duration_ms": 338813,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Black Star",
     "album": "Mos Def & Talib Kweli Are Black Star",
     "bpm": 85.524,

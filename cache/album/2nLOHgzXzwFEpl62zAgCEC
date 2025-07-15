@@ -2,6 +2,9 @@
   {
     "id": "6krYS8KtmNAYyb5uTZiYW4",
     "name": "Dawn FM",
+    "duration_ms": 96240,
+    "explicit": false,
+    "track_number": 1,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 111.65,
@@ -31,6 +34,9 @@
   {
     "id": "3KyKxJ4P3pVCgaZwaq2rUC",
     "name": "Gasoline",
+    "duration_ms": 212165,
+    "explicit": false,
+    "track_number": 2,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 123.006,
@@ -60,6 +66,9 @@
   {
     "id": "2Ghp894n1laIf2w98VeAOJ",
     "name": "How Do I Make You Love Me?",
+    "duration_ms": 214214,
+    "explicit": false,
+    "track_number": 3,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 121.006,
@@ -89,6 +98,9 @@
   {
     "id": "2vgUijXOTRMnWXDtvgMp2b",
     "name": "Take My Breath",
+    "duration_ms": 339023,
+    "explicit": false,
+    "track_number": 4,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 121.02,
@@ -118,6 +130,9 @@
   {
     "id": "1nH2PkJL1XoUq8oE6tBZoU",
     "name": "Sacrifice",
+    "duration_ms": 188918,
+    "explicit": true,
+    "track_number": 5,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 122.0,
@@ -147,6 +162,9 @@
   {
     "id": "759ndr57jb0URg4j9YSWml",
     "name": "A Tale By Quincy",
+    "duration_ms": 96232,
+    "explicit": true,
+    "track_number": 6,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 67.289,
@@ -176,6 +194,9 @@
   {
     "id": "2SLwbpExuoBDZBpjfefCtV",
     "name": "Out of Time",
+    "duration_ms": 214193,
+    "explicit": false,
+    "track_number": 7,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 93.057,
@@ -205,6 +226,9 @@
   {
     "id": "1NhjYYcYTRywc0di98xHxf",
     "name": "Here We Go\u2026 Again (feat. Tyler, the Creator)",
+    "duration_ms": 209777,
+    "explicit": true,
+    "track_number": 8,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 134.943,
@@ -234,6 +258,9 @@
   {
     "id": "1E5Xu8dur0fAjSP1VpVhAZ",
     "name": "Best Friends",
+    "duration_ms": 163504,
+    "explicit": false,
+    "track_number": 9,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 90.0,
@@ -263,6 +290,9 @@
   {
     "id": "0mL82sxCRjrs3br407IdJh",
     "name": "Is There Someone Else?",
+    "duration_ms": 199111,
+    "explicit": false,
+    "track_number": 10,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 134.951,
@@ -292,6 +322,9 @@
   {
     "id": "6zzdyvVWjGrQBraSvuqJPY",
     "name": "Starry Eyes",
+    "duration_ms": 148000,
+    "explicit": false,
+    "track_number": 11,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 134.23,
@@ -321,6 +354,9 @@
   {
     "id": "3vJcz8exedHCjQ9ed95NqU",
     "name": "Every Angel is Terrifying",
+    "duration_ms": 167255,
+    "explicit": false,
+    "track_number": 12,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 118.167,
@@ -350,6 +386,9 @@
   {
     "id": "6a4GH1gljLL7VvmO9u5O92",
     "name": "Don\u2019t Break My Heart",
+    "duration_ms": 205469,
+    "explicit": false,
+    "track_number": 13,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 121.959,
@@ -379,6 +418,9 @@
   {
     "id": "5XbA7TAqsD0fj0dGBrbb0D",
     "name": "I Heard You\u2019re Married (feat. Lil Wayne)",
+    "duration_ms": 263641,
+    "explicit": true,
+    "track_number": 14,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 109.946,
@@ -408,6 +450,9 @@
   {
     "id": "2D4dV2KXDTszzJ3p3cFqhA",
     "name": "Less Than Zero",
+    "duration_ms": 211814,
+    "explicit": false,
+    "track_number": 15,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 142.981,
@@ -437,6 +482,9 @@
   {
     "id": "1NlK2NtpuUazpziLhnJwEV",
     "name": "Phantom Regret by Jim",
+    "duration_ms": 179580,
+    "explicit": false,
+    "track_number": 16,
     "artist": "The Weeknd",
     "album": "Dawn FM",
     "bpm": 110.113,

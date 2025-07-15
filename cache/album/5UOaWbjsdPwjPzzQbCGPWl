@@ -2,6 +2,9 @@
   {
     "id": "45tORLTHGyzygZNVnAhYnf",
     "name": "All We Need",
+    "duration_ms": 283320,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 105.044,
@@ -31,6 +34,9 @@
   {
     "id": "0rVx0JleEdLRafoLAy6hEt",
     "name": "Revolution",
+    "duration_ms": 196946,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 109.053,
@@ -60,6 +66,9 @@
   {
     "id": "4hxxF2LVp9ZRNc887Mp1DT",
     "name": "Forbidden Knowledge (feat. Big K.R.I.T.)",
+    "duration_ms": 242600,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 100.205,
@@ -89,6 +98,9 @@
   {
     "id": "3Uy4Ljf7BEbBeSUj4rOt45",
     "name": "Woodcrest Manor II",
+    "duration_ms": 310560,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 79.497,
@@ -118,6 +130,9 @@
   {
     "id": "2pRdXrdjIhFoTY0SEHX0l2",
     "name": "CPU (feat. RZA)",
+    "duration_ms": 268373,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 144.894,
@@ -147,6 +162,9 @@
   {
     "id": "2uK0gfnFYHKpb73WkQml8h",
     "name": "Devil's Whisper",
+    "duration_ms": 220920,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 107.991,
@@ -176,6 +194,9 @@
   {
     "id": "2YjweT5OLRUstLIYaVUwt2",
     "name": "Peace Prevail",
+    "duration_ms": 299146,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 138.099,
@@ -205,6 +226,9 @@
   {
     "id": "58l702tcyPKuXe9br3Grdl",
     "name": "Crystal Express",
+    "duration_ms": 237826,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 119.98,
@@ -234,6 +258,9 @@
   {
     "id": "1tAxvAS2nUsACIchn750c2",
     "name": "Love is Not a Four Letter Word",
+    "duration_ms": 109653,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 93.34,
@@ -263,6 +290,9 @@
   {
     "id": "6pug39h5ZVPpwsr5QUjjud",
     "name": "Her",
+    "duration_ms": 256600,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 150.014,
@@ -292,6 +322,9 @@
   {
     "id": "5zKl4hZJoUr6ONcwI7MxxV",
     "name": "Trap Tears (feat. Key!)",
+    "duration_ms": 331306,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 111.987,
@@ -321,6 +354,9 @@
   {
     "id": "2Tb7xvrJZj4eFQYXmKM65v",
     "name": "Mama",
+    "duration_ms": 238800,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 129.898,
@@ -350,6 +386,9 @@
   {
     "id": "2CxcNhHJMqpsiHGZZBxVVW",
     "name": "Kingdom Come",
+    "duration_ms": 228920,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 175.924,
@@ -379,6 +418,9 @@
   {
     "id": "4P3eLbdAxPsKy6zP3AInzV",
     "name": "Friends (feat. Tom Morello)",
+    "duration_ms": 277106,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Raury",
     "album": "All We Need",
     "bpm": 100.021,

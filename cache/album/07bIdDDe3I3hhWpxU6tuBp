@@ -2,6 +2,9 @@
   {
     "id": "6bGwKHXHNLmTy6yt147FPh",
     "name": "If You Know You Know",
+    "duration_ms": 202120,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Pusha T",
     "album": "DAYTONA",
     "bpm": 153.426,
@@ -31,6 +34,9 @@
   {
     "id": "7iEoaTyBCqLaAwJnOP1BTn",
     "name": "The Games We Play",
+    "duration_ms": 166120,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Pusha T",
     "album": "DAYTONA",
     "bpm": 78.035,
@@ -60,6 +66,9 @@
   {
     "id": "3HgA5R5alihocnOYE9ihpS",
     "name": "Hard Piano",
+    "duration_ms": 195733,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Pusha T",
     "album": "DAYTONA",
     "bpm": 82.2,
@@ -89,6 +98,9 @@
   {
     "id": "2BuBXn15gj4MNYZydyWgrk",
     "name": "Come Back Baby",
+    "duration_ms": 206706,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Pusha T",
     "album": "DAYTONA",
     "bpm": 92.001,
@@ -118,6 +130,9 @@
   {
     "id": "4LKSaRoKNnlpKXTT663BrT",
     "name": "Santeria",
+    "duration_ms": 176026,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Pusha T",
     "album": "DAYTONA",
     "bpm": 88.231,
@@ -147,6 +162,9 @@
   {
     "id": "5vnuJ8EopkP5dHukpOmT3L",
     "name": "What Would Meek Do?",
+    "duration_ms": 153266,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Pusha T",
     "album": "DAYTONA",
     "bpm": 83.071,
@@ -176,6 +194,9 @@
   {
     "id": "6cpsixIHI63L0hwh3CwZg3",
     "name": "Infrared",
+    "duration_ms": 170240,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Pusha T",
     "album": "DAYTONA",
     "bpm": 112.265,

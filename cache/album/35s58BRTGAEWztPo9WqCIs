@@ -2,6 +2,9 @@
   {
     "id": "5zsHmE2gO3RefVsPyw2e3T",
     "name": "What's Up Danger (with Black Caviar)",
+    "duration_ms": 222306,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 95.041,
@@ -31,6 +34,9 @@
   {
     "id": "3KkXRkHbMCARz0aVfEt68P",
     "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+    "duration_ms": 158040,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 89.908,
@@ -60,6 +66,9 @@
   {
     "id": "7cFFhb9Wz2ZXLSpEk2VDKd",
     "name": "Way Up",
+    "duration_ms": 153773,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 130.024,
@@ -89,6 +98,9 @@
   {
     "id": "4Uy3kNxW2kB8AEoXljEcth",
     "name": "Familia (with Anuel Aa, feat. Bantu) - Spider-Man: Into the Spider-Verse",
+    "duration_ms": 174893,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 112.029,
@@ -118,6 +130,9 @@
   {
     "id": "6VS7wKwtvL2FvTupYSWZ9e",
     "name": "Invincible",
+    "duration_ms": 196386,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 86.964,
@@ -147,6 +162,9 @@
   {
     "id": "6V81K1OcvYgHEnCA6A2Qx9",
     "name": "Start a Riot",
+    "duration_ms": 171466,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 143.144,
@@ -176,6 +194,9 @@
   {
     "id": "6rz0dTA0PdhXImFV5EjM0w",
     "name": "Hide (feat. Seezyn)",
+    "duration_ms": 205800,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 149.999,
@@ -205,6 +226,9 @@
   {
     "id": "2CWOMDYFK4Ef3867nEhnVM",
     "name": "Memories",
+    "duration_ms": 199146,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 93.989,
@@ -234,6 +258,9 @@
   {
     "id": "0vkzRCT7wzqWCFJw5TN1MQ",
     "name": "Save The Day (feat. Coi Leray & LouGotCash)",
+    "duration_ms": 178720,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 139.984,
@@ -263,6 +290,9 @@
   {
     "id": "5F2AuFzEiuAQD0JVNjVJQz",
     "name": "Let Go",
+    "duration_ms": 177653,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 100.064,
@@ -292,6 +322,9 @@
   {
     "id": "3vWzyGTu6Ovo1GdrcJqH6e",
     "name": "Scared of the Dark (feat. XXXTENTACION)",
+    "duration_ms": 233000,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 79.949,
@@ -321,6 +354,9 @@
   {
     "id": "6kiauSlWtddVQx4JwJx51p",
     "name": "Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)",
+    "duration_ms": 219400,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 129.097,
@@ -350,6 +386,9 @@
   {
     "id": "7pBsquIkbED6W6uSQJGbkn",
     "name": "Home",
+    "duration_ms": 211360,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Various Artists",
     "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
     "bpm": 118.018,

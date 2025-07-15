@@ -2,6 +2,9 @@
   {
     "id": "77ey7l3GIM5S1LJcFI3Amr",
     "name": "Drivin Me Crazy",
+    "duration_ms": 192070,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Chill's Spotlight",
     "album": "Chill's Spotlight",
     "bpm": 189.765,
@@ -31,6 +34,9 @@
   {
     "id": "2sOECUPaeaev7fXfBlxIjk",
     "name": "Hey Lupe",
+    "duration_ms": 249943,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Chill's Spotlight",
     "album": "Chill's Spotlight",
     "bpm": 88.633,
@@ -60,6 +66,9 @@
   {
     "id": "0oSdyLE77lXKdBaExzKZna",
     "name": "Gametime",
+    "duration_ms": 242697,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Chill's Spotlight",
     "album": "Chill's Spotlight",
     "bpm": 138.98,
@@ -89,6 +98,9 @@
   {
     "id": "4CsutEbBpdgxCPGXE8A8Ec",
     "name": "Run Game",
+    "duration_ms": 201424,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Chill's Spotlight",
     "album": "Chill's Spotlight",
     "bpm": 95.947,

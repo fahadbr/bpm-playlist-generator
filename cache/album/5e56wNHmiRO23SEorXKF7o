@@ -2,6 +2,9 @@
   {
     "id": "17armpXR1i2anQrzFyLE3K",
     "name": "Time",
+    "duration_ms": 174673,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Aaron May",
     "album": "No Recognition",
     "bpm": 98.669,
@@ -31,6 +34,9 @@
   {
     "id": "3nKrgkNMJGqBQT0QP9rArg",
     "name": "No Recognition",
+    "duration_ms": 147441,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Aaron May",
     "album": "No Recognition",
     "bpm": 118.566,
@@ -60,6 +66,9 @@
   {
     "id": "2hIAYj4280fqfNCmGhHWxN",
     "name": "How I Am",
+    "duration_ms": 134687,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Aaron May",
     "album": "No Recognition",
     "bpm": 75.728,
@@ -89,6 +98,9 @@
   {
     "id": "04IwrHnuhddLbHc9u9uOAW",
     "name": "BreakBread",
+    "duration_ms": 137071,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Aaron May",
     "album": "No Recognition",
     "bpm": 135.468,
@@ -118,6 +130,9 @@
   {
     "id": "4eS4oCrin8HydAwz40lSCa",
     "name": "Last Time",
+    "duration_ms": 192025,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Aaron May",
     "album": "No Recognition",
     "bpm": 74.915,
@@ -147,6 +162,9 @@
   {
     "id": "5OJro9Z2rKnEIRw0ra5npt",
     "name": "Rush",
+    "duration_ms": 176432,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Aaron May",
     "album": "No Recognition",
     "bpm": 92.491,
@@ -176,6 +194,9 @@
   {
     "id": "6l22gJmC9TF8WtXHcGkKO5",
     "name": "I Ain't Worried",
+    "duration_ms": 133384,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Aaron May",
     "album": "No Recognition",
     "bpm": 130.061,

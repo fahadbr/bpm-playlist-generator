@@ -2,6 +2,9 @@
   {
     "id": "7uMZy0bALAdneerERyr7Ks",
     "name": "Reflektor",
+    "duration_ms": 453946,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 111.563,
@@ -31,6 +34,9 @@
   {
     "id": "66gQu4ZIHmDhB8H4wkwm5f",
     "name": "We Exist",
+    "duration_ms": 343786,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 116.398,
@@ -60,6 +66,9 @@
   {
     "id": "4iRkDdI4vhLjjAxUbH1664",
     "name": "Flashbulb Eyes",
+    "duration_ms": 162200,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 171.43,
@@ -89,6 +98,9 @@
   {
     "id": "4OZyVAbGOcrv4BYv5xDjet",
     "name": "Here Comes The Night Time",
+    "duration_ms": 390813,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 95.014,
@@ -118,6 +130,9 @@
   {
     "id": "1PglrPaaUHsfp2Cka5CLdK",
     "name": "Normal Person",
+    "duration_ms": 262360,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 117.285,
@@ -147,6 +162,9 @@
   {
     "id": "0qtymhwMYML4RX6NTGjIIy",
     "name": "You Already Know",
+    "duration_ms": 239066,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 177.173,
@@ -176,6 +194,9 @@
   {
     "id": "1AKKVEylH3YPYm64MTzl7M",
     "name": "Joan Of Arc",
+    "duration_ms": 326520,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 133.985,
@@ -205,6 +226,9 @@
   {
     "id": "0Al8iBWqtHPbrtJH4UZ6Jt",
     "name": "Here Comes The Night Time II",
+    "duration_ms": 172186,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 152.034,
@@ -234,6 +258,9 @@
   {
     "id": "7GUZMdfx59cnVjgbDhy9Rx",
     "name": "Awful Sound (Oh Eurydice)",
+    "duration_ms": 373866,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 140.864,
@@ -263,6 +290,9 @@
   {
     "id": "4VcPw1c8BdKv6rUKAD1Hhw",
     "name": "It\u2019s Never Over (Hey Orpheus)",
+    "duration_ms": 402813,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 105.316,
@@ -292,6 +322,9 @@
   {
     "id": "48PWHnhCWgPGArCo0rvdm1",
     "name": "Porno",
+    "duration_ms": 362853,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 98.098,
@@ -321,6 +354,9 @@
   {
     "id": "7rL602DQps4QmrrjbinLzP",
     "name": "Afterlife",
+    "duration_ms": 352733,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 115.968,
@@ -350,6 +386,9 @@
   {
     "id": "4Y5nf6sLY0YryjmKBgJK8F",
     "name": "Supersymmetry",
+    "duration_ms": 676880,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 108.006,
@@ -379,6 +418,9 @@
   {
     "id": "5KX1inKdqpWcJnN7MjXQvV",
     "name": "Apocrypha",
+    "duration_ms": 318086,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 86.785,
@@ -408,6 +450,9 @@
   {
     "id": "5dp188Wlu2IH66Qif2kfOU",
     "name": "Women Of A Certain Age",
+    "duration_ms": 195968,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 88.027,
@@ -437,6 +482,9 @@
   {
     "id": "1kALYmq5xptctMMJ1ZQjG8",
     "name": "Flashbulb Eyes - Dennis Bovell Remix",
+    "duration_ms": 169409,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 85.746,
@@ -466,6 +514,9 @@
   {
     "id": "6AqYPBdoC7TWzNzuZ67e4F",
     "name": "Soft Power",
+    "duration_ms": 342745,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 79.694,
@@ -495,6 +546,9 @@
   {
     "id": "2cVaFbioaMfvjFSdeEYl1y",
     "name": "Get Right",
+    "duration_ms": 281077,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 144.092,
@@ -524,6 +578,9 @@
   {
     "id": "4hWXcKMbhPhEouNZ6DVxBc",
     "name": "Crucified Again",
+    "duration_ms": 302734,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Arcade Fire",
     "album": "Reflektor (Deluxe)",
     "bpm": 87.621,

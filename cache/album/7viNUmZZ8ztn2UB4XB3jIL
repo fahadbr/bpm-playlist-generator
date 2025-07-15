@@ -2,6 +2,9 @@
   {
     "id": "05jQUgTm40hzAw5uqOy0ob",
     "name": "Intro",
+    "duration_ms": 129266,
+    "explicit": true,
+    "track_number": 1,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 85.84,
@@ -31,6 +34,9 @@
   {
     "id": "6LBpGdlukUARutol7VgWIS",
     "name": "January 28th",
+    "duration_ms": 242813,
+    "explicit": true,
+    "track_number": 2,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 84.052,
@@ -60,6 +66,9 @@
   {
     "id": "4tqcoej1zPvwePZCzuAjJd",
     "name": "Wet Dreamz",
+    "duration_ms": 239320,
+    "explicit": true,
+    "track_number": 3,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 175.627,
@@ -89,6 +98,9 @@
   {
     "id": "11qa6plS660rrrkf6VJ3cX",
     "name": "03' Adolescence",
+    "duration_ms": 264213,
+    "explicit": true,
+    "track_number": 4,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 70.58,
@@ -118,6 +130,9 @@
   {
     "id": "52A8OAP8lTQKZCj4Rce92B",
     "name": "A Tale of 2 Citiez",
+    "duration_ms": 269786,
+    "explicit": true,
+    "track_number": 5,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 94.995,
@@ -147,6 +162,9 @@
   {
     "id": "6sf35vqrEAN8fOFzrKmv9A",
     "name": "Fire Squad",
+    "duration_ms": 288200,
+    "explicit": true,
+    "track_number": 6,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 175.895,
@@ -176,6 +194,9 @@
   {
     "id": "5dp2DNJtGuNjwgEtAN6BZd",
     "name": "St. Tropez",
+    "duration_ms": 257920,
+    "explicit": true,
+    "track_number": 7,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 84.524,
@@ -205,6 +226,9 @@
   {
     "id": "0Thqjtu54vKMP06pwZkAWp",
     "name": "G.O.M.D.",
+    "duration_ms": 301133,
+    "explicit": true,
+    "track_number": 8,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 128.073,
@@ -234,6 +258,9 @@
   {
     "id": "68Dni7IE4VyPkTOH9mRWHr",
     "name": "No Role Modelz",
+    "duration_ms": 292986,
+    "explicit": true,
+    "track_number": 9,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 100.028,
@@ -263,6 +290,9 @@
   {
     "id": "7L3yLy4K5CI7AWK2DfAbTv",
     "name": "Hello",
+    "duration_ms": 219173,
+    "explicit": true,
+    "track_number": 10,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 159.991,
@@ -292,6 +322,9 @@
   {
     "id": "5O59s7bCgTFsXDXlWecyQ1",
     "name": "Apparently",
+    "duration_ms": 293040,
+    "explicit": true,
+    "track_number": 11,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 133.992,
@@ -321,6 +354,9 @@
   {
     "id": "2e3Ea0o24lReQFR4FA7yXH",
     "name": "Love Yourz",
+    "duration_ms": 211680,
+    "explicit": true,
+    "track_number": 12,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 82.81,
@@ -350,6 +386,9 @@
   {
     "id": "3U1mFf6W429eMYDwmgkbaZ",
     "name": "Note to Self",
+    "duration_ms": 875306,
+    "explicit": true,
+    "track_number": 13,
     "artist": "J. Cole",
     "album": "2014 Forest Hills Drive",
     "bpm": 82.31,

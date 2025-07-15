@@ -2,6 +2,9 @@
   {
     "id": "7CQ2IUALMZScQUbpdiSxdk",
     "name": "Sober",
+    "duration_ms": 252013,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Childish Gambino",
     "album": "Kauai",
     "bpm": 98.095,
@@ -31,6 +34,9 @@
   {
     "id": "4BaZDllfIcJM62yjQyHcOE",
     "name": "Pop Thieves (Make It Feel Good)",
+    "duration_ms": 309480,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Childish Gambino",
     "album": "Kauai",
     "bpm": 104.777,
@@ -60,6 +66,9 @@
   {
     "id": "40DNN6CjgNEouHH0RsygcZ",
     "name": "Retro [ROUGH]",
+    "duration_ms": 202666,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Childish Gambino",
     "album": "Kauai",
     "bpm": 110.058,
@@ -89,6 +98,9 @@
   {
     "id": "17LwoPsrxQwzjlk9wiYhYL",
     "name": "The Palisades",
+    "duration_ms": 190906,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Childish Gambino",
     "album": "Kauai",
     "bpm": 100.047,
@@ -118,6 +130,9 @@
   {
     "id": "4cdLxUB6dSRNuNulB5qO8S",
     "name": "Poke",
+    "duration_ms": 216093,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Childish Gambino",
     "album": "Kauai",
     "bpm": 150.101,
@@ -147,6 +162,9 @@
   {
     "id": "7w3aNXae9u0JnpqFXfdm3k",
     "name": "Late Night In Kauai",
+    "duration_ms": 289986,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Childish Gambino",
     "album": "Kauai",
     "bpm": 91.868,
@@ -176,6 +194,9 @@
   {
     "id": "6AalgYpkET99cWnGH3ATPq",
     "name": "V. 3005 - Beach Picnic Version",
+    "duration_ms": 225866,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Childish Gambino",
     "album": "Kauai",
     "bpm": 165.86,

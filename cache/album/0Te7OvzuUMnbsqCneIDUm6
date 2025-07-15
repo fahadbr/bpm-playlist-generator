@@ -2,6 +2,9 @@
   {
     "id": "5hkgrWxkobGtg30I7DsfVu",
     "name": "Ten Thousand Fists",
+    "duration_ms": 212040,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 106.907,
@@ -31,6 +34,9 @@
   {
     "id": "3WiXCGEioBloorG63T3dSF",
     "name": "Just Stop",
+    "duration_ms": 223453,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 101.904,
@@ -60,6 +66,9 @@
   {
     "id": "0f2YRp5HLHVzqIs8KfY6T1",
     "name": "Guarded",
+    "duration_ms": 200293,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 136.912,
@@ -89,6 +98,9 @@
   {
     "id": "3H1SsrSSXeMFNj206eYim8",
     "name": "Deify",
+    "duration_ms": 256573,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 104.97,
@@ -118,6 +130,9 @@
   {
     "id": "6RJdYpFQwLyNfDc5FbjkgV",
     "name": "Stricken",
+    "duration_ms": 245226,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 173.847,
@@ -147,6 +162,9 @@
   {
     "id": "1gFrm3uL7UAtmjaPspYedU",
     "name": "I'm Alive",
+    "duration_ms": 282053,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 179.91,
@@ -176,6 +194,9 @@
   {
     "id": "69ZRVsGoLXjHrQWHMX5iCN",
     "name": "Sons of Plunder",
+    "duration_ms": 228026,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 99.93,
@@ -205,6 +226,9 @@
   {
     "id": "71qQhkbrt4gVbovwbzHLpE",
     "name": "Overburdened",
+    "duration_ms": 357320,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 123.952,
@@ -234,6 +258,9 @@
   {
     "id": "0jY829pCMnstlNtaE72vSB",
     "name": "Decadence",
+    "duration_ms": 204786,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 91.934,
@@ -263,6 +290,9 @@
   {
     "id": "2UiFk0Fwy2gTWJShgQL8el",
     "name": "Forgiven",
+    "duration_ms": 252053,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 93.972,
@@ -292,6 +322,9 @@
   {
     "id": "4ClGNWLK9vZMBtO0CpnyOE",
     "name": "Land of Confusion",
+    "duration_ms": 287066,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 114.919,
@@ -321,6 +354,9 @@
   {
     "id": "7yZtrG0ktXcDCyWkmIWmEi",
     "name": "Sacred Lie",
+    "duration_ms": 185640,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 104.899,
@@ -350,6 +386,9 @@
   {
     "id": "4H6qtMPzKYRCsf7bT2DcBP",
     "name": "Pain Redefined",
+    "duration_ms": 247080,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 109.945,
@@ -379,6 +418,9 @@
   {
     "id": "2mIlzbbLp09YcvqmOHwQ1F",
     "name": "Avarice",
+    "duration_ms": 176786,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
     "bpm": 129.876,

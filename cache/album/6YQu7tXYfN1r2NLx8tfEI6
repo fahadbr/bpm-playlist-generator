@@ -2,6 +2,9 @@
   {
     "id": "3VC4KHC7cRhuG6nYx4f1qj",
     "name": "In Regards To Myself",
+    "duration_ms": 204213,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Underoath",
     "album": "Define The Great Line",
     "bpm": 159.811,
@@ -31,6 +34,9 @@
   {
     "id": "1SBceOn4txhXq6Uan8EMPt",
     "name": "A Moment Suspended In Time",
+    "duration_ms": 239866,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Underoath",
     "album": "Define The Great Line",
     "bpm": 175.671,
@@ -60,6 +66,9 @@
   {
     "id": "0mNq7RNDBjoTqd2XT36qUL",
     "name": "There Could Be Nothing After This",
+    "duration_ms": 206013,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Underoath",
     "album": "Define The Great Line",
     "bpm": 176.904,
@@ -89,6 +98,9 @@
   {
     "id": "5rK0oa87GjgVTJ8bGcaape",
     "name": "You're Ever So Inviting",
+    "duration_ms": 253826,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Underoath",
     "album": "Define The Great Line",
     "bpm": 179.983,
@@ -118,6 +130,9 @@
   {
     "id": "0OTyweK8kc0KgE1nB8XuyE",
     "name": "Salmarnir",
+    "duration_ms": 177226,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Underoath",
     "album": "Define The Great Line",
     "bpm": 63.69,
@@ -147,6 +162,9 @@
   {
     "id": "4rDwTksjXHBngObS3cXAX0",
     "name": "Returning Empty Handed",
+    "duration_ms": 267146,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Underoath",
     "album": "Define The Great Line",
     "bpm": 93.046,
@@ -176,6 +194,9 @@
   {
     "id": "6JBCcqV0IQq57z95LtDVOV",
     "name": "Casting Such A Thin Shadow",
+    "duration_ms": 373760,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Underoath",
     "album": "Define The Great Line",
     "bpm": 114.953,
@@ -205,6 +226,9 @@
   {
     "id": "0qxAdhIIf3S6Nwq88qp8i0",
     "name": "Moving For The Sake Of Motion",
+    "duration_ms": 195480,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Underoath",
     "album": "Define The Great Line",
     "bpm": 185.087,
@@ -234,6 +258,9 @@
   {
     "id": "313yF0VXTCmFFoYEJF7nBQ",
     "name": "Writing On The Walls",
+    "duration_ms": 242413,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Underoath",
     "album": "Define The Great Line",
     "bpm": 91.938,
@@ -263,6 +290,9 @@
   {
     "id": "1rfMDstuBGujKWQ5I7yMZz",
     "name": "Everyone Looks So Good From Here",
+    "duration_ms": 176053,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Underoath",
     "album": "Define The Great Line",
     "bpm": 177.562,
@@ -292,6 +322,9 @@
   {
     "id": "3FNaxrbtUnEnnVOaDQRe4W",
     "name": "To Whom It May Concern",
+    "duration_ms": 422773,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Underoath",
     "album": "Define The Great Line",
     "bpm": 154.014,

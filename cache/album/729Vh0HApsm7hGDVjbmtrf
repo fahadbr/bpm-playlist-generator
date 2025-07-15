@@ -2,6 +2,9 @@
   {
     "id": "5wL742yBgvtbw1IibA3FMJ",
     "name": "Falling",
+    "duration_ms": 257733,
+    "explicit": false,
+    "track_number": 1,
     "artist": "HAIM",
     "album": "Days Are Gone",
     "bpm": 111.969,
@@ -31,6 +34,9 @@
   {
     "id": "2319gHincsCeSmc19Efi2j",
     "name": "Forever",
+    "duration_ms": 245306,
+    "explicit": false,
+    "track_number": 2,
     "artist": "HAIM",
     "album": "Days Are Gone",
     "bpm": 117.984,
@@ -60,6 +66,9 @@
   {
     "id": "6golelYKuy85o3u0cxIxFK",
     "name": "The Wire",
+    "duration_ms": 245293,
+    "explicit": false,
+    "track_number": 3,
     "artist": "HAIM",
     "album": "Days Are Gone",
     "bpm": 113.678,
@@ -89,6 +98,9 @@
   {
     "id": "056mbYcqyQo86Rfr9XfyYm",
     "name": "If I Could Change Your Mind",
+    "duration_ms": 229373,
+    "explicit": false,
+    "track_number": 4,
     "artist": "HAIM",
     "album": "Days Are Gone",
     "bpm": 125.004,
@@ -118,6 +130,9 @@
   {
     "id": "1KM2YtlA69C6WKbxA1vdsR",
     "name": "Honey & I",
+    "duration_ms": 250133,
+    "explicit": false,
+    "track_number": 5,
     "artist": "HAIM",
     "album": "Days Are Gone",
     "bpm": 159.596,
@@ -147,6 +162,9 @@
   {
     "id": "6Je5Vjd8VXVpQYcOiav5KU",
     "name": "Don't Save Me",
+    "duration_ms": 230293,
+    "explicit": false,
+    "track_number": 6,
     "artist": "HAIM",
     "album": "Days Are Gone",
     "bpm": 139.963,
@@ -176,6 +194,9 @@
   {
     "id": "5pKVh2W9oZkfRVmzf4UeYD",
     "name": "Days Are Gone",
+    "duration_ms": 213320,
+    "explicit": false,
+    "track_number": 7,
     "artist": "HAIM",
     "album": "Days Are Gone",
     "bpm": 119.999,
@@ -205,6 +226,9 @@
   {
     "id": "0jCGo9MLTR98iPUQCT0p5r",
     "name": "My Song 5",
+    "duration_ms": 232106,
+    "explicit": false,
+    "track_number": 8,
     "artist": "HAIM",
     "album": "Days Are Gone",
     "bpm": 152.496,
@@ -234,6 +258,9 @@
   {
     "id": "5mKbFgEbuYRJRvl7SlPpRf",
     "name": "Go Slow",
+    "duration_ms": 256880,
+    "explicit": false,
+    "track_number": 9,
     "artist": "HAIM",
     "album": "Days Are Gone",
     "bpm": 145.061,
@@ -263,6 +290,9 @@
   {
     "id": "26Ij4Z5uXledB0fRg7V9av",
     "name": "Let Me Go",
+    "duration_ms": 248240,
+    "explicit": false,
+    "track_number": 10,
     "artist": "HAIM",
     "album": "Days Are Gone",
     "bpm": 127.884,
@@ -292,6 +322,9 @@
   {
     "id": "7p3vvpBKc7QRY1ur4qj2jP",
     "name": "Running If You Call My Name",
+    "duration_ms": 242520,
+    "explicit": false,
+    "track_number": 11,
     "artist": "HAIM",
     "album": "Days Are Gone",
     "bpm": 134.389,

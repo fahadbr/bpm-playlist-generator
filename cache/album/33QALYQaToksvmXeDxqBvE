@@ -2,6 +2,9 @@
   {
     "id": "6tIlpznHyaqCPiVfolKxrV",
     "name": "Only Us",
+    "duration_ms": 224280,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Thrice",
     "album": "Palms",
     "bpm": 184.011,
@@ -31,6 +34,9 @@
   {
     "id": "5sKHRsDybtkw6lxufkyk08",
     "name": "The Grey",
+    "duration_ms": 245880,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Thrice",
     "album": "Palms",
     "bpm": 76.668,
@@ -60,6 +66,9 @@
   {
     "id": "0ZWBuv544C0STkXfYb9Sd5",
     "name": "The Dark",
+    "duration_ms": 229893,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Thrice",
     "album": "Palms",
     "bpm": 140.137,
@@ -89,6 +98,9 @@
   {
     "id": "51o6rpuSm82oDaP6EJPTw0",
     "name": "Just Breathe",
+    "duration_ms": 236840,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Thrice",
     "album": "Palms",
     "bpm": 160.044,
@@ -118,6 +130,9 @@
   {
     "id": "7G0kv5TSvjbDPerkMrGFAZ",
     "name": "Everything Belongs",
+    "duration_ms": 233146,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Thrice",
     "album": "Palms",
     "bpm": 121.613,
@@ -147,6 +162,9 @@
   {
     "id": "3ilLbGFYml8Fe5pkRvhcxW",
     "name": "My Soul",
+    "duration_ms": 204040,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Thrice",
     "album": "Palms",
     "bpm": 136.122,
@@ -176,6 +194,9 @@
   {
     "id": "21zDedqO5xBOAwpjxSPyi6",
     "name": "A Branch In The River",
+    "duration_ms": 228986,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Thrice",
     "album": "Palms",
     "bpm": 140.032,
@@ -205,6 +226,9 @@
   {
     "id": "0tYrId0jJ4cuBr6nyK4eOR",
     "name": "Hold Up A Light",
+    "duration_ms": 208946,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Thrice",
     "album": "Palms",
     "bpm": 120.712,
@@ -234,6 +258,9 @@
   {
     "id": "1kdObeB2NVMZpxRG4u0C5v",
     "name": "Blood On Blood",
+    "duration_ms": 275706,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Thrice",
     "album": "Palms",
     "bpm": 147.953,
@@ -263,6 +290,9 @@
   {
     "id": "6QbWwa7R89HU9enfSadkw8",
     "name": "Beyond The Pines",
+    "duration_ms": 336426,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Thrice",
     "album": "Palms",
     "bpm": 140.039,

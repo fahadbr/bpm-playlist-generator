@@ -2,6 +2,9 @@
   {
     "id": "5Qj13vcA4k2il9eWg7Fy4U",
     "name": "Intro",
+    "duration_ms": 69720,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 76.449,
@@ -31,6 +34,9 @@
   {
     "id": "3NjddtqajIJTWlFVq1K0IR",
     "name": "Gasoline Dreams (with Khujo Goodie)",
+    "duration_ms": 214706,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 95.074,
@@ -60,6 +66,9 @@
   {
     "id": "3CEmpsQOIiau352aXwWVUy",
     "name": "I'm Cool (Interlude)",
+    "duration_ms": 42040,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 97.762,
@@ -89,6 +98,9 @@
   {
     "id": "1HNKuSdaQE69ul4U58LetZ",
     "name": "So Fresh, So Clean",
+    "duration_ms": 240026,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 166.05,
@@ -118,6 +130,9 @@
   {
     "id": "1jpB0oi0Pd8RPzjNPUvHcg",
     "name": "Ms. Jackson",
+    "duration_ms": 270506,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 94.94,
@@ -147,6 +162,9 @@
   {
     "id": "5DtNf1PCFo9lhg0FFTOPWS",
     "name": "Snappin' & Trappin' (feat. Killer Mike & J-Sweet)",
+    "duration_ms": 259693,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 129.38,
@@ -176,6 +194,9 @@
   {
     "id": "7D7qwozqVkANvLjM74DjqN",
     "name": "D.F. (Interlude)",
+    "duration_ms": 27240,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 93.029,
@@ -205,6 +226,9 @@
   {
     "id": "6wmmvhyekg23vjriYrhGkE",
     "name": "Spaghetti Junction",
+    "duration_ms": 237160,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 96.715,
@@ -234,6 +258,9 @@
   {
     "id": "2yvWkrlNApnKycQUT2s3ct",
     "name": "Kim & Cookie (Interlude)",
+    "duration_ms": 72533,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 80.469,
@@ -263,6 +290,9 @@
   {
     "id": "3S9vDTtRj7PgqnQ9ySL1hz",
     "name": "I'll Call B4 I Cum (feat. Gangsta Boo & Eco)",
+    "duration_ms": 258440,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 90.988,
@@ -292,6 +322,9 @@
   {
     "id": "4ZqqDNV6cs9URfA2jPLWiP",
     "name": "B.O.B. - Bombs Over Baghdad",
+    "duration_ms": 304226,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 153.943,
@@ -321,6 +354,9 @@
   {
     "id": "41T5aBXIVh0OB4u1K4qqt8",
     "name": "Xplosion (feat. B-Real)",
+    "duration_ms": 248840,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 201.91,
@@ -350,6 +386,9 @@
   {
     "id": "7aTX6IKT9mFWj4lUAATVaj",
     "name": "Good Hair (Interlude)",
+    "duration_ms": 14960,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 0,
@@ -379,6 +418,9 @@
   {
     "id": "2TAXtMyNdTlUaUifkfH0iy",
     "name": "We Luv Deez Hoez (feat. Backbone & Big Gipp)",
+    "duration_ms": 250466,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 89.994,
@@ -408,6 +450,9 @@
   {
     "id": "7Lwp8CSTyVKGLT3wX0kQA3",
     "name": "Humble Mumble (feat. Erykah Badu)",
+    "duration_ms": 290666,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 109.942,
@@ -437,6 +482,9 @@
   {
     "id": "555cLPsOeaQW1WWlB9QzGM",
     "name": "Drinkin' Again (Interlude)",
+    "duration_ms": 24506,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 81.001,
@@ -466,6 +514,9 @@
   {
     "id": "4vVE6fIaZ29DLOYfLJGzHY",
     "name": "?",
+    "duration_ms": 88626,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 146.846,
@@ -495,6 +546,9 @@
   {
     "id": "3Gxjy8wVh4v0z6QtLqoSIt",
     "name": "Red Velvet",
+    "duration_ms": 232640,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 107.018,
@@ -524,6 +578,9 @@
   {
     "id": "3CVSdZgqdmQRGGHC9rmJQP",
     "name": "Cruisin' In The ATL (Interlude)",
+    "duration_ms": 19293,
+    "explicit": false,
+    "track_number": 19,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 104.262,
@@ -553,6 +610,9 @@
   {
     "id": "48UAzbDynYKNUAc01V5V3P",
     "name": "Gangsta Sh*t (feat. Slimm Calhoun, C-Bone & T-Mo)",
+    "duration_ms": 281266,
+    "explicit": true,
+    "track_number": 20,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 123.73,
@@ -582,6 +642,9 @@
   {
     "id": "2QRinscDd0tVJJILfnCrJN",
     "name": "Toilet Tisha",
+    "duration_ms": 264706,
+    "explicit": false,
+    "track_number": 21,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 80.909,
@@ -611,6 +674,9 @@
   {
     "id": "5NcOdxpGOvozo2GPdlY613",
     "name": "Slum Beautiful (feat. Cee-Lo)",
+    "duration_ms": 247560,
+    "explicit": true,
+    "track_number": 22,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 159.877,
@@ -640,6 +706,9 @@
   {
     "id": "5oWyXgNVaalNBRmVEA0gXW",
     "name": "Pre-Nump (Interlude)",
+    "duration_ms": 27066,
+    "explicit": false,
+    "track_number": 23,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 125.595,
@@ -669,6 +738,9 @@
   {
     "id": "1CAUuCNU7tt3gqhf98TEnA",
     "name": "Stankonia (Stanklove) (feat. Big Rube & Sleepy Brown)",
+    "duration_ms": 411026,
+    "explicit": false,
+    "track_number": 24,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 135.97,
@@ -698,6 +770,9 @@
   {
     "id": "12hfCw3Bd5uvvqWa2xTNZS",
     "name": "Ms. Jackson - Mr. Drunk Remix",
+    "duration_ms": 285514,
+    "explicit": true,
+    "track_number": 25,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 189.481,
@@ -727,6 +802,9 @@
   {
     "id": "3p823QCRSekEqFDQFTGCPg",
     "name": "So Fresh, So Clean (feat. Snoop Dogg & Sleepy Brown) - Stankonia Remix",
+    "duration_ms": 277426,
+    "explicit": true,
+    "track_number": 26,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 87.051,
@@ -756,6 +834,9 @@
   {
     "id": "3j9t0h7eJBxvH9yVUt3BdM",
     "name": "B.O.B. (Bombs Over Baghdad) - Zack de la Rocha Remix",
+    "duration_ms": 276585,
+    "explicit": true,
+    "track_number": 27,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 154.185,
@@ -785,6 +866,9 @@
   {
     "id": "2z2stPFKtdle4gWtSbdcDR",
     "name": "Ms. Jackson - Acappella",
+    "duration_ms": 234600,
+    "explicit": true,
+    "track_number": 28,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 93.361,
@@ -814,6 +898,9 @@
   {
     "id": "6djebaYul7FKGYRdMUYBvY",
     "name": "So Fresh, So Clean - Acappella",
+    "duration_ms": 233600,
+    "explicit": true,
+    "track_number": 29,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 165.977,
@@ -843,6 +930,9 @@
   {
     "id": "2VQwEgmLg2jgz2jk4JiBTO",
     "name": "B.O.B. (Bombs Over Baghdad) - Acappella",
+    "duration_ms": 178921,
+    "explicit": true,
+    "track_number": 30,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
     "bpm": 76.514,

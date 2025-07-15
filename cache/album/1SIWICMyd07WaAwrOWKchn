@@ -2,6 +2,9 @@
   {
     "id": "7qWFbzF821vbTSCtkmULPR",
     "name": "Goodbye to Everything",
+    "duration_ms": 99386,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Between The Buried And Me",
     "album": "The Parallax II: Future Sequence",
     "bpm": 97.179,
@@ -31,6 +34,9 @@
   {
     "id": "1zA0jUxDtT6ht8qgpDBDpT",
     "name": "Astral Body",
+    "duration_ms": 301613,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Between The Buried And Me",
     "album": "The Parallax II: Future Sequence",
     "bpm": 109.8,
@@ -60,6 +66,9 @@
   {
     "id": "6f8nxx8zPqrctU6kLphyHS",
     "name": "Lay Your Ghosts to Rest",
+    "duration_ms": 602426,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Between The Buried And Me",
     "album": "The Parallax II: Future Sequence",
     "bpm": 103.138,
@@ -89,6 +98,9 @@
   {
     "id": "5C34FGQ9Rwe6gcVltToUz0",
     "name": "Autumn",
+    "duration_ms": 77720,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Between The Buried And Me",
     "album": "The Parallax II: Future Sequence",
     "bpm": 77.007,
@@ -118,6 +130,9 @@
   {
     "id": "1WWPO82Q5kl5tXh46auLC9",
     "name": "Extremophile Elite",
+    "duration_ms": 598640,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Between The Buried And Me",
     "album": "The Parallax II: Future Sequence",
     "bpm": 159.851,
@@ -147,6 +162,9 @@
   {
     "id": "5GoOXx2O676br7DKLO6GLr",
     "name": "Parallax",
+    "duration_ms": 75440,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Between The Buried And Me",
     "album": "The Parallax II: Future Sequence",
     "bpm": 55.577,
@@ -176,6 +194,9 @@
   {
     "id": "3LV19asKFQUwxMNOlln6QY",
     "name": "The Black Box",
+    "duration_ms": 130840,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Between The Buried And Me",
     "album": "The Parallax II: Future Sequence",
     "bpm": 135.07,
@@ -205,6 +226,9 @@
   {
     "id": "2Yv5DeAVqMuH8AHQImqJX7",
     "name": "Telos",
+    "duration_ms": 585400,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Between The Buried And Me",
     "album": "The Parallax II: Future Sequence",
     "bpm": 125.12,
@@ -234,6 +258,9 @@
   {
     "id": "78BKyGHvpiNPOQMVRnDnD3",
     "name": "Bloom",
+    "duration_ms": 208960,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Between The Buried And Me",
     "album": "The Parallax II: Future Sequence",
     "bpm": 174.979,
@@ -263,6 +290,9 @@
   {
     "id": "6k7KdLa7AWsRreqXN4ocmb",
     "name": "Melting City",
+    "duration_ms": 619453,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Between The Buried And Me",
     "album": "The Parallax II: Future Sequence",
     "bpm": 86.496,
@@ -292,6 +322,9 @@
   {
     "id": "4oYGumi84fsMkxpiFpCSP8",
     "name": "Silent Flight Parliament",
+    "duration_ms": 909306,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Between The Buried And Me",
     "album": "The Parallax II: Future Sequence",
     "bpm": 112.547,
@@ -321,6 +354,9 @@
   {
     "id": "4cgbRsBKONUv6iJABWeIcX",
     "name": "Goodbye to Everything Reprise",
+    "duration_ms": 149266,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Between The Buried And Me",
     "album": "The Parallax II: Future Sequence",
     "bpm": 100.043,

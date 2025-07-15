@@ -2,6 +2,9 @@
   {
     "id": "2NDXdxZjbm5EbbEEDSKXQV",
     "name": "Summer Knights",
+    "duration_ms": 116050,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 92.513,
@@ -31,6 +34,9 @@
   {
     "id": "3AM2ihc5RFzbC47eCpTg2I",
     "name": "Waves",
+    "duration_ms": 211630,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 89.947,
@@ -60,6 +66,9 @@
   {
     "id": "18Y3zi59zjRVUEjUhdApSX",
     "name": "FromdaTomb$",
+    "duration_ms": 204866,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 92.457,
@@ -89,6 +98,9 @@
   {
     "id": "4pNT8XTKWb2vhcsqwzdXCT",
     "name": "Survival Tactics",
+    "duration_ms": 202784,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 199.946,
@@ -118,6 +130,9 @@
   {
     "id": "2PxwwqB4f9x72jbw6AgR1s",
     "name": "Killuminati",
+    "duration_ms": 153740,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 87.15,
@@ -147,6 +162,9 @@
   {
     "id": "3QbsrWxq3JyNov94VzbNdB",
     "name": "Hardknock",
+    "duration_ms": 318375,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 81.97,
@@ -176,6 +194,9 @@
   {
     "id": "1W4qc7UnAuRmT93W8Ad1t1",
     "name": "World Domination",
+    "duration_ms": 162761,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 79.394,
@@ -205,6 +226,9 @@
   {
     "id": "2miKV8OiAhmZPjhCzgRnvw",
     "name": "Pennyroyal",
+    "duration_ms": 169796,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 93.485,
@@ -234,6 +258,9 @@
   {
     "id": "1rZvU5sb2E8LuJTAqEdAiw",
     "name": "Funky Ho'$",
+    "duration_ms": 269357,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 173.78,
@@ -263,6 +290,9 @@
   {
     "id": "7fMG4HNSKzBFKthjmeW8LU",
     "name": "Daily Routine",
+    "duration_ms": 177959,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 81.343,
@@ -292,6 +322,9 @@
   {
     "id": "3dkLUA4zs07CnhchRuRV6J",
     "name": "Snakes",
+    "duration_ms": 259439,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 82.147,
@@ -321,6 +354,9 @@
   {
     "id": "24TUPoKOVqKT1hZHV63FUV",
     "name": "Don't Front",
+    "duration_ms": 261670,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 94.51,
@@ -350,6 +386,9 @@
   {
     "id": "7dFGkZbmm6cVlI28bfMaWE",
     "name": "Righteous Minds",
+    "duration_ms": 224042,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 94.893,
@@ -379,6 +418,9 @@
   {
     "id": "4rkfCWtPe63QU1HXsVTcpc",
     "name": "Where It'$ At?",
+    "duration_ms": 248837,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 80.351,
@@ -408,6 +450,9 @@
   {
     "id": "046k0tkM8kI1D1UbmSsIsW",
     "name": "Third Eye Sh*t",
+    "duration_ms": 706612,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Joey Bada$$",
     "album": "1999",
     "bpm": 128.945,

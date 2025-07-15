@@ -2,6 +2,9 @@
   {
     "id": "5r13QvPVwh6OfOvUf71shX",
     "name": "Mystery Fish",
+    "duration_ms": 188973,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 132.021,
@@ -31,6 +34,9 @@
   {
     "id": "1M1wqGG7FYPlHVFWOZloJR",
     "name": "Rings",
+    "duration_ms": 227386,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 127.935,
@@ -60,6 +66,9 @@
   {
     "id": "2paPlKZIIZ2Qk76aZOXR2w",
     "name": "Lotta Years",
+    "duration_ms": 118946,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 81.912,
@@ -89,6 +98,9 @@
   {
     "id": "4GW7OMwSpog9vGws5WQfXF",
     "name": "Dorks",
+    "duration_ms": 212906,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 168.117,
@@ -118,6 +130,9 @@
   {
     "id": "1F2x2nRHVNMLcaM72qUPXR",
     "name": "Rabies",
+    "duration_ms": 185506,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 170.383,
@@ -147,6 +162,9 @@
   {
     "id": "2a2Q9GPXfs4wOHtCmZXuNl",
     "name": "Supercell",
+    "duration_ms": 230600,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 95.961,
@@ -176,6 +194,9 @@
   {
     "id": "6oZtExqvkvgVARnetsr9G1",
     "name": "Blood Sandwich",
+    "duration_ms": 265333,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 97.688,
@@ -205,6 +226,9 @@
   {
     "id": "1KL7cIQBTLkHqGhkvGx20o",
     "name": "Get Out of the Car",
+    "duration_ms": 113186,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 121.772,
@@ -234,6 +258,9 @@
   {
     "id": "1CXfq8G5lBVyJQ82UIFWH1",
     "name": "Shrunk",
+    "duration_ms": 188613,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 81.882,
@@ -263,6 +290,9 @@
   {
     "id": "38DEoY02UZW4TsPEQOdC3S",
     "name": "Kirby",
+    "duration_ms": 166906,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 178.12,
@@ -292,6 +322,9 @@
   {
     "id": "3PdmiIZ7ncDPJ4Rx28icE8",
     "name": "TUFF",
+    "duration_ms": 231173,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 90.011,
@@ -321,6 +354,9 @@
   {
     "id": "0NpD3pv0yUw4gQgjAS1Jwc",
     "name": "Lazy Eye",
+    "duration_ms": 164853,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 96.112,
@@ -350,6 +386,9 @@
   {
     "id": "2HFVLZbuMQH84nQZvR1bFa",
     "name": "Defender",
+    "duration_ms": 191186,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 111.1,
@@ -379,6 +418,9 @@
   {
     "id": "7yrcWK8U1pwx2nZOqw90Xs",
     "name": "Water Tower",
+    "duration_ms": 230866,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 86.495,
@@ -408,6 +450,9 @@
   {
     "id": "41eIcYudbkRMyGybsprUbl",
     "name": "Molecules",
+    "duration_ms": 202720,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Aesop Rock",
     "album": "The Impossible Kid",
     "bpm": 89.95,

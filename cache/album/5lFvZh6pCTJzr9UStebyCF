@@ -2,6 +2,9 @@
   {
     "id": "5EeZuhVQdnUkpCiknMTeoP",
     "name": "Pay the Man",
+    "duration_ms": 233720,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
     "bpm": 99.969,
@@ -31,6 +34,9 @@
   {
     "id": "6APnYxfLzIg2cejA3v2ljy",
     "name": "Doing It for the Money",
+    "duration_ms": 226026,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
     "bpm": 154.925,
@@ -60,6 +66,9 @@
   {
     "id": "4BdGO1CaObRD4La9l5Zanz",
     "name": "Sit Next to Me",
+    "duration_ms": 243146,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
     "bpm": 97.021,
@@ -89,6 +98,9 @@
   {
     "id": "1vcAHEXL5Cl9TUk0ESvWnN",
     "name": "SHC",
+    "duration_ms": 248106,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
     "bpm": 121.989,
@@ -118,6 +130,9 @@
   {
     "id": "4bMIRaesSZwIldFWCGs96S",
     "name": "I Love My Friends",
+    "duration_ms": 225426,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
     "bpm": 115.97,
@@ -147,6 +162,9 @@
   {
     "id": "50kg9qK4cWkMXXVNP3zWBW",
     "name": "Orange Dream",
+    "duration_ms": 80373,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
     "bpm": 125.918,
@@ -176,6 +194,9 @@
   {
     "id": "5JqXtvd8bAyyPTjaK6cSDH",
     "name": "Static Space Lover",
+    "duration_ms": 240080,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
     "bpm": 141.949,
@@ -205,6 +226,9 @@
   {
     "id": "6ReKt5x6FVUXTMdWNC6GAQ",
     "name": "Lotus Eater",
+    "duration_ms": 182653,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
     "bpm": 87.479,
@@ -234,6 +258,9 @@
   {
     "id": "0RweUCzWNmSfyozSbyKz88",
     "name": "Time to Get Closer",
+    "duration_ms": 57906,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
     "bpm": 170.265,
@@ -263,6 +290,9 @@
   {
     "id": "05y63nsti7WpAVys68ADwi",
     "name": "Loyal Like Sid & Nancy",
+    "duration_ms": 279960,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
     "bpm": 123.77,
@@ -292,6 +322,9 @@
   {
     "id": "7mlJpcVvVRzgGwkL3GUgY3",
     "name": "Harden the Paint",
+    "duration_ms": 234546,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
     "bpm": 165.917,
@@ -321,6 +354,9 @@
   {
     "id": "2208Pkqr9zSappQMfKfJKk",
     "name": "III",
+    "duration_ms": 249493,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Foster The People",
     "album": "Sacred Hearts Club",
     "bpm": 75.015,

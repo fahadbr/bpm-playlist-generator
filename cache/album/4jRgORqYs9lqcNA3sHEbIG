@@ -2,6 +2,9 @@
   {
     "id": "2NvDbs2olpmLdUjW2WCwTD",
     "name": "Coram Tempestate",
+    "duration_ms": 361874,
+    "explicit": false,
+    "track_number": 1,
     "artist": "H\u00c6LOS",
     "album": "SOMNUM",
     "bpm": 127.993,
@@ -31,6 +34,9 @@
   {
     "id": "462xPwNdnOLE0yEAmbcgrO",
     "name": "Quietus",
+    "duration_ms": 186368,
+    "explicit": false,
+    "track_number": 2,
     "artist": "H\u00c6LOS",
     "album": "SOMNUM",
     "bpm": 85.822,
@@ -60,6 +66,9 @@
   {
     "id": "64QHBshyg2YU73OfL7PwdZ",
     "name": "Momenta",
+    "duration_ms": 305156,
+    "explicit": false,
+    "track_number": 3,
     "artist": "H\u00c6LOS",
     "album": "SOMNUM",
     "bpm": 127.997,
@@ -89,6 +98,9 @@
   {
     "id": "3Aqxloi2rOAsSSBkdzrIGM",
     "name": "Caligo",
+    "duration_ms": 250307,
+    "explicit": false,
+    "track_number": 4,
     "artist": "H\u00c6LOS",
     "album": "SOMNUM",
     "bpm": 42.145,
@@ -118,6 +130,9 @@
   {
     "id": "3IVrbzLhl8al0ydF5hm4Mc",
     "name": "Noctis",
+    "duration_ms": 661267,
+    "explicit": false,
+    "track_number": 5,
     "artist": "H\u00c6LOS",
     "album": "SOMNUM",
     "bpm": 120.007,
@@ -147,6 +162,9 @@
   {
     "id": "12L8wuaqUl7GtossLBHADM",
     "name": "Somnum",
+    "duration_ms": 440323,
+    "explicit": false,
+    "track_number": 6,
     "artist": "H\u00c6LOS",
     "album": "SOMNUM",
     "bpm": 177.485,
@@ -176,6 +194,9 @@
   {
     "id": "3fqXkpUpCQa4mcVjtpHI3X",
     "name": "Luna",
+    "duration_ms": 464368,
+    "explicit": false,
+    "track_number": 7,
     "artist": "H\u00c6LOS",
     "album": "SOMNUM",
     "bpm": 123.37,
@@ -205,6 +226,9 @@
   {
     "id": "6pFsign8HcrTHCi6vWOfbl",
     "name": "Aurora",
+    "duration_ms": 423687,
+    "explicit": false,
+    "track_number": 8,
     "artist": "H\u00c6LOS",
     "album": "SOMNUM",
     "bpm": 61.268,

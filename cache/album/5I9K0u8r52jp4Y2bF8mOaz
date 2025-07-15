@@ -2,6 +2,9 @@
   {
     "id": "1bvPlrTtIpj7CSXRaJpALg",
     "name": "Strange Timez (feat. Robert Smith)",
+    "duration_ms": 227500,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 130.978,
@@ -31,6 +34,9 @@
   {
     "id": "3oP3Tfn86FRmxAGsV0TqCp",
     "name": "The Valley of The Pagans (feat. Beck)",
+    "duration_ms": 181028,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 130.034,
@@ -60,6 +66,9 @@
   {
     "id": "5jDIIpm38XbdvvSt4oilcI",
     "name": "The Lost Chord (feat. Leee John)",
+    "duration_ms": 243617,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 82.971,
@@ -89,6 +98,9 @@
   {
     "id": "4hURm1oP1rE1KZ4zd7mRay",
     "name": "Pac-Man (feat. ScHoolboy Q)",
+    "duration_ms": 192880,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 96.042,
@@ -118,6 +130,9 @@
   {
     "id": "5zGElc4Fk95ONl7YihpLFN",
     "name": "Chalk Tablet Towers (feat. St Vincent)",
+    "duration_ms": 182726,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 133.008,
@@ -147,6 +162,9 @@
   {
     "id": "6XyFC44z3MyVMd5ZrctiWL",
     "name": "The Pink Phantom (feat. Elton John and 6LACK)",
+    "duration_ms": 253126,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 64.474,
@@ -176,6 +194,9 @@
   {
     "id": "25Gp0MpGdvrs4hL1u4L2TF",
     "name": "Aries (feat. Peter Hook and Georgia)",
+    "duration_ms": 253333,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 120.006,
@@ -205,6 +226,9 @@
   {
     "id": "5dB55Te4Ivt5VRpwQsZXMa",
     "name": "Friday 13th (feat. Octavian)",
+    "duration_ms": 215007,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 100.042,
@@ -234,6 +258,9 @@
   {
     "id": "0kz637M43RY673RZoJCWBX",
     "name": "Dead Butterflies (feat. Kano and Roxani Arias)",
+    "duration_ms": 273684,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 173.963,
@@ -263,6 +290,9 @@
   {
     "id": "7rhtPZkcGCWgA3kizGwXwO",
     "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
+    "duration_ms": 333113,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 136.002,
@@ -292,6 +322,9 @@
   {
     "id": "5h5FY6vmtDpgXF91BUexO0",
     "name": "Momentary Bliss (feat. slowthai and Slaves)",
+    "duration_ms": 221386,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 158.059,
@@ -321,6 +354,9 @@
   {
     "id": "4jNs9cJBsFTiahZAe3iuwV",
     "name": "Opium (feat. EARTHGANG)",
+    "duration_ms": 410801,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 120.002,
@@ -350,6 +386,9 @@
   {
     "id": "5vUmlY6P9ZA3WoosABRUpp",
     "name": "Simplicity (feat. Joan As Police Woman)",
+    "duration_ms": 164466,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 121.635,
@@ -379,6 +418,9 @@
   {
     "id": "0Zn0jtLj2ehkIPxlCoO65O",
     "name": "Severed Head (feat. Goldlink and Unknown Mortal Orchestra)",
+    "duration_ms": 214256,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 120.008,
@@ -408,6 +450,9 @@
   {
     "id": "4KAIfa7oABPJbKT4cUz4Tx",
     "name": "With Love To An Ex (feat. Moonchild Sanelly)",
+    "duration_ms": 181080,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 76.416,
@@ -437,6 +482,9 @@
   {
     "id": "1mDbaq398rKyA2g4vv5obQ",
     "name": "MLS (feat. JPEGMAFIA and CHAI)",
+    "duration_ms": 193280,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 90.006,
@@ -466,6 +514,9 @@
   {
     "id": "7oPUdVHd88LJG7A9mVGbuF",
     "name": "How Far? (feat. Tony Allen and Skepta)",
+    "duration_ms": 166489,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Gorillaz",
     "album": "Song Machine, Season One: Strange Timez (Deluxe)",
     "bpm": 110.172,

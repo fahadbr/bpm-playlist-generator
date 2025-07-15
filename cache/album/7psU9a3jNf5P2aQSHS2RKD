@@ -2,6 +2,9 @@
   {
     "id": "2ww4JXJolWV7DmC5PFfZyu",
     "name": "Wild International",
+    "duration_ms": 227760,
+    "explicit": false,
+    "track_number": 1,
     "artist": "One Day As A Lion",
     "album": "One Day As A Lion EP",
     "bpm": 171.695,
@@ -31,6 +34,9 @@
   {
     "id": "0EPUSXfGeUUXZQVJlzcJXE",
     "name": "Ocean View",
+    "duration_ms": 245946,
+    "explicit": false,
+    "track_number": 2,
     "artist": "One Day As A Lion",
     "album": "One Day As A Lion EP",
     "bpm": 174.136,
@@ -60,6 +66,9 @@
   {
     "id": "0NfoHdgb5Xhd32qWx2RsBI",
     "name": "Last Letter",
+    "duration_ms": 237573,
+    "explicit": false,
+    "track_number": 3,
     "artist": "One Day As A Lion",
     "album": "One Day As A Lion EP",
     "bpm": 81.738,
@@ -89,6 +98,9 @@
   {
     "id": "35DnztbVFFcstcqKl2gsC5",
     "name": "If You Fear Dying",
+    "duration_ms": 236173,
+    "explicit": false,
+    "track_number": 4,
     "artist": "One Day As A Lion",
     "album": "One Day As A Lion EP",
     "bpm": 83.383,
@@ -118,6 +130,9 @@
   {
     "id": "4cNYtHPmkh1yBPmdlCJPw0",
     "name": "One Day As A Lion",
+    "duration_ms": 265186,
+    "explicit": false,
+    "track_number": 5,
     "artist": "One Day As A Lion",
     "album": "One Day As A Lion EP",
     "bpm": 104.011,

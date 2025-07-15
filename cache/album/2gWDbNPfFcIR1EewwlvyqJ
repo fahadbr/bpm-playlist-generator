@@ -2,6 +2,9 @@
   {
     "id": "6b5P51m8xx2XA6U7sdNZ5E",
     "name": "Alone Again",
+    "duration_ms": 250057,
+    "explicit": true,
+    "track_number": 1,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 136.066,
@@ -31,6 +34,9 @@
   {
     "id": "2K9Ovn1o2bTGqbsABGC6m3",
     "name": "Too Late",
+    "duration_ms": 239980,
+    "explicit": true,
+    "track_number": 2,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 120.077,
@@ -60,6 +66,9 @@
   {
     "id": "6kWxIqQDsKFYCJGbU4AjCX",
     "name": "Hardest To Love",
+    "duration_ms": 211402,
+    "explicit": true,
+    "track_number": 3,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 81.898,
@@ -89,6 +98,9 @@
   {
     "id": "4BGZF4oLbTL0pWm7C18pbv",
     "name": "Scared To Live",
+    "duration_ms": 191298,
+    "explicit": true,
+    "track_number": 4,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 87.419,
@@ -118,6 +130,9 @@
   {
     "id": "3WlbeuhfRSqU7ylK2Ui5U7",
     "name": "Snowchild",
+    "duration_ms": 247192,
+    "explicit": true,
+    "track_number": 5,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 148.073,
@@ -147,6 +162,9 @@
   {
     "id": "1sOW4PuG5X3Ie3EXUhAopJ",
     "name": "Escape From LA",
+    "duration_ms": 355960,
+    "explicit": true,
+    "track_number": 6,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 144.95,
@@ -176,6 +194,9 @@
   {
     "id": "6bnF93Rx87YqUBLSgjiMU8",
     "name": "Heartless",
+    "duration_ms": 198267,
+    "explicit": true,
+    "track_number": 7,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 170.083,
@@ -205,6 +226,9 @@
   {
     "id": "3orEOtd8CPL8GFlpRpKuoE",
     "name": "Faith",
+    "duration_ms": 283216,
+    "explicit": true,
+    "track_number": 8,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 175.962,
@@ -234,6 +258,9 @@
   {
     "id": "0VjIjW4GlUZAMYd2vXMi3b",
     "name": "Blinding Lights",
+    "duration_ms": 200045,
+    "explicit": false,
+    "track_number": 9,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 171.001,
@@ -263,6 +290,9 @@
   {
     "id": "7szuecWAPwGoV1e5vGu8tl",
     "name": "In Your Eyes",
+    "duration_ms": 237522,
+    "explicit": true,
+    "track_number": 10,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 100.019,
@@ -292,6 +322,9 @@
   {
     "id": "5QO79kh1waicV47BqGRL3g",
     "name": "Save Your Tears",
+    "duration_ms": 215627,
+    "explicit": true,
+    "track_number": 11,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 118.049,
@@ -321,6 +354,9 @@
   {
     "id": "40U8d12pC5UHqmHwXjHjjl",
     "name": "Repeat After Me (Interlude)",
+    "duration_ms": 195815,
+    "explicit": true,
+    "track_number": 12,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 95.035,
@@ -350,6 +386,9 @@
   {
     "id": "2p8IUWQDrpjuFltbdgLOag",
     "name": "After Hours",
+    "duration_ms": 361024,
+    "explicit": false,
+    "track_number": 13,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 108.968,
@@ -379,6 +418,9 @@
   {
     "id": "2BcnxwxBuar5wjCaLqm5N3",
     "name": "Until I Bleed Out",
+    "duration_ms": 192363,
+    "explicit": true,
+    "track_number": 14,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 117.185,
@@ -408,6 +450,9 @@
   {
     "id": "6utQlfLooYsUkq5xUg3vxt",
     "name": "Nothing Compares - Bonus Track",
+    "duration_ms": 222306,
+    "explicit": true,
+    "track_number": 15,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 131.922,
@@ -437,6 +482,9 @@
   {
     "id": "5SGEPm9ge10bD4j3ec9UHV",
     "name": "Missed You - Bonus Track",
+    "duration_ms": 144539,
+    "explicit": true,
+    "track_number": 16,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 151.98,
@@ -466,6 +514,9 @@
   {
     "id": "4TA5KWeqdDmgdVPHE7Yj3B",
     "name": "Final Lullaby - Bonus Track",
+    "duration_ms": 185688,
+    "explicit": true,
+    "track_number": 17,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 100.901,
@@ -495,6 +546,9 @@
   {
     "id": "5932dbzLjkEdE7T8BGPL50",
     "name": "Blinding Lights - Chromatics Remix",
+    "duration_ms": 261239,
+    "explicit": false,
+    "track_number": 18,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 171.064,
@@ -524,6 +578,9 @@
   {
     "id": "0e5Cykguk6797AaVUjJI92",
     "name": "Save Your Tears - OPN Remix",
+    "duration_ms": 220803,
+    "explicit": false,
+    "track_number": 19,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 118.015,
@@ -553,6 +610,9 @@
   {
     "id": "13s4YFYQEnHLJEcdZvLuol",
     "name": "Heartless - Vapor Wave Remix",
+    "duration_ms": 165353,
+    "explicit": true,
+    "track_number": 20,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 75.038,
@@ -582,6 +642,9 @@
   {
     "id": "3WAXILvmHFoyVHnK0kDK1S",
     "name": "After Hours - The Blaze Remix",
+    "duration_ms": 238128,
+    "explicit": false,
+    "track_number": 21,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 109.016,
@@ -611,6 +674,9 @@
   {
     "id": "2MGK1j9rfiTkffb6I7L98w",
     "name": "Scared To Live - SNL Live",
+    "duration_ms": 217834,
+    "explicit": false,
+    "track_number": 22,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "bpm": 87.921,

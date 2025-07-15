@@ -2,6 +2,9 @@
   {
     "id": "7m4xUEEivwPGz4U0TA1TWD",
     "name": "Always Rising",
+    "duration_ms": 184080,
+    "explicit": false,
+    "track_number": 1,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 75.625,
@@ -31,6 +34,9 @@
   {
     "id": "314oBdIvnoTPDwSP4zOP8p",
     "name": "Diamonds + And Pearls",
+    "duration_ms": 219586,
+    "explicit": false,
+    "track_number": 2,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 94.009,
@@ -60,6 +66,9 @@
   {
     "id": "0zaoWwS8RpE3LSDdmkg8TC",
     "name": "In The Dark (with Jhen\u00e9 Aiko)",
+    "duration_ms": 161146,
+    "explicit": false,
+    "track_number": 3,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 98.077,
@@ -89,6 +98,9 @@
   {
     "id": "2XbG1IRDzoQQzLJSmwWIqC",
     "name": "Lazy Susan (with Rich Brian feat. Warren Hue & Masiwei)",
+    "duration_ms": 279960,
+    "explicit": false,
+    "track_number": 4,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 155.967,
@@ -118,6 +130,9 @@
   {
     "id": "753sRMieYWBC6HGodwtkjI",
     "name": "Nomad",
+    "duration_ms": 204173,
+    "explicit": false,
+    "track_number": 5,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 91.98,
@@ -147,6 +162,9 @@
   {
     "id": "3zpGIFghtnVlwMXWyKW474",
     "name": "Fire In The Sky",
+    "duration_ms": 201786,
+    "explicit": false,
+    "track_number": 6,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 79.008,
@@ -176,6 +194,9 @@
   {
     "id": "1Mut1YA6ZxKZ7F6MKsMSQu",
     "name": "Lose Control",
+    "duration_ms": 254800,
+    "explicit": false,
+    "track_number": 7,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 100.077,
@@ -205,6 +226,9 @@
   {
     "id": "06nIuUCXydh4DcVfFhJa4R",
     "name": "Every Summertime",
+    "duration_ms": 215666,
+    "explicit": false,
+    "track_number": 8,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 78.973,
@@ -234,6 +258,9 @@
   {
     "id": "2u2QmdOex0MnbWuHmC7jcD",
     "name": "Never Gonna Come Down",
+    "duration_ms": 203800,
+    "explicit": false,
+    "track_number": 9,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 150.036,
@@ -263,6 +290,9 @@
   {
     "id": "3nXWCSTtbJFwvnLuMTIYwF",
     "name": "Foolish",
+    "duration_ms": 177626,
+    "explicit": false,
+    "track_number": 10,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 112.017,
@@ -292,6 +322,9 @@
   {
     "id": "4aZXxStzucuminkE8up916",
     "name": "Clocked Out!",
+    "duration_ms": 190080,
+    "explicit": false,
+    "track_number": 11,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 127.983,
@@ -321,6 +354,9 @@
   {
     "id": "36Ajx3OHw1qOAjS4tJs38V",
     "name": "Act Up",
+    "duration_ms": 198626,
+    "explicit": false,
+    "track_number": 12,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 78.052,
@@ -350,6 +386,9 @@
   {
     "id": "0RszjqOiIwaZGnXUDuAq1C",
     "name": "Baba Says",
+    "duration_ms": 263186,
+    "explicit": false,
+    "track_number": 13,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 138.026,
@@ -379,6 +418,9 @@
   {
     "id": "5x4vgABKiGp4Vg7ZyFRxhn",
     "name": "Run It (feat. Rick Ross & Rich Brian)",
+    "duration_ms": 163373,
+    "explicit": false,
+    "track_number": 14,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 104.006,
@@ -408,6 +450,9 @@
   {
     "id": "790TzR1UxBXVMFSGq8p7bv",
     "name": "Swan Song",
+    "duration_ms": 167586,
+    "explicit": false,
+    "track_number": 15,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 151.898,
@@ -437,6 +482,9 @@
   {
     "id": "14gmLQPNYokqB8OKxAp69f",
     "name": "War With Heaven",
+    "duration_ms": 193373,
+    "explicit": false,
+    "track_number": 16,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 84.996,
@@ -466,6 +514,9 @@
   {
     "id": "5BPtR7o6xDRRp1s2UkBjmb",
     "name": "Hot Soup",
+    "duration_ms": 187453,
+    "explicit": false,
+    "track_number": 17,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 94.64,
@@ -495,6 +546,9 @@
   {
     "id": "4JfbAMCkYLAU3g5SPsDh42",
     "name": "Warriors",
+    "duration_ms": 239013,
+    "explicit": false,
+    "track_number": 18,
     "artist": "88rising",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
     "bpm": 102.649,

@@ -2,6 +2,9 @@
   {
     "id": "70eFcWOvlMObDhURTqT4Fv",
     "name": "Beautiful People (feat. Khalid)",
+    "duration_ms": 197866,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 92.979,
@@ -31,6 +34,9 @@
   {
     "id": "4vUmTMuQqjdnvlZmAH61Qk",
     "name": "South of the Border (feat. Camila Cabello & Cardi B)",
+    "duration_ms": 204466,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 97.989,
@@ -60,6 +66,9 @@
   {
     "id": "4wuCQX7JvAZLlrcmH4AeZF",
     "name": "Cross Me (feat. Chance the Rapper & PnB Rock)",
+    "duration_ms": 206186,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 95.005,
@@ -89,6 +98,9 @@
   {
     "id": "1AI7UPw3fgwAFkvAlZWhE0",
     "name": "Take Me Back to London (feat. Stormzy)",
+    "duration_ms": 189733,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 138.058,
@@ -118,6 +130,9 @@
   {
     "id": "0VsGaRXR5WAzpu51unJTis",
     "name": "Best Part of Me (feat. YEBBA)",
+    "duration_ms": 243266,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 81.655,
@@ -147,6 +162,9 @@
   {
     "id": "0hVXuCcriWRGvwMV1r5Yn9",
     "name": "I Don't Care (with Justin Bieber)",
+    "duration_ms": 219946,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 101.956,
@@ -176,6 +194,9 @@
   {
     "id": "1DhRbox3xkceP64k3JeYfW",
     "name": "Antisocial (with Travis Scott)",
+    "duration_ms": 161746,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 151.957,
@@ -205,6 +226,9 @@
   {
     "id": "0AtP8EkGPn6SwxKDaUuXec",
     "name": "Remember The Name (feat. Eminem & 50 Cent)",
+    "duration_ms": 207760,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 91.046,
@@ -234,6 +258,9 @@
   {
     "id": "1Bdptrvb7nQkq8kCw3siE9",
     "name": "Feels (feat. Young Thug & J Hus)",
+    "duration_ms": 150786,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 91.667,
@@ -263,6 +290,9 @@
   {
     "id": "5T03itPFOPGGkvVPvPiyla",
     "name": "Put It All on Me (feat. Ella Mai)",
+    "duration_ms": 197093,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 101.007,
@@ -292,6 +322,9 @@
   {
     "id": "2qRN7PWiHRLprw4FpDeI9N",
     "name": "Nothing On You (feat. Paulo Londra & Dave)",
+    "duration_ms": 200733,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 88.011,
@@ -321,6 +354,9 @@
   {
     "id": "3FHXUqaUer9o231Je1zxIN",
     "name": "I Don't Want Your Money (feat. H.E.R.)",
+    "duration_ms": 204506,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 91.419,
@@ -350,6 +386,9 @@
   {
     "id": "4vIKzWqtn44umal5jXq4wE",
     "name": "1000 Nights (feat. Meek Mill & A Boogie Wit da Hoodie)",
+    "duration_ms": 212306,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 98.001,
@@ -379,6 +418,9 @@
   {
     "id": "5d1rmWWF1725tnYjq6rMDB",
     "name": "Way To Break My Heart (feat. Skrillex)",
+    "duration_ms": 190293,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 170.125,
@@ -408,6 +450,9 @@
   {
     "id": "7hvO2qCwJVZxiyoA7c9i5d",
     "name": "BLOW (with Chris Stapleton & Bruno Mars)",
+    "duration_ms": 209120,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
     "bpm": 92.47,

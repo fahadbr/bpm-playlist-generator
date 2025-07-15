@@ -2,6 +2,9 @@
   {
     "id": "0qg8rd6JsuLkt8TjBv7MSr",
     "name": "Kascade",
+    "duration_ms": 323728,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Animals As Leaders",
     "album": "The Joy of Motion",
     "bpm": 159.965,
@@ -31,6 +34,9 @@
   {
     "id": "01AGriSCSOG6m9Qqnf1B2B",
     "name": "Lippincott",
+    "duration_ms": 262292,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Animals As Leaders",
     "album": "The Joy of Motion",
     "bpm": 104.043,
@@ -60,6 +66,9 @@
   {
     "id": "7tGaZcGNY0jqf3dR185olj",
     "name": "Air Chrysalis",
+    "duration_ms": 305969,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Animals As Leaders",
     "album": "The Joy of Motion",
     "bpm": 122.009,
@@ -89,6 +98,9 @@
   {
     "id": "5uJwIrsgZrFTrfaB9CzO9L",
     "name": "Another Year",
+    "duration_ms": 230934,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Animals As Leaders",
     "album": "The Joy of Motion",
     "bpm": 130.04,
@@ -118,6 +130,9 @@
   {
     "id": "4sr5OIyYOY3JXbFYSoJR0G",
     "name": "Physical Education",
+    "duration_ms": 280955,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Animals As Leaders",
     "album": "The Joy of Motion",
     "bpm": 114.984,
@@ -147,6 +162,9 @@
   {
     "id": "6BATOdnrsuOS61NAOlTt7s",
     "name": "Tooth and Claw",
+    "duration_ms": 263206,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Animals As Leaders",
     "album": "The Joy of Motion",
     "bpm": 150.037,
@@ -176,6 +194,9 @@
   {
     "id": "1lZuMWe08KNHET97GjScan",
     "name": "Crescent",
+    "duration_ms": 263622,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Animals As Leaders",
     "album": "The Joy of Motion",
     "bpm": 149.914,
@@ -205,6 +226,9 @@
   {
     "id": "2JyBbbewdmHTj0RfeMgezZ",
     "name": "The Future That Awaited Me",
+    "duration_ms": 273365,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Animals As Leaders",
     "album": "The Joy of Motion",
     "bpm": 153.021,
@@ -234,6 +258,9 @@
   {
     "id": "3e3d3tgp2ylhiaOSeLIJUD",
     "name": "Para Mexer",
+    "duration_ms": 269560,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Animals As Leaders",
     "album": "The Joy of Motion",
     "bpm": 114.928,
@@ -263,6 +290,9 @@
   {
     "id": "2Lg8cOSLotJIdCMtXLasPH",
     "name": "The Woven Web",
+    "duration_ms": 247780,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Animals As Leaders",
     "album": "The Joy of Motion",
     "bpm": 118.02,
@@ -292,6 +322,9 @@
   {
     "id": "1msLrrfPlfv1fiRna873e5",
     "name": "Mind-Spun",
+    "duration_ms": 275586,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Animals As Leaders",
     "album": "The Joy of Motion",
     "bpm": 145.144,
@@ -321,6 +354,9 @@
   {
     "id": "6jAWFQWhxvGbfFxqUqzx34",
     "name": "Nephele",
+    "duration_ms": 271000,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Animals As Leaders",
     "album": "The Joy of Motion",
     "bpm": 180.001,

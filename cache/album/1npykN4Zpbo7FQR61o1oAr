@@ -2,6 +2,9 @@
   {
     "id": "4QlGcucyjxLcqchGQdFCjI",
     "name": "Pink",
+    "duration_ms": 165500,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 74.775,
@@ -31,6 +34,9 @@
   {
     "id": "5vPLVZeMGWcnmFWH4imeND",
     "name": "Frontline",
+    "duration_ms": 199500,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 134.926,
@@ -60,6 +66,9 @@
   {
     "id": "4VelGurdwOyx3al2KyVWC7",
     "name": "Control",
+    "duration_ms": 233000,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 100.152,
@@ -89,6 +98,9 @@
   {
     "id": "0pZxEVU4MNDKaRhWmHl3IZ",
     "name": "On Our Own",
+    "duration_ms": 236000,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 120.984,
@@ -118,6 +130,9 @@
   {
     "id": "5RLpJee06D4qs4GET4GNMP",
     "name": "Be Myself",
+    "duration_ms": 189000,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 179.903,
@@ -147,6 +162,9 @@
   {
     "id": "5ibJksnSNLkdoDAT1nfPQc",
     "name": "Identity",
+    "duration_ms": 239000,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 121.353,
@@ -176,6 +194,9 @@
   {
     "id": "4LczB3lChcfwJM2E62uOlH",
     "name": "Clean",
+    "duration_ms": 224000,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 105.005,
@@ -205,6 +226,9 @@
   {
     "id": "2qTqeKMywXEsWbrdYr5OxP",
     "name": "Kids",
+    "duration_ms": 229500,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 136.294,
@@ -234,6 +258,9 @@
   {
     "id": "5EBCRL7xDZztH4WV5RL5N4",
     "name": "Come Thru",
+    "duration_ms": 228500,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 146.023,
@@ -263,6 +290,9 @@
   {
     "id": "4QFFhLBBvMyb6USdMYV6eN",
     "name": "Preacher",
+    "duration_ms": 197500,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 169.995,
@@ -292,6 +322,9 @@
   {
     "id": "4Of1mPeH1arv6Bj9CmsTYP",
     "name": "Magenta Cyan",
+    "duration_ms": 320500,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 74.908,
@@ -321,6 +354,9 @@
   {
     "id": "2ngGP8sP08YLVwpJH1moBM",
     "name": "Unravel",
+    "duration_ms": 242000,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 130.745,
@@ -350,6 +386,9 @@
   {
     "id": "4ihPW6PUJYBJkalPPS5juq",
     "name": "Quicksand",
+    "duration_ms": 264000,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 92.337,
@@ -379,6 +418,9 @@
   {
     "id": "4D0nTDGiBAUdgWqKnOw7fm",
     "name": "Reductive",
+    "duration_ms": 322000,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
     "bpm": 145.864,

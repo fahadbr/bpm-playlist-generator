@@ -2,6 +2,9 @@
   {
     "id": "3u697QU7ODqPXv6VvV6VXO",
     "name": "Lament",
+    "duration_ms": 293480,
+    "explicit": false,
+    "track_number": 1,
     "artist": "TesseracT",
     "album": "One",
     "bpm": 177.991,
@@ -31,6 +34,9 @@
   {
     "id": "6K0QGm6uw2190pQDqJnek7",
     "name": "Nascent",
+    "duration_ms": 249306,
+    "explicit": false,
+    "track_number": 2,
     "artist": "TesseracT",
     "album": "One",
     "bpm": 112.662,
@@ -60,6 +66,9 @@
   {
     "id": "6zqrAN3xSWrTMTUE4vjgZB",
     "name": "Acceptance - Concealing Fate Part One",
+    "duration_ms": 513559,
+    "explicit": false,
+    "track_number": 3,
     "artist": "TesseracT",
     "album": "One",
     "bpm": 112.565,
@@ -89,6 +98,9 @@
   {
     "id": "7zFO7g6AZaJKZOUBpLjM7u",
     "name": "Deception - Concealing Fate Part Two",
+    "duration_ms": 322866,
+    "explicit": false,
+    "track_number": 4,
     "artist": "TesseracT",
     "album": "One",
     "bpm": 144.036,
@@ -118,6 +130,9 @@
   {
     "id": "1X09zeCqZK7uLSTEeK84oH",
     "name": "The Impossible - Concealing Fate Part Three",
+    "duration_ms": 290800,
+    "explicit": false,
+    "track_number": 5,
     "artist": "TesseracT",
     "album": "One",
     "bpm": 110.007,
@@ -147,6 +162,9 @@
   {
     "id": "1s2Ky2iOgSPXYsZ1RtyBtd",
     "name": "Perfection - Concealing Fate Part Four",
+    "duration_ms": 158280,
+    "explicit": false,
+    "track_number": 6,
     "artist": "TesseracT",
     "album": "One",
     "bpm": 194.956,
@@ -176,6 +194,9 @@
   {
     "id": "42A9pLHYVYum5lbq4lGPif",
     "name": "Epiphany - Concealing Fate Part Five",
+    "duration_ms": 89240,
+    "explicit": false,
+    "track_number": 7,
     "artist": "TesseracT",
     "album": "One",
     "bpm": 130.039,
@@ -205,6 +226,9 @@
   {
     "id": "2CpRWY45BkoUzWZgrSRD0k",
     "name": "Origin - Concealing Fate Part Six",
+    "duration_ms": 284440,
+    "explicit": false,
+    "track_number": 8,
     "artist": "TesseracT",
     "album": "One",
     "bpm": 120.031,
@@ -234,6 +258,9 @@
   {
     "id": "4pOfS2numgh9ARPBxeef9c",
     "name": "Sunrise",
+    "duration_ms": 237346,
+    "explicit": false,
+    "track_number": 9,
     "artist": "TesseracT",
     "album": "One",
     "bpm": 90.188,
@@ -263,6 +290,9 @@
   {
     "id": "48wq76JfkPRJ1D6BVQtCZZ",
     "name": "April",
+    "duration_ms": 288933,
+    "explicit": false,
+    "track_number": 10,
     "artist": "TesseracT",
     "album": "One",
     "bpm": 180.06,
@@ -292,6 +322,9 @@
   {
     "id": "2tBd67cpkdg8jpr8bWI8fT",
     "name": "Eden",
+    "duration_ms": 548200,
+    "explicit": false,
+    "track_number": 11,
     "artist": "TesseracT",
     "album": "One",
     "bpm": 108.827,

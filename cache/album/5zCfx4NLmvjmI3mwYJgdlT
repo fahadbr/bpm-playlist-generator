@@ -2,6 +2,9 @@
   {
     "id": "4zyPlHMdEzygdC9bGcfJPR",
     "name": "Request Denied",
+    "duration_ms": 272573,
+    "explicit": true,
+    "track_number": 1,
     "artist": "El-P",
     "album": "Cancer 4 Cure",
     "bpm": 129.432,
@@ -31,6 +34,9 @@
   {
     "id": "2OIVxvKa7XYSiZO7IYyIK5",
     "name": "The Full Retard",
+    "duration_ms": 219813,
+    "explicit": true,
+    "track_number": 2,
     "artist": "El-P",
     "album": "Cancer 4 Cure",
     "bpm": 110.075,
@@ -60,6 +66,9 @@
   {
     "id": "4zFbNiPwD4IK6QZgQuDcus",
     "name": "Works Every Time",
+    "duration_ms": 215640,
+    "explicit": true,
+    "track_number": 3,
     "artist": "El-P",
     "album": "Cancer 4 Cure",
     "bpm": 139.946,
@@ -89,6 +98,9 @@
   {
     "id": "6fYonstl3elKroeUaFysIS",
     "name": "Drones Over Bklyn",
+    "duration_ms": 349760,
+    "explicit": true,
+    "track_number": 4,
     "artist": "El-P",
     "album": "Cancer 4 Cure",
     "bpm": 139.742,
@@ -118,6 +130,9 @@
   {
     "id": "59lhh67RFroR4p8Hh1nrZA",
     "name": "Oh Hail No",
+    "duration_ms": 221146,
+    "explicit": true,
+    "track_number": 5,
     "artist": "El-P",
     "album": "Cancer 4 Cure",
     "bpm": 92.944,
@@ -147,6 +162,9 @@
   {
     "id": "2tFKZgbgaHuX68fQpqdWAU",
     "name": "Tougher Colder Killer",
+    "duration_ms": 219000,
+    "explicit": true,
+    "track_number": 6,
     "artist": "El-P",
     "album": "Cancer 4 Cure",
     "bpm": 129.84,
@@ -176,6 +194,9 @@
   {
     "id": "0tyO5QX6e5QUYcz2VJqk0x",
     "name": "True Story",
+    "duration_ms": 194453,
+    "explicit": true,
+    "track_number": 7,
     "artist": "El-P",
     "album": "Cancer 4 Cure",
     "bpm": 177.196,
@@ -205,6 +226,9 @@
   {
     "id": "3iRPqylFhfF5yvnpwGcNwH",
     "name": "The Jig Is Up",
+    "duration_ms": 198626,
+    "explicit": true,
+    "track_number": 8,
     "artist": "El-P",
     "album": "Cancer 4 Cure",
     "bpm": 133.349,
@@ -234,6 +258,9 @@
   {
     "id": "39uyaTPNLipkBEkuY6vtDe",
     "name": "Sign Here",
+    "duration_ms": 171866,
+    "explicit": true,
+    "track_number": 9,
     "artist": "El-P",
     "album": "Cancer 4 Cure",
     "bpm": 133.964,
@@ -263,6 +290,9 @@
   {
     "id": "3Q6cmXkfvUNjmzXQO3SWVd",
     "name": "For My Upstairs Neighbor (Mums the Word)",
+    "duration_ms": 195640,
+    "explicit": true,
+    "track_number": 10,
     "artist": "El-P",
     "album": "Cancer 4 Cure",
     "bpm": 79.004,
@@ -292,6 +322,9 @@
   {
     "id": "56nbhc2ZlvgxovMYbDKKLT",
     "name": "Stay Down",
+    "duration_ms": 190533,
+    "explicit": true,
+    "track_number": 11,
     "artist": "El-P",
     "album": "Cancer 4 Cure",
     "bpm": 126.005,
@@ -321,6 +354,9 @@
   {
     "id": "0VR6D8voTii804KGuO3nQR",
     "name": "$ Vic/FTL (Me And You)",
+    "duration_ms": 503080,
+    "explicit": true,
+    "track_number": 12,
     "artist": "El-P",
     "album": "Cancer 4 Cure",
     "bpm": 119.45,

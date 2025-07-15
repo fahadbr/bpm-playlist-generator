@@ -2,6 +2,9 @@
   {
     "id": "42Vc45AEr6JK29BbMTcMHh",
     "name": "Intro",
+    "duration_ms": 132026,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 159.825,
@@ -31,6 +34,9 @@
   {
     "id": "25EtWmcUALs9Gtfiv7Bcab",
     "name": "Mighty \"O\"",
+    "duration_ms": 256226,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 83.373,
@@ -60,6 +66,9 @@
   {
     "id": "1h6qG2hBGxL9yUNjeUb4SU",
     "name": "Peaches (feat. Sleepy Brown & Scar)",
+    "duration_ms": 190813,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 107.033,
@@ -89,6 +98,9 @@
   {
     "id": "3tkbjyAmQnGsD52Rn8TCX8",
     "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
+    "duration_ms": 204160,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 133.918,
@@ -118,6 +130,9 @@
   {
     "id": "1dJW3gCxhkrfRwbgqN8c82",
     "name": "Infatuation (Interlude)",
+    "duration_ms": 48386,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 65.858,
@@ -147,6 +162,9 @@
   {
     "id": "2DtlsG1WkjGo4TWd2W2GEu",
     "name": "N2U (feat. Khujo Goodie)",
+    "duration_ms": 220840,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 178.967,
@@ -176,6 +194,9 @@
   {
     "id": "18uAu5gCnoGGNYQu8LeAr1",
     "name": "Morris Brown (feat. Scar & Sleepy Brown)",
+    "duration_ms": 264400,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 94.216,
@@ -205,6 +226,9 @@
   {
     "id": "0rZTj6vFpLrQ4z9PKQIqM4",
     "name": "Chronomentrophobia",
+    "duration_ms": 132440,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 95.012,
@@ -234,6 +258,9 @@
   {
     "id": "07pR6i9nh9twbSYzNOftnq",
     "name": "The Train (feat. Scar & Sleepy Brown)",
+    "duration_ms": 249853,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 104.675,
@@ -263,6 +290,9 @@
   {
     "id": "2R1SRDwGigeyMDxW4ItWNh",
     "name": "Life Is Like A Musical",
+    "duration_ms": 134306,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 114.01,
@@ -292,6 +322,9 @@
   {
     "id": "6hyCMKk7d2TTUHuDpytD1X",
     "name": "No Bootleg DVDs (Interlude)",
+    "duration_ms": 50280,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 119.505,
@@ -321,6 +354,9 @@
   {
     "id": "1gZZyC3EEw8hwqoYRZqypC",
     "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
+    "duration_ms": 323000,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 88.368,
@@ -350,6 +386,9 @@
   {
     "id": "2wrFXWGAn8BIJDH4ScjJj3",
     "name": "Zora (Interlude)",
+    "duration_ms": 16586,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 40.097,
@@ -379,6 +418,9 @@
   {
     "id": "0S9xsXyJUk0MlUjWdFyKDm",
     "name": "Call The Law (feat. Janelle Mon\u00e1e)",
+    "duration_ms": 291573,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 199.985,
@@ -408,6 +450,9 @@
   {
     "id": "0Px0GJDOAAmeFl2xMxoRlE",
     "name": "Bamboo & Cross (Interlude)",
+    "duration_ms": 54626,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 67.436,
@@ -437,6 +482,9 @@
   {
     "id": "0QeiAR5awSroueLZrcWTaO",
     "name": "BuggFace",
+    "duration_ms": 165706,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 104.793,
@@ -466,6 +514,9 @@
   {
     "id": "3Sk9NCDuE1FSE9xvdE7kcB",
     "name": "Makes No Sense At All",
+    "duration_ms": 173560,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 139.784,
@@ -495,6 +546,9 @@
   {
     "id": "1f8qvpRcmCIDavCcgi2wFI",
     "name": "In Your Dreams (feat. Killer Mike & Janelle Mon\u00e1e)",
+    "duration_ms": 214600,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 103.07,
@@ -524,6 +578,9 @@
   {
     "id": "0lzddKNsDl95mALLIlwoqO",
     "name": "PJ & Rooster",
+    "duration_ms": 267800,
+    "explicit": true,
+    "track_number": 19,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 186.374,
@@ -553,6 +610,9 @@
   {
     "id": "3kygxxgYUR3GwLoW8CUJaY",
     "name": "Mutron Angel (feat. Whild Peach)",
+    "duration_ms": 258213,
+    "explicit": false,
+    "track_number": 20,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 72.964,
@@ -582,6 +642,9 @@
   {
     "id": "2zb4qBdkvCBDGGwFrHOz47",
     "name": "Greatest Show On Earth (feat. Macy Gray)",
+    "duration_ms": 186826,
+    "explicit": true,
+    "track_number": 21,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 115.955,
@@ -611,6 +674,9 @@
   {
     "id": "0V7gBWE1PzUKHfndqEx8yo",
     "name": "You're Beautiful (Interlude)",
+    "duration_ms": 29773,
+    "explicit": false,
+    "track_number": 22,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 75.649,
@@ -640,6 +706,9 @@
   {
     "id": "3mriMBfcWiaEOcEq3nczBP",
     "name": "When I Look In Your Eyes",
+    "duration_ms": 163413,
+    "explicit": false,
+    "track_number": 23,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 89.733,
@@ -669,6 +738,9 @@
   {
     "id": "325JG1noGUYwgXocoVSBZW",
     "name": "Dyin' To Live",
+    "duration_ms": 127600,
+    "explicit": false,
+    "track_number": 24,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 100.233,
@@ -698,6 +770,9 @@
   {
     "id": "33mPnYecWQpmUkuo35mcmt",
     "name": "A Bad Note",
+    "duration_ms": 527200,
+    "explicit": false,
+    "track_number": 25,
     "artist": "Outkast",
     "album": "Idlewild",
     "bpm": 103.93,

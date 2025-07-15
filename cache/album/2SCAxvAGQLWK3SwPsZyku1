@@ -2,6 +2,9 @@
   {
     "id": "2Ma12h5UbOSZ5j7eApuDZO",
     "name": "Wildblood",
+    "duration_ms": 413400,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Caspian",
     "album": "On Circles",
     "bpm": 104.264,
@@ -31,6 +34,9 @@
   {
     "id": "7zm3jtYSVYtVlJecYLf7gS",
     "name": "Flowers of Light",
+    "duration_ms": 301933,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Caspian",
     "album": "On Circles",
     "bpm": 144.012,
@@ -60,6 +66,9 @@
   {
     "id": "7xZPglcBiHUEVWUdqPHUTA",
     "name": "Nostalgist",
+    "duration_ms": 356337,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Caspian",
     "album": "On Circles",
     "bpm": 120.005,
@@ -89,6 +98,9 @@
   {
     "id": "085jDEvdc1UJZwTodBeEtH",
     "name": "Division Blues",
+    "duration_ms": 421924,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Caspian",
     "album": "On Circles",
     "bpm": 117.839,
@@ -118,6 +130,9 @@
   {
     "id": "2SSNLASWS22gajVPVL2QvY",
     "name": "Onsra",
+    "duration_ms": 286772,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Caspian",
     "album": "On Circles",
     "bpm": 119.976,
@@ -147,6 +162,9 @@
   {
     "id": "4RxnHUWDTLbxFRJjCrCzuF",
     "name": "Collapser",
+    "duration_ms": 265390,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Caspian",
     "album": "On Circles",
     "bpm": 124.909,
@@ -176,6 +194,9 @@
   {
     "id": "1da1f9RuqlTD1OS1oiCgu0",
     "name": "Ishmael",
+    "duration_ms": 479483,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Caspian",
     "album": "On Circles",
     "bpm": 129.856,
@@ -205,6 +226,9 @@
   {
     "id": "5hlOOpWL0Q8Vy5ufQLJ4Vk",
     "name": "Circles on Circles",
+    "duration_ms": 255892,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Caspian",
     "album": "On Circles",
     "bpm": 154.652,

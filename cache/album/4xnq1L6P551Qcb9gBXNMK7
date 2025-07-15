@@ -2,6 +2,9 @@
   {
     "id": "0NkkbKSzQ50mAoSUbQpgLw",
     "name": "Me and Your Mama",
+    "duration_ms": 379226,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
     "bpm": 117.999,
@@ -31,6 +34,9 @@
   {
     "id": "4l5ioHe897vm5VZa242bvK",
     "name": "Have Some Love",
+    "duration_ms": 224253,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
     "bpm": 148.098,
@@ -60,6 +66,9 @@
   {
     "id": "1BO2XRaBKzRxdFTA9Uu4fP",
     "name": "Boogieman",
+    "duration_ms": 216840,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
     "bpm": 88.009,
@@ -89,6 +98,9 @@
   {
     "id": "6tyS9WO74s7Q1fvyNaiQxN",
     "name": "Zombies",
+    "duration_ms": 281813,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
     "bpm": 80.045,
@@ -118,6 +130,9 @@
   {
     "id": "64HVhNulgXVUhlDh2wQPiW",
     "name": "Riot",
+    "duration_ms": 125120,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
     "bpm": 91.319,
@@ -147,6 +162,9 @@
   {
     "id": "3vQ4T78TTMOjQXGfXVKQJo",
     "name": "Redbone",
+    "duration_ms": 326933,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
     "bpm": 160.037,
@@ -176,6 +194,9 @@
   {
     "id": "4DIEa7hkjMrXZrFduR8Yhy",
     "name": "California",
+    "duration_ms": 165266,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
     "bpm": 148.913,
@@ -205,6 +226,9 @@
   {
     "id": "1YtL1zAWrSxpZUOqfmPbc5",
     "name": "Terrified",
+    "duration_ms": 255466,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
     "bpm": 140.029,
@@ -234,6 +258,9 @@
   {
     "id": "3icv5yfawQSwRPwVvBdHas",
     "name": "Baby Boy",
+    "duration_ms": 382093,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
     "bpm": 200.035,
@@ -263,6 +290,9 @@
   {
     "id": "2EBhNNIqdbejkNqqOnok4c",
     "name": "The Night Me and Your Mama Met",
+    "duration_ms": 214080,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
     "bpm": 133.988,
@@ -292,6 +322,9 @@
   {
     "id": "0LZguZAhdvKzUC9Qlt67EM",
     "name": "Stand Tall",
+    "duration_ms": 370773,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
     "bpm": 87.973,

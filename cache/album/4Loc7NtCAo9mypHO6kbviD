@@ -2,6 +2,9 @@
   {
     "id": "4NNY96bKp53diWJ3DWZ1fX",
     "name": "Jeopardy",
+    "duration_ms": 201986,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "bpm": 179.773,
@@ -31,6 +34,9 @@
   {
     "id": "6n21ivR9Tit58lZhttB2HZ",
     "name": "Oh My Darling Don't Cry",
+    "duration_ms": 204840,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "bpm": 100.482,
@@ -60,6 +66,9 @@
   {
     "id": "4IkDkZxo0UamwkH3iunJRC",
     "name": "Blockbuster Night, Pt. 1",
+    "duration_ms": 152253,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "bpm": 151.612,
@@ -89,6 +98,9 @@
   {
     "id": "69boulENxqb2MYuIDxlbFA",
     "name": "Close Your Eyes (And Count To Fuck)",
+    "duration_ms": 234160,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "bpm": 79.998,
@@ -118,6 +130,9 @@
   {
     "id": "0jm26zGVmtEU0j2seFhoM4",
     "name": "All My Life",
+    "duration_ms": 187973,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "bpm": 120.024,
@@ -147,6 +162,9 @@
   {
     "id": "6nlwNXpU0wh9CzGrVVr8i6",
     "name": "Lie, Cheat, Steal",
+    "duration_ms": 208466,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "bpm": 166.102,
@@ -176,6 +194,9 @@
   {
     "id": "38kNGmqmgR3PvyYuxFgyeB",
     "name": "Early",
+    "duration_ms": 224066,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "bpm": 120.014,
@@ -205,6 +226,9 @@
   {
     "id": "7MNVHiFQ6oTVpaPwlkCXpE",
     "name": "All Due Respect",
+    "duration_ms": 167840,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "bpm": 142.774,
@@ -234,6 +258,9 @@
   {
     "id": "107ojD9dVjatTQTq1AgCUl",
     "name": "Love Again (Akinyele Back)",
+    "duration_ms": 225093,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "bpm": 145.938,
@@ -263,6 +290,9 @@
   {
     "id": "4jvWdrWu68yFTEH8OFI8da",
     "name": "Crown",
+    "duration_ms": 225720,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "bpm": 164.986,
@@ -292,6 +322,9 @@
   {
     "id": "5fjHhxBN5l7A8Flwm06XPu",
     "name": "Angel Duster",
+    "duration_ms": 309173,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "bpm": 175.677,
@@ -321,6 +354,9 @@
   {
     "id": "67b7rZ4qRyVls0TuWBa5vb",
     "name": "Blockbuster Night, Pt. 2 - Bonus Track",
+    "duration_ms": 159080,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "bpm": 78.727,

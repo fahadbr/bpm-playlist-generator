@@ -2,6 +2,9 @@
   {
     "id": "2Gnsof1hvZzjE1xdLRpjtf",
     "name": "Over My Dead Body",
+    "duration_ms": 272573,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 185.516,
@@ -31,6 +34,9 @@
   {
     "id": "6Z01gUquJsjJC67uNWm6P0",
     "name": "Shot For Me",
+    "duration_ms": 224720,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 143.015,
@@ -60,6 +66,9 @@
   {
     "id": "6LxSe8YmdPxy095Ux6znaQ",
     "name": "Headlines",
+    "duration_ms": 235986,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 151.894,
@@ -89,6 +98,9 @@
   {
     "id": "0V4l4GQhgnWQGtCWpvA7va",
     "name": "Crew Love",
+    "duration_ms": 208813,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 160.152,
@@ -118,6 +130,9 @@
   {
     "id": "124NFj84ppZ5pAxTuVQYCQ",
     "name": "Take Care",
+    "duration_ms": 277386,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 121.845,
@@ -147,6 +162,9 @@
   {
     "id": "047fCsbO4NdmwCBn8pcUXl",
     "name": "Marvins Room",
+    "duration_ms": 347226,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 111.519,
@@ -176,6 +194,9 @@
   {
     "id": "1ZyudLFv35SRvY5SvTZqJx",
     "name": "Buried Alive Interlude",
+    "duration_ms": 150960,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 102.01,
@@ -205,6 +226,9 @@
   {
     "id": "1D9XLqQp2YYiOxrr5KLb8K",
     "name": "Under Ground Kings",
+    "duration_ms": 212613,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 156.209,
@@ -234,6 +258,9 @@
   {
     "id": "7udsBKuqnJ5csWTAkR0vEI",
     "name": "We'll Be Fine",
+    "duration_ms": 247946,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 193.397,
@@ -263,6 +290,9 @@
   {
     "id": "7yfg0Eer6UZZt5tZ1XdsWz",
     "name": "Make Me Proud",
+    "duration_ms": 219893,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 131.913,
@@ -292,6 +322,9 @@
   {
     "id": "1QBwk6GTCxVdC2hoSw9tlM",
     "name": "Lord Knows",
+    "duration_ms": 307640,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 167.579,
@@ -321,6 +354,9 @@
   {
     "id": "2FbGlEPAjNhWvrVvlentVq",
     "name": "Cameras / Good Ones Go Interlude - Medley",
+    "duration_ms": 434960,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 139.92,
@@ -350,6 +386,9 @@
   {
     "id": "4eSGSqP2TZvvX0kadZZttM",
     "name": "Doing It Wrong",
+    "duration_ms": 265120,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 101.275,
@@ -379,6 +418,9 @@
   {
     "id": "74atKkOasLOVzvqB6mYgga",
     "name": "The Real Her",
+    "duration_ms": 321080,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 65.041,
@@ -408,6 +450,9 @@
   {
     "id": "7t1lBIr3WIEtqQEOdZFMUf",
     "name": "Look What You've Done",
+    "duration_ms": 301960,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 134.369,
@@ -437,6 +482,9 @@
   {
     "id": "0m1KYWlT6LhFRBDVq9UNx4",
     "name": "HYFR (Hell Ya Fucking Right)",
+    "duration_ms": 206626,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 98.21,
@@ -466,6 +514,9 @@
   {
     "id": "0jF2AdhsalO1L7KkhK4LE5",
     "name": "Practice",
+    "duration_ms": 237733,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 104.675,
@@ -495,6 +546,9 @@
   {
     "id": "4xRxYWgAtL6pzRz94GlZlA",
     "name": "The Ride",
+    "duration_ms": 351000,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 155.948,
@@ -524,6 +578,9 @@
   {
     "id": "4Kz4RdRCceaA9VgTqBhBfa",
     "name": "The Motto",
+    "duration_ms": 181573,
+    "explicit": true,
+    "track_number": 19,
     "artist": "Drake",
     "album": "Take Care (Deluxe)",
     "bpm": 201.8,

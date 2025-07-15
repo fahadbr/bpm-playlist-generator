@@ -2,6 +2,9 @@
   {
     "id": "5qN4HFkapdAOV94XPryVof",
     "name": "Black Panther",
+    "duration_ms": 130613,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 90.035,
@@ -31,6 +34,9 @@
   {
     "id": "3GCdLUSnKSMJhs4Tj6CV3s",
     "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
+    "duration_ms": 232186,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 96.782,
@@ -60,6 +66,9 @@
   {
     "id": "4LmAnpjlhWTahvRkYR8xJa",
     "name": "X (with 2 Chainz & Saudi)",
+    "duration_ms": 267426,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 131.018,
@@ -89,6 +98,9 @@
   {
     "id": "5jyyPsIGM2yqkZN9R3TmvN",
     "name": "The Ways (with Swae Lee)",
+    "duration_ms": 238893,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 140.08,
@@ -118,6 +130,9 @@
   {
     "id": "7bUcBztfGqO7cSI2gMZeCI",
     "name": "Opps (with Yugen Blakrok)",
+    "duration_ms": 180893,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 127.929,
@@ -147,6 +162,9 @@
   {
     "id": "0DJBgBiYeSn6n1AXAkFVE8",
     "name": "I Am",
+    "duration_ms": 208760,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 148.776,
@@ -176,6 +194,9 @@
   {
     "id": "2tPcTFiQF9MbVUyjZ3zDhA",
     "name": "Paramedic!",
+    "duration_ms": 219306,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 97.017,
@@ -205,6 +226,9 @@
   {
     "id": "4KXwFI9pgJLpUIAc9oSL8j",
     "name": "Bloody Waters (with Anderson .Paak & James Blake)",
+    "duration_ms": 272306,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 180.593,
@@ -234,6 +258,9 @@
   {
     "id": "1eLSF6HfrRA0AsNmTkUlKx",
     "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+    "duration_ms": 225266,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 81.772,
@@ -263,6 +290,9 @@
   {
     "id": "4FpfU1O7WCLBnmwu5XAFk4",
     "name": "Redemption Interlude",
+    "duration_ms": 85266,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 121.164,
@@ -292,6 +322,9 @@
   {
     "id": "76iVOVsliCHlWqKuDnCfhE",
     "name": "Redemption (with Babes Wodumo)",
+    "duration_ms": 222093,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 125.062,
@@ -321,6 +354,9 @@
   {
     "id": "35cOyocq8Gb6UcT0NWeTwn",
     "name": "Seasons (with Sjava & Reason)",
+    "duration_ms": 242293,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 126.698,
@@ -350,6 +386,9 @@
   {
     "id": "5cXg9IQS34FzLVdHhp7hu7",
     "name": "Big Shot (with Travis Scott)",
+    "duration_ms": 221826,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 130.018,
@@ -379,6 +418,9 @@
   {
     "id": "77UjLW8j5UAGAGVGhR5oUK",
     "name": "Pray For Me (with Kendrick Lamar)",
+    "duration_ms": 211440,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Kendrick Lamar",
     "album": "Black Panther The Album Music From And Inspired By",
     "bpm": 100.563,

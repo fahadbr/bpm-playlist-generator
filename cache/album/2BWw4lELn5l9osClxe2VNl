@@ -2,6 +2,9 @@
   {
     "id": "7LBV1cSALOE3hS6FuEJ6CO",
     "name": "cGPA",
+    "duration_ms": 188000,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Maanu",
     "album": "Yain City",
     "bpm": 120.011,
@@ -31,6 +34,9 @@
   {
     "id": "5kXsMjQCNMzK4EWpvo4z00",
     "name": "Darwaazay",
+    "duration_ms": 231360,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Maanu",
     "album": "Yain City",
     "bpm": 124.995,
@@ -60,6 +66,9 @@
   {
     "id": "5ItI94kMJyar06SjlNDFuH",
     "name": "Khwaab",
+    "duration_ms": 242400,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Maanu",
     "album": "Yain City",
     "bpm": 100.099,
@@ -89,6 +98,9 @@
   {
     "id": "0ozfWxN3w0dhXdN5XmIT20",
     "name": "Aik Khata",
+    "duration_ms": 182792,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Maanu",
     "album": "Yain City",
     "bpm": 108.038,
@@ -118,6 +130,9 @@
   {
     "id": "5SZt0NYBWnuRGMfTIr5rOk",
     "name": "Meray Dil Se",
+    "duration_ms": 197223,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Maanu",
     "album": "Yain City",
     "bpm": 102.95,
@@ -147,6 +162,9 @@
   {
     "id": "4oUGOE1oIUkvf1zTFknoxA",
     "name": "MOGAMBO",
+    "duration_ms": 185862,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Maanu",
     "album": "Yain City",
     "bpm": 174.139,
@@ -176,6 +194,9 @@
   {
     "id": "4i7KCSjzAcGCscpjYpHZ5Q",
     "name": "Pak Sar Zameen",
+    "duration_ms": 220319,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Maanu",
     "album": "Yain City",
     "bpm": 158.943,
@@ -205,6 +226,9 @@
   {
     "id": "69549dazlw8DxfHD6YyZR8",
     "name": "Outro",
+    "duration_ms": 172941,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Maanu",
     "album": "Yain City",
     "bpm": 84.654,

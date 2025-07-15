@@ -2,6 +2,9 @@
   {
     "id": "1kugDGBrWgWwZomAAtYvnB",
     "name": "Bedtime Serenade for Little Ones",
+    "duration_ms": 181090,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Relaxing Music For Kids",
     "album": "Calm Sleep Music for Kids",
     "bpm": 71.322,
@@ -31,6 +34,9 @@
   {
     "id": "6aPl2RJPJvSeEoinAQfvzi",
     "name": "Calming Clouds of Slumber",
+    "duration_ms": 194210,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Relaxing Music For Kids",
     "album": "Calm Sleep Music for Kids",
     "bpm": 113.969,
@@ -60,6 +66,9 @@
   {
     "id": "0nMQBFvg2EZoy7Zqw5TeE8",
     "name": "Dreamy Sleepscape",
+    "duration_ms": 194400,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Relaxing Music For Kids",
     "album": "Calm Sleep Music for Kids",
     "bpm": 100.023,
@@ -89,6 +98,9 @@
   {
     "id": "7xPKWQg0QbEyLsbk3qD8eZ",
     "name": "Gentle Slumber Sonata",
+    "duration_ms": 194000,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Relaxing Music For Kids",
     "album": "Calm Sleep Music for Kids",
     "bpm": 119.983,
@@ -118,6 +130,9 @@
   {
     "id": "2Z9dJWoA3gNuQWqtow393B",
     "name": "Lullaby Whispers for Sweet Dreams",
+    "duration_ms": 192000,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Relaxing Music For Kids",
     "album": "Calm Sleep Music for Kids",
     "bpm": 105.008,
@@ -147,6 +162,9 @@
   {
     "id": "6wOVTEdEbQrWhpmtV3R8jn",
     "name": "Peaceful Naptime Melodies",
+    "duration_ms": 194727,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Relaxing Music For Kids",
     "album": "Calm Sleep Music for Kids",
     "bpm": 119.961,
@@ -176,6 +194,9 @@
   {
     "id": "1K20aWE1hKKY1uZ3FzVXew",
     "name": "Relaxing Raindrops for Kids Sleep",
+    "duration_ms": 210000,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Relaxing Music For Kids",
     "album": "Calm Sleep Music for Kids",
     "bpm": 59.97,
@@ -205,6 +226,9 @@
   {
     "id": "02yqD7KFC8J1iuMt3jRtNC",
     "name": "Sleepy Stars in Dreamland",
+    "duration_ms": 205090,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Relaxing Music For Kids",
     "album": "Calm Sleep Music for Kids",
     "bpm": 110.008,
@@ -234,6 +258,9 @@
   {
     "id": "3w4DW8l9EveaTNW1Y7AcQu",
     "name": "Soothing Dreams for Children",
+    "duration_ms": 216000,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Relaxing Music For Kids",
     "album": "Calm Sleep Music for Kids",
     "bpm": 100.026,
@@ -263,6 +290,9 @@
   {
     "id": "4ilIZ1FyNUyOTtlzvDSvbZ",
     "name": "Tranquil Twilight Tunes",
+    "duration_ms": 199800,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Relaxing Music For Kids",
     "album": "Calm Sleep Music for Kids",
     "bpm": 99.962,

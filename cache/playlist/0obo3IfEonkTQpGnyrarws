@@ -2,6 +2,9 @@
   {
     "id": "2d8JP84HNLKhmd6IYOoupQ",
     "name": "Trap Queen",
+    "duration_ms": 222093,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Fetty Wap",
     "album": "Fetty Wap (Deluxe)",
     "playlist": "windham trip",
@@ -32,6 +35,9 @@
   {
     "id": "5f9JYuHSIHjp6rggue13RS",
     "name": "Mahogany",
+    "duration_ms": 177866,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Lil Wayne",
     "album": "Funeral",
     "playlist": "windham trip",
@@ -62,6 +68,9 @@
   {
     "id": "2gYnjDEz020IZvYcyTLWck",
     "name": "Fly Like an Eagle",
+    "duration_ms": 253773,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Seal",
     "album": "Space Jam (Music From And Inspired By The Motion Picture)",
     "playlist": "windham trip",
@@ -92,6 +101,9 @@
   {
     "id": "2ouURa1AIXp3AvkS52Jry5",
     "name": "Every Morning",
+    "duration_ms": 219866,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Sugar Ray",
     "album": "14:59",
     "playlist": "windham trip",
@@ -122,6 +134,9 @@
   {
     "id": "4KfSdst7rW39C0sfhArdrz",
     "name": "Barracuda",
+    "duration_ms": 261933,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Heart",
     "album": "Little Queen",
     "playlist": "windham trip",
@@ -152,8 +167,12 @@
   {
     "id": "00NAQYOP4AmWR549nnYJZu",
     "name": "Secrets",
+    "duration_ms": 265600,
+    "explicit": false,
+    "track_number": 6,
     "artist": "The Weeknd",
     "album": "Starboy",
+    "playlist": "windham trip",
     "bpm": 109.949,
     "features": [
       {
@@ -181,8 +200,12 @@
   {
     "id": "0e7ipj03S05BNilyu5bRzt",
     "name": "rockstar (feat. 21 Savage)",
+    "duration_ms": 218146,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Post Malone",
     "album": "beerbongs & bentleys",
+    "playlist": "windham trip",
     "bpm": 159.798,
     "features": [
       {
@@ -210,6 +233,9 @@
   {
     "id": "7eW9cHOAHmYqphs5tWXETw",
     "name": "Clique",
+    "duration_ms": 293613,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kanye West",
     "album": "Kanye West Presents Good Music Cruel Summer",
     "playlist": "windham trip",
@@ -240,8 +266,12 @@
   {
     "id": "3XClLzrEPTpHHKOhzhifzz",
     "name": "Starz In Their Eyes",
+    "duration_ms": 297973,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Just Jack",
     "album": "Overtones",
+    "playlist": "windham trip",
     "bpm": 123.773,
     "features": [
       {
@@ -269,6 +299,9 @@
   {
     "id": "6gpcs5eMhJwax4mIfKDYQk",
     "name": "Slide (feat. Frank Ocean & Migos)",
+    "duration_ms": 230813,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Calvin Harris",
     "album": "Slide (feat. Frank Ocean & Migos)",
     "playlist": "windham trip",
@@ -299,8 +332,12 @@
   {
     "id": "2LzyUfJdRp3uqTrITBJXEY",
     "name": "Bottom of the River",
+    "duration_ms": 202520,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
+    "playlist": "windham trip",
     "bpm": 74.672,
     "features": [
       {
@@ -328,6 +365,9 @@
   {
     "id": "1PS1QMdUqOal0ai3Gt7sDQ",
     "name": "Gold Digger",
+    "duration_ms": 207626,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kanye West",
     "album": "Late Registration",
     "playlist": "windham trip",
@@ -358,8 +398,12 @@
   {
     "id": "3cld8uMQZok9Z8TCw041zF",
     "name": "Arcs of Command",
+    "duration_ms": 528773,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Caspian",
     "album": "Dust and Disquiet",
+    "playlist": "windham trip",
     "bpm": 190.867,
     "features": [
       {
@@ -387,6 +431,9 @@
   {
     "id": "5LTgI9VsuL3NKrv2WHBgNx",
     "name": "Have Some Love",
+    "duration_ms": 224253,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Childish Gambino",
     "album": "\"Awaken, My Love!\"",
     "playlist": "windham trip",
@@ -417,8 +464,12 @@
   {
     "id": "0N3W5peJUQtI4eyR6GJT5O",
     "name": "King Kunta",
+    "duration_ms": 234693,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
+    "playlist": "windham trip",
     "bpm": 107.059,
     "features": [
       {
@@ -446,8 +497,12 @@
   {
     "id": "503OTo2dSqe7qk76rgsbep",
     "name": "Still D.R.E.",
+    "duration_ms": 270586,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Dr. Dre",
     "album": "2001",
+    "playlist": "windham trip",
     "bpm": 93.431,
     "features": [
       {
@@ -475,8 +530,12 @@
   {
     "id": "1YscJ7yVTlFxW3eF6pv5ba",
     "name": "Allergic",
+    "duration_ms": 156893,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
+    "playlist": "windham trip",
     "bpm": 144.968,
     "features": [
       {
@@ -504,8 +563,12 @@
   {
     "id": "0AtP8EkGPn6SwxKDaUuXec",
     "name": "Remember The Name (feat. Eminem & 50 Cent)",
+    "duration_ms": 207760,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
+    "playlist": "windham trip",
     "bpm": 91.046,
     "features": [
       {
@@ -533,6 +596,9 @@
   {
     "id": "4sjLcE0GQ6urc4iUXsUPe9",
     "name": "Kings And Queens",
+    "duration_ms": 347666,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Thirty Seconds To Mars",
     "album": "This Is War",
     "playlist": "windham trip",

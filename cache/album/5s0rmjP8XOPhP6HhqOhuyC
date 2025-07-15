@@ -2,6 +2,9 @@
   {
     "id": "5BoOzegGrg5XFRR8UBDtkF",
     "name": "Broken Whiskey Glass",
+    "duration_ms": 233813,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 99.905,
@@ -31,6 +34,9 @@
   {
     "id": "02opp1cycqiFNDpLd2o1J3",
     "name": "Big Lie",
+    "duration_ms": 207680,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 170.862,
@@ -60,6 +66,9 @@
   {
     "id": "0H8XeaJunhvpBdBFIYi6Sh",
     "name": "Deja Vu",
+    "duration_ms": 234213,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 133.932,
@@ -89,6 +98,9 @@
   {
     "id": "6M0IsaUX4GNyto4niSegfI",
     "name": "No Option",
+    "duration_ms": 179826,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 83.983,
@@ -118,6 +130,9 @@
   {
     "id": "1QWmKmqhv5zcsS3v45FNl0",
     "name": "Cold",
+    "duration_ms": 268933,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 133.008,
@@ -147,6 +162,9 @@
   {
     "id": "6eT7xZZlB2mwyzJ2sUKG6w",
     "name": "White Iverson",
+    "duration_ms": 256532,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 130.098,
@@ -176,6 +194,9 @@
   {
     "id": "75ZvA4QfFiZvzhj2xkaWAh",
     "name": "I Fall Apart",
+    "duration_ms": 223346,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 143.946,
@@ -205,6 +226,9 @@
   {
     "id": "5DLTuH4A5VZB2HKpqHQR6t",
     "name": "Patient",
+    "duration_ms": 194333,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 89.975,
@@ -234,6 +258,9 @@
   {
     "id": "5yuShbu70mtHXY0yLzCQLQ",
     "name": "Go Flex",
+    "duration_ms": 179613,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 81.958,
@@ -263,6 +290,9 @@
   {
     "id": "7MTIDmToGs0I5Oue9V0CHl",
     "name": "Feel",
+    "duration_ms": 197120,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 119.377,
@@ -292,6 +322,9 @@
   {
     "id": "4SYUUlkScpNR1QvPscXf8t",
     "name": "Too Young",
+    "duration_ms": 237146,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 123.035,
@@ -321,6 +354,9 @@
   {
     "id": "3a1lNhkSLSkpJE4MSHpDu9",
     "name": "Congratulations",
+    "duration_ms": 220293,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 123.146,
@@ -350,6 +386,9 @@
   {
     "id": "2rKmNEYrQxaOPZrOWKZpOc",
     "name": "Up There",
+    "duration_ms": 194826,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 72.975,
@@ -379,6 +418,9 @@
   {
     "id": "0LpiKjWMfZTkPPHonlM8nB",
     "name": "Yours Truly, Austin Post",
+    "duration_ms": 219146,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 125.976,
@@ -408,6 +450,9 @@
   {
     "id": "5dI1yHSqgmilFEqpGbqxHh",
     "name": "Leave",
+    "duration_ms": 324853,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 90.086,
@@ -437,6 +482,9 @@
   {
     "id": "61jnrkPHpLumBf1kqGpRRt",
     "name": "Hit This Hard",
+    "duration_ms": 249026,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 139.99,
@@ -466,6 +514,9 @@
   {
     "id": "1ysAvOdJgUjc6CqOQxepaz",
     "name": "Money Made Me Do It",
+    "duration_ms": 224960,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 83.025,
@@ -495,6 +546,9 @@
   {
     "id": "35r28RDot7nPE7y9K9H7l0",
     "name": "Feeling Whitney",
+    "duration_ms": 257265,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Post Malone",
     "album": "Stoney (Deluxe)",
     "bpm": 80.111,

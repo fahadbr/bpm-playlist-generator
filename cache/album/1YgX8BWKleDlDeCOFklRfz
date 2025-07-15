@@ -2,6 +2,9 @@
   {
     "id": "74LujaXmzGQi5wRZ2HFh0G",
     "name": "Holy Mountain (feat. Buju Banton, Sizzla, Mavado & 070 Shake)",
+    "duration_ms": 294800,
+    "explicit": true,
+    "track_number": 1,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 145.53,
@@ -31,6 +34,9 @@
   {
     "id": "1Hd2XLitkt1PYCWSbfF5qV",
     "name": "Wish Wish (feat. Cardi B & 21 Savage)",
+    "duration_ms": 202625,
+    "explicit": true,
+    "track_number": 2,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 145.041,
@@ -60,6 +66,9 @@
   {
     "id": "6Dq8FZrvx9S28iyaKSwn9x",
     "name": "Jealous (feat. Chris Brown, Lil Wayne & Big Sean)",
+    "duration_ms": 255101,
+    "explicit": true,
+    "track_number": 3,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 94.9,
@@ -89,6 +98,9 @@
   {
     "id": "0BnTBAGmr9FtYwkZrwKhwS",
     "name": "Just Us (feat. SZA)",
+    "duration_ms": 221378,
+    "explicit": true,
+    "track_number": 4,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 93.132,
@@ -118,6 +130,9 @@
   {
     "id": "4U6ubKsTd8RBDP5tPPhh7I",
     "name": "You Stay (feat. Meek Mill, J Balvin, Lil Baby & Jeremih)",
+    "duration_ms": 275275,
+    "explicit": true,
+    "track_number": 5,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 117.988,
@@ -147,6 +162,9 @@
   {
     "id": "0b6UoVjUzFyZNpHI0aAhKt",
     "name": "Celebrate (feat. Travis Scott & Post Malone)",
+    "duration_ms": 206498,
+    "explicit": false,
+    "track_number": 6,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 67.4,
@@ -176,6 +194,9 @@
   {
     "id": "6O10oTtZIZ4DkkUqyfCbrR",
     "name": "Higher (feat. Nipsey Hussle & John Legend)",
+    "duration_ms": 176874,
+    "explicit": true,
+    "track_number": 7,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 83.655,
@@ -205,6 +226,9 @@
   {
     "id": "3ErERvCgbRm3KCEc58w5za",
     "name": "Won't Take My Soul (feat. Nas & CeeLo Green)",
+    "duration_ms": 259360,
+    "explicit": true,
+    "track_number": 8,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 174.397,
@@ -234,6 +258,9 @@
   {
     "id": "6xVhqLT40s5sVhepe9Mckc",
     "name": "Weather the Storm (feat. Meek Mill & Lil Baby)",
+    "duration_ms": 153337,
+    "explicit": true,
+    "track_number": 9,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 76.069,
@@ -263,6 +290,9 @@
   {
     "id": "6L8MHp94PFckbkfZm2foUJ",
     "name": "Big Boy Talk (feat. Jeezy & Rick Ross)",
+    "duration_ms": 165870,
+    "explicit": true,
+    "track_number": 10,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 78.264,
@@ -292,6 +322,9 @@
   {
     "id": "7C0BHTRLmWUONc8OYjOPdW",
     "name": "Freak N You (feat. Lil Wayne & Gunna)",
+    "duration_ms": 186360,
+    "explicit": true,
+    "track_number": 11,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 91.023,
@@ -321,6 +354,9 @@
   {
     "id": "0QzliuYF4qRMXI76GwepXq",
     "name": "Top Off (feat. JAY Z, Future & Beyonc\u00e9)",
+    "duration_ms": 230712,
+    "explicit": true,
+    "track_number": 12,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 86.695,
@@ -350,6 +386,9 @@
   {
     "id": "03nPEoQOYMuDe7KmGljpmd",
     "name": "No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",
+    "duration_ms": 260000,
+    "explicit": true,
+    "track_number": 13,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 135.543,
@@ -379,6 +418,9 @@
   {
     "id": "6H4vsxNsm2NsV8pBAb5WnU",
     "name": "Thank You (feat. Big Sean)",
+    "duration_ms": 188715,
+    "explicit": true,
+    "track_number": 14,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 89.895,
@@ -408,6 +450,9 @@
   {
     "id": "1LZPELQqai6rO6JgvZtElr",
     "name": "Holy Ground (feat. Buju Banton)",
+    "duration_ms": 197833,
+    "explicit": true,
+    "track_number": 15,
     "artist": "DJ Khaled",
     "album": "Father Of Asahd",
     "bpm": 170.186,

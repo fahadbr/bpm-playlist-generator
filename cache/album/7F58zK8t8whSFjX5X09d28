@@ -2,6 +2,9 @@
   {
     "id": "0CYxyBiRGHFIXyGXZg29Vq",
     "name": "Summer",
+    "duration_ms": 86986,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 121.586,
@@ -31,6 +34,9 @@
   {
     "id": "2zWZV7b1xu1qZPaMjavvpS",
     "name": "Mural",
+    "duration_ms": 528880,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 81.637,
@@ -60,6 +66,9 @@
   {
     "id": "7n0wEgykBLc5nlkB0g6mJo",
     "name": "Blur My Hands (feat. Guy Sebastian)",
+    "duration_ms": 327586,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 79.849,
@@ -89,6 +98,9 @@
   {
     "id": "0jYhHo2DhmdkLfonFbPixV",
     "name": "Dots & Lines",
+    "duration_ms": 392400,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 129.993,
@@ -118,6 +130,9 @@
   {
     "id": "7EnEzr8SoCabBTqEzKgwTI",
     "name": "Fall",
+    "duration_ms": 73840,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 85.052,
@@ -147,6 +162,9 @@
   {
     "id": "1dx9EdvyNujagtQzgNPPFC",
     "name": "Prisoner 1 & 2 (feat. Ayesha Jaco)",
+    "duration_ms": 516000,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 110.066,
@@ -176,6 +194,9 @@
   {
     "id": "29kD6fREiu9DKB8GVHzKBx",
     "name": "Body of Work (feat. Troi & Terrace Martin)",
+    "duration_ms": 353786,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 119.994,
@@ -205,6 +226,9 @@
   {
     "id": "4riHkCy5nkXvyxh4rUufKb",
     "name": "Little Death (feat. Nikki Jean)",
+    "duration_ms": 269266,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 113.743,
@@ -234,6 +258,9 @@
   {
     "id": "3FN3vKGrXWHr8vx6vXHyuv",
     "name": "No Scratches (feat. Nikki Jean)",
+    "duration_ms": 262026,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 160.028,
@@ -263,6 +290,9 @@
   {
     "id": "3KHUFog5hUXe7KmArEceSc",
     "name": "Winter",
+    "duration_ms": 91626,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 120.78,
@@ -292,6 +322,9 @@
   {
     "id": "4IU33qQwEkfP7rxlPc73UA",
     "name": "Chopper (feat. Billy Blue, Buk of Psychodrama, Trouble, Trae Tha Truth, Fam Lay & Glasses Malone)",
+    "duration_ms": 572546,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 122.014,
@@ -321,6 +354,9 @@
   {
     "id": "3oVZPCQErNdBbQVHlDuSFJ",
     "name": "Deliver",
+    "duration_ms": 232826,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 119.876,
@@ -350,6 +386,9 @@
   {
     "id": "4LBING8Cxea4rHavzy7sQ0",
     "name": "Madonna (And Other Mothers in the Hood) [feat. Nikki Jean]",
+    "duration_ms": 283120,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 127.077,
@@ -379,6 +418,9 @@
   {
     "id": "4L9f5OaFKcRMIX7Lmn1XxH",
     "name": "Adoration of the Magi (feat. Crystal \"R\u00f8v\u00e9l\" Torres)",
+    "duration_ms": 306093,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 119.945,
@@ -408,6 +450,9 @@
   {
     "id": "4y2fS5zuK5DuKKuVICYKV6",
     "name": "They.Resurrect.Over.New. (feat. Ab-Soul & Troi)",
+    "duration_ms": 338626,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 124.967,
@@ -437,6 +482,9 @@
   {
     "id": "55zQKeuPi9zdRNulmHyo7E",
     "name": "Spring",
+    "duration_ms": 95880,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Lupe Fiasco",
     "album": "Tetsuo & Youth",
     "bpm": 119.395,

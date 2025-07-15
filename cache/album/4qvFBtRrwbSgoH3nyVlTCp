@@ -2,6 +2,9 @@
   {
     "id": "0IwXp8V7wgFCIthRh2z8Ot",
     "name": "The Crane Wife 3",
+    "duration_ms": 258333,
+    "explicit": false,
+    "track_number": 1,
     "artist": "The Decemberists",
     "album": "The Crane Wife",
     "bpm": 119.536,
@@ -31,6 +34,9 @@
   {
     "id": "54sYjbTgO1tep1u24QMUyR",
     "name": "The Island: Come And See/The Landlord's Daughter/You'll Not Feel The Drowning",
+    "duration_ms": 746226,
+    "explicit": false,
+    "track_number": 2,
     "artist": "The Decemberists",
     "album": "The Crane Wife",
     "bpm": 124.787,
@@ -60,6 +66,9 @@
   {
     "id": "56mkN44UC6FDePPdWknUYj",
     "name": "Yankee Bayonet (I Will Be Home Then)",
+    "duration_ms": 258933,
+    "explicit": false,
+    "track_number": 3,
     "artist": "The Decemberists",
     "album": "The Crane Wife",
     "bpm": 115.314,
@@ -89,6 +98,9 @@
   {
     "id": "221bl0jrSfJ1LMgUw36zRJ",
     "name": "O Valencia!",
+    "duration_ms": 227906,
+    "explicit": false,
+    "track_number": 4,
     "artist": "The Decemberists",
     "album": "The Crane Wife",
     "bpm": 135.457,
@@ -118,6 +130,9 @@
   {
     "id": "6usYTysjrfOHrpYiVQSmzI",
     "name": "The Perfect Crime #2",
+    "duration_ms": 333066,
+    "explicit": false,
+    "track_number": 5,
     "artist": "The Decemberists",
     "album": "The Crane Wife",
     "bpm": 134.591,
@@ -147,6 +162,9 @@
   {
     "id": "5rE9qfo68jyjWXwED6uJnf",
     "name": "When The War Came",
+    "duration_ms": 306226,
+    "explicit": false,
+    "track_number": 6,
     "artist": "The Decemberists",
     "album": "The Crane Wife",
     "bpm": 121.44,
@@ -176,6 +194,9 @@
   {
     "id": "3XnmHCsBIO4cDW73UUrtkA",
     "name": "Shankill Butchers",
+    "duration_ms": 279600,
+    "explicit": false,
+    "track_number": 7,
     "artist": "The Decemberists",
     "album": "The Crane Wife",
     "bpm": 80.531,
@@ -205,6 +226,9 @@
   {
     "id": "5TfKCz3LqfmJI7qDTyVDo6",
     "name": "Summersong",
+    "duration_ms": 211373,
+    "explicit": false,
+    "track_number": 8,
     "artist": "The Decemberists",
     "album": "The Crane Wife",
     "bpm": 153.083,
@@ -234,6 +258,9 @@
   {
     "id": "46aW9C4d7mXZV0A1Mql6cD",
     "name": "The Crane Wife 1 & 2",
+    "duration_ms": 679893,
+    "explicit": false,
+    "track_number": 9,
     "artist": "The Decemberists",
     "album": "The Crane Wife",
     "bpm": 119.589,
@@ -263,6 +290,9 @@
   {
     "id": "721tATaNQPPGSuC3dYEI3h",
     "name": "Sons & Daughters",
+    "duration_ms": 313600,
+    "explicit": false,
+    "track_number": 10,
     "artist": "The Decemberists",
     "album": "The Crane Wife",
     "bpm": 115.117,
@@ -292,6 +322,9 @@
   {
     "id": "6NW3DhjURjkVquB91jy57i",
     "name": "Culling Of The Fold",
+    "duration_ms": 263933,
+    "explicit": false,
+    "track_number": 11,
     "artist": "The Decemberists",
     "album": "The Crane Wife",
     "bpm": 117.63,

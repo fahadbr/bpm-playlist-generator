@@ -2,6 +2,9 @@
   {
     "id": "2cZXlLwkRmDww37tbEygXl",
     "name": "Keys to the Kingdom",
+    "duration_ms": 218546,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
     "bpm": 184.011,
@@ -31,6 +34,9 @@
   {
     "id": "5Rcs3fREgibWujLUlUb8KA",
     "name": "All for Nothing (feat. Page Hamilton)",
+    "duration_ms": 213653,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
     "bpm": 159.974,
@@ -60,6 +66,9 @@
   {
     "id": "6L5QMBrydoaapTDMQ0Anui",
     "name": "Guilty All the Same (feat. Rakim)",
+    "duration_ms": 355120,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
     "bpm": 100.012,
@@ -89,6 +98,9 @@
   {
     "id": "7wHW68IXAO0vlhXv1PxKFJ",
     "name": "The Summoning",
+    "duration_ms": 60440,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
     "bpm": 143.747,
@@ -118,6 +130,9 @@
   {
     "id": "3h5gMWp1KJQkLBgCtG5EgH",
     "name": "War",
+    "duration_ms": 131160,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
     "bpm": 142.309,
@@ -147,6 +162,9 @@
   {
     "id": "3S8MFB68isPbRVgaU0MaIW",
     "name": "Wastelands",
+    "duration_ms": 195893,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
     "bpm": 169.77,
@@ -176,6 +194,9 @@
   {
     "id": "2n1jBz26dVBtSbMvJNjGsu",
     "name": "Until It's Gone",
+    "duration_ms": 233240,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
     "bpm": 114.986,
@@ -205,6 +226,9 @@
   {
     "id": "3zZ009FB8sc8JghwVrbLFq",
     "name": "Rebellion (feat. Daron Malakian)",
+    "duration_ms": 224160,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
     "bpm": 130.023,
@@ -234,6 +258,9 @@
   {
     "id": "16AFbRYIdpesOleGTKClHs",
     "name": "Mark the Graves",
+    "duration_ms": 305013,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
     "bpm": 134.94,
@@ -263,6 +290,9 @@
   {
     "id": "7MTDaY5oGjo4F8N5r7H8LT",
     "name": "Drawbar (feat. Tom Morello)",
+    "duration_ms": 166933,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
     "bpm": 68.462,
@@ -292,6 +322,9 @@
   {
     "id": "3aYBjxTMvrEOP0A0UXg9ER",
     "name": "Final Masquerade",
+    "duration_ms": 217613,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
     "bpm": 164.032,
@@ -321,6 +354,9 @@
   {
     "id": "4BRvD5QdauTo8EuUvYchu3",
     "name": "A Line in the Sand",
+    "duration_ms": 395066,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Linkin Park",
     "album": "The Hunting Party",
     "bpm": 99.706,

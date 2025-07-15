@@ -2,6 +2,9 @@
   {
     "id": "3LqnOFWrX9I5jTjA7cUWjD",
     "name": "Perfect World",
+    "duration_ms": 384426,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Broken Bells",
     "album": "After the Disco",
     "bpm": 155.988,
@@ -31,6 +34,9 @@
   {
     "id": "1MmDfBzGsWKXb0rQfTyvOy",
     "name": "After the Disco",
+    "duration_ms": 219293,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Broken Bells",
     "album": "After the Disco",
     "bpm": 115.984,
@@ -60,6 +66,9 @@
   {
     "id": "757PJjXAgywxrYkdhMkEV9",
     "name": "Holding on for Life",
+    "duration_ms": 236866,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Broken Bells",
     "album": "After the Disco",
     "bpm": 168.847,
@@ -89,6 +98,9 @@
   {
     "id": "7uLpd43d2fKFDUD3IyXeAi",
     "name": "Leave It Alone",
+    "duration_ms": 330853,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Broken Bells",
     "album": "After the Disco",
     "bpm": 141.987,
@@ -118,6 +130,9 @@
   {
     "id": "1TefJ43egrnGQfvBvAcZvQ",
     "name": "The Changing Lights",
+    "duration_ms": 228546,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Broken Bells",
     "album": "After the Disco",
     "bpm": 133.059,
@@ -147,6 +162,9 @@
   {
     "id": "1QZJiYulh7ak7GpZ8OAdwI",
     "name": "Control",
+    "duration_ms": 221426,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Broken Bells",
     "album": "After the Disco",
     "bpm": 113.999,
@@ -176,6 +194,9 @@
   {
     "id": "67oZ3miFAzcJSt8878Ppk0",
     "name": "Lazy Wonderland",
+    "duration_ms": 201786,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Broken Bells",
     "album": "After the Disco",
     "bpm": 124.939,
@@ -205,6 +226,9 @@
   {
     "id": "3jaOfXYnWg49JrTZnrryx4",
     "name": "Medicine",
+    "duration_ms": 208693,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Broken Bells",
     "album": "After the Disco",
     "bpm": 122.021,
@@ -234,6 +258,9 @@
   {
     "id": "0JgZO1d9PMhgrA1F3GCbsQ",
     "name": "No Matter What You're Told",
+    "duration_ms": 230720,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Broken Bells",
     "album": "After the Disco",
     "bpm": 124.969,
@@ -263,6 +290,9 @@
   {
     "id": "0fd0506d5oBAQDyBF6TZ05",
     "name": "The Angel and the Fool",
+    "duration_ms": 195080,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Broken Bells",
     "album": "After the Disco",
     "bpm": 75.006,
@@ -292,6 +322,9 @@
   {
     "id": "3DXJaOI3mI10QkPhRu3r2p",
     "name": "The Remains of Rock & Roll",
+    "duration_ms": 294520,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Broken Bells",
     "album": "After the Disco",
     "bpm": 111.984,

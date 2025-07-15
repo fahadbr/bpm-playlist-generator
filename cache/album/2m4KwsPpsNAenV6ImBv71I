@@ -2,6 +2,9 @@
   {
     "id": "391wCckW8VlK0qbWAtDq5T",
     "name": "Separation No. 2",
+    "duration_ms": 188840,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Caspian",
     "album": "Dust and Disquiet",
     "bpm": 76.907,
@@ -31,6 +34,9 @@
   {
     "id": "42wOySSV3mE3lSo12wKbmL",
     "name": "Rioseco",
+    "duration_ms": 472240,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Caspian",
     "album": "Dust and Disquiet",
     "bpm": 116.985,
@@ -60,6 +66,9 @@
   {
     "id": "3cld8uMQZok9Z8TCw041zF",
     "name": "Arcs of Command",
+    "duration_ms": 528773,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Caspian",
     "album": "Dust and Disquiet",
     "bpm": 190.867,
@@ -89,6 +98,9 @@
   {
     "id": "3GPEflNyiBz1c1iveD7J5b",
     "name": "Echo and Abyss",
+    "duration_ms": 344586,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Caspian",
     "album": "Dust and Disquiet",
     "bpm": 122.011,
@@ -118,6 +130,9 @@
   {
     "id": "0YXgbYFJiakHun1wPosv6k",
     "name": "Run Dry",
+    "duration_ms": 275933,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Caspian",
     "album": "Dust and Disquiet",
     "bpm": 109.999,
@@ -147,6 +162,9 @@
   {
     "id": "4fm4xyMUonpFXzqbSJNx1M",
     "name": "Equal Night",
+    "duration_ms": 116813,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Caspian",
     "album": "Dust and Disquiet",
     "bpm": 86.443,
@@ -176,6 +194,9 @@
   {
     "id": "3e66nnkSbIvBHD8TFzh1mw",
     "name": "Sad Heart of Mine",
+    "duration_ms": 267333,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Caspian",
     "album": "Dust and Disquiet",
     "bpm": 120.038,
@@ -205,6 +226,9 @@
   {
     "id": "1xYYHZ32U32ZYZfFVaujtx",
     "name": "Darkfield",
+    "duration_ms": 396106,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Caspian",
     "album": "Dust and Disquiet",
     "bpm": 125.02,
@@ -234,6 +258,9 @@
   {
     "id": "3TFyKMf0yTDjMUlpUNI1Ky",
     "name": "Aetenum Vale",
+    "duration_ms": 128093,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Caspian",
     "album": "Dust and Disquiet",
     "bpm": 80.143,
@@ -263,6 +290,9 @@
   {
     "id": "0a1I4EhDV3s19YKHd2edDk",
     "name": "Dust and Disquiet",
+    "duration_ms": 685960,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Caspian",
     "album": "Dust and Disquiet",
     "bpm": 99.102,

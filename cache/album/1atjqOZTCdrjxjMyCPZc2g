@@ -2,6 +2,9 @@
   {
     "id": "5Gt9bxniM1SxN61yRzRhXL",
     "name": "United In Grief",
+    "duration_ms": 255377,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 85.63,
@@ -31,6 +34,9 @@
   {
     "id": "0fX4oNGBWO3dSGUZcVdVV2",
     "name": "N95",
+    "duration_ms": 195950,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 139.956,
@@ -60,6 +66,9 @@
   {
     "id": "66mVPWmFvXPFf8pjK5ttOW",
     "name": "Worldwide Steppers",
+    "duration_ms": 203367,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 77.215,
@@ -89,6 +98,9 @@
   {
     "id": "2g6tReTlM2Akp41g0HaeXN",
     "name": "Die Hard",
+    "duration_ms": 239026,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 100.988,
@@ -118,6 +130,9 @@
   {
     "id": "28qA8y1sz0FTuSapsCxNOG",
     "name": "Father Time (feat. Sampha)",
+    "duration_ms": 222497,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 152.869,
@@ -147,6 +162,9 @@
   {
     "id": "15pyFQHCTVp6T7vaWctSgO",
     "name": "Rich - Interlude",
+    "duration_ms": 103319,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 91.589,
@@ -176,6 +194,9 @@
   {
     "id": "1QPreu0BNOrUfEb8HTd2qG",
     "name": "Rich Spirit",
+    "duration_ms": 202285,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 95.977,
@@ -205,6 +226,9 @@
   {
     "id": "67XC51nlZncNpHmZ8rOU9a",
     "name": "We Cry Together",
+    "duration_ms": 341307,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 106.89,
@@ -234,6 +258,9 @@
   {
     "id": "1REVvAphiSTJyKQ1fDpHa4",
     "name": "Purple Hearts",
+    "duration_ms": 329295,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 138.202,
@@ -263,6 +290,9 @@
   {
     "id": "6BU1RZexmvJcBjgagVVt3M",
     "name": "Count Me Out",
+    "duration_ms": 283642,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 133.999,
@@ -292,6 +322,9 @@
   {
     "id": "4zMxWSP2qZUy5CBCH5PdzZ",
     "name": "Crown",
+    "duration_ms": 264299,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 173.329,
@@ -321,6 +354,9 @@
   {
     "id": "3lzUeaCbcCDB5IXYfqWRlF",
     "name": "Silent Hill",
+    "duration_ms": 220779,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 140.07,
@@ -350,6 +386,9 @@
   {
     "id": "5G4uLkFKdEZLcuNyeomQmE",
     "name": "Savior - Interlude",
+    "duration_ms": 152985,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 117.125,
@@ -379,6 +418,9 @@
   {
     "id": "3drdWsJKiVCSQ2gKhd9BDT",
     "name": "Savior",
+    "duration_ms": 224466,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 124.84,
@@ -408,6 +450,9 @@
   {
     "id": "1uY1X8YeBixs1FdQ3fQ7d4",
     "name": "Auntie Diaries",
+    "duration_ms": 281069,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 127.544,
@@ -437,6 +482,9 @@
   {
     "id": "6CmpZfKUQ2KerzBFZ3QKFr",
     "name": "Mr. Morale",
+    "duration_ms": 210841,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 174.025,
@@ -466,6 +514,9 @@
   {
     "id": "346SJSEbB6pNZMpwovxDiu",
     "name": "Mother I Sober (feat. Beth Gibbons of Portishead)",
+    "duration_ms": 406528,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 140.012,
@@ -495,6 +546,9 @@
   {
     "id": "5xoYormSTltk6F9SlQV6mm",
     "name": "Mirror",
+    "duration_ms": 256006,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kendrick Lamar",
     "album": "Mr. Morale & The Big Steppers",
     "bpm": 91.933,

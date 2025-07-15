@@ -2,6 +2,9 @@
   {
     "id": "1BzXvBpIFWJgu0P8P6xmP4",
     "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
+    "duration_ms": 309322,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 118.574,
@@ -31,6 +34,9 @@
   {
     "id": "7Gn7HA4yOHKXDo6vHCiNXV",
     "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
+    "duration_ms": 173589,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 122.754,
@@ -60,6 +66,9 @@
   {
     "id": "0URbdJpIV9B54W2d9yeMwt",
     "name": "Lifestyle (with Bas feat. A$AP Ferg)",
+    "duration_ms": 166775,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 145.937,
@@ -89,6 +98,9 @@
   {
     "id": "2OSsmzINPSwQ1hLoMH70Rj",
     "name": "Starting 5 (with Lute, Cozz & Omen)",
+    "duration_ms": 270044,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 82.776,
@@ -118,6 +130,9 @@
   {
     "id": "3p2HpO3ZgvFs97L15hGZOn",
     "name": "Coming Down (with Ari Lennox)",
+    "duration_ms": 156943,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 125.981,
@@ -147,6 +162,9 @@
   {
     "id": "7eheBzQNeMd0ZxU3HoXltE",
     "name": "Hair Salon (with Cozz feat. G Perico & Reason)",
+    "duration_ms": 193573,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 75.027,
@@ -176,6 +194,9 @@
   {
     "id": "5pQZullzXsixizZmBcmXhy",
     "name": "Freedom of Speech (with J. Cole)",
+    "duration_ms": 131909,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 90.809,
@@ -205,6 +226,9 @@
   {
     "id": "5xpU73nutoJizKpX3TZRhS",
     "name": "Blackberry Sap (with Ari Lennox)",
+    "duration_ms": 149738,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 125.96,
@@ -234,6 +258,9 @@
   {
     "id": "2hflEM2ceD3eYZvxglqo5S",
     "name": "Like Wine (with Lute)",
+    "duration_ms": 155192,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 111.657,
@@ -263,6 +290,9 @@
   {
     "id": "0T7zFfMGZ5rQEH4VPbNJln",
     "name": "Jozi Flows (with Bas & EARTHGANG)",
+    "duration_ms": 175778,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 132.022,
@@ -292,6 +322,9 @@
   {
     "id": "4m3u9rV6KkVemoL5NFqXem",
     "name": "Barry From Simpson (with JID feat. 2 Chainz & Young Nudy)",
+    "duration_ms": 197535,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 126.983,
@@ -321,6 +354,9 @@
   {
     "id": "5twFAWoVedKgYZrswt1JIn",
     "name": "Everybody Ain\u2019t Shit (with EARTHGANG)",
+    "duration_ms": 203419,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 199.864,
@@ -350,6 +386,9 @@
   {
     "id": "1KsHmftDAysEtLpDK1o6Y9",
     "name": "Ballin in Newport (with Omen)",
+    "duration_ms": 212800,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 80.668,
@@ -379,6 +418,9 @@
   {
     "id": "3K7CM76wcnUmzShCPH6q7A",
     "name": "Big Trouble Freestyle (with Cozz)",
+    "duration_ms": 163149,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 91.633,
@@ -408,6 +450,9 @@
   {
     "id": "19h1LNf7idduUW3jBeswB8",
     "name": "Heaven\u2019s EP (with J. Cole)",
+    "duration_ms": 178291,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Dreamville",
     "album": "D-Day: A Gangsta Grillz Mixtape",
     "bpm": 77.977,

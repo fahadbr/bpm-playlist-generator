@@ -2,6 +2,9 @@
   {
     "id": "6R7fAiIfgopeIEciX25lun",
     "name": "Odyssey",
+    "duration_ms": 312520,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Scale The Summit",
     "album": "The Migration",
     "bpm": 126.086,
@@ -31,6 +34,9 @@
   {
     "id": "02v81HQA1yS0DSZ4dw3YzF",
     "name": "Atlas Novus",
+    "duration_ms": 307106,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Scale The Summit",
     "album": "The Migration",
     "bpm": 160.037,
@@ -60,6 +66,9 @@
   {
     "id": "5kwwpKxdH9Jp211Q7yDHVT",
     "name": "The Olive Tree",
+    "duration_ms": 307813,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Scale The Summit",
     "album": "The Migration",
     "bpm": 95.041,
@@ -89,6 +98,9 @@
   {
     "id": "3wHplNWGpH6JOmFjmyxMJP",
     "name": "Narrow Salient",
+    "duration_ms": 214773,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Scale The Summit",
     "album": "The Migration",
     "bpm": 129.931,
@@ -118,6 +130,9 @@
   {
     "id": "6qMhSCfd0SfSClvQhu0LpG",
     "name": "Oracle",
+    "duration_ms": 330960,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Scale The Summit",
     "album": "The Migration",
     "bpm": 155.058,
@@ -147,6 +162,9 @@
   {
     "id": "0JGJjPh3inXInUIxv44uqL",
     "name": "Evergreen",
+    "duration_ms": 101240,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Scale The Summit",
     "album": "The Migration",
     "bpm": 139.984,
@@ -176,6 +194,9 @@
   {
     "id": "17wrGS0QmHc5MOGNm3FrpW",
     "name": "The Dark Horse",
+    "duration_ms": 252253,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Scale The Summit",
     "album": "The Migration",
     "bpm": 114.891,
@@ -205,6 +226,9 @@
   {
     "id": "3i5kcNoGMr2OBBv1UVwVsS",
     "name": "Willow",
+    "duration_ms": 306826,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Scale The Summit",
     "album": "The Migration",
     "bpm": 119.995,
@@ -234,6 +258,9 @@
   {
     "id": "1kLskB4cAFZeKgGVVn36MD",
     "name": "Sabrosa",
+    "duration_ms": 31440,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Scale The Summit",
     "album": "The Migration",
     "bpm": 69.475,
@@ -263,6 +290,9 @@
   {
     "id": "5cMLp4AneL7d5k3b1Z9AmJ",
     "name": "The Traveler",
+    "duration_ms": 364840,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Scale The Summit",
     "album": "The Migration",
     "bpm": 139.915,

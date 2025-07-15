@@ -2,6 +2,9 @@
   {
     "id": "2fhYmsDLFnntLFlzSom4x2",
     "name": "El Chupa Nibre",
+    "duration_ms": 156253,
+    "explicit": false,
+    "track_number": 1,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 104.449,
@@ -31,6 +34,9 @@
   {
     "id": "3bPqgo3RO3ZESEpyCdNsnr",
     "name": "Sofa King (feat. MF DOOM)",
+    "duration_ms": 177066,
+    "explicit": false,
+    "track_number": 2,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 94.001,
@@ -60,6 +66,9 @@
   {
     "id": "4eot5ez7vqPdifsGb785tr",
     "name": "The Mask (feat. Ghostface Killah)",
+    "duration_ms": 192226,
+    "explicit": false,
+    "track_number": 3,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 74.944,
@@ -89,6 +98,9 @@
   {
     "id": "5Cdidoz5dkHSjQZAOlypMc",
     "name": "Perfect Hair",
+    "duration_ms": 123493,
+    "explicit": false,
+    "track_number": 4,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 183.401,
@@ -118,6 +130,9 @@
   {
     "id": "6bmJYo1KS2X2nzQrCGzdOe",
     "name": "Benzi Box (feat. CeeLo Green)",
+    "duration_ms": 180093,
+    "explicit": false,
+    "track_number": 5,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 97.01,
@@ -147,6 +162,9 @@
   {
     "id": "0cq0D853bAxP47bhFU9RKV",
     "name": "Old School Rules (feat. Talib Kweli)",
+    "duration_ms": 160426,
+    "explicit": false,
+    "track_number": 6,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 98.054,
@@ -176,6 +194,9 @@
   {
     "id": "03yMZBtC3QxyK7ttlBLeme",
     "name": "A.T.H.F. (Aqua Teen Hunger Force)",
+    "duration_ms": 183413,
+    "explicit": false,
+    "track_number": 7,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 88.916,
@@ -205,6 +226,9 @@
   {
     "id": "47d3apjRmXQo52fLVvOdR7",
     "name": "Basket Case",
+    "duration_ms": 154573,
+    "explicit": false,
+    "track_number": 8,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 96.118,
@@ -234,6 +258,9 @@
   {
     "id": "7pWKCRsXpS9BjPNODt72EM",
     "name": "No Names (feat. Money Mark)",
+    "duration_ms": 187226,
+    "explicit": false,
+    "track_number": 9,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 94.976,
@@ -263,6 +290,9 @@
   {
     "id": "3T2LUDcZRrOnYzV1FprZTy",
     "name": "Crosshairs",
+    "duration_ms": 146853,
+    "explicit": false,
+    "track_number": 10,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 171.797,
@@ -292,6 +322,9 @@
   {
     "id": "4bCBiFAPiK7rquriyiHByb",
     "name": "Mince Meat",
+    "duration_ms": 152933,
+    "explicit": false,
+    "track_number": 11,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 98.946,
@@ -321,6 +354,9 @@
   {
     "id": "7AE0NKbt0BemBF8wuC2uCG",
     "name": "Vats Of Urine",
+    "duration_ms": 107853,
+    "explicit": false,
+    "track_number": 12,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 96.451,
@@ -350,6 +386,9 @@
   {
     "id": "3VSnfhbaNKZzvmNQilWcZ6",
     "name": "Space Hos",
+    "duration_ms": 209480,
+    "explicit": false,
+    "track_number": 13,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 97.733,
@@ -379,6 +418,9 @@
   {
     "id": "1uU3g8Rgl0dW2uyMn21VQq",
     "name": "Bada Bing",
+    "duration_ms": 267906,
+    "explicit": false,
+    "track_number": 14,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 174.221,
@@ -408,6 +450,9 @@
   {
     "id": "25Yz1cgjkmlXGvdlHNyhim",
     "name": "Sofa King (feat. Danger Mouse) - Danger Mouse Remix",
+    "duration_ms": 169066,
+    "explicit": false,
+    "track_number": 15,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 94.049,
@@ -437,6 +482,9 @@
   {
     "id": "3BJXyyrpG3OgiU5IF4yR1i",
     "name": "Space Ho's (feat. Madlib) - Madlib Remix",
+    "duration_ms": 228253,
+    "explicit": false,
+    "track_number": 16,
     "artist": "DANGERDOOM",
     "album": "The Mouse and The Mask (Bonus Version)",
     "bpm": 100.866,

@@ -2,6 +2,9 @@
   {
     "id": "6fd9RQbjRJVu5bboe76Asw",
     "name": "The Library - Intro",
+    "duration_ms": 4800,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": NaN,
@@ -12,6 +15,9 @@
   {
     "id": "11LpjG9t8CIEiDpDufY70V",
     "name": "I.Crawl",
+    "duration_ms": 209480,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 132.976,
@@ -41,6 +47,9 @@
   {
     "id": "4oIHQ7BXApxvJ42yX0d5Qj",
     "name": "II. Worldstar",
+    "duration_ms": 244653,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 119.828,
@@ -70,6 +79,9 @@
   {
     "id": "2XWJSH29t2wiVssvn6ZJT4",
     "name": "Dial up",
+    "duration_ms": 44533,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 97.116,
@@ -99,6 +111,9 @@
   {
     "id": "4jnctHRggVIvMgkru936fN",
     "name": "I. The Worst Guys",
+    "duration_ms": 219746,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 97.047,
@@ -128,6 +143,9 @@
   {
     "id": "4A32tQkqdNxhP3vom3TqWe",
     "name": "II. Shadows",
+    "duration_ms": 231733,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 116.32,
@@ -157,6 +175,9 @@
   {
     "id": "0fgosF2PWrYbyy9e7BclKz",
     "name": "III. Telegraph Ave. (\"Oakland\" by Lloyd)",
+    "duration_ms": 210680,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 129.928,
@@ -186,6 +207,9 @@
   {
     "id": "4NvXTrOSsVlCw0bFe3lKY9",
     "name": "IV. Sweatpants",
+    "duration_ms": 180680,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 80.027,
@@ -215,6 +239,9 @@
   {
     "id": "2X6b7zLdIxCejd6GqVcQ9M",
     "name": "3005",
+    "duration_ms": 234213,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 166.065,
@@ -244,6 +271,9 @@
   {
     "id": "2PvNMb5Tp3f4Zh0tOvB7fp",
     "name": "Playing Around Before The Party Starts",
+    "duration_ms": 54453,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 167.262,
@@ -273,6 +303,9 @@
   {
     "id": "1pYC3p85HfI8Ex1B1vzOww",
     "name": "I. The Party",
+    "duration_ms": 91293,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 148.223,
@@ -302,6 +335,9 @@
   {
     "id": "4fjUDvbCndgYBWuYMpW894",
     "name": "II. No Exit",
+    "duration_ms": 171773,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 92.153,
@@ -331,6 +367,9 @@
   {
     "id": "1lDCNFj85Zmf98AOvDsBif",
     "name": "Death By Numbers",
+    "duration_ms": 43973,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 100.254,
@@ -360,6 +399,9 @@
   {
     "id": "0RDKUURGxghQIpKRpwIbpp",
     "name": "I. Flight Of The Navigator",
+    "duration_ms": 344146,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 79.597,
@@ -389,6 +431,9 @@
   {
     "id": "6f22TuMwo4G1yADTOPdJiy",
     "name": "II. Zealots Of Stockholm [Free Information]",
+    "duration_ms": 290693,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 73.575,
@@ -418,6 +463,9 @@
   {
     "id": "6KqAgoz02Jjga2TGdnCAKy",
     "name": "III. Urn",
+    "duration_ms": 73400,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 139.727,
@@ -447,6 +495,9 @@
   {
     "id": "5rmmw20qm7TDplJvyQAhIn",
     "name": "I. Pink Toes",
+    "duration_ms": 207053,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 79.615,
@@ -476,6 +527,9 @@
   {
     "id": "4lVonIcSSHhcqXG1mowTC0",
     "name": "II. Earth: The Oldest Computer (The Last Night)",
+    "duration_ms": 282426,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 139.767,
@@ -505,6 +559,9 @@
   {
     "id": "0cXHPADqI7N0BEQByrkmwd",
     "name": "III. Life: The Biggest Troll [Andrew Auernheimer]",
+    "duration_ms": 342053,
+    "explicit": true,
+    "track_number": 19,
     "artist": "Childish Gambino",
     "album": "Because The Internet",
     "bpm": 80.086,

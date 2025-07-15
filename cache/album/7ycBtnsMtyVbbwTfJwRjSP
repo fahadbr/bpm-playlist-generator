@@ -2,6 +2,9 @@
   {
     "id": "7Ks4VCY1wFebnOdJrM13t6",
     "name": "Wesley's Theory",
+    "duration_ms": 287360,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 114.449,
@@ -31,6 +34,9 @@
   {
     "id": "75izAeHlGuOgA865CFDyIv",
     "name": "For Free? - Interlude",
+    "duration_ms": 130893,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 129.313,
@@ -60,6 +66,9 @@
   {
     "id": "0N3W5peJUQtI4eyR6GJT5O",
     "name": "King Kunta",
+    "duration_ms": 234693,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 107.059,
@@ -89,6 +98,9 @@
   {
     "id": "4oFtLSgHyZPNYDCcANhTnO",
     "name": "Institutionalized",
+    "duration_ms": 271773,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 81.114,
@@ -118,6 +130,9 @@
   {
     "id": "7uWVT3UkCAZyANvv0bdyQn",
     "name": "These Walls",
+    "duration_ms": 300973,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 108.005,
@@ -147,6 +162,9 @@
   {
     "id": "1bxEpNR75Hq3T2oF9AZjt8",
     "name": "u",
+    "duration_ms": 268493,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 71.547,
@@ -176,6 +194,9 @@
   {
     "id": "3iVcZ5G6tvkXZkZKlMpIUs",
     "name": "Alright",
+    "duration_ms": 219333,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 110.034,
@@ -205,6 +226,9 @@
   {
     "id": "7unx2Rvsq8D0RfOLRXclTA",
     "name": "For Sale? - Interlude",
+    "duration_ms": 291720,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 79.036,
@@ -234,6 +258,9 @@
   {
     "id": "0CjJqkWOpIUXdem5hUcxAk",
     "name": "Momma",
+    "duration_ms": 283120,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 111.914,
@@ -263,6 +290,9 @@
   {
     "id": "2UOYzhusMTypF7oAQwksCj",
     "name": "Hood Politics",
+    "duration_ms": 292520,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 87.912,
@@ -292,6 +322,9 @@
   {
     "id": "4tQcyj5488alHT1ZgFduzn",
     "name": "How Much A Dollar Cost",
+    "duration_ms": 261746,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 87.948,
@@ -321,6 +354,9 @@
   {
     "id": "72hFOhhhnOJZnnp6uVOgPn",
     "name": "Complexion (A Zulu Love)",
+    "duration_ms": 263360,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 89.953,
@@ -350,6 +386,9 @@
   {
     "id": "5Mtt6tZSZA9cXTHGSGpyh0",
     "name": "The Blacker The Berry",
+    "duration_ms": 328826,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 176.058,
@@ -379,6 +418,9 @@
   {
     "id": "7A3ETuOrieyx9KSF0sn0Zf",
     "name": "You Ain't Gotta Lie (Momma Said)",
+    "duration_ms": 241680,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 93.742,
@@ -408,6 +450,9 @@
   {
     "id": "3ODXRUPL44f04cCacwiCLC",
     "name": "i",
+    "duration_ms": 336013,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 120.094,
@@ -437,6 +482,9 @@
   {
     "id": "1WT11QmhZutciEv1NsHt1R",
     "name": "Mortal Man",
+    "duration_ms": 727106,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Kendrick Lamar",
     "album": "To Pimp A Butterfly",
     "bpm": 86.935,

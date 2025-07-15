@@ -2,6 +2,9 @@
   {
     "id": "6oPiLgwnuxc3ssDiKokLEt",
     "name": "Bloodmeat",
+    "duration_ms": 234186,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 127.03,
@@ -31,6 +34,9 @@
   {
     "id": "0zoz55jqCotPzPZTq050LG",
     "name": "The Dissentience",
+    "duration_ms": 264053,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 108.996,
@@ -60,6 +66,9 @@
   {
     "id": "11huuHSoC2ymshJJTOzm0j",
     "name": "Bone Marrow",
+    "duration_ms": 331373,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 139.915,
@@ -89,6 +98,9 @@
   {
     "id": "7rrz6VETF39TP54h4zlZtl",
     "name": "Sequoia Throne",
+    "duration_ms": 191013,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 149.751,
@@ -118,6 +130,9 @@
   {
     "id": "40l0GQsdCqMpBSMTN6amqc",
     "name": "Palms Read",
+    "duration_ms": 306560,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 162.209,
@@ -147,6 +162,9 @@
   {
     "id": "0P2mdqZZhoZrCUj5CiJ91q",
     "name": "Limb from Limb",
+    "duration_ms": 262760,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 119.725,
@@ -176,6 +194,9 @@
   {
     "id": "5TxR16xeldhaiaUQ3gXcZ4",
     "name": "Spoils",
+    "duration_ms": 223440,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 94.545,
@@ -205,6 +226,9 @@
   {
     "id": "7h1YwUBfyBHS1jDfDSuaAE",
     "name": "Wretch",
+    "duration_ms": 252293,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 143.9,
@@ -234,6 +258,9 @@
   {
     "id": "7Jq2YPPKLRJzCrNJGb5ENw",
     "name": "Goddess Bound",
+    "duration_ms": 215466,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 104.05,
@@ -263,6 +290,9 @@
   {
     "id": "1FI2ZbZgvlJHEzAziB7V3L",
     "name": "Goddess Gagged",
+    "duration_ms": 194733,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 168.002,
@@ -292,6 +322,9 @@
   {
     "id": "3PpBQJjeTcEi5JVkU04K16",
     "name": "Bloodmeat - Instrumental",
+    "duration_ms": 235200,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 124.55,
@@ -321,6 +354,9 @@
   {
     "id": "6tkSSbNNjJxl8Ni4CwC3Ob",
     "name": "The Dissentience - Instrumental",
+    "duration_ms": 244600,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 108.997,
@@ -350,6 +386,9 @@
   {
     "id": "1STH5PR2uiVvQgNjIPQBu6",
     "name": "Bone Marrow - Instrumental",
+    "duration_ms": 294106,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 120.598,
@@ -379,6 +418,9 @@
   {
     "id": "7rrz6VETF39TP54h4zlZtl",
     "name": "Sequoia Throne - Instrumental",
+    "duration_ms": 191693,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 149.751,
@@ -408,6 +450,9 @@
   {
     "id": "28h2P9C6IJ5gUuLRHGKMgC",
     "name": "Palms Read - Instrumental",
+    "duration_ms": 227746,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 147.017,
@@ -437,6 +482,9 @@
   {
     "id": "1Z0Kw9gHkCljE9rc3Bmgj5",
     "name": "Limb from Limb - Instrumental",
+    "duration_ms": 262760,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 110.85,
@@ -466,6 +514,9 @@
   {
     "id": "0H2RiQJ0oP4eoMAekU6P4l",
     "name": "Spoils - Instrumental",
+    "duration_ms": 179146,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 101.828,
@@ -495,6 +546,9 @@
   {
     "id": "32X2bvbzDzIjwdDuQ7ev9n",
     "name": "Wretch - Instrumental",
+    "duration_ms": 252293,
+    "explicit": false,
+    "track_number": 18,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 143.894,
@@ -524,6 +578,9 @@
   {
     "id": "4mgGbhhOQrIrmU5jLuMiI6",
     "name": "Goddess Bound - Instrumental",
+    "duration_ms": 215546,
+    "explicit": false,
+    "track_number": 19,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 103.986,
@@ -553,6 +610,9 @@
   {
     "id": "2L2dGJZqsHHXGeLJ9d5Jj8",
     "name": "Goddess Gagged - Instrumental",
+    "duration_ms": 194666,
+    "explicit": false,
+    "track_number": 20,
     "artist": "Protest The Hero",
     "album": "Fortress",
     "bpm": 167.932,

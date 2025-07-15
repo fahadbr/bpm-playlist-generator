@@ -2,6 +2,9 @@
   {
     "id": "5FVd6KXrgO9B3JPmC8OPst",
     "name": "Do I Wanna Know?",
+    "duration_ms": 272394,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Arctic Monkeys",
     "album": "AM",
     "bpm": 85.03,
@@ -31,6 +34,9 @@
   {
     "id": "2AT8iROs4FQueDv2c8q2KE",
     "name": "R U Mine?",
+    "duration_ms": 201726,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Arctic Monkeys",
     "album": "AM",
     "bpm": 97.094,
@@ -60,6 +66,9 @@
   {
     "id": "6wNUBZNWFxdUGof6vkaykE",
     "name": "One For The Road",
+    "duration_ms": 206051,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Arctic Monkeys",
     "album": "AM",
     "bpm": 180.048,
@@ -89,6 +98,9 @@
   {
     "id": "7nzsY8vlnKdvGOEE0rjAXZ",
     "name": "Arabella",
+    "duration_ms": 207356,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Arctic Monkeys",
     "album": "AM",
     "bpm": 179.949,
@@ -118,6 +130,9 @@
   {
     "id": "1j9rezdE3YeC7yktZXC1em",
     "name": "I Want It All",
+    "duration_ms": 185406,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Arctic Monkeys",
     "album": "AM",
     "bpm": 131.052,
@@ -147,6 +162,9 @@
   {
     "id": "5TTGoX70AFrTvuEtqHK37S",
     "name": "No. 1 Party Anthem",
+    "duration_ms": 243131,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Arctic Monkeys",
     "album": "AM",
     "bpm": 115.013,
@@ -176,6 +194,9 @@
   {
     "id": "75n7mraeMycQOl2sDGYaTe",
     "name": "Mad Sounds",
+    "duration_ms": 215011,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Arctic Monkeys",
     "album": "AM",
     "bpm": 80.001,
@@ -205,6 +226,9 @@
   {
     "id": "4atMrAadB7dS8xn9vfk9PQ",
     "name": "Fireside",
+    "duration_ms": 181049,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Arctic Monkeys",
     "album": "AM",
     "bpm": 100.033,
@@ -234,6 +258,9 @@
   {
     "id": "086myS9r57YsLbJpU0TgK9",
     "name": "Why'd You Only Call Me When You're High?",
+    "duration_ms": 161123,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Arctic Monkeys",
     "album": "AM",
     "bpm": 92.004,
@@ -263,6 +290,9 @@
   {
     "id": "0NdTUS4UiNYCNn5FgVqKQY",
     "name": "Snap Out Of It",
+    "duration_ms": 193030,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Arctic Monkeys",
     "album": "AM",
     "bpm": 130.014,
@@ -292,6 +322,9 @@
   {
     "id": "2LGdO5MtFdyphi2EihANZG",
     "name": "Knee Socks",
+    "duration_ms": 257563,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Arctic Monkeys",
     "album": "AM",
     "bpm": 97.975,
@@ -321,6 +354,9 @@
   {
     "id": "5XeFesFbtLpXzIVDNQP22n",
     "name": "I Wanna Be Yours",
+    "duration_ms": 183956,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Arctic Monkeys",
     "album": "AM",
     "bpm": 67.528,

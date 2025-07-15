@@ -2,6 +2,9 @@
   {
     "id": "4GJ7tc2tSyiOgWPI2LFJvq",
     "name": "Cold Cash And Colder Hearts",
+    "duration_ms": 189440,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Thrice",
     "album": "The Artist in the Ambulance - Revisited",
     "bpm": 94.748,
@@ -31,6 +34,9 @@
   {
     "id": "6WRGLeRjbURbYiXVfFcNgM",
     "name": "Under A Killing Moon",
+    "duration_ms": 163093,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Thrice",
     "album": "The Artist in the Ambulance - Revisited",
     "bpm": 183.724,
@@ -60,6 +66,9 @@
   {
     "id": "2xM2rXTDf6TvtZZnFWt66y",
     "name": "All That's Left",
+    "duration_ms": 199186,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Thrice",
     "album": "The Artist in the Ambulance - Revisited",
     "bpm": 91.51,
@@ -89,6 +98,9 @@
   {
     "id": "0JpYd4MaxySP37qdQ8Zoeu",
     "name": "Silhouette",
+    "duration_ms": 196840,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Thrice",
     "album": "The Artist in the Ambulance - Revisited",
     "bpm": 134.087,
@@ -118,6 +130,9 @@
   {
     "id": "1Yek4fd1qCsw3lgU8ZPqvS",
     "name": "Stare At The Sun",
+    "duration_ms": 204573,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Thrice",
     "album": "The Artist in the Ambulance - Revisited",
     "bpm": 93.002,
@@ -147,6 +162,9 @@
   {
     "id": "2MSa9a4xuLMHDxWXmgBK9C",
     "name": "Paper Tigers",
+    "duration_ms": 258959,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Thrice",
     "album": "The Artist in the Ambulance - Revisited",
     "bpm": 171.597,
@@ -176,6 +194,9 @@
   {
     "id": "1P94JlPdPtrPqg15dWIkSa",
     "name": "Hoods On Peregrine",
+    "duration_ms": 221240,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Thrice",
     "album": "The Artist in the Ambulance - Revisited",
     "bpm": 99.908,
@@ -205,6 +226,9 @@
   {
     "id": "6hjGkmI9bpRv8t9n9c0fkO",
     "name": "The Melting Point Of Wax",
+    "duration_ms": 227973,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Thrice",
     "album": "The Artist in the Ambulance - Revisited",
     "bpm": 196.924,
@@ -234,6 +258,9 @@
   {
     "id": "5VFFwCGNczLAZcmeZrvblY",
     "name": "Blood Clots And Black Holes",
+    "duration_ms": 172093,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Thrice",
     "album": "The Artist in the Ambulance - Revisited",
     "bpm": 98.04,
@@ -263,6 +290,9 @@
   {
     "id": "6dVZ4uXSmqm2Hsw9Yzd2Gm",
     "name": "The Artist In The Ambulance",
+    "duration_ms": 220973,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Thrice",
     "album": "The Artist in the Ambulance - Revisited",
     "bpm": 173.031,
@@ -292,6 +322,9 @@
   {
     "id": "0eUEPyRTvPuT87HbDA2LhY",
     "name": "The Abolition Of Man",
+    "duration_ms": 173506,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Thrice",
     "album": "The Artist in the Ambulance - Revisited",
     "bpm": 95.019,
@@ -321,6 +354,9 @@
   {
     "id": "1gMW58R0Qn9dTqqdgX6wP0",
     "name": "Don't Tell And We Won't Ask",
+    "duration_ms": 250880,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Thrice",
     "album": "The Artist in the Ambulance - Revisited",
     "bpm": 145.022,

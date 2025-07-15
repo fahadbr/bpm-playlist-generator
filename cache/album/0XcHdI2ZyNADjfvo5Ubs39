@@ -2,6 +2,9 @@
   {
     "id": "6FT9FZccFD6nE8dMNslz2n",
     "name": "Walk On Water",
+    "duration_ms": 185466,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Thirty Seconds To Mars",
     "album": "AMERICA",
     "bpm": 140.003,
@@ -31,6 +34,9 @@
   {
     "id": "7793p4ZXhtbW5RpeRK7rid",
     "name": "Dangerous Night",
+    "duration_ms": 199773,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Thirty Seconds To Mars",
     "album": "AMERICA",
     "bpm": 86.937,
@@ -60,6 +66,9 @@
   {
     "id": "3yelVZf4p9wDpWjPav5mOn",
     "name": "Rescue Me",
+    "duration_ms": 217960,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Thirty Seconds To Mars",
     "album": "AMERICA",
     "bpm": 148.039,
@@ -89,6 +98,9 @@
   {
     "id": "2NyWdxhlqyrt91PE6Yzf9u",
     "name": "One Track Mind (feat. A$AP Rocky)",
+    "duration_ms": 260609,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Thirty Seconds To Mars",
     "album": "AMERICA",
     "bpm": 93.129,
@@ -118,6 +130,9 @@
   {
     "id": "6dbCzgvzfqwsgycZLliO3I",
     "name": "Monolith",
+    "duration_ms": 98191,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Thirty Seconds To Mars",
     "album": "AMERICA",
     "bpm": 75.262,
@@ -147,6 +162,9 @@
   {
     "id": "04CyO54TZk5tEylFg2Df41",
     "name": "Love Is Madness (feat. Halsey)",
+    "duration_ms": 234866,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Thirty Seconds To Mars",
     "album": "AMERICA",
     "bpm": 106.171,
@@ -176,6 +194,9 @@
   {
     "id": "2WexsKeTrtuPQOYdq0RLoB",
     "name": "Great Wide Open",
+    "duration_ms": 289360,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Thirty Seconds To Mars",
     "album": "AMERICA",
     "bpm": 139.985,
@@ -205,6 +226,9 @@
   {
     "id": "64gbzSMPloO2SNBTk3PG3h",
     "name": "Hail To The Victor",
+    "duration_ms": 201956,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Thirty Seconds To Mars",
     "album": "AMERICA",
     "bpm": 145.001,
@@ -234,6 +258,9 @@
   {
     "id": "2nugajeEf9KNKXrpnzamLl",
     "name": "Dawn Will Rise",
+    "duration_ms": 236973,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Thirty Seconds To Mars",
     "album": "AMERICA",
     "bpm": 134.989,
@@ -263,6 +290,9 @@
   {
     "id": "5D2QlmF9156cXnIDdhOja7",
     "name": "Remedy",
+    "duration_ms": 197092,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Thirty Seconds To Mars",
     "album": "AMERICA",
     "bpm": 103.263,
@@ -292,6 +322,9 @@
   {
     "id": "1glJzSUiShhraXl8zjgD22",
     "name": "Live Like A Dream",
+    "duration_ms": 246560,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Thirty Seconds To Mars",
     "album": "AMERICA",
     "bpm": 155.135,
@@ -321,6 +354,9 @@
   {
     "id": "2QmSzgCfIzNn1DuAcGNYTR",
     "name": "Rider",
+    "duration_ms": 177978,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Thirty Seconds To Mars",
     "album": "AMERICA",
     "bpm": 100.084,

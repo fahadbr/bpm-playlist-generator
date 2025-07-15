@@ -2,6 +2,9 @@
   {
     "id": "3znPiywA0q1VK2jgAZFDoI",
     "name": "Irresistible",
+    "duration_ms": 206506,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
     "bpm": 165.049,
@@ -31,6 +34,9 @@
   {
     "id": "3D4Xkcir5YEhk8Xidkd1dL",
     "name": "American Beauty/American Psycho",
+    "duration_ms": 195946,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
     "bpm": 151.166,
@@ -60,6 +66,9 @@
   {
     "id": "04aAxqtGp5pv12UXAg4pkq",
     "name": "Centuries",
+    "duration_ms": 228360,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
     "bpm": 176.042,
@@ -89,6 +98,9 @@
   {
     "id": "3x7NGlfDKQYN2wnwEnL7r9",
     "name": "The Kids Aren't Alright",
+    "duration_ms": 260920,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
     "bpm": 115.991,
@@ -118,6 +130,9 @@
   {
     "id": "5PUawWFG1oIS2NwEcyHaCr",
     "name": "Uma Thurman",
+    "duration_ms": 211573,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
     "bpm": 149.963,
@@ -147,6 +162,9 @@
   {
     "id": "7d0R90VzB45UWf3Aey0X22",
     "name": "Jet Pack Blues",
+    "duration_ms": 179266,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
     "bpm": 156.041,
@@ -176,6 +194,9 @@
   {
     "id": "5F0bmCjKUufNz1bHXfgRwe",
     "name": "Novocaine",
+    "duration_ms": 226866,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
     "bpm": 135.997,
@@ -205,6 +226,9 @@
   {
     "id": "1vrjcPplEuenckUzGGp2UR",
     "name": "Fourth Of July",
+    "duration_ms": 224360,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
     "bpm": 79.964,
@@ -234,6 +258,9 @@
   {
     "id": "4vC4nKK6bk9pYEVOU4EIbA",
     "name": "Favorite Record",
+    "duration_ms": 203413,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
     "bpm": 127.02,
@@ -263,6 +290,9 @@
   {
     "id": "3Te8uLyit6X3ncNW8Fp3K2",
     "name": "Immortals",
+    "duration_ms": 189386,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
     "bpm": 108.016,
@@ -292,6 +322,9 @@
   {
     "id": "2WWP0IPX9xFjAMraNHX390",
     "name": "Twin Skeleton's (Hotel In NYC)",
+    "duration_ms": 220413,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Fall Out Boy",
     "album": "American Beauty/American Psycho",
     "bpm": 80.098,

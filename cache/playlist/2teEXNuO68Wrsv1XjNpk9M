@@ -2,8 +2,12 @@
   {
     "id": "7MXVkk9YMctZqd1Srtv4MB",
     "name": "Starboy",
+    "duration_ms": 230453,
+    "explicit": true,
+    "track_number": 1,
     "artist": "The Weeknd",
     "album": "Starboy",
+    "playlist": "workout 8/10/19",
     "bpm": 186.003,
     "features": [
       {
@@ -31,8 +35,12 @@
   {
     "id": "2Egoo3acImq7hV6TfYV90E",
     "name": "Everybody Dies",
+    "duration_ms": 250213,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Logic",
     "album": "YSIV",
+    "playlist": "workout 8/10/19",
     "bpm": 94.082,
     "features": [
       {
@@ -60,8 +68,12 @@
   {
     "id": "5ZcMWSpUeUPvO87FkSZbJB",
     "name": "The Return",
+    "duration_ms": 252053,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Logic",
     "album": "YSIV",
+    "playlist": "workout 8/10/19",
     "bpm": 90.011,
     "features": [
       {
@@ -89,6 +101,9 @@
   {
     "id": "3MkuFR7t25mu7Iscp6GGiV",
     "name": "Panic Room",
+    "duration_ms": 214482,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Au/Ra",
     "album": "Panic Room",
     "playlist": "workout 8/10/19",
@@ -119,8 +134,12 @@
   {
     "id": "7xTY3rJMgj0nh6OOPHgsLw",
     "name": "Freaks And Geeks",
+    "duration_ms": 217103,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Childish Gambino",
     "album": "EP (2011 Re-Release)",
+    "playlist": "workout 8/10/19",
     "bpm": 81.052,
     "features": [
       {
@@ -148,8 +167,12 @@
   {
     "id": "146EkdID2XSngct4gG8NQl",
     "name": "My Shine",
+    "duration_ms": 212663,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Childish Gambino",
     "album": "EP (2011 Re-Release)",
+    "playlist": "workout 8/10/19",
     "bpm": 157.593,
     "features": [
       {
@@ -177,8 +200,12 @@
   {
     "id": "15DwFznkBJir7AK9PyMyRR",
     "name": "17",
+    "duration_ms": 196489,
+    "explicit": false,
+    "track_number": 1,
     "artist": "MK",
     "album": "17",
+    "playlist": "workout 8/10/19",
     "bpm": 122.029,
     "features": [
       {
@@ -206,6 +233,9 @@
   {
     "id": "31qgVdvSqTQ7unwQQngycB",
     "name": "Can't Hold Us (feat. Ray Dalton)",
+    "duration_ms": 258431,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "playlist": "workout 8/10/19",
@@ -236,6 +266,9 @@
   {
     "id": "3lhVpxpMfgXfUNVBIOwdBG",
     "name": "Sea Legs",
+    "duration_ms": 220040,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Run The Jewels",
     "album": "Run the Jewels",
     "playlist": "workout 8/10/19",

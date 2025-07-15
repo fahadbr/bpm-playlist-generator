@@ -2,6 +2,9 @@
   {
     "id": "7wBJfHzpfI3032CSD7CE2m",
     "name": "STARGAZING",
+    "duration_ms": 270714,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 150.007,
@@ -31,6 +34,9 @@
   {
     "id": "7KZ5MMVgBVox9ycroB2UrI",
     "name": "CAROUSEL",
+    "duration_ms": 180182,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 95.387,
@@ -60,6 +66,9 @@
   {
     "id": "2xLMifQCjDGFmkHkpNLD9h",
     "name": "SICKO MODE",
+    "duration_ms": 312820,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 155.008,
@@ -89,6 +98,9 @@
   {
     "id": "4SZepBIPDRwPaHIjAKwRDb",
     "name": "R.I.P. SCREW",
+    "duration_ms": 185610,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 74.946,
@@ -118,6 +130,9 @@
   {
     "id": "1xYpVRspgaLxdJLOTQkTjg",
     "name": "STOP TRYING TO BE GOD",
+    "duration_ms": 338438,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 150.009,
@@ -147,6 +162,9 @@
   {
     "id": "6OaVWaGfhXn70ZJfdVcabn",
     "name": "NO BYSTANDERS",
+    "duration_ms": 218283,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 147.045,
@@ -176,6 +194,9 @@
   {
     "id": "6NMtzpDQBTOfJwMzgMX0zl",
     "name": "SKELETONS",
+    "duration_ms": 145588,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 148.054,
@@ -205,6 +226,9 @@
   {
     "id": "20MuVazoNMv6xjKPnRFOxG",
     "name": "WAKE UP",
+    "duration_ms": 231963,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 149.07,
@@ -234,6 +258,9 @@
   {
     "id": "11kDth1aKUEUMq9r1pqyds",
     "name": "5% TINT",
+    "duration_ms": 196138,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 140.0,
@@ -263,6 +290,9 @@
   {
     "id": "6BJbOXDlgVAXSaq6wYFYT2",
     "name": "NC-17",
+    "duration_ms": 156885,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 136.052,
@@ -292,6 +322,9 @@
   {
     "id": "4MXhiYIRDMGAuvZc5IFTwC",
     "name": "ASTROTHUNDER",
+    "duration_ms": 142969,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 151.901,
@@ -321,6 +354,9 @@
   {
     "id": "7lAK3oHbfEnvUQWosrMMpR",
     "name": "YOSEMITE",
+    "duration_ms": 150043,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 128.047,
@@ -350,6 +386,9 @@
   {
     "id": "27a1mYSG5tYg7dmEjWBcmL",
     "name": "CAN'T SAY",
+    "duration_ms": 198408,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 147.98,
@@ -379,6 +418,9 @@
   {
     "id": "4KYS9GK68yeuUJ8vJfPxrq",
     "name": "WHO? WHAT!",
+    "duration_ms": 176720,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 140.001,
@@ -408,6 +450,9 @@
   {
     "id": "2cYqizR4lgvp4Qu6IQ3qGN",
     "name": "BUTTERFLY EFFECT",
+    "duration_ms": 190557,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 140.958,
@@ -437,6 +482,9 @@
   {
     "id": "58TaFP5j5i9swOf584yon2",
     "name": "HOUSTONFORNICATION",
+    "duration_ms": 217828,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 160.042,
@@ -466,6 +514,9 @@
   {
     "id": "6vnfObZ4Ys70SBAtti1xZ9",
     "name": "COFFEE BEAN",
+    "duration_ms": 209115,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Travis Scott",
     "album": "ASTROWORLD",
     "bpm": 95.004,

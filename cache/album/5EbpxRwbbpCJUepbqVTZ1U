@@ -2,6 +2,9 @@
   {
     "id": "2ye9iWj5V4g6k6HFeTTAKa",
     "name": "High For This",
+    "duration_ms": 247226,
+    "explicit": false,
+    "track_number": 1,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 75.033,
@@ -31,6 +34,9 @@
   {
     "id": "4Yw8TyBm9J8cpy2guHUYog",
     "name": "What You Need",
+    "duration_ms": 196360,
+    "explicit": false,
+    "track_number": 2,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 133.853,
@@ -60,6 +66,9 @@
   {
     "id": "2r7BPog74oaTG5shNYiUnV",
     "name": "House Of Balloons / Glass Table Girls",
+    "duration_ms": 405213,
+    "explicit": true,
+    "track_number": 3,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 88.989,
@@ -89,6 +98,9 @@
   {
     "id": "4jBfUB4kQJCWOrjGLQqhO0",
     "name": "The Morning",
+    "duration_ms": 312426,
+    "explicit": true,
+    "track_number": 4,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 120.097,
@@ -118,6 +130,9 @@
   {
     "id": "00aqkszH1FdUiJJWvX6iEl",
     "name": "Wicked Games",
+    "duration_ms": 323746,
+    "explicit": true,
+    "track_number": 5,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 114.033,
@@ -147,6 +162,9 @@
   {
     "id": "0GROiXm03OrMC5ltXLhGIu",
     "name": "The Party & The After Party",
+    "duration_ms": 459386,
+    "explicit": true,
+    "track_number": 6,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 101.733,
@@ -176,6 +194,9 @@
   {
     "id": "3mHO1J6kfiArjBo1zhLFGP",
     "name": "Coming Down",
+    "duration_ms": 295453,
+    "explicit": false,
+    "track_number": 7,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 120.973,
@@ -205,6 +226,9 @@
   {
     "id": "2yBz1hupoOBncorzuKcJ2z",
     "name": "Loft Music",
+    "duration_ms": 363640,
+    "explicit": true,
+    "track_number": 8,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 77.528,
@@ -234,6 +258,9 @@
   {
     "id": "6tjsbysvZh8Pq8DZA5ldrn",
     "name": "The Knowing",
+    "duration_ms": 340333,
+    "explicit": false,
+    "track_number": 9,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 85.994,
@@ -263,6 +290,9 @@
   {
     "id": "3dQEShIMs5TW8H3eUh11r7",
     "name": "Twenty Eight",
+    "duration_ms": 258453,
+    "explicit": true,
+    "track_number": 10,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 129.966,
@@ -292,6 +322,9 @@
   {
     "id": "5JpSjNcjuP8L9QrYmv3xcn",
     "name": "Lonely Star",
+    "duration_ms": 349213,
+    "explicit": true,
+    "track_number": 1,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 158.001,
@@ -321,6 +354,9 @@
   {
     "id": "6eJbjaoLRlfwrfWpeS6alF",
     "name": "Life Of The Party",
+    "duration_ms": 296226,
+    "explicit": false,
+    "track_number": 2,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 138.107,
@@ -350,6 +386,9 @@
   {
     "id": "0l1p13Fbujayv894H0hfpS",
     "name": "Thursday",
+    "duration_ms": 320026,
+    "explicit": false,
+    "track_number": 3,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 179.327,
@@ -379,6 +418,9 @@
   {
     "id": "53qYItjefG5SUf62428dIw",
     "name": "The Zone",
+    "duration_ms": 418506,
+    "explicit": true,
+    "track_number": 4,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 139.95,
@@ -408,6 +450,9 @@
   {
     "id": "5SF1kcOiOmtZFUIQNGC4TC",
     "name": "The Birds Pt. 1",
+    "duration_ms": 214186,
+    "explicit": false,
+    "track_number": 5,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 127.873,
@@ -437,6 +482,9 @@
   {
     "id": "2yYDijitHN6psA2tH0ndXs",
     "name": "The Birds Pt. 2",
+    "duration_ms": 350640,
+    "explicit": true,
+    "track_number": 6,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 78.639,
@@ -466,6 +514,9 @@
   {
     "id": "7xgYvziLsxNd0UznaEw8Oi",
     "name": "Gone",
+    "duration_ms": 486773,
+    "explicit": true,
+    "track_number": 7,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 109.371,
@@ -495,6 +546,9 @@
   {
     "id": "4dXnS1YXBkn4oAIxRLPJcK",
     "name": "Rolling Stone",
+    "duration_ms": 230546,
+    "explicit": true,
+    "track_number": 8,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 129.92,
@@ -524,6 +578,9 @@
   {
     "id": "5JQ5Acrgv1VrO9UtMUN052",
     "name": "Heaven Or Las Vegas",
+    "duration_ms": 353306,
+    "explicit": false,
+    "track_number": 9,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 125.055,
@@ -553,6 +610,9 @@
   {
     "id": "5JaqApg5415jtjdyjY3wa9",
     "name": "Valerie",
+    "duration_ms": 286680,
+    "explicit": false,
+    "track_number": 10,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 147.962,
@@ -582,6 +642,9 @@
   {
     "id": "0WdJTI3UVvUMbLwPk5ObKI",
     "name": "D.D.",
+    "duration_ms": 275493,
+    "explicit": false,
+    "track_number": 1,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 119.966,
@@ -611,6 +674,9 @@
   {
     "id": "0UGdO687azruy9tFlCxO6F",
     "name": "Montreal",
+    "duration_ms": 250520,
+    "explicit": false,
+    "track_number": 2,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 183.822,
@@ -640,6 +706,9 @@
   {
     "id": "58yC1Q6XKjmHeWkEWh9O6B",
     "name": "Outside",
+    "duration_ms": 260092,
+    "explicit": true,
+    "track_number": 3,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 139.97,
@@ -669,6 +738,9 @@
   {
     "id": "0Hs5enNuaAXmJssAybWbOw",
     "name": "XO / The Host",
+    "duration_ms": 443986,
+    "explicit": true,
+    "track_number": 4,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 127.999,
@@ -698,6 +770,9 @@
   {
     "id": "3QWENKFYGEgp3itgTnrgq9",
     "name": "Initiation",
+    "duration_ms": 260693,
+    "explicit": true,
+    "track_number": 5,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 139.953,
@@ -727,6 +802,9 @@
   {
     "id": "37zSTGaP8bfBDGpJnUmSDl",
     "name": "Same Old Song",
+    "duration_ms": 312053,
+    "explicit": true,
+    "track_number": 6,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 109.963,
@@ -756,6 +834,9 @@
   {
     "id": "0JGoOLSl8A80mSPBL7ya9U",
     "name": "The Fall",
+    "duration_ms": 345160,
+    "explicit": false,
+    "track_number": 7,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 150.092,
@@ -785,6 +866,9 @@
   {
     "id": "6pG3yiKNsX03ZFTFWdOasv",
     "name": "Next",
+    "duration_ms": 360106,
+    "explicit": false,
+    "track_number": 8,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 112.051,
@@ -814,6 +898,9 @@
   {
     "id": "3weHnt82LuCTMa2AnZFM78",
     "name": "Echoes Of Silence",
+    "duration_ms": 240066,
+    "explicit": false,
+    "track_number": 9,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 130.688,
@@ -843,6 +930,9 @@
   {
     "id": "0kXHpsg9SmpRqsQ4wQvQsK",
     "name": "Till Dawn (Here Comes The Sun)",
+    "duration_ms": 319693,
+    "explicit": false,
+    "track_number": 10,
     "artist": "The Weeknd",
     "album": "Trilogy",
     "bpm": 100.015,

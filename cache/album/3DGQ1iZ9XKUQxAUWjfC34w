@@ -2,6 +2,9 @@
   {
     "id": "0qGFnxDIqGBIq2D3zNbjk9",
     "name": "Sherane a.k.a Master Splinter\u2019s Daughter",
+    "duration_ms": 273640,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 82.069,
@@ -31,6 +34,9 @@
   {
     "id": "712uvW1Vezq8WpQi38v2L9",
     "name": "Bitch, Don\u2019t Kill My Vibe",
+    "duration_ms": 310720,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 133.954,
@@ -60,6 +66,9 @@
   {
     "id": "3aGibUHhQyBsyumYHylw0K",
     "name": "Backseat Freestyle",
+    "duration_ms": 212653,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 77.878,
@@ -89,6 +98,9 @@
   {
     "id": "0d0jsoba88SpOoFxCxA2rZ",
     "name": "The Art of Peer Pressure",
+    "duration_ms": 324533,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 94.939,
@@ -118,6 +130,9 @@
   {
     "id": "0AOvNRgl0SMfOibWA5bP8o",
     "name": "Money Trees",
+    "duration_ms": 386906,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 71.972,
@@ -147,6 +162,9 @@
   {
     "id": "2P3SLxeQHPqh8qKB6gtJY2",
     "name": "Poetic Justice",
+    "duration_ms": 300160,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 135.958,
@@ -176,6 +194,9 @@
   {
     "id": "5vuJuBqwzHJgCA1ysRfwxZ",
     "name": "good kid",
+    "duration_ms": 214120,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 176.173,
@@ -205,6 +226,9 @@
   {
     "id": "2cDCojn6uIBM6A5xTAbl3H",
     "name": "m.A.A.d city",
+    "duration_ms": 350120,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 91.066,
@@ -234,6 +258,9 @@
   {
     "id": "5ujh1I7NZH5agbwf7Hp8Hc",
     "name": "Swimming Pools (Drank) - Extended Version",
+    "duration_ms": 313786,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 74.376,
@@ -263,6 +290,9 @@
   {
     "id": "3q2v8QaTnHLveAQzR6gvYm",
     "name": "Sing About Me, I'm Dying Of Thirst",
+    "duration_ms": 723573,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 110.699,
@@ -292,6 +322,9 @@
   {
     "id": "5d8yMIlqJH78lwOUP7T3oF",
     "name": "Real",
+    "duration_ms": 443413,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 100.049,
@@ -321,6 +354,9 @@
   {
     "id": "1wf4LnpdAhLaoI2WwYDKAE",
     "name": "Compton",
+    "duration_ms": 248093,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 170.757,
@@ -350,6 +386,9 @@
   {
     "id": "1eRBW1HcyM1zPlxO26cScZ",
     "name": "The Recipe - Bonus Track",
+    "duration_ms": 352853,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 131.0,
@@ -379,6 +418,9 @@
   {
     "id": "1H7yy9jlDYS2EBF41J6Yf5",
     "name": "Black Boy Fly - Bonus Track",
+    "duration_ms": 279146,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 160.085,
@@ -408,6 +450,9 @@
   {
     "id": "4KjnaUNYPwGnJjoeTFlt91",
     "name": "Now Or Never - Bonus Track",
+    "duration_ms": 256013,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 100.534,
@@ -437,6 +482,9 @@
   {
     "id": "5UHjWOJA6MDl1g3x2HC68V",
     "name": "The Recipe (Black Hippy Remix) - Bonus Track",
+    "duration_ms": 262920,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 131.06,
@@ -466,6 +514,9 @@
   {
     "id": "7ALEBJ8LOQqXVJ2tqnXtoH",
     "name": "Bitch, Don\u2019t Kill My Vibe - Remix",
+    "duration_ms": 278800,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kendrick Lamar",
     "album": "good kid, m.A.A.d city (Deluxe)",
     "bpm": 133.669,

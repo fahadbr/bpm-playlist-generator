@@ -2,6 +2,9 @@
   {
     "id": "5FYu8uBB6E11mepU601601",
     "name": "Not For Radio",
+    "duration_ms": 202514,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Nas",
     "album": "NASIR",
     "bpm": 96.284,
@@ -31,6 +34,9 @@
   {
     "id": "1vi9adPJiD4d22ybGp25hy",
     "name": "Cops Shot The Kid",
+    "duration_ms": 167907,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Nas",
     "album": "NASIR",
     "bpm": 205.116,
@@ -60,6 +66,9 @@
   {
     "id": "5JoUwqXt9IPLbiJ6pXwarL",
     "name": "White Label",
+    "duration_ms": 178026,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Nas",
     "album": "NASIR",
     "bpm": 75.505,
@@ -89,6 +98,9 @@
   {
     "id": "6w9lmWBgqzPQHNQo5KaORN",
     "name": "Bonjour",
+    "duration_ms": 201560,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Nas",
     "album": "NASIR",
     "bpm": 143.949,
@@ -118,6 +130,9 @@
   {
     "id": "3XaNHbNa9Chz9plhRpcaof",
     "name": "everything",
+    "duration_ms": 452504,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Nas",
     "album": "NASIR",
     "bpm": 82.507,
@@ -147,6 +162,9 @@
   {
     "id": "0BSPhsCKfwENstErymcD80",
     "name": "Adam and Eve",
+    "duration_ms": 250760,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Nas",
     "album": "NASIR",
     "bpm": 92.401,
@@ -176,6 +194,9 @@
   {
     "id": "7jzcoWGOQXGufcXbs7TFVN",
     "name": "Simple Things",
+    "duration_ms": 139718,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Nas",
     "album": "NASIR",
     "bpm": 77.572,

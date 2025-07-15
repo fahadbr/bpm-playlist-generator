@@ -2,6 +2,9 @@
   {
     "id": "4IIuCotvqijraSdnVLaFnM",
     "name": "Beautiful Trip",
+    "duration_ms": 37013,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 133.971,
@@ -31,6 +34,9 @@
   {
     "id": "30KctD1WsHKTIYczXjip5a",
     "name": "Tequila Shots",
+    "duration_ms": 193293,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 90.494,
@@ -60,6 +66,9 @@
   {
     "id": "6myUpr3GDR80Dg3zqNTmmG",
     "name": "Another Day",
+    "duration_ms": 199786,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 172.995,
@@ -89,6 +98,9 @@
   {
     "id": "1xzUQMiCoY5pdego0pHMeV",
     "name": "She Knows This",
+    "duration_ms": 216560,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 165.945,
@@ -118,6 +130,9 @@
   {
     "id": "7Hc3YL8oDiAzbiAW32KXrw",
     "name": "Dive",
+    "duration_ms": 148706,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 123.105,
@@ -147,6 +162,9 @@
   {
     "id": "2n7Ao4nyESBa5ti8gcAbBt",
     "name": "Damaged",
+    "duration_ms": 150853,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 142.04,
@@ -176,6 +194,9 @@
   {
     "id": "2koUj1Fn5TKFEkChSmBPIb",
     "name": "Heaven On Earth",
+    "duration_ms": 201093,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 130.036,
@@ -205,6 +226,9 @@
   {
     "id": "5CFJRZRq6sdKKtRwNPWbYv",
     "name": "Show Out (with Skepta & Pop Smoke)",
+    "duration_ms": 174960,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 143.896,
@@ -234,6 +258,9 @@
   {
     "id": "27oVCAziETRbNuo5A8LNpg",
     "name": "Solo Dolo, Pt. III",
+    "duration_ms": 242266,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 152.058,
@@ -263,6 +290,9 @@
   {
     "id": "4nuAslShoN77tq12fzwjUq",
     "name": "Sad People",
+    "duration_ms": 176026,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 158.073,
@@ -292,6 +322,9 @@
   {
     "id": "6jiwr6xTHqjdun5d3cEwXV",
     "name": "Elsie's Baby Boy (flashback)",
+    "duration_ms": 219213,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 95.158,
@@ -321,6 +354,9 @@
   {
     "id": "3Uw2se3aQU1UFrpRBvBnB4",
     "name": "Sept. 16",
+    "duration_ms": 249040,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 140.987,
@@ -350,6 +386,9 @@
   {
     "id": "2yg7MXp8nSPaf61HVkhEr3",
     "name": "The Void",
+    "duration_ms": 325413,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 142.017,
@@ -379,6 +418,9 @@
   {
     "id": "3JdwGk8j7lHN5qdzJZklam",
     "name": "Lovin\u2019 Me (feat. Phoebe Bridgers)",
+    "duration_ms": 165893,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 141.527,
@@ -408,6 +450,9 @@
   {
     "id": "4EjbAh7YHU3VARkfkamZ8R",
     "name": "The Pale Moonlight",
+    "duration_ms": 176293,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 160.009,
@@ -437,6 +482,9 @@
   {
     "id": "4J9SI7do4KOEsCexqEbjmR",
     "name": "Rockstar Knights (with Trippie Redd)",
+    "duration_ms": 231466,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 178.052,
@@ -466,6 +514,9 @@
   {
     "id": "2ZDRkJrKbceJRgLKkuex14",
     "name": "4 Da Kidz",
+    "duration_ms": 184240,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 134.224,
@@ -495,6 +546,9 @@
   {
     "id": "7f2voPcnDEAzX4yB8SLnU2",
     "name": "Lord I Know",
+    "duration_ms": 212040,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Kid Cudi",
     "album": "Man On The Moon III: The Chosen",
     "bpm": 180.061,

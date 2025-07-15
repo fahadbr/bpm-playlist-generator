@@ -2,6 +2,9 @@
   {
     "id": "59NraMJsLaMCVtwXTSia8i",
     "name": "Prada",
+    "duration_ms": 132359,
+    "explicit": true,
+    "track_number": 1,
     "artist": "cass\u00f6",
     "album": "Prada",
     "playlist": "Running 3",
@@ -32,6 +35,9 @@
   {
     "id": "7me5d5XmtCCfbDk3SsyXqM",
     "name": "Every Step",
+    "duration_ms": 159857,
+    "explicit": false,
+    "track_number": 1,
     "artist": "D.O.D",
     "album": "Every Step",
     "playlist": "Running 3",
@@ -62,6 +68,9 @@
   {
     "id": "3IhM5Mber8KA0NaRNpK2px",
     "name": "Lay Low",
+    "duration_ms": 153442,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Ti\u00ebsto",
     "album": "DRIVE",
     "playlist": "Running 3",
@@ -92,6 +101,9 @@
   {
     "id": "6HZ9VeI5IRFCNQLXhpF4bq",
     "name": "I Love It (feat. Charli XCX)",
+    "duration_ms": 157152,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Icona Pop",
     "album": "THIS IS... ICONA POP",
     "playlist": "Running 3",
@@ -122,6 +134,9 @@
   {
     "id": "4UvmncfPbjdbX5xN64eS3H",
     "name": "Electronaut",
+    "duration_ms": 395040,
+    "explicit": false,
+    "track_number": 3,
     "artist": "VNV Nation",
     "album": "Futureperfect",
     "playlist": "Running 3",
@@ -152,8 +167,12 @@
   {
     "id": "0RszjqOiIwaZGnXUDuAq1C",
     "name": "Baba Says",
-    "artist": "88rising",
+    "duration_ms": 263186,
+    "explicit": false,
+    "track_number": 13,
+    "artist": "\u963f\u8fbe\u5a03",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
+    "playlist": "Running 3",
     "bpm": 138.026,
     "features": [
       {
@@ -181,8 +200,12 @@
   {
     "id": "5x4vgABKiGp4Vg7ZyFRxhn",
     "name": "Run It (feat. Rick Ross & Rich Brian)",
-    "artist": "88rising",
+    "duration_ms": 163373,
+    "explicit": false,
+    "track_number": 14,
+    "artist": "DJ Snake",
     "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
+    "playlist": "Running 3",
     "bpm": 104.006,
     "features": [
       {
@@ -210,8 +233,12 @@
   {
     "id": "6amCeNhEjgxBlWkwgmdboa",
     "name": "Living Proof",
+    "duration_ms": 235400,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
+    "playlist": "Running 3",
     "bpm": 124.821,
     "features": [
       {
@@ -239,8 +266,12 @@
   {
     "id": "34jHDKV7cNwRLl2NU1zPJq",
     "name": "One Shot One Kill",
-    "artist": "Dr. Dre",
+    "duration_ms": 205893,
+    "explicit": true,
+    "track_number": 10,
+    "artist": "Jon Connor",
     "album": "Compton",
+    "playlist": "Running 3",
     "bpm": 85.076,
     "features": [
       {
@@ -268,8 +299,12 @@
   {
     "id": "1Wsbr1d2BouNGk2q92mIj7",
     "name": "Pt. 2",
+    "duration_ms": 130293,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Kanye West",
     "album": "The Life Of Pablo",
+    "playlist": "Running 3",
     "bpm": 145.076,
     "features": [
       {
@@ -297,6 +332,9 @@
   {
     "id": "2MuMD298IpYqKF367wegUd",
     "name": "Homicide (feat. Eminem)",
+    "duration_ms": 245386,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "playlist": "Running 3",
@@ -327,8 +365,12 @@
   {
     "id": "15DwFznkBJir7AK9PyMyRR",
     "name": "17",
+    "duration_ms": 196489,
+    "explicit": false,
+    "track_number": 1,
     "artist": "MK",
     "album": "17",
+    "playlist": "Running 3",
     "bpm": 122.029,
     "features": [
       {
@@ -356,6 +398,9 @@
   {
     "id": "4pnFRnCOfaETea25g0YSvG",
     "name": "Jigga What / Faint",
+    "duration_ms": 211173,
+    "explicit": true,
+    "track_number": 3,
     "artist": "JAY-Z",
     "album": "Collision Course",
     "playlist": "Running 3",
@@ -386,8 +431,12 @@
   {
     "id": "22skzmqfdWrjJylampe0kt",
     "name": "Can't Hold Us (feat. Ray Dalton)",
-    "artist": "Macklemore & Ryan Lewis",
-    "album": "The Heist (Deluxe Edition)",
+    "duration_ms": 258431,
+    "explicit": false,
+    "track_number": 2,
+    "artist": "Macklemore",
+    "album": "The Heist",
+    "playlist": "Running 3",
     "bpm": 146.097,
     "features": [
       {
@@ -415,6 +464,9 @@
   {
     "id": "5072hCBK3Z15qRnTEzd8fy",
     "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+    "duration_ms": 211428,
+    "explicit": false,
+    "track_number": 1,
     "artist": "David Guetta",
     "album": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
     "playlist": "Running 3",
@@ -445,6 +497,9 @@
   {
     "id": "5MMLS3xm12D7N26xlfFApr",
     "name": "Runaway Baby",
+    "duration_ms": 148448,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Bruno Mars",
     "album": "Doo-Wops & Hooligans",
     "playlist": "Running 3",
@@ -475,6 +530,9 @@
   {
     "id": "6K7LggCeow2jSoRmdZ7XoX",
     "name": "Heartless",
+    "duration_ms": 198267,
+    "explicit": true,
+    "track_number": 7,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "playlist": "Running 3",
@@ -505,8 +563,12 @@
   {
     "id": "3j9t0h7eJBxvH9yVUt3BdM",
     "name": "B.O.B. (Bombs Over Baghdad) - Zack de la Rocha Remix",
+    "duration_ms": 276585,
+    "explicit": true,
+    "track_number": 27,
     "artist": "Outkast",
     "album": "Stankonia (Deluxe Version)",
+    "playlist": "Running 3",
     "bpm": 154.185,
     "features": [
       {
@@ -534,8 +596,12 @@
   {
     "id": "69ZRVsGoLXjHrQWHMX5iCN",
     "name": "Sons of Plunder",
+    "duration_ms": 228026,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Disturbed",
     "album": "Ten Thousand Fists",
+    "playlist": "Running 3",
     "bpm": 99.93,
     "features": [
       {
@@ -563,6 +629,9 @@
   {
     "id": "1vcxF91pWs9uNwDROuiCPB",
     "name": "Savior",
+    "duration_ms": 242280,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Rise Against",
     "album": "Appeal To Reason",
     "playlist": "Running 3",
@@ -593,6 +662,9 @@
   {
     "id": "0vZCG0H9KhtU7K8MEUVAoV",
     "name": "Tsunami",
+    "duration_ms": 236706,
+    "explicit": false,
+    "track_number": 1,
     "artist": "DVBBS",
     "album": "Tsunami",
     "playlist": "Running 3",
@@ -623,6 +695,9 @@
   {
     "id": "3IV4swNduIRunHREK80owz",
     "name": "Rollin' (Air Raid Vehicle)",
+    "duration_ms": 213760,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Limp Bizkit",
     "album": "Chocolate Starfish And The Hot Dog Flavored Water",
     "playlist": "Running 3",
@@ -653,8 +728,12 @@
   {
     "id": "2fiabxMbdC8AX3iY6zbYRZ",
     "name": "Two Faced",
+    "duration_ms": 183584,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Linkin Park",
     "album": "From Zero (Deluxe Edition)",
+    "playlist": "Running 3",
     "bpm": 91.906,
     "features": [
       {
@@ -682,8 +761,12 @@
   {
     "id": "2YzmfPLqUx5CJOaw5ThsBV",
     "name": "Plain Jane REMIX (feat. Nicki Minaj)",
+    "duration_ms": 202636,
+    "explicit": true,
+    "track_number": 1,
     "artist": "A$AP Ferg",
     "album": "Plain Jane REMIX (feat. Nicki Minaj)",
+    "playlist": "Running 3",
     "bpm": 170.113,
     "features": [
       {
@@ -711,8 +794,12 @@
   {
     "id": "7xTY3rJMgj0nh6OOPHgsLw",
     "name": "Freaks And Geeks",
+    "duration_ms": 217103,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Childish Gambino",
     "album": "EP (2011 Re-Release)",
+    "playlist": "Running 3",
     "bpm": 81.052,
     "features": [
       {
@@ -740,8 +827,12 @@
   {
     "id": "5In8B6Om5OKrhwBMB4tXSi",
     "name": "Fuel",
+    "duration_ms": 213646,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Eminem",
     "album": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+    "playlist": "Running 3",
     "bpm": 137.981,
     "features": [
       {
@@ -769,6 +860,9 @@
   {
     "id": "7dvd3b2oz7AFgXrPBIIYxR",
     "name": "Dirt Off Your Shoulder / Lying From You",
+    "duration_ms": 244693,
+    "explicit": true,
+    "track_number": 1,
     "artist": "JAY-Z",
     "album": "Collision Course",
     "playlist": "Running 3",
@@ -799,8 +893,12 @@
   {
     "id": "1Qb2KRdSyk4UtRsbUAW6IG",
     "name": "IGYEIH",
+    "duration_ms": 209083,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Linkin Park",
     "album": "From Zero (Deluxe Edition)",
+    "playlist": "Running 3",
     "bpm": 159.974,
     "features": [
       {
@@ -828,8 +926,12 @@
   {
     "id": "60SdxE8apGAxMiRrpbmLY0",
     "name": "Lucky You (feat. Joyner Lucas)",
+    "duration_ms": 244679,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Eminem",
     "album": "Kamikaze",
+    "playlist": "Running 3",
     "bpm": 153.068,
     "features": [
       {
@@ -857,6 +959,9 @@
   {
     "id": "5A6OHHy73AR5tLxgTc98zz",
     "name": "Black and Yellow",
+    "duration_ms": 217666,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Wiz Khalifa",
     "album": "Rolling Papers",
     "playlist": "Running 3",
@@ -887,6 +992,9 @@
   {
     "id": "51rXHuKN8Loc4sUlKPODgH",
     "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+    "duration_ms": 229670,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Jay Rock",
     "album": "King's Dead (with Kendrick Lamar, Future & James Blake)",
     "playlist": "Running 3",
@@ -917,6 +1025,9 @@
   {
     "id": "0mEdbdeRFQwBhN4xfyIeUM",
     "name": "Can't Tell Me Nothing",
+    "duration_ms": 271600,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Kanye West",
     "album": "Graduation",
     "playlist": "Running 3",
@@ -947,8 +1058,12 @@
   {
     "id": "1DhRbox3xkceP64k3JeYfW",
     "name": "Antisocial (with Travis Scott)",
+    "duration_ms": 161746,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Ed Sheeran",
     "album": "No.6 Collaborations Project",
+    "playlist": "Running 3",
     "bpm": 151.957,
     "features": [
       {
@@ -975,9 +1090,13 @@
   },
   {
     "id": "4IkDkZxo0UamwkH3iunJRC",
-    "name": "Blockbuster Night, Pt. 1",
+    "name": "Blockbuster Night Pt. 1",
+    "duration_ms": 152253,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
+    "playlist": "Running 3",
     "bpm": 151.612,
     "features": [
       {
@@ -1005,6 +1124,9 @@
   {
     "id": "3pv7Q5v2dpdefwdWIvE7yH",
     "name": "Shake It Off (Taylor's Version)",
+    "duration_ms": 219209,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Taylor Swift",
     "album": "1989 (Taylor's Version)",
     "playlist": "Running 3",
@@ -1035,6 +1157,9 @@
   {
     "id": "6yr8GiTHWvFfi4o6Q5ebdT",
     "name": "'Till I Collapse",
+    "duration_ms": 297893,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Eminem",
     "album": "The Eminem Show",
     "playlist": "Running 3",
@@ -1065,6 +1190,9 @@
   {
     "id": "4pbJqGIASGPr0ZpGpnWkDn",
     "name": "We Will Rock You - Remastered 2011",
+    "duration_ms": 122066,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Queen",
     "album": "News Of The World (2011 Remaster)",
     "playlist": "Running 3",
@@ -1095,6 +1223,9 @@
   {
     "id": "0uEp9E98JB5awlA084uaIg",
     "name": "Doo Wop (That Thing)",
+    "duration_ms": 320266,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Ms. Lauryn Hill",
     "album": "The Miseducation of Lauryn Hill",
     "playlist": "Running 3",
@@ -1125,6 +1256,9 @@
   {
     "id": "2QKLrgXNQtK2c8QbLRO3XC",
     "name": "Burn The House Down",
+    "duration_ms": 212373,
+    "explicit": true,
+    "track_number": 14,
     "artist": "AJR",
     "album": "The Click (Deluxe Edition)",
     "playlist": "Running 3",
@@ -1155,6 +1289,9 @@
   {
     "id": "3lWwsRSWeSTXUBTJeuRPPg",
     "name": "Plastic Hamburgers",
+    "duration_ms": 217451,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Fantastic Negrito",
     "album": "Please Don't Be Dead",
     "playlist": "Running 3",
@@ -1185,6 +1322,9 @@
   {
     "id": "233SIbxjiUmEjVcGUiRUiL",
     "name": "Still Doing Fine?",
+    "duration_ms": 194302,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Early Pedestrian",
     "album": "Still Doing Fine?",
     "playlist": "Running 3",
@@ -1215,6 +1355,9 @@
   {
     "id": "01TuObJVd7owWchVRuQbQw",
     "name": "#thatPOWER",
+    "duration_ms": 279506,
+    "explicit": false,
+    "track_number": 9,
     "artist": "will.i.am",
     "album": "#willpower (Deluxe)",
     "playlist": "Running 3",
@@ -1245,6 +1388,9 @@
   {
     "id": "4EQkcrSLF3QdlwNca7sMXY",
     "name": "Say What You Say",
+    "duration_ms": 309893,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Eminem",
     "album": "The Eminem Show",
     "playlist": "Running 3",
@@ -1269,6 +1415,138 @@
         "analysis_url": "https://api.spotify.com/v1/audio-analysis/4EQkcrSLF3QdlwNca7sMXY",
         "duration_ms": 309893,
         "time_signature": 5
+      }
+    ]
+  },
+  {
+    "id": "4L0jcL1W6bK1H51S5BBFLf",
+    "name": "Banana Clipper (feat. Big Boi)",
+    "duration_ms": 171493,
+    "explicit": true,
+    "track_number": 2,
+    "artist": "Run The Jewels",
+    "album": "Run The Jewels",
+    "playlist": "Running 3",
+    "bpm": 166.283,
+    "features": [
+      {
+        "danceability": 0.501,
+        "energy": 0.763,
+        "key": 7,
+        "loudness": -5.439,
+        "mode": 1,
+        "speechiness": 0.389,
+        "acousticness": 0.0371,
+        "instrumentalness": 0,
+        "liveness": 0.422,
+        "valence": 0.402,
+        "tempo": 166.283,
+        "type": "audio_features",
+        "id": "4L0jcL1W6bK1H51S5BBFLf",
+        "uri": "spotify:track:4L0jcL1W6bK1H51S5BBFLf",
+        "track_href": "https://api.spotify.com/v1/tracks/4L0jcL1W6bK1H51S5BBFLf",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4L0jcL1W6bK1H51S5BBFLf",
+        "duration_ms": 171493,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4zgRNTk5ljnSBQV2zeCqMn",
+    "name": "Killafornia",
+    "duration_ms": 227030,
+    "explicit": false,
+    "track_number": 6,
+    "artist": "Transplants",
+    "album": "Haunted Cities",
+    "playlist": "Running 3",
+    "bpm": 166.145,
+    "features": [
+      {
+        "danceability": 0.709,
+        "energy": 0.901,
+        "key": 5,
+        "loudness": -6.601,
+        "mode": 0,
+        "speechiness": 0.216,
+        "acousticness": 0.0104,
+        "instrumentalness": 0,
+        "liveness": 0.13,
+        "valence": 0.414,
+        "tempo": 166.145,
+        "type": "audio_features",
+        "id": "4zgRNTk5ljnSBQV2zeCqMn",
+        "uri": "spotify:track:4zgRNTk5ljnSBQV2zeCqMn",
+        "track_href": "https://api.spotify.com/v1/tracks/4zgRNTk5ljnSBQV2zeCqMn",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4zgRNTk5ljnSBQV2zeCqMn",
+        "duration_ms": 227031,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "4H0OUHvoZ8X81wzwscMQqK",
+    "name": "Betrayal Is A Symptom",
+    "duration_ms": 169733,
+    "explicit": false,
+    "track_number": 4,
+    "artist": "Thrice",
+    "album": "The Illusion of Safety",
+    "playlist": "Running 3",
+    "bpm": 110.162,
+    "features": [
+      {
+        "danceability": 0.377,
+        "energy": 0.966,
+        "key": 8,
+        "loudness": -5.54,
+        "mode": 1,
+        "speechiness": 0.0879,
+        "acousticness": 0.000261,
+        "instrumentalness": 7.75e-06,
+        "liveness": 0.0797,
+        "valence": 0.402,
+        "tempo": 110.162,
+        "type": "audio_features",
+        "id": "4H0OUHvoZ8X81wzwscMQqK",
+        "uri": "spotify:track:4H0OUHvoZ8X81wzwscMQqK",
+        "track_href": "https://api.spotify.com/v1/tracks/4H0OUHvoZ8X81wzwscMQqK",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/4H0OUHvoZ8X81wzwscMQqK",
+        "duration_ms": 169733,
+        "time_signature": 4
+      }
+    ]
+  },
+  {
+    "id": "3fqrTK1FAKcfHg22N5gN5T",
+    "name": "Young Cardinals",
+    "duration_ms": 217826,
+    "explicit": false,
+    "track_number": 2,
+    "artist": "Alexisonfire",
+    "album": "Old Crows / Young Cardinals",
+    "playlist": "Running 3",
+    "bpm": 153.954,
+    "features": [
+      {
+        "danceability": 0.394,
+        "energy": 0.953,
+        "key": 8,
+        "loudness": -4.678,
+        "mode": 1,
+        "speechiness": 0.0909,
+        "acousticness": 0.000252,
+        "instrumentalness": 0.000149,
+        "liveness": 0.126,
+        "valence": 0.233,
+        "tempo": 153.954,
+        "type": "audio_features",
+        "id": "3fqrTK1FAKcfHg22N5gN5T",
+        "uri": "spotify:track:3fqrTK1FAKcfHg22N5gN5T",
+        "track_href": "https://api.spotify.com/v1/tracks/3fqrTK1FAKcfHg22N5gN5T",
+        "analysis_url": "https://api.spotify.com/v1/audio-analysis/3fqrTK1FAKcfHg22N5gN5T",
+        "duration_ms": 217827,
+        "time_signature": 4
       }
     ]
   }

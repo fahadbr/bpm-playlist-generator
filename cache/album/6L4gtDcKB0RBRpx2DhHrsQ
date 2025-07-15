@@ -2,6 +2,9 @@
   {
     "id": "5lFbGMt9ZYPvnWvWeimvkW",
     "name": "Be Alone",
+    "duration_ms": 280686,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Childish Gambino",
     "album": "EP (2011 Re-Release)",
     "bpm": 155.166,
@@ -31,6 +34,9 @@
   {
     "id": "7xTY3rJMgj0nh6OOPHgsLw",
     "name": "Freaks And Geeks",
+    "duration_ms": 217103,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Childish Gambino",
     "album": "EP (2011 Re-Release)",
     "bpm": 81.052,
@@ -60,6 +66,9 @@
   {
     "id": "146EkdID2XSngct4gG8NQl",
     "name": "My Shine",
+    "duration_ms": 212663,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Childish Gambino",
     "album": "EP (2011 Re-Release)",
     "bpm": 157.593,
@@ -89,6 +98,9 @@
   {
     "id": "48otelBlQznqDX6Uuio485",
     "name": "Lights Turned On",
+    "duration_ms": 233405,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Childish Gambino",
     "album": "EP (2011 Re-Release)",
     "bpm": 125.001,
@@ -118,6 +130,9 @@
   {
     "id": "4sy3B9TPNMIze8oFrDJnUN",
     "name": "Not Going Back",
+    "duration_ms": 280869,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Childish Gambino",
     "album": "EP (2011 Re-Release)",
     "bpm": 95.142,

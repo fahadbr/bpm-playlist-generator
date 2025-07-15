@@ -2,6 +2,9 @@
   {
     "id": "7ccTcabbJlCJiIqtrSSwBk",
     "name": "Premonition - Intro",
+    "duration_ms": 173893,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 165.979,
@@ -31,6 +34,9 @@
   {
     "id": "0q2vG0UVuy6ajjcpkQHdZM",
     "name": "Unaccommodating (feat. Young M.A)",
+    "duration_ms": 216600,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 89.95,
@@ -60,6 +66,9 @@
   {
     "id": "0GQ5bFTVFFKpwNPc7KwQnB",
     "name": "You Gon\u2019 Learn (feat. Royce Da 5'9\" & White Gold)",
+    "duration_ms": 234653,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 140.033,
@@ -89,6 +98,9 @@
   {
     "id": "4EmunTy7kNBYQivOa8F6b8",
     "name": "Alfred - Interlude",
+    "duration_ms": 30133,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 74.545,
@@ -118,6 +130,9 @@
   {
     "id": "0VSzREd1OjEWJ9tXoFHRQH",
     "name": "Those Kinda Nights (feat. Ed Sheeran)",
+    "duration_ms": 177693,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 103.868,
@@ -147,6 +162,9 @@
   {
     "id": "7Dj2wqPYXfSRFwa6qyOztr",
     "name": "In Too Deep",
+    "duration_ms": 194706,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 88.966,
@@ -176,6 +194,9 @@
   {
     "id": "7FIWs0pqAYbP91WWM0vlTQ",
     "name": "Godzilla (feat. Juice WRLD)",
+    "duration_ms": 210800,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 165.995,
@@ -205,6 +226,9 @@
   {
     "id": "5SiZJoLXp3WOl3J4C8IK0d",
     "name": "Darkness",
+    "duration_ms": 337146,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 75.055,
@@ -234,6 +258,9 @@
   {
     "id": "5CpsIb7SMFHjmAG8RvIWfq",
     "name": "Leaving Heaven (feat. Skylar Grey)",
+    "duration_ms": 265946,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 171.983,
@@ -263,6 +290,9 @@
   {
     "id": "5mZXWEH2eh8zMZGCxT5aW0",
     "name": "Yah Yah (feat. Royce Da 5'9\", Black Thought, Q-Tip & Denaun)",
+    "duration_ms": 286960,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 183.586,
@@ -292,6 +322,9 @@
   {
     "id": "2d3fdQ6OxmUIsF20eCpcrv",
     "name": "Stepdad - Intro",
+    "duration_ms": 15160,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 113.542,
@@ -321,6 +354,9 @@
   {
     "id": "3QVHSV8YKYq4L8tI5rnFgj",
     "name": "Stepdad",
+    "duration_ms": 213413,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 145.68,
@@ -350,6 +386,9 @@
   {
     "id": "34d7sGX6WUqq8f04e7CSNF",
     "name": "Marsh",
+    "duration_ms": 200573,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 144.989,
@@ -379,6 +418,9 @@
   {
     "id": "40YbWniIEmqy6s58fYXLUh",
     "name": "Never Love Again",
+    "duration_ms": 177546,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 92.029,
@@ -408,6 +450,9 @@
   {
     "id": "4qNWEOMyexn7b8Icyk29t9",
     "name": "Little Engine",
+    "duration_ms": 177293,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 155.081,
@@ -437,6 +482,9 @@
   {
     "id": "1qwMkkRiD5jqLeUUjfgblh",
     "name": "Lock It Up (feat. Anderson .Paak)",
+    "duration_ms": 170226,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 137.024,
@@ -466,6 +514,9 @@
   {
     "id": "74gykWHknHDrg4eMdcmdRq",
     "name": "Farewell",
+    "duration_ms": 247733,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 93.007,
@@ -495,6 +546,9 @@
   {
     "id": "1lO9CZo6eDrOy0S7khgryG",
     "name": "No Regrets (feat. Don Toliver)",
+    "duration_ms": 200946,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 134.935,
@@ -524,6 +578,9 @@
   {
     "id": "3CJbxqRQ0JNCqboWDNUUeX",
     "name": "I Will (feat. KXNG Crooked, Royce Da 5'9\" & Joell Ortiz)",
+    "duration_ms": 303000,
+    "explicit": true,
+    "track_number": 19,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 98.743,
@@ -553,6 +610,9 @@
   {
     "id": "1WAwILvz37MkmZfmGnEXfg",
     "name": "Alfred - Outro",
+    "duration_ms": 39200,
+    "explicit": true,
+    "track_number": 20,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
     "bpm": 106.972,

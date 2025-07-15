@@ -2,6 +2,9 @@
   {
     "id": "5WedFiLoUyE1e9d5JpxMFl",
     "name": "Reputation",
+    "duration_ms": 248177,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 180.119,
@@ -31,6 +34,9 @@
   {
     "id": "3RSNYrTfBFBv4NTRfKNp2M",
     "name": "Cooped Up (with Roddy Ricch)",
+    "duration_ms": 185857,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 93.923,
@@ -60,6 +66,9 @@
   {
     "id": "3nCvNB04BBiBbK77KKYFCB",
     "name": "Lemon Tree",
+    "duration_ms": 243486,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 116.106,
@@ -89,6 +98,9 @@
   {
     "id": "5CtPTzdOkkb8Bhy5JnUYyT",
     "name": "Wrapped Around Your Finger",
+    "duration_ms": 193565,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 119.966,
@@ -118,6 +130,9 @@
   {
     "id": "0EFehFdU9HbOBzxzJ60IjE",
     "name": "I Like You (A Happier Song) (with Doja Cat)",
+    "duration_ms": 192840,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 100.964,
@@ -147,6 +162,9 @@
   {
     "id": "2uoUmwEy9kSi1gp285zdsS",
     "name": "I Cannot Be (A Sadder Song) (with Gunna)",
+    "duration_ms": 169824,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 79.782,
@@ -176,6 +194,9 @@
   {
     "id": "6zc1W5CuZER3AbTvRCfLoa",
     "name": "Insane",
+    "duration_ms": 169660,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 82.546,
@@ -205,6 +226,9 @@
   {
     "id": "7uSxfwJFwtZwP7NTHxto2B",
     "name": "Love/Hate Letter To Alcohol (with Fleet Foxes)",
+    "duration_ms": 183816,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 108.007,
@@ -234,6 +258,9 @@
   {
     "id": "2mecYcpCQOoFtkRbtDiGg0",
     "name": "Wasting Angels (with The Kid LAROI)",
+    "duration_ms": 243158,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 84.967,
@@ -263,6 +290,9 @@
   {
     "id": "0AARQZvYkMgdATBz79AuVO",
     "name": "Euthanasia",
+    "duration_ms": 145795,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 141.997,
@@ -292,6 +322,9 @@
   {
     "id": "2eQQ8JdEJkb9tRXCnMd1QO",
     "name": "When I\u2019m Alone",
+    "duration_ms": 195110,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 140.107,
@@ -321,6 +354,9 @@
   {
     "id": "14gWHtoBsZ02dpcBevAyZZ",
     "name": "Waiting For A Miracle",
+    "duration_ms": 141851,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 127.136,
@@ -350,6 +386,9 @@
   {
     "id": "0UGyZR7RmVoYT0DBJCxTPy",
     "name": "One Right Now (with The Weeknd)",
+    "duration_ms": 192721,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 97.023,
@@ -379,6 +418,9 @@
   {
     "id": "3KZxVGMNNzlEdZ2sGcqWze",
     "name": "New Recording 12, Jan 3, 2020",
+    "duration_ms": 92718,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 106.144,
@@ -408,6 +450,9 @@
   {
     "id": "753lkDSNs2u188xbl8Vrnx",
     "name": "Waiting For Never",
+    "duration_ms": 196986,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 151.944,
@@ -437,6 +482,9 @@
   {
     "id": "6p49tiDlXi6m9BD20P0z05",
     "name": "Hateful",
+    "duration_ms": 178160,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Post Malone",
     "album": "Twelve Carat Toothache (Deluxe)",
     "bpm": 147.083,

@@ -2,6 +2,9 @@
   {
     "id": "0xjp9Li9jmlykJNrIlAnqe",
     "name": "Danger",
+    "duration_ms": 44333,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 164.73,
@@ -31,6 +34,9 @@
   {
     "id": "7tQpKKS4Jis0pCotemeLdz",
     "name": "Tetris",
+    "duration_ms": 124973,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 96.879,
@@ -60,6 +66,9 @@
   {
     "id": "6FoyBTuvyX2YFw4QW1e6DK",
     "name": "In my lifetime (feat. Action Bronson)",
+    "duration_ms": 108387,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 93.367,
@@ -89,6 +98,9 @@
   {
     "id": "6yiCFprNLeKraW5RsYUxiE",
     "name": "Decades",
+    "duration_ms": 148597,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 90.951,
@@ -118,6 +130,9 @@
   {
     "id": "6nI37NimdoCoRvPwxXZaMt",
     "name": "JJ Abrahams",
+    "duration_ms": 19606,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 97.896,
@@ -147,6 +162,9 @@
   {
     "id": "1LFDDwqjZtSzjXWIYXbY5O",
     "name": "BLACKWHITEBOY",
+    "duration_ms": 181761,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 88.278,
@@ -176,6 +194,9 @@
   {
     "id": "0IBHTkmEQCLGHJaWs1tuEg",
     "name": "Quasi",
+    "duration_ms": 105046,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 96.1,
@@ -205,6 +226,9 @@
   {
     "id": "3RTCSJf6MKrEXNjws0G6Ou",
     "name": "Bleed It",
+    "duration_ms": 151423,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 171.921,
@@ -234,6 +258,9 @@
   {
     "id": "5ZK1XF3s2KrFw63RBf6ciX",
     "name": "LaDonda",
+    "duration_ms": 134140,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 175.995,
@@ -263,6 +290,9 @@
   {
     "id": "0XfjQgy46bjlJ4bOOenNS6",
     "name": "Aaron Judge",
+    "duration_ms": 23536,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 92.134,
@@ -292,6 +322,9 @@
   {
     "id": "4VlMA2A8JRZnSI4Owdbnau",
     "name": "Clouds (feat. Langston Bristol & Curren$y)",
+    "duration_ms": 173011,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 130.626,
@@ -321,6 +354,9 @@
   {
     "id": "7xeic9Mig0gIkpMlMV4G0i",
     "name": "Michael Rap",
+    "duration_ms": 45066,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 92.4,
@@ -350,6 +386,9 @@
   {
     "id": "0mvWpmMlAcxHkjLu9yXdoS",
     "name": "Therapy Music (feat. Russ)",
+    "duration_ms": 262748,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 92.04,
@@ -379,6 +418,9 @@
   {
     "id": "6Rn5ruN2hIMqx9U8JNVHGz",
     "name": "Tony Revolori",
+    "duration_ms": 90073,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 92.143,
@@ -408,6 +450,9 @@
   {
     "id": "4Fs7O2jQCQMgU3uka3Qeci",
     "name": "Rogue One",
+    "duration_ms": 94165,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 203.266,
@@ -437,6 +482,9 @@
   {
     "id": "7Bi5CtEcDIduA53TdPHMLF",
     "name": "Breath Control (feat. Wiz Khalifa)",
+    "duration_ms": 147187,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 76.992,
@@ -466,6 +514,9 @@
   {
     "id": "4XvqNiFFUcS50jjVz3enH7",
     "name": "NEMS",
+    "duration_ms": 47445,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 92.191,
@@ -495,6 +546,9 @@
   {
     "id": "2Gt5hPrCYs1VxXFRzCFF2N",
     "name": "Nardwuar (feat. Doc D)",
+    "duration_ms": 86186,
+    "explicit": true,
+    "track_number": 18,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 172.026,
@@ -524,6 +578,9 @@
   {
     "id": "6CDIIpcpMfERHtf4MOdxr7",
     "name": "Kickstyle feat. iamJMARS, Big Lenbo & C Dot Castro)",
+    "duration_ms": 170026,
+    "explicit": true,
+    "track_number": 19,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 98.361,
@@ -553,6 +610,9 @@
   {
     "id": "13cRWsPNUmbgcSMPgOibVJ",
     "name": "EarlyBird",
+    "duration_ms": 67500,
+    "explicit": false,
+    "track_number": 20,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 79.929,
@@ -582,6 +642,9 @@
   {
     "id": "7IQvfSUydTVpnGxEEYOtQ4",
     "name": "Ten Years (feat. Royce Da 5'9'')",
+    "duration_ms": 181978,
+    "explicit": true,
+    "track_number": 21,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 90.968,
@@ -611,6 +674,9 @@
   {
     "id": "0MoNLRM0UJZplHvIjHUb0f",
     "name": "Porta one (feat. RZA)",
+    "duration_ms": 126017,
+    "explicit": true,
+    "track_number": 22,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 175.382,
@@ -640,6 +706,9 @@
   {
     "id": "4hewRzV173RcB3wBWAB8wE",
     "name": "NeedleDrop",
+    "duration_ms": 86198,
+    "explicit": false,
+    "track_number": 23,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 84.067,
@@ -669,6 +738,9 @@
   {
     "id": "5vDtuYvu3cQCz4FmjIFozi",
     "name": "Introducing Nezi (feat. Nezi Momodu)",
+    "duration_ms": 167802,
+    "explicit": true,
+    "track_number": 24,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 86.332,
@@ -698,6 +770,9 @@
   {
     "id": "4ATRca7cyTlvUhR3Mg1e0Y",
     "name": "Orville (feat. Like, Blu & Exile)",
+    "duration_ms": 202338,
+    "explicit": true,
+    "track_number": 25,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 95.041,
@@ -727,6 +802,9 @@
   {
     "id": "1yUFXYH1QsjTjqXwc5CvVN",
     "name": "Carnival (feat. AZ)",
+    "duration_ms": 154877,
+    "explicit": true,
+    "track_number": 26,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 93.083,
@@ -756,6 +834,9 @@
   {
     "id": "5Fhn3cVsSJdt4D5OzDiTkn",
     "name": "Lena's Insight",
+    "duration_ms": 58940,
+    "explicit": true,
+    "track_number": 27,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 86.004,
@@ -785,6 +866,9 @@
   {
     "id": "1NfIOF8pH2auEaGq4roP2I",
     "name": "Vinyl Days (feat. DJ Premier)",
+    "duration_ms": 282581,
+    "explicit": true,
+    "track_number": 28,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 89.959,
@@ -814,6 +898,9 @@
   {
     "id": "13IGCpBqSwDAzjSlQFBovS",
     "name": "I guess I love it (feat. The Game)",
+    "duration_ms": 228010,
+    "explicit": true,
+    "track_number": 29,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 159.933,
@@ -843,6 +930,9 @@
   {
     "id": "4HXNe0emLuIcX64ZfWPOoO",
     "name": "Sayonara",
+    "duration_ms": 603984,
+    "explicit": true,
+    "track_number": 30,
     "artist": "Logic",
     "album": "Vinyl Days",
     "bpm": 89.72,

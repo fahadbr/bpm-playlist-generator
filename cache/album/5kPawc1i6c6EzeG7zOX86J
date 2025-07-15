@@ -2,6 +2,9 @@
   {
     "id": "14ZgqhdUxMH6eSAnwtghoD",
     "name": "Image Of The Invisible",
+    "duration_ms": 254853,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Thrice",
     "album": "Vheissu",
     "bpm": 129.197,
@@ -31,6 +34,9 @@
   {
     "id": "3yESUCuprceFN1HbJz9rRG",
     "name": "Between The End And Where We Lie",
+    "duration_ms": 235746,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Thrice",
     "album": "Vheissu",
     "bpm": 180.376,
@@ -60,6 +66,9 @@
   {
     "id": "7dHs1eJRtIb5XVr8ylDI10",
     "name": "The Earth Will Shake",
+    "duration_ms": 268186,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Thrice",
     "album": "Vheissu",
     "bpm": 124.965,
@@ -89,6 +98,9 @@
   {
     "id": "1yhMNipm36Mh8SYh20LP9g",
     "name": "Atlantic",
+    "duration_ms": 240426,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Thrice",
     "album": "Vheissu",
     "bpm": 155.616,
@@ -118,6 +130,9 @@
   {
     "id": "0qZTxdSgBeriNI1WMPvqRr",
     "name": "For Miles",
+    "duration_ms": 266773,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Thrice",
     "album": "Vheissu",
     "bpm": 157.359,
@@ -147,6 +162,9 @@
   {
     "id": "3H2W9mYfQNYG31FOAD9q4W",
     "name": "Hold Fast Hope",
+    "duration_ms": 240253,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Thrice",
     "album": "Vheissu",
     "bpm": 97.916,
@@ -176,6 +194,9 @@
   {
     "id": "2g38FrpAogJwBc1wQ3HVJk",
     "name": "Music Box",
+    "duration_ms": 286040,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Thrice",
     "album": "Vheissu",
     "bpm": 147.522,
@@ -205,6 +226,9 @@
   {
     "id": "5uAg0qytjMZcsmFcV3LN6J",
     "name": "Like Moths To Flame",
+    "duration_ms": 266866,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Thrice",
     "album": "Vheissu",
     "bpm": 138.946,
@@ -234,6 +258,9 @@
   {
     "id": "1L079XUk8l1nWqEHUMPoVR",
     "name": "Of Dust And Nations",
+    "duration_ms": 290213,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Thrice",
     "album": "Vheissu",
     "bpm": 169.93,
@@ -263,6 +290,9 @@
   {
     "id": "3Q4r49Gp97TWUqN9xJwv0Q",
     "name": "Stand And Feel Your Worth",
+    "duration_ms": 352466,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Thrice",
     "album": "Vheissu",
     "bpm": 147.987,
@@ -292,6 +322,9 @@
   {
     "id": "6iicvZNMHFkznTOAucfvwR",
     "name": "Red Sky",
+    "duration_ms": 257746,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Thrice",
     "album": "Vheissu",
     "bpm": 141.476,
@@ -321,6 +354,9 @@
   {
     "id": "2glk9tS3gh48mewxVq4Tds",
     "name": "Atlantic - (Live From The Apple Store)",
+    "duration_ms": 254173,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Thrice",
     "album": "Vheissu",
     "bpm": 151.681,

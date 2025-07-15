@@ -2,6 +2,9 @@
   {
     "id": "3PQH6w0yfM2ewcIGmKd2yL",
     "name": "Intro/Spectrum",
+    "duration_ms": 90502,
+    "explicit": false,
+    "track_number": 1,
     "artist": "H\u00c6LOS",
     "album": "Full Circle",
     "bpm": 75.444,
@@ -31,6 +34,9 @@
   {
     "id": "77V8QD2ofscKhbKvFFQByG",
     "name": "Pray",
+    "duration_ms": 220745,
+    "explicit": false,
+    "track_number": 2,
     "artist": "H\u00c6LOS",
     "album": "Full Circle",
     "bpm": 107.015,
@@ -60,6 +66,9 @@
   {
     "id": "7AHaKrKuhzpl4xK0r2Jd9g",
     "name": "DUST",
+    "duration_ms": 278144,
+    "explicit": false,
+    "track_number": 3,
     "artist": "H\u00c6LOS",
     "album": "Full Circle",
     "bpm": 99.998,
@@ -89,6 +98,9 @@
   {
     "id": "1DcBU8x5d7BrCIcgTfIRzk",
     "name": "Full Circle",
+    "duration_ms": 303780,
+    "explicit": false,
+    "track_number": 4,
     "artist": "H\u00c6LOS",
     "album": "Full Circle",
     "bpm": 90.998,
@@ -118,6 +130,9 @@
   {
     "id": "5VDP0vZcOk7zNGJZpVrX9W",
     "name": "Earth Not Above",
+    "duration_ms": 275665,
+    "explicit": false,
+    "track_number": 5,
     "artist": "H\u00c6LOS",
     "album": "Full Circle",
     "bpm": 94.992,
@@ -147,6 +162,9 @@
   {
     "id": "2r2qdAE52TxkdHhePTcsxA",
     "name": "ORACLE",
+    "duration_ms": 327358,
+    "explicit": false,
+    "track_number": 6,
     "artist": "H\u00c6LOS",
     "album": "Full Circle",
     "bpm": 119.978,
@@ -176,6 +194,9 @@
   {
     "id": "4Vo0wEObIp0bYpyvd3NC1w",
     "name": "Alone",
+    "duration_ms": 273810,
+    "explicit": false,
+    "track_number": 7,
     "artist": "H\u00c6LOS",
     "album": "Full Circle",
     "bpm": 111.969,
@@ -205,6 +226,9 @@
   {
     "id": "7N21qy5O9BCfKh57DZsGEe",
     "name": "SEPARATE LIVES",
+    "duration_ms": 287197,
+    "explicit": false,
+    "track_number": 8,
     "artist": "H\u00c6LOS",
     "album": "Full Circle",
     "bpm": 124.635,
@@ -234,6 +258,9 @@
   {
     "id": "2OncuWgfweYuhXGTIriTzV",
     "name": "Sacred",
+    "duration_ms": 269119,
+    "explicit": false,
+    "track_number": 9,
     "artist": "H\u00c6LOS",
     "album": "Full Circle",
     "bpm": 119.993,
@@ -263,6 +290,9 @@
   {
     "id": "0OA21c0lyBEV102c6hOcr0",
     "name": "Cloud Nine",
+    "duration_ms": 339699,
+    "explicit": false,
+    "track_number": 10,
     "artist": "H\u00c6LOS",
     "album": "Full Circle",
     "bpm": 112.018,
@@ -292,6 +322,9 @@
   {
     "id": "1dsMaqz58lFw4HQs2Gbz9b",
     "name": "Pale",
+    "duration_ms": 268216,
+    "explicit": false,
+    "track_number": 11,
     "artist": "H\u00c6LOS",
     "album": "Full Circle",
     "bpm": 102.975,

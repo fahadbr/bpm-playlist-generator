@@ -2,6 +2,9 @@
   {
     "id": "3HXRx3b7X1Qx3LwJHrpgzB",
     "name": "Intro",
+    "duration_ms": 12666,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 0,
@@ -31,6 +34,9 @@
   {
     "id": "6BAJofeQE4sGoZzC2RKeps",
     "name": "The 18th Letter (Always And Forever)",
+    "duration_ms": 180933,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 81.891,
@@ -60,6 +66,9 @@
   {
     "id": "0PyEovyyFmUiYE9S2R9phH",
     "name": "Skit 1",
+    "duration_ms": 23573,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 82.26,
@@ -89,6 +98,9 @@
   {
     "id": "75QmGYJmgX1czkC2Jrfntj",
     "name": "It's Been A Long Time",
+    "duration_ms": 236533,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 88.664,
@@ -118,6 +130,9 @@
   {
     "id": "0ksqgPrEN3doICUs1HgAmk",
     "name": "Remember That",
+    "duration_ms": 280093,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 87.868,
@@ -147,6 +162,9 @@
   {
     "id": "6twONvr0PRaGsdszvMpaSW",
     "name": "The Saga Begins",
+    "duration_ms": 262133,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 90.048,
@@ -176,6 +194,9 @@
   {
     "id": "3uBZ6nXhlHSMgPLmJV1FRM",
     "name": "Skit 2",
+    "duration_ms": 19066,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 70.566,
@@ -205,6 +226,9 @@
   {
     "id": "017GzE58P4jNjqO7uls7M4",
     "name": "Guess Who's Back",
+    "duration_ms": 250906,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 93.942,
@@ -234,6 +258,9 @@
   {
     "id": "0hgj0ENdyCkPb2sYxM2aE8",
     "name": "Stay A While",
+    "duration_ms": 264933,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 94.74,
@@ -263,6 +290,9 @@
   {
     "id": "4Qs6I7bG9hydvdOECTZbc1",
     "name": "New York (Ya Out There)",
+    "duration_ms": 244133,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 90.079,
@@ -292,6 +322,9 @@
   {
     "id": "2FUAtKdVgUzYr4Hs4iSqQQ",
     "name": "Show Me Love",
+    "duration_ms": 258800,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 88.832,
@@ -321,6 +354,9 @@
   {
     "id": "1Su7D0tOU97LAmF1Zq5Bph",
     "name": "Skit 3",
+    "duration_ms": 18933,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 63.113,
@@ -350,6 +386,9 @@
   {
     "id": "4bm4oKn4s1NX1B5APkD6xB",
     "name": "The Mystery (Who Is God?)",
+    "duration_ms": 320560,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 84.163,
@@ -379,6 +418,9 @@
   {
     "id": "4EH3IuqcfLMj0eIHZmY4pn",
     "name": "When I'm Flowin'",
+    "duration_ms": 304240,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 87.741,
@@ -408,6 +450,9 @@
   {
     "id": "2Lnm8zUUmP4RLjY9xHr0j4",
     "name": "It's Been A Long Time - Suave House Mix",
+    "duration_ms": 238866,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 88.622,
@@ -437,6 +482,9 @@
   {
     "id": "5Po11JyzClJPcGk2QnUASE",
     "name": "Guess Who's Back - Alternate Mix",
+    "duration_ms": 250600,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 94.056,
@@ -466,6 +514,9 @@
   {
     "id": "1xiqGaMeZqLFY9TpA07k4F",
     "name": "Outro",
+    "duration_ms": 79866,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Rakim",
     "album": "The 18th Letter",
     "bpm": 80.852,

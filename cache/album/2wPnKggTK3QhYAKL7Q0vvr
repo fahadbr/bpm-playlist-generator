@@ -2,6 +2,9 @@
   {
     "id": "1VTn4DY9aJn5Wc05ieKx6T",
     "name": "Look Alive, Sunshine",
+    "duration_ms": 29733,
+    "explicit": false,
+    "track_number": 1,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 128.773,
@@ -31,6 +34,9 @@
   {
     "id": "5BB0Jzw60KyfSTyjJqtely",
     "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+    "duration_ms": 205960,
+    "explicit": true,
+    "track_number": 2,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 165.981,
@@ -60,6 +66,9 @@
   {
     "id": "2EGF4JrisrJ4D4HOdTyYEO",
     "name": "Bulletproof Heart",
+    "duration_ms": 296733,
+    "explicit": false,
+    "track_number": 3,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 139.715,
@@ -89,6 +98,9 @@
   {
     "id": "1mX6SYJ1ZpcoxQUiER8wOI",
     "name": "SING",
+    "duration_ms": 270386,
+    "explicit": false,
+    "track_number": 4,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 110.98,
@@ -118,6 +130,9 @@
   {
     "id": "3iitOoZUtWEgwZOEYFITFo",
     "name": "Planetary (GO!)",
+    "duration_ms": 246760,
+    "explicit": true,
+    "track_number": 5,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 131.991,
@@ -147,6 +162,9 @@
   {
     "id": "0OByd6pqxZzsXZRj6kJYbN",
     "name": "The Only Hope for Me Is You",
+    "duration_ms": 272773,
+    "explicit": false,
+    "track_number": 6,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 125.92,
@@ -176,6 +194,9 @@
   {
     "id": "2iMjpD1UJzncfBpOsVeupT",
     "name": "Jet-Star and the Kobra Kid / Traffic Report",
+    "duration_ms": 26440,
+    "explicit": false,
+    "track_number": 7,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 111.425,
@@ -205,6 +226,9 @@
   {
     "id": "1RT6zSjs59gJdFfUshT465",
     "name": "Party Poison",
+    "duration_ms": 215960,
+    "explicit": false,
+    "track_number": 8,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 162.954,
@@ -234,6 +258,9 @@
   {
     "id": "3CX5UKLQ9zqorQDx00Sbgt",
     "name": "Save Yourself, I'll Hold Them Back",
+    "duration_ms": 230426,
+    "explicit": true,
+    "track_number": 9,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 136.9,
@@ -263,6 +290,9 @@
   {
     "id": "53lQywP7h2KlnfPAbwxWD9",
     "name": "S/C/A/R/E/C/R/O/W",
+    "duration_ms": 268426,
+    "explicit": false,
+    "track_number": 10,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 155.031,
@@ -292,6 +322,9 @@
   {
     "id": "7cQjIIjLOhbRVCXyIepF2U",
     "name": "Summertime",
+    "duration_ms": 246720,
+    "explicit": false,
+    "track_number": 11,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 130.031,
@@ -321,6 +354,9 @@
   {
     "id": "08gaUXuT1LXIae7TwBTCB9",
     "name": "DESTROYA",
+    "duration_ms": 272906,
+    "explicit": false,
+    "track_number": 12,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 100.038,
@@ -350,6 +386,9 @@
   {
     "id": "5A0OekqQy0rb1pcsf4k0J7",
     "name": "The Kids from Yesterday",
+    "duration_ms": 324973,
+    "explicit": false,
+    "track_number": 13,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 120.007,
@@ -379,6 +418,9 @@
   {
     "id": "1QPY7FhOsWSbvpKuQW6q4O",
     "name": "Goodnite, Dr. Death",
+    "duration_ms": 119040,
+    "explicit": false,
+    "track_number": 14,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 89.815,
@@ -408,6 +450,9 @@
   {
     "id": "4kXHIm097G3CemN3PzcpgL",
     "name": "Vampire Money",
+    "duration_ms": 218120,
+    "explicit": true,
+    "track_number": 15,
     "artist": "My Chemical Romance",
     "album": "Danger Days: The True Lives of the Fabulous Killjoys",
     "bpm": 183.718,

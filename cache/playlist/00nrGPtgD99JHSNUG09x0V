@@ -2,6 +2,9 @@
   {
     "id": "31qgVdvSqTQ7unwQQngycB",
     "name": "Can't Hold Us (feat. Ray Dalton)",
+    "duration_ms": 258431,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Macklemore & Ryan Lewis",
     "album": "The Heist (Deluxe Edition)",
     "playlist": "workout 11/23/19",
@@ -32,8 +35,12 @@
   {
     "id": "60SdxE8apGAxMiRrpbmLY0",
     "name": "Lucky You (feat. Joyner Lucas)",
+    "duration_ms": 244679,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Eminem",
     "album": "Kamikaze",
+    "playlist": "workout 11/23/19",
     "bpm": 153.068,
     "features": [
       {
@@ -61,8 +68,12 @@
   {
     "id": "15DwFznkBJir7AK9PyMyRR",
     "name": "17",
+    "duration_ms": 196489,
+    "explicit": false,
+    "track_number": 1,
     "artist": "MK",
     "album": "17",
+    "playlist": "workout 11/23/19",
     "bpm": 122.029,
     "features": [
       {
@@ -90,8 +101,12 @@
   {
     "id": "7xTY3rJMgj0nh6OOPHgsLw",
     "name": "Freaks And Geeks",
+    "duration_ms": 217103,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Childish Gambino",
     "album": "EP (2011 Re-Release)",
+    "playlist": "workout 11/23/19",
     "bpm": 81.052,
     "features": [
       {
@@ -119,8 +134,12 @@
   {
     "id": "146EkdID2XSngct4gG8NQl",
     "name": "My Shine",
+    "duration_ms": 212663,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Childish Gambino",
     "album": "EP (2011 Re-Release)",
+    "playlist": "workout 11/23/19",
     "bpm": 157.593,
     "features": [
       {
@@ -148,8 +167,12 @@
   {
     "id": "6amCeNhEjgxBlWkwgmdboa",
     "name": "Living Proof",
+    "duration_ms": 235400,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Bad Meets Evil",
     "album": "Hell: The Sequel (Deluxe)",
+    "playlist": "workout 11/23/19",
     "bpm": 124.821,
     "features": [
       {
@@ -177,8 +200,12 @@
   {
     "id": "0mNq7RNDBjoTqd2XT36qUL",
     "name": "There Could Be Nothing After This",
+    "duration_ms": 206013,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Underoath",
     "album": "Define The Great Line",
+    "playlist": "workout 11/23/19",
     "bpm": 176.904,
     "features": [
       {
@@ -206,8 +233,12 @@
   {
     "id": "5rK0oa87GjgVTJ8bGcaape",
     "name": "You're Ever So Inviting",
+    "duration_ms": 253826,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Underoath",
     "album": "Define The Great Line",
+    "playlist": "workout 11/23/19",
     "bpm": 179.983,
     "features": [
       {
@@ -235,8 +266,12 @@
   {
     "id": "3hMTsuLSxgOTMyEEkvfad1",
     "name": "Breathing In A New Mentality",
+    "duration_ms": 157440,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
+    "playlist": "workout 11/23/19",
     "bpm": 105.04,
     "features": [
       {
@@ -264,8 +299,12 @@
   {
     "id": "1YNmI8U6y6DTw56oOITpiS",
     "name": "Anyone Can Dig A Hole But It Takes A Real Man To Call It Home",
+    "duration_ms": 196426,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Underoath",
     "album": "Lost In The Sound Of Separation",
+    "playlist": "workout 11/23/19",
     "bpm": 173.827,
     "features": [
       {

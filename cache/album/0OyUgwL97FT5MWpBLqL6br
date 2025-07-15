@@ -2,6 +2,9 @@
   {
     "id": "7gPrkmgSB5wwquMl2BnNic",
     "name": "Unstoppable",
+    "duration_ms": 328508,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Lianne La Havas",
     "album": "Blood",
     "bpm": 79.967,
@@ -31,6 +34,9 @@
   {
     "id": "4VPpZXXeZHfpzvHNaPjLcF",
     "name": "Green & Gold",
+    "duration_ms": 278200,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Lianne La Havas",
     "album": "Blood",
     "bpm": 93.966,
@@ -60,6 +66,9 @@
   {
     "id": "0gorODYIUfyg83lBPnPbZs",
     "name": "What You Don't Do",
+    "duration_ms": 220586,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Lianne La Havas",
     "album": "Blood",
     "bpm": 114.377,
@@ -89,6 +98,9 @@
   {
     "id": "7KxxbPoJexYNsguPtQ7YZq",
     "name": "Tokyo",
+    "duration_ms": 269053,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Lianne La Havas",
     "album": "Blood",
     "bpm": 87.99,
@@ -118,6 +130,9 @@
   {
     "id": "2OQRTHRncJ5YeuirHlvErE",
     "name": "Wonderful",
+    "duration_ms": 256413,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Lianne La Havas",
     "album": "Blood",
     "bpm": 94.009,
@@ -147,6 +162,9 @@
   {
     "id": "6c3S2wem7E9jyD69Tm3VfE",
     "name": "Midnight",
+    "duration_ms": 209786,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Lianne La Havas",
     "album": "Blood",
     "bpm": 170.102,
@@ -176,6 +194,9 @@
   {
     "id": "6tgdUQbvTVasO8CWWIt3hO",
     "name": "Grow",
+    "duration_ms": 218893,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Lianne La Havas",
     "album": "Blood",
     "bpm": 175.742,
@@ -205,6 +226,9 @@
   {
     "id": "4bTFBpHCtmTXENZv5hHHB5",
     "name": "Ghost",
+    "duration_ms": 223640,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Lianne La Havas",
     "album": "Blood",
     "bpm": 92.128,
@@ -234,6 +258,9 @@
   {
     "id": "7rWqL6XVmRMHrqwq0GTazK",
     "name": "Never Get Enough",
+    "duration_ms": 201760,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Lianne La Havas",
     "album": "Blood",
     "bpm": 157.593,
@@ -263,6 +290,9 @@
   {
     "id": "1NBryvK85AodnQwIy8qPWc",
     "name": "Good Goodbye",
+    "duration_ms": 229066,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Lianne La Havas",
     "album": "Blood",
     "bpm": 124.906,

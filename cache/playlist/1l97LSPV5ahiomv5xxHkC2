@@ -2,6 +2,9 @@
   {
     "id": "6VfNPL93TsZpmwpe2BJxNc",
     "name": "MADELINE",
+    "duration_ms": 204791,
+    "explicit": true,
+    "track_number": 1,
     "artist": "INJI",
     "album": "MADELINE",
     "playlist": "Liked Tier 2",
@@ -32,6 +35,9 @@
   {
     "id": "34rwJDeFgvZXd9KtiBkQKI",
     "name": "Beat Breaks (feat. Nas)",
+    "duration_ms": 159154,
+    "explicit": true,
+    "track_number": 3,
     "artist": "DJ Premier",
     "album": "Hip Hop 50: Vol. 1",
     "playlist": "Liked Tier 2",
@@ -62,6 +68,9 @@
   {
     "id": "2OZZpID4LgZ0GGm8XB99e3",
     "name": "Don't Forget My Love",
+    "duration_ms": 199090,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Diplo",
     "album": "Don't Forget My Love",
     "playlist": "Liked Tier 2",
@@ -92,6 +101,9 @@
   {
     "id": "1yNNnxR2LIiVeV2hoRfAIh",
     "name": "Farsh Pe Khade",
+    "duration_ms": 178750,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Achint",
     "album": "Monica, O My Darling (Music from the Netflix Film)",
     "playlist": "Liked Tier 2",
@@ -122,6 +134,9 @@
   {
     "id": "6BwPstqf4RoRMbDidFWNxE",
     "name": "Do It All Again",
+    "duration_ms": 137419,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Punctual",
     "album": "Do It All Again",
     "playlist": "Liked Tier 2",
@@ -152,6 +167,9 @@
   {
     "id": "2KukL7UlQ8TdvpaA7bY3ZJ",
     "name": "BREAK MY SOUL",
+    "duration_ms": 278281,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Beyonc\u00e9",
     "album": "BREAK MY SOUL",
     "playlist": "Liked Tier 2",
@@ -182,6 +200,9 @@
   {
     "id": "63zwG1gDxuUbd8DRcVv8lO",
     "name": "Dil Tarpe",
+    "duration_ms": 393392,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Rahat Fateh Ali Khan",
     "album": "Dil Tarpe",
     "playlist": "Liked Tier 2",
@@ -212,6 +233,9 @@
   {
     "id": "0dLJH4sfa4eFqbu22J0sAi",
     "name": "Ishq Da Kukkar",
+    "duration_ms": 346956,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Sehar Gul Khan",
     "album": "Ishq Da Kukkar",
     "playlist": "Liked Tier 2",
@@ -242,6 +266,9 @@
   {
     "id": "6TAgLk1hY89as3X36xdwtv",
     "name": "Har Funn Maula",
+    "duration_ms": 366250,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Umair Jaswal",
     "album": "Har Funn Maula",
     "playlist": "Liked Tier 2",
@@ -272,6 +299,9 @@
   {
     "id": "3XKjZcgNYtvCmBpE1nX7Wn",
     "name": "I am not a woman, I'm a god",
+    "duration_ms": 176413,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Halsey",
     "album": "If I Can\u2019t Have Love, I Want Power",
     "playlist": "Liked Tier 2",
@@ -302,6 +332,9 @@
   {
     "id": "3m8YMaSrqJYLT22Fd62UQX",
     "name": "Dance, Dance, Christa Paffgen",
+    "duration_ms": 426520,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Anberlin",
     "album": "Never Take Friendship Personal",
     "playlist": "Liked Tier 2",
@@ -332,8 +365,12 @@
   {
     "id": "2qsQ8eVDPmobZpvDxQCVQu",
     "name": "Barbie Tingz",
+    "duration_ms": 191699,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Nicki Minaj",
     "album": "Barbie Tingz",
+    "playlist": "Liked Tier 2",
     "bpm": 102.449,
     "features": [
       {
@@ -361,6 +398,9 @@
   {
     "id": "1BKT2I9x4RGKaKqW4up34s",
     "name": "Ruff Ryders' Anthem",
+    "duration_ms": 214440,
+    "explicit": true,
+    "track_number": 2,
     "artist": "DMX",
     "album": "It's Dark And Hell Is Hot",
     "playlist": "Liked Tier 2",
@@ -391,6 +431,9 @@
   {
     "id": "5uEYRdEIh9Bo4fpjDd4Na9",
     "name": "Goosebumps - Remix",
+    "duration_ms": 162802,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Travis Scott",
     "album": "Goosebumps (Remix)",
     "playlist": "Liked Tier 2",
@@ -421,6 +464,9 @@
   {
     "id": "6CU0zWIWVTEnmWpSjVHM93",
     "name": "You Gotta Be",
+    "duration_ms": 245200,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Des'ree",
     "album": "I Ain't Movin'",
     "playlist": "Liked Tier 2",
@@ -451,6 +497,9 @@
   {
     "id": "1Is8hGpkGMiePASAxBluxM",
     "name": "16",
+    "duration_ms": 156040,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Baby Keem",
     "album": "The Melodic Blue",
     "playlist": "Liked Tier 2",
@@ -481,6 +530,9 @@
   {
     "id": "7iTloMifzZo9ZNZKEe4V2V",
     "name": "The Hills - Remix",
+    "duration_ms": 263693,
+    "explicit": true,
+    "track_number": 1,
     "artist": "The Weeknd",
     "album": "The Hills Remixes",
     "playlist": "Liked Tier 2",
@@ -511,6 +563,9 @@
   {
     "id": "3jDdpx9PMlfMBS5tOBHFm9",
     "name": "Return of the Mack",
+    "duration_ms": 213093,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Mark Morrison",
     "album": "Return of the Mack",
     "playlist": "Liked Tier 2",

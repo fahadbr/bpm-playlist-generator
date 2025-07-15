@@ -2,6 +2,9 @@
   {
     "id": "1UmKAxmX38mKnwUC9N4RuJ",
     "name": "Holding on to Good",
+    "duration_ms": 284920,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 145.965,
@@ -31,6 +34,9 @@
   {
     "id": "72qPAcGzgLm1lL9cpz9Jwp",
     "name": "Is There Anyone out There",
+    "duration_ms": 290226,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 160.988,
@@ -60,6 +66,9 @@
   {
     "id": "63byZ03y35JFoU735ZPfXO",
     "name": "Morning Comes",
+    "duration_ms": 238360,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 174.339,
@@ -89,6 +98,9 @@
   {
     "id": "5i9ob4zvx3a72kPLfheUkh",
     "name": "If I Loved You",
+    "duration_ms": 219146,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 171.19,
@@ -118,6 +130,9 @@
   {
     "id": "2LzyUfJdRp3uqTrITBJXEY",
     "name": "Bottom of the River",
+    "duration_ms": 202520,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 74.672,
@@ -147,6 +162,9 @@
   {
     "id": "4SuLdroRxgYX7ibItOVB01",
     "name": "Country House",
+    "duration_ms": 263826,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 77.948,
@@ -176,6 +194,9 @@
   {
     "id": "3nxObHvLOpRPuGDy8KVKPl",
     "name": "Surrounded",
+    "duration_ms": 289653,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 150.033,
@@ -205,6 +226,9 @@
   {
     "id": "1gOEbMyphMVhTyZ4HxXQro",
     "name": "Dance in the Graveyards",
+    "duration_ms": 207640,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 102.003,
@@ -234,6 +258,9 @@
   {
     "id": "4m9hINfMRMzH5tArljmhqQ",
     "name": "Fire",
+    "duration_ms": 220960,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 79.852,
@@ -263,6 +290,9 @@
   {
     "id": "2zfWpRfj8xd5I48x9DSUuF",
     "name": "Forgive the Children We Once Were",
+    "duration_ms": 280253,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 139.402,
@@ -292,6 +322,9 @@
   {
     "id": "1uJ5I0bvgQKlX1Wng5T88q",
     "name": "Unlike Any Other",
+    "duration_ms": 188013,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 68.99,
@@ -321,6 +354,9 @@
   {
     "id": "3CMLuCytBHykn4m4gpQewX",
     "name": "Hey, Hey, Hey",
+    "duration_ms": 242026,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 101.962,
@@ -350,6 +386,9 @@
   {
     "id": "1jkDA4uq4X5n3aLJoIcmL3",
     "name": "New Days - Acoustic",
+    "duration_ms": 170857,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 100.941,
@@ -379,6 +418,9 @@
   {
     "id": "5TyyqkEv8itQo5EAScsD48",
     "name": "Morning Comes - Acoustic",
+    "duration_ms": 259464,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 79.193,
@@ -408,6 +450,9 @@
   {
     "id": "4Nw48uG2LlY39v2NgCtEAZ",
     "name": "If I Loved You (feat. Lindsey Buckingham)",
+    "duration_ms": 216479,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 88.066,
@@ -437,6 +482,9 @@
   {
     "id": "4tsGGnmA744Trbr9iskmXg",
     "name": "Dance in the Graveyards - Alternate Version; aka EP Version",
+    "duration_ms": 197093,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Delta Rae",
     "album": "Carry the Fire",
     "bpm": 102.917,

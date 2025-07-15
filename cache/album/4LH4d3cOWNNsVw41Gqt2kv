@@ -2,6 +2,9 @@
   {
     "id": "574y1r7o2tRA009FW0LE7v",
     "name": "Speak to Me",
+    "duration_ms": 65314,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
     "bpm": 119.504,
@@ -31,6 +34,9 @@
   {
     "id": "2ctvdKmETyOzPb2GiJJT53",
     "name": "Breathe (In the Air)",
+    "duration_ms": 169534,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
     "bpm": 128.153,
@@ -60,6 +66,9 @@
   {
     "id": "73OIUNKRi2y24Cu9cOLrzM",
     "name": "On the Run",
+    "duration_ms": 225384,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
     "bpm": 165.393,
@@ -89,6 +98,9 @@
   {
     "id": "3TO7bbrUKrOSPGRTB5MeCz",
     "name": "Time",
+    "duration_ms": 413947,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
     "bpm": 120.285,
@@ -118,6 +130,9 @@
   {
     "id": "2TjdnqlpwOjhijHCwHCP2d",
     "name": "The Great Gig in the Sky",
+    "duration_ms": 283872,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
     "bpm": 116.334,
@@ -147,6 +162,9 @@
   {
     "id": "0vFOzaXqZHahrZp6enQwQb",
     "name": "Money",
+    "duration_ms": 382834,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
     "bpm": 126.256,
@@ -176,6 +194,9 @@
   {
     "id": "1TKTiKp3zbNgrBH2IwSwIx",
     "name": "Us and Them",
+    "duration_ms": 469224,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
     "bpm": 72.518,
@@ -205,6 +226,9 @@
   {
     "id": "6FBPOJLxUZEair6x4kLDhf",
     "name": "Any Colour You Like",
+    "duration_ms": 206429,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
     "bpm": 150.587,
@@ -234,6 +258,9 @@
   {
     "id": "05uGBKRCuePsf43Hfm0JwX",
     "name": "Brain Damage",
+    "duration_ms": 226666,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
     "bpm": 133.568,
@@ -263,6 +290,9 @@
   {
     "id": "1tDWVeCR9oWGX8d5J9rswk",
     "name": "Eclipse",
+    "duration_ms": 130427,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Pink Floyd",
     "album": "The Dark Side of the Moon",
     "bpm": 68.064,

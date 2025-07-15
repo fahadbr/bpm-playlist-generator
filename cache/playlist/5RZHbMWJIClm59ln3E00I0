@@ -2,6 +2,9 @@
   {
     "id": "4qxUFzBKlmP98kIRKFszju",
     "name": "Lights - Bassnectar Remix - Bonus Track",
+    "duration_ms": 276626,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Ellie Goulding",
     "album": "Lights",
     "playlist": "Running Low Intensity 1",
@@ -32,6 +35,9 @@
   {
     "id": "0oiv4E896TUTTeQU0cmIui",
     "name": "Massive",
+    "duration_ms": 336924,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Drake",
     "album": "Honestly, Nevermind",
     "playlist": "Running Low Intensity 1",
@@ -62,6 +68,9 @@
   {
     "id": "6aiHF2IbJr6lG4Vu9em8KF",
     "name": "Believer - Kaskade Remix",
+    "duration_ms": 190893,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Imagine Dragons",
     "album": "Believer (Kaskade Remix)",
     "playlist": "Running Low Intensity 1",
@@ -92,8 +101,12 @@
   {
     "id": "5vPLVZeMGWcnmFWH4imeND",
     "name": "Frontline",
+    "duration_ms": 199500,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Abdullah Siddiqui",
     "album": "Heterotopia",
+    "playlist": "Running Low Intensity 1",
     "bpm": 134.926,
     "features": [
       {
@@ -121,8 +134,12 @@
   {
     "id": "3irKogkH8P1B1nONmEcHgY",
     "name": "YSIV",
+    "duration_ms": 369240,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Logic",
     "album": "YSIV",
+    "playlist": "Running Low Intensity 1",
     "bpm": 91.022,
     "features": [
       {
@@ -150,8 +167,12 @@
   {
     "id": "0Yvwo9fENGoa60k3ClwzQf",
     "name": "Alpha Omega",
+    "duration_ms": 212560,
+    "explicit": true,
+    "track_number": 2,
     "artist": "mgk",
     "album": "General Admission (Deluxe)",
+    "playlist": "Running Low Intensity 1",
     "bpm": 124.103,
     "features": [
       {
@@ -179,8 +200,12 @@
   {
     "id": "3AA50LilsWIK5HstsdUa0I",
     "name": "The Emptiness Machine",
+    "duration_ms": 190427,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Linkin Park",
     "album": "From Zero (Deluxe Edition)",
+    "playlist": "Running Low Intensity 1",
     "bpm": 184.115,
     "features": [
       {
@@ -208,8 +233,12 @@
   {
     "id": "6KlVxwMX2pepWM9RkIYQvu",
     "name": "GET THE BROOM",
+    "duration_ms": 152613,
+    "explicit": true,
+    "track_number": 8,
     "artist": "mgk",
     "album": "BINGE",
+    "playlist": "Running Low Intensity 1",
     "bpm": 129.037,
     "features": [
       {
@@ -237,8 +266,12 @@
   {
     "id": "2aLVUQS8wipdinBxqm5YBE",
     "name": "Go Go Gadget Flow",
+    "duration_ms": 250386,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Lupe Fiasco",
     "album": "Lupe Fiasco's The Cool",
+    "playlist": "Running Low Intensity 1",
     "bpm": 148.014,
     "features": [
       {
@@ -266,8 +299,12 @@
   {
     "id": "0nj9Bq5sHDiTxSHunhgkFb",
     "name": "squabble up",
+    "duration_ms": 157992,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Kendrick Lamar",
     "album": "GNX",
+    "playlist": "Running Low Intensity 1",
     "bpm": 103.921,
     "features": [
       {
@@ -295,6 +332,9 @@
   {
     "id": "1nYeVF5vIBxMxfPoL0SIWg",
     "name": "Hallucinate",
+    "duration_ms": 208505,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Dua Lipa",
     "album": "Future Nostalgia",
     "playlist": "Running Low Intensity 1",
@@ -325,6 +365,9 @@
   {
     "id": "5nujrmhLynf4yMoMtj8AQF",
     "name": "Levitating (feat. DaBaby)",
+    "duration_ms": 203064,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Dua Lipa",
     "album": "Future Nostalgia",
     "playlist": "Running Low Intensity 1",
@@ -355,6 +398,9 @@
   {
     "id": "40SBS57su9xLiE1WqkXOVr",
     "name": "Afraid To Feel",
+    "duration_ms": 177524,
+    "explicit": false,
+    "track_number": 1,
     "artist": "LF SYSTEM",
     "album": "Afraid To Feel",
     "playlist": "Running Low Intensity 1",
@@ -385,6 +431,9 @@
   {
     "id": "6clzeGvi1CFioMOolbAOlX",
     "name": "Stay With Me (with Justin Timberlake, Halsey & Pharrell)",
+    "duration_ms": 229282,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Calvin Harris",
     "album": "Funk Wav Bounces Vol. 2",
     "playlist": "Running Low Intensity 1",
@@ -415,6 +464,9 @@
   {
     "id": "3ck2KxuP99yTwWzdf8piiC",
     "name": "Cold Heart - Claptone Remix",
+    "duration_ms": 183807,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Elton John",
     "album": "Cold Heart (Claptone Remix)",
     "playlist": "Running Low Intensity 1",
@@ -445,6 +497,9 @@
   {
     "id": "7ef4DlsgrMEH11cDZd32M6",
     "name": "One Kiss (with Dua Lipa)",
+    "duration_ms": 214846,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Calvin Harris",
     "album": "One Kiss (with Dua Lipa)",
     "playlist": "Running Low Intensity 1",
@@ -475,6 +530,9 @@
   {
     "id": "64F1ojnPPiJiFZtYQtHB7r",
     "name": "Eye of the Tiger",
+    "duration_ms": 245533,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Survivor",
     "album": "Ultimate Survivor",
     "playlist": "Running Low Intensity 1",
@@ -505,6 +563,9 @@
   {
     "id": "57JVGBtBLCfHw2muk5416J",
     "name": "Another One Bites The Dust - Remastered 2011",
+    "duration_ms": 214653,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Queen",
     "album": "The Game (Deluxe Remastered Version)",
     "playlist": "Running Low Intensity 1",
@@ -535,6 +596,9 @@
   {
     "id": "7N3PAbqfTjSEU1edb2tY8j",
     "name": "Jump - 2015 Remaster",
+    "duration_ms": 241599,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Van Halen",
     "album": "1984 (Remastered)",
     "playlist": "Running Low Intensity 1",
@@ -565,6 +629,9 @@
   {
     "id": "7oahNRcO0CxOOQWlqpuH40",
     "name": "Mind Blown",
+    "duration_ms": 161593,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Syn Cole",
     "album": "Mind Blown",
     "playlist": "Running Low Intensity 1",
@@ -595,8 +662,12 @@
   {
     "id": "0Fd4oSOZ2nHtdHOkgyI4qz",
     "name": "Heavy Is the Crown",
+    "duration_ms": 167012,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Linkin Park",
     "album": "From Zero (Deluxe Edition)",
+    "playlist": "Running Low Intensity 1",
     "bpm": 127.939,
     "features": [
       {
@@ -624,6 +695,9 @@
   {
     "id": "0SyxZC4wlqAwf20cHE6Xon",
     "name": "Bulletproof",
+    "duration_ms": 162213,
+    "explicit": false,
+    "track_number": 1,
     "artist": "La Roux",
     "album": "Bulletproof",
     "playlist": "Running Low Intensity 1",
@@ -654,6 +728,9 @@
   {
     "id": "4cxvludVmQxryrnx1m9FqL",
     "name": "My Shot",
+    "duration_ms": 333154,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Lin-Manuel Miranda",
     "album": "Hamilton (Original Broadway Cast Recording)",
     "playlist": "Running Low Intensity 1",
@@ -684,6 +761,9 @@
   {
     "id": "5Q9DzNnrUCkJV1t1wWjYIX",
     "name": "Bad Habits - Joel Corry Remix",
+    "duration_ms": 189577,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Ed Sheeran",
     "album": "Bad Habits (Joel Corry Remix)",
     "playlist": "Running Low Intensity 1",
@@ -714,6 +794,9 @@
   {
     "id": "2m1hi0nfMR9vdGC8UcrnwU",
     "name": "All The Small Things",
+    "duration_ms": 167066,
+    "explicit": false,
+    "track_number": 8,
     "artist": "blink-182",
     "album": "Enema Of The State",
     "playlist": "Running Low Intensity 1",
@@ -744,6 +827,9 @@
   {
     "id": "0G21yYKMZoHa30cYVi1iA8",
     "name": "Welcome To The Jungle",
+    "duration_ms": 273480,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Guns N' Roses",
     "album": "Appetite For Destruction",
     "playlist": "Running Low Intensity 1",
@@ -774,6 +860,9 @@
   {
     "id": "5ChkMS8OtdzJeqyybCc9R5",
     "name": "Billie Jean",
+    "duration_ms": 293826,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Michael Jackson",
     "album": "Thriller 25 Super Deluxe Edition",
     "playlist": "Running Low Intensity 1",
@@ -804,6 +893,9 @@
   {
     "id": "1WOwGVtrVWtV3WW7X4TZoB",
     "name": "Public Service Announcement (Interlude)",
+    "duration_ms": 173000,
+    "explicit": true,
+    "track_number": 10,
     "artist": "JAY-Z",
     "album": "The Black Album",
     "playlist": "Running Low Intensity 1",
@@ -834,6 +926,9 @@
   {
     "id": "5x2TDyeeTpf0riUoQDrvsV",
     "name": "Ride Wit Me",
+    "duration_ms": 291933,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Nelly",
     "album": "Best Of Nelly",
     "playlist": "Running Low Intensity 1",
@@ -864,6 +959,9 @@
   {
     "id": "4FTOpNYcGxnQdGNWSxIcio",
     "name": "Soldier (feat. T.I. & Lil' Wayne)",
+    "duration_ms": 325573,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Destiny's Child",
     "album": "Destiny Fulfilled",
     "playlist": "Running Low Intensity 1",
@@ -894,6 +992,9 @@
   {
     "id": "5XJJdNPkwmbUwE79gv0NxK",
     "name": "Gold Digger",
+    "duration_ms": 207626,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Kanye West",
     "album": "Late Registration",
     "playlist": "Running Low Intensity 1",
@@ -924,6 +1025,9 @@
   {
     "id": "4YA5g2UpNLmdql8fdrhlwY",
     "name": "Let Me Blow Ya Mind",
+    "duration_ms": 230106,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Eve",
     "album": "Scorpion",
     "playlist": "Running Low Intensity 1",
@@ -954,6 +1058,9 @@
   {
     "id": "5bPvKo7mH5ZETLSbdP1oHo",
     "name": "AM To PM",
+    "duration_ms": 231306,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Christina Milian",
     "album": "Christina Milian",
     "playlist": "Running Low Intensity 1",
@@ -984,6 +1091,9 @@
   {
     "id": "2DHc2e5bBn4UzY0ENVFrUl",
     "name": "Carry Out (Featuring Justin Timberlake)",
+    "duration_ms": 232466,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Timbaland",
     "album": "Shock Value II",
     "playlist": "Running Low Intensity 1",
@@ -1014,6 +1124,9 @@
   {
     "id": "3aw9iWUQ3VrPQltgwvN9Xu",
     "name": "Family Affair",
+    "duration_ms": 265866,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Mary J. Blige",
     "album": "No More Drama",
     "playlist": "Running Low Intensity 1",
@@ -1044,6 +1157,9 @@
   {
     "id": "5sNESr6pQfIhL3krM8CtZn",
     "name": "Numb / Encore",
+    "duration_ms": 205733,
+    "explicit": true,
+    "track_number": 1,
     "artist": "JAY-Z",
     "album": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
     "playlist": "Running Low Intensity 1",
@@ -1074,6 +1190,9 @@
   {
     "id": "3lFwSDBCNo3CcN09UppUnm",
     "name": "Hold Me Closer",
+    "duration_ms": 202245,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Elton John",
     "album": "The Lockdown Sessions",
     "playlist": "Running Low Intensity 1",
@@ -1104,6 +1223,9 @@
   {
     "id": "5z7mYFfhw6N6f23VwrokJD",
     "name": "The Way You Move (feat. Sleepy Brown)",
+    "duration_ms": 234000,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Outkast",
     "album": "Speakerboxxx/The Love Below",
     "playlist": "Running Low Intensity 1",
@@ -1134,8 +1256,12 @@
   {
     "id": "7xQAfvXzm3AkraOtGPWIZg",
     "name": "Wow.",
+    "duration_ms": 149546,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
+    "playlist": "Running Low Intensity 1",
     "bpm": 99.952,
     "features": [
       {
@@ -1163,6 +1289,9 @@
   {
     "id": "4zgRNTk5ljnSBQV2zeCqMn",
     "name": "Killafornia",
+    "duration_ms": 227030,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Transplants",
     "album": "Haunted Cities",
     "playlist": "Running Low Intensity 1",
@@ -1193,6 +1322,9 @@
   {
     "id": "54flyrjcdnQdco7300avMJ",
     "name": "We Will Rock You - Remastered 2011",
+    "duration_ms": 122066,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Queen",
     "album": "News Of The World (Deluxe Remastered Version)",
     "playlist": "Running Low Intensity 1",
@@ -1223,6 +1355,9 @@
   {
     "id": "74QLfg69aVm4Afw3VGhDTY",
     "name": "Port Antonio",
+    "duration_ms": 316235,
+    "explicit": true,
+    "track_number": 1,
     "artist": "J. Cole",
     "album": "Port Antonio",
     "playlist": "Running Low Intensity 1",
@@ -1253,8 +1388,12 @@
   {
     "id": "1ozdRCYFVt8Ui0dba1520D",
     "name": "Notorious Thugs (feat. Bone Thugs-n-Harmony) - 2007 Remaster",
+    "duration_ms": 367226,
+    "explicit": true,
+    "track_number": 10,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
+    "playlist": "Running Low Intensity 1",
     "bpm": 154.875,
     "features": [
       {
@@ -1282,8 +1421,12 @@
   {
     "id": "6bz9irEuD1Ius2hcHIKRZh",
     "name": "1Stp Klosr (The Humble Brothers Reanimation) [feat. Jonathan Davis]",
+    "duration_ms": 346040,
+    "explicit": false,
+    "track_number": 19,
     "artist": "Linkin Park",
     "album": "Reanimation",
+    "playlist": "Running Low Intensity 1",
     "bpm": 96.149,
     "features": [
       {
@@ -1311,6 +1454,9 @@
   {
     "id": "57iDDD9N9tTWe75x6qhStw",
     "name": "Bitter Sweet Symphony - Remastered 2016",
+    "duration_ms": 357266,
+    "explicit": false,
+    "track_number": 1,
     "artist": "The Verve",
     "album": "Urban Hymns (Remastered 2016)",
     "playlist": "Running Low Intensity 1",
@@ -1341,6 +1487,9 @@
   {
     "id": "1OmcAT5Y8eg5bUPv9qJT4R",
     "name": "rockstar",
+    "duration_ms": 218320,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Post Malone",
     "album": "rockstar",
     "playlist": "Running Low Intensity 1",

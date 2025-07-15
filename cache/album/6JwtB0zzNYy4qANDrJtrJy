@@ -2,6 +2,9 @@
   {
     "id": "4uawMXx8VZ7WMrjAVOaCMe",
     "name": "Bittersweet - Full Length",
+    "duration_ms": 292506,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
     "bpm": 137.87,
@@ -31,6 +34,9 @@
   {
     "id": "18yYhT8fTVjFK9IBPiows6",
     "name": "Read My Mind",
+    "duration_ms": 288453,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
     "bpm": 94.015,
@@ -60,6 +66,9 @@
   {
     "id": "3DHweI4vICEnj2oZIxY57D",
     "name": "Green Papaya",
+    "duration_ms": 245613,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
     "bpm": 95.214,
@@ -89,6 +98,9 @@
   {
     "id": "2gnvh9HRH5fCo5iDQXMvQN",
     "name": "Can't Fight",
+    "duration_ms": 190560,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
     "bpm": 86.985,
@@ -118,6 +130,9 @@
   {
     "id": "7kC97zPE0PxrcItXyGdk8P",
     "name": "Paper Thin",
+    "duration_ms": 298720,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
     "bpm": 125.834,
@@ -147,6 +162,9 @@
   {
     "id": "7lItdfo91hRHhICLRgRueZ",
     "name": "Out Of Your Mind - Interlude",
+    "duration_ms": 64613,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
     "bpm": 76.968,
@@ -176,6 +194,9 @@
   {
     "id": "5ygk8Hkp4WCCk7GXWEUP9V",
     "name": "Weird Fishes",
+    "duration_ms": 354533,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
     "bpm": 151.458,
@@ -205,6 +226,9 @@
   {
     "id": "45RztUROkc4H1pHoCtRR6c",
     "name": "Please Don't Make Me Cry",
+    "duration_ms": 314973,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
     "bpm": 147.971,
@@ -234,6 +258,9 @@
   {
     "id": "5f1WIrwto7nNtEVovPq6cR",
     "name": "Seven Times",
+    "duration_ms": 210360,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
     "bpm": 90.015,
@@ -263,6 +290,9 @@
   {
     "id": "6WVWglJZaFth6NbuMFC81c",
     "name": "Courage",
+    "duration_ms": 218213,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
     "bpm": 126.269,
@@ -292,6 +322,9 @@
   {
     "id": "3opQwVHIpSMHubh9n9hn27",
     "name": "Sour Flower",
+    "duration_ms": 407813,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
     "bpm": 166.061,
@@ -321,6 +354,9 @@
   {
     "id": "7CNtRYYyhNJKXFr2bQ5rv2",
     "name": "Bittersweet - Radio Edit",
+    "duration_ms": 236640,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Lianne La Havas",
     "album": "Lianne La Havas",
     "bpm": 137.8,

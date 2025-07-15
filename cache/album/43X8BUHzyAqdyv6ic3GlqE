@@ -2,6 +2,9 @@
   {
     "id": "3klkjJTtdFBSuLarjN2YWi",
     "name": "Another Universe",
+    "duration_ms": 405015,
+    "explicit": false,
+    "track_number": 1,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
     "bpm": 140.101,
@@ -31,6 +34,9 @@
   {
     "id": "5FgtRMjGRkcE40V0ntxoXj",
     "name": "Buried in the Sand",
+    "duration_ms": 324775,
+    "explicit": true,
+    "track_number": 2,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
     "bpm": 128.008,
@@ -60,6 +66,9 @@
   {
     "id": "4QVlmWhzBbTCWkc0q8gdI1",
     "name": "End of World Party",
+    "duration_ms": 242314,
+    "explicit": false,
+    "track_number": 3,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
     "bpm": 125.021,
@@ -89,6 +98,9 @@
   {
     "id": "1MYeE4Xc6i2cfT3P9qZwOR",
     "name": "Kyoto",
+    "duration_ms": 315773,
+    "explicit": false,
+    "track_number": 4,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
     "bpm": 116.013,
@@ -118,6 +130,9 @@
   {
     "id": "6QikkR5rjr2MklN2a97Dby",
     "name": "ARK",
+    "duration_ms": 349661,
+    "explicit": false,
+    "track_number": 5,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
     "bpm": 105.026,
@@ -147,6 +162,9 @@
   {
     "id": "7xtzZ9thrQMMzr826BFNxb",
     "name": "Boy / Girl",
+    "duration_ms": 206020,
+    "explicit": false,
+    "track_number": 6,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
     "bpm": 140.038,
@@ -176,6 +194,9 @@
   {
     "id": "1ZUyDJTMVPxajdnyFhM4DF",
     "name": "Deep State",
+    "duration_ms": 343141,
+    "explicit": false,
+    "track_number": 7,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
     "bpm": 167.941,
@@ -205,6 +226,9 @@
   {
     "id": "3EKxPXoBph7Aeus2CZthmu",
     "name": "Empty Skies",
+    "duration_ms": 316821,
+    "explicit": false,
+    "track_number": 8,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
     "bpm": 110.0,
@@ -234,6 +258,9 @@
   {
     "id": "6i7zNOr6ytCmV6xZTwpnaN",
     "name": "Happy Sad",
+    "duration_ms": 325263,
+    "explicit": false,
+    "track_number": 9,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
     "bpm": 127.999,
@@ -263,6 +290,9 @@
   {
     "id": "3hWEdxbgarTdZSXQ36n8M2",
     "name": "So Long, Goodbye",
+    "duration_ms": 283093,
+    "explicit": false,
+    "track_number": 10,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
     "bpm": 148.014,
@@ -292,6 +322,9 @@
   {
     "id": "0FUCscgL3Ul9M6hUsPeYuw",
     "name": "Last One Out (Turn the Lights Off)",
+    "duration_ms": 358622,
+    "explicit": false,
+    "track_number": 11,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
     "bpm": 67.005,

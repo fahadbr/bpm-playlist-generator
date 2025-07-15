@@ -2,6 +2,9 @@
   {
     "id": "5uikWCu7t5az8urph4UCuv",
     "name": "Son et Lumiere",
+    "duration_ms": 95333,
+    "explicit": false,
+    "track_number": 1,
     "artist": "The Mars Volta",
     "album": "Deloused in the Comatorium",
     "bpm": 86.698,
@@ -31,6 +34,9 @@
   {
     "id": "16Elz7HJPLZPMylp13ewxv",
     "name": "Inertiatic Esp",
+    "duration_ms": 263773,
+    "explicit": false,
+    "track_number": 2,
     "artist": "The Mars Volta",
     "album": "Deloused in the Comatorium",
     "bpm": 169.806,
@@ -60,6 +66,9 @@
   {
     "id": "32Uk6r7BFqNfpUVOFuQZFk",
     "name": "Roulette Dares (The Haunt Of)",
+    "duration_ms": 450626,
+    "explicit": false,
+    "track_number": 3,
     "artist": "The Mars Volta",
     "album": "Deloused in the Comatorium",
     "bpm": 161.601,
@@ -89,6 +98,9 @@
   {
     "id": "2NCzyeBtHirQgaZoHbuGAE",
     "name": "Tira Me a Las Aranas",
+    "duration_ms": 88533,
+    "explicit": false,
+    "track_number": 4,
     "artist": "The Mars Volta",
     "album": "Deloused in the Comatorium",
     "bpm": 132.766,
@@ -118,6 +130,9 @@
   {
     "id": "1hWw1UGI5GuowixFmunO9y",
     "name": "Drunkship Of Lanterns",
+    "duration_ms": 425960,
+    "explicit": false,
+    "track_number": 5,
     "artist": "The Mars Volta",
     "album": "Deloused in the Comatorium",
     "bpm": 115.724,
@@ -147,6 +162,9 @@
   {
     "id": "310CmUstbdDdogxSO340qU",
     "name": "Eriatarka",
+    "duration_ms": 380466,
+    "explicit": false,
+    "track_number": 6,
     "artist": "The Mars Volta",
     "album": "Deloused in the Comatorium",
     "bpm": 158.03,
@@ -176,6 +194,9 @@
   {
     "id": "3I7gJOfTamHWpDfbwQUO6T",
     "name": "Cicatriz Esp",
+    "duration_ms": 748773,
+    "explicit": false,
+    "track_number": 7,
     "artist": "The Mars Volta",
     "album": "Deloused in the Comatorium",
     "bpm": 142.086,
@@ -205,6 +226,9 @@
   {
     "id": "5GHV1qYBy8HPRWtmv9vUkS",
     "name": "This Apparatus Must Be Unearthed",
+    "duration_ms": 297960,
+    "explicit": false,
+    "track_number": 8,
     "artist": "The Mars Volta",
     "album": "Deloused in the Comatorium",
     "bpm": 125.506,
@@ -234,6 +258,9 @@
   {
     "id": "23qnota5Iyg4f9LNdNIC1D",
     "name": "Televators",
+    "duration_ms": 378786,
+    "explicit": false,
+    "track_number": 9,
     "artist": "The Mars Volta",
     "album": "Deloused in the Comatorium",
     "bpm": 121.746,
@@ -263,6 +290,9 @@
   {
     "id": "76hTx8SeM6aGvDBSwcKAxX",
     "name": "Take The Veil Cerpin Taxt",
+    "duration_ms": 521666,
+    "explicit": false,
+    "track_number": 10,
     "artist": "The Mars Volta",
     "album": "Deloused in the Comatorium",
     "bpm": 94.026,

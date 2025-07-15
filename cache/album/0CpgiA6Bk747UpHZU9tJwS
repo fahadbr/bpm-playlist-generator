@@ -2,6 +2,9 @@
   {
     "id": "6OEJf2FP31D5LQHtTVRNJp",
     "name": "I'm There",
+    "duration_ms": 279604,
+    "explicit": false,
+    "track_number": 1,
     "artist": "H\u00c6LOS",
     "album": "I'm There",
     "bpm": 81.007,
@@ -31,6 +34,9 @@
   {
     "id": "4go8e3GDxEIjqz7AkdxR2W",
     "name": "Hold On",
+    "duration_ms": 238250,
+    "explicit": false,
+    "track_number": 2,
     "artist": "H\u00c6LOS",
     "album": "I'm There",
     "bpm": 100.022,
@@ -60,6 +66,9 @@
   {
     "id": "21RK93h8VJjBKaGgefZ1ro",
     "name": "Perfectly Broken",
+    "duration_ms": 240177,
+    "explicit": false,
+    "track_number": 3,
     "artist": "H\u00c6LOS",
     "album": "I'm There",
     "bpm": 150.066,
@@ -89,6 +98,9 @@
   {
     "id": "6ouhFVapApY0INdJUV1fkl",
     "name": "Unknown Melody",
+    "duration_ms": 239746,
+    "explicit": false,
+    "track_number": 4,
     "artist": "H\u00c6LOS",
     "album": "I'm There",
     "bpm": 114.009,

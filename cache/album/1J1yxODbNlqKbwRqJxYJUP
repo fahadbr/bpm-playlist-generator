@@ -2,6 +2,9 @@
   {
     "id": "5S6O5UYDS2dxVTY7JSF9xy",
     "name": "Road to Hell",
+    "duration_ms": 317879,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 98.995,
@@ -31,6 +34,9 @@
   {
     "id": "0HZq47ubBTbuUUPGSueUOh",
     "name": "Any Way the Wind Blows",
+    "duration_ms": 225805,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 89.045,
@@ -60,6 +66,9 @@
   {
     "id": "15r85VRFlKo2w8a5ymikr7",
     "name": "Come Home with Me",
+    "duration_ms": 107649,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 183.961,
@@ -89,6 +98,9 @@
   {
     "id": "1yy0XglPOI5E8NKbtGH3OO",
     "name": "Wedding Song",
+    "duration_ms": 213198,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 92.315,
@@ -118,6 +130,9 @@
   {
     "id": "0XmLRP1GkjjRrdIx0G75Dj",
     "name": "Epic I",
+    "duration_ms": 192891,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 127.117,
@@ -147,6 +162,9 @@
   {
     "id": "2IZiwBnwtrc0Fd8VIwAPeG",
     "name": "Livin' it Up on Top",
+    "duration_ms": 329696,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 105.491,
@@ -176,6 +194,9 @@
   {
     "id": "0irU6Rwf7WBfLIZ8i1DGur",
     "name": "All I've Ever Known (\"In spite of herself...\") [Intro]",
+    "duration_ms": 40925,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 119.784,
@@ -205,6 +226,9 @@
   {
     "id": "0DBF9dFpekB4AMCYiR2SSY",
     "name": "All I've Ever Known",
+    "duration_ms": 243331,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 119.897,
@@ -234,6 +258,9 @@
   {
     "id": "5fnl0Tyeh4r5gPANdaVu61",
     "name": "Way Down Hadestown",
+    "duration_ms": 300246,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 93.088,
@@ -263,6 +290,9 @@
   {
     "id": "4UjHCwSYfl0uWOyPktTv4u",
     "name": "A Gathering Storm",
+    "duration_ms": 93201,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 110.146,
@@ -292,6 +322,9 @@
   {
     "id": "0CqUTgTtbPMntR7LE8xdoa",
     "name": "Epic II",
+    "duration_ms": 146366,
+    "explicit": false,
+    "track_number": 11,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 134.686,
@@ -321,6 +354,9 @@
   {
     "id": "78Ii0NNdsL7wSQbYE50kAk",
     "name": "Chant",
+    "duration_ms": 391011,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 93.992,
@@ -350,6 +386,9 @@
   {
     "id": "3sinFkDuVOd2oJ8XKCyKuf",
     "name": "Hey, Little Songbird",
+    "duration_ms": 212617,
+    "explicit": false,
+    "track_number": 13,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 127.299,
@@ -379,6 +418,9 @@
   {
     "id": "2L9kJVudxeW91NpF9pVAbG",
     "name": "When the Chips are Down (\"Songbird vs. rattlesnake...\") [Intro]",
+    "duration_ms": 20264,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 95.473,
@@ -408,6 +450,9 @@
   {
     "id": "3csi3SryPTup0NhtRKidsm",
     "name": "When the Chips are Down",
+    "duration_ms": 134250,
+    "explicit": false,
+    "track_number": 15,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 96.053,
@@ -437,6 +482,9 @@
   {
     "id": "65axyQvg2r4AjZHzV5xfhC",
     "name": "Gone, I'm Gone",
+    "duration_ms": 101170,
+    "explicit": false,
+    "track_number": 16,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 139.109,
@@ -466,6 +514,9 @@
   {
     "id": "6FNYKnVrG1u0IaMvVcUcMU",
     "name": "Wait for Me (\"Hey, the big artiste...\") [Intro]",
+    "duration_ms": 91425,
+    "explicit": false,
+    "track_number": 17,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 89.089,
@@ -495,6 +546,9 @@
   {
     "id": "1dARoUpgYHvx33Qp8dawsZ",
     "name": "Wait for Me",
+    "duration_ms": 214961,
+    "explicit": false,
+    "track_number": 18,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 89.028,
@@ -524,6 +578,9 @@
   {
     "id": "68oU2YXg4kwPpertTUFrC6",
     "name": "Why We Build the Wall",
+    "duration_ms": 240193,
+    "explicit": false,
+    "track_number": 19,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 80.318,
@@ -553,6 +610,9 @@
   {
     "id": "7A4IlN2Itx3gBOl6q2yW7q",
     "name": "Why We Build the Wall (\"Behind closed doors...\") [Outro]",
+    "duration_ms": 57212,
+    "explicit": false,
+    "track_number": 20,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 85.255,
@@ -582,6 +642,9 @@
   {
     "id": "1OQ6Jk2d4bv622LStoYapx",
     "name": "Our Lady of the Underground",
+    "duration_ms": 324030,
+    "explicit": false,
+    "track_number": 21,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 131.021,
@@ -611,6 +674,9 @@
   {
     "id": "1FomWvYH5RqagHVHYj9OfC",
     "name": "Way Down Hadestown (Reprise)",
+    "duration_ms": 230324,
+    "explicit": false,
+    "track_number": 22,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 120.433,
@@ -640,6 +706,9 @@
   {
     "id": "48PFfbnf0ZRcGCxO4zApPp",
     "name": "Flowers",
+    "duration_ms": 211038,
+    "explicit": false,
+    "track_number": 23,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 85.921,
@@ -669,6 +738,9 @@
   {
     "id": "7pa1vDDj9rhlw2ABngvF6D",
     "name": "Come Home with Me (Reprise)",
+    "duration_ms": 61038,
+    "explicit": false,
+    "track_number": 24,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 129.112,
@@ -698,6 +770,9 @@
   {
     "id": "1oVH404oz30kMDH3HgUooq",
     "name": "Papers (\"You're not from around here, son...\") [Intro]",
+    "duration_ms": 113817,
+    "explicit": false,
+    "track_number": 25,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 171.516,
@@ -727,6 +802,9 @@
   {
     "id": "14OjlLWKs63z4UI7OapYm8",
     "name": "Papers - Instrumental",
+    "duration_ms": 73105,
+    "explicit": false,
+    "track_number": 26,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 87.262,
@@ -756,6 +834,9 @@
   {
     "id": "4MITx2mU5AihHNUVDPKEpE",
     "name": "Nothing Changes",
+    "duration_ms": 71774,
+    "explicit": false,
+    "track_number": 27,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 127.469,
@@ -785,6 +866,9 @@
   {
     "id": "2IApCw6CLK9S59VeCfzs6Y",
     "name": "If it's True",
+    "duration_ms": 253382,
+    "explicit": false,
+    "track_number": 28,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 115.518,
@@ -814,6 +898,9 @@
   {
     "id": "3nOSvfxdOeIAaUYO0KMYox",
     "name": "How Long?",
+    "duration_ms": 221159,
+    "explicit": false,
+    "track_number": 29,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 94.887,
@@ -843,6 +930,9 @@
   {
     "id": "4OxpwmdDfxSv2pVrCI4Rt8",
     "name": "Chant (Reprise)",
+    "duration_ms": 241118,
+    "explicit": false,
+    "track_number": 30,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 93.76,
@@ -872,6 +962,9 @@
   {
     "id": "0EWMHYcf5t9Gk7MWhgReEr",
     "name": "Epic III",
+    "duration_ms": 351439,
+    "explicit": false,
+    "track_number": 31,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 174.807,
@@ -901,6 +994,9 @@
   {
     "id": "2hqT2TJCKmvexNRZngk3SD",
     "name": "Epic III (\"They danced...\") - Instrumental",
+    "duration_ms": 99564,
+    "explicit": false,
+    "track_number": 32,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 94.346,
@@ -930,6 +1026,9 @@
   {
     "id": "2bwpVCOZAlZRYMWAOISXkv",
     "name": "Promises",
+    "duration_ms": 163969,
+    "explicit": false,
+    "track_number": 33,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 123.776,
@@ -959,6 +1058,9 @@
   {
     "id": "4P0KFyujfbjBmU4eb2Ev51",
     "name": "Word to the Wise",
+    "duration_ms": 80278,
+    "explicit": false,
+    "track_number": 34,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 86.943,
@@ -988,6 +1090,9 @@
   {
     "id": "5COXzddFkxwPdVOcMe84fX",
     "name": "His Kiss, the Riot",
+    "duration_ms": 183794,
+    "explicit": false,
+    "track_number": 35,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 78.476,
@@ -1017,6 +1122,9 @@
   {
     "id": "2naokPR0Inhpw9JgW4w956",
     "name": "Wait for Me (\"If you wanna walk out of hell...\") - Intro; Reprise",
+    "duration_ms": 96526,
+    "explicit": false,
+    "track_number": 36,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 91.951,
@@ -1046,6 +1154,9 @@
   {
     "id": "3fJJ28RcXGkgKlgbgBSbc8",
     "name": "Wait for Me (Reprise)",
+    "duration_ms": 192281,
+    "explicit": false,
+    "track_number": 37,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 92.08,
@@ -1075,6 +1186,9 @@
   {
     "id": "1vmanLxFqqfhUs0oBGydmo",
     "name": "Doubt Comes In",
+    "duration_ms": 291958,
+    "explicit": false,
+    "track_number": 38,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 83.785,
@@ -1104,6 +1218,9 @@
   {
     "id": "2GMLTm3qlHmKkHnQA3wuRn",
     "name": "Road to Hell (Reprise)",
+    "duration_ms": 305490,
+    "explicit": false,
+    "track_number": 39,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 106.382,
@@ -1133,6 +1250,9 @@
   {
     "id": "7hDMTdph3j6w7XQJ7DgJLj",
     "name": "We Raise Our Cups",
+    "duration_ms": 125008,
+    "explicit": false,
+    "track_number": 40,
     "artist": "Original Broadway Cast of Hadestown",
     "album": "Hadestown (Original Broadway Cast Recording)",
     "bpm": 125.522,

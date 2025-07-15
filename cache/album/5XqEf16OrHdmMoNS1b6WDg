@@ -2,6 +2,9 @@
   {
     "id": "2b7FqlHc3JrzlYtGEkzq22",
     "name": "Juicy - 2007 Remaster",
+    "duration_ms": 301466,
+    "explicit": true,
+    "track_number": 1,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 96.067,
@@ -31,6 +34,9 @@
   {
     "id": "63BcfK6YAzJYeISaTPr6IO",
     "name": "Big Poppa - 2007 Remaster",
+    "duration_ms": 249866,
+    "explicit": true,
+    "track_number": 2,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 84.5,
@@ -60,6 +66,9 @@
   {
     "id": "6Tsu3OsuMz4KEGKbOYd6A0",
     "name": "Hypnotize - 2007 Remaster",
+    "duration_ms": 230000,
+    "explicit": true,
+    "track_number": 3,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 93.944,
@@ -89,6 +98,9 @@
   {
     "id": "7fXhkARAtS66kxexMIAx8O",
     "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+    "duration_ms": 268706,
+    "explicit": true,
+    "track_number": 4,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 90.964,
@@ -118,6 +130,9 @@
   {
     "id": "3PA9dH8cT0wR5UW4XkC44Y",
     "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
+    "duration_ms": 274440,
+    "explicit": true,
+    "track_number": 5,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 91.153,
@@ -147,6 +162,9 @@
   {
     "id": "0QfbuZrjcfyS8HqQ8d8xcs",
     "name": "Warning - 2007 Remaster",
+    "duration_ms": 219226,
+    "explicit": true,
+    "track_number": 6,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 85.94,
@@ -176,6 +194,9 @@
   {
     "id": "6SMrWEWukd0DWh5iHGWgks",
     "name": "Dead Wrong (feat. Eminem) - 2007 Remaster",
+    "duration_ms": 297226,
+    "explicit": true,
+    "track_number": 7,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 82.122,
@@ -205,6 +226,9 @@
   {
     "id": "2kM3gIkHRiikiaIUFk3Fje",
     "name": "Who Shot Ya? - 2007 Remaster",
+    "duration_ms": 316506,
+    "explicit": true,
+    "track_number": 8,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 91.743,
@@ -234,6 +258,9 @@
   {
     "id": "4xtq6uY0ofikksLWN37pT4",
     "name": "Ten Crack Commandments - 2007 Remaster",
+    "duration_ms": 203946,
+    "explicit": true,
+    "track_number": 9,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 173.812,
@@ -263,6 +290,9 @@
   {
     "id": "1ozdRCYFVt8Ui0dba1520D",
     "name": "Notorious Thugs (feat. Bone Thugs-n-Harmony) - 2007 Remaster",
+    "duration_ms": 367226,
+    "explicit": true,
+    "track_number": 10,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 154.875,
@@ -292,6 +322,9 @@
   {
     "id": "0bwmYdUFwNwqDwFkxEnfIN",
     "name": "Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2007 Remaster",
+    "duration_ms": 191986,
+    "explicit": true,
+    "track_number": 11,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 101.292,
@@ -321,6 +354,9 @@
   {
     "id": "6h9N19LonRj0ZsVa60APmh",
     "name": "Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2007 Remaster",
+    "duration_ms": 286200,
+    "explicit": true,
+    "track_number": 12,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 106.356,
@@ -350,6 +386,9 @@
   {
     "id": "5qBfyjlx8U9Jgi4l1YOe4C",
     "name": "Unbelievable - 2007 Remaster",
+    "duration_ms": 220040,
+    "explicit": true,
+    "track_number": 13,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 91.627,
@@ -379,6 +418,9 @@
   {
     "id": "1eYMV8fZO3R7ZlOgVQ57GF",
     "name": "Niggas Bleed - 2007 Remaster",
+    "duration_ms": 291706,
+    "explicit": true,
+    "track_number": 14,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 84.366,
@@ -408,6 +450,9 @@
   {
     "id": "3CU5cYgEjwjaW7pitNKZYJ",
     "name": "Running Your Mouth (feat. Snoop Dogg, Nate Dogg, Fabolous & Busta Rhymes) - 2007 Remaster",
+    "duration_ms": 213173,
+    "explicit": true,
+    "track_number": 15,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 96.919,
@@ -437,6 +482,9 @@
   {
     "id": "16r3p9zsidDZ8pd3Izgg6n",
     "name": "Want That Old Thing Back (feat. Ja Rule & Ralph Tresvant) - 2007 Remaster",
+    "duration_ms": 298440,
+    "explicit": true,
+    "track_number": 16,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 93.962,
@@ -466,6 +514,9 @@
   {
     "id": "3RcGptEbmst2z37fW3fRvZ",
     "name": "Fuck You Tonight (feat. R. Kelly) - 2007 Remaster",
+    "duration_ms": 344333,
+    "explicit": true,
+    "track_number": 17,
     "artist": "The Notorious B.I.G.",
     "album": "Greatest Hits",
     "bpm": 178.458,

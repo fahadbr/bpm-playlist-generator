@@ -2,8 +2,12 @@
   {
     "id": "5GxqKrG0zeKA8uYJMjXwj9",
     "name": "Rock the House",
+    "duration_ms": 249200,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Gorillaz",
     "album": "Gorillaz",
+    "playlist": "chill brunch party",
     "bpm": 171.953,
     "features": [
       {
@@ -31,8 +35,12 @@
   {
     "id": "66324Jt0mZdXaM7f8uUitE",
     "name": "Where Did The Party Go",
+    "duration_ms": 243040,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Fall Out Boy",
     "album": "Save Rock And Roll",
+    "playlist": "chill brunch party",
     "bpm": 119.959,
     "features": [
       {
@@ -60,6 +68,9 @@
   {
     "id": "5mHVURjIu3spVJSGjQ3kXS",
     "name": "Platoon",
+    "duration_ms": 192405,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Jungle",
     "album": "Jungle",
     "playlist": "chill brunch party",
@@ -90,8 +101,12 @@
   {
     "id": "1YscJ7yVTlFxW3eF6pv5ba",
     "name": "Allergic",
+    "duration_ms": 156893,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
+    "playlist": "chill brunch party",
     "bpm": 144.968,
     "features": [
       {
@@ -119,8 +134,12 @@
   {
     "id": "0RiRZpuVRbi7oqRdSMwhQY",
     "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+    "duration_ms": 157560,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
+    "playlist": "chill brunch party",
     "bpm": 89.96,
     "features": [
       {
@@ -148,6 +167,9 @@
   {
     "id": "7fvFn4pfvOxW7xzEFovDvW",
     "name": "End of World Party",
+    "duration_ms": 242314,
+    "explicit": false,
+    "track_number": 3,
     "artist": "H\u00c6LOS",
     "album": "Any Random Kindness",
     "playlist": "chill brunch party",
@@ -178,6 +200,9 @@
   {
     "id": "7b9h63I7EafcW2pVS9pcUr",
     "name": "Retro [ROUGH]",
+    "duration_ms": 202666,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Childish Gambino",
     "album": "Kauai",
     "playlist": "chill brunch party",
@@ -208,6 +233,9 @@
   {
     "id": "3Ttx1ky0ZYaVjXZWdcmwh5",
     "name": "Blinding Lights",
+    "duration_ms": 200045,
+    "explicit": false,
+    "track_number": 9,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "playlist": "chill brunch party",
@@ -238,6 +266,9 @@
   {
     "id": "7BFI9QZPQKgYuR2HhDgwbG",
     "name": "Royals",
+    "duration_ms": 190185,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Lorde",
     "album": "Pure Heroine (Extended)",
     "playlist": "chill brunch party",
@@ -268,6 +299,9 @@
   {
     "id": "2x0WlnmfG39ZuDmstl9xfX",
     "name": "End Game",
+    "duration_ms": 244826,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Taylor Swift",
     "album": "reputation",
     "playlist": "chill brunch party",
@@ -298,6 +332,9 @@
   {
     "id": "6RRNNciQGZEXnqk8SQ9yv5",
     "name": "You Need To Calm Down",
+    "duration_ms": 171360,
+    "explicit": false,
+    "track_number": 14,
     "artist": "Taylor Swift",
     "album": "Lover",
     "playlist": "chill brunch party",
@@ -328,8 +365,12 @@
   {
     "id": "3LAvCzBpgK56srPYbMljJa",
     "name": "Star",
+    "duration_ms": 284080,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Gary Clark Jr.",
     "album": "The Story of Sonny Boy Slim",
+    "playlist": "chill brunch party",
     "bpm": 84.452,
     "features": [
       {
@@ -357,6 +398,9 @@
   {
     "id": "0td1GfBHNxlGephozVmL9k",
     "name": "Starz In Their Eyes",
+    "duration_ms": 191760,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Just Jack",
     "album": "Starz In Their Eyes - Single",
     "playlist": "chill brunch party",
@@ -387,8 +431,12 @@
   {
     "id": "7KumlmusIbdAMvbiZ6dG3t",
     "name": "Blak and Blu",
+    "duration_ms": 246453,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Gary Clark Jr.",
     "album": "Blak and Blu (Deluxe Edition)",
+    "playlist": "chill brunch party",
     "bpm": 97.986,
     "features": [
       {
@@ -416,6 +464,9 @@
   {
     "id": "3IXRdLsQib8m0hBbQpe7T8",
     "name": "Hang Me Up To Dry",
+    "duration_ms": 218786,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Cold War Kids",
     "album": "Robbers & Cowards",
     "playlist": "chill brunch party",
@@ -446,6 +497,9 @@
   {
     "id": "6vsBCrM20zIKYkjWQ2qJAo",
     "name": "In A Spiral",
+    "duration_ms": 203093,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Phantogram",
     "album": "Ceremony",
     "playlist": "chill brunch party",
@@ -476,6 +530,9 @@
   {
     "id": "5zZWKugaE2ZmnZN77HVfUH",
     "name": "Momentary Bliss (feat. slowthai and Slaves)",
+    "duration_ms": 221386,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Gorillaz",
     "album": "Momentary Bliss (feat. slowthai and Slaves)",
     "playlist": "chill brunch party",
@@ -506,6 +563,9 @@
   {
     "id": "73mlvsfJM2qwlDUJxeaatI",
     "name": "Daft Punk Is Playing at My House",
+    "duration_ms": 314556,
+    "explicit": false,
+    "track_number": 1,
     "artist": "LCD Soundsystem",
     "album": "LCD Soundsystem",
     "playlist": "chill brunch party",

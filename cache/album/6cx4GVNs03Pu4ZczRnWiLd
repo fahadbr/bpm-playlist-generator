@@ -2,6 +2,9 @@
   {
     "id": "6Ljp2oy8zR8EhutqBdLYnt",
     "name": "yankee and the brave (ep. 4)",
+    "duration_ms": 146573,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Run The Jewels",
     "album": "RTJ4",
     "bpm": 82.007,
@@ -31,6 +34,9 @@
   {
     "id": "72YEW9z8ke67115z6AK8PD",
     "name": "ooh la la (feat. Greg Nice & DJ Premier)",
+    "duration_ms": 183826,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Run The Jewels",
     "album": "RTJ4",
     "bpm": 170.079,
@@ -60,6 +66,9 @@
   {
     "id": "5nnXRsMNUQ4HYs1rKDQ28M",
     "name": "out of sight (feat. 2 Chainz)",
+    "duration_ms": 201133,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Run The Jewels",
     "album": "RTJ4",
     "bpm": 87.553,
@@ -89,6 +98,9 @@
   {
     "id": "3vS6X9Eb7JdcvX2g7Lc3IK",
     "name": "holy calamafuck",
+    "duration_ms": 238413,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Run The Jewels",
     "album": "RTJ4",
     "bpm": 119.942,
@@ -118,6 +130,9 @@
   {
     "id": "0IIE1kZQBDbs3yGYow5rB5",
     "name": "goonies vs. E.T.",
+    "duration_ms": 183173,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Run The Jewels",
     "album": "RTJ4",
     "bpm": 116.052,
@@ -147,6 +162,9 @@
   {
     "id": "5zkBEkiEeqKKoXlsJRgyKa",
     "name": "walking in the snow",
+    "duration_ms": 235866,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Run The Jewels",
     "album": "RTJ4",
     "bpm": 146.006,
@@ -176,6 +194,9 @@
   {
     "id": "0YdjfAmUyxF4Dh0HNEhmoI",
     "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
+    "duration_ms": 205160,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Run The Jewels",
     "album": "RTJ4",
     "bpm": 132.428,
@@ -205,6 +226,9 @@
   {
     "id": "13Dzvh6mqoK1B2Bb3iuJL3",
     "name": "never look back",
+    "duration_ms": 177186,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Run The Jewels",
     "album": "RTJ4",
     "bpm": 114.003,
@@ -234,6 +258,9 @@
   {
     "id": "1qF7OSUd06vicZ4fJTPRAA",
     "name": "the ground below",
+    "duration_ms": 152213,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Run The Jewels",
     "album": "RTJ4",
     "bpm": 89.743,
@@ -263,6 +290,9 @@
   {
     "id": "1gBCZXAL6VsDBpl8cLi8Dd",
     "name": "pulling the pin (feat. Mavis Staples & Josh Homme)",
+    "duration_ms": 217240,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Run The Jewels",
     "album": "RTJ4",
     "bpm": 101.096,
@@ -292,6 +322,9 @@
   {
     "id": "0gDRZBhdSLqWhfTaWsOdcd",
     "name": "a few words for the firing squad (radiation)",
+    "duration_ms": 402200,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Run The Jewels",
     "album": "RTJ4",
     "bpm": 98.562,

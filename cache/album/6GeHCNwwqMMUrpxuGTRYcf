@@ -2,6 +2,9 @@
   {
     "id": "6yIGZp1AaFBoDczu3b4hVU",
     "name": "Confessions of a Dangerous Mind",
+    "duration_ms": 283866,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 141.97,
@@ -31,6 +34,9 @@
   {
     "id": "7M2tXmeS15NAzEn7ABFeBg",
     "name": "Homicide (feat. Eminem)",
+    "duration_ms": 245386,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 140.056,
@@ -60,6 +66,9 @@
   {
     "id": "3ur6bQ6Jb17tskma4euqZd",
     "name": "Wannabe",
+    "duration_ms": 78800,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 134.012,
@@ -89,6 +98,9 @@
   {
     "id": "2i3D8AJiOYTVCkIu1cOpsH",
     "name": "clickbait",
+    "duration_ms": 157000,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 156.01,
@@ -118,6 +130,9 @@
   {
     "id": "760VYgBLbNyEJp4jLa0CZ6",
     "name": "Mama/Show Love (feat. YBN Cordae)",
+    "duration_ms": 241306,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 154.051,
@@ -147,6 +162,9 @@
   {
     "id": "15qVraQOI2EjZPPM05YGBS",
     "name": "Out Of Sight",
+    "duration_ms": 137946,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 174.015,
@@ -176,6 +194,9 @@
   {
     "id": "6H35Djes2GNU7shF0c822Y",
     "name": "Pardon My Ego",
+    "duration_ms": 173546,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 95.489,
@@ -205,6 +226,9 @@
   {
     "id": "4p28KkjAQ16J3yF8PQHJVg",
     "name": "COMMANDO (feat. G-Eazy)",
+    "duration_ms": 211933,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 77.001,
@@ -234,6 +258,9 @@
   {
     "id": "2FzgbCcszptrQpdJOr2Soi",
     "name": "Icy (feat. Gucci Mane)",
+    "duration_ms": 265266,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 151.992,
@@ -263,6 +290,9 @@
   {
     "id": "199Dz9IgqKekyiRy3LBnHn",
     "name": "Still Ballin (feat. Wiz Khalifa)",
+    "duration_ms": 239986,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 160.001,
@@ -292,6 +322,9 @@
   {
     "id": "6P9RfMi5rmtu6CmBVZSCAP",
     "name": "Cocaine",
+    "duration_ms": 174560,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 176.02,
@@ -321,6 +354,9 @@
   {
     "id": "20EmzsRBgZSEVbZWp0fqtx",
     "name": "Limitless",
+    "duration_ms": 244680,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 155.05,
@@ -350,6 +386,9 @@
   {
     "id": "3PYx9Wte3jwb48V0wArMOy",
     "name": "Keanu Reeves",
+    "duration_ms": 225933,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 170.128,
@@ -379,6 +418,9 @@
   {
     "id": "4jdLb7N6U6tmyynmu6PPRM",
     "name": "Don't Be Afraid To Be Different (feat. Will Smith)",
+    "duration_ms": 167920,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 111.005,
@@ -408,6 +450,9 @@
   {
     "id": "2K2b3pVT5LLDxzz1Vy4bHb",
     "name": "BOBBY (feat. My Dad)",
+    "duration_ms": 167826,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 111.565,
@@ -437,6 +482,9 @@
   {
     "id": "4Tk9QvtwwOj2Ah9E8ahutZ",
     "name": "Lost In Translation",
+    "duration_ms": 289720,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "bpm": 93.04,

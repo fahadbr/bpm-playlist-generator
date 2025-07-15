@@ -2,6 +2,9 @@
   {
     "id": "7AsG1F1eMWd17RYan8M3Wm",
     "name": "Dil Nu",
+    "duration_ms": 233666,
+    "explicit": false,
+    "track_number": 5,
     "artist": "AP Dhillon",
     "album": "Two Hearts Never Break The Same",
     "playlist": "entrance songs ",
@@ -32,6 +35,9 @@
   {
     "id": "0XwRlvv3KlOu4HWlOH34XG",
     "name": "Lover",
+    "duration_ms": 190000,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Diljit Dosanjh",
     "album": "MoonChild Era",
     "playlist": "entrance songs ",
@@ -62,6 +68,9 @@
   {
     "id": "6qMiZK4mGuCRkVwRFds4Sm",
     "name": "Let the Sun In",
+    "duration_ms": 223053,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Wallows",
     "album": "Spring EP",
     "playlist": "entrance songs ",

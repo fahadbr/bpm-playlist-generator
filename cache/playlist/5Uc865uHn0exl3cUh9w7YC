@@ -2,6 +2,9 @@
   {
     "id": "6K7LggCeow2jSoRmdZ7XoX",
     "name": "Heartless",
+    "duration_ms": 198267,
+    "explicit": true,
+    "track_number": 7,
     "artist": "The Weeknd",
     "album": "After Hours (Deluxe)",
     "playlist": "Workout 8/9/21",
@@ -32,6 +35,9 @@
   {
     "id": "2D35sVzODlq0sbxkeieNTm",
     "name": "Lie, Cheat, Steal",
+    "duration_ms": 208466,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Run The Jewels",
     "album": "Run The Jewels 2",
     "playlist": "Workout 8/9/21",
@@ -62,8 +68,12 @@
   {
     "id": "2qsQ8eVDPmobZpvDxQCVQu",
     "name": "Barbie Tingz",
+    "duration_ms": 191699,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Nicki Minaj",
     "album": "Barbie Tingz",
+    "playlist": "Workout 8/9/21",
     "bpm": 102.449,
     "features": [
       {
@@ -91,6 +101,9 @@
   {
     "id": "2MuMD298IpYqKF367wegUd",
     "name": "Homicide (feat. Eminem)",
+    "duration_ms": 245386,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Logic",
     "album": "Confessions of a Dangerous Mind",
     "playlist": "Workout 8/9/21",
@@ -121,8 +134,12 @@
   {
     "id": "2tPcTFiQF9MbVUyjZ3zDhA",
     "name": "Paramedic!",
-    "artist": "Kendrick Lamar",
+    "duration_ms": 219306,
+    "explicit": true,
+    "track_number": 7,
+    "artist": "SOB X RBE",
     "album": "Black Panther The Album Music From And Inspired By",
+    "playlist": "Workout 8/9/21",
     "bpm": 97.017,
     "features": [
       {
@@ -150,8 +167,12 @@
   {
     "id": "3CJbxqRQ0JNCqboWDNUUeX",
     "name": "I Will (feat. KXNG Crooked, Royce Da 5'9\" & Joell Ortiz)",
+    "duration_ms": 303000,
+    "explicit": true,
+    "track_number": 19,
     "artist": "Eminem",
     "album": "Music To Be Murdered By",
+    "playlist": "Workout 8/9/21",
     "bpm": 98.743,
     "features": [
       {

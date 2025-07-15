@@ -2,6 +2,9 @@
   {
     "id": "7sWRlDoTDX8geTR8zzr2vt",
     "name": "Hollywood's Bleeding",
+    "duration_ms": 156266,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 130.218,
@@ -31,6 +34,9 @@
   {
     "id": "05mDaV9Vb3wrzjF6OPZnhq",
     "name": "Saint-Tropez",
+    "duration_ms": 150866,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 132.113,
@@ -60,6 +66,9 @@
   {
     "id": "0Xek5rqai2jcOWCYWJfVCF",
     "name": "Enemies (feat. DaBaby)",
+    "duration_ms": 196760,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 76.388,
@@ -89,6 +98,9 @@
   {
     "id": "1YscJ7yVTlFxW3eF6pv5ba",
     "name": "Allergic",
+    "duration_ms": 156893,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 144.968,
@@ -118,6 +130,9 @@
   {
     "id": "2J0NXdHr6MYvKDSxB7k3V2",
     "name": "A Thousand Bad Times",
+    "duration_ms": 221173,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 159.045,
@@ -147,6 +162,9 @@
   {
     "id": "21jGcNKet2qwijlDFuPiPb",
     "name": "Circles",
+    "duration_ms": 215280,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 120.042,
@@ -176,6 +194,9 @@
   {
     "id": "2C6WXnmZ66tHhHlnvwePiK",
     "name": "Die For Me (feat. Future & Halsey)",
+    "duration_ms": 245266,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 145.108,
@@ -205,6 +226,9 @@
   {
     "id": "12Fkyg9lpmaz2zmKOfw2Y2",
     "name": "On The Road (feat. Meek Mill & Lil Baby)",
+    "duration_ms": 218320,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 112.93,
@@ -234,6 +258,9 @@
   {
     "id": "7CZyCXKG6d5ALeq41sLzbw",
     "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
+    "duration_ms": 229573,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 139.918,
@@ -263,6 +290,9 @@
   {
     "id": "1ckLp8lCl8LipXI0ypX72m",
     "name": "I'm Gonna Be",
+    "duration_ms": 200680,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 117.938,
@@ -292,6 +322,9 @@
   {
     "id": "5KE9b4x7Zj2A8XtbkqhqTe",
     "name": "Staring At The Sun (feat. SZA)",
+    "duration_ms": 168280,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 95.073,
@@ -321,6 +354,9 @@
   {
     "id": "0RiRZpuVRbi7oqRdSMwhQY",
     "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+    "duration_ms": 157560,
+    "explicit": false,
+    "track_number": 12,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 89.96,
@@ -350,6 +386,9 @@
   {
     "id": "0KAzP1Rbp0Vz5pw8i1KDDI",
     "name": "Internet",
+    "duration_ms": 123386,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 73.987,
@@ -379,6 +418,9 @@
   {
     "id": "0t3ZvGKlmYmVsDzBJAXK8C",
     "name": "Goodbyes (feat. Young Thug)",
+    "duration_ms": 174853,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 150.097,
@@ -408,6 +450,9 @@
   {
     "id": "2cvOfKHOHgwQlLiuLKP2xR",
     "name": "Myself",
+    "duration_ms": 158120,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 82.023,
@@ -437,6 +482,9 @@
   {
     "id": "6b2mfHMqWCA74XmUuVJm8r",
     "name": "I Know",
+    "duration_ms": 141413,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 102.945,
@@ -466,6 +514,9 @@
   {
     "id": "7xQAfvXzm3AkraOtGPWIZg",
     "name": "Wow.",
+    "duration_ms": 149546,
+    "explicit": true,
+    "track_number": 17,
     "artist": "Post Malone",
     "album": "Hollywood's Bleeding",
     "bpm": 99.952,

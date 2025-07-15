@@ -2,6 +2,9 @@
   {
     "id": "4b9ruyWFMtREf1oatvwa5N",
     "name": "Darkseid",
+    "duration_ms": 126618,
+    "explicit": true,
+    "track_number": 1,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 81.55,
@@ -31,6 +34,9 @@
   {
     "id": "3Dah4SWoWwekrG4GShaHVP",
     "name": "From the Garden (feat. Lil Uzi Vert)",
+    "duration_ms": 189306,
+    "explicit": true,
+    "track_number": 2,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 142.04,
@@ -60,6 +66,9 @@
   {
     "id": "6BiCjPFN5rM9JPy5eP5mCs",
     "name": "RIP Young",
+    "duration_ms": 158050,
+    "explicit": true,
+    "track_number": 3,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 120.027,
@@ -89,6 +98,9 @@
   {
     "id": "5KW5AYiCyi5auXXZR2cvxM",
     "name": "Lay Wit Ya (feat. Duke Deuce)",
+    "duration_ms": 202331,
+    "explicit": true,
+    "track_number": 4,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 140.003,
@@ -118,6 +130,9 @@
   {
     "id": "051zam2WDIKOLdu4XYpCaA",
     "name": "Claymore (feat. Smino)",
+    "duration_ms": 186151,
+    "explicit": true,
+    "track_number": 5,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 141.287,
@@ -147,6 +162,9 @@
   {
     "id": "0xta6Gah3inmeHbj0e3F9a",
     "name": "Headshots (4r da Locals)",
+    "duration_ms": 193208,
+    "explicit": true,
+    "track_number": 6,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 120.0,
@@ -176,6 +194,9 @@
   {
     "id": "4JsTX2WkPcdDTWbchQJuko",
     "name": "All Herb (feat. Amindi)",
+    "duration_ms": 224447,
+    "explicit": true,
+    "track_number": 7,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 83.332,
@@ -205,6 +226,9 @@
   {
     "id": "0McOOEVI11ks2PPOVZLou8",
     "name": "Hey Mista",
+    "duration_ms": 115862,
+    "explicit": true,
+    "track_number": 8,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 142.068,
@@ -234,6 +258,9 @@
   {
     "id": "5YZpdsmpazPtBHFbGN8mon",
     "name": "True Story (feat. Jay Rock & Jay Worthy)",
+    "duration_ms": 226666,
+    "explicit": true,
+    "track_number": 9,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 84.964,
@@ -263,6 +290,9 @@
   {
     "id": "0VYchQkqpeEyh95D1pWqy2",
     "name": "Wat U Sed (feat. Doechii & Kal Banx)",
+    "duration_ms": 176682,
+    "explicit": true,
+    "track_number": 10,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 163.0,
@@ -292,6 +322,9 @@
   {
     "id": "2j0sVvS8xk6j411buateBt",
     "name": "Don't Shoot",
+    "duration_ms": 141040,
+    "explicit": true,
+    "track_number": 11,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 124.032,
@@ -321,6 +354,9 @@
   {
     "id": "764K7H74QNi24ebPevPWXr",
     "name": "Chad (feat. YGTUT)",
+    "duration_ms": 159717,
+    "explicit": true,
+    "track_number": 12,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 127.033,
@@ -350,6 +386,9 @@
   {
     "id": "1gKohc5B0OuqOncIu7JKlL",
     "name": "9-3 Freestyle",
+    "duration_ms": 105911,
+    "explicit": true,
+    "track_number": 13,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 145.011,
@@ -379,6 +418,9 @@
   {
     "id": "2ns1kl3c5NMvGCt2xVMNlI",
     "name": "Score (feat. SZA & 6LACK)",
+    "duration_ms": 200968,
+    "explicit": true,
+    "track_number": 14,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 85.173,
@@ -408,6 +450,9 @@
   {
     "id": "3i9ef14r5QFVbe7b6YdhvU",
     "name": "THIB",
+    "duration_ms": 154517,
+    "explicit": true,
+    "track_number": 15,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 149.941,
@@ -437,6 +482,9 @@
   {
     "id": "2by88u2Ngp8wrJNWeULcvi",
     "name": "HB2U",
+    "duration_ms": 345486,
+    "explicit": true,
+    "track_number": 16,
     "artist": "Isaiah Rashad",
     "album": "The House Is Burning",
     "bpm": 120.292,

@@ -2,6 +2,9 @@
   {
     "id": "5QE4CfHyKFON5Qxkn4Fm81",
     "name": "Agneya",
+    "duration_ms": 298429,
+    "explicit": false,
+    "track_number": 1,
     "artist": "God Is An Astronaut",
     "album": "Helios / Erebus",
     "bpm": 131.561,
@@ -31,6 +34,9 @@
   {
     "id": "3FQJrswWQVGb3bA8oUj3rh",
     "name": "Pig Powder",
+    "duration_ms": 340854,
+    "explicit": false,
+    "track_number": 2,
     "artist": "God Is An Astronaut",
     "album": "Helios / Erebus",
     "bpm": 141.682,
@@ -60,6 +66,9 @@
   {
     "id": "1Z9dqt60UbQMiaF7zMOJNG",
     "name": "Vetus Memoria",
+    "duration_ms": 320896,
+    "explicit": false,
+    "track_number": 3,
     "artist": "God Is An Astronaut",
     "album": "Helios / Erebus",
     "bpm": 172.045,
@@ -89,6 +98,9 @@
   {
     "id": "5MORUNpNipqSF41uIkGNd2",
     "name": "Finem Solis",
+    "duration_ms": 303915,
+    "explicit": false,
+    "track_number": 4,
     "artist": "God Is An Astronaut",
     "album": "Helios / Erebus",
     "bpm": 93.916,
@@ -118,6 +130,9 @@
   {
     "id": "7aoo1BL9EG19Px3NZqmwa6",
     "name": "Helios Erebus",
+    "duration_ms": 511071,
+    "explicit": false,
+    "track_number": 5,
     "artist": "God Is An Astronaut",
     "album": "Helios / Erebus",
     "bpm": 146.05,
@@ -147,6 +162,9 @@
   {
     "id": "7b6mPepsZVrd29bFtXXwDA",
     "name": "Obscura Somnia",
+    "duration_ms": 244993,
+    "explicit": false,
+    "track_number": 6,
     "artist": "God Is An Astronaut",
     "album": "Helios / Erebus",
     "bpm": 107.977,
@@ -176,6 +194,9 @@
   {
     "id": "70xBJCknSGUetki1kDZvn3",
     "name": "Centralia",
+    "duration_ms": 407181,
+    "explicit": false,
+    "track_number": 7,
     "artist": "God Is An Astronaut",
     "album": "Helios / Erebus",
     "bpm": 103.015,
@@ -205,6 +226,9 @@
   {
     "id": "4XYpg0UFJyBCK28N1R5LBw",
     "name": "Sea of Trees",
+    "duration_ms": 289317,
+    "explicit": false,
+    "track_number": 8,
     "artist": "God Is An Astronaut",
     "album": "Helios / Erebus",
     "bpm": 119.993,

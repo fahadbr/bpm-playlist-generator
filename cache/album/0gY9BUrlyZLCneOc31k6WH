@@ -2,6 +2,9 @@
   {
     "id": "1x5S0vAgfRiwdJjkSoUfwP",
     "name": "Mie",
+    "duration_ms": 249666,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Caspian",
     "album": "Tertia",
     "bpm": 98.48,
@@ -31,6 +34,9 @@
   {
     "id": "6OGj5QOCrp99SrtPk2uSDf",
     "name": "La Cerva",
+    "duration_ms": 299200,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Caspian",
     "album": "Tertia",
     "bpm": 82.986,
@@ -60,6 +66,9 @@
   {
     "id": "19uEjKDygVeRiY42jhtxiM",
     "name": "Ghosts Of The Garden City",
+    "duration_ms": 451160,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Caspian",
     "album": "Tertia",
     "bpm": 174.126,
@@ -89,6 +98,9 @@
   {
     "id": "5bTVgXa08huZRni3gJOhiP",
     "name": "Malacoda",
+    "duration_ms": 303586,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Caspian",
     "album": "Tertia",
     "bpm": 126.006,
@@ -118,6 +130,9 @@
   {
     "id": "0o3CO7xnINnhtmz3DTdTK5",
     "name": "Epochs in Dmaj",
+    "duration_ms": 199960,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Caspian",
     "album": "Tertia",
     "bpm": 93.232,
@@ -147,6 +162,9 @@
   {
     "id": "7lCt83sq0ZV6zCbTt9wA5Q",
     "name": "Of Foam and Wave",
+    "duration_ms": 376320,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Caspian",
     "album": "Tertia",
     "bpm": 160.677,
@@ -176,6 +194,9 @@
   {
     "id": "7jDQYsgC76RxniR2DmwxNE",
     "name": "Concrescence",
+    "duration_ms": 266026,
+    "explicit": false,
+    "track_number": 7,
     "artist": "Caspian",
     "album": "Tertia",
     "bpm": 95.004,
@@ -205,6 +226,9 @@
   {
     "id": "0cveBsH7HP0R7N5JujXO7U",
     "name": "The Raven",
+    "duration_ms": 430133,
+    "explicit": false,
+    "track_number": 8,
     "artist": "Caspian",
     "album": "Tertia",
     "bpm": 123.099,
@@ -234,6 +258,9 @@
   {
     "id": "7s2u7JmvLJ5DbTxOLEMqfF",
     "name": "Vienna",
+    "duration_ms": 374560,
+    "explicit": false,
+    "track_number": 9,
     "artist": "Caspian",
     "album": "Tertia",
     "bpm": 127.709,
@@ -263,6 +290,9 @@
   {
     "id": "7Lp6gYzsrAvuv0qPdAJ2yA",
     "name": "Sycamore",
+    "duration_ms": 545813,
+    "explicit": false,
+    "track_number": 10,
     "artist": "Caspian",
     "album": "Tertia",
     "bpm": 112.052,

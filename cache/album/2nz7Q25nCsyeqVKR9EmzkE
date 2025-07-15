@@ -2,6 +2,9 @@
   {
     "id": "5zxuK9lvDURAPw4qRKx9vM",
     "name": "Seventeen Years to Hatch an Invasion",
+    "duration_ms": 436078,
+    "explicit": false,
+    "track_number": 1,
     "artist": "Jard\u00edn de la Croix",
     "album": "Circadia",
     "bpm": 105.361,
@@ -31,6 +34,9 @@
   {
     "id": "7yDk2htmZTOEjzg4OaeM9N",
     "name": "Reversion",
+    "duration_ms": 465987,
+    "explicit": false,
+    "track_number": 2,
     "artist": "Jard\u00edn de la Croix",
     "album": "Circadia",
     "bpm": 131.67,
@@ -60,6 +66,9 @@
   {
     "id": "4vJ8EsjTeuVnvZ77acuZN9",
     "name": "Intermareals",
+    "duration_ms": 465165,
+    "explicit": false,
+    "track_number": 3,
     "artist": "Jard\u00edn de la Croix",
     "album": "Circadia",
     "bpm": 141.811,
@@ -89,6 +98,9 @@
   {
     "id": "4SabiXmsoW71sviDBLwHFk",
     "name": "Green Architect",
+    "duration_ms": 514302,
+    "explicit": false,
+    "track_number": 4,
     "artist": "Jard\u00edn de la Croix",
     "album": "Circadia",
     "bpm": 99.193,
@@ -118,6 +130,9 @@
   {
     "id": "2XhJR7vM5tJwcWzK1Hr72e",
     "name": "Trail from Alaska",
+    "duration_ms": 290609,
+    "explicit": false,
+    "track_number": 5,
     "artist": "Jard\u00edn de la Croix",
     "album": "Circadia",
     "bpm": 137.654,
@@ -147,6 +162,9 @@
   {
     "id": "6eXsEFW0hzgyLcwBfecMe4",
     "name": "Flowers and Carrion",
+    "duration_ms": 377993,
+    "explicit": false,
+    "track_number": 6,
     "artist": "Jard\u00edn de la Croix",
     "album": "Circadia",
     "bpm": 108.446,
